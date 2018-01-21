@@ -140,14 +140,14 @@ Een liquiditeitsverschaffer koopt en verkoopt SMD en STEEM. Zij nemen het groots
 
 Steem heeft een markt op de blockchain tussen SMD en STEEM. Gebruikers kunnen beloningen verdienen door liquiditeit aan beide zijden van deze markt te voorzien. De blockchain gebruikt een eenvoudig algoritme om de liquiditeit en comsumptie van elke gebruiker te rangschikken.
 
-Een gebruiker wordt beschouwd als een liquiditeitsverschaffer als ze een open order voor langer als 1 minuut op de boeken laten staan maar die uiteindelijk vervuld wordt. If the order is canceled before being filled then the user is not credited with providing liquidity.
+Een gebruiker wordt beschouwd als een liquiditeitsverschaffer als ze een open order voor langer als 1 minuut op de boeken laten staan maar die uiteindelijk vervuld wordt. Als de order is geannuleerd wordt voor hij vervuld is dan wordt de gebruiker niet gecrediteerd met het verstrekken van liquiditeit.
 
-Users must provide liquidity on both sides of the book to qualify for rewards and they must provide liquidity consistently over time. The scoring algorithm is:
+Gebruikers moeten liquiditeit bieden aan beide zijden van de boeken om in aanmerking komen voor beloningen en ze moeten de liquiditeit consequent leveren over verloop van tijd. Het scoren van het algoritme is:
 
       LiquidityPoints = NetBidVolume x NetAskVolume
     
 
-Every hour the account with the most LiquidityPoints receives 1200 STEEM and then has its LiquidityPoints reset to 0. An account that goes a week without earning any LiquidityPoints also has its points reset to 0. This means that whether you provide a large amount of liquidity or a small amount over a long period of time everyone gets a proportional amount of the rewards. If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
+Elk uur ontvangt het account met de meeste LiquidityPoints 1200 STEEM en vervolgens worden zijn LiquidityPoints teruggesteld op 0. Bij een account dat een week geen LiquidityPoints verdient heeft worden ook haar punten opnieuw ingesteld op 0. This means that whether you provide a large amount of liquidity or a small amount over a long period of time everyone gets a proportional amount of the rewards. If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
 
 ### Sustainable Debt to Ownership Ratios
 
