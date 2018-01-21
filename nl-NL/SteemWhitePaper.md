@@ -136,9 +136,9 @@ De blockchain bepaalt hoe en wanneer SMD moet gemaakt worden en wie dit moet kri
 
 Het is niet omdat SMD omgezet worden kan in de waarde van een doller in STEEM tegen een faire prijs in een redelijke tijdspanne dat het moet gezien worden als een betrouwbare dollarvervanging. Deze activa vereisen liquiditeit in een markt die onmiddellijke conversie mogelijk maakt tussen STEEM en SMD maakt. De maatregelen die een blockchain moet nemen om misbruik te voorkomen zorgen voor een verlaging van de kwaliteit van de converteerbare dollars. Om dit verlies aan kwaliteit te compenseren kan de blockchain een vaste beloning bieden aan liquiditeitsaanbieders. Alhoewel dat de potentiële verliezen door manipulatie en misbruik onbegrensd zijn, kunnen de kosten die liquiditeit aanmoedigen worden vastgelegd.
 
-Een liquiditeitsverschaffer koopt en verkoopt SMD en STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
+Een liquiditeitsverschaffer koopt en verkoopt SMD en STEEM. Zij nemen het grootste deel van het prijsrisico op korte termijn op zich evenals die voorraad op lange termijn en daardoor geven ze de rest van de marktdeelnemers met een uiterst liquide markt van hoge kwaliteit waarin ze kunnen handelen.
 
-Steem has an on-blockchain market between SMD and STEEM. Users can earn rewards by providing liquidity to both sides of this market. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
+Steem heeft een markt op de blockchain tussen SMD en STEEM. Gebruikers kunnen beloningen verdienen door liquiditeit aan beide zijden van deze markt te voorzien. De blockchain gebruikt een eenvoudig algoritme om de liquiditeit en comsumptie van elke gebruiker te rangschikken.
 
 A user is considered a liquidity provider if they leave an open order on the books for at least 1 minute and the order is eventually filled. If the order is canceled before being filled then the user is not credited with providing liquidity.
 
