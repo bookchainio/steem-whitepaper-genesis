@@ -140,7 +140,7 @@ Een liquiditeitsverschaffer koopt en verkoopt SMD en STEEM. Zij nemen het groots
 
 Steem heeft een markt op de blockchain tussen SMD en STEEM. Gebruikers kunnen beloningen verdienen door liquiditeit aan beide zijden van deze markt te voorzien. De blockchain gebruikt een eenvoudig algoritme om de liquiditeit en comsumptie van elke gebruiker te rangschikken.
 
-A user is considered a liquidity provider if they leave an open order on the books for at least 1 minute and the order is eventually filled. If the order is canceled before being filled then the user is not credited with providing liquidity.
+Een gebruiker wordt beschouwd als een liquiditeitsverschaffer als ze een open order voor langer als 1 minuut op de boeken laten staan maar die uiteindelijk vervuld wordt. If the order is canceled before being filled then the user is not credited with providing liquidity.
 
 Users must provide liquidity on both sides of the book to qualify for rewards and they must provide liquidity consistently over time. The scoring algorithm is:
 
