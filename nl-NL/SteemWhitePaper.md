@@ -6,7 +6,7 @@ Maart 2016
 
 # Noten van de vertaler
 
-Vertaald door **@stino-san** (https://steemit.com/steem/@stino-san/steem-whitepaper-dutch-part-1).
+.
 
 # Abstract
 
@@ -175,9 +175,9 @@ Oplettende lezers zullen erkennen dat een intrest dragend activa met beperkte op
 
 Als Steem Feed producenten pogen een onafhankelijke financiele richtlijn te hebben die toestaat om Steem Dollars aan te maken en te vernietigen en daarbij de volle controle te behouden over de intres dan zullen ze problemen krijgen. De Onmogelijke Drievuldigheid zegt dat Steem Dollars of beweging van Valuta moeten beperken, een onstabiele wisselkoers met de dollar moeten hebben of een beperkte controle over de intrestvoet.
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SMD and the U.S. Dollar (USD). Any time SMD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+De grootste zorg van de Steem Feed producenten is om een stabiele overgang te behouden tussen SMD en de USD. Vanaf de SMD langere tijd verhandeld wordt boven de $1.00 USD dan moeten de uitbetalingen van intrest gestopt worden. In een markt waar 0% intrest op een schuld nog altijd hoog ingeschat wordt is het veilig om te zeggen dat de markt meer krediet kan verstrekken dan de gemeenschap will accepteren. Als het voorkomt dat een SMD meer waard is dan $1.00 dan is er weinig dat de gemeenschap kan doen buiten negatieve intrest aanrekenen.
 
-If the debt-to-ownership ratio is under 10% and SMD is trading for less than $1.00 then the interest rate should be increased. This will encourage more people to hold their SMD and support the price.
+Als de schuld vs eigendom ratio lager is dan 10% en de SMD wordt verhandeld voor minder dan $1.00 dan moet de intrestvoet verhoogd worden. Dit zal mensen aanmoedigen om hun SMD te behouden en zo de prijst te ondersteunen.
 
 If SMD trades for less than $1.00 USD and the debt-to-ownership ratio is over 10% then the feeds should be adjusted upward give more STEEM per SMD. This will increase demand for SMD while also reducing the debt-to-ownership ratio and returning SMD to parity with USD.
 
