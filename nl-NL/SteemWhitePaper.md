@@ -167,13 +167,13 @@ STEEM en SP houders krijgen kracht wanneer leden van de Gemeenschap bereid zijn 
 
 ### Prijs Feeds instellen
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Oplettende lezers zullen erkennen dat een intrest dragend activa met beperkte oplage hoger of lager verhandeld kan worden dan de onderliggende waarde afhankelijk van andere mogelijkheden om te verdienen rente op hetzelfde activa. Met een hoge intrest die betaald word op een activa gekoppeld aan de USD zullen mensen het beperkte aantal Steem Dollars hoogbieden to ze niet meer aan 1 dollar geschat worden. In de economie is er een principe gekend als de onmogelijke drievuldigheid [^4] die zegt dat het onmogelijk is om de volgende drie dingen tegelijk te hebben:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. Een stabiele wisselkoers
+2. Vrije beweging van valuta
+3. Een onafhankelijke financiele richtlijn
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+Als Steem Feed producenten pogen een onafhankelijke financiele richtlijn te hebben die toestaat om Steem Dollars aan te maken en te vernietigen en daarbij de volle controle te behouden over de intres dan zullen ze problemen krijgen. De Onmogelijke Drievuldigheid zegt dat Steem Dollars of beweging van Valuta moeten beperken, een onstabiele wisselkoers met de dollar moeten hebben of een beperkte controle over de intrestvoet.
 
 The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SMD and the U.S. Dollar (USD). Any time SMD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
