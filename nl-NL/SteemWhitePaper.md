@@ -157,11 +157,11 @@ Voor elke SMD die Steem maakt, wordt er ook $19,00 aan STEEM gemaakt en geconver
 
 Het idee achter het hebben van een conservatieve 5% schuld tot eigendom ratio is dat zelfs als alle schuld werd omgezet en verkocht er voldoende kopers zouden moeten zijn en de effectieve verdunning van de token houders daardoor relatief klein blijft.
 
-A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SMD and SP (as determined by the current rate / feed).
+Een snelle verandering in de waarde van STEEM kan dramatisch de ratio van schuld-naar-eigendom veranderen. Het percentages die gebruikt worden om te berekenen hoeveel STEEM creatie nodig is zijn gebaseerd op de levering met inbegrip van de STEEM waarde van alle uitstaande SMD en SP (zoals bepaald door de huidige koers / feed).
 
-### Interest
+### Intrest
 
-SMD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SMD betaalt rente aan de houders. De hoogte van de intrest wordt bepaald door de zelfde mensen die de prijs feed publiceren zodat het zich kan aanpassen aan veranderende marktomstandigheden. Alle schuld draagt een risico voor de kredietgever. Iemand die SMD behoud zonder die om te zetten is effectief leningen aan Gemeenschap aan het geven ter waarde van een dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
 STEEM and SP holders gain leverage when members of the community are willing to hold SMD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
