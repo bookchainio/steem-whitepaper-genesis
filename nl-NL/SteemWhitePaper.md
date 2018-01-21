@@ -161,11 +161,11 @@ Een snelle verandering in de waarde van STEEM kan dramatisch de ratio van schuld
 
 ### Intrest
 
-SMD betaalt rente aan de houders. De hoogte van de intrest wordt bepaald door de zelfde mensen die de prijs feed publiceren zodat het zich kan aanpassen aan veranderende marktomstandigheden. Alle schuld draagt een risico voor de kredietgever. Iemand die SMD behoud zonder die om te zetten is effectief leningen aan Gemeenschap aan het geven ter waarde van een dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SMD betaalt rente aan de houders. De hoogte van de intrest wordt bepaald door de zelfde mensen die de prijs feed publiceren zodat het zich kan aanpassen aan veranderende marktomstandigheden. Alle schuld draagt een risico voor de kredietgever. Iemand die SMD behoud zonder die om te zetten is effectief leningen aan Gemeenschap aan het geven ter waarde van een dollar. Ze vertrouwen erop dat op een bepaald punt in de toekomst iemand bereid zal zijn de SMD van hen te kopen voor een dollar of dat er speculanten en investeerders bereid zullen zijn om STEEM te kopen.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SMD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+STEEM en SP houders krijgen kracht wanneer leden van de Gemeenschap bereid zijn SMD te houden. Deze hefboom versterkt de groeivoordelen en draagt er terwijl ook toe. STEEM houders hebben last van verhoogde vermindering als de prijs daalt. Cryptocurrency projecten hebben aangetoond dat de voordelen van een groei van gebruikers die het netwerk vertrouwen met kapitaal uiteindelijk meer waarde toevoegen aan het netwerk dan enigerlei verdunning die tijdens een recessie optreden kan.
 
-### Setting Price Feeds
+### Prijs Feeds instellen
 
 Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
