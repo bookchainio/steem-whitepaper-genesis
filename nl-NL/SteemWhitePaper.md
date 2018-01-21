@@ -147,11 +147,11 @@ Gebruikers moeten liquiditeit bieden aan beide zijden van de boeken om in aanmer
       LiquidityPoints = NetBidVolume x NetAskVolume
     
 
-Elk uur ontvangt het account met de meeste LiquidityPoints 1200 STEEM en vervolgens worden zijn LiquidityPoints teruggesteld op 0. Bij een account dat een week geen LiquidityPoints verdient heeft worden ook haar punten opnieuw ingesteld op 0. This means that whether you provide a large amount of liquidity or a small amount over a long period of time everyone gets a proportional amount of the rewards. If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
+Elk uur ontvangt het account met de meeste LiquidityPoints 1200 STEEM en vervolgens worden zijn LiquidityPoints teruggesteld op 0. Bij een account dat een week geen LiquidityPoints verdient heeft worden ook haar punten opnieuw ingesteld op 0. Dit betekent dat als u een grote hoeveelheid liquiditeit biedt op korte termijn of een kleine hoeveelheid gedurende een lange periode dat iedereen een evenredig bedrag van de beloningen krijgt. Als NetBidVolume of NetAskVolume negatief is, dan worden de LiquidityPoints beschouwd als 0.
 
-### Sustainable Debt to Ownership Ratios
+### Duurzame schuld vs. eigendomsratio 's
 
-If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+Als een token wordt beschouwd als eigendom in de hele tokencyclus, kan dan een token-wissel-dollar worden beschouwd als schuld. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
 
 For every SMD Steem creates, $19.00 of STEEM is also created and converted to SP. This means that the highest possible debt-to-ownership in a stable market is 1:19 or about 5%. If Steem falls in value by 50% then the ratio could increase to 10%. An 88% fall in value of STEEM could cause the debt-to-ownership ratio to reach 40%. Assuming the value of STEEM eventually stabilizes, the debt-to-ownership ratio will naturally move back toward 5%.
 
