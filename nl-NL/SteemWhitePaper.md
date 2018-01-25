@@ -10,7 +10,7 @@ Maart 2016
 
 # Abstract
 
-Steem is een blockchain databank dat het vormen van gemeenschappen en sociale interactie ondersteund met cryptogeld beloningen. Steem combineert concepten uit sociale media met lessen uit het bouwen van cryptogeld en hun gemeenschappen. Een belangrijk onderdeel bij het inspireren van deelname in elke gemeenschap, valuta of vrije markteconomie is een eerlijk boekhoudkundig systeem dat de bijdrage van elke persoon consequent weerspiegelt. Steem is de eerste cryptovaluta dat probeert om op nauwkeurige en transparante wijze een onbegrensd aantal personen te belonen die *subjectief bijdragen* aan de gemeenschap.
+Steem is een blockchain databank dat het vormen van gemeenschappen en sociale interactie ondersteund met cryptogeld beloningen. Steem combineert concepten uit sociale media met lessen uit het bouwen van cryptogeld en hun gemeenschappen. Een belangrijk onderdeel bij het inspireren van deelname in elke gemeenschap, valuta of vrije markteconomie is een eerlijk boekhoudkundig systeem dat de bijdrage van elke persoon consequent weerspiegelt. Steem is de eerste cryptovaluta die probeert om op nauwkeurige en transparante wijze een onbegrensd aantal personen te belonen die *subjectief bijdragen* aan de gemeenschap.
 
 # Inhoudsopgave
 
