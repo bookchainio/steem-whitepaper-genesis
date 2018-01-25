@@ -22,14 +22,14 @@ Steem یک پایگاه داده ای زنجیرهٔ بلوکی است که با
 
 برخی اصول کلیدی جهت استفاده برای هدایت طراحی Steem وجود دارد. مهمترین اصل این است که هر کس که در سرمایه گذاری مشارکت کند باید سهم خودرا از مالکیت، پرداخت یا بدهی سرمایه گذاری دریافت کند. این اصل همان اصل است که در مورد همه سهامداران اعمال می شود، چرا که سهم آنها را در زمان ایجاد و در دوران تامین مالی بعدی مشخص می کند.
 
-اصل دوم این است که ارزش هرنوع سرمایه ای به یک اندازه است. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+اصل دوم این است که ارزش هرنوع سرمایه ای به یک اندازه است. این به این معنی است که کسانی که ازطریق صرف اندکی زمان و توجه برای تولید محتوا برای دیگران مشارکت میکنند، به اندازه ی کسانی که با صرف اندکی پول مشارکت میکنند، ارزشمندند. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+اصل سوم این است که جامعه محصولات را برای ارائه به اعضای خود تولید می کند. این اصل نمونه ای از اتحادیه های اعتباری، تعاونی های غذایی و برنامه های به اشتراک گذاری بهداشت است، که به جای فروش محصولات یا خدمات به افراد خارج از جامعه، به اعضای جامعه خود خدمت می کنند.
 
-The Steem community provides the following services to its members:
+انجمن Steem خدمات زیر را برای اعضای خود فراهم می کند:
 
 1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
+2.  این به این معنی دریافت پاسخ سوالات شخصی با کیفیت بالا.
 3. A stable cryptocurrency pegged to the U.S. dollar.
 4. Free payments.
 5. Jobs providing above services to other members.
