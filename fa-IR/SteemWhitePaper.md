@@ -31,10 +31,10 @@ Steem یک پایگاه داده ای زنجیرهٔ بلوکی است که با
 1. A source of curated news and commentary.
 2.  این به این معنی دریافت پاسخ سوالات شخصی با کیفیت بالا.
 3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
+4. پرداخت های رایگان.
 5. Jobs providing above services to other members.
 
-Steem's purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
+Steem's purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. این مقاله زمینه های اقتصادی موجود را کشف میکند و نشان می دهد که انگیزه های Steem میتواند نتایج بهتری برای اکثر شرکت کنندگان به ارمغان بیاورد.
 
 ## Recognizing Contribution
 
