@@ -76,7 +76,7 @@ Steem واحد اصلی حساب در زنجیره بلوکی Steem است. تم
 
 STEEM با توجه به مشوق های غیرSMD، سالانه باعرضه 100٪ افزایش می یابد. نگهداری STEEM بدون تبدیل آن به SP، تقریبا 0.19٪ در روزافت ارزش دارد. در حالی که نرخ ممکن است به نظر بالا برسد ، برای معاملاتی که کمتر از 10 روزطول بکشد، هنوز ارزان تر از هزینه پردازش کارت اعتباری است. Furthermore, the daily token creation is insignificant next to the daily volatility.
 
-کسی که بیت کوین یا هر نوع ارز رمزی دیگر را خریداری می کند و 10 روز بعد آن را می فروشد، به دلیل نوسان قیمت ها می تواند به راحتی 3٪ یا بیشتر ضررکند. Someone who buys Bitcoin and then sells it the same day will usually pay more than 0.4% in market fees alone. In other words, the inflation rate is effectively insignificant during the period of time the typical individual will hold STEEM.
+کسی که بیت کوین یا هر نوع ارز رمزی دیگر را خریداری می کند و 10 روز بعد آن را می فروشد، به دلیل نوسان قیمت ها می تواند به راحتی 3٪ یا بیشتر ضررکند.  کسی که Bitcoin را خریداری می کند و سپس آن را در همان روز می فروشد، معمولا فقط در هزینه های بازار بیش از 0.4٪ می پردازد. به عبارت دیگر، نرخ تورم به طور موثر در طول دوره زمانی که فردSTEEM را نگه می دارد، ناچیز است.
 
 The majority of inflation is actually an accounting artifact rather than true reallocation of wealth. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
 
