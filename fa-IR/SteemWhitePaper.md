@@ -2,21 +2,21 @@
 
 ## An incentivized, blockchain-based social media platform.
 
-March 2016
+مارس 2016
 
 # Translator's notes
 
 Placeholder for translator's notes.
 
-# Abstract
+# چکیده
 
-Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Steem یک پایگاه داده ای زنجیرهٔ بلوکی است که با ارائه ی رمز ارزی از ایجاد اجتماع و تعامل اجتماعی پشتیبانی می کند. Steem مفاهیم رسانه های اجتماعی را با درسهایی که از ساختن رمزارزی و جوامع آنها بدست میاید ترکیب میکند.  یک راه مهم برای افزایش مشارکت درهر اجتماع، ارز یا اقتصاد بازارآزاد، یک سیستم حسابداری منصفانه است که به طور مداوم سهم هر فرد را نشان می دهد. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
 
-# Table of Contents
+# فهرست مندرجات
 
 <!-- toc -->
 
-# Introduction
+# مقدمه
 
 Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
 
