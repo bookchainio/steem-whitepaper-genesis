@@ -72,11 +72,11 @@ Voting input from community members is critical for Steem to accurately allocate
 
 ## Steem (STEEM)
 
-Steem واحد اصلی حساب در زنجیره بلوکی Steem است. تمام نشانه های دیگر ارزش خود را از ارزش STEEM می گیرند. Generally speaking STEEM should be held for short periods of time when liquidity is needed. Someone looking to enter or exit the Steem platform will have to buy or sell STEEM. Once STEEM has been purchased it should be converted into SP or SMD to mitigate the impact of dilution over the long-term.
+Steem واحد اصلی حساب در زنجیره بلوکی Steem است. تمام نشانه های دیگر ارزش خود را از ارزش STEEM می گیرند.  به طور کلی STEEM باید زمانی که نقدینگی مورد نیاز است برای مدت زمان کوتاهی نگهداری شود.  کسی که قصد ورود یا خروج از پلات فرم Steem را دارد باید STEEM خرید یا فروش کند. هنگامی که STEEM خریداری شد، باید به SP یا SMD تبدیل شود تا تأثیرافت ارزش را در طولانی مدت کاهش دهد.
 
-STEEM is constantly increasing in supply by 100% per year due to non-SMD incentives. Someone who holds STEEM without converting it to SP is diluted by approximately 0.19% per day. While the rate may appear high, for transactions that take less than 10 days, it is still cheaper than credit card processing fees. Furthermore, the daily token creation is insignificant next to the daily volatility.
+STEEM با توجه به مشوق های غیرSMD، سالانه باعرضه 100٪ افزایش می یابد. نگهداری STEEM بدون تبدیل آن به SP، تقریبا 0.19٪ در روزافت ارزش دارد. در حالی که نرخ ممکن است به نظر بالا برسد ، برای معاملاتی که کمتر از 10 روزطول بکشد، هنوز ارزان تر از هزینه پردازش کارت اعتباری است. Furthermore, the daily token creation is insignificant next to the daily volatility.
 
-Someone who buys Bitcoin or any other cryptocurrency and sells it 10 days later could easily lose 3% or more due to price fluctuations. Someone who buys Bitcoin and then sells it the same day will usually pay more than 0.4% in market fees alone. In other words, the inflation rate is effectively insignificant during the period of time the typical individual will hold STEEM.
+کسی که بیت کوین یا هر نوع ارز رمزی دیگر را خریداری می کند و 10 روز بعد آن را می فروشد، به دلیل نوسان قیمت ها می تواند به راحتی 3٪ یا بیشتر ضررکند. Someone who buys Bitcoin and then sells it the same day will usually pay more than 0.4% in market fees alone. In other words, the inflation rate is effectively insignificant during the period of time the typical individual will hold STEEM.
 
 The majority of inflation is actually an accounting artifact rather than true reallocation of wealth. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
 
