@@ -54,19 +54,19 @@ The challenge is creating a system capable of identifying what contributions are
 
 از آنجا یی که بازار آزاد یک سیستم اثبات شده است، سعی درایجاد یک سیستم بازارآزاد که در آن مصرف کنندگان به طور مستقیم به تولید کنندگان پرداخت می کنند وسوسه انگیز است. However, direct payment is inefficient and not really viable for content creation and curation. ارزش بسیاری از محتویات نسبت به هزینه های شناختی، مالی و فرصتی انقدرکم است که تعداد کمی از خوانندگان تصمیم به پرداخت انعام میگیرند. The abundance of free alternatives means that enforcing a 'paywall' will drive readers elsewhere. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
 
-Steem برای ایجاد میکروپردازهای موثر برای هرنوع مشارکت با تغییرمعادلات اقتصادی طراحی شده است. خوانندگان دیگر مجبور نیستند تصمیم بگیرند که آیا آنها میخواهند به کسی از جیب خود بپردازند یا نه. آنها می توانند به محتوا رای بالا یا پایین دهند و Steem ارائ خودشان را برای تعیین پاداش های فردی استفاده خواهد کرد. This means that people are given a familiar and widely used interface and no longer face the cognitive, nancial, and opportunity costs associated traditional micropayment and tipping platforms.
+Steem برای ایجاد میکروپردازهای موثر برای هرنوع مشارکت با تغییرمعادلات اقتصادی طراحی شده است. خوانندگان دیگر مجبور نیستند تصمیم بگیرند که آیا آنها میخواهند به کسی از جیب خود بپردازند یا نه. آنها می توانند به محتوا رای بالا یا پایین دهند و Steem ارائ خودشان را برای تعیین پاداش های فردی استفاده خواهد کرد. این به این معنی است که یک خط اتصال آشنا وپر استفاده در اختیار افراد قرار می گیرد و دیگرمجبورنیستند باهزینه های شناختی، مالی و فرصت های مرتبط با سیستم های میکروپردازسنتی و پلاتفرم های انعامی کار کنند.
 
 Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation [^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
 
-There are other forms of contribution that Steem recognizes and rewards using objective metrics. Among these are: transaction validation, proof of work mining, liquidity rewards, and reporting of misbehaving block producers.
+اشکال دیگری از مشارکت وجود دارد که Steemم با استفاده از معیارهای عینی شناسایی میکند و پاداش می دهد. Among these are: transaction validation, proof of work mining, liquidity rewards, and reporting of misbehaving block producers.
 
-# Ways to Contribute
+# روش های مشارکت
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+این بخش ایده های پشت Steem و پاداش های آن را برای افرادی که مشارکت معنی دار و قابل اندازه گیری به جامعه Steem ارائه می دهند، را تشریح می کند.
 
-## Capital Contributions
+## مشارکت سرمایه
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+دو مورد وجود دارد که یک جامعه می تواند برای جذب سرمایه پیشنهاد بدهد: بدهی و مالکیت. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SMD).
 
