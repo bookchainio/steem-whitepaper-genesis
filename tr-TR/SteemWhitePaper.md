@@ -22,9 +22,9 @@ Toplu olarak, kullanıcı tarafından yaratılmış içerik olan reddit, Faceboo
 
 Steem'in tasarımına rehberlik etmek için kullanılmış olan bazı ana ilkeler vardır. En önemli ilke, bir girişime katkıda bulunmuş olan herkesin, girişimden göreceli bir oranda hisse, ödeme veya borç alıyor olmasıdır. Bu ilke, kuruluş aşamasında ve sonrasında ki fonlama turlarında, hisse dağıtan tüm yeni başlayanlara uygulanan ilkenin aynısıdır.
 
-İkinci ilke, tüm sermaye çeşitlerinin eşit derecede değerli olmasıdır. Bu şu anlama gelir: Kısıtlı zamanlarını ve dikkatlerini diğerleri için içerik üreterek ve küratörlük yaparak platforma katkı olarak sunanlar, kısıtlı nakitlerini katkı olarak sunanlarla aynı oranda değerlidir. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+İkinci ilke, tüm sermaye çeşitlerinin eşit derecede değerli olmasıdır. Bu şu anlama gelir: Kısıtlı zamanlarını ve dikkatlerini diğerleri için içerik üreterek ve küratörlük yaparak platforma katkı olarak sunanlar, kısıtlı nakitlerini katkı olarak sunanlarla aynı oranda değerlidir. Bu ter eşitliği ilkesidir[^2] ve önceki birçok kripto para birimi, sınırlı sayıda insandan fazlasına refah sağlamak konusunda bu kavram ile sıkıntı yaşamıştır.
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+Üçüncü ilke, topluluğun üyelerine hizmet edebilmek için ürünler üretiyor olmasıdır. Bu ilke, kendi topluluklarının dışına mal ya da hizmet satmaktansa sadece kendi üyelerine hizmet eden kredi birlikleri, yemek kooperatifleri, sağlık paylaşım planları üzerinden örneklendirilebilir.
 
 The Steem community provides the following services to its members:
 
