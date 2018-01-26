@@ -56,13 +56,13 @@ Serbest piyasa rüşdünü ispat etmiş bir sistem olduğundan, içerik tüketic
 
 Steem ekonomik denklemi değiştirerek, her türden katkı için yapılacak mikro ödemelere imkan tanıyabilmek için tasarlandı. Okuyucular bundan böyle kimseye kendi ceplerinden para ödeyip ödememe kararını vermek zorunda değil. Bunun yerine, onlar sadece bir içeriği aşağı ya da yukarı oylayabilir ve Steem bireysel ödülleri belirlemek için onların oylarını kullanacaktır. Bu ise, insanlara çokça kullanılan ve tanıdık bir arayüz verilmesi, ve onların geleneksel mikro ödeme ve bahşiş platformlarıyla ilintili bilişsel, mali ve fırsat maliyetleri ile yüzleşmek zorunda kalmamaları anlamına gelir.
 
-Topluluk üyelerinden gelen oy girdisi, Steem'in katkı sunanlara yapılacak ödemeleri isabetli bir şekilde dağıtması için kritik bir öneme sahiptir. Bundan ötürü oylama mühim bir katkı sunma biçimi olarak görülebilir ve kendisi, başlı başına, bir ödülü hak etmektedir. Slashdot gibi bazı platformlar dürüst moderatörleri sıralamak ve ödüllendirmek için meta-moderation'u[^3] kullanır. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+Topluluk üyelerinden gelen oy girdisi, Steem'in katkı sunanlara yapılacak ödemeleri isabetli bir şekilde dağıtması için kritik bir öneme sahiptir. Bundan ötürü oylama mühim bir katkı sunma biçimi olarak görülebilir ve kendisi, başlı başına, bir ödülü hak etmektedir. Slashdot gibi bazı platformlar dürüst moderatörleri sıralamak ve ödüllendirmek için meta-moderation'u[^3] kullanır. Steem ise, bir içeriğin toplam tanıtımına en fazla katkıda bulunanları ödüllendirmeyi tercih eder ve oylayanları da yazara ödenmiş nihai ödül üzerinden orantılı olarak ödüllendirir.
 
-There are other forms of contribution that Steem recognizes and rewards using objective metrics. Among these are: transaction validation, proof of work mining, liquidity rewards, and reporting of misbehaving block producers.
+Steem'in objektif metrikleri kullanarak tanıdığı ve ödüllendirdiği diğer katkılarda vardır. Bunların arasında: işlem geçerliliği, çalışma kanıtı madenciliği, likidite ödülleri ve yanlış çalışan blok üreticilerinin raporlanması.
 
-# Ways to Contribute
+# Katkıda Bulunma Yolları
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+Bu bölüm, Steem'in arkasında yatan fikirler ve onun Steem topluluğuna anlamlı ve ölçülebilir katkılarda bulunan üyelerine sunduğu ödüller hakkında genel bir çerçeve çizer.
 
 ## Capital Contributions
 
