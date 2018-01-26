@@ -6,11 +6,11 @@ Maret 2016
 
 # Catatan penerjemah
 
-Placeholder for translator's notes.
+Otoritas untuk catatan penerjemah.
 
-# Abstract
+# Abstrak
 
-Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Steem adalah basis data blockchain yang mendukung pembangunan komunitas dan interaksi sosial dengan penghargaan mata uang kripto. Steem menggabungkan konsep dari media sosial dengan pelajaran yang dipelajari dari membangun kripto serta komunitas mereka. Kunci penting untuk menginspirasi partisipasi dalam setiap komunitas, mata uang atau ekonomi pasar bebas ialah sistem akuntansi yang adil serta konsisten mencerminkan kontribusi setiap orang. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
 
 # Table of Contents
 
