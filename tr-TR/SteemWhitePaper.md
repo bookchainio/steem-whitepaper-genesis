@@ -26,15 +26,15 @@ Steem'in tasarımına rehberlik etmek için kullanılmış olan bazı ana ilkele
 
 Üçüncü ilke, topluluğun üyelerine hizmet edebilmek için ürünler üretiyor olmasıdır. Bu ilke, kendi topluluklarının dışına mal ya da hizmet satmaktansa sadece kendi üyelerine hizmet eden kredi birlikleri, yemek kooperatifleri, sağlık paylaşım planları üzerinden örneklendirilebilir.
 
-The Steem community provides the following services to its members:
+Steem topluluğu üyelerine, aşağıda yer alan hizmetleri sunar:
 
-1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
-5. Jobs providing above services to other members.
+1. Küratörlüğü yapılmış, haber ve yorum kaynağı.
+2. Kişiselleştirilmiş sorulara, yüksek kalitede yanıtlar alma araçları.
+3. Değeri Amerikan Doları'na sabitlenmiş, istikrarlı bir kripto para birimi.
+4. Ücretsiz ödemeler.
+5. Yukarı da ki hizmetleri, diğer üyelere sağlayacak servisler.
 
-Steem's purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
+Steem'in ekonomik teşvikleri bir amaca yönelik olarak yeniden düzenlemesi, ilgili herkes açısından kendinden önceki sosyal medya ve kripto para birimi platformlarındakinden çok daha adil ve kapsayıcı sonuçlar üretme potansiyeline sahiptir. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
 
 ## Recognizing Contribution
 
