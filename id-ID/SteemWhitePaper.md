@@ -22,7 +22,7 @@ Secara bersama, pengguna yang membuat konten telah menghasilkan nilai berjumlah 
 
 Terdapat beberapa kunci dasar yang telah digunakan untuk membimbing desain dari Steem. Dasar yang paling penting adalah bahwa setiap orang yang berkontribusi terhadap usaha harus menerima pro rata kepemilikan, pembayaran, atau hutang dari usaha tersebut. Prinsip ini adalah prinsip yang sama yang telah diterapkan pada semua startup sebagai pengalokasi saham pada pendirian dan selama putaran pendanaan berikutnya.
 
-Dasar kedua adalah bahwa semua bentuk modal bernilai sama. Ini menunjukkan bahwa siapa saja yang menyumbangkan waktu serta perhatian mereka yang langka untuk memproduksi dan memberi kurasi pada konten untuk orang lain sama berharganya dengan mereka yang menyumbang uang mereka yang langka. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+Dasar kedua adalah bahwa semua bentuk modal bernilai sama. Ini menunjukkan bahwa siapa saja yang menyumbangkan waktu serta perhatian mereka yang langka untuk memproduksi dan memberi kurasi pada konten untuk orang lain sama berharganya dengan mereka yang menyumbang uang mereka yang langka. Ini adalah dasar ekuitas keringat[^2] dan merupakan sebuah konsep bahwa mata uang kripto di masa lalu sering mengalami kesulitan menyediakan lebih dari beberapa lusin individu.
 
 The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
 
