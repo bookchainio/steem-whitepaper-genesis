@@ -34,11 +34,11 @@ Steem topluluğu üyelerine, aşağıda yer alan hizmetleri sunar:
 4. Ücretsiz ödemeler.
 5. Yukarı da ki hizmetleri, diğer üyelere sağlayacak servisler.
 
-Steem'in ekonomik teşvikleri bir amaca yönelik olarak yeniden düzenlemesi, ilgili herkes açısından kendinden önceki sosyal medya ve kripto para birimi platformlarındakinden çok daha adil ve kapsayıcı sonuçlar üretme potansiyeline sahiptir. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
+Steem'in ekonomik teşvikleri bir amaca yönelik olarak yeniden düzenlemesi, ilgili herkes açısından kendinden önceki sosyal medya ve kripto para birimi platformlarındakinden çok daha adil ve kapsayıcı sonuçlar üretme potansiyeline sahiptir. Bu makale mevcut ekonomik teşvikleri inceleyecek ve Steem teşviklerinin, katılımcıların çoğunlugu için nasıl daha iyi sonuçlar üretebileceğini gösterecektir.
 
-## Recognizing Contribution
+## Katkıyı tanımlamak
 
-Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+Steem sosyal medya temelli ekonominin bensimsenmesinin ve parasallaştırılmasının önündeki en büyük engelleri ortadan kaldırmaya yönelik olarak temelden tasarlanmıştır. Bizim tezimiz sosyal medya platformlarının, büyümesi için kullanılan aynı tekniklerin başarılı bir kripto para birimine ön ayak olmak için de kullanılabileceğidir. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
 The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
 
