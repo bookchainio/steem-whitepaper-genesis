@@ -64,7 +64,7 @@ Steem'in objektif metrikleri kullanarak tanıdığı ve ödüllendirdiği diğer
 
 Bu bölüm, Steem'in arkasında yatan fikirler ve onun Steem topluluğuna anlamlı ve ölçülebilir katkılarda bulunan üyelerine sunduğu ödüller hakkında genel bir çerçeve çizer.
 
-## Capital Contributions
+## Sermaye Katkıları
 
 There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
