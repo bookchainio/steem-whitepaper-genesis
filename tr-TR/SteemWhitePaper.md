@@ -46,7 +46,7 @@ Mevcut platformlar bir kullanıcı, bir oy ilkesi üzerine çalışır. Bu, sır
 
 Steem platformu üzerindeki temel hesap birimi, bir kripto para birimi olan STEEM'dir. Steem, bir-STEEM bir-oy temelinde çalışır. Bu modelde, hesap bakiyesiyle ölçüldüğü şekliyle, platforma en çok katkıda bulunan kişiler katkıların nasıl puanlandığı üzerinde çok fazla etkiye sahiptir. Dahası, Steem kullanıcılarına sadece vadeli yatırım çizelgesine oturtulmuş olan STEEM ile oy kullanma hakki tanır. Bu modele göre, üyelere kendi STEEM'lerinin uzun vadeli değerini en üst düzeye çıkartacak şekilde oy kullanmaları için maddi bir teşvik vardır.
 
-Steem is designed around a relatively simple concept: *everyone's meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
+Steem çok basit bir kavramın çevresinde tasarlanmıştır: *herkesin topluluğa yaptığı anlamlı katkıları, yarattığı değer kadar takdir görmelidir.* İnsanlar anlamlı katkıları için takdir gördüklerinde katkı yapmaya devam ederler ve topluluk büyür. Bir topluluk içerisindeki alma ve verme arasındaki herhangi bir dengesizlik hali sürdürülebilir değildir. Eventually the givers grow tired of supporting the takers and disengage from the community.
 
 The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
 
