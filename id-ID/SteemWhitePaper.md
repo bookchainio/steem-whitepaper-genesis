@@ -30,11 +30,11 @@ Komunitas steem menyediakan pelayanan sebagai berikut kepada anggotanya:
 
 1. Sumber berita serta komentar yang dikuratori.
 2. Sarana untuk mendapatkan jawaban dengan kualitas tinggi atas pertanyaan yang dipersonalisasikan.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
-5. Jobs providing above services to other members.
+3. Mata uang kripto yang stabil dengan patokan pada dolar As.
+4. Pembayaran gratis.
+5. Layanan penyediaan kerja kepada anggota lain.
 
-Steem's purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
+Penataan ulang insentif ekonomi oleh Steem memiliki potensi untuk mendapatkan hasil yang lebih adil dan lebih terhitung untuk semua orang yang terlibat ketimbang media sosial dan platform mata uang kripto yang telah ada sebelumnya. Makalah ini akan mengeksplorasi insentif ekonomi yang sudah ada dan menunjukkan bagaimana insentif Steem bisa memperoleh hasil yang lebih baik bagi sebagian besar partisipan.
 
 ## Recognizing Contribution
 
