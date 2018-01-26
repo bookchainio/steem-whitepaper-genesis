@@ -1,10 +1,10 @@
 # Steem
 
-## An incentivized, blockchain-based social media platform.
+## Platform media sosial berbasis blockchain yang memberikan penghasilan tambahan.
 
-March 2016
+Maret 2016
 
-# Translator's notes
+# Catatan penerjemah
 
 Placeholder for translator's notes.
 
