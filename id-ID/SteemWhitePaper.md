@@ -24,12 +24,12 @@ Terdapat beberapa kunci dasar yang telah digunakan untuk membimbing desain dari 
 
 Dasar kedua adalah bahwa semua bentuk modal bernilai sama. Ini menunjukkan bahwa siapa saja yang menyumbangkan waktu serta perhatian mereka yang langka untuk memproduksi dan memberi kurasi pada konten untuk orang lain sama berharganya dengan mereka yang menyumbang uang mereka yang langka. Ini adalah dasar ekuitas keringat[^2] dan merupakan sebuah konsep bahwa mata uang kripto di masa lalu sering mengalami kesulitan menyediakan lebih dari beberapa lusin individu.
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+Dasar ketiga adalah bahwa komunitas menghasilkan produk untuk melayani anggotanya. Dasar ini dicontohkan dari serikat kredit, koperasi makanan, dan rencana pembagian kesehatan, yang melayani anggota komunitas mereka dengan menjual produk atau layanan kepada orang-orang yang berada di luar komunitas.
 
-The Steem community provides the following services to its members:
+Komunitas steem menyediakan pelayanan sebagai berikut kepada anggotanya:
 
-1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
+1. Sumber berita serta komentar yang dikuratori.
+2. Sarana untuk mendapatkan jawaban dengan kualitas tinggi atas pertanyaan yang dipersonalisasikan.
 3. A stable cryptocurrency pegged to the U.S. dollar.
 4. Free payments.
 5. Jobs providing above services to other members.
