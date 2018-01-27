@@ -74,7 +74,7 @@ Steem ağı bu farklı malvarlığı sınıflarını Steem (STEEM), Steem Power 
 
 Steem, Steem blockchain'i üzerindeki temel hesap birimidir. Diğer tüm tokenlar kendi değerlerini STEEM'in değeri üzerinden sağlarlar. Nakit gerekli olduğunda genel olarak STEEM'in kısa sürede elde tutulması gerekir. Steem Platformuna giren veya çıkan birisinin STEEM alması veya satması gerekecektir. STEEM satın alındığında, seyreltmenin uzun vadedeki etkisini hafifletmek için SP veya SMD'ye dönüştürülmelidir.
 
-STEEM SMD harici teşvikler nedeniyle yılda %100 arzla sürekli artmaktadır. Someone who holds STEEM without converting it to SP is diluted by approximately 0.19% per day. While the rate may appear high, for transactions that take less than 10 days, it is still cheaper than credit card processing fees. Furthermore, the daily token creation is insignificant next to the daily volatility.
+STEEM SMD harici teşvikler nedeniyle yılda %100 arzla sürekli artmaktadır. STEEM'i SP'ye dönüştürmeden tutan bir kişi, günde yaklaşık %0.19 oranında değer kaybeder. Oran yüksek görünse de, 10 günden daha kısa süren işlemler için kredi kartı işlem ücretlerinden daha ucuzdur. Furthermore, the daily token creation is insignificant next to the daily volatility.
 
 Someone who buys Bitcoin or any other cryptocurrency and sells it 10 days later could easily lose 3% or more due to price fluctuations. Someone who buys Bitcoin and then sells it the same day will usually pay more than 0.4% in market fees alone. In other words, the inflation rate is effectively insignificant during the period of time the typical individual will hold STEEM.
 
