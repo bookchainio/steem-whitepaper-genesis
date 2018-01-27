@@ -72,7 +72,7 @@ Steem ağı bu farklı malvarlığı sınıflarını Steem (STEEM), Steem Power 
 
 ## Steem (STEEM)
 
-Steem, Steem blockchain'i üzerindeki temel hesap birimidir. Diğer tüm tokenlar kendi değerlerini STEEM'in değeri üzerinden sağlarlar. Generally speaking STEEM should be held for short periods of time when liquidity is needed. Someone looking to enter or exit the Steem platform will have to buy or sell STEEM. Once STEEM has been purchased it should be converted into SP or SMD to mitigate the impact of dilution over the long-term.
+Steem, Steem blockchain'i üzerindeki temel hesap birimidir. Diğer tüm tokenlar kendi değerlerini STEEM'in değeri üzerinden sağlarlar. Nakit gerekli olduğunda genel olarak STEEM'in kısa sürede elde tutulması gerekir. Steem Platformuna giren veya çıkan birisinin STEEM alması veya satması gerekecektir. STEEM satın alındığında, seyreltmenin uzun vadedeki etkisini hafifletmek için SP veya SMD'ye dönüştürülmelidir.
 
 STEEM is constantly increasing in supply by 100% per year due to non-SMD incentives. Someone who holds STEEM without converting it to SP is diluted by approximately 0.19% per day. While the rate may appear high, for transactions that take less than 10 days, it is still cheaper than credit card processing fees. Furthermore, the daily token creation is insignificant next to the daily volatility.
 
