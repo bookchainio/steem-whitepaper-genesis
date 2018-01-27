@@ -36,7 +36,7 @@ Komunitas steem menyediakan pelayanan sebagai berikut kepada anggotanya:
 
 Penataan ulang insentif ekonomi oleh Steem memiliki potensi untuk mendapatkan hasil yang lebih adil dan lebih terhitung untuk semua orang yang terlibat ketimbang media sosial dan platform mata uang kripto yang telah ada sebelumnya. Makalah ini akan mengeksplorasi insentif ekonomi yang sudah ada dan menunjukkan bagaimana insentif Steem bisa memperoleh hasil yang lebih baik bagi sebagian besar partisipan.
 
-## Recognizing Contribution
+## Mengakui Kontribusi
 
 Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Tesis kami adalah teknik yang sama seperti yang digunakan untuk menumbuhkan platform media sosial utama yang bisa digunakan untuk bootstrap kesuksesan mata uang kripto. Insentif ekonomi yang diaktifkan oleh mata uang kripto bisa secara dramatis memfasilitasi pertumbuhan sebuah platform media sosial baru. Ini merupakan bentuk sinergi antara mata uang kripto dan media sosial yang kami yakini mampu memberikan Steem keunggulan yang kuat di pasar.
 
