@@ -78,7 +78,7 @@ STEEM SMD harici teşvikler nedeniyle yılda %100 arzla sürekli artmaktadır. S
 
 Bitcoin veya başka herhangi bir kriptopara alan ve 10 gün sonra satan birisi, fiyat dalgalanmaları yüzünden %3 veya daha fazla değer kaybedebilir. Aynı gün içerisinde bitcoin alan ve satan birisi, genellikle market ücreti adı altında 0.4%'den fazla ödeme yapacaktır. Başka bir deyişle, enflasyon oranı, sıradan bir bireyin STEEM'i etkin bir şekilde elinde tutacağı süre boyunca önemsizdir.
 
-Enflasyonun büyük bir kısmı, aslında zenginliğin gerçek tahsisinden çok bir muhasebe eseridir. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
+Enflasyonun büyük bir kısmı, aslında zenginliğin gerçek tahsisinden çok bir muhasebe eseridir. SMD dışı enflasyonun %90'ı mevcut STEEM sahiplerine SP dengesinin STEEM değeri ile orantılı olarak dağıtılır ve "bölünme" den daha fazlası olur. SMD olmayan enflasyonun sadece %10'u ağda ki mülkiyete yeniden dağıtım olarak döner.
 
 ## Steem Power (SP)
 
