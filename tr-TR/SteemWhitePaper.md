@@ -74,11 +74,11 @@ Steem ağı bu farklı malvarlığı sınıflarını Steem (STEEM), Steem Power 
 
 Steem, Steem blockchain'i üzerindeki temel hesap birimidir. Diğer tüm tokenlar kendi değerlerini STEEM'in değeri üzerinden sağlarlar. Nakit gerekli olduğunda genel olarak STEEM'in kısa sürede elde tutulması gerekir. Steem Platformuna giren veya çıkan birisinin STEEM alması veya satması gerekecektir. STEEM satın alındığında, seyreltmenin uzun vadedeki etkisini hafifletmek için SP veya SMD'ye dönüştürülmelidir.
 
-STEEM SMD harici teşvikler nedeniyle yılda %100 arzla sürekli artmaktadır. STEEM'i SP'ye dönüştürmeden tutan bir kişi, günde yaklaşık %0.19 oranında değer kaybeder. Oran yüksek görünse de, 10 günden daha kısa süren işlemler için kredi kartı işlem ücretlerinden daha ucuzdur. Furthermore, the daily token creation is insignificant next to the daily volatility.
+STEEM SMD harici teşvikler nedeniyle yılda %100 arzla sürekli artmaktadır. STEEM'i SP'ye dönüştürmeden tutan bir kişi, günde yaklaşık %0.19 oranında değer kaybeder. Oran yüksek görünse de, 10 günden daha kısa süren işlemler için kredi kartı işlem ücretlerinden daha ucuzdur. Ayrıca, günlük token yaratımı, günlük oynaklığın yanında önemsizdir.
 
-Someone who buys Bitcoin or any other cryptocurrency and sells it 10 days later could easily lose 3% or more due to price fluctuations. Someone who buys Bitcoin and then sells it the same day will usually pay more than 0.4% in market fees alone. In other words, the inflation rate is effectively insignificant during the period of time the typical individual will hold STEEM.
+Bitcoin veya başka herhangi bir kriptopara alan ve 10 gün sonra satan birisi, fiyat dalgalanmaları yüzünden %3 veya daha fazla değer kaybedebilir. Aynı gün içerisinde bitcoin alan ve satan birisi, genellikle market ücreti adı altında 0.4%'den fazla ödeme yapacaktır. Başka bir deyişle, enflasyon oranı, sıradan bir bireyin STEEM'i etkin bir şekilde elinde tutacağı süre boyunca önemsizdir.
 
-The majority of inflation is actually an accounting artifact rather than true reallocation of wealth. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
+Enflasyonun büyük bir kısmı, aslında zenginliğin gerçek tahsisinden çok bir muhasebe eseridir. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
 
 ## Steem Power (SP)
 
