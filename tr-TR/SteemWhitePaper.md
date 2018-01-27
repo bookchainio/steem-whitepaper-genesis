@@ -82,11 +82,11 @@ Enflasyonun büyük bir kısmı, aslında zenginliğin gerçek tahsisinden çok 
 
 ## Steem Power (SP)
 
-Başlarda şirketler, uzun vadeli sermaye taahhüdüne gereksinim duyar. Başlangıçta paralarını yatıranlar, hisselerini satıp karlarını paraya dönüştürmeden önce yıllarca beklemek zorundadır. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Başlarda şirketler, uzun vadeli sermaye taahhüdüne gereksinim duyar. Başlangıçta paralarını yatıranlar, hisselerini satıp karlarını paraya dönüştürmeden önce yıllarca beklemek zorundadır. Uzun vadeli taahhütler olmaksızın, ilave hisse satımı yoluyla fazladan sermaye yaratmaya çalışan bir firma halihazırda mevcut hissedarların çıkmaya çalışmasıyla baş etmek zorunda kalabilir. İdrak sahibi yatırımcılar sermaye katkılarının şirketi büyütmesini ister, ve fakat, eğer yeni sermaye halihazırda çıkmak isteyenlere verilirse büyüme gerçekleşemez.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+Uzun vadeli taahhütlere sahip olmanın önemli bir değeri vardır, çünkü toplulukların uzun vadeli planlar yapabilmelerine izin verir. Sermaye sahiplerinin uzun vadeli taahhütleri ayni zamanda onların kısa vadeli şişmelerden ziyade uzun vadeli büyüme için oy vermelerine de yol açar.
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+Kripto para birimi alanında spekülatörler, çoğunlukla hangisinin kısa vadede daha fazla büyüme beklentisine sahip olduğuna göre, bir kripto para biriminden diğerine zıplarlar. Steem, uzun vadeli bakış açısına sahip olanların mülkiyetinde olan ve tümüyle onlar tarafından kontrol edilen bir topluluk inşa etmeyi arzu etmtektedir.
 
 Because Steem wants to encourage long-term growth, it is hardwired to allocate 9 STEEM to Steem Power (SP) stakeholders for every 1 STEEM it creates to fund growth through contribution incentives. Over time this drives the ratio of the total STEEM value of Steem Power balances to the total of STEEM balances toward 9:1 . (It seems likely that the ratio will be somewhat greater than 9:1 due to continued net Powering Up of the newly printed STEEM.) It also means that long-term holders are almost completely protected from the dilution used to fund growth.
 
