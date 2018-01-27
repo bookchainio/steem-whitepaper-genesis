@@ -66,7 +66,7 @@ Bu bölüm, Steem'in arkasında yatan fikirler ve onun Steem topluluğuna anlaml
 
 ## Sermaye Katkıları
 
-Bir topluluğun sermayeyi cezbedebilmek için sunabileceği iki öge vardır: borçlanma ve mülkiyet. Mülkiyet satın alanlar topluluk büyüdüğünde kazanır fakat küçüldüğünde ise kaybeder. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Bir topluluğun sermayeyi cezbedebilmek için sunabileceği iki öge vardır: borçlanma ve mülkiyet. Mülkiyet satın alanlar topluluk büyüdüğünde kazanır fakat küçüldüğünde ise kaybeder. Borç alanlara ise belirli oranda bir faiz garanti edilir fakat topluluğun büyümesiyle gerçekleşen kara katılmazlar. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SMD).
 
