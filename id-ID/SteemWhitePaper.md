@@ -74,7 +74,7 @@ Jaringan Steem menyebut kelas aset ini dengan perbedaan Steem (STEEM), Steem Pow
 
 Steem adalah unit fundamental dari akun Steem blockchain. Semua token lain mendapatkan nilai dari harga STEEM. Secara umum STEEM seharusnya diadakan untuk jangka waktu yang singkat ketika likuiditas dibutuhkan. Seseorang melihat untuk masuk atau keluar dari platform Steem harus membeli atau menjual STEEM. Setelah STEEM berhasil dibeli maka harus diubah menjadi SP atau SMD untuk mengurangi dampak penipisan dalam jangka panjang.
 
-STEEM is constantly increasing in supply by 100% per year due to non-SMD incentives. Someone who holds STEEM without converting it to SP is diluted by approximately 0.19% per day. While the rate may appear high, for transactions that take less than 10 days, it is still cheaper than credit card processing fees. Furthermore, the daily token creation is insignificant next to the daily volatility.
+STEEM terus bertambah dalam pasokan sebesar 100% setiap tahun disebabkan oleh insentif non-SMD. Seseorang yang menahan STEEM tanpa mengubahnya menjadi SP akan menipis sekitar 0,19% per hari. Sementara nilainya mungkin terlihat tinggi, untuk transaksi yang memakan waktu kurang dari 10 hari, itu masih lebih murah dibanding biaya pemrosesan kartu kredit. Selanjutnya, pembuatan token harian tidak signifikan di samping volatilitas harian.
 
 Someone who buys Bitcoin or any other cryptocurrency and sells it 10 days later could easily lose 3% or more due to price fluctuations. Someone who buys Bitcoin and then sells it the same day will usually pay more than 0.4% in market fees alone. In other words, the inflation rate is effectively insignificant during the period of time the typical individual will hold STEEM.
 
