@@ -72,7 +72,7 @@ Jaringan Steem menyebut kelas aset ini dengan perbedaan Steem (STEEM), Steem Pow
 
 ## Steem (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. Generally speaking STEEM should be held for short periods of time when liquidity is needed. Someone looking to enter or exit the Steem platform will have to buy or sell STEEM. Once STEEM has been purchased it should be converted into SP or SMD to mitigate the impact of dilution over the long-term.
+Steem adalah unit fundamental dari akun Steem blockchain. Semua token lain mendapatkan nilai dari harga STEEM. Secara umum STEEM seharusnya diadakan untuk jangka waktu yang singkat ketika likuiditas dibutuhkan. Seseorang melihat untuk masuk atau keluar dari platform Steem harus membeli atau menjual STEEM. Setelah STEEM berhasil dibeli maka harus diubah menjadi SP atau SMD untuk mengurangi dampak penipisan dalam jangka panjang.
 
 STEEM is constantly increasing in supply by 100% per year due to non-SMD incentives. Someone who holds STEEM without converting it to SP is diluted by approximately 0.19% per day. While the rate may appear high, for transactions that take less than 10 days, it is still cheaper than credit card processing fees. Furthermore, the daily token creation is insignificant next to the daily volatility.
 
