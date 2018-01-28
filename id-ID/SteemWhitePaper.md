@@ -66,9 +66,9 @@ Bagian ini menguraikan ide di balik Steem dan penghargaannya bagi siapa saja yan
 
 ## Capital Contributions
 
-Ada dua item yang bisa ditawarkan oleh komunitas agar bisa menarik modal: hutang dan kepemilikan. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Ada dua item yang bisa ditawarkan oleh komunitas agar bisa menarik modal: hutang dan kepemilikan. Mereka yang membeli kepemilikan memperoleh keuntungan ketika komunitas tumbuh namun kalah jika komunitas menurun. Mereka yang membeli dengan hutang terjamin dengan jumlah tertentu, tetapi tidak bisa ikut serta dalam setiap keuntungan yang direalisasikan oleh pertumbuhan komunitas. Kedua jenis kontribusi modal sangat berharga untuk pertumbuhan komunitas dan nilai mata uang itu sendiri. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SMD).
+Jaringan Steem menyebut kelas aset ini dengan perbedaan Steem (STEEM), Steem Power (SP), dan Steem Dollars (SMD).
 
 ## Steem (STEEM)
 
