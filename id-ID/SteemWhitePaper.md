@@ -76,9 +76,9 @@ Steem adalah unit fundamental dari akun Steem blockchain. Semua token lain menda
 
 STEEM terus bertambah dalam pasokan sebesar 100% setiap tahun disebabkan oleh insentif non-SMD. Seseorang yang menahan STEEM tanpa mengubahnya menjadi SP akan menipis sekitar 0,19% per hari. Sementara nilainya mungkin terlihat tinggi, untuk transaksi yang memakan waktu kurang dari 10 hari, itu masih lebih murah dibanding biaya pemrosesan kartu kredit. Selanjutnya, pembuatan token harian tidak signifikan di samping volatilitas harian.
 
-Someone who buys Bitcoin or any other cryptocurrency and sells it 10 days later could easily lose 3% or more due to price fluctuations. Someone who buys Bitcoin and then sells it the same day will usually pay more than 0.4% in market fees alone. In other words, the inflation rate is effectively insignificant during the period of time the typical individual will hold STEEM.
+Seseorang yang membeli Bitcoin atau mata uang kripto lainnya dan menjualnya 10 hari kemudian akan dengan mudah kehilangan 3% atau lebih karena ketidaktetapan harga. Seseorang yang membeli Bitcoin dan kemudian menjualnya pada hari yang sama biasanya akan membayar lebih dari 0,4% pada biaya pasar saja. Dengan kata lain, tingkat inflasi secara efektif tidak signifikan selama periode waktu individu tertentu akan menahan STEEM.
 
-The majority of inflation is actually an accounting artifact rather than true reallocation of wealth. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
+Mayoritas inflasi sebenarnya merupakan artefak akuntansi ketimbang realokasi sebenarnya diatas kekayaan. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
 
 ## Steem Power (SP)
 
