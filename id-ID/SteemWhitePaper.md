@@ -78,11 +78,11 @@ STEEM terus bertambah dalam pasokan sebesar 100% setiap tahun disebabkan oleh in
 
 Seseorang yang membeli Bitcoin atau mata uang kripto lainnya dan menjualnya 10 hari kemudian akan dengan mudah kehilangan 3% atau lebih karena ketidaktetapan harga. Seseorang yang membeli Bitcoin dan kemudian menjualnya pada hari yang sama biasanya akan membayar lebih dari 0,4% pada biaya pasar saja. Dengan kata lain, tingkat inflasi secara efektif tidak signifikan selama periode waktu individu tertentu akan menahan STEEM.
 
-Mayoritas inflasi sebenarnya merupakan artefak akuntansi ketimbang realokasi sebenarnya diatas kekayaan. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
+Mayoritas inflasi sebenarnya merupakan artefak akuntansi ketimbang realokasi sebenarnya diatas kekayaan. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Hanya sekitar 10% inflasi non-SMD yang mendistribusikan kembali kepemilikan pada jaringan.
 
 ## Steem Power (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Memulai perusahaan membutuhkan komitmen modal jangka panjang. Mereka yang menginvestasikan uang mereka dalam tahapan awal berharap bisa menunggu bertahun-tahun sebelum mereka bisa menjual saham mereka dan mencapai keuntungan mereka. Tanpa komitmen jangka panjang, sebuah startup yang berusaha meningkatkan tambahan modal melalui penjualan saham tambahan akan bersaing dengan pemegang saham lama yang ingin keluar. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
 There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
