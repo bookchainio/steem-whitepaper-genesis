@@ -82,11 +82,11 @@ Mayoritas inflasi sebenarnya merupakan artefak akuntansi ketimbang realokasi seb
 
 ## Steem Power (SP)
 
-Memulai perusahaan membutuhkan komitmen modal jangka panjang. Mereka yang menginvestasikan uang mereka dalam tahapan awal berharap bisa menunggu bertahun-tahun sebelum mereka bisa menjual saham mereka dan mencapai keuntungan mereka. Tanpa komitmen jangka panjang, sebuah startup yang berusaha meningkatkan tambahan modal melalui penjualan saham tambahan akan bersaing dengan pemegang saham lama yang ingin keluar. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Memulai perusahaan membutuhkan komitmen modal jangka panjang. Mereka yang menginvestasikan uang mereka dalam tahapan awal berharap bisa menunggu bertahun-tahun sebelum mereka bisa menjual saham mereka dan mencapai keuntungan mereka. Tanpa komitmen jangka panjang, sebuah startup yang berusaha meningkatkan tambahan modal melalui penjualan saham tambahan akan bersaing dengan pemegang saham lama yang ingin keluar. Investor yang cerdas menginginkan kontribusi modal mereka dapat mengembangkan perusahaan, namun perkembangan tidak akan terjadi jika modal baru tersebut diberikan kepada mereka yang ingin keluar.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+Terdapat nilai yang signifikan untuk memiliki komitmen jangka panjang karena memungkinkan komunitas untuk membuat rencana jangka panjang. Komitmen jangka panjang dari para pemangku kepentingan juga menyebabkan mereka memilih pertumbuhan jangka panjang ketimbang pompa jangka pendek.
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+Dalam ruang mata uang kripto, spekulan melompat dari mata uang kripto ke mata uanga kripto berdasarkan kebanyakan yang diperkirakan memiliki pertumbuhan jangka pendek. Steem ingin membangun sebuah komunitas yang sebagian besar dimiliki dan dokontrol sepenuhnya oleh mereka yang memiliki sudut pandang jangka panjang.
 
 Because Steem wants to encourage long-term growth, it is hardwired to allocate 9 STEEM to Steem Power (SP) stakeholders for every 1 STEEM it creates to fund growth through contribution incentives. Over time this drives the ratio of the total STEEM value of Steem Power balances to the total of STEEM balances toward 9:1 . (It seems likely that the ratio will be somewhat greater than 9:1 due to continued net Powering Up of the newly printed STEEM.) It also means that long-term holders are almost completely protected from the dilution used to fund growth.
 
