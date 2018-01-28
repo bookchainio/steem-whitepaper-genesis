@@ -96,7 +96,7 @@ Saldo SP tidak dapat ditransfer dan tidak dapat dibagikan kecuali melalui permin
 
 SP adalah persyaratan untuk memilih atau menolak konten. Hal tersebut menunjukkan bahwa SP adalah token akses yang memberi pemegang kekuatan eksklusif didalam platform Steem.
 
-Transferring from STEEM to SP is referred to as powering up while transferring from SP to Steem is referred to as "powering down". For example, one can power down their STEEM over a period of two years, yet one can power up their STEEM instantly.
+Mentransfer dari STEEM ke SP disebut sebagai powering up sementaramentransfer dari SP ke Steem disebut sebagai "powering down". For example, one can power down their STEEM over a period of two years, yet one can power up their STEEM instantly.
 
 ## Steem Dollars (SMD)
 
