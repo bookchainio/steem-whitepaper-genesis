@@ -56,17 +56,17 @@ Semenjak pasar bebas menjadi sebuah sistem yang sudah terbukti, itu sangat mengg
 
 Steem didesain untuk memungkinkan pembayaran mikro yang efektif untuk semua jenis kontribusi dengan mengubah persamaan ekonomi. Pembaca tidak mesti harus memutuskan apakah mereka mau membayar seseorang dari kantong mereka sendiri, bahkan mereka bisa memberikan suara pada setiap konten untuk naik atau turun dan Steem akan menggunakan suara mereka untuk menentukan penghargaan individu. Ini menunjukkan bahwa orang-orang diberikan interface yang familiar dan banyak digunakan serta tidak lagi menghadapi biaya kognitif, keuangan, dan peluang yang terkait pembayaran mikro tradisional juga platform tip.
 
-Masukan pemberi suara dari anggota komunitas sangat penting bagi Steem agar secara akurat mengalokasikan pembayaran kepada kontributor. Pemeberian sura tersebut dapat dilihat sebagai kontribusi penting dan patut mendapat penghargaan tersendiri. Beberapa platform, seperti Slashdot, menggunkan meta-moderasi [^3] sebagai langkah untuk memberi peringkat serta penghargaan pada moderator yang jujur. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+Masukan pemberi suara dari anggota komunitas sangat penting bagi Steem agar secara akurat mengalokasikan pembayaran kepada kontributor. Pemeberian sura tersebut dapat dilihat sebagai kontribusi penting dan patut mendapat penghargaan tersendiri. Beberapa platform, seperti Slashdot, menggunkan meta-moderasi [^3] sebagai langkah untuk memberi peringkat serta penghargaan pada moderator yang jujur. Steem memilih untuk memberi penghargaan kepada siapa saja yang berkontribusi paling banyak terhadap promosi total dari setiap konten dan memberi penghargaan kepada para pemeberi suara sebanding dengan pembayaran hadiah utama kepada pembuat konten.
 
-There are other forms of contribution that Steem recognizes and rewards using objective metrics. Among these are: transaction validation, proof of work mining, liquidity rewards, and reporting of misbehaving block producers.
+Ada bentuk kontribusi lain yang diakui Steem dan penghargaan menggunakan metrik yang objektif. Diantaranya adalah: validasi transaksi, bukti penambangan kerja, penghargaan likuiditas, dan pelaporan blok produsen yang tidak baik.
 
-# Ways to Contribute
+# Cara Berkontribusi
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+Bagian ini menguraikan ide di balik Steem dan penghargaannya bagi siapa saja yang memberikan kontribusi yang bermakna serta terukur kepada komunitas Steem.
 
 ## Capital Contributions
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Ada dua item yang bisa ditawarkan oleh komunitas agar bisa menarik modal: hutang dan kepemilikan. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SMD).
 
