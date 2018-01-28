@@ -92,9 +92,9 @@ Karena Steem ingin mendorong pertumbuhan jangka panjang, hal tersebut diharapkan
 
 SP hanya bisa dikonversi kembali ke STEEM selama 2 tahun melalui 104 pembayaran yang sama setiap minggunya. '1 SP' bisa dilihat sebagai bagian didalam kolam STEEM. Jaringan secara otomatis menambahkan STEEM ke kolam setiap blok. Setiap saat pengguna bisa mengkonversi STEEM mereka menjadi SP dengan rasio yang sama dengan STEEM pada kolam vesting sampai ke total SP. Mengkonversi STEEM ke SP tidak menipiskan yang ada pada pemegang SP. Begitu juga sebaliknya, setiap kali SP diubah kembali menjadi STEEM maka dilakukan pada ratio saat itu pula. Individu dijamin memiliki lebih banyak STEEM di masa mendatang ketimbang saat pertama mereka konversikan dari STEEM menjadi SP.
 
-SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Saldo SP tidak dapat ditransfer dan tidak dapat dibagikan kecuali melalui permintaan konversi berulang secara otomatis. Hal ini menunjukka bahwa SP tidak dapat dengan mudah diperdagangkan dalam bursa mata uang kripto.
 
-SP is a requirement for voting for or against content. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+SP adalah persyaratan untuk memilih atau menolak konten. Hal tersebut menunjukkan bahwa SP adalah token akses yang memberi pemegang kekuatan eksklusif didalam platform Steem.
 
 Transferring from STEEM to SP is referred to as powering up while transferring from SP to Steem is referred to as "powering down". For example, one can power down their STEEM over a period of two years, yet one can power up their STEEM instantly.
 
