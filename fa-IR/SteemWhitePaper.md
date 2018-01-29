@@ -140,9 +140,9 @@ Blockchain تصمیم می گیرد که چگونه و چه زمانیSMD ایج
 
 Steem دارای یک بازار زنجیره بلوکی بین SMD و STEEM است. کاربران با ارائه نقدینگی به هر دو طرف این بازار می توانند پاداش کسب کنند. Blockchain از یک الگوریتم ساده برای رتبه بندی میزان تدارک ومصرف نقدینگی هر کاربراستفاده می کند.
 
-A user is considered a liquidity provider if they leave an open order on the books for at least 1 minute and the order is eventually filled. If the order is canceled before being filled then the user is not credited with providing liquidity.
+اگریک کاربر حداقل یک دقیقه یک سفارش بازداشته باشد و سفارش در نهایت پر شده باشد به عنوان ارائه کننده نقدینگی در نظر گرفته می شود. اگر سفارش قبل از پر شدن لغو شود، کاربر به عنوان تأمین کننده نقدینگی شناخته نمی شود.
 
-Users must provide liquidity on both sides of the book to qualify for rewards and they must provide liquidity consistently over time. The scoring algorithm is:
+کاربران باید درهردو طرف و به طور مداوم برای واجد شرایط پاداش بودن نقدینگی فراهم کنند. الگوریتم امتیازدهی این است:
 
       LiquidityPoints = NetBidVolume x NetAskVolume
     
