@@ -134,9 +134,9 @@ Nasıl ve ne zaman SMD üretileceğine ve kimlerin bunu edineceğine blockchain 
 
 ### Likidite
 
-SMD'nin makul bir fiyatla STEEM değerinde bir dolara dönüştürülebiliyor olması, bunun güvenilir bir dolar değişimi olarak görülmesi anlamına gelmez. Bu varlıklar, STEEM ve SMD arasında anlık dönüşüm sağlayan pazarda likiditeye ihtiyaç duyar. Kötüye kullanımı önlemek için, blockchain önlemleri alarak dönüştürülebilen dolarda ki kalitenin düşürülmesi sağlanır. Bu kalite kaybını telafi etmek için blokchain, likidite sağlayıcılarına sabit maliyetli bir ödül sunabilir. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
+SMD'nin makul bir fiyatla STEEM değerinde bir dolara dönüştürülebiliyor olması, bunun güvenilir bir dolar değişimi olarak görülmesi anlamına gelmez. Bu varlıklar, STEEM ve SMD arasında anlık dönüşüm sağlayan pazarda likiditeye ihtiyaç duyar. Kötüye kullanımı önlemek için, blockchain önlemleri alarak dönüştürülebilen dolarda ki kalitenin düşürülmesi sağlanır. Bu kalite kaybını telafi etmek için blokchain, likidite sağlayıcılarına sabit maliyetli bir ödül sunabilir. Manipülasyondan ve istismardan kaynaklanan potansiyel kayıplar kontrolsüz iken, likiditeyi teşvik etme masrafı düzeltilebilir.
 
-A liquidity provider buys and sells SMD and STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
+Bir likidite sağlayıcısı SMD ve STEEM'i satın alır ve satar. Kısa vadeli fiyat ve uzun vadeli yem riskinin çoğunluğunu piyasa katılımcılarına, içinde ticaret yapacakları yüksek kaliteli, son derece likid bir pazar kazandırır.
 
 Steem has an on-blockchain market between SMD and STEEM. Users can earn rewards by providing liquidity to both sides of this market. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
 
