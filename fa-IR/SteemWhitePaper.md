@@ -108,19 +108,19 @@ Steem Dollars are referred to with the symbol SMD, an acronym for Steem Dollars.
 
 ### به حداقل رساندن نرخ های مخرب
 
-دارندگان SP، افرادی را برای انتشارنرخ هزینه انتخاب می کنند. These elected individuals are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+دارندگان SP، افرادی را برای انتشارنرخ هزینه انتخاب می کنند. این افراد منتخب احتمالا توسط افرادی که صاحب نظردر زمینه کیفیت نرخ هستند مورد اعتماد هستند. با پرداخت به کسانی که انتخاب می شوند، Steem بازار رقابتی برای کسب حق تولید نرخ ایجاد می کند. هرچه بیشتربه تولیدکنندگان نرخ پرداخت شود همانقدربا انتشاراطلاعات غلط، میزان ضررشان بیشتر میشود.
 
-Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+با مدنظرقراردادن مجموعه ای از تولید کنندگان مورد اعتماد و انتخاب شده، قیمت واقعی مورد استفاده برای تبدیل ها می تواند به عنوان میانه نرخ ها درنظرگرفته شود. به این ترتیب اگرتعداد کمی ازتولیدکنندگان فردی نرخ متفاوتی تولیدکنند، تاثیرکمی برمیانه نرخ ها می گذارند و در عین حال همچنان قابل اعتمادهستند.
 
-Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+حتی اگر همه تولید کنندگان نرخ صادق باشند، ممکن است اکثریت تولید کنندگان نرخ توسط مسائلی که خارج از کنترل آنها است تحت تاثیرقراربگیرند. شبکه Steem به گونه ای طراحی شده است که در حالی که جامعه به طور فعال برای حل مسئله کار می کند در کوتاه مدت انحراف متوسط نرخ را تحمل کند. One example of an issue that may take some time to correct is short-term market manipulation. حفظ دستکاری بازار برای مدت طولانی دشوار و گران است. مثال دیگرمی تواند ناموفق شدن مبادله متمرکز ویا انحراف اطلاعات منتشر شده توسط بورس باشد.
 
-Steem factors out short-term price fluctuations by using the median price over a period of one week. The median published feed is sampled every hour on the hour.
+Steem با استفاده از قیمت متوسط در طی یک هفته از نوسانات کوتاه مدت قیمت جلوگیری می کند. نرخ متوسط منتشر شده سرهر ساعت نمونه برداری می شود.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. مهمتر از آن، به تولیدکنندگان نرخ فرصت تشخیص و اصلاح مسائل میدهد پیش ازآنکه شروع به تحت تاثیرقراردادن قیمتها کنند.
 
-With a one week window, community members have three and a half days to respond to any issues that come up.
+دربازه ی زمانی یک هفته، اعضا سه و نیم روز برای پاسخ به هر گونه مسئله پیش آمده زمان دارند.
 
-### Mitigating Timing Attacks
+### کاهش زمان حمله
 
 Market participants have access to information faster than the blockchain's one week moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
 
