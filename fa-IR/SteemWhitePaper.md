@@ -122,13 +122,13 @@ As long as the price feed corruption lasts for less than half the moving median 
 
 ### کاهش زمان حمله
 
-فعالان بازار، به اطلاعات زودترازآنکه نرخ تبدیل میانگین متحرک هفتگی blockchain واکنش نشان دهد دسترسی پیدا می کنند. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+فعالان بازار، به اطلاعات زودترازآنکه نرخ تبدیل میانگین متحرک هفتگی blockchain واکنش نشان دهد دسترسی پیدا می کنند.  این اطلاعات می تواند به نفع معامله گران با هزینه جامعه مورد استفاده قرار گیرد. اگر یک افزایش ناگهانی در ارزش STEEMبوجود آید، معامله گران می توانند درخواست تبدیل SMD با قیمت قدیمی و پایین تر کنند، و سپس STEEM را به فروش رسانند، آنها قیمت جدید را با حداقل ریسک دریافت می کنند.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for one week. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steem levels the playing field by requiring all conversion requests to be delayed for one week. این بدان معنی است که نه تجار و نه blockchain هیچ مزیت اطلاعاتی در مورد قیمت در زمان انجام تبدیل ندارد.
 
-### Minimizing Abuse of Conversions
+### به حداقل رساندن سوء استفاده از تبدیل
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SMD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SMD to STEEM and not the other way around.
+اگر مردم بتوانند آزادانه در هر دو جهت تبدیل کنند، معامله گران می توانند با استفاده از حجم زیاد معاملات بدون تغییر قیمت، از مزایای نرخ تبدیل blockchain بهره مند شوند. معامله گرانی که افزایش قیمت زیادی مشاهده می کنند، باید به قیمت بالا (زمانی که بیشترین خطر را دارند) به SMD تبدیل کنند و بعد از اصلاح مجددا برگردند. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SMD to STEEM and not the other way around.
 
 The blockchain decides how and when to create SMD and who should get it. This keeps the rate of SMD creation stable and removes most avenues of abuse.
 
