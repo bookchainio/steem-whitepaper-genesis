@@ -175,9 +175,9 @@ Astute readers will recognize that an interest bearing asset of limited supply m
 
 اگر تولیدکنندگان Steem نرخ قصد دارند سیاست پولی مستقل خود را ایجاد کنند، و در حالی که همزمان کنترل کامل بر نرخ بهره را دارند به ایجاد و تخریب دلار Steem بپردازند، با مشکل مواجه خواهند شد. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SMD and the U.S. Dollar (USD). Any time SMD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SMD and the U.S. Dollar (USD). Any time SMD is consistently trading above $1.00 USD interest payments must be stopped. در یک بازار که 0٪ ازسود بدهی ها هنوز به پریم نیاز دارند، می توان گفت که بازار مایل است اعتبار بیشتری به بدهی هایی که جامعه مایل به انجام آن است، اختصاص دهد. اگر این اتفاق بیافتد، ارزش یک SMD بیش از $ 1.00 خواهد شد و افراد بدون پرداخت نرخ بهره منفی کارزیادی نمیتوانند بکنند.
 
-If the debt-to-ownership ratio is under 10% and SMD is trading for less than $1.00 then the interest rate should be increased. This will encourage more people to hold their SMD and support the price.
+اگر نسبت بدهی به مالکیت کمتر از 10٪ باشد و SMD کمتر از 1.00 دلار معامله شود، نرخ بهره باید افزایش یابد. این مسئله افراد بیشتری را برای نگه داشتن SMD خود و حمایت از قیمت تشویق می کند.
 
 If SMD trades for less than $1.00 USD and the debt-to-ownership ratio is over 10% then the feeds should be adjusted upward give more STEEM per SMD. This will increase demand for SMD while also reducing the debt-to-ownership ratio and returning SMD to parity with USD.
 
