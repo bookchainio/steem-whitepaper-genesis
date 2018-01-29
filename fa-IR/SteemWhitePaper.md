@@ -179,11 +179,11 @@ The primary concern of Steem feed producers is to maintain a stable one-to-one c
 
 اگر نسبت بدهی به مالکیت کمتر از 10٪ باشد و SMD کمتر از 1.00 دلار معامله شود، نرخ بهره باید افزایش یابد. این مسئله افراد بیشتری را برای نگه داشتن SMD خود و حمایت از قیمت تشویق می کند.
 
-If SMD trades for less than $1.00 USD and the debt-to-ownership ratio is over 10% then the feeds should be adjusted upward give more STEEM per SMD. This will increase demand for SMD while also reducing the debt-to-ownership ratio and returning SMD to parity with USD.
+If SMD trades for less than $1.00 USD and the debt-to-ownership ratio is over 10% then the feeds should be adjusted upward give more STEEM per SMD. این کار تقاضا برای SMD را افزایش می دهد در حالی که نسبت بدهی به مالکیت را کاهش می دهد وباعث برابری SMD با دلار امریکا می شود.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SMD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+با فرض اینکه ارزش STEEM سریعترازایجاد SMD جدید از طریق Steemباشد، نسبت بدهی به مالکیت باید زیر هدف مورد نظر باقی بماند و سود ارائه شده به نفع همه باشد. اگر ارزش شبکه در حال کاهش باشد، هر گونه سود ارائه شده تنها نسبت بدهی به مالکیت را بدتر می کند.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. سوءاستفاده از این قدرت می تواند به ارزش STEEM آسیب برساند، بنابراین صاحبان SP با توجه به قوانینی که در بالا ذکر شد برای تنظیم نرخ قیمت و نرخ بهره به متخصصانی که می توانند روی آنها حساب کنند رای میدهند.
 
 If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SMD.
 
