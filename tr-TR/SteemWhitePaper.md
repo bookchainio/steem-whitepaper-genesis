@@ -114,7 +114,7 @@ Güvenilir ve seçilmiş yayın üreticileri, göz önünde bulundurulduğunda, 
 
 Tüm yayın üreticileri dürüst olsa dahi yayın üreticilerinin çoğunluğu için, kendi kontrollerinin ötesinde olan bazı gelişmelerden etkilenmek hala mümkündür. Steem ağı, topluluk aktif olarak sorunu düzeltmek için çalışırken, medyan fiyat yayınındaki kısa dönemlik yozlaşmaları tolere edebilmek için tasarlanmıştır. Düzeltmek için biraz zaman gerektirecek meselelere bir örnek; kısa dönemlik piyasa manipülasyonlarıdır. Piyasa manipülasyonun uzun zaman dilimleri boyunca sürdürülebilmesi zor ve pahalıdır. Başka bir örnek de, merkezi exchange'in bir hatası ya da exchange'in yayınladığı verilerin kirlenmesi olabilir.
 
-Steem factors out short-term price fluctuations by using the median price over a period of one week. The median published feed is sampled every hour on the hour.
+Steem, bir hafta boyunca ortalama fiyat kullanarak kısa vadeli fiyat dalgalanmalarını etkiler. Ortaya çıkan yayın, saat başı her saat örnek alınır.
 
 As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
