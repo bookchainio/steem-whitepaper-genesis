@@ -157,11 +157,11 @@ For every SMD Steem creates, $19.00 of STEEM is also created and converted to SP
 
 The idea behind having a conservative 5% debt to ownership ratio is that even if all debt were converted and sold there should be ample buyers and the effective dilution of the token holders remains relatively small.
 
-A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SMD and SP (as determined by the current rate / feed).
+تغییر ناگهانی ارزش STEEM می تواند به طور چشمگیری نسبت بدهی به مالکیت را تغییر دهد. درصد پایه استفاده شده برای محاسبه ایجاد STEEM بر اساس عرضه تعیین می شود ، از جمله مقدار STEEM تمام SMD و SP باقیمانده (با توجه به نرخ فعلی / اعلام شده).
 
-### Interest
+### علاقه
 
-SMD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SMD به سهامدارسود پرداخت می کند. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
 STEEM and SP holders gain leverage when members of the community are willing to hold SMD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
