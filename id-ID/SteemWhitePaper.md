@@ -132,9 +132,9 @@ Jika orang bisa dengan bebas mengonversi kedua arah maka pedagang bisa memanfaat
 
 The blockchain decides how and when to create SMD and who should get it. This keeps the rate of SMD creation stable and removes most avenues of abuse.
 
-### Liquidity
+### Likuiditas
 
-Just because SMD can be converted to a dollars worth of STEEM at a fair price in a reasonable amount of time doesn't mean it will be viewed as a reliable dollar replacement. These assets require liquidity in a market that enables instantaneous conversion between STEEM and SMD. The measures a blockchain is forced to take to prevent abuse end up lowering the quality of the convertible dollars. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
+Just because SMD can be converted to a dollars worth of STEEM at a fair price in a reasonable amount of time doesn't mean it will be viewed as a reliable dollar replacement. Aset tersebut membutuhkan likuiditas dalam pasar yang memungkinkan konversi seketika antara STEEM dan SMD. Langkah-langkah yang dilarang dilakukan oleh blokchain sebagai pencegahan penyalahgunaan akhirnya menurunkan kualitas dolar yang dikonversi. Untuk mengkompensasi kehilangan kualitas, blockchain bisa menawarkan biaya penghargaan tetap kepada penyedia likuiditas. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
 
 A liquidity provider buys and sells SMD and STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
 
