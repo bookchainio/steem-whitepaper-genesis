@@ -96,11 +96,11 @@ Saldo SP tidak dapat ditransfer dan tidak dapat dibagikan kecuali melalui permin
 
 SP adalah persyaratan untuk memilih atau menolak konten. Hal tersebut menunjukkan bahwa SP adalah token akses yang memberi pemegang kekuatan eksklusif didalam platform Steem.
 
-Mentransfer dari STEEM ke SP disebut sebagai powering up sementaramentransfer dari SP ke Steem disebut sebagai "powering down". For example, one can power down their STEEM over a period of two years, yet one can power up their STEEM instantly.
+Mentransfer dari STEEM ke SP disebut sebagai powering up sementaramentransfer dari SP ke Steem disebut sebagai "powering down". Contohnya, seseorang bisa menurunkan power STEEM mereka selama dua tahun, namun seseorang dapat menyalakan STEEM mereka seketika.
 
 ## Steem Dollars (SMD)
 
-Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
+Stabilitas merupakan fitur penting kesuksesan ekonomi global. Tanpa stabilitas, setiap individu di seluruh dunia tidak memiliki biaya kognitif yang rendah sambil terlibat didalam perdagangan dan tabungan. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
 
 Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
 
