@@ -128,17 +128,17 @@ Steem levels the playing field by requiring all conversion requests to be delaye
 
 ### به حداقل رساندن سوء استفاده از تبدیل
 
-اگر مردم بتوانند آزادانه در هر دو جهت تبدیل کنند، معامله گران می توانند با استفاده از حجم زیاد معاملات بدون تغییر قیمت، از مزایای نرخ تبدیل blockchain بهره مند شوند. معامله گرانی که افزایش قیمت زیادی مشاهده می کنند، باید به قیمت بالا (زمانی که بیشترین خطر را دارند) به SMD تبدیل کنند و بعد از اصلاح مجددا برگردند. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SMD to STEEM and not the other way around.
+اگر مردم بتوانند آزادانه در هر دو جهت تبدیل کنند، معامله گران می توانند با استفاده از حجم زیاد معاملات بدون تغییر قیمت، از مزایای نرخ تبدیل blockchain بهره مند شوند. معامله گرانی که افزایش قیمت زیادی مشاهده می کنند، باید به قیمت بالا (زمانی که بیشترین خطر را دارند) به SMD تبدیل کنند و بعد از اصلاح مجددا برگردند. پروتکل Steem جامعه را از این نوع سوءاستفاده محافظت می کند به این طریق که به افراد تنها اجازه می دهد ازSMD به STEEM تبدیل شوند و نه از راه دیگر.
 
-The blockchain decides how and when to create SMD and who should get it. This keeps the rate of SMD creation stable and removes most avenues of abuse.
+Blockchain تصمیم می گیرد که چگونه و چه زمانیSMD ایجاد شود و چه کسی باید آن را دریافت کند. این باعث ثبات سرعت ایجاد SMD میشود و بیشترروش های سوء استفاده را از بین میبرد.
 
-### Liquidity
+### نقدینگی
 
-Just because SMD can be converted to a dollars worth of STEEM at a fair price in a reasonable amount of time doesn't mean it will be viewed as a reliable dollar replacement. These assets require liquidity in a market that enables instantaneous conversion between STEEM and SMD. The measures a blockchain is forced to take to prevent abuse end up lowering the quality of the convertible dollars. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
+ فقط به این دلیل که SMD را می توان به معادل دلاری STEEM با یک قیمت منصفانه در یک زمان مناسب معین تبدیل کرد، به این معنی نیست که میتوان آن را جایگزین قابل اعتمادی برای دلار درنظرگرفت. این دارایی ها نیاز به نقدینگی در بازار دارند که امکان تبدیل لحظه ای بین STEEM و SMD را فراهم می کند. ازجمله اقداماتی که زنجیره بلوکی مجبور است برای جلوگیری از سوء استفاده انجام دهد، کاهش کیفیت دلار تبدیلی است. برای جبران این کیفیت از دست رفته ، blockchain می تواند پاداش ثابتی به تامین کننده های نقدینگی ارائه دهد. در حالی که تلفات بالقوه ناشی از دستکاری و سوء استفاده نا محدود است، هزینه تشویق نقدینگی می تواند اصلاح شود.
 
-A liquidity provider buys and sells SMD and STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
+تامین کننده نقدینگی SMD و STEEM را خرید و فروش می کند. آنها بیشترریسک قیمت کوتاه مدت و نرخ دراز مدت را رفع میکنند وبرای شرکت کنندگان باقی مانده بازاری با کیفیت ونقدینگی بالا برای تجارت فراهم می کنند.
 
-Steem has an on-blockchain market between SMD and STEEM. Users can earn rewards by providing liquidity to both sides of this market. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
+Steem دارای یک بازار زنجیره بلوکی بین SMD و STEEM است. Users can earn rewards by providing liquidity to both sides of this market. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
 
 A user is considered a liquidity provider if they leave an open order on the books for at least 1 minute and the order is eventually filled. If the order is canceled before being filled then the user is not credited with providing liquidity.
 
