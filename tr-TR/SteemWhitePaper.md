@@ -128,13 +128,13 @@ Steem, dönüşüm taleplerinin bir hafta bekletilmesini şart koşmak yoluyla, 
 
 ### Dönüşüm İstismarlarını En Aza İndirmek
 
-Eğer insanlar iki yönde de rahatlıkla dönüştürme yapabilselerdi, o zaman al-satçılar blockchainin dönüşüm oranlarından, fiyatı değiştirmeden büyük hacimlerde ticaret yaparak avantaj elde edebilirlerdi. Traders who see a massive run up in price would convert to SMD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SMD to STEEM and not the other way around.
+Eğer insanlar iki yönde de rahatlıkla dönüştürme yapabilselerdi, o zaman al-satçılar blockchainin dönüşüm oranlarından, fiyatı değiştirmeden büyük hacimlerde ticaret yaparak avantaj elde edebilirlerdi. Fiyatta bir fırlama gören al-satçılar en yüksek fiyattan (en riskli olduğu zamanda) SMD'ye dönüşüm yapabilirler ve gelen düzeltmeden sonra tekrar STEEM'e dönüştürebilirler. Steem protokolü sadece SMD'den STEEM'e tek yönlü olarak dönüşüm yapmaya olanak tanıyarak topluluğu bu tarz istismarlardan korur.
 
-The blockchain decides how and when to create SMD and who should get it. This keeps the rate of SMD creation stable and removes most avenues of abuse.
+Nasıl ve ne zaman SMD üretileceğine ve kimlerin bunu edineceğine blockchain karar verir. Bu, SBD üretim oranını sabit tutar ve istismar yollarını ortadan kaldırır.
 
-### Liquidity
+### Likidite
 
-Just because SMD can be converted to a dollars worth of STEEM at a fair price in a reasonable amount of time doesn't mean it will be viewed as a reliable dollar replacement. These assets require liquidity in a market that enables instantaneous conversion between STEEM and SMD. The measures a blockchain is forced to take to prevent abuse end up lowering the quality of the convertible dollars. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
+SMD'nin makul bir fiyatla STEEM değerinde bir dolara dönüştürülebiliyor olması, bunun güvenilir bir dolar değişimi olarak görülmesi anlamına gelmez. These assets require liquidity in a market that enables instantaneous conversion between STEEM and SMD. The measures a blockchain is forced to take to prevent abuse end up lowering the quality of the convertible dollars. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
 
 A liquidity provider buys and sells SMD and STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
 
