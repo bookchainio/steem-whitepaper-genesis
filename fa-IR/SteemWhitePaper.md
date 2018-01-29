@@ -185,15 +185,15 @@ If SMD trades for less than $1.00 USD and the debt-to-ownership ratio is over 10
 
 In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. سوءاستفاده از این قدرت می تواند به ارزش STEEM آسیب برساند، بنابراین صاحبان SP با توجه به قوانینی که در بالا ذکر شد برای تنظیم نرخ قیمت و نرخ بهره به متخصصانی که می توانند روی آنها حساب کنند رای میدهند.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SMD.
+اگر نسبت بدهی به مالکیت به میزان خطرناکی بالا برود و سهامداران ازدرخواست تبدیل امتناع کنند، باید میزان نرخ را افزایش داد تا نرخی که STEEM برای تبدیل SMD پرداخت میکند افزایش یابد.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SMD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions. The blockchain is paying liquidity providers for their service in absorbing short-term demands.
+Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SMD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions. Blockchain به تامین کننده های نقدینگی به خاطرخدماتشان در جذب تقاضای کوتاه مدت پرداخت میکند.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SMD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.99 and $1.01 for SMD under most market conditions.
+ما معتقدیم که این قوانین به شرکت کنندگان در بازاراین اعتماد را میدهد که با خرید SMD با قیمت 1.00 دلار احتمال اینکه ضرر کنند وجود ندارد. به طور کلی انتظار می رود که در بیشتر شرایط بازار یک بازه معاملاتی باریک بین 0.99 دلار و 1.01 دلار برای SMD وجود داشته باشد.
 
 ## Subjective Contributions
 
-Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. هنگامی که افراد به یک جامعه می پیوندند، به مجموعه ای از باورها می پیوندند و می توانند برای تقویت ارزش های جامعه یا هدف، رای دهند.
 
 In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
 
