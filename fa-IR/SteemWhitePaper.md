@@ -138,7 +138,7 @@ Blockchain تصمیم می گیرد که چگونه و چه زمانیSMD ایج
 
 تامین کننده نقدینگی SMD و STEEM را خرید و فروش می کند. آنها بیشترریسک قیمت کوتاه مدت و نرخ دراز مدت را رفع میکنند وبرای شرکت کنندگان باقی مانده بازاری با کیفیت ونقدینگی بالا برای تجارت فراهم می کنند.
 
-Steem دارای یک بازار زنجیره بلوکی بین SMD و STEEM است. Users can earn rewards by providing liquidity to both sides of this market. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
+Steem دارای یک بازار زنجیره بلوکی بین SMD و STEEM است. کاربران با ارائه نقدینگی به هر دو طرف این بازار می توانند پاداش کسب کنند. Blockchain از یک الگوریتم ساده برای رتبه بندی میزان تدارک ومصرف نقدینگی هر کاربراستفاده می کند.
 
 A user is considered a liquidity provider if they leave an open order on the books for at least 1 minute and the order is eventually filled. If the order is canceled before being filled then the user is not credited with providing liquidity.
 
