@@ -173,7 +173,7 @@ Astute readers will recognize that an interest bearing asset of limited supply m
 2. حرکت سرمایه آزاد
 3. سیاست پولی مستقل
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+اگر تولیدکنندگان Steem نرخ قصد دارند سیاست پولی مستقل خود را ایجاد کنند، و در حالی که همزمان کنترل کامل بر نرخ بهره را دارند به ایجاد و تخریب دلار Steem بپردازند، با مشکل مواجه خواهند شد. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
 The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SMD and the U.S. Dollar (USD). Any time SMD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
