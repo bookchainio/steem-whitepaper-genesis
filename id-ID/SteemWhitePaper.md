@@ -279,7 +279,7 @@ Taking popularity as a rough measure of value, then the value of each individual
 
 Dampak dari pemungutan suara dan pendistribusian pembayaran ini adalah menawarkan banyak hadiah bagi konten yang bagus sambil tetap memberikan penghargaan kepada pemain kecil untuk kontribusi ekor panjang mereka.
 
-Efek ekonomi dari hal ini adalah mirip dengan undian dimana orang-orang memperkirakan perkiraan jumlah probabilitas mereka untuk mendapatkan suara dan dengan demikian melakukan lebih banyak pekerjaan ketimbang nilai imbalan yang mereka harapkan dan dengan demikian memaksimalkan jumlah pekerjaan yang dilakukan dalam pelayanan terhadap komunitas. The fact that everyone "wins something" plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+Efek ekonomi dari hal ini adalah mirip dengan undian dimana orang-orang memperkirakan perkiraan jumlah probabilitas mereka untuk mendapatkan suara dan dengan demikian melakukan lebih banyak pekerjaan ketimbang nilai imbalan yang mereka harapkan dan dengan demikian memaksimalkan jumlah pekerjaan yang dilakukan dalam pelayanan terhadap komunitas. Faktanya bahwa setiap orang "memenangkan sesuatu" permainan psikologi yang sama dengan yang digunakan kasino untuk membuat orang-orang tetap berjudi. Dengan kata lain, imbalan yang kecil membantu memperkuat pemikiran bahwa ada kemungkinan untuk mendapatkan imbalan yang lebih besar.
 
 #### Rewarding Parent Posts
 
@@ -287,11 +287,11 @@ Good discussion requires back and forth posting. When you reply to someone else,
 
 Failure to properly nest your posts in the discussion is a good way to get down voted.
 
-This incentive structure motivates people to contribute in a way that motivates others to get involved. It encourages people to ask good questions so that others can provide valuable answers.
+Struktur insentif ini memotivasi orang untuk berkontribusi dengan cara memotivasi orang lain agar terlibat. Ini mendorong orang-orang untuk mengajukan pertanyaan bagus sehingga orang lain dapat memberikan jawaban yang bermakna.
 
-### Payouts
+### Pembayaran
 
-When a post receives a payout it takes the form of 50% SMD and 50% SP. The Steem Power give the user increased voting and transaction power while the SMD gives the user an immediate benefit in a stable currency. As we've already discussed at length, both SP and SMD are designed to encourage long-term holding rather than short-term selling.
+Ketika sebuah postingan mendapat pembayaran maka bentuknya 50% SMD dan 50% SP. Steem Power memberikan pengguna peningkatan daya pemberian suara dan transaksi, sementara SMD memberi pengguna keuntungan langsung dalam sebuah mata uang yang stabil. Seperti yang sudah kita bahas panjang lebar, baik SP serta SMD dirancang untuk mendorong penahanan jangka panjang ketimbang penjualan jangka pendek.
 
 # Consensus Algorithm
 
