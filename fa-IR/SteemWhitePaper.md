@@ -90,13 +90,13 @@ There is significant value to having long-term commitment because it enables com
 
 Because Steem wants to encourage long-term growth, it is hardwired to allocate 9 STEEM to Steem Power (SP) stakeholders for every 1 STEEM it creates to fund growth through contribution incentives. با گذشت زمان، نسبت کل مقدار STEEM ازSP به کلSTEEM به نسیت 9: 1 تغییر میکند. (It seems likely that the ratio will be somewhat greater than 9:1 due to continued net Powering Up of the newly printed STEEM.) It also means that long-term holders are almost completely protected from the dilution used to fund growth.
 
-SP بعد از2 سال و104 پرداخت یکسان هفتگی می تواند دوباره به STEEM تبدیل شود. '1 SP' را می توان به عنوان یک سهم در مخزن STEEM مشاهده کرد. شبکه به طور خودکار STEEM را به هر بلوک مخزن اضافه می کند. در هر زمان کاربران می توانند STEEM خود را با همان نسبتSTEEM موجود درمخزن به کل SP به SP تبدیل کنند. Converting STEEM to SP does not dilute existing holders of SP. Likewise, every time SP is converted back to STEEM it is done at the current ratio. Individuals are guaranteed to have more STEEM in the future than they have when they rst convert from STEEM to SP.
+SP بعد از2 سال و104 پرداخت یکسان هفتگی می تواند دوباره به STEEM تبدیل شود. '1 SP' را می توان به عنوان یک سهم در مخزن STEEM مشاهده کرد. شبکه به طور خودکار STEEM را به هر بلوک مخزن اضافه می کند. در هر زمان کاربران می توانند STEEM خود را با همان نسبتSTEEM موجود درمخزن به کل SP به SP تبدیل کنند. تبدیل STEEM به SP SP نگهدارنده های موجود را رقیق نمی کند.  به همین ترتیب، تبدیل مجدد SP به STEEM هربار با نسبت فعلی انجام می شود. Individuals are guaranteed to have more STEEM in the future than they have when they rst convert from STEEM to SP.
 
-SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+مقادیر SP غیر قابل انتقال و غیر قابل تقسیم است، مگر با استفاده از درخواست های تبدیل مکرر اتوماتیک. این به این معنی است که SP را نمی توان به راحتی در بورس رمزارزی مبادله کرد.
 
 SP is a requirement for voting for or against content. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
-Transferring from STEEM to SP is referred to as powering up while transferring from SP to Steem is referred to as "powering down". For example, one can power down their STEEM over a period of two years, yet one can power up their STEEM instantly.
+انتقال از STEEM به SP به عنوان افزایش قدرت به حساب می آید درحالی که انتقال از SP به Steem به عنوان "افت قدرت" شناخته می شود. For example, one can power down their STEEM over a period of two years, yet one can power up their STEEM instantly.
 
 ## Steem Dollars (SMD)
 
