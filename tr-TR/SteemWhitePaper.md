@@ -116,7 +116,7 @@ Tüm yayın üreticileri dürüst olsa dahi yayın üreticilerinin çoğunluğu 
 
 Steem, bir hafta boyunca ortalama fiyat kullanarak kısa vadeli fiyat dalgalanmalarını etkiler. Ortaya çıkan yayın, saat başı her saat örnek alınır.
 
-Fiyat arzı yolsuzluğunun, değişen medyan zaman aralığının yarısından kısa sürdüğü müddetçe, dönüşüm fiyatları üzerindeki etkisi minimal düzeyde olacaktır. Yayının yolsuzluğunun olması durumunda ağ katılımcılarının, kirli yayın aktüel dönüşüm fiyatını etkilemeden önce, yozlaşmış yayın üreticileri aleyhinde oy kullanma imkanı olacaktır. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Fiyat arzı yolsuzluğunun, değişen medyan zaman aralığının yarısından kısa sürdüğü müddetçe, dönüşüm fiyatları üzerindeki etkisi minimal düzeyde olacaktır. Yayının yolsuzluğunun olması durumunda ağ katılımcılarının, kirli yayın aktüel dönüşüm fiyatını etkilemeden önce, yozlaşmış yayın üreticileri aleyhinde oy kullanma imkanı olacaktır. Belki de daha önemlisi bu, yayın üreticilerine yayınları, fiyatı etkilemeye başlamadan önce tespit ve düzeltme şansı sunmaktadır.
 
 With a one week window, community members have three and a half days to respond to any issues that come up.
 
