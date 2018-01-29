@@ -147,7 +147,7 @@ Users must provide liquidity on both sides of the book to qualify for rewards an
       LiquidityPoints = NetBidVolume x NetAskVolume
     
 
-Every hour the account with the most LiquidityPoints receives 1200 STEEM and then has its LiquidityPoints reset to 0. An account that goes a week without earning any LiquidityPoints also has its points reset to 0. This means that whether you provide a large amount of liquidity or a small amount over a long period of time everyone gets a proportional amount of the rewards. If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
+Setiap jam akun dengan Poin Likuiditas paling banyak menerima 1200 STEAM dan setelah itu Liquidity Points dikembalikan ke 0. Akun yang berjalan seminggu tanpa mendapatkan poin likuitditas juga memiliki titik pengembalian ke 0. Ini menunjukkan bahwa anda menyediakan sejumlah besar likuiditas atau jumlah kecil dalam jangka waktu yang panjang setiap orang memperoleh jumlah imbalan yang sebanding. If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
 
 ### Sustainable Debt to Ownership Ratios
 
@@ -191,7 +191,7 @@ Changes to the interest rate policy and/or any premiums/discounts on the STEEM/S
 
 It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SMD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.99 and $1.01 for SMD under most market conditions.
 
-## Subjective Contributions
+## Kontribusi Subyektif
 
 Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
 
