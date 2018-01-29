@@ -78,11 +78,11 @@ STEEM با توجه به مشوق های غیرSMD، سالانه باعرضه 1
 
 کسی که بیت کوین یا هر نوع ارز رمزی دیگر را خریداری می کند و 10 روز بعد آن را می فروشد، به دلیل نوسان قیمت ها می تواند به راحتی 3٪ یا بیشتر ضررکند.  کسی که Bitcoin را خریداری می کند و سپس آن را در همان روز می فروشد، معمولا فقط در هزینه های بازار بیش از 0.4٪ می پردازد. به عبارت دیگر، نرخ تورم به طور موثر در طول دوره زمانی که فردSTEEM را نگه می دارد، ناچیز است.
 
-The majority of inflation is actually an accounting artifact rather than true reallocation of wealth. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
+The majority of inflation is actually an accounting artifact rather than true reallocation of wealth. 90٪ تورم غیر SMDمتناسب با مقدارSTEEM SP به صاحبان فعلی STEEM بازگردانده میشود، making in ation more of a "split". فقط حدود 10٪ از تورم غیر SMD باعث توزیع مجدد مالکیت درشبکه می شود.
 
-## Steem Power (SP)
+## Steem قدرت (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+شرکت های نوپا نیاز به تعهد سرمایه گذاری دردرازمدت دارند. انتظار میرود کسانی که پول خود را دریک شرکت نوپا سرمایه گذاری می کنندباید سالها برای اینکه بتوانند سهامشان را بفروشند و سود خود را محاسبه کنند منتظر بمانند. بدون تعهد بلند مدت، شرکت نوپا برای جذب سرمایه بیشترازطریق فروش سهام اضافی، با سهامدارانی که به دنبال خروج هستندرقابت خواهد کرد. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
 There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
