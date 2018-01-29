@@ -64,7 +64,7 @@ Ada bentuk kontribusi lain yang diakui Steem dan penghargaan menggunakan metrik 
 
 Bagian ini menguraikan ide di balik Steem dan penghargaannya bagi siapa saja yang memberikan kontribusi yang bermakna serta terukur kepada komunitas Steem.
 
-## Capital Contributions
+## Kontribusi Modal
 
 Ada dua item yang bisa ditawarkan oleh komunitas agar bisa menarik modal: hutang dan kepemilikan. Mereka yang membeli kepemilikan memperoleh keuntungan ketika komunitas tumbuh namun kalah jika komunitas menurun. Mereka yang membeli dengan hutang terjamin dengan jumlah tertentu, tetapi tidak bisa ikut serta dalam setiap keuntungan yang direalisasikan oleh pertumbuhan komunitas. Kedua jenis kontribusi modal sangat berharga untuk pertumbuhan komunitas dan nilai mata uang itu sendiri. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
