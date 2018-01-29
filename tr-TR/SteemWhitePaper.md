@@ -118,9 +118,9 @@ Steem, bir hafta boyunca ortalama fiyat kullanarak kısa vadeli fiyat dalgalanma
 
 Fiyat arzı yolsuzluğunun, değişen medyan zaman aralığının yarısından kısa sürdüğü müddetçe, dönüşüm fiyatları üzerindeki etkisi minimal düzeyde olacaktır. Yayının yolsuzluğunun olması durumunda ağ katılımcılarının, kirli yayın aktüel dönüşüm fiyatını etkilemeden önce, yozlaşmış yayın üreticileri aleyhinde oy kullanma imkanı olacaktır. Belki de daha önemlisi bu, yayın üreticilerine yayınları, fiyatı etkilemeye başlamadan önce tespit ve düzeltme şansı sunmaktadır.
 
-With a one week window, community members have three and a half days to respond to any issues that come up.
+Bir haftalık süreçte, topluluk üyelerinin ortaya çıkabilecek herhangi bir soruna yanıt vermesi için üç buçuk gün vardır.
 
-### Mitigating Timing Attacks
+### Zamanlama saldırılarını azaltmak
 
 Market participants have access to information faster than the blockchain's one week moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
 
