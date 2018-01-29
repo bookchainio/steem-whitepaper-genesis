@@ -295,7 +295,7 @@ Ketika sebuah postingan mendapat pembayaran maka bentuknya 50% SMD dan 50% SP. S
 
 # Consensus Algorithm
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+Konsensus adalah proses dimana sebuah komunitas mencapai kesepakatan yang diakui secara universal dan tidak membingungkan terhadap sebuah informasi. There are many algorithms society has developed for reaching consensus about who owns what. Setiap pemerintahan di muka bumi merupakan sebuah algoritma konsensus primitif dimana setiap populasi setuju untuk mematuhi seperangkat aturan tertentu yang telah tercantum dalam konstitusi. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
 
 The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
 
