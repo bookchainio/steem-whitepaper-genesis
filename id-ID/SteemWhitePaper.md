@@ -134,11 +134,11 @@ The blockchain decides how and when to create SMD and who should get it. This ke
 
 ### Likuiditas
 
-Just because SMD can be converted to a dollars worth of STEEM at a fair price in a reasonable amount of time doesn't mean it will be viewed as a reliable dollar replacement. Aset tersebut membutuhkan likuiditas dalam pasar yang memungkinkan konversi seketika antara STEEM dan SMD. Langkah-langkah yang dilarang dilakukan oleh blokchain sebagai pencegahan penyalahgunaan akhirnya menurunkan kualitas dolar yang dikonversi. Untuk mengkompensasi kehilangan kualitas, blockchain bisa menawarkan biaya penghargaan tetap kepada penyedia likuiditas. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
+Just because SMD can be converted to a dollars worth of STEEM at a fair price in a reasonable amount of time doesn't mean it will be viewed as a reliable dollar replacement. Aset tersebut membutuhkan likuiditas dalam pasar yang memungkinkan konversi seketika antara STEEM dan SMD. Langkah-langkah yang dilarang dilakukan oleh blokchain sebagai pencegahan penyalahgunaan akhirnya menurunkan kualitas dolar yang dikonversi. Untuk mengkompensasi kehilangan kualitas, blockchain bisa menawarkan biaya penghargaan tetap kepada penyedia likuiditas. Sedangkan potensi kerugian dari manipulasi dan penyalahgunaan yang tidak terbatas, biaya untuk mendorong likuiditas bisa diperbaiki.
 
-A liquidity provider buys and sells SMD and STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
+Penyedia likuiditas membeli serta menjual SMD dan STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
 
-Steem has an on-blockchain market between SMD and STEEM. Users can earn rewards by providing liquidity to both sides of this market. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
+Steem memiliki pasar pada blockchain antara SMD dan STEEM. Pengguna bisa mendapatkan imbalan dengan memberikan likuiditas pada kedua sisi pasar ini. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
 
 A user is considered a liquidity provider if they leave an open order on the books for at least 1 minute and the order is eventually filled. If the order is canceled before being filled then the user is not credited with providing liquidity.
 
