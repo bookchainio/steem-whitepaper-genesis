@@ -104,11 +104,11 @@ Stabilitas merupakan fitur penting kesuksesan ekonomi global. Tanpa stabilitas, 
 
 Steem Dollars diciptakan dengan sebuah mekanisme yang mirip dengan catatan konversi, yang sering digunakan untuk mendanai startup. Didalam dunia startup, catatan konversi adalah instrumen hutang jangka pendek yang bisa dikonversikan menjadi kepemilikan pada tingkatan yang ditentukan di masa mendatang, biasanya pada putaran pendanaan kedepannya. Token berbasis blockchain bisa dipandang sebagai kepemilikan didalam komunitas dimana catatan konversi dapat dipandang sebagai hutang pada mata uang lain atau komoditas lainnya. Ketentuan dalam catatan konversi memungkinkan pemegangnya untuk mengkonversikan menjadi token pendukung dengan pemberitahuan minimal pada harga pasar yang sesuai dari token tersebut. Menciptakan token-convertible-dollars memungkinkan blockchain untuk mengembangkan efek jaringan mereka sambail memaksimalkan pengembalian bagi pemegang token.
 
-Steem Doller disebut dengan simbol SMD, singkatan untuk Steem Dollars. Menciptakan SMD membutuhkan kombinasi umpan harga yang bisa diandalkan, aturan untuk mencegah penyalahgunaan, serta likuiditas. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+Steem Doller disebut dengan simbol SMD, singkatan untuk Steem Dollars. Menciptakan SMD membutuhkan kombinasi umpan harga yang bisa diandalkan, aturan untuk mencegah penyalahgunaan, serta likuiditas. Menyediakan sebuah umpan harga yang andal melibatkan tiga faktor: meminimalkan dampak umpan yang tidak benar, memaksimalkan biaya produksi umpan yang salah, dan meminimalkan pentingnya waktu.
 
 ### Minimizing Fraudulent Feeds
 
-SP holders elect individuals to publish price feeds. These elected individuals are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+Pemegang SP memilih individu-individu untuk menerbitkan umpan harga. Individu yang terpilih ini mungkin dipercayakan oleh mereka yang memiliki kepentingan dalam umpan yang berkualitas. Dengan membayar mereka yang terpilih, Steem menciptakan persaingan pasar untuk memperoleh hak ke penghasil umpan. The more the feed producers are paid the more they have to lose by publishing false information.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
@@ -122,7 +122,7 @@ With a one week window, community members have three and a half days to respond 
 
 ### Mitigating Timing Attacks
 
-Market participants have access to information faster than the blockchain's one week moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Market participants have access to information faster than the blockchain's one week moving median conversion price can react. Informasi ini bisa digunakan sebagai keuntungan pedagang dengan biaya dari komunitas. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
 
 Steem levels the playing field by requiring all conversion requests to be delayed for one week. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
