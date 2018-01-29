@@ -161,17 +161,17 @@ The idea behind having a conservative 5% debt to ownership ratio is that even if
 
 ### علاقه
 
-SMD به سهامدارسود پرداخت می کند. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SMD به سهامدارسود پرداخت می کند.  نرخ سود توسط همان افرادی که نرخ قیمت را منتشر می کنند، تنظیم می شود به این طریق میتواند با شرایط تغییر بازارمطابق شود. تمام بدهی ها برای وام دهنده ریسک دارد. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. آنها اعتقاد دارند که در آینده برخی از افراد مایل به خرید یک SMD از آنها برای یک دلارخواهندبود یا اینکه دلالان و سرمایه گذاران مایل به خرید STEEM ی که آنها تبدیل می کنند خواهند بود.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SMD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+صاحبان STEEM و SP، زمانی که اعضای جامعه مایل به نگه داشتن SMD هستند، لوریج بدست می اورند. این لوریج سود حاصل از رشد را افزایش می دهد و همچنین به رشد کمک می کند. اگر قیمت کاهش یابد دارندگان STEEM دچار افزایش افت ارزش میشوند. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
 ### Setting Price Feeds
 
 Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. نرخ ارز پایدار
+2. حرکت سرمایه آزاد
+3. سیاست پولی مستقل
 
 If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
