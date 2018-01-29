@@ -122,7 +122,7 @@ Bir haftalık süreçte, topluluk üyelerinin ortaya çıkabilecek herhangi bir 
 
 ### Zamanlama saldırılarını azaltmak
 
-Market participants have access to information faster than the blockchain's one week moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Piyasa katılımcılarının bilgiye blockchainin bir haftalık hareketli medyan dönüşüm fiyatının yansıtabileceğinden daha hızlı ulaşımı vardır. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
 
 Steem levels the playing field by requiring all conversion requests to be delayed for one week. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
