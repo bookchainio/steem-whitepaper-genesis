@@ -108,9 +108,9 @@ Steem Dolarları, Steem Dolarları'nın kısaltması olan SMD sembolüyle anıl�
 
 ### Hileli yayınları en aza indirme
 
-SP sahipleri fiyat yayınlarını paylaşmaları için Witness'lar olarak adlandırılan bireyleri seçer. These elected individuals are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+SP sahipleri fiyat yayınlarını paylaşmaları için Witness'lar olarak adlandırılan bireyleri seçer. Seçilmiş Witness'lar, muhtemelen, yayının kalitesinde nemalı menfaatleri olanlar nezdinde güvenilirdir. Steem, bu seçilmişlere ödeme yapmak yoluyla, yayın yapmak için hak kazanmaya yönelik bir piyasa rekabeti yaratmaktadır. Yayın üreticilerine yapılan ödemedeki artış, onların yanlış bilgi paylaşımı durumundaki kayıplarını artırır.
 
-Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+Güvenilir ve seçilmiş yayın üreticileri, göz önünde bulundurulduğunda, dönüşümler için kullanılan aktüel fiyat, onların yaptıkları yayınların medyanından sağlanabilir. Bu yolla, eğer yayın üreticilerinden biri azınlık uç değerler üretirse, kendi ünlerine tesir edecek etkiye hala sahip olmakla birlikte aktüel medyan üzerinde minimal etkiye sahip olurlar.
 
 Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
 
