@@ -104,9 +104,9 @@ SP'den Steem'e aktarım işlemi "güç azaltma" olarak ifade edilirken, STEEM'de
 
 Steem Doları, başlangıçları fonlamak için sıklıkla kullanılan dönüştürülebilir senetlere benzeyen bir mekanizma tarafından yaratıldı. Dönüştürülebilir senetler, işin başlangıcında -sıklıkla ileriki fonlama rauntları sırasında- gelecekte belirlenen bir oranda özkaynağa dönüştürülebilecek kısa dönem borçlanma araçlarıdır. Bir blockchain temelli token, toplulukta bir mülkiyet olarak değerlendirebilecekken; dönüştürülebilir senet ise herhangi bir metaya ya da para birimine bağlı bir borç olarak görülebilir. Dönüştürülebilir senedin koşulları onu, kendisini elinde bulundurana en az çabayla bağlı olduğu tokena -tokenın adil piyasa fiyatında- dönüştürebilme imkanı tanır. Tokena dönüştürülebilir dolarlar yaratmak, token sahiplerin kazançlarını maksimize ederken blockchainlere de kendi ağ etklilerini büyütme imkanı tanır.
 
-Steem Dolarları, Steem Dolarları'nın kısaltması olan SMD sembolüyle anılır. Creating SMD requires a combination of a reliable price feed, rules to prevent abuse, and liquidity. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+Steem Dolarları, Steem Dolarları'nın kısaltması olan SMD sembolüyle anılır. SMD oluşturmak güvenilir bir fiyat arzı, istismarı önleme kuralları ve likiditenin bir kombinasyonunu gerektirir. Güvenilir bir fiyat yayını üretimi üç unsuru barındırır: Doğru olmayan yayının etkisinin minimize edilmesi, doğru olmayan yayının sonuçlarının maksimize edilmesi ve zamanlamanın öneminin minimize edilmesi.
 
-### Minimizing Fraudulent Feeds
+### Hileli yayınları en aza indirme
 
 SP holders elect individuals to publish price feeds. These elected individuals are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
 
