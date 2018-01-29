@@ -122,13 +122,13 @@ Bir haftalık süreçte, topluluk üyelerinin ortaya çıkabilecek herhangi bir 
 
 ### Zamanlama saldırılarını azaltmak
 
-Piyasa katılımcılarının bilgiye blockchainin bir haftalık hareketli medyan dönüşüm fiyatının yansıtabileceğinden daha hızlı ulaşımı vardır. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Piyasa katılımcılarının bilgiye blockchainin bir haftalık hareketli medyan dönüşüm fiyatının yansıtabileceğinden daha hızlı ulaşımı vardır. Bu bilgi al-satçıların yararı namına topluluğun aleyhinde kullanılabilir. Eğer Steem'in değerinde ani bir yükseliş varsa, al-satçılar SMD'lerini eski, düşük dönüşüm fiyatı üzerinden çevirme talebi gönderip daha sonrasında edindikleri STEEM'lerini, en ufak riskle yeni yüksek fiyat üzerinden satabilirler.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for one week. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steem, dönüşüm taleplerinin bir hafta bekletilmesini şart koşmak yoluyla, oyun alanını kademelendirir. Bu demektir ki ne al-satçılar ne de blockchain, dönüşümün gerçekleştiği fiyat hakkında bir bilgi avantajına sahiptir.
 
-### Minimizing Abuse of Conversions
+### Dönüşüm İstismarlarını En Aza İndirmek
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SMD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SMD to STEEM and not the other way around.
+Eğer insanlar iki yönde de rahatlıkla dönüştürme yapabilselerdi, o zaman al-satçılar blockchainin dönüşüm oranlarından, fiyatı değiştirmeden büyük hacimlerde ticaret yaparak avantaj elde edebilirlerdi. Traders who see a massive run up in price would convert to SMD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SMD to STEEM and not the other way around.
 
 The blockchain decides how and when to create SMD and who should get it. This keeps the rate of SMD creation stable and removes most avenues of abuse.
 
