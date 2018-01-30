@@ -283,7 +283,7 @@ Efek ekonomi dari hal ini adalah mirip dengan undian dimana orang-orang memperki
 
 #### Rewarding Parent Posts
 
-Good discussion requires back and forth posting. When you reply to someone else, they get 50% of any payout you receive in that thread. This rule applies up to 6 levels deep. Starting a big discussion greatly rewards the parent poster.
+Diskusi yang baik membutuhkan postingan bolak-balik. Saat anda membalas seseorang, mereka mendapatkan 50% dari pembayaran apapun yang anda terima pada thread tersebut. This rule applies up to 6 levels deep. Starting a big discussion greatly rewards the parent poster.
 
 Failure to properly nest your posts in the discussion is a good way to get down voted.
 
@@ -295,11 +295,11 @@ Ketika sebuah postingan mendapat pembayaran maka bentuknya 50% SMD dan 50% SP. S
 
 # Consensus Algorithm
 
-Konsensus adalah proses dimana sebuah komunitas mencapai kesepakatan yang diakui secara universal dan tidak membingungkan terhadap sebuah informasi. There are many algorithms society has developed for reaching consensus about who owns what. Setiap pemerintahan di muka bumi merupakan sebuah algoritma konsensus primitif dimana setiap populasi setuju untuk mematuhi seperangkat aturan tertentu yang telah tercantum dalam konstitusi. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+Konsensus adalah proses dimana sebuah komunitas mencapai kesepakatan yang diakui secara universal dan tidak membingungkan terhadap sebuah informasi. Terdapat banyak algoritma yang telah dikembangkan masyarakat untuk mencapai konsensus tentang siapa yang mimiliki apa. Setiap pemerintahan di muka bumi merupakan sebuah algoritma konsensus primitif dimana setiap populasi setuju untuk mematuhi seperangkat aturan tertentu yang telah tercantum dalam konstitusi. Pemerintah membentuk pengadilan, hakim, dan juri untuk menginterpretasikan fakta-fakta subjektif dan memberikan keputusan akhir. Most of the time people abide by the decision even if it was wrong.
 
-The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+Algoritma yang digunakan oleh mata uang kripto menyediakan cara yang lebih baik untuk mencapai konsensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
 
-The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+Pertimbangan utama adalah menentukan kesaksian apa yang memungkinkan untuk memasuki rekaman publik. Sistem harus dirancang untuk meminimalkan potensi terhadap penyensoran. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
 
 ## Consensus in Steem
 
