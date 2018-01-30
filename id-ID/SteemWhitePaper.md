@@ -167,7 +167,7 @@ STEEM and SP holders gain leverage when members of the community are willing to 
 
 ### Setting Price Feeds
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Pembaca yang cerdas akan menyadari bahwa setiap aset berbunga dengan persediaan terbatas mungkin diperdagangkan lebih tinggi atau lebih rendah ketimbang pada asset pokok yang tergantung pada kesempatan lain untuk mendapatkan bunga melalui aset yang serupa. Dengan suku bunga tinggi yang dibayarkan pada aset terhadap dolar AS, banyak orang akan mengajukan tawaran persedian terbatas harga Steem Dollars sampai mereka tidak lagi bernilai seharga $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
 1. Nilai tukar yang stabil
 2. Pergerakan modal bebas
