@@ -167,13 +167,13 @@ STEEM and SP holders gain leverage when members of the community are willing to 
 
 ### Setting Price Feeds
 
-Pembaca yang cerdas akan menyadari bahwa setiap aset berbunga dengan persediaan terbatas mungkin diperdagangkan lebih tinggi atau lebih rendah ketimbang pada asset pokok yang tergantung pada kesempatan lain untuk mendapatkan bunga melalui aset yang serupa. Dengan suku bunga tinggi yang dibayarkan pada aset terhadap dolar AS, banyak orang akan mengajukan tawaran persedian terbatas harga Steem Dollars sampai mereka tidak lagi bernilai seharga $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Pembaca yang cerdas akan menyadari bahwa setiap aset berbunga dengan persediaan terbatas mungkin diperdagangkan lebih tinggi atau lebih rendah ketimbang pada asset pokok yang tergantung pada kesempatan lain untuk mendapatkan bunga melalui aset yang serupa. Dengan suku bunga tinggi yang dibayarkan pada aset terhadap dolar AS, banyak orang akan mengajukan tawaran persedian terbatas harga Steem Dollars sampai mereka tidak lagi bernilai seharga $1. Didalam ekonomi terdapat prinsip yang dikenal sebagai Impossible Trinity[^4] yang menyatakan bahwa tidak mungkin untuk menjalankan ketiga hal berikut ini pada waktu yang bersamaan:
 
 1. Nilai tukar yang stabil
 2. Pergerakan modal bebas
-3. An independent monetary policy
+3. Kebijakan moneter independen
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+Jika produsen umpan Steem bermaksud untuk memiliki kebijakan moneter independen yang memungkinkannya untuk membuat serta menghancurkan Steem Dollars sekaligus mendapatkan kontrol penuh atas tingkatan suku bunga maka mereka akan menghadapi masalah. Impossible Trinity mengatakan bahwa Steem Dollars juga perlu membatasi pergerakan modal, memiliki pertukaran nilai yang tidak stabil dengan dolar, atau mendapatkan kontrol yang terbatas terhadap suku bunga.
 
 The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SMD and the U.S. Dollar (USD). Any time SMD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
