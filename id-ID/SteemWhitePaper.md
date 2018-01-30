@@ -181,13 +181,13 @@ If the debt-to-ownership ratio is under 10% and SMD is trading for less than $1.
 
 If SMD trades for less than $1.00 USD and the debt-to-ownership ratio is over 10% then the feeds should be adjusted upward give more STEEM per SMD. This will increase demand for SMD while also reducing the debt-to-ownership ratio and returning SMD to parity with USD.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SMD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Dengan asumsi nilai dari STEEM tumbuh lebih cepat ketimbang Steem menciptakan SMD baru, rasio hutang terhadap kepemilikan harus tetap di bawah rasio target dan bunga yang ditawarkan dapat menguntungkan semua orang. If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+Pada dasarnya, produsen umpan dipercayakan dengan tanggung jawab untuk menetapkan kebijakan moneter sebagai tujuan mempertahankan stabilitas yang stabil terhadap USD. Penyalahgunaan kekuatan ini bisa merugikan nilai STEEM sehingga pemegang SP yang bijaksana memilih saksi yang dapat diandalkan untuk menyesuaikan umpan harga dan tingkat suku bunga agar sesuai dengan aturan yang telah diuraikan di atas.
 
 If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SMD.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SMD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions. The blockchain is paying liquidity providers for their service in absorbing short-term demands.
+Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SMD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions. Blockchain membayar penyedia likuiditas untuk layanan mereka dalam menyerap tuntutan jangka pendek.
 
 It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SMD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.99 and $1.01 for SMD under most market conditions.
 
