@@ -209,7 +209,7 @@ In order to give everyone an equal opportunity to get involved and earn the curr
 
 Langkah pertama dalam memberikan penghargaan terhadap jutaan pengguna adalah dengan berkomitmen untuk mendistribusikan sejumlah uang secara tetap tanpa memperhatikan berapa banyak pekerjaan yang sesungguhnya dilakukan atau bagaimana cara pengguna memilih. This changes the question from being *"Should we pay?"* to *"Whom should we pay?"* and signals to the market that money is being distributed and is being auctioned off to whoever "bids" the most *work*. This is similar to Bitcoin committing to award 50 BTC to whoever finds the most difficult hashes. Seperti halnya Bitcoin, semua pekerjaan harus dilakukan sebelum pembayaran dan tidak ada yang harus dibayar secara spekulatif atas janji untuk melakukan pekerjaan kedepannya.
 
-The next step is to reward everyone who does anything even remotely positive with *something*. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
+The next step is to reward everyone who does anything even remotely positive with *something*. Hal tersebut dicapai dengan memberi peringkat pada semua pekerjaan yang dilakukan dan mendistribusikan secara proporsional terhadap nilai tersebut. Semakin kompetitif pasar menjadi, maka semakin sulit pula (kualitas atau kuantitas yang lebih tinggi) untuk mendapatkan pembayaran yang sama.
 
 ### Voting on Distribution of Currency
 
