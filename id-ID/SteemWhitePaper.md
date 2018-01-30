@@ -185,7 +185,7 @@ Dengan asumsi nilai dari STEEM tumbuh lebih cepat ketimbang Steem menciptakan SM
 
 Pada dasarnya, produsen umpan dipercayakan dengan tanggung jawab untuk menetapkan kebijakan moneter sebagai tujuan mempertahankan stabilitas yang stabil terhadap USD. Penyalahgunaan kekuatan ini bisa merugikan nilai STEEM sehingga pemegang SP yang bijaksana memilih saksi yang dapat diandalkan untuk menyesuaikan umpan harga dan tingkat suku bunga agar sesuai dengan aturan yang telah diuraikan di atas.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SMD.
+Jika rasio hutang terhadap kepemilikan menjadi sangat-sangat tinggi dan pelaku pasar memilih untuk menghindari permintaan konversi, kemudian umpan seharusnya disesuaikan untuk meningkatkan tingkatan di mana STEEM membayar untuk mengkonversi SMD.
 
 Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SMD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions. Blockchain membayar penyedia likuiditas untuk layanan mereka dalam menyerap tuntutan jangka pendek.
 
