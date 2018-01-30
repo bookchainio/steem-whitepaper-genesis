@@ -134,11 +134,11 @@ Blockchain memutuskan bagaimana serta kapan membuat SMD dan siapa saja yang berh
 
 ### Likuiditas
 
-Just because SMD can be converted to a dollars worth of STEEM at a fair price in a reasonable amount of time doesn't mean it will be viewed as a reliable dollar replacement. Aset tersebut membutuhkan likuiditas dalam pasar yang memungkinkan konversi seketika antara STEEM dan SMD. Langkah-langkah yang dilarang dilakukan oleh blokchain sebagai pencegahan penyalahgunaan akhirnya menurunkan kualitas dolar yang dikonversi. Untuk mengkompensasi kehilangan kualitas, blockchain bisa menawarkan biaya penghargaan tetap kepada penyedia likuiditas. Sedangkan potensi kerugian dari manipulasi dan penyalahgunaan yang tidak terbatas, biaya untuk mendorong likuiditas bisa diperbaiki.
+Hanya karena SMD bisa dikonversi menjadi STEEM seharga satu dolar dengan harga wajar dalam jumlah waktu yang wajar bukan berarti itu akan layak dilihat sebagai pengganti dolar yang andal. Aset tersebut membutuhkan likuiditas dalam pasar yang memungkinkan konversi seketika antara STEEM dan SMD. Langkah-langkah yang dilarang dilakukan oleh blokchain sebagai pencegahan penyalahgunaan akhirnya menurunkan kualitas dolar yang dikonversi. Untuk mengkompensasi kehilangan kualitas, blockchain bisa menawarkan biaya penghargaan tetap kepada penyedia likuiditas. Sedangkan potensi kerugian dari manipulasi dan penyalahgunaan yang tidak terbatas, biaya untuk mendorong likuiditas bisa diperbaiki.
 
 Penyedia likuiditas membeli serta menjual SMD dan STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
 
-Steem memiliki pasar pada blockchain antara SMD dan STEEM. Pengguna bisa mendapatkan imbalan dengan memberikan likuiditas pada kedua sisi pasar ini. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
+Steem memiliki pasar pada blockchain antara SMD dan STEEM. Pengguna bisa mendapatkan imbalan dengan memberikan likuiditas pada kedua sisi pasar ini. Blockchain menggunakan sebuah algoritma sederhana untuk memberi peringkat terhadap penyediaan likuiditas dari setiap pengguna serta konsumsinya.
 
 A user is considered a liquidity provider if they leave an open order on the books for at least 1 minute and the order is eventually filled. If the order is canceled before being filled then the user is not credited with providing liquidity.
 
@@ -153,15 +153,15 @@ Setiap jam akun dengan Poin Likuiditas paling banyak menerima 1200 STEAM dan set
 
 If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
 
-For every SMD Steem creates, $19.00 of STEEM is also created and converted to SP. This means that the highest possible debt-to-ownership in a stable market is 1:19 or about 5%. If Steem falls in value by 50% then the ratio could increase to 10%. An 88% fall in value of STEEM could cause the debt-to-ownership ratio to reach 40%. Assuming the value of STEEM eventually stabilizes, the debt-to-ownership ratio will naturally move back toward 5%.
+For every SMD Steem creates, $19.00 of STEEM is also created and converted to SP. Ini menunjukkan bahwa kemungkinan tertinggi kepemilikan hutang dalam pasar yang stabil adalah 1:19 atau sekitar 5%. Jika nilai Steem turun sebesar 50% maka rasionya bisa meningkat mencapai 10%. An 88% fall in value of STEEM could cause the debt-to-ownership ratio to reach 40%. Dengan asumsi bahwa nilai STEEM akhirnya menjadi stabil, rasio hutang terhadap kepemilikan akan bergerak secara alami kembali menuju 5%.
 
 The idea behind having a conservative 5% debt to ownership ratio is that even if all debt were converted and sold there should be ample buyers and the effective dilution of the token holders remains relatively small.
 
-A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SMD and SP (as determined by the current rate / feed).
+Perubahan harga STEEM yang cepat bisa secara dramatis mengubah rasio hutang terhadap kepemilikan. The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SMD and SP (as determined by the current rate / feed).
 
 ### Interest
 
-SMD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SMD membayar pemegang bunga. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
 STEEM and SP holders gain leverage when members of the community are willing to hold SMD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
