@@ -325,7 +325,7 @@ The difficulty of the proof of work doubles every time the queue length grows by
 
 Setelah bulan pertama, penambang Steem dibayar dengan Steem Power (SP). SP is liquidated through the two-year process of "powering down". Ini dimaksudkan bahwa penambang harus menunggu untuk waktu yang lama, mungkin berbulan-bulan, sebelum mendapatkan imbalan penambangan yang cukup agar memungkinkan mereka menggantikan biaya listrik dan sumber daya komputerisasi. The powering down process discourages creation of mining pools because the pool operator would have to spread payouts over years.
 
-The effect of paying mining rewards in SP is to prevent miners from using today's price to determine the pro tability of mining. Hanya sedikit orang yang akan setuju terhadap berapa harga yang akan muncul. This means mining difficulty will be driven by those who place the highest estimate on future value. Miners without a long-term interest in the platform will be discouraged from competing. Ultimately this means that the proceeds of mining are less likely to be dumped on the market because they will accrue to long-term believers in the platform.
+The effect of paying mining rewards in SP is to prevent miners from using today's price to determine the pro tability of mining. Hanya sedikit orang yang akan setuju terhadap berapa harga yang akan muncul. This means mining difficulty will be driven by those who place the highest estimate on future value. Miners without a long-term interest in the platform will be discouraged from competing. Pada akhirnya ini menunjukkan bahwa hasil penambangan cenderung tidak dibuang ke dalam pasar karena mereka akan memperoleh kepercayaan jangka panjang pada platform.
 
 ### Mining Algorithm
 
