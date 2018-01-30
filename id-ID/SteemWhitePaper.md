@@ -193,11 +193,11 @@ It is our belief that these rules will give market participants confidence that 
 
 ## Kontribusi Subyektif
 
-Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. Ketika individu bergabung dengan sebuah komunitas yang mereka beli ke dalam serangkaian keyakinan tertentu dan dapat memilih untuk memperkuat komunitas terhadap nilai atau tujuannya.
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. Sebuah komunitas mungkin ingin memberi penghargaan kepada seniman, penyair, serta komedian lainnya. Komunitas lainnya mungkin memilih untuk memberi penghargaan sosial atau membantu meningkatkan agenda politik.
 
-The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Tidak seperti sistem sebelumnya, bukti subjektif dari pekerjaan memungkinkan sebuah komunitas untuk mengumpulkan secara kolektif pengembangan dalam bentuk apapun yang dianggapnya berharga dan memungkinkan monetisasi waktu yang sebelumnya tidak bisa dimonetisasi.
 
 ### Distributing Currency
 
