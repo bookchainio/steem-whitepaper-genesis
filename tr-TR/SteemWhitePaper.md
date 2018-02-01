@@ -1,183 +1,183 @@
 # Steem
 
-## Een gestimuleerd, blockchain gebaseerd sociaal media platform.
+## Blockchain temelli, teşvik sistemine dayalı, sosyal medya platformu.
 
-Maart 2016
+Mart 2016
 
-# Noten van de vertaler
+# Çevirmenin notları
 
-.
+Çevirmenin notları için tutucu.
 
-# Abstract
+# Özet
 
-Steem is een blockchain databank dat het vormen van gemeenschappen en sociale interactie ondersteund met cryptogeld beloningen. Steem combineert concepten uit sociale media met lessen uit het bouwen van cryptogeld en hun gemeenschappen. Een belangrijk onderdeel bij het inspireren van deelname in elke gemeenschap, valuta of vrije markteconomie is een eerlijk boekhoudkundig systeem dat de bijdrage van elke persoon consequent weerspiegelt. Steem is de eerste cryptovaluta die probeert om op nauwkeurige en transparante wijze een onbegrensd aantal personen te belonen die *subjectief bijdragen* aan de gemeenschap.
+Steem, kripto para ödülleri aracılığıyla topluluk oluşturmayı ve toplumsal etkileşime girmeyi teşvik eden bir blockchain veri tabanıdır. Steem, sosyal medyaya özgü kavramları, kripto para birimlerinin ve kripto para birimi topluluklarının yaratım sürecinde öğrenilen derslerle birleştirmektedir. Bireylerin katılımını tutarlı bir şekilde temsil edecek adil bir muhasebe sisteminin varlığı, herhangi bir topluluğa, para birimine veya serbest piyasa ekonomisine katılımı teşvik etmenin kilit unsurlarından biridir. Steem, çok sayıda birey tarafından Steem topluluğuna sunulan *bireysel katkılar*'ın doğru ve şeffaf bir şekilde ödüllendirilmesini hedefleyen ilk kripto para birimi olma özelliğine sahiptir.
 
-# Inhoudsopgave
+# İçeriklerin tablosu
 
 <!-- toc -->
 
-# Introductie
+# Tanıtım
 
-Collectief, heeft gebruikers gegenereerde inhoud miljarden dollars waarde gecreëerd voor de aandeelhouders van sociale media bedrijven zoals Reddit, Facebook en Twitter. **In 2014 veronderstelde Reddit dat het platform zou verbeteren indien het iedereen die bijdroeg tot reddit.com door het plaatsen van verhalen, toevoegen van opmerkingen en stemmen, zou belonen met een eerlijk aandeel in Reddit. Inc.[^1]**. Steem is gericht op het ondersteunen van sociale media en online gemeenschappen door veel van zijn waarde terug te keren aan mensen die waardevolle bijdragen maken door hen te belonen met cryptogeld, en door dit process een valuta te creëren die in staat is om een brede markt te bereiken, met begrip voor mensen die nog moeten deelnemen aan een cryptogeld economie.
+Toplu olarak, kullanıcı tarafından yaratılmış içerik olan reddit, Facebook ve Twitter gibi sosyal medya şirketleri, hissedarları için milyarlarca dolarlık bir değer yarattı. **2014 yılında Reddit, reddit.com'a hikaye paylaşımları, yorum ekleme, ya da oylama yoluyla katkıda bulunmuş olan herkesin Reddit'ten adil bir hisse ile ödüllendirilmesi durumunda kendi platformlarının çok daha gelişeceği varsayımını öne sürdü.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref"></a></sup>**. Steem, değerini büyük bir kısmını cryptocurrency ile ödüllendirerek değerli katkılar sağlayanlara geri getirerek sosyal medyayı ve çevrimiçi toplulukları desteklemeyi ve bu süreçle henüz sahip olmadığı insanlar da dahil olmak üzere geniş bir pazara erişebilen bir para birimi oluşturmayı amaçlıyor.
 
-Er zijn een aantal belangrijke principes gebruikt om het ontwerp van Steem te leiden. Het meest belangrijke uitgangspunt is dat, iedereen die bijdraagt aan een onderneming, pro-rata eigendom, betaling of schuld moet krijgen van de onderneming. Dit principe is hetzelfde principe dat van toepassing is bij alle startups wanneer deze aandelen toewijzen bij het oprichten of tijdens de daaropvolgende financiering rondes.
+Steem'in tasarımına rehberlik etmek için kullanılmış olan bazı ana ilkeler vardır. En önemli ilke, bir girişime katkıda bulunmuş olan herkesin, girişimden göreceli bir oranda hisse, ödeme veya borç alıyor olmasıdır. Bu ilke, kuruluş aşamasında ve sonrasında ki fonlama turlarında, hisse dağıtan tüm yeni başlayanlara uygulanan ilkenin aynısıdır.
 
-Het tweede principe is dat alle vormen van kapitaal even waardevol zijn. Dit betekent dat degenen die hun schaarse tijd en aandacht bijdragen door het produceren en selecteren van inhoud voor anderen net even waardevol zijn als degenen die hun schaars geld bijdragen. Dit is het zweet eigen vermogen principe[^2] en is een concept waar voorafgaande cryptovaluta’s vaak moeite mee hadden met het te verstrekken aan meer dan enkele tientallen individuen.
+İkinci ilke, tüm sermaye çeşitlerinin eşit derecede değerli olmasıdır. Bu şu anlama gelir: Kısıtlı zamanlarını ve dikkatlerini diğerleri için içerik üreterek ve küratörlük yaparak platforma katkı olarak sunanlar, kısıtlı nakitlerini katkı olarak sunanlarla aynı oranda değerlidir. Bu ter eşitliği ilkesidir[^2] ve önceki birçok kripto para birimi, sınırlı sayıda insandan fazlasına refah sağlamak konusunda bu kavram ile sıkıntı yaşamıştır.
 
-Het derde principe is dat de gemeenschap producten produceert om haar leden te dienen. Dit principe word geïllustreerd door credit unions, voedsel co-ops, en het delen van gezondheid plannen, welke hun leden dienen in plaats van het verkopen van producten en diensten aan mensen buiten de gemeenschap.
+Üçüncü ilke, topluluğun üyelerine hizmet edebilmek için ürünler üretiyor olmasıdır. Bu ilke, kendi topluluklarının dışına mal ya da hizmet satmaktansa sadece kendi üyelerine hizmet eden kredi birlikleri, yemek kooperatifleri, sağlık paylaşım planları üzerinden örneklendirilebilir.
 
-De Steem gemeenschap bied de volgende diensten aan haar leden:
+Steem topluluğu üyelerine, aşağıda yer alan hizmetleri sunar:
 
-1. Een bron van geselecteerd nieuws en commentaar.
-2. Een middel om kwalitatieve antwoorden te krijgen op gepersonaliseerde vragen.
-3. Een stabiele cryptovaluta gekoppeld aan de Amerikaanse dollar.
-4. Gratis betalingen.
-5. Jobs die bovenstaande diensten verstrekken aan andere leden.
+1. Küratörlüğü yapılmış, haber ve yorum kaynağı.
+2. Kişiselleştirilmiş sorulara, yüksek kalitede yanıtlar alma araçları.
+3. Değeri Amerikan Doları'na sabitlenmiş, istikrarlı bir kripto para birimi.
+4. Ücretsiz ödemeler.
+5. Yukarı da ki hizmetleri, diğer üyelere sağlayacak servisler.
 
-Steem’s doelbewuste herschikking van economische stimulans heeft het potentieel om eerlijker en meer inclusieve resultaten te produceren voor alle betrokkenen dan de sociale media en cryptogeld platformen die het zijn voorafgegaan. Dit document zal de huidige economische stimulans verkennen en demonstreren hoe Steem’s stimulans kan leiden tot betere resultaten voor de meeste deelnemers.
+Steem'in ekonomik teşvikleri bir amaca yönelik olarak yeniden düzenlemesi, ilgili herkes açısından kendinden önceki sosyal medya ve kripto para birimi platformlarındakinden çok daha adil ve kapsayıcı sonuçlar üretme potansiyeline sahiptir. Bu makale mevcut ekonomik teşvikleri inceleyecek ve Steem teşviklerinin, katılımcıların çoğunlugu için nasıl daha iyi sonuçlar üretebileceğini gösterecektir.
 
-## Bijdrage Herkennen
+## Katkıyı tanımlamak
 
-Steem is van de grond af aan ontworpen om de belangrijkste belemmeringen voor adoptie en het maken van geld van een sociaal media gebaseerde economie aan te pakken. Onze stelling is dat dezelfde technieken die gebruikt worden voor de groei van grote sociale media platformen gebruikt kunnen worden om een succesvolle cryptovaluta op te starten. Economische stimulans mogelijk gemaakt door cryptogeld kan de groei van een nieuw sociaal media platform drastisch vergemakkelijken. Wij geloven dat het de synergie is tussen cryptogeld en sociale media dat Steem een krachtig voordeel kan geven in de markt.
+Steem sosyal medya temelli ekonominin bensimsenmesinin ve parasallaştırılmasının önündeki en büyük engelleri ortadan kaldırmaya yönelik olarak temelden tasarlanmıştır. Bizim tezimiz sosyal medya platformlarının, büyümesi için kullanılan aynı tekniklerin başarılı bir kripto para birimine ön ayak olmak için de kullanılabileceğidir. Kripto para biriminin mümkün kıldığı ekonomik teşvikler yeni bir sosyal medya platformunun büyümesine çarpıcı bir şekilde olanak sağlayabilir. Biz inanıyoruz ki kripto bara birimi ve sosyal medya arasındaki sinerji, Steem'e piyasada güçlü bir avantaj sağlayabilir.
 
-De uitdaging voor Steem is het afleiden van een algoritme voor het bijhouden van individuele bijdragen dat door de meeste leden van de gemeenschap word aanzien als een eerlijke overweging van de subjectieve waarde van elke bijdrage. In een perfecte wereld zouden leden van de gemeenschap samenwerken om elkaars bijdrage te beoordelen en een eerlijke compensatie af te leiden. In de echte wereld, moeten algoritmen ontworpen worden op een manier dat deze resistent zijn voor opzettelijke manipulatie voor winst. Elk wijdverspreid misbruik van het score systeem can leiden tot gemeenschapsleden die het geloof verliezen in de gepercipieerde eerlijkheid van het economisch systeem.
+Steem tarafından yüklenilmiş zorlu görev; bireysel katkıları, üyelerin çoğunun her katkının öznel değerinin adil bir şekilde yansıtıldığını düşünmesini sağlayacak bir şekilde puanlayacak bir algoritma geliştirmekti. İdeal bir dünyada, topluluk üyeleri birbirlerinin katkılarını değerlendirme hususunda işbirliği yaparlar ve adil bir gelir elde ederler. Gerçek dünyada ise algoritmaların, kar elde etmek için yapılan kasti manipülasyonlara karşı dirençli olacak şekilde tasarlanmaları gerekir. Puanlama sisteminin yaygın bir şekilde istismar edildiği herhangi bir durum, topluluk üyelerinin ekonomik sistemin algılarındaki hakkaniyetine olan inançlarının düşmesine sebep olabilir.
 
-Bestaande platformen werken op een één gebruikers, één stem-principe. Dit creëert een omgeving waar rangorde kan worden gemanipuleerd door ‘sybil attacks’ en de dienstverleners pro actief misbruikers moeten identificeren en blokkeren. Mensen proberen al om de Reddit, Facebook en Twitter score algoritmes te manipuleren wanneer de enige beloning webverkeer of censuur is.
+Mevcut platformlar bir kullanıcı, bir oy ilkesi üzerine çalışır. Bu, sıralamaların sybil saldırıları tarafından manipüle edilebileceği, sunucu sağlayıcılarının suistimal edenleri proaktif bir şekilde tespit edip engellemesini gerektiren bir ortam yaratır. İnsanlar halihazırda Reddit, Facebook ve/veya Twitter sıralama algoritmalarını ortadaki tek ödül internet trafiği ya da sansürken bile manipüle etmeye çalışmaktadır.
 
-De fundamentele rekeneenheid op het Steem platform is STEEM, een cryptogeld token. Steem werkt op basis van één-STEEM, één-stem. Onder dit model hebben mensen die het meest hebben bijgedragen aan het platform, zoals gemeten door hun rekening balans, het meeste invloed op de manier waarop bijdragen worden gescoord. Bovendien laat Steem leden alleen toe om te stemmen met STEEM wanneer de betrokkene zich toewijd aan een meerjaren vestigingsschema. Onder dit model hebben leden een financiële drijfveer om te stemmen op een manier dat de lange termijn waarde van hun STEEM maximaliseert.
+Steem platformu üzerindeki temel hesap birimi, bir kripto para birimi olan STEEM'dir. Steem, bir-STEEM bir-oy temelinde çalışır. Bu modelde, hesap bakiyesiyle ölçüldüğü şekliyle, platforma en çok katkıda bulunan kişiler katkıların nasıl puanlandığı üzerinde çok fazla etkiye sahiptir. Dahası, Steem kullanıcılarına sadece vadeli yatırım çizelgesine oturtulmuş olan STEEM ile oy kullanma hakki tanır. Bu modele göre, üyelere kendi STEEM'lerinin uzun vadeli değerini en üst düzeye çıkartacak şekilde oy kullanmaları için maddi bir teşvik vardır.
 
-Steem is ontworpen rondom een relatief eenvoudig concept: *Ieders zinvolle bijdrage aan de gemeenschap moet worden opgenomen voor de waarde die het toevoegt.* Wanneer mensen worden erkend voor hun zinvolle bijdragen, blijven ze bijdragen zodat de gemeenschap groeit. Elke onbalans in het geven en nemen binnen de gemeenschap is onhoudbaar. Uiteindelijk word de gever moe van het ondersteunen van de nemer en zal deze zich los maken van de gemeenschap.
+Steem çok basit bir kavramın çevresinde tasarlanmıştır: *herkesin topluluğa yaptığı anlamlı katkıları, yarattığı değer kadar takdir görmelidir.* İnsanlar anlamlı katkıları için takdir gördüklerinde katkı yapmaya devam ederler ve topluluk büyür. Bir topluluk içerisindeki alma ve verme arasındaki herhangi bir dengesizlik hali sürdürülebilir değildir. Nihayetinde, verenler almakta olanları desteklemekten yorulur ve topluluktan ayrılır.
 
-De uitdaging is het creëren van een systeem dat in staat is te identificeren welke bijdragen en hun relatieve waarde nodig zijn op een manier dat kan geschaald worden naar een oneindig aantal mensen.
+Zorlu görev ise, sınırsız sayıda insana ölçeklenebilecek şekilde, hangi katkıların gerekli olduğuna ve onların göreli değerine karar verebilme kapasitesine sahip bir sistem yaratmaktır.
 
-Een bewezen systeem voor het evalueren en belonen van bijdragen is de vrije markt. De vrije markt kan beschouwd worden als één enkele gemeenschap waar iedereen handelt met elkaar en beloningen worden toegewezen door winst en verlies. Het markt systeem beloont degenen die zorgen voor waarde aan anderen en straft degenen die meer waarde verbruiken dan ze produceren. De vrije markt ondersteunt veel verschillende valuta’s en geld is gewoon een product dat iedereen gemakkelijk vind om uit te wisselen.
+Katkıların değerlendirilmesi ve ödüllendirilmesi konusunda rüşdünü ispatlamış sistem ise serbest piyasadır. Serbest piyasa herkesin bir diğeriyle ticaret yaptığı, ödüllerin kar ve zarara göre paylaşıldığı tekil bir topluluk olarak görülebilir. Piyasa sistemi diğerlerine değer sağlayanları ödüllendirir ve ürettiği değerden fazlasını tüketenleri ise cezalandırır. Serbest piyasa birçok para birimini destekler ve para ise, sadece herkesin takas etmeyi kolay bulduğu bir metadır.
 
-Omdat de vrije markt een bewezen systeem is, is het verleidelijk om te proberen een vrije markt systeem te creëren waar consumenten van inhoud, producenten van inhoud rechtstreeks betalen. Echter, rechtstreekse betaling is inefficiënt en niet haalbaar voor het creëren van inhoud en selectie. De waarde van de meeste inhoud is zo laag ten opzichte van de cognitieve, financiële en alternatieve kosten geassocieerd met het maken van een betaling die weinig lezers verkiezen te fooien. De overvloed aan gratis alternatieven betekent dat de tenuitvoerlegging van een ‘paywall’ de leden elders zal drijven. Er zijn verscheidene pogingen geweest per-artikel microbetalingen te implementeren van lezers naar gebruikers, maar geen daar van zijn wijdverspreid.
+Serbest piyasa rüşdünü ispat etmiş bir sistem olduğundan, içerik tüketicilerinin içerik üreticilerine doğrudan ödeme yaptığı bir serbest piyasa sistemi yaratmaya çalışmak cezbedicidir. Zira, doğrudan ödeme, içerik üretimi ve küratörlük için işlevsiz ve pekte uygulanabilir değildir. İçeriklerin çoğunun değeri, bilişsel, finansal ve fırsat maliyetlerine ilintili olarak çok az okuyucu bahşiş bırakmayı tercih edeceğinden, göreli olarak çok düşüktür. Bedava alternatiflerin çokluğu, bir 'ödeme duvarı'nı zorunlu tutmanın okuyucuları başka mecralara sürükleyeceği anlamına gelir. Okuyucudan yazara yapılacak mikro ödemeleri hayata geçirmeye çalışmış olan birçok deneme vardı fakat hiçbiri yaygın hale gelemedi.
 
-Steem is ontworpen om effectieve microbetalingen voor alle soorten bijdragen in staat te stellen door het veranderen van de economische vergelijking. Lezers hoeven niet langer meer te beslissen of zij wel of niet iemand willen betalen uit hun eigen zak, in plaats daarvan kunnen ze inhoud omhoog of omlaag stemmen en Steem zal hun stemmen gebruiken om individuele beloningen te bepalen. Dit betekent dat mensen een gebruikelijke en bekende interface krijgen en niet langer de cognitieve, financiële en alternatieve kosten dragen die geassocieerd worden met traditionele microbetaling en fooi platformen.
+Steem ekonomik denklemi değiştirerek, her türden katkı için yapılacak mikro ödemelere imkan tanıyabilmek için tasarlandı. Okuyucular bundan böyle kimseye kendi ceplerinden para ödeyip ödememe kararını vermek zorunda değil. Bunun yerine, onlar sadece bir içeriği aşağı ya da yukarı oylayabilir ve Steem bireysel ödülleri belirlemek için onların oylarını kullanacaktır. Bu ise, insanlara çokça kullanılan ve tanıdık bir arayüz verilmesi, ve onların geleneksel mikro ödeme ve bahşiş platformlarıyla ilintili bilişsel, mali ve fırsat maliyetleri ile yüzleşmek zorunda kalmamaları anlamına gelir.
 
-Stemmen inbreng van leden van de gemeenschap is van cruciaal belang voor Steem om nauwkeurige betalingen toe te wijzen aan medewerkers. Stemmen kan daarom worden gezien als een cruciale bijdrage en waardig voor beloningen op zichzelf. Sommige platformen, zoals Slashdot, gebruiken meta-moderatie [^3] als een manier voor rangorde en het belonen van eerlijke moderators. Steem kiest er voor degenen te belonen die het meest bijdragen aan de totale promotie van een stuk inhoud en beloond de kiezers proportioneel aan de ultieme beloning betaald aan de maker van de inhoud.
+Topluluk üyelerinden gelen oy girdisi, Steem'in katkı sunanlara yapılacak ödemeleri isabetli bir şekilde dağıtması için kritik bir öneme sahiptir. Bundan ötürü oylama mühim bir katkı sunma biçimi olarak görülebilir ve kendisi, başlı başına, bir ödülü hak etmektedir. Slashdot gibi bazı platformlar dürüst moderatörleri sıralamak ve ödüllendirmek için meta-moderation'u[^3] kullanır. Steem ise, bir içeriğin toplam tanıtımına en fazla katkıda bulunanları ödüllendirmeyi tercih eder ve oylayanları da yazara ödenmiş nihai ödül üzerinden orantılı olarak ödüllendirir.
 
-Er zijn andere vormen van bijdrage die Steem herkent en beloont op basis van objectieve metriek. Onder deze zijn: transactie validatie, proof of work mining, liquiditeit beloningen en het aangeven van misdragende blok producenten.
+Steem'in objektif metrikleri kullanarak tanıdığı ve ödüllendirdiği diğer katkılarda vardır. Bunların arasında: işlem geçerliliği, çalışma kanıtı madenciliği, likidite ödülleri ve yanlış çalışan blok üreticilerinin raporlanması.
 
-# Manieren Om Bij Te Dragen
+# Katkıda Bulunma Yolları
 
-In dit gedeelte worden de ideeën achter Steem en de beloningen voor mensen die zorgen voor zinvolle en meetbare bijdrage van de Steem gemeenschap beschreven.
+Bu bölüm, Steem'in arkasında yatan fikirler ve onun Steem topluluğuna anlamlı ve ölçülebilir katkılarda bulunan üyelerine sunduğu ödüller hakkında genel bir çerçeve çizer.
 
-## Bijdragen In Kapitaal
+## Sermaye Katkıları
 
-Er zijn twee items dat een gemeenschap kan aanbieden voor het aantrekken van kapitaal: schuld en eigendom. Degenen die eigendom kopen genereren winst wanneer de gemeenschap groeit, maar verliezen wanneer de gemeenschap krimpt. Degenen die schuld kopen word een zekere mate van belang verzekerd maar kunnen niet deelnemen aan een winst gerealiseerd door de groei van de gemeenschap. Beide soorten bijdragen van kapitaal zijn waardevol voor de groei van de gemeenschap en de waarde van zijn munt. Daarnaast zijn er twee manieren hoe eigendom kan worden gehouden: liquiditeit en vestiging. Vestigingseigendom maakt een verbintenis op lange termijn en kan niet worden verkocht voor een minimale periode.
+Bir topluluğun sermayeyi cezbedebilmek için sunabileceği iki öge vardır: borçlanma ve mülkiyet. Mülkiyet satın alanlar topluluk büyüdüğünde kazanır fakat küçüldüğünde ise kaybeder. Borç alanlara ise belirli oranda bir faiz garanti edilir fakat topluluğun büyümesiyle gerçekleşen kara katılmazlar. Her iki türden sermaye katkısı da topluluğun büyümesi ve onun para biriminin değeri için kıymetlidir. Ek olarak, mülkiyetin düzenlenebileceği iki yol vardır: Likit ve uzun vadeli yatırım. Uzun vadeli hisse uzun vadeli bir taahhüt getirir ve mümkün olan en aşağı zaman diliminde satılamaz.
 
-Het Steem netwerk noemt deze verschillende activaklassen Steem (STEEM), Steem Power (SP) en Steem Dollars (SMD).
+Steem ağı bu farklı malvarlığı sınıflarını Steem (STEEM), Steem Power (SP) ve Steem Doları (SBD) olarak adlandırır.
 
 ## Steem (STEEM)
 
-Steem is de fundamentele rekeneenheid op de Steem blockchain. Alle andere tokens ontlenen hun waarde aan de waarde van STEEM. In het algemeen zou STEEM moeten worden gehouden voor korte perioden wanneer liquiditeit nodig is. Iemand die het Steem platform tracht toe te treden of te verlaten zal STEEM moeten kopen of verkopen. Zodra STEEM gekocht is zou het moeten omgezet worden in SP of SMD om het effect van verwatering op lange termijn te beperken.
+Steem, Steem blockchain'i üzerindeki temel hesap birimidir. Diğer tüm tokenlar kendi değerlerini STEEM'in değeri üzerinden sağlarlar. Nakit gerekli olduğunda genel olarak STEEM'in kısa sürede elde tutulması gerekir. Steem Platformuna giren veya çıkan birisinin STEEM alması veya satması gerekecektir. STEEM satın alındığında, seyreltmenin uzun vadedeki etkisini hafifletmek için SP veya SMD'ye dönüştürülmelidir.
 
-STEEM word steeds groter in aanbod met 100% per jaar als gevolg van niet SMD stimulans. Iemand die STEEM heeft zonder het te converteren naar SP wordt verdund met ongeveer 0.19% per dag. Hoewel het percentage hoog kan lijken, voor transacties die minder dan 10 dagen duren, is het nog steeds goedkoper dan kredietkaart kosten. Bovendien is de dagelijkse token creatie onbelangrijk naast de dagelijkse volatiliteit.
+STEEM SMD harici teşvikler nedeniyle yılda %100 arzla sürekli artmaktadır. STEEM'i SP'ye dönüştürmeden tutan bir kişi, günde yaklaşık %0.19 oranında değer kaybeder. Oran yüksek görünse de, 10 günden daha kısa süren işlemler için kredi kartı işlem ücretlerinden daha ucuzdur. Ayrıca, günlük token yaratımı, günlük oynaklığın yanında önemsizdir.
 
-Iemand die Bitcoin of een andere cryptovaluta koopt en verkoopt 10 dagen later kon gemakkelijk 3% of meer verliezen als gevolg van prijsschommelingen. Iemand die Bitcoin koopt en verkoopt op dezelfde dag zal meestal meer dan 0.4% betalen aan markt vergoedingen alleen. Met andere woorden de inflatie is in feite onbelangrijk tijdens de periode dat het typisch individu STEEM heeft.
+Bitcoin veya başka herhangi bir kriptopara alan ve 10 gün sonra satan birisi, fiyat dalgalanmaları yüzünden %3 veya daha fazla değer kaybedebilir. Aynı gün içerisinde bitcoin alan ve satan birisi, genellikle market ücreti adı altında 0.4%'den fazla ödeme yapacaktır. Başka bir deyişle, enflasyon oranı, sıradan bir bireyin STEEM'i etkin bir şekilde elinde tutacağı süre boyunca önemsizdir.
 
-De meerderheid van de inflatie is in feite een boekhoudkundig artefact in plaats van een echte herverdeling van rijkdom. 90% van de niet-SMD inflatie word terug verdeeld aan de bestaande houders van STEEM evenredig aan de STEEM waarde van hun SP balans, waardoor van de inflatie meer een "split" gemaakt word. Alleen ongeveer 10% van de niet-SMD inflatie herverdeelt eigendom in het netwerk.
+Enflasyonun büyük bir kısmı, aslında zenginliğin gerçek tahsisinden çok bir muhasebe eseridir. SMD dışı enflasyonun %90'ı mevcut STEEM sahiplerine SP dengesinin STEEM değeri ile orantılı olarak dağıtılır ve "bölünme" den daha fazlası olur. SMD olmayan enflasyonun sadece %10'u ağda ki mülkiyete yeniden dağıtım olarak döner.
 
 ## Steem Power (SP)
 
-Start-up bedrijven vereisen inzet over een lange termijn. Degenen die hun geld investeren in een startup wachten jaren alvorens ze hun aandelen kunnen verkopen en winsten kunnen realiseren. Zonder een inzet over een langer termijn zou een startup dat extra kapitaal zoekt door middel van het verkopen van extra aandelen moeten concurreren met bestaande aandeelhouders die wensen uit te treden. Vakkundige investeerders willen hun kapitaal bijdragen om het bedrijf te laten groeien, maar de groei kan niet gebeuren indien het nieuwe kapitaal word weggegeven aan degenen die wensen uit te treden.
+Başlarda şirketler, uzun vadeli sermaye taahhüdüne gereksinim duyar. Başlangıçta paralarını yatıranlar, hisselerini satıp karlarını paraya dönüştürmeden önce yıllarca beklemek zorundadır. Uzun vadeli taahhütler olmaksızın, ilave hisse satımı yoluyla fazladan sermaye yaratmaya çalışan bir firma halihazırda mevcut hissedarların çıkmaya çalışmasıyla baş etmek zorunda kalabilir. İdrak sahibi yatırımcılar sermaye katkılarının şirketi büyütmesini ister, ve fakat, eğer yeni sermaye halihazırda çıkmak isteyenlere verilirse büyüme gerçekleşemez.
 
-Er is aanzienlijke waarde verbonden aan een lange termijninzet want het stelt gemeenschappen in staat lange termijn plannen te maken. Lange termijn inzet van aandeelhouders zorgt er ook voor dat ze stemmen voor lange termijn groei in plaats van korte termijn pumps.
+Uzun vadeli taahhütlere sahip olmanın önemli bir değeri vardır, çünkü toplulukların uzun vadeli planlar yapabilmelerine izin verir. Sermaye sahiplerinin uzun vadeli taahhütleri ayni zamanda onların kısa vadeli şişmelerden ziyade uzun vadeli büyüme için oy vermelerine de yol açar.
 
-In de cryptogeld wereld, springen speculanten van valuta naar valuta voornamelijk gebaseerd op welke valuta er verwacht word op korte termijn te groeien. Steem wil een gemeenschap bouwen dat grotendeels eigendom is en volledig gecontroleerd word door mensen met een lang termijn perspectief.
+Kripto para birimi alanında spekülatörler, çoğunlukla hangisinin kısa vadede daha fazla büyüme beklentisine sahip olduğuna göre, bir kripto para biriminden diğerine zıplarlar. Steem, uzun vadeli bakış açısına sahip olanların mülkiyetinde olan ve tümüyle onlar tarafından kontrol edilen bir topluluk inşa etmeyi arzu etmtektedir.
 
-Omdat Steem lange termijn groei wil aanmoedigen is het gebonden om 9 STEEM toe te wijzen aan Steem Power (SP) aandeelhouders voor iedere 1 STEEM dat het creëert om de groei te financieren door middel van bijdrage stimulans. Na verloop van tijd drijft dit de verhouding tussen de totale STEEM waarde van Steem Power tot de totale STEEM verhoudingen naar 9:1. (Het lijkt er op dat de verhouding iets groter zal zijn dan 9:1 als gevolg van aanhoudend netto Powering Up van de nieuw gedrukte STEEM.) Dit betekent eveneens dat langdurige houders bijna volledig beschermd zijn tegen de verdunning gebruikt om de groei te financieren.
+Steem uzun vadeli büyümeye teşvik ediyor, katkı teşvikleri yoluyla büyümeyi finanse etmek için oluşturduğu her 1 STEEM için Steem Power (SP) paydaşlarına 9 STEEM tahsis etmek zorunludur. Zamanla bu, Steem Power dengelerinin toplam STEEM değerinin toplam STEEM dengelerine oranını 9:1 olarak yönlendirir. (Bu oran, yeni basılan STEEM'in güçlenmesine devam etmesi nedeniyle 9:1'den biraz daha büyük olacak gibi görünüyor) Ayrıca, uzun vadeli sahiplerin büyümeyi finanse etmek için kullanılan seyreltmeden neredeyse tamamen korunduğu anlamına geliyor.
 
-SP kan alleen terug naar STEEM worden omgezet in 2 jaar via 104 gelijke, wekelijkse betalingen. ‘1 SP’ kan gezien worden als een aandeel in een poel van STEEM. Het netwerk voegt automatisch, elke block, STEEM toe aan de poel. Op elk moment kunnen gebruikers hun STEEM omzetten naar SP aan dezelfde verhouding als STEEM tot totale SP in de vesting poel. Het omzetten van STEEM naar SP zorgt niet voor verdunning bij bestaande houders van SP. Net zoals, elke keer STEEM word omgezet naar SP word dit gedaan aan de huidige verhouding. Individuen worden gegarandeerd meer STEEM in de toekomst te hebben dan ze hadden wanneer ze voor het eerst STEEM omzetten naar SP.
+SP sadece 104 eşit haftalık ödemelerle 2 yıl içinde tekrar STEEM'e dönüştürülebilir. '1 SP' STEEM havuzunda pay olarak görülebilir. Ağ, her blokta STEEM'i otomatik olarak havuza ekler. Kullanıcılar, herhangi bir zamanda, STEEM'lerini, hak sahipliği havuzundaki STEEM ile aynı oranda toplam SP'ye dönüştürürler. STEEM'in SP'ye dönüştürülmesi mevcut SP sahiplerini inceltmez/etkilemez. Aynı şekilde, SP her seferinde STEEM'e dönüştürüldüğünde, aynı oranla yapılır. Bireylerin gelecekte STEEM'den SP'ye dönüş yaptıklarında olduğundan daha fazla STEEM alması garanti edilir.
 
-SP tegoeden zijn niet overdraagbaar en niet deelbaar behalve via de automatische terugkerende wissel verzoeken. Dit betekent dat SP niet makkelijk kan gewisseld worden op cryptogeld wissel platformen.
+SP bakiyeleri, otomatik olarak tekrarlanan dönüşüm talepleri hariç olmak üzere, devredilemez ve bölünemezdir. Bu, SP'nin kripto borsaları üzerinde kolayca değiştirilemediği anlamına gelir.
 
-SP is een vereiste voor het voor en tegen stemmen van inhoud. Dit betekent dat SP een toegangs token is die de houders ervan exclusieve bevoegdheden verleent binnen het Steem platform.
+SP, içerik için ya da içeriğe karşı oy kullanabilmek için şarttır. Bu, SP'nin sahiplerine Steem platformunda özel güçler kazandıran bir erişim tokenı olduğu anlamına gelir.
 
-Het overbrengen van STEEM naar SP word aangeduid met ‘Power Up’ (bekrachtigen) terwijl het overbrengen van SP naar Steem word aangeduid met ‘Power Down’ (ontkrachten). Bijvoorbeeld, men kan over een periode van 2 jaar STEEM ontkrachten met ‘Power Down’. Maar men kan eveneens ogenblikkelijk STEEM bekrachtigen met ‘Power Up’.
+SP'den Steem'e aktarım işlemi "güç azaltma" olarak ifade edilirken, STEEM'den SP'ye aktarıma güç kazanma denir. Örneğin, biri iki yıllık bir süre içinde STEEM'lerini azaltabilir, ancak bir yandan birisi STEEM'i anında güçlendirebilir.
 
-## Steem Dollars (SMD)
+## Steem Dollars(SMD)
 
-Stabiliteit is een belangrijke eigenschap van succesvolle, globale economieën. Zonder stabiliteit, zouden mensen over de hele wereld niet in staat zijn lage cognitieve kosten te hebben terwijl ze betrokken zijn bij handel en besparingen. Omdat stabiliteit een belangrijk kenmerk is van succesvolle economieën, werden Steem Dollars ontworpen om stabiliteit te brengen in de wereld van cryptogeld en bij gebruikers van het Steem netwerk.
+İstikrar başarılı küresel ekonomilerin önemli bir özelliğidir. İstikrar olmadan, dünya genelinde bireyler ticarete ve tasarrufa yönelirken düşük bilişsel maliyetlere sahip olamazlar. İstikrar, başarılı küresel ekonomilerin önemli bir özelliği olduğundan Steem Doları Steem ağını kullanan kullanıcılara ve kripto para birimi dünyasına istikrar getirmeyi amaçlayan bir hamle olarak tasarlandı.
 
-Steem Dollars werden gemaakt door een mechanisme vergelijkbaar aan dat van converteerbare obligaties, welke vaak gebruikt worden om startups te financieren. In de startup wereld, zijn converteerbare obligaties instrumenten van korte termijn schuld die kunnen omgezet worden naar eigendom aan een tarief dat beslist word in de toekomst, meestal tijdens een volgende subsidieronde. Een blockchain gebaseerd token kan worden gezien als eigendom in de gemeenschap terwijl een converteerbare obligatie gezien kan worden als een schuld aangewezen in een andere grondstof of valuta. De voorwaarden van de converteerbare obligatie laten de houder toe het steun token om te zetten aan de eerlijke marktprijs en met een minimale opzegtermijn. Het creëren van token-converteerbare-dollars stelt blockchains in staat hun netwerk effect te laten groeien, terwijl het, het rendement van token houders maximaliseert.
+Steem Doları, başlangıçları fonlamak için sıklıkla kullanılan dönüştürülebilir senetlere benzeyen bir mekanizma tarafından yaratıldı. Dönüştürülebilir senetler, işin başlangıcında -sıklıkla ileriki fonlama rauntları sırasında- gelecekte belirlenen bir oranda özkaynağa dönüştürülebilecek kısa dönem borçlanma araçlarıdır. Bir blockchain temelli token, toplulukta bir mülkiyet olarak değerlendirebilecekken; dönüştürülebilir senet ise herhangi bir metaya ya da para birimine bağlı bir borç olarak görülebilir. Dönüştürülebilir senedin koşulları onu, kendisini elinde bulundurana en az çabayla bağlı olduğu tokena -tokenın adil piyasa fiyatında- dönüştürebilme imkanı tanır. Tokena dönüştürülebilir dolarlar yaratmak, token sahiplerin kazançlarını maksimize ederken blockchainlere de kendi ağ etklilerini büyütme imkanı tanır.
 
-Steem Dollars worden aangeduid met het symbool SMD, een acroniem voor Steem Dollars. Het creëren van SMD vereist een combinatie van betrouwbare prijs feed, regels voor het voorkomen van misbruik en liquiditeit. Het verstrekken van een betrouwbare prijs feed bestaat uit drie factoren: de impact van een onjuiste feed minimaliseren, de kost van een onjuiste feed maximaliseren, en het belang van timing minimaliseren.
+Steem Dolarları, Steem Dolarları'nın kısaltması olan SMD sembolüyle anılır. SMD oluşturmak güvenilir bir fiyat arzı, istismarı önleme kuralları ve likiditenin bir kombinasyonunu gerektirir. Güvenilir bir fiyat yayını üretimi üç unsuru barındırır: Doğru olmayan yayının etkisinin minimize edilmesi, doğru olmayan yayının sonuçlarının maksimize edilmesi ve zamanlamanın öneminin minimize edilmesi.
 
-### Fraude Feeds Minimaliseren
+### Hileli yayınları en aza indirme
 
-SP houders kiezen individuen om prijs feeds te publiceren. Deze verkozen individuen worden vermoedelijk vertrouwd door degenen met gevestigde belangen in de kwaliteit van de feed. Door degenen die verkozen zijn te betalen, creëert Steem markt concurrentie om het recht te verdienen om feeds te produceren. Hoe meer de producenten van feeds betaald worden hoe meer ze te verliezen hebben door het publiceren van valse informatie.
+SP sahipleri fiyat yayınlarını paylaşmaları için Witness'lar olarak adlandırılan bireyleri seçer. Seçilmiş Witness'lar, muhtemelen, yayının kalitesinde nemalı menfaatleri olanlar nezdinde güvenilirdir. Steem, bu seçilmişlere ödeme yapmak yoluyla, yayın yapmak için hak kazanmaya yönelik bir piyasa rekabeti yaratmaktadır. Yayın üreticilerine yapılan ödemedeki artış, onların yanlış bilgi paylaşımı durumundaki kayıplarını artırır.
 
-Gegeven een reeks vertrouwde en verkozen feed producenten, kan de werkelijke prijs gebruikt voor het omzetten afgeleid worden als het gemiddelde van de feeds. Op deze manier is het zo dat als een minderheid van individuele feed producenten uitschieters produceert, deze een minimale impact hebben op het werkelijke gemiddelde, terwijl het vermogen om hun reputatie te beïnvloeden behouden word.
+Güvenilir ve seçilmiş yayın üreticileri, göz önünde bulundurulduğunda, dönüşümler için kullanılan aktüel fiyat, onların yaptıkları yayınların medyanından sağlanabilir. Bu yolla, eğer yayın üreticilerinden biri azınlık uç değerler üretirse, kendi ünlerine tesir edecek etkiye hala sahip olmakla birlikte aktüel medyan üzerinde minimal etkiye sahip olurlar.
 
-Zelfs wanneer alle feed producenten eerlijk zijn, is het onmogelijk voor de meerderheid van feed producenten om beïnvloed te worden door gebeurtenissen buiten hun controle. Het Steem netwerk is ontworpen om de korte termijn corruptie van de gemiddelde prijs feed te tolereren, terwijl de gemeenschap actief werkt om de kwestie te corrigeren. Een voorbeeld van een probleem dat enige tijd kan duren om te corrigeren is korte termijn marktmanipulatie. Marktmanipulatie is moeilijk en duur om te onderhouden voor langere perioden. Een ander voorbeeld is het falen van een gecentraliseerd wisselplatform of de corruptie van de data gepubliceerd door het wisselplatform.
+Tüm yayın üreticileri dürüst olsa dahi yayın üreticilerinin çoğunluğu için, kendi kontrollerinin ötesinde olan bazı gelişmelerden etkilenmek hala mümkündür. Steem ağı, topluluk aktif olarak sorunu düzeltmek için çalışırken, medyan fiyat yayınındaki kısa dönemlik yozlaşmaları tolere edebilmek için tasarlanmıştır. Düzeltmek için biraz zaman gerektirecek meselelere bir örnek; kısa dönemlik piyasa manipülasyonlarıdır. Piyasa manipülasyonun uzun zaman dilimleri boyunca sürdürülebilmesi zor ve pahalıdır. Başka bir örnek de, merkezi exchange'in bir hatası ya da exchange'in yayınladığı verilerin kirlenmesi olabilir.
 
-Steem elimineert korte termijn prijsschommelingen door het gebruik van de gemiddelde prijs over een periode van één week. De gemiddelde gepubliceerde feed word gesampled elk uur op het uur.
+Steem, bir hafta boyunca ortalama fiyat kullanarak kısa vadeli fiyat dalgalanmalarını etkiler. Ortaya çıkan yayın, saat başı her saat örnek alınır.
 
-Zolang de prijs feed corruptie duurt voor minder dan de helft van het bewegend gemiddelde tijdsverloop zal het een minimale invloed hebben op de conversie prijs. In het geval dat de feed toch corrumpeert, zullen netwerk participanten de kans krijgen producenten van corrupte feed weg te stemmen voor de corrupte feed in staat is de werkelijke conversie prijs te beïnvloeden. Misschien van nog groter belang is dat het feed producers een kans geeft om problemen te detecteren en corrigeren nog voor hun feed de prijs begint te beïnvloeden.
+Fiyat arzı yolsuzluğunun, değişen medyan zaman aralığının yarısından kısa sürdüğü müddetçe, dönüşüm fiyatları üzerindeki etkisi minimal düzeyde olacaktır. Yayının yolsuzluğunun olması durumunda ağ katılımcılarının, kirli yayın aktüel dönüşüm fiyatını etkilemeden önce, yozlaşmış yayın üreticileri aleyhinde oy kullanma imkanı olacaktır. Belki de daha önemlisi bu, yayın üreticilerine yayınları, fiyatı etkilemeye başlamadan önce tespit ve düzeltme şansı sunmaktadır.
 
-Met een tijdsduur van één week, hebben gemeenschapsleden drie en een halve dag om te reageren op eventuele, onvoorziene problemen.
+Bir haftalık süreçte, topluluk üyelerinin ortaya çıkabilecek herhangi bir soruna yanıt vermesi için üç buçuk gün vardır.
 
-### Timing Aanvallen Matigen
+### Zamanlama saldırılarını azaltmak
 
-Marktdeelnemers hebben sneller toegang tot informatie dan de blockchain’s één-week bewegende, gemiddelde conversie prijs kan reageren. Deze informatie kan gebruikt worden in het voordeel van handelaren op kosten van de gemeenschap. Als er een plotselinge stijging plaatsvind in de waarde van STEEM zouden handelaren de omzetting van hun SMD kunnen aanvragen aan de oude, lagere prijs, en vervolgens de STEEM verkopen die ze ontvangen aan de nieuwe, hogere prijs met minimaal risico.
+Piyasa katılımcılarının bilgiye blockchainin bir haftalık hareketli medyan dönüşüm fiyatının yansıtabileceğinden daha hızlı ulaşımı vardır. Bu bilgi al-satçıların yararı namına topluluğun aleyhinde kullanılabilir. Eğer Steem'in değerinde ani bir yükseliş varsa, al-satçılar SMD'lerini eski, düşük dönüşüm fiyatı üzerinden çevirme talebi gönderip daha sonrasında edindikleri STEEM'lerini, en ufak riskle yeni yüksek fiyat üzerinden satabilirler.
 
-Steem creëert gelijke kansen door te eisen dat alle conversie verzoeken worden vertraagd voor één week. Dit betekent dat noch de handelaren, noch de blockchain enig informatie voordeel heeft betreffende de prijs op het moment dat de conversie word uitgevoerd.
+Steem, dönüşüm taleplerinin bir hafta bekletilmesini şart koşmak yoluyla, oyun alanını kademelendirir. Bu demektir ki ne al-satçılar ne de blockchain, dönüşümün gerçekleştiği fiyat hakkında bir bilgi avantajına sahiptir.
 
-### Misbruik Van Conversies Minimaliseren
+### Dönüşüm İstismarlarını En Aza İndirmek
 
-Wanneer mensen vrij zouden kunnen converteren in beide richtingen zouden handelaren kunnen profiteren van de blockchains conversiepercentages door te handelen in grote volumes zonder het veranderen van de prijs. Handelaren die een enorme aanloop zien in prijs zouden converteren naar SMD tegen de hoge prijs (wanneer het risico hoogst is) en vervolgens terug converteren na de correctie. Het Steem protocol beschermt de gemeenschap van dit soort misbruik door mensen alleen toe te laten van SMD naar STEEM te converteren en niet andersom.
+Eğer insanlar iki yönde de rahatlıkla dönüştürme yapabilselerdi, o zaman al-satçılar blockchainin dönüşüm oranlarından, fiyatı değiştirmeden büyük hacimlerde ticaret yaparak avantaj elde edebilirlerdi. Fiyatta bir fırlama gören al-satçılar en yüksek fiyattan (en riskli olduğu zamanda) SMD'ye dönüşüm yapabilirler ve gelen düzeltmeden sonra tekrar STEEM'e dönüştürebilirler. Steem protokolü sadece SMD'den STEEM'e tek yönlü olarak dönüşüm yapmaya olanak tanıyarak topluluğu bu tarz istismarlardan korur.
 
-De blockchain bepaalt hoe en wanneer SMD moet gemaakt worden en wie dit moet krijgen. Dit houd de snelheid van SMD creatie stabiel en verwijderd de meeste wegen naar misbruik.
+Nasıl ve ne zaman SMD üretileceğine ve kimlerin bunu edineceğine blockchain karar verir. Bu, SBD üretim oranını sabit tutar ve istismar yollarını ortadan kaldırır.
 
-### Liquiditeit
+### Likidite
 
-Het is niet omdat SMD omgezet worden kan in de waarde van een doller in STEEM tegen een faire prijs in een redelijke tijdspanne dat het moet gezien worden als een betrouwbare dollarvervanging. Deze activa vereisen liquiditeit in een markt die onmiddellijke conversie mogelijk maakt tussen STEEM en SMD maakt. De maatregelen die een blockchain moet nemen om misbruik te voorkomen zorgen voor een verlaging van de kwaliteit van de converteerbare dollars. Om dit verlies aan kwaliteit te compenseren kan de blockchain een vaste beloning bieden aan liquiditeitsaanbieders. Alhoewel dat de potentiële verliezen door manipulatie en misbruik onbegrensd zijn, kunnen de kosten die liquiditeit aanmoedigen worden vastgelegd.
+SMD'nin makul bir fiyatla STEEM değerinde bir dolara dönüştürülebiliyor olması, bunun güvenilir bir dolar değişimi olarak görülmesi anlamına gelmez. Bu varlıklar, STEEM ve SMD arasında anlık dönüşüm sağlayan pazarda likiditeye ihtiyaç duyar. Kötüye kullanımı önlemek için, blockchain önlemleri alarak dönüştürülebilen dolarda ki kalitenin düşürülmesi sağlanır. Bu kalite kaybını telafi etmek için blokchain, likidite sağlayıcılarına sabit maliyetli bir ödül sunabilir. Manipülasyondan ve istismardan kaynaklanan potansiyel kayıplar kontrolsüz iken, likiditeyi teşvik etme masrafı düzeltilebilir.
 
-Een liquiditeitsverschaffer koopt en verkoopt SMD en STEEM. Zij nemen het grootste deel van het prijsrisico op korte termijn op zich evenals die voorraad op lange termijn en daardoor geven ze de rest van de marktdeelnemers met een uiterst liquide markt van hoge kwaliteit waarin ze kunnen handelen.
+Bir likidite sağlayıcısı SMD ve STEEM'i satın alır ve satar. Kısa vadeli fiyat ve uzun vadeli yem riskinin çoğunluğunu piyasa katılımcılarına, içinde ticaret yapacakları yüksek kaliteli, son derece likid bir pazar kazandırır.
 
-Steem heeft een markt op de blockchain tussen SMD en STEEM. Gebruikers kunnen beloningen verdienen door liquiditeit aan beide zijden van deze markt te voorzien. De blockchain gebruikt een eenvoudig algoritme om de liquiditeit en comsumptie van elke gebruiker te rangschikken.
+Steem has an on-blockchain market between SMD and STEEM. Users can earn rewards by providing liquidity to both sides of this market. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
 
-Een gebruiker wordt beschouwd als een liquiditeitsverschaffer als ze een open order voor langer als 1 minuut op de boeken laten staan maar die uiteindelijk vervuld wordt. Als de order is geannuleerd wordt voor hij vervuld is dan wordt de gebruiker niet gecrediteerd met het verstrekken van liquiditeit.
+A user is considered a liquidity provider if they leave an open order on the books for at least 1 minute and the order is eventually filled. If the order is canceled before being filled then the user is not credited with providing liquidity.
 
-Gebruikers moeten liquiditeit bieden aan beide zijden van de boeken om in aanmerking komen voor beloningen en ze moeten de liquiditeit consequent leveren over verloop van tijd. Het scoren van het algoritme is:
+Users must provide liquidity on both sides of the book to qualify for rewards and they must provide liquidity consistently over time. The scoring algorithm is:
 
       LiquidityPoints = NetBidVolume x NetAskVolume
     
 
-Elk uur ontvangt het account met de meeste LiquidityPoints 1200 STEEM en vervolgens worden zijn LiquidityPoints teruggesteld op 0. Bij een account dat een week geen LiquidityPoints verdient heeft worden ook haar punten opnieuw ingesteld op 0. Dit betekent dat als u een grote hoeveelheid liquiditeit biedt op korte termijn of een kleine hoeveelheid gedurende een lange periode dat iedereen een evenredig bedrag van de beloningen krijgt. Als NetBidVolume of NetAskVolume negatief is, dan worden de LiquidityPoints beschouwd als 0.
+Every hour the account with the most LiquidityPoints receives 1200 STEEM and then has its LiquidityPoints reset to 0. An account that goes a week without earning any LiquidityPoints also has its points reset to 0. This means that whether you provide a large amount of liquidity or a small amount over a long period of time everyone gets a proportional amount of the rewards. If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
 
-### Duurzame schuld vs. eigendomsratio 's
+### Sustainable Debt to Ownership Ratios
 
-Als een token wordt beschouwd als eigendom in de hele tokencyclus, kan dan een token-wissel-dollar worden beschouwd als schuld. Als de verhouding van schuld tot eigendom te hoog wordt kan de gehele munt kan onstabiel worden. Schuldconversies kunnen het token aanbod drastisch verhogen, dat op zijn beurt wordt verkocht op de markt om zo de prijs te onderdrukken. Latere conversies vereisen de uitgifte van nog meer tokens. Als men niets aan kunt het systeem doet dan kan het samenklappen en waardeloos eigendom achterlaten ondersteund door een berg schulden. Hoe hoger de ratio tussen schuld en eigendom hoe minder interessant investeringen zullen zijn.
+If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
 
-Voor elke SMD die Steem maakt, wordt er ook $19,00 aan STEEM gemaakt en geconverteerd naar SP. Dit betekent dat de hoogste mogelijke schuld-naar-eigendom ratio in een stabiele markt 1:19 of ongeveer 5% is. Als Steem in waarde met 50 daalt % dan kan de verhouding oplopen tot 10%. Een 88% daling van de waarde van STEEM kan ervoor zorgen dat de schuld-naar-eigendom verhouding klimt tot 40%. Ervan uitgaande dat de waarde van STEEM uiteindelijk stabiliseert, dan zal de verhouding tussen de schuld-naar-eigendom natuurlijk terug naar 5% zakken.
+For every SMD Steem creates, $19.00 of STEEM is also created and converted to SP. This means that the highest possible debt-to-ownership in a stable market is 1:19 or about 5%. If Steem falls in value by 50% then the ratio could increase to 10%. An 88% fall in value of STEEM could cause the debt-to-ownership ratio to reach 40%. Assuming the value of STEEM eventually stabilizes, the debt-to-ownership ratio will naturally move back toward 5%.
 
-Het idee achter het hebben van een conservatieve 5% schuld tot eigendom ratio is dat zelfs als alle schuld werd omgezet en verkocht er voldoende kopers zouden moeten zijn en de effectieve verdunning van de token houders daardoor relatief klein blijft.
+The idea behind having a conservative 5% debt to ownership ratio is that even if all debt were converted and sold there should be ample buyers and the effective dilution of the token holders remains relatively small.
 
-Een snelle verandering in de waarde van STEEM kan dramatisch de ratio van schuld-naar-eigendom veranderen. Het percentages die gebruikt worden om te berekenen hoeveel STEEM creatie nodig is zijn gebaseerd op de levering met inbegrip van de STEEM waarde van alle uitstaande SMD en SP (zoals bepaald door de huidige koers / feed).
+A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SMD and SP (as determined by the current rate / feed).
 
-### Intrest
+### Interest
 
-SMD betaalt rente aan de houders. De hoogte van de intrest wordt bepaald door de zelfde mensen die de prijs feed publiceren zodat het zich kan aanpassen aan veranderende marktomstandigheden. Alle schuld draagt een risico voor de kredietgever. Iemand die SMD behoud zonder die om te zetten is effectief leningen aan Gemeenschap aan het geven ter waarde van een dollar. Ze vertrouwen erop dat op een bepaald punt in de toekomst iemand bereid zal zijn de SMD van hen te kopen voor een dollar of dat er speculanten en investeerders bereid zullen zijn om STEEM te kopen.
+SMD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
-STEEM en SP houders krijgen kracht wanneer leden van de Gemeenschap bereid zijn SMD te houden. Deze hefboom versterkt de groeivoordelen en draagt er terwijl ook toe. STEEM houders hebben last van verhoogde vermindering als de prijs daalt. Cryptocurrency projecten hebben aangetoond dat de voordelen van een groei van gebruikers die het netwerk vertrouwen met kapitaal uiteindelijk meer waarde toevoegen aan het netwerk dan enigerlei verdunning die tijdens een recessie optreden kan.
+STEEM and SP holders gain leverage when members of the community are willing to hold SMD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
-### Prijs Feeds instellen
+### Setting Price Feeds
 
-Oplettende lezers zullen erkennen dat een intrest dragend activa met beperkte oplage hoger of lager verhandeld kan worden dan de onderliggende waarde afhankelijk van andere mogelijkheden om te verdienen rente op hetzelfde activa. Met een hoge intrest die betaald word op een activa gekoppeld aan de USD zullen mensen het beperkte aantal Steem Dollars hoogbieden to ze niet meer aan 1 dollar geschat worden. In de economie is er een principe gekend als de onmogelijke drievuldigheid [^4] die zegt dat het onmogelijk is om de volgende drie dingen tegelijk te hebben:
+Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
-1. Een stabiele wisselkoers
-2. Vrije beweging van valuta
-3. Een onafhankelijke financiele richtlijn
+1. A stable exchange rate
+2. Free capital movement
+3. An independent monetary policy
 
-Als Steem Feed producenten pogen een onafhankelijke financiele richtlijn te hebben die toestaat om Steem Dollars aan te maken en te vernietigen en daarbij de volle controle te behouden over de intres dan zullen ze problemen krijgen. De Onmogelijke Drievuldigheid zegt dat Steem Dollars of beweging van Valuta moeten beperken, een onstabiele wisselkoers met de dollar moeten hebben of een beperkte controle over de intrestvoet.
+If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
-De grootste zorg van de Steem Feed producenten is om een stabiele overgang te behouden tussen SMD en de USD. Vanaf de SMD langere tijd verhandeld wordt boven de $1.00 USD dan moeten de uitbetalingen van intrest gestopt worden. In een markt waar 0% intrest op een schuld nog altijd hoog ingeschat wordt is het veilig om te zeggen dat de markt meer krediet kan verstrekken dan de gemeenschap will accepteren. Als het voorkomt dat een SMD meer waard is dan $1.00 dan is er weinig dat de gemeenschap kan doen buiten negatieve intrest aanrekenen.
+The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SMD and the U.S. Dollar (USD). Any time SMD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
-Als de schuld vs eigendom ratio lager is dan 10% en de SMD wordt verhandeld voor minder dan $1.00 dan moet de intrestvoet verhoogd worden. Dit zal mensen aanmoedigen om hun SMD te behouden en zo de prijst te ondersteunen.
+If the debt-to-ownership ratio is under 10% and SMD is trading for less than $1.00 then the interest rate should be increased. This will encourage more people to hold their SMD and support the price.
 
 If SMD trades for less than $1.00 USD and the debt-to-ownership ratio is over 10% then the feeds should be adjusted upward give more STEEM per SMD. This will increase demand for SMD while also reducing the debt-to-ownership ratio and returning SMD to parity with USD.
 

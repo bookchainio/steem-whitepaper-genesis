@@ -1,213 +1,213 @@
 # Steem
 
-## Een gestimuleerd, blockchain gebaseerd sociaal media platform.
+## An incentivized, blockchain-based social media platform.
 
-Maart 2016
+مارس 2016
 
-# Noten van de vertaler
+# Translator's notes
 
-.
+Placeholder for translator's notes.
 
-# Abstract
+# چکیده
 
-Steem is een blockchain databank dat het vormen van gemeenschappen en sociale interactie ondersteund met cryptogeld beloningen. Steem combineert concepten uit sociale media met lessen uit het bouwen van cryptogeld en hun gemeenschappen. Een belangrijk onderdeel bij het inspireren van deelname in elke gemeenschap, valuta of vrije markteconomie is een eerlijk boekhoudkundig systeem dat de bijdrage van elke persoon consequent weerspiegelt. Steem is de eerste cryptovaluta die probeert om op nauwkeurige en transparante wijze een onbegrensd aantal personen te belonen die *subjectief bijdragen* aan de gemeenschap.
+Steem یک پایگاه داده ای زنجیرهٔ بلوکی است که با ارائه ی رمز ارزی از ایجاد اجتماع و تعامل اجتماعی پشتیبانی می کند. Steem مفاهیم رسانه های اجتماعی را با درسهایی که از ساختن رمزارزی و جوامع آنها بدست میاید ترکیب میکند.  یک راه مهم برای افزایش مشارکت درهر اجتماع، ارز یا اقتصاد بازارآزاد، یک سیستم حسابداری منصفانه است که به طور مداوم سهم هر فرد را نشان می دهد. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
 
-# Inhoudsopgave
+# فهرست مندرجات
 
 <!-- toc -->
 
-# Introductie
+# مقدمه
 
-Collectief, heeft gebruikers gegenereerde inhoud miljarden dollars waarde gecreëerd voor de aandeelhouders van sociale media bedrijven zoals Reddit, Facebook en Twitter. **In 2014 veronderstelde Reddit dat het platform zou verbeteren indien het iedereen die bijdroeg tot reddit.com door het plaatsen van verhalen, toevoegen van opmerkingen en stemmen, zou belonen met een eerlijk aandeel in Reddit. Inc.[^1]**. Steem is gericht op het ondersteunen van sociale media en online gemeenschappen door veel van zijn waarde terug te keren aan mensen die waardevolle bijdragen maken door hen te belonen met cryptogeld, en door dit process een valuta te creëren die in staat is om een brede markt te bereiken, met begrip voor mensen die nog moeten deelnemen aan een cryptogeld economie.
+به طور خلاصه، محتوای تولید شده توسط کاربران، میلیارد دلار برای سهامداران شرکت های رسانه ای اجتماعی مانند ردیت، فیس بوک و توییتر دریافت کرده است. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc[^1]**. هدف Steem حمایت از رسانه های اجتماعی و جوامع آنلاین با بازگرداندن قسمت زیادی از ارزش آن به افرادی است که با استفاده از پاداش ارز رمزی مشارکت ارزشمندی ارائه می دهند واز طریق این فرایند ایجاد یک ارزکه بتواند به بازار گسترده ای دست یابد، از جمله افرادی که هنوزدراقتصاد ارز رمزی مشارکت دارند.
 
-Er zijn een aantal belangrijke principes gebruikt om het ontwerp van Steem te leiden. Het meest belangrijke uitgangspunt is dat, iedereen die bijdraagt aan een onderneming, pro-rata eigendom, betaling of schuld moet krijgen van de onderneming. Dit principe is hetzelfde principe dat van toepassing is bij alle startups wanneer deze aandelen toewijzen bij het oprichten of tijdens de daaropvolgende financiering rondes.
+برخی اصول کلیدی جهت استفاده برای هدایت طراحی Steem وجود دارد. مهمترین اصل این است که هر کس که در سرمایه گذاری مشارکت کند باید سهم خودرا از مالکیت، پرداخت یا بدهی سرمایه گذاری دریافت کند. این اصل همان اصل است که در مورد همه سهامداران اعمال می شود، چرا که سهم آنها را در زمان ایجاد و در دوران تامین مالی بعدی مشخص می کند.
 
-Het tweede principe is dat alle vormen van kapitaal even waardevol zijn. Dit betekent dat degenen die hun schaarse tijd en aandacht bijdragen door het produceren en selecteren van inhoud voor anderen net even waardevol zijn als degenen die hun schaars geld bijdragen. Dit is het zweet eigen vermogen principe[^2] en is een concept waar voorafgaande cryptovaluta’s vaak moeite mee hadden met het te verstrekken aan meer dan enkele tientallen individuen.
+اصل دوم این است که ارزش هرنوع سرمایه ای به یک اندازه است. این به این معنی است که کسانی که ازطریق صرف اندکی زمان و توجه برای تولید محتوا برای دیگران مشارکت میکنند، به اندازه ی کسانی که با صرف اندکی پول مشارکت میکنند، ارزشمندند. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
 
-Het derde principe is dat de gemeenschap producten produceert om haar leden te dienen. Dit principe word geïllustreerd door credit unions, voedsel co-ops, en het delen van gezondheid plannen, welke hun leden dienen in plaats van het verkopen van producten en diensten aan mensen buiten de gemeenschap.
+اصل سوم این است که جامعه محصولات را برای ارائه به اعضای خود تولید می کند. این اصل نمونه ای از اتحادیه های اعتباری، تعاونی های غذایی و برنامه های به اشتراک گذاری بهداشت است، که به جای فروش محصولات یا خدمات به افراد خارج از جامعه، به اعضای جامعه خود خدمت می کنند.
 
-De Steem gemeenschap bied de volgende diensten aan haar leden:
+انجمن Steem خدمات زیر را برای اعضای خود فراهم می کند:
 
-1. Een bron van geselecteerd nieuws en commentaar.
-2. Een middel om kwalitatieve antwoorden te krijgen op gepersonaliseerde vragen.
-3. Een stabiele cryptovaluta gekoppeld aan de Amerikaanse dollar.
-4. Gratis betalingen.
-5. Jobs die bovenstaande diensten verstrekken aan andere leden.
+1. A source of curated news and commentary.
+2.  این به این معنی دریافت پاسخ سوالات شخصی با کیفیت بالا.
+3. A stable cryptocurrency pegged to the U.S. dollar.
+4. پرداخت های رایگان.
+5. Jobs providing above services to other members.
 
-Steem’s doelbewuste herschikking van economische stimulans heeft het potentieel om eerlijker en meer inclusieve resultaten te produceren voor alle betrokkenen dan de sociale media en cryptogeld platformen die het zijn voorafgegaan. Dit document zal de huidige economische stimulans verkennen en demonstreren hoe Steem’s stimulans kan leiden tot betere resultaten voor de meeste deelnemers.
+Steem's purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. این مقاله زمینه های اقتصادی موجود را کشف میکند و نشان می دهد که انگیزه های Steem میتواند نتایج بهتری برای اکثر شرکت کنندگان به ارمغان بیاورد.
 
-## Bijdrage Herkennen
+## Recognizing Contribution
 
-Steem is van de grond af aan ontworpen om de belangrijkste belemmeringen voor adoptie en het maken van geld van een sociaal media gebaseerde economie aan te pakken. Onze stelling is dat dezelfde technieken die gebruikt worden voor de groei van grote sociale media platformen gebruikt kunnen worden om een succesvolle cryptovaluta op te starten. Economische stimulans mogelijk gemaakt door cryptogeld kan de groei van een nieuw sociaal media platform drastisch vergemakkelijken. Wij geloven dat het de synergie is tussen cryptogeld en sociale media dat Steem een krachtig voordeel kan geven in de markt.
+Steem برای حذف موانع بزرگ پیش روی پذیرش و کسب درآمد از اقتصاد مبتنی بر رسانه های اجتماعی طراحی شده است. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
-De uitdaging voor Steem is het afleiden van een algoritme voor het bijhouden van individuele bijdragen dat door de meeste leden van de gemeenschap word aanzien als een eerlijke overweging van de subjectieve waarde van elke bijdrage. In een perfecte wereld zouden leden van de gemeenschap samenwerken om elkaars bijdrage te beoordelen en een eerlijke compensatie af te leiden. In de echte wereld, moeten algoritmen ontworpen worden op een manier dat deze resistent zijn voor opzettelijke manipulatie voor winst. Elk wijdverspreid misbruik van het score systeem can leiden tot gemeenschapsleden die het geloof verliezen in de gepercipieerde eerlijkheid van het economisch systeem.
+چالشی که Steem با آن روبروست ساخت الگوریتم برای محاسبه مشارکت های فردی است که اکثر اعضای جامعه آن را ارزیابی عادلانه ی ارزش هر سهم می دانند.  در یک دنیای کامل، اعضای جامعه برای ارزیابی سهم یکدیگرو برای بدست اوردن مزد عادلانه همکاری می کنند. در دنیای واقعی، الگوریتم ها باید به گونه ای طراحی شوند که در مقابل دستکاری های عمدی برای سود مقاوم باشند. سوءاستفاده ی گسترده از سیستم امتیازدهی می تواندباعث از بین رفتن اعتقاد اعضای جامعه به عدالت سیستم اقتصادی شود.
 
-Bestaande platformen werken op een één gebruikers, één stem-principe. Dit creëert een omgeving waar rangorde kan worden gemanipuleerd door ‘sybil attacks’ en de dienstverleners pro actief misbruikers moeten identificeren en blokkeren. Mensen proberen al om de Reddit, Facebook en Twitter score algoritmes te manipuleren wanneer de enige beloning webverkeer of censuur is.
+Existing platforms operate on a one-user, one-vote principle. This creates an environment where rankings can be manipulated by sybil attacks and the service providers must pro-actively identify and block abusers. وقتی که تنها سزای کار ترافیک وب یا سانسور باشد مردم تلاش می کنند تا الگوریتم های ارزیابی ردیت، فیس بوک و توییتر را دستکاری کنند.
 
-De fundamentele rekeneenheid op het Steem platform is STEEM, een cryptogeld token. Steem werkt op basis van één-STEEM, één-stem. Onder dit model hebben mensen die het meest hebben bijgedragen aan het platform, zoals gemeten door hun rekening balans, het meeste invloed op de manier waarop bijdragen worden gescoord. Bovendien laat Steem leden alleen toe om te stemmen met STEEM wanneer de betrokkene zich toewijd aan een meerjaren vestigingsschema. Onder dit model hebben leden een financiële drijfveer om te stemmen op een manier dat de lange termijn waarde van hun STEEM maximaliseert.
+The fundamental unit of account on the Steem platform is STEEM, a crypto currency token.  Steem بر اساس یک STEEM، یک رأی کار می کند. تحت این مدل، افرادی که بیشترین مشارکت را در این پلات فرم دارند، همانطور که توسط تعادل حساب آنها اندازه گیری می شود.، بیشترین تأثیر را برچگونگی ارزیابی مشارکت ها دارند. علاوه بر این، Steem ،زمانی که به یک برنامه چند ساله اختصاص داده شود فقط به اعضا اجازه می دهد تا با STEEM رأی دهند. تحت این مدل، اعضا برای رای دادن انگیزه مالی دارند به طوری که ارزش بلند مدت STEEM آنها را به حداکثر برساند.
 
-Steem is ontworpen rondom een relatief eenvoudig concept: *Ieders zinvolle bijdrage aan de gemeenschap moet worden opgenomen voor de waarde die het toevoegt.* Wanneer mensen worden erkend voor hun zinvolle bijdragen, blijven ze bijdragen zodat de gemeenschap groeit. Elke onbalans in het geven en nemen binnen de gemeenschap is onhoudbaar. Uiteindelijk word de gever moe van het ondersteunen van de nemer en zal deze zich los maken van de gemeenschap.
+Steem is designed around a relatively simple concept: *everyone's meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. هر گونه عدم تعادل در داد و ستد درون جامعه غیر قابل تحمل است. Eventually the givers grow tired of supporting the takers and disengage from the community.
 
-De uitdaging is het creëren van een systeem dat in staat is te identificeren welke bijdragen en hun relatieve waarde nodig zijn op een manier dat kan geschaald worden naar een oneindig aantal mensen.
+The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
 
-Een bewezen systeem voor het evalueren en belonen van bijdragen is de vrije markt. De vrije markt kan beschouwd worden als één enkele gemeenschap waar iedereen handelt met elkaar en beloningen worden toegewezen door winst en verlies. Het markt systeem beloont degenen die zorgen voor waarde aan anderen en straft degenen die meer waarde verbruiken dan ze produceren. De vrije markt ondersteunt veel verschillende valuta’s en geld is gewoon een product dat iedereen gemakkelijk vind om uit te wisselen.
+یک سیستم اثبات شده برای ارزیابی و پاداش دادن به مشارکت ها، در بازار آزاد است. بازار آزاد را می توان به عنوان یک جامعه واحد درنظرگرفت که در آن هر کس با دیگری تجارت می کند و پاداش ها بر اساس سود و زیان اعطا میشود. سیستم بازاربه کسانی که به دیگران ارزش افزایی میکنند پاداش میدهد و افرادی را که بیشتراز تولیداتشان مصرف می کنند، مجازات می کند. بازار آزاد بسیاری از ارزهای مختلف را پشتیبانی می کند و پول صرفا یک کالای ساده است که هر کس به آسانی مبادله میکند.
 
-Omdat de vrije markt een bewezen systeem is, is het verleidelijk om te proberen een vrije markt systeem te creëren waar consumenten van inhoud, producenten van inhoud rechtstreeks betalen. Echter, rechtstreekse betaling is inefficiënt en niet haalbaar voor het creëren van inhoud en selectie. De waarde van de meeste inhoud is zo laag ten opzichte van de cognitieve, financiële en alternatieve kosten geassocieerd met het maken van een betaling die weinig lezers verkiezen te fooien. De overvloed aan gratis alternatieven betekent dat de tenuitvoerlegging van een ‘paywall’ de leden elders zal drijven. Er zijn verscheidene pogingen geweest per-artikel microbetalingen te implementeren van lezers naar gebruikers, maar geen daar van zijn wijdverspreid.
+از آنجا یی که بازار آزاد یک سیستم اثبات شده است، سعی درایجاد یک سیستم بازارآزاد که در آن مصرف کنندگان به طور مستقیم به تولید کنندگان پرداخت می کنند وسوسه انگیز است. However, direct payment is inefficient and not really viable for content creation and curation. ارزش بسیاری از محتویات نسبت به هزینه های شناختی، مالی و فرصتی انقدرکم است که تعداد کمی از خوانندگان تصمیم به پرداخت انعام میگیرند. The abundance of free alternatives means that enforcing a 'paywall' will drive readers elsewhere. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
 
-Steem is ontworpen om effectieve microbetalingen voor alle soorten bijdragen in staat te stellen door het veranderen van de economische vergelijking. Lezers hoeven niet langer meer te beslissen of zij wel of niet iemand willen betalen uit hun eigen zak, in plaats daarvan kunnen ze inhoud omhoog of omlaag stemmen en Steem zal hun stemmen gebruiken om individuele beloningen te bepalen. Dit betekent dat mensen een gebruikelijke en bekende interface krijgen en niet langer de cognitieve, financiële en alternatieve kosten dragen die geassocieerd worden met traditionele microbetaling en fooi platformen.
+Steem برای ایجاد میکروپردازهای موثر برای هرنوع مشارکت با تغییرمعادلات اقتصادی طراحی شده است. خوانندگان دیگر مجبور نیستند تصمیم بگیرند که آیا آنها میخواهند به کسی از جیب خود بپردازند یا نه. آنها می توانند به محتوا رای بالا یا پایین دهند و Steem ارائ خودشان را برای تعیین پاداش های فردی استفاده خواهد کرد. این به این معنی است که یک خط اتصال آشنا وپر استفاده در اختیار افراد قرار می گیرد و دیگرمجبورنیستند باهزینه های شناختی، مالی و فرصت های مرتبط با سیستم های میکروپردازسنتی و پلاتفرم های انعامی کار کنند.
 
-Stemmen inbreng van leden van de gemeenschap is van cruciaal belang voor Steem om nauwkeurige betalingen toe te wijzen aan medewerkers. Stemmen kan daarom worden gezien als een cruciale bijdrage en waardig voor beloningen op zichzelf. Sommige platformen, zoals Slashdot, gebruiken meta-moderatie [^3] als een manier voor rangorde en het belonen van eerlijke moderators. Steem kiest er voor degenen te belonen die het meest bijdragen aan de totale promotie van een stuk inhoud en beloond de kiezers proportioneel aan de ultieme beloning betaald aan de maker van de inhoud.
+Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation [^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
 
-Er zijn andere vormen van bijdrage die Steem herkent en beloont op basis van objectieve metriek. Onder deze zijn: transactie validatie, proof of work mining, liquiditeit beloningen en het aangeven van misdragende blok producenten.
+اشکال دیگری از مشارکت وجود دارد که Steemم با استفاده از معیارهای عینی شناسایی میکند و پاداش می دهد. Among these are: transaction validation, proof of work mining, liquidity rewards, and reporting of misbehaving block producers.
 
-# Manieren Om Bij Te Dragen
+# روش های مشارکت
 
-In dit gedeelte worden de ideeën achter Steem en de beloningen voor mensen die zorgen voor zinvolle en meetbare bijdrage van de Steem gemeenschap beschreven.
+این بخش ایده های پشت Steem و پاداش های آن را برای افرادی که مشارکت معنی دار و قابل اندازه گیری به جامعه Steem ارائه می دهند، را تشریح می کند.
 
-## Bijdragen In Kapitaal
+## مشارکت سرمایه
 
-Er zijn twee items dat een gemeenschap kan aanbieden voor het aantrekken van kapitaal: schuld en eigendom. Degenen die eigendom kopen genereren winst wanneer de gemeenschap groeit, maar verliezen wanneer de gemeenschap krimpt. Degenen die schuld kopen word een zekere mate van belang verzekerd maar kunnen niet deelnemen aan een winst gerealiseerd door de groei van de gemeenschap. Beide soorten bijdragen van kapitaal zijn waardevol voor de groei van de gemeenschap en de waarde van zijn munt. Daarnaast zijn er twee manieren hoe eigendom kan worden gehouden: liquiditeit en vestiging. Vestigingseigendom maakt een verbintenis op lange termijn en kan niet worden verkocht voor een minimale periode.
+دو مورد وجود دارد که یک جامعه می تواند برای جذب سرمایه پیشنهاد بدهد: بدهی و مالکیت. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
-Het Steem netwerk noemt deze verschillende activaklassen Steem (STEEM), Steem Power (SP) en Steem Dollars (SMD).
+شبکه Steem این رده های مختلف دارایی را Steem (STEEM)، قدرت Steem (SP) و دلار Steem(SMD) می نامد.
 
 ## Steem (STEEM)
 
-Steem is de fundamentele rekeneenheid op de Steem blockchain. Alle andere tokens ontlenen hun waarde aan de waarde van STEEM. In het algemeen zou STEEM moeten worden gehouden voor korte perioden wanneer liquiditeit nodig is. Iemand die het Steem platform tracht toe te treden of te verlaten zal STEEM moeten kopen of verkopen. Zodra STEEM gekocht is zou het moeten omgezet worden in SP of SMD om het effect van verwatering op lange termijn te beperken.
+Steem واحد اصلی حساب در زنجیره بلوکی Steem است. تمام نشانه های دیگر ارزش خود را از ارزش STEEM می گیرند.  به طور کلی STEEM باید زمانی که نقدینگی مورد نیاز است برای مدت زمان کوتاهی نگهداری شود.  کسی که قصد ورود یا خروج از پلات فرم Steem را دارد باید STEEM خرید یا فروش کند. هنگامی که STEEM خریداری شد، باید به SP یا SMD تبدیل شود تا تأثیرافت ارزش را در طولانی مدت کاهش دهد.
 
-STEEM word steeds groter in aanbod met 100% per jaar als gevolg van niet SMD stimulans. Iemand die STEEM heeft zonder het te converteren naar SP wordt verdund met ongeveer 0.19% per dag. Hoewel het percentage hoog kan lijken, voor transacties die minder dan 10 dagen duren, is het nog steeds goedkoper dan kredietkaart kosten. Bovendien is de dagelijkse token creatie onbelangrijk naast de dagelijkse volatiliteit.
+STEEM با توجه به مشوق های غیرSMD، سالانه باعرضه 100٪ افزایش می یابد. نگهداری STEEM بدون تبدیل آن به SP، تقریبا 0.19٪ در روزافت ارزش دارد. در حالی که نرخ ممکن است به نظر بالا برسد ، برای معاملاتی که کمتر از 10 روزطول بکشد، هنوز ارزان تر از هزینه پردازش کارت اعتباری است. Furthermore, the daily token creation is insignificant next to the daily volatility.
 
-Iemand die Bitcoin of een andere cryptovaluta koopt en verkoopt 10 dagen later kon gemakkelijk 3% of meer verliezen als gevolg van prijsschommelingen. Iemand die Bitcoin koopt en verkoopt op dezelfde dag zal meestal meer dan 0.4% betalen aan markt vergoedingen alleen. Met andere woorden de inflatie is in feite onbelangrijk tijdens de periode dat het typisch individu STEEM heeft.
+کسی که بیت کوین یا هر نوع ارز رمزی دیگر را خریداری می کند و 10 روز بعد آن را می فروشد، به دلیل نوسان قیمت ها می تواند به راحتی 3٪ یا بیشتر ضررکند.  کسی که Bitcoin را خریداری می کند و سپس آن را در همان روز می فروشد، معمولا فقط در هزینه های بازار بیش از 0.4٪ می پردازد. به عبارت دیگر، نرخ تورم به طور موثر در طول دوره زمانی که فردSTEEM را نگه می دارد، ناچیز است.
 
-De meerderheid van de inflatie is in feite een boekhoudkundig artefact in plaats van een echte herverdeling van rijkdom. 90% van de niet-SMD inflatie word terug verdeeld aan de bestaande houders van STEEM evenredig aan de STEEM waarde van hun SP balans, waardoor van de inflatie meer een "split" gemaakt word. Alleen ongeveer 10% van de niet-SMD inflatie herverdeelt eigendom in het netwerk.
+The majority of inflation is actually an accounting artifact rather than true reallocation of wealth. 90٪ تورم غیر SMDمتناسب با مقدارSTEEM SP به صاحبان فعلی STEEM بازگردانده میشود، making in ation more of a "split". فقط حدود 10٪ از تورم غیر SMD باعث توزیع مجدد مالکیت درشبکه می شود.
 
-## Steem Power (SP)
+## Steem قدرت (SP)
 
-Start-up bedrijven vereisen inzet over een lange termijn. Degenen die hun geld investeren in een startup wachten jaren alvorens ze hun aandelen kunnen verkopen en winsten kunnen realiseren. Zonder een inzet over een langer termijn zou een startup dat extra kapitaal zoekt door middel van het verkopen van extra aandelen moeten concurreren met bestaande aandeelhouders die wensen uit te treden. Vakkundige investeerders willen hun kapitaal bijdragen om het bedrijf te laten groeien, maar de groei kan niet gebeuren indien het nieuwe kapitaal word weggegeven aan degenen die wensen uit te treden.
+شرکت های نوپا نیاز به تعهد سرمایه گذاری دردرازمدت دارند. انتظار میرود کسانی که پول خود را دریک شرکت نوپا سرمایه گذاری می کنندباید سالها برای اینکه بتوانند سهامشان را بفروشند و سود خود را محاسبه کنند منتظر بمانند. بدون تعهد بلند مدت، شرکت نوپا برای جذب سرمایه بیشترازطریق فروش سهام اضافی، با سهامدارانی که به دنبال خروج هستندرقابت خواهد کرد. سرمایه گذاران فهیم سرمایه خود را برای رشد شرکت میخواهند، اما اگر سرمایه جدید به وسیله ی کسانی که به دنبال خروج هستند، از بین برود شرکت رشد نخواهدکرد.
 
-Er is aanzienlijke waarde verbonden aan een lange termijninzet want het stelt gemeenschappen in staat lange termijn plannen te maken. Lange termijn inzet van aandeelhouders zorgt er ook voor dat ze stemmen voor lange termijn groei in plaats van korte termijn pumps.
+There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
-In de cryptogeld wereld, springen speculanten van valuta naar valuta voornamelijk gebaseerd op welke valuta er verwacht word op korte termijn te groeien. Steem wil een gemeenschap bouwen dat grotendeels eigendom is en volledig gecontroleerd word door mensen met een lang termijn perspectief.
+در فضای رمز ارزی، دلالان بر اساس اینکه کدام یک رشد کوتاه مدت خواهد داشت ازیک رمز ارزی به دیگری میپرند. Steem به دنبال ساخت جامعه ای است که بیشترمتعلق به آن است و به طور کامل توسط افراد با چشم انداز دراز مدت کنترل می شود.
 
-Omdat Steem lange termijn groei wil aanmoedigen is het gebonden om 9 STEEM toe te wijzen aan Steem Power (SP) aandeelhouders voor iedere 1 STEEM dat het creëert om de groei te financieren door middel van bijdrage stimulans. Na verloop van tijd drijft dit de verhouding tussen de totale STEEM waarde van Steem Power tot de totale STEEM verhoudingen naar 9:1. (Het lijkt er op dat de verhouding iets groter zal zijn dan 9:1 als gevolg van aanhoudend netto Powering Up van de nieuw gedrukte STEEM.) Dit betekent eveneens dat langdurige houders bijna volledig beschermd zijn tegen de verdunning gebruikt om de groei te financieren.
+Because Steem wants to encourage long-term growth, it is hardwired to allocate 9 STEEM to Steem Power (SP) stakeholders for every 1 STEEM it creates to fund growth through contribution incentives. با گذشت زمان، نسبت کل مقدار STEEM ازSP به کلSTEEM به نسیت 9: 1 تغییر میکند. (It seems likely that the ratio will be somewhat greater than 9:1 due to continued net Powering Up of the newly printed STEEM.) It also means that long-term holders are almost completely protected from the dilution used to fund growth.
 
-SP kan alleen terug naar STEEM worden omgezet in 2 jaar via 104 gelijke, wekelijkse betalingen. ‘1 SP’ kan gezien worden als een aandeel in een poel van STEEM. Het netwerk voegt automatisch, elke block, STEEM toe aan de poel. Op elk moment kunnen gebruikers hun STEEM omzetten naar SP aan dezelfde verhouding als STEEM tot totale SP in de vesting poel. Het omzetten van STEEM naar SP zorgt niet voor verdunning bij bestaande houders van SP. Net zoals, elke keer STEEM word omgezet naar SP word dit gedaan aan de huidige verhouding. Individuen worden gegarandeerd meer STEEM in de toekomst te hebben dan ze hadden wanneer ze voor het eerst STEEM omzetten naar SP.
+SP بعد از2 سال و104 پرداخت یکسان هفتگی می تواند دوباره به STEEM تبدیل شود. '1 SP' را می توان به عنوان یک سهم در مخزن STEEM مشاهده کرد. شبکه به طور خودکار STEEM را به هر بلوک مخزن اضافه می کند. در هر زمان کاربران می توانند STEEM خود را با همان نسبتSTEEM موجود درمخزن به کل SP به SP تبدیل کنند. تبدیل STEEM به SP SP نگهدارنده های موجود را رقیق نمی کند.  به همین ترتیب، تبدیل مجدد SP به STEEM هربار با نسبت فعلی انجام می شود. Individuals are guaranteed to have more STEEM in the future than they have when they rst convert from STEEM to SP.
 
-SP tegoeden zijn niet overdraagbaar en niet deelbaar behalve via de automatische terugkerende wissel verzoeken. Dit betekent dat SP niet makkelijk kan gewisseld worden op cryptogeld wissel platformen.
+مقادیر SP غیر قابل انتقال و غیر قابل تقسیم است، مگر با استفاده از درخواست های تبدیل مکرر اتوماتیک. این به این معنی است که SP را نمی توان به راحتی در بورس رمزارزی مبادله کرد.
 
-SP is een vereiste voor het voor en tegen stemmen van inhoud. Dit betekent dat SP een toegangs token is die de houders ervan exclusieve bevoegdheden verleent binnen het Steem platform.
+SP is a requirement for voting for or against content. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
-Het overbrengen van STEEM naar SP word aangeduid met ‘Power Up’ (bekrachtigen) terwijl het overbrengen van SP naar Steem word aangeduid met ‘Power Down’ (ontkrachten). Bijvoorbeeld, men kan over een periode van 2 jaar STEEM ontkrachten met ‘Power Down’. Maar men kan eveneens ogenblikkelijk STEEM bekrachtigen met ‘Power Up’.
+انتقال از STEEM به SP به عنوان افزایش قدرت به حساب می آید درحالی که انتقال از SP به Steem به عنوان "افت قدرت" شناخته می شود. به عنوان مثال، یک نفرمیتواند ظرف دوسال قدرت استیم خود را کاهش دهد، اما یکی می تواند بلافاصله قدرت STEEM خود را افزایش دهد.
 
-## Steem Dollars (SMD)
+## Steem دلار) SMD(
 
-Stabiliteit is een belangrijke eigenschap van succesvolle, globale economieën. Zonder stabiliteit, zouden mensen over de hele wereld niet in staat zijn lage cognitieve kosten te hebben terwijl ze betrokken zijn bij handel en besparingen. Omdat stabiliteit een belangrijk kenmerk is van succesvolle economieën, werden Steem Dollars ontworpen om stabiliteit te brengen in de wereld van cryptogeld en bij gebruikers van het Steem netwerk.
+ثبات ویژگی مهم اقتصادهای جهانی موفق است. بدون ثبات، افراد در سراسر جهان نمی توانند هزینه های شناختی کمتری داشته باشند در حالی که تجارت و پس انداز می کنند. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
 
-Steem Dollars werden gemaakt door een mechanisme vergelijkbaar aan dat van converteerbare obligaties, welke vaak gebruikt worden om startups te financieren. In de startup wereld, zijn converteerbare obligaties instrumenten van korte termijn schuld die kunnen omgezet worden naar eigendom aan een tarief dat beslist word in de toekomst, meestal tijdens een volgende subsidieronde. Een blockchain gebaseerd token kan worden gezien als eigendom in de gemeenschap terwijl een converteerbare obligatie gezien kan worden als een schuld aangewezen in een andere grondstof of valuta. De voorwaarden van de converteerbare obligatie laten de houder toe het steun token om te zetten aan de eerlijke marktprijs en met een minimale opzegtermijn. Het creëren van token-converteerbare-dollars stelt blockchains in staat hun netwerk effect te laten groeien, terwijl het, het rendement van token houders maximaliseert.
+Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
 
-Steem Dollars worden aangeduid met het symbool SMD, een acroniem voor Steem Dollars. Het creëren van SMD vereist een combinatie van betrouwbare prijs feed, regels voor het voorkomen van misbruik en liquiditeit. Het verstrekken van een betrouwbare prijs feed bestaat uit drie factoren: de impact van een onjuiste feed minimaliseren, de kost van een onjuiste feed maximaliseren, en het belang van timing minimaliseren.
+Steem Dollars are referred to with the symbol SMD, an acronym for Steem Dollars. Creating SMD requires a combination of a reliable price feed, rules to prevent abuse, and liquidity. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
 
-### Fraude Feeds Minimaliseren
+### به حداقل رساندن نرخ های مخرب
 
-SP houders kiezen individuen om prijs feeds te publiceren. Deze verkozen individuen worden vermoedelijk vertrouwd door degenen met gevestigde belangen in de kwaliteit van de feed. Door degenen die verkozen zijn te betalen, creëert Steem markt concurrentie om het recht te verdienen om feeds te produceren. Hoe meer de producenten van feeds betaald worden hoe meer ze te verliezen hebben door het publiceren van valse informatie.
+دارندگان SP، افرادی را برای انتشارنرخ هزینه انتخاب می کنند. این افراد منتخب احتمالا توسط افرادی که صاحب نظردر زمینه کیفیت نرخ هستند مورد اعتماد هستند. با پرداخت به کسانی که انتخاب می شوند، Steem بازار رقابتی برای کسب حق تولید نرخ ایجاد می کند. هرچه بیشتربه تولیدکنندگان نرخ پرداخت شود همانقدربا انتشاراطلاعات غلط، میزان ضررشان بیشتر میشود.
 
-Gegeven een reeks vertrouwde en verkozen feed producenten, kan de werkelijke prijs gebruikt voor het omzetten afgeleid worden als het gemiddelde van de feeds. Op deze manier is het zo dat als een minderheid van individuele feed producenten uitschieters produceert, deze een minimale impact hebben op het werkelijke gemiddelde, terwijl het vermogen om hun reputatie te beïnvloeden behouden word.
+با مدنظرقراردادن مجموعه ای از تولید کنندگان مورد اعتماد و انتخاب شده، قیمت واقعی مورد استفاده برای تبدیل ها می تواند به عنوان میانه نرخ ها درنظرگرفته شود. به این ترتیب اگرتعداد کمی ازتولیدکنندگان فردی نرخ متفاوتی تولیدکنند، تاثیرکمی برمیانه نرخ ها می گذارند و در عین حال همچنان قابل اعتمادهستند.
 
-Zelfs wanneer alle feed producenten eerlijk zijn, is het onmogelijk voor de meerderheid van feed producenten om beïnvloed te worden door gebeurtenissen buiten hun controle. Het Steem netwerk is ontworpen om de korte termijn corruptie van de gemiddelde prijs feed te tolereren, terwijl de gemeenschap actief werkt om de kwestie te corrigeren. Een voorbeeld van een probleem dat enige tijd kan duren om te corrigeren is korte termijn marktmanipulatie. Marktmanipulatie is moeilijk en duur om te onderhouden voor langere perioden. Een ander voorbeeld is het falen van een gecentraliseerd wisselplatform of de corruptie van de data gepubliceerd door het wisselplatform.
+حتی اگر همه تولید کنندگان نرخ صادق باشند، ممکن است اکثریت تولید کنندگان نرخ توسط مسائلی که خارج از کنترل آنها است تحت تاثیرقراربگیرند. شبکه Steem به گونه ای طراحی شده است که در حالی که جامعه به طور فعال برای حل مسئله کار می کند در کوتاه مدت انحراف متوسط نرخ را تحمل کند. One example of an issue that may take some time to correct is short-term market manipulation. حفظ دستکاری بازار برای مدت طولانی دشوار و گران است. مثال دیگرمی تواند ناموفق شدن مبادله متمرکز ویا انحراف اطلاعات منتشر شده توسط بورس باشد.
 
-Steem elimineert korte termijn prijsschommelingen door het gebruik van de gemiddelde prijs over een periode van één week. De gemiddelde gepubliceerde feed word gesampled elk uur op het uur.
+Steem با استفاده از قیمت متوسط در طی یک هفته از نوسانات کوتاه مدت قیمت جلوگیری می کند. نرخ متوسط منتشر شده سرهر ساعت نمونه برداری می شود.
 
-Zolang de prijs feed corruptie duurt voor minder dan de helft van het bewegend gemiddelde tijdsverloop zal het een minimale invloed hebben op de conversie prijs. In het geval dat de feed toch corrumpeert, zullen netwerk participanten de kans krijgen producenten van corrupte feed weg te stemmen voor de corrupte feed in staat is de werkelijke conversie prijs te beïnvloeden. Misschien van nog groter belang is dat het feed producers een kans geeft om problemen te detecteren en corrigeren nog voor hun feed de prijs begint te beïnvloeden.
+As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. مهمتر از آن، به تولیدکنندگان نرخ فرصت تشخیص و اصلاح مسائل میدهد پیش ازآنکه شروع به تحت تاثیرقراردادن قیمتها کنند.
 
-Met een tijdsduur van één week, hebben gemeenschapsleden drie en een halve dag om te reageren op eventuele, onvoorziene problemen.
+دربازه ی زمانی یک هفته، اعضا سه و نیم روز برای پاسخ به هر گونه مسئله پیش آمده زمان دارند.
 
-### Timing Aanvallen Matigen
+### کاهش زمان حمله
 
-Marktdeelnemers hebben sneller toegang tot informatie dan de blockchain’s één-week bewegende, gemiddelde conversie prijs kan reageren. Deze informatie kan gebruikt worden in het voordeel van handelaren op kosten van de gemeenschap. Als er een plotselinge stijging plaatsvind in de waarde van STEEM zouden handelaren de omzetting van hun SMD kunnen aanvragen aan de oude, lagere prijs, en vervolgens de STEEM verkopen die ze ontvangen aan de nieuwe, hogere prijs met minimaal risico.
+فعالان بازار، به اطلاعات زودترازآنکه نرخ تبدیل میانگین متحرک هفتگی blockchain واکنش نشان دهد دسترسی پیدا می کنند.  این اطلاعات می تواند به نفع معامله گران با هزینه جامعه مورد استفاده قرار گیرد. اگر یک افزایش ناگهانی در ارزش STEEMبوجود آید، معامله گران می توانند درخواست تبدیل SMD با قیمت قدیمی و پایین تر کنند، و سپس STEEM را به فروش رسانند، آنها قیمت جدید را با حداقل ریسک دریافت می کنند.
 
-Steem creëert gelijke kansen door te eisen dat alle conversie verzoeken worden vertraagd voor één week. Dit betekent dat noch de handelaren, noch de blockchain enig informatie voordeel heeft betreffende de prijs op het moment dat de conversie word uitgevoerd.
+Steem levels the playing field by requiring all conversion requests to be delayed for one week. این بدان معنی است که نه تجار و نه blockchain هیچ مزیت اطلاعاتی در مورد قیمت در زمان انجام تبدیل ندارد.
 
-### Misbruik Van Conversies Minimaliseren
+### به حداقل رساندن سوء استفاده از تبدیل
 
-Wanneer mensen vrij zouden kunnen converteren in beide richtingen zouden handelaren kunnen profiteren van de blockchains conversiepercentages door te handelen in grote volumes zonder het veranderen van de prijs. Handelaren die een enorme aanloop zien in prijs zouden converteren naar SMD tegen de hoge prijs (wanneer het risico hoogst is) en vervolgens terug converteren na de correctie. Het Steem protocol beschermt de gemeenschap van dit soort misbruik door mensen alleen toe te laten van SMD naar STEEM te converteren en niet andersom.
+اگر مردم بتوانند آزادانه در هر دو جهت تبدیل کنند، معامله گران می توانند با استفاده از حجم زیاد معاملات بدون تغییر قیمت، از مزایای نرخ تبدیل blockchain بهره مند شوند. معامله گرانی که افزایش قیمت زیادی مشاهده می کنند، باید به قیمت بالا (زمانی که بیشترین خطر را دارند) به SMD تبدیل کنند و بعد از اصلاح مجددا برگردند. پروتکل Steem جامعه را از این نوع سوءاستفاده محافظت می کند به این طریق که به افراد تنها اجازه می دهد ازSMD به STEEM تبدیل شوند و نه از راه دیگر.
 
-De blockchain bepaalt hoe en wanneer SMD moet gemaakt worden en wie dit moet krijgen. Dit houd de snelheid van SMD creatie stabiel en verwijderd de meeste wegen naar misbruik.
+Blockchain تصمیم می گیرد که چگونه و چه زمانیSMD ایجاد شود و چه کسی باید آن را دریافت کند. این باعث ثبات سرعت ایجاد SMD میشود و بیشترروش های سوء استفاده را از بین میبرد.
 
-### Liquiditeit
+### نقدینگی
 
-Het is niet omdat SMD omgezet worden kan in de waarde van een doller in STEEM tegen een faire prijs in een redelijke tijdspanne dat het moet gezien worden als een betrouwbare dollarvervanging. Deze activa vereisen liquiditeit in een markt die onmiddellijke conversie mogelijk maakt tussen STEEM en SMD maakt. De maatregelen die een blockchain moet nemen om misbruik te voorkomen zorgen voor een verlaging van de kwaliteit van de converteerbare dollars. Om dit verlies aan kwaliteit te compenseren kan de blockchain een vaste beloning bieden aan liquiditeitsaanbieders. Alhoewel dat de potentiële verliezen door manipulatie en misbruik onbegrensd zijn, kunnen de kosten die liquiditeit aanmoedigen worden vastgelegd.
+ فقط به این دلیل که SMD را می توان به معادل دلاری STEEM با یک قیمت منصفانه در یک زمان مناسب معین تبدیل کرد، به این معنی نیست که میتوان آن را جایگزین قابل اعتمادی برای دلار درنظرگرفت. این دارایی ها نیاز به نقدینگی در بازار دارند که امکان تبدیل لحظه ای بین STEEM و SMD را فراهم می کند. ازجمله اقداماتی که زنجیره بلوکی مجبور است برای جلوگیری از سوء استفاده انجام دهد، کاهش کیفیت دلار تبدیلی است. برای جبران این کیفیت از دست رفته ، blockchain می تواند پاداش ثابتی به تامین کننده های نقدینگی ارائه دهد. در حالی که تلفات بالقوه ناشی از دستکاری و سوء استفاده نا محدود است، هزینه تشویق نقدینگی می تواند اصلاح شود.
 
-Een liquiditeitsverschaffer koopt en verkoopt SMD en STEEM. Zij nemen het grootste deel van het prijsrisico op korte termijn op zich evenals die voorraad op lange termijn en daardoor geven ze de rest van de marktdeelnemers met een uiterst liquide markt van hoge kwaliteit waarin ze kunnen handelen.
+تامین کننده نقدینگی SMD و STEEM را خرید و فروش می کند. آنها بیشترریسک قیمت کوتاه مدت و نرخ دراز مدت را رفع میکنند وبرای شرکت کنندگان باقی مانده بازاری با کیفیت ونقدینگی بالا برای تجارت فراهم می کنند.
 
-Steem heeft een markt op de blockchain tussen SMD en STEEM. Gebruikers kunnen beloningen verdienen door liquiditeit aan beide zijden van deze markt te voorzien. De blockchain gebruikt een eenvoudig algoritme om de liquiditeit en comsumptie van elke gebruiker te rangschikken.
+Steem دارای یک بازار زنجیره بلوکی بین SMD و STEEM است. کاربران با ارائه نقدینگی به هر دو طرف این بازار می توانند پاداش کسب کنند. Blockchain از یک الگوریتم ساده برای رتبه بندی میزان تدارک ومصرف نقدینگی هر کاربراستفاده می کند.
 
-Een gebruiker wordt beschouwd als een liquiditeitsverschaffer als ze een open order voor langer als 1 minuut op de boeken laten staan maar die uiteindelijk vervuld wordt. Als de order is geannuleerd wordt voor hij vervuld is dan wordt de gebruiker niet gecrediteerd met het verstrekken van liquiditeit.
+اگریک کاربر حداقل یک دقیقه یک سفارش بازداشته باشد و سفارش در نهایت پر شده باشد به عنوان ارائه کننده نقدینگی در نظر گرفته می شود. اگر سفارش قبل از پر شدن لغو شود، کاربر به عنوان تأمین کننده نقدینگی شناخته نمی شود.
 
-Gebruikers moeten liquiditeit bieden aan beide zijden van de boeken om in aanmerking komen voor beloningen en ze moeten de liquiditeit consequent leveren over verloop van tijd. Het scoren van het algoritme is:
+کاربران باید درهردو طرف و به طور مداوم برای واجد شرایط پاداش بودن نقدینگی فراهم کنند. الگوریتم امتیازدهی این است:
 
       LiquidityPoints = NetBidVolume x NetAskVolume
     
 
-Elk uur ontvangt het account met de meeste LiquidityPoints 1200 STEEM en vervolgens worden zijn LiquidityPoints teruggesteld op 0. Bij een account dat een week geen LiquidityPoints verdient heeft worden ook haar punten opnieuw ingesteld op 0. Dit betekent dat als u een grote hoeveelheid liquiditeit biedt op korte termijn of een kleine hoeveelheid gedurende een lange periode dat iedereen een evenredig bedrag van de beloningen krijgt. Als NetBidVolume of NetAskVolume negatief is, dan worden de LiquidityPoints beschouwd als 0.
+هر ساعت حساب دارای بیشترین امتیاز نقدینگی 1200 STEAM دریافت می کند و سپس امتیاز نقدینگی مجددا به 0 تنظیم می شود. امتیاز حساب کاربری ای که یک هفته LiquidityPoints دریافت نکند مجددا به 0 تنظیم می کند. This means that whether you provide a large amount of liquidity or a small amount over a long period of time everyone gets a proportional amount of the rewards. اگر حجم خالص سود معاملات یا حجم خالص درخواست ها منفی باشد، امتیاز نقدینگی 0 درنظرگرفته می شود.
 
-### Duurzame schuld vs. eigendomsratio 's
+### Sustainable Debt to Ownership Ratios
 
-Als een token wordt beschouwd als eigendom in de hele tokencyclus, kan dan een token-wissel-dollar worden beschouwd als schuld. Als de verhouding van schuld tot eigendom te hoog wordt kan de gehele munt kan onstabiel worden. Schuldconversies kunnen het token aanbod drastisch verhogen, dat op zijn beurt wordt verkocht op de markt om zo de prijs te onderdrukken. Latere conversies vereisen de uitgifte van nog meer tokens. Als men niets aan kunt het systeem doet dan kan het samenklappen en waardeloos eigendom achterlaten ondersteund door een berg schulden. Hoe hoger de ratio tussen schuld en eigendom hoe minder interessant investeringen zullen zijn.
+If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. اگر نسبت بدهی مالکیت خیلی بالا باشد، کل ارزناپایدارمیشود. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. نسبت بالای بدهی به مالکیت، موجب این میشود که سرمایه گذاران جدید کمتری تمایل به سرمایه گذاری داشته باشند.
 
-Voor elke SMD die Steem maakt, wordt er ook $19,00 aan STEEM gemaakt en geconverteerd naar SP. Dit betekent dat de hoogste mogelijke schuld-naar-eigendom ratio in een stabiele markt 1:19 of ongeveer 5% is. Als Steem in waarde met 50 daalt % dan kan de verhouding oplopen tot 10%. Een 88% daling van de waarde van STEEM kan ervoor zorgen dat de schuld-naar-eigendom verhouding klimt tot 40%. Ervan uitgaande dat de waarde van STEEM uiteindelijk stabiliseert, dan zal de verhouding tussen de schuld-naar-eigendom natuurlijk terug naar 5% zakken.
+For every SMD Steem creates, $19.00 of STEEM is also created and converted to SP.  این بدان معنی است که بالاترین نسبت بدهی به مالکیت در یک بازار پایدار 1:19 یا حدود 5٪ است. اگر ارزشSteem با 50٪ کاهش یابد، این نسبت می تواند تا 10٪ افزایش یابد.  کاهش 88 درصدی ارزش STEEM می تواند سبب افزایش 40 درصدی نسبت بدهی به مالکیت شود. با فرض اینکه ارزش STEEM در نهایت تثبیت شود، نسبت بدهی به مالکیت به طور طبیعی 5٪ به عقب برمیگردد.
 
-Het idee achter het hebben van een conservatieve 5% schuld tot eigendom ratio is dat zelfs als alle schuld werd omgezet en verkocht er voldoende kopers zouden moeten zijn en de effectieve verdunning van de token houders daardoor relatief klein blijft.
+The idea behind having a conservative 5% debt to ownership ratio is that even if all debt were converted and sold there should be ample buyers and the effective dilution of the token holders remains relatively small.
 
-Een snelle verandering in de waarde van STEEM kan dramatisch de ratio van schuld-naar-eigendom veranderen. Het percentages die gebruikt worden om te berekenen hoeveel STEEM creatie nodig is zijn gebaseerd op de levering met inbegrip van de STEEM waarde van alle uitstaande SMD en SP (zoals bepaald door de huidige koers / feed).
+تغییر ناگهانی ارزش STEEM می تواند به طور چشمگیری نسبت بدهی به مالکیت را تغییر دهد. درصد پایه استفاده شده برای محاسبه ایجاد STEEM بر اساس عرضه تعیین می شود ، از جمله مقدار STEEM تمام SMD و SP باقیمانده (با توجه به نرخ فعلی / اعلام شده).
 
-### Intrest
+### علاقه
 
-SMD betaalt rente aan de houders. De hoogte van de intrest wordt bepaald door de zelfde mensen die de prijs feed publiceren zodat het zich kan aanpassen aan veranderende marktomstandigheden. Alle schuld draagt een risico voor de kredietgever. Iemand die SMD behoud zonder die om te zetten is effectief leningen aan Gemeenschap aan het geven ter waarde van een dollar. Ze vertrouwen erop dat op een bepaald punt in de toekomst iemand bereid zal zijn de SMD van hen te kopen voor een dollar of dat er speculanten en investeerders bereid zullen zijn om STEEM te kopen.
+SMD به سهامدارسود پرداخت می کند.  نرخ سود توسط همان افرادی که نرخ قیمت را منتشر می کنند، تنظیم می شود به این طریق میتواند با شرایط تغییر بازارمطابق شود. تمام بدهی ها برای وام دهنده ریسک دارد. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. آنها اعتقاد دارند که در آینده برخی از افراد مایل به خرید یک SMD از آنها برای یک دلارخواهندبود یا اینکه دلالان و سرمایه گذاران مایل به خرید STEEM ی که آنها تبدیل می کنند خواهند بود.
 
-STEEM en SP houders krijgen kracht wanneer leden van de Gemeenschap bereid zijn SMD te houden. Deze hefboom versterkt de groeivoordelen en draagt er terwijl ook toe. STEEM houders hebben last van verhoogde vermindering als de prijs daalt. Cryptocurrency projecten hebben aangetoond dat de voordelen van een groei van gebruikers die het netwerk vertrouwen met kapitaal uiteindelijk meer waarde toevoegen aan het netwerk dan enigerlei verdunning die tijdens een recessie optreden kan.
+صاحبان STEEM و SP، زمانی که اعضای جامعه مایل به نگه داشتن SMD هستند، لوریج بدست می اورند. این لوریج سود حاصل از رشد را افزایش می دهد و همچنین به رشد کمک می کند. اگر قیمت کاهش یابد دارندگان STEEM دچار افزایش افت ارزش میشوند. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
-### Prijs Feeds instellen
+### Setting Price Feeds
 
-Oplettende lezers zullen erkennen dat een intrest dragend activa met beperkte oplage hoger of lager verhandeld kan worden dan de onderliggende waarde afhankelijk van andere mogelijkheden om te verdienen rente op hetzelfde activa. Met een hoge intrest die betaald word op een activa gekoppeld aan de USD zullen mensen het beperkte aantal Steem Dollars hoogbieden to ze niet meer aan 1 dollar geschat worden. In de economie is er een principe gekend als de onmogelijke drievuldigheid [^4] die zegt dat het onmogelijk is om de volgende drie dingen tegelijk te hebben:
+Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
-1. Een stabiele wisselkoers
-2. Vrije beweging van valuta
-3. Een onafhankelijke financiele richtlijn
+1. نرخ ارز پایدار
+2. حرکت سرمایه آزاد
+3. سیاست پولی مستقل
 
-Als Steem Feed producenten pogen een onafhankelijke financiele richtlijn te hebben die toestaat om Steem Dollars aan te maken en te vernietigen en daarbij de volle controle te behouden over de intres dan zullen ze problemen krijgen. De Onmogelijke Drievuldigheid zegt dat Steem Dollars of beweging van Valuta moeten beperken, een onstabiele wisselkoers met de dollar moeten hebben of een beperkte controle over de intrestvoet.
+اگر تولیدکنندگان Steem نرخ قصد دارند سیاست پولی مستقل خود را ایجاد کنند، و در حالی که همزمان کنترل کامل بر نرخ بهره را دارند به ایجاد و تخریب دلار Steem بپردازند، با مشکل مواجه خواهند شد. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
-De grootste zorg van de Steem Feed producenten is om een stabiele overgang te behouden tussen SMD en de USD. Vanaf de SMD langere tijd verhandeld wordt boven de $1.00 USD dan moeten de uitbetalingen van intrest gestopt worden. In een markt waar 0% intrest op een schuld nog altijd hoog ingeschat wordt is het veilig om te zeggen dat de markt meer krediet kan verstrekken dan de gemeenschap will accepteren. Als het voorkomt dat een SMD meer waard is dan $1.00 dan is er weinig dat de gemeenschap kan doen buiten negatieve intrest aanrekenen.
+The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SMD and the U.S. Dollar (USD). Any time SMD is consistently trading above $1.00 USD interest payments must be stopped. در یک بازار که 0٪ ازسود بدهی ها هنوز به پریم نیاز دارند، می توان گفت که بازار مایل است اعتبار بیشتری به بدهی هایی که جامعه مایل به انجام آن است، اختصاص دهد. اگر این اتفاق بیافتد، ارزش یک SMD بیش از $ 1.00 خواهد شد و افراد بدون پرداخت نرخ بهره منفی کارزیادی نمیتوانند بکنند.
 
-Als de schuld vs eigendom ratio lager is dan 10% en de SMD wordt verhandeld voor minder dan $1.00 dan moet de intrestvoet verhoogd worden. Dit zal mensen aanmoedigen om hun SMD te behouden en zo de prijst te ondersteunen.
+اگر نسبت بدهی به مالکیت کمتر از 10٪ باشد و SMD کمتر از 1.00 دلار معامله شود، نرخ بهره باید افزایش یابد. این مسئله افراد بیشتری را برای نگه داشتن SMD خود و حمایت از قیمت تشویق می کند.
 
-If SMD trades for less than $1.00 USD and the debt-to-ownership ratio is over 10% then the feeds should be adjusted upward give more STEEM per SMD. This will increase demand for SMD while also reducing the debt-to-ownership ratio and returning SMD to parity with USD.
+If SMD trades for less than $1.00 USD and the debt-to-ownership ratio is over 10% then the feeds should be adjusted upward give more STEEM per SMD. این کار تقاضا برای SMD را افزایش می دهد در حالی که نسبت بدهی به مالکیت را کاهش می دهد وباعث برابری SMD با دلار امریکا می شود.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SMD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+با فرض اینکه ارزش STEEM سریعترازایجاد SMD جدید از طریق Steemباشد، نسبت بدهی به مالکیت باید زیر هدف مورد نظر باقی بماند و سود ارائه شده به نفع همه باشد. اگر ارزش شبکه در حال کاهش باشد، هر گونه سود ارائه شده تنها نسبت بدهی به مالکیت را بدتر می کند.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. سوءاستفاده از این قدرت می تواند به ارزش STEEM آسیب برساند، بنابراین صاحبان SP با توجه به قوانینی که در بالا ذکر شد برای تنظیم نرخ قیمت و نرخ بهره به متخصصانی که می توانند روی آنها حساب کنند رای میدهند.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SMD.
+اگر نسبت بدهی به مالکیت به میزان خطرناکی بالا برود و سهامداران ازدرخواست تبدیل امتناع کنند، باید میزان نرخ را افزایش داد تا نرخی که STEEM برای تبدیل SMD پرداخت میکند افزایش یابد.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SMD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions. The blockchain is paying liquidity providers for their service in absorbing short-term demands.
+Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SMD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions. Blockchain به تامین کننده های نقدینگی به خاطرخدماتشان در جذب تقاضای کوتاه مدت پرداخت میکند.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SMD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.99 and $1.01 for SMD under most market conditions.
+ما معتقدیم که این قوانین به شرکت کنندگان در بازاراین اعتماد را میدهد که با خرید SMD با قیمت 1.00 دلار احتمال اینکه ضرر کنند وجود ندارد. به طور کلی انتظار می رود که در بیشتر شرایط بازار یک بازه معاملاتی باریک بین 0.99 دلار و 1.01 دلار برای SMD وجود داشته باشد.
 
 ## Subjective Contributions
 
-Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. هنگامی که افراد به یک جامعه می پیوندند، به مجموعه ای از باورها می پیوندند و می توانند برای تقویت ارزش های جامعه یا هدف، رای دهند.
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. یک جامعه ممکن است بخواهد به هنرمندان، شاعران و کمدین ها جایزه بدهد. جوامع دیگر ممکن است تصمیم به جایزه دادن به دلایل خیرخواهانه یا کمک به پیشبرد برنامه های سیاسی داشته باشند.
 
-The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+ارزش هر پولی بستگی به میزان تقاضای جامعه و اینکه با توجه به اعتقاد بازار چه مقدار هر جامعه می تواند دریافت. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
-### Distributing Currency
+### توزیع پول
 
-There are two ways people can get involved with a crypto-currency community: they can *buy in*, or they can *work in*. In both cases users are adding value to the currency, however, the vast majority of people have more *free time* than they do *spare cash*. Imagine the goal of bootstrapping a currency in a poor community with no actual *cash* but plenty of *time*. If people can earn money by working for one another then they will bootstrap value through mutual exchange facilitated by a fair accounting/currency system.
+There are two ways people can get involved with a crypto-currency community: they can *buy in*, or they can *work in*. In both cases users are adding value to the currency, however, the vast majority of people have more *free time* than they do *spare cash*. Imagine the goal of bootstrapping a currency in a poor community with no actual *cash* but plenty of *time*. اگر مردم با کارکردن برای یکدیگر پول درآورند، از طریق تبادل متقابل توسط سیستم حسابدارانه و ارز منصفانه به صورت خودکارپول با ارزش می شود.
 
-Distributing a currency to as many people as possible in a manner that is generally perceived as fair is a challenging task. The tasks that can be entirely evaluated by an objective computer algorithm are limited in nature and generally speaking have limited positive external benefits. In the case of Bitcoin-style mining, it can result in the production of specialized hardware and cause people to invest time developing more efficient algorithms. It may even help find prime numbers, but none of these things provide meaningful value to society or the currency holding community at large. More importantly, economies of scale and market forces will end up excluding everyone but experts from participating in this kind of distribution. Ultimately, computation-based mining is just another way of *buying* in because it requires money to pay the electric bill or the development of hardware necessary to do the work.
+توزیع پول به صورت عادلانه بین بیشترین تعداد ممکن یک کار چالش برانگیز است.  وظایفی که توسط یک الگوریتم کامپیوتری هدفمند به طور کامل ارزیابی می شوند محدود هستند و به طور کلی منافع مثبت محدودی دارند. Bitcoin-style mining ، می تواند منجر به تولید سخت افزار تخصصی شود و موجب شود مردم برای ساخت الگوریتم های کارآمدتری سرمایه گذاری زمانی کنند. این ممکن است حتی به پیدا کردن اعداد اول کمک کند، اما هیچ کدام از این چیزها ارزش معناداری برای جامعه و یا جامعه ارزانی در اختیار نخواهند داشت. More importantly, economies of scale and market forces will end up excluding everyone but experts from participating in this kind of distribution. Ultimately, computation-based mining is just another way of *buying* in because it requires money to pay the electric bill or the development of hardware necessary to do the work.
 
-In order to give everyone an equal opportunity to get involved and earn the currency people must be given an opportunity to work. The challenge is how to judge the relative quality and quantity of work that individuals provide and to do so in a way that efficiently allocates rewards to millions of users. This requires the introduction of a scalable voting process. In particular it requires that authority to allocate funds must be as distributed and decentralized as possible.
+به منظور دادن فرصت های برابر برای کسب درآمد و پول به هر یک از افراد، مردم باید فرصتی برای کار داشته باشند. چالش اصلی این است که چگونه کیفیت نسبی و کمیت کاری که افراد ارائه می کنند را ارزیابی کنید و این کار را به طریقی انجام دهید که به میلیون ها کاربر پاداش دهید. این نیاز به معرفی یک فرایند رای گیری مقیاس پذیر است. به طور خاص، این امر مستلزم آن است که اختیارتخصیص بودجه باید به صورت پراکنده وغیرمتمرکز باشد.
 
-The first step in rewarding millions of users is to commit to distributing a fixed amount of currency regardless of how much work is actually done or how users vote. This changes the question from being *"Should we pay?"* to *"Whom should we pay?"* and signals to the market that money is being distributed and is being auctioned off to whoever "bids" the most *work*. This is similar to Bitcoin committing to award 50 BTC to whoever finds the most difficult hashes. Like Bitcoin, all work must be done prior-to payout and nothing should be paid speculatively on the promise to do work in the future.
+ اولین قدم برای هدیه دادن به میلیون ها کاربر، تعهد به توزیع یک مقدار ثابت بدون در نظر گرفتن اینکه چقدر کار واقعا انجام می شود یا چگونگی رای کاربران است. This changes the question from being *"Should we pay?"* to *"Whom should we pay?"* and signals to the market that money is being distributed and is being auctioned off to whoever "bids" the most *work*. This is similar to Bitcoin committing to award 50 BTC to whoever finds the most difficult hashes. Like Bitcoin, all work must be done prior-to payout and nothing should be paid speculatively on the promise to do work in the future.
 
 The next step is to reward everyone who does anything even remotely positive with *something*. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
 
