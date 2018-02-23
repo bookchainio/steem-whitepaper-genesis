@@ -179,7 +179,7 @@ De grootste zorg van de Steem Feed producenten is om een stabiele overgang te be
 
 Als de schuld vs eigendom ratio lager is dan 10% en de SMD wordt verhandeld voor minder dan $1.00 dan moet de intrestvoet verhoogd worden. Dit zal mensen aanmoedigen om hun SMD te behouden en zo de prijst te ondersteunen.
 
-If SMD trades for less than $1.00 USD and the debt-to-ownership ratio is over 10% then the feeds should be adjusted upward give more STEEM per SMD. This will increase demand for SMD while also reducing the debt-to-ownership ratio and returning SMD to parity with USD.
+Als SBD verhandeld wordt voor minder dan $1.00 USD en de schuld-/eigendomsratio is groter dan 10% dan moeten de feeds naar boven aangepast worden om meer STEEM per SBD te geven. Dit zal de vraag naar SBD doen stijgen terwijl het ook het schuld-/eigendomsratio verminderd en de SBD terugbrengt naar waarde van de de USD.
 
 Assuming the value of STEEM is growing faster than Steem is creating new SMD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
