@@ -181,9 +181,9 @@ Als de schuld vs eigendom ratio lager is dan 10% en de SMD wordt verhandeld voor
 
 Als SBD verhandeld wordt voor minder dan $1.00 USD en de schuld-/eigendomsratio is groter dan 10% dan moeten de feeds naar boven aangepast worden om meer STEEM per SBD te geven. Dit zal de vraag naar SBD doen stijgen terwijl het ook het schuld-/eigendomsratio verminderd en de SBD terugbrengt naar waarde van de de USD.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SMD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Ervan uitgaande dat de waarde van STEEM sneller groeit dan dat Steem nieuwe SBD maakt, zou de schuld-/eigendomsratio onder het doelratio moeten blijven en zou de rente voor iedereen van voordeel zijn. Als de waarde van het netwerk vlak of dalende is, zal alle rente die wordt aangeboden de schuld-/eigendomsratio alleen maar erger maken.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+In de praktijk zijn feed producenten verantwoordelijk voor het instellen van het monetair beleid met als doel een stabiele pin aan de USD te behouden. Misbruik van deze bevoegdheid kan schade toebrengen aan de waarde van STEEM, dus SP houders doen er verstandig aan om te stemmen voor getuigen die ze kunnen vertrouwen om de prijs feed en rente volgens de bovenstaande regels aan te passen.
 
 If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SMD.
 
