@@ -185,13 +185,13 @@ Ervan uitgaande dat de waarde van STEEM sneller groeit dan dat Steem nieuwe SBD 
 
 In de praktijk zijn feed producenten verantwoordelijk voor het instellen van het monetair beleid met als doel een stabiele pin aan de USD te behouden. Misbruik van deze bevoegdheid kan schade toebrengen aan de waarde van STEEM, dus SP houders doen er verstandig aan om te stemmen voor getuigen die ze kunnen vertrouwen om de prijs feed en rente volgens de bovenstaande regels aan te passen.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SMD.
+Als de schuld-/eigendomsratio gevaarlijk hoog wordt en marktdeelnemers er voor kiezen om omzettingsaanvragen te vermeiden, zou de feed aangepast moeten worden om de hoeveelheid STEEM die uitbetaald wordt bij het converteren vanuit SBD, te verhogen.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SMD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions. The blockchain is paying liquidity providers for their service in absorbing short-term demands.
+Wijzigingen in het rentebeleid en/of premies/kortingen op de omrekeningskoers van STEEM/SBD moeten een langzaam en afgemeten antwoord zijn op lange termijn afwijkingen in plaats van te proberen reageren op korte termijn marktomstandigheden. De blockchain betaalt liquidity providers voor hun diensten in het opvangen van de vraag op korte termijn.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SMD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.99 and $1.01 for SMD under most market conditions.
+Het is onze overtuiging dat deze regels marktdeelnemers het vertrouwen zal geven dat het onwaarschijnlijk is dat ze geld zullen verliezen door SBD te houden wat gekocht is voor $1,00. We gaan volledig uit van een nauwe ruilwaarde tussen de $0,99 en $1,01 voor SBD onder normale marktomstandigheden.
 
-## Subjective Contributions
+## Subjectieve bijdragen
 
 Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
 
