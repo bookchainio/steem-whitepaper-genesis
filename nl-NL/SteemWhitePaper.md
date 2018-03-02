@@ -237,11 +237,11 @@ Het gebruik van *negatief-stemmen* om te voorkomen dat mensen misbruik van het s
 > 
 > "Waarom bedek je de aasemmer niet zodanig dat de krabben niet ontsnappen?", vroeg hij.
 > 
-> "Je verstaat het niet", antwoorde de andere, "als er maar een krab in de emmer zat zou het er zeker heel snel uitkruipen.". However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+> "Je verstaat het niet", antwoorde de andere, "als er maar een krab in de emmer zat zou het er zeker heel snel uitkruipen.". "Maar als er meerdere krabben in de emmer zitten en er probeert er een langs de rand omhoog te kruipen dan nemen alle anderen hem vast zodanig dat hij hetzelfde lot deelt als hun."
 > 
-> So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+> Zo is het ook met mensen. Als er iemand iets anders probeert, betere cijfers haalt, zichzelf verbetert, de omgeving probeert te ontsnappen of grote dromen heeft dan zullen de anderen hem weer naar beneden trekken om hun lot te delen.
 
-Eliminating "abuse" is not possible and shouldn't be the goal. Even those who are attempting to "abuse" the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn't so rampant that it undermines the incentive to do real work in support of the community and its currency.
+Misbruik voorkomen is niet mogelijk en is ook niet de doelstelling. Even those who are attempting to "abuse" the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn't so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
 The goal of building a community currency is to get more "crabs in the bucket". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
 
