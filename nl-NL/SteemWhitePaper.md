@@ -247,11 +247,11 @@ Het doel van een gemeenschappelijke munt is om "meer krabben in de emmer" te kri
 
 ### Tijd gemeten stem vermindering
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Een groot deel van het voorkomen van misbruik is door het aantal stemmen te beperken. Individuele gebruikers kunnen maar een beperkt aantal stukken werk per dag lezen en evalueren. Elk verzoek om vaker te stemmen is een teken van automatisering en mogelijk misbruik. Door het tempo omlaag te halen kunnen eigenaars die meer stemmen hun stem voor minder waarde laten tellen dan eigenaars die minder vaak stemmen. De pogingen om munten te verdelen over verschillende accounts verdeeld ook de invloed en zorgt er daarvoor ook niet voor dat men de beperking kan omzeilen.
 
 ![](\img_voting_rate_limiting.png)
 
-The charts above shows how a user's voting power decreases every time they vote and then regenerates as time passes without voting. These charts use nominal time unit and could be made to scale to any targeted voting rate. Note that voting power rapidly drops off during periods of continuous voting, and then slowly recovers.
+De tekening hierboven toont hoe een gebruiker zijn stemkracht vermindert elke keer hij stemt en dan langzaam terugkomt als er niet gestemt wordt. Deze toont ook de tijdseenheid die er gebruikt wordt maar kan aangepast worden op elk stemtempo. Note that voting power rapidly drops off during periods of continuous voting, and then slowly recovers.
 
 Voting power is multiplied by a user's vesting tokens to determine how much share in the reward pool should be allocated to a given work item.
 
