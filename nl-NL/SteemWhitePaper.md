@@ -241,11 +241,11 @@ Het gebruik van *negatief-stemmen* om te voorkomen dat mensen misbruik van het s
 > 
 > Zo is het ook met mensen. Als er iemand iets anders probeert, betere cijfers haalt, zichzelf verbetert, de omgeving probeert te ontsnappen of grote dromen heeft dan zullen de anderen hem weer naar beneden trekken om hun lot te delen.
 
-Misbruik voorkomen is niet mogelijk en is ook niet de doelstelling. Even those who are attempting to "abuse" the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn't so rampant that it undermines the incentive to do real work in support of the community and its currency.
+Misbruik voorkomen is niet mogelijk en is ook niet de doelstelling. Zelfs zij die pogen het systeem te "misbruiken" leveren nog altijd werk. Elke compensatie die ze krijgen voor hun succes bij het misbruiken van het systeem is minstens zo waardevol bij het versprijden van de munt als het systeem van bitcoin mining op een traditionele manier of via de gemeenschappelijke mining groepen. Het enige wat nodig is, is verzekeren dat het misbruik niet zo overdreven is dat het de beloning voor echt werk voor de gemeenschap en de munt er onder lijden.
 
-The goal of building a community currency is to get more "crabs in the bucket". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
+Het doel van een gemeenschappelijke munt is om "meer krabben in de emmer" te krijgen. Tot extreme maatregelen overgaan om misbruik te vermijden is zoals een deksel op de emmer doen om te voorkomen dat er enkele ontsnappen ten koste aan de mogelijkheid om nieuwe krabben toe te voegen. Het is voldoende om de muren glad te maken en om de andere krabben genoeg macht geven om te voorkomen dat er meer ontsnappen.
 
-### Rate Limited Voting
+### Tijd gemeten stem vermindering
 
 A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
