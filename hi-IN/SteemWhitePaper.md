@@ -28,7 +28,7 @@
 
 स्टीम समुदाय निचे दिए गए सेवाएँ उपलब्ध करती है अपने सदस्यों को:
 
-1. A source of curated news and commentary.
+1. एक स्रोत उपपादरी समाचार और व्याख्या का|
 2. A means to get high quality answers to personalized questions.
 3. A stable cryptocurrency pegged to the U.S. dollar.
 4. Free payments.
