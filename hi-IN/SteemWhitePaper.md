@@ -24,7 +24,7 @@
 
 दुसरा सिद्धांत है कि सभी पूंजी के प्रकार सामान रूप से मूल्यवान होते हैं| इसका मतलब यह हुवा की वो सब जो अपना दुर्लभ समय और ध्यान देते हैं दूसरों की उत्पति और विषय वस्तु पादरी के प्रति उतना ही मूल्यवान होते हैं जो सब अपना दुर्लभ पैसा लगाते हैं| यह परिश्रम शेयर सिद्धांत है<sup id="fnref:2"><a href="#fn:2" class="footnote-ref">२</a></sup> और एक धारना कि पहले की क्रिप्टोकोर्रेंसीयों को हमेशा मुश्किल होता था एक दर्जन से अधीक वयक्तियों को उपलब्ध करने में|
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+तीसरा सिद्धांत यह है कि समुदाय प्रस्तुत करती है उत्पादन अपने सदस्यों की सेवा में| This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
 
 The Steem community provides the following services to its members:
 
