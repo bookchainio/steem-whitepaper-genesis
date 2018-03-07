@@ -32,7 +32,7 @@
 2. वयक्तिगत प्रश्नों का उच्च गुणवत्ता उत्तर पाने की एक जरिया|
 3. यू.एस. डॉलर से जुड़ा हुवा एक व्वयस्थित क्रिप्टोकोर्रेंसी|
 4. निःशुल्क भुगतान|
-5. Jobs providing above services to other members.
+5. जॉब्स उपलब्ध कर रही है ऊपर की सेवाएँ दूसरे सदस्यों को|
 
 Steem's purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
 
