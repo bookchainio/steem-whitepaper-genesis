@@ -12,11 +12,11 @@
 
 स्टीम एक ब्लॉकचैन डेटाबेस है जो समुदाय तैयार करने और सामाजिक अन्योन्यक्रिया में मदद करता है क्रिप्टोकोर्रेंसी इनामों के जरिए| क्रिप्टोकोर्रेंसी निर्माण और उनके समुदायों से पाठ सीखकर स्टीम सिद्धांत जोड़ता है सामाजिक साधन द्वारा| किसी भी समुदाय में भाग लेने के लिए एक महत्वपूर्ण प्रेरक कुंजी, मुद्रा या निशुल्क बाजार यर्थव्यव्स्था एक साफ सुथरी लेखा प्रणाली है जो लगातार दीखता है प्रत्येक लोगों के सहयोग में| स्टीम पहला क्रिप्टोकोर्रेंसी है जो कोशिश करती है बिसुद्ध और पारदर्शी इनाम देने का एक अपार संख्या में व्यक्तियों को जो बनाते हैं *व्यक्तिपरक लेख* अपनी समुदाय के लिए|
 
-# Table of Contents
+# विषय-सूची
 
 <!-- toc -->
 
-# Introduction
+# विषय प्रवेश
 
 Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
 
