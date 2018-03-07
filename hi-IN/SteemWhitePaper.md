@@ -22,7 +22,7 @@
 
 कुछ मुख्य सिद्धांत हैं जिसका उपयोग किया जा चूका है स्टीम परिकल्पना में सलाह के तौर पर| मुख्य सिद्धांत यह है कि हर कोई जो योगदान करते हैं व्यापार में उन्हें व्यापार से यथानुपात स्वामित्व, भुगतान या उधार प्राप्त करना चाहिए| यह सिद्धांत उसी प्रकार से है जो लागू होता है सभी उद्घाटनों में जब वे नींव रखने के समय और उत्तरगामी निधिकरण चक्रों के दौरान शेयर आवंटित करते हैं|
 
-दुसरा सिद्धांत है कि सभी पूंजी के प्रकार सामान रूप से मूल्यवान होते हैं| इसका मतलब यह हुवा की वो सब जो अपना दुर्लभ समय और ध्यान देते हैं दूसरों की उत्पति और विषय वस्तु पादरी के प्रति उतना ही मूल्यवान होते हैं जो सब अपना दुर्लभ पैसा लगाते हैं| This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+दुसरा सिद्धांत है कि सभी पूंजी के प्रकार सामान रूप से मूल्यवान होते हैं| इसका मतलब यह हुवा की वो सब जो अपना दुर्लभ समय और ध्यान देते हैं दूसरों की उत्पति और विषय वस्तु पादरी के प्रति उतना ही मूल्यवान होते हैं जो सब अपना दुर्लभ पैसा लगाते हैं| यह परिश्रम शेयर सिद्धांत है<sup id="fnref:2"><a href="#fn:2" class="footnote-ref">२</a></sup> और एक धारना कि पहले की क्रिप्टोकोर्रेंसीयों को हमेशा मुश्किल होता था एक दर्जन से अधीक वयक्तियों को उपलब्ध करने में|
 
 The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
 
