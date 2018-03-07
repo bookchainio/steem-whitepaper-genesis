@@ -4,7 +4,7 @@
 
 मार्च २०१६
 
-# Translator's notes
+# अनुवादक की टिप्पणीयाँ
 
 Placeholder for translator's notes.
 
