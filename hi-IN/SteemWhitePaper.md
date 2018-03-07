@@ -36,7 +36,7 @@
 
 स्टीम के आर्थिक प्रोत्साहनों का उद्देश्यपूर्ण पुनरावृत्ति में संचार संसाधन और क्रिप्टोकोर्रेंसी मंचों से जुड़े सभी लोगों के लिए बेहतर और अधिक समावेशी परिणाम उत्पन्न करने की क्षमता है जो कि इससे पहले चले गए हैं। यह पेपर जाँच करेगा मौजूदा आर्थिक प्रोत्साहनों और प्रस्तुत करेगा कैसे स्टीम का प्रोत्साहनें बेहतर परिणाम हो सकते हैं अधिकांश प्रतिभागियों के लिए|
 
-## Recognizing Contribution
+## योगदान की पहचान करें
 
 Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
