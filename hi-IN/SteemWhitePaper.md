@@ -10,7 +10,7 @@
 
 # संक्षेप
 
-स्टीम एक ब्लॉकचैन डेटाबेस है जो समुदाय तैयार करने और सामाजिक अन्योन्यक्रिया में मदद करता है क्रिप्टोकोर्रेंसी इनामों के जरिए| Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+स्टीम एक ब्लॉकचैन डेटाबेस है जो समुदाय तैयार करने और सामाजिक अन्योन्यक्रिया में मदद करता है क्रिप्टोकोर्रेंसी इनामों के जरिए| क्रिप्टोकोर्रेंसी निर्माण और उनके समुदायों से पाठ सीखकर स्टीम सिद्धांत जोड़ता है सामाजिक साधन द्वारा| An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
 
 # Table of Contents
 
