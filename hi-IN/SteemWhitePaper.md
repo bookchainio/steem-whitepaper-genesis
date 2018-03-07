@@ -34,7 +34,7 @@
 4. निःशुल्क भुगतान|
 5. जॉब्स उपलब्ध कर रही है ऊपर की सेवाएँ दूसरे सदस्यों को|
 
-Steem's purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
+स्टीम के आर्थिक प्रोत्साहनों का उद्देश्यपूर्ण पुनरावृत्ति में संचार संसाधन और क्रिप्टोकोर्रेंसी मंचों से जुड़े सभी लोगों के लिए बेहतर और अधिक समावेशी परिणाम उत्पन्न करने की क्षमता है जो कि इससे पहले चले गए हैं। यह पेपर जाँच करेगा मौजूदा आर्थिक प्रोत्साहनों और प्रस्तुत करेगा कैसे स्टीम का प्रोत्साहनें बेहतर परिणाम हो सकते हैं अधिकांश प्रतिभागियों के लिए|
 
 ## Recognizing Contribution
 
