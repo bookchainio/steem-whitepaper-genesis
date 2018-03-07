@@ -1,8 +1,8 @@
 # स्टीम
 
-## An incentivized, blockchain-based social media platform.
+## एक प्रोत्साहन करने वाली, ब्लॉकचैन-आधारित सामाजिक साधन मंच|
 
-March 2016
+मार्च २०१६
 
 # Translator's notes
 
