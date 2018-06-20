@@ -10,7 +10,7 @@
 
 # 摘要
 
-Steem是一个通过加密货币奖励来支持社区建设和社交互动的区块链数据库。 Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Steem是一个通过加密货币奖励来支持社区建设和社交互动的区块链数据库。 Steem将社交媒体中的概念和发行加密货币及创建其社区过程中所吸取的经验相结合。 An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
 
 # Table of Contents
 
