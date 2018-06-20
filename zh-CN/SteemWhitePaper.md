@@ -20,9 +20,9 @@ Steem是一个通过加密货币奖励来支持社区建设和社交互动的区
 
 总体而言，由用户生成的内容已经为像Reddit、Facebook和Twitter这样的社交媒体公司的股东们创造了价值数十亿美元的财富。 **在2014年，Reddit曾经做出假设：如果对每一个在reddit.com发表文章、评论和点赞的人公平的奖励Reddit公司的股份，那么其平台将会得到改进。[^1]**。 Steem旨在通过对提供优质贡献的人提供回报的方式来支持社交媒体和在线社区，同时通过这个过程产生一个可以流通在更广阔市场的货币，包括那些尚未接触过加密货币经济的人。
 
-在设计Steem的过程中，有一些关键的原则。 最重要的一个原则就是：对每一个对某项事业做出贡献的个人都应该收到该事业相应比例的所有权，报酬，或债券。 This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
+在设计Steem的过程中，有一些关键的原则。 最重要的一个原则就是：对每一个对某项事业做出贡献的个人都应该收到该事业相应比例的所有权，报酬，或债券。 这个原则同样适用于所有初创公司，就像这些公司在创建及后期融资阶段会分配股份一样。
 
-The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+第二个原则就是所有形式的资产都同样有价值。 这意味着那些贡献了宝贵的时间和精力来生产并策划内容的人，和那些贡献了宝贵金钱的人同样有价值。 This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
 
 The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
 
