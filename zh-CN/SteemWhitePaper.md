@@ -10,15 +10,15 @@
 
 # 摘要
 
-Steem是一个通过加密货币奖励来支持社区建设和社交互动的区块链数据库。 Steem将社交媒体中的概念和发行加密货币及创建其社区过程中所吸取的经验相结合。 能够激励人们参与任何社区、货币及和自由市场经济的一个关键因素就是一个始终如一的反映每个人贡献的公平记账系统。 Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Steem是一个通过加密货币奖励来支持社区建设和社交互动的区块链数据库。 Steem将社交媒体中的概念和发行加密货币及创建其社区过程中所吸取的经验相结合。 能够激励人们参与任何社区、货币及和自由市场经济的一个关键因素就是一个始终如一的反映每个人贡献的公平记账系统。 Steem是第一个尝试精确、透明的对无数对社区做出*主观贡献*的个人提供奖励的加密货币。
 
-# Table of Contents
+# 目录
 
 <!-- toc -->
 
-# Introduction
+# 简介
 
-Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
+总体而言，由用户生成的内容已经为像Reddit、Facebook和Twitter这样的社交媒体公司的股东们创造了价值数十亿美元的财富。 **在2014年，Reddit曾经做出假设：如果对每一个在reddit.com发表文章、评论和点赞的人公平的奖励Reddit公司的股份，那么其平台将会得到改进。[^1]**。 Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
 
 There are some key principles that have been used to guide the design of Steem. The most important principle is that everyone who contributes to a venture should receive pro-rata ownership, payment or debt from the venture. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
 
