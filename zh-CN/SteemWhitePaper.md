@@ -22,9 +22,9 @@ Steem是一个通过加密货币奖励来支持社区建设和社交互动的区
 
 在设计Steem的过程中，有一些关键的原则。 最重要的一个原则就是：对每一个对某项事业做出贡献的个人都应该收到该事业相应比例的所有权，报酬，或债券。 这个原则同样适用于所有初创公司，就像这些公司在创建及后期融资阶段会分配股份一样。
 
-第二个原则就是所有形式的资产都同样有价值。 这意味着那些贡献了宝贵的时间和精力来生产并策划内容的人，和那些贡献了宝贵金钱的人同样有价值。 This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+第二个原则就是所有形式的资产都同样有价值。 这意味着那些贡献了宝贵的时间和精力来生产并策划内容的人，和那些贡献了宝贵金钱的人同样有价值。 这就是汗水公平原则[^2]，也是之前的加密货币就有的概念，但对于超过几十个个体使用时经常会出现问题。
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+第三个原则就是社区生产的产品服务于社区成员。 This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
 
 The Steem community provides the following services to its members:
 
