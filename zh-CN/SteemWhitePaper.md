@@ -50,7 +50,7 @@ Steem是基于一个相对简单的概念来设计的：*每个人向社区提�
 
 挑战在于建立一个能够识别什么是需要的贡献以及它们相对价值的系统，同时系统可以拓展以适用于无限多的人。
 
-A proven system for evaluating and rewarding contributions is the free market. The free market can be viewed as a single community where everyone trades with one another and rewards are allocated by profit and loss. The market system rewards those who provide value to others and punishes those who consume more value than they produce. The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
+对贡献进行评估和奖励的一个有效系统是自由市场。 自由市场可以被看作是一个单一社区，每个人彼此进行交易，通过收益和损失来分配奖励。 市场体系奖励那些为别人创造价值的人，并惩罚那些消耗超过他们所创造价值的人。 The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
 
 Since the free market is a proven system, it is tempting to try to create a free-market system where content consumers directly pay content producers. However, direct payment is inefficient and not really viable for content creation and curation. The value of most content is so low relative to the cognitive, financial, and opportunity costs associated with making a payment that few readers choose to tip. The abundance of free alternatives means that enforcing a 'paywall' will drive readers elsewhere. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
 
