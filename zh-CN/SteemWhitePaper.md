@@ -28,10 +28,10 @@ Steem是一个通过加密货币奖励来支持社区建设和社交互动的区
 
 Steem社区向其成员提供以下服务：
 
-1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
+1. 一个经策划的新闻和评论的来源。
+2. 一个能为个性化问题得到高质量答案的方法。
+3. 一个和美元挂钩的稳定加密货币。
+4. 免费报酬。
 5. Jobs providing above services to other members.
 
 Steem's purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
