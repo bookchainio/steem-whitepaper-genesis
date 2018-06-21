@@ -24,15 +24,15 @@ Ci sono dei principi chiave che sono stati usati per guidare la creazione di Ste
 
 Il secondo principio è che ogni forma di capitale ha lo stesso valore. Questo vuol dire che coloro che contribuiscono con il loro tempo limitato e con la loro negligenza nella produzione e nella cura di contenuti per gli altri, hanno lo stesso valore di quelli che contribuiscono con il loro poco denaro. Questo è il principio primario di equità[^2] ed è un concetto che le prime criptovalute avevano problemi a fornire a più di dodici persone.
 
-Il terzo principio è che la comunità produce prodotti per servire i propri membri. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+Il terzo principio è che la comunità produce prodotti per servire i propri membri. Questo principio ha esempio nelle cooperative di credito, cooperazioni alimentari e piani per la salute, che servono membri della loro comunità invece di vendere prodotti o servizi a persone al di furi della comunità.
 
-The Steem community provides the following services to its members:
+La comunità Steem garantisce i seguenti servizi ai propri membri:
 
-1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
-5. Jobs providing above services to other members.
+1. Una fonte di documentari e novità curate.
+2. Un metodo per ricevere risposte di alta qualità a domande personalizzate.
+3. Una criptovaluta stabile legata al dollaro americano.
+4. Pagamenti gratuiti.
+5. Lavori che garantiscono i servizi menzionati al di sopra ad altri membri.
 
 Steem's purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
 
