@@ -10,7 +10,7 @@
 
 # 摘要
 
-Steem是一个通过加密货币奖励来支持社区建设和社交互动的区块链数据库。 Steem将社交媒体中的概念和发行加密货币及创建其社区过程中所吸取的经验相结合。 能够激励人们参与任何社区、货币及和自由市场经济的一个关键因素就是一个始终如一的反映每个人贡献的公平记账系统。 Steem是第一个尝试精确、透明的对无数对社区做出*主观贡献*的个人提供奖励的加密货币。
+Steem是一个通过加密货币奖励来支持社区建设和社交互动的区块链数据库。 Steem将社交媒体中的概念和发行加密货币及创建其社区过程中所吸取的经验相结合。 激励人们参与任何社区、货币及和自由市场经济的关键一环就是一个始终如一的反映每个人贡献的公平记账系统。 Steem是第一个尝试精确、透明的对无数对社区做出*积极贡献*的个人提供奖励的加密货币。
 
 # 目录
 
@@ -52,7 +52,7 @@ Steem是基于一个相对简单的概念来设计的：*每个人向社区提�
 
 对贡献进行评估和奖励的一个有效系统是自由市场。 自由市场可以被看作是一个单一社区，每个人彼此进行交易，通过收益和损失来分配奖励。 市场体系奖励那些为别人创造价值的人，并惩罚那些消耗超过他们所创造价值的人。 自由市场支持多种不同货币，货币只是一种每个人都容易交换的商品。
 
-由于自由市场是一种行之有效的体系，这就吸引人们创造一个自由市场体系，其中的内容消费者直接向内容生产者付费。 然而，对于内容的创造和推广，直接支付是低效，也是不可行的。 相对于进行付款伴随的认知、财富和机会成本，内容的价值极低，很少有读者选择付费。 The abundance of free alternatives means that enforcing a 'paywall' will drive readers elsewhere. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
+由于自由市场是一种行之有效的体系，这就吸引人们创造一个自由市场体系，其中的内容消费者直接向内容生产者付费。 然而，对于内容的创造和推广，直接支付是低效，也是不可行的。 相对于进行付款伴随的认知、财富和机会成本，内容的价值极低，很少有读者选择付费。 大量的免费替代品意味着强制收费会把读者赶往其他地方。 曾经有过一些实行由读者向作者按文章小额付款的尝试，但都没有得到普及。
 
 Steem is designed to enable effective micropayments for all kinds of contribution by changing the economic equation. Readers no longer have to decide whether or not they want to pay someone from their own pocket, instead they can vote content up or down and Steem will use their votes to determine individual rewards. This means that people are given a familiar and widely used interface and no longer face the cognitive, nancial, and opportunity costs associated traditional micropayment and tipping platforms.
 
