@@ -42,9 +42,9 @@ Steem是一个为解决社交媒体经济的应用和货币化而设计的方案
 
 Steem所面临的挑战就是要设计一个对每一个单独贡献进行评分的算法，该算法要被绝大多数社区成员认可为能够对每个贡献的主观价值进行公平评估。 在一个理想世界中，社区成员将会互相合作，对其他成员的贡献进行评分，并获取公平的报酬。 在现实世界中，算法必须被设计为能够抵抗有目的的基于利益的操纵。 任何对评分系统的广泛滥用都会导致社区成员对经济体系的公平性失去信心。
 
-现有的平台以单一用户，单一投票的原则来运作。 This creates an environment where rankings can be manipulated by sybil attacks and the service providers must pro-actively identify and block abusers. People already attempt to manipulate the Reddit, Facebook, and Twitter scoring algorithms when the only reward is web traffic or censorship.
+现有的平台以单一用户，单一投票的原则来运作。 这就创造了一个排名可以通过女巫攻击操纵的环境，服务供应商必须积极的识别和阻止舞弊者。 尽管仅有的回报是网络流量或网络审查，人们已经试图操纵Reddit、Facebook和Twitter的评分算法。
 
-The fundamental unit of account on the Steem platform is STEEM, a crypto currency token. Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Furthermore, Steem only allows members to vote with STEEM when it is committed to a multi-year vesting schedule. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Steem平台上帐户的基本单位是STEEM，一种加密货币代币。 Steem的运行基础是一STEEM一票。 Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Furthermore, Steem only allows members to vote with STEEM when it is committed to a multi-year vesting schedule. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
 
 Steem is designed around a relatively simple concept: *everyone's meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
 
