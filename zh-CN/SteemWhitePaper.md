@@ -46,9 +46,9 @@ Steem所面临的挑战就是要设计一个对每一个单独贡献进行评分
 
 Steem平台上帐户的基本单位是STEEM，一种加密货币代币。 Steem的运行基础是一STEEM一票。 在这个模型下，根据帐户余额来计算，那些对平台贡献最大的个人对平台中的贡献如何评分有最大的影响。 此外，Steem只允许参与到多年行权计划的成员参与投票。 在这种模型下，成员会在财务上被激励以实现STEEM长期价值最大化的方式投票。
 
-Steem是基于一个相对简单的概念来设计的：*每个人向社区提供的有意义的贡献应该在它所增加的价值上得到认可。*只有人们做出的有意义贡献被认可时，他们才会继续贡献，同时社区得以成长。 Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
+Steem是基于一个相对简单的概念来设计的：*每个人向社区提供的有意义的贡献应该在它所增加的价值上得到认可。*只有人们做出的有意义贡献被认可时，他们才会继续贡献，同时社区得以成长。 社区内部的给予和索取的不平衡是不可持续的。 最终给予者会对支持索取者感到厌倦从而脱离社区。
 
-The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
+挑战在于建立一个能够识别什么是需要的贡献以及它们相对价值的系统，同时系统可以拓展以适用于无限多的人。
 
 A proven system for evaluating and rewarding contributions is the free market. The free market can be viewed as a single community where everyone trades with one another and rewards are allocated by profit and loss. The market system rewards those who provide value to others and punishes those who consume more value than they produce. The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
 
