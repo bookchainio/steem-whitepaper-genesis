@@ -40,7 +40,7 @@ Steem社区向其成员提供以下服务：
 
 Steem是一个为解决社交媒体经济的应用和货币化而设计的方案。 我们的观点是用于帮助主要社交媒体平台成长的技术同样可以用来创建一个加密货币。 基于加密货币的经济奖励机制可以极大的促进新的社交媒体平台的发展。 我们相信加密货币和社交媒体网络的协同效应将会让Steem在市场上抢占先机。
 
-The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
+Steem所面临的挑战就是要设计一个对每一个单独贡献进行评分的算法，该算法要被绝大多数社区成员认可为能够对每个贡献的主观价值进行公平评估。 In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
 
 Existing platforms operate on a one-user, one-vote principle. This creates an environment where rankings can be manipulated by sybil attacks and the service providers must pro-actively identify and block abusers. People already attempt to manipulate the Reddit, Facebook, and Twitter scoring algorithms when the only reward is web traffic or censorship.
 
