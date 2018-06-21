@@ -10,7 +10,7 @@ Placeholder for translator's notes.
 
 # Astratto
 
-Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Steem è un database blockchain che supporta la costruzione della comunità e l'interazione sociale con premi in criptovalute. Steem unisce concetti presi dai social media con lezioni imparate dalla costruzione delle criptovalute e delle loro comunità. Una chiave importante per inspirare la partecipazione in ogni comunità, valuta o un mercato libero è un modo giusto per la contabilità che riflette costantemente il lavoro di ognuno. Steem è la prima criptovaluta che cerca di premiare accuratamente e in modo trasparente un numero indeterminato di persone che danno *contribuzioni oggettive* alla sua comunità.
 
 # Table of Contents
 
