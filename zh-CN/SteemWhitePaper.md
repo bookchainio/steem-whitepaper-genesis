@@ -34,11 +34,11 @@ Steem社区向其成员提供以下服务：
 4. 免费报酬。
 5. 其他成员从事提供如上服务的工作。
 
-和之前的社交媒体及加密货币平台相比，Steem有目的通过经济上激励的方式具备了为每一个参与者提供了更加公平也更具包容性的结果的潜质。 This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
+和之前的社交媒体及加密货币平台相比，Steem有目的通过经济上奖励的方式具备了为每一个参与者提供了更加公平也更具包容性的结果的潜质。 本文将探讨现有的经济奖励方式，并展示Steem的奖励机制如何对大多数的参与者带来更好的结果。
 
-## Recognizing Contribution
+## 认可贡献
 
-Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+Steem是一个为解决社交媒体经济的应用和货币化而设计的方案。 我们的观点是用于帮助主要社交媒体平台成长的技术同样可以用来创建一个加密货币。 基于加密货币的经济奖励机制可以极大的促进新的社交媒体平台的发展。 我们相信加密货币和社交媒体网络的协同效应将会让Steem在市场上抢占先机。
 
 The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
 
