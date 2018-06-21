@@ -22,9 +22,9 @@ Unito, i contenuti generati dagli utenti hanno creato miliardi di dollari in val
 
 Ci sono dei principi chiave che sono stati usati per guidare la creazione di Steem. Il principio più importante è che ognuno che contribuisce ad una impresa deve ricevere una proprietà proporzionale, pagamento o debito dalla impresa. Questo principio è lo stesso che è usato da tutte le startups visto che allocano azioni nella fondazione e durante i seguenti finanziamenti.
 
-The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+Il secondo principio è che ogni forma di capitale ha lo stesso valore. Questo vuol dire che coloro che contribuiscono con il loro tempo limitato e con la loro negligenza nella produzione e nella cura di contenuti per gli altri, hanno lo stesso valore di quelli che contribuiscono con il loro poco denaro. Questo è il principio primario di equità[^2] ed è un concetto che le prime criptovalute avevano problemi a fornire a più di dodici persone.
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+Il terzo principio è che la comunità produce prodotti per servire i propri membri. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
 
 The Steem community provides the following services to its members:
 
