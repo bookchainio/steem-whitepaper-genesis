@@ -44,9 +44,9 @@ Steem所面临的挑战就是要设计一个对每一个单独贡献进行评分
 
 现有的平台以单一用户，单一投票的原则来运作。 这就创造了一个排名可以通过女巫攻击操纵的环境，服务供应商必须积极的识别和阻止舞弊者。 尽管仅有的回报是网络流量或网络审查，人们已经试图操纵Reddit、Facebook和Twitter的评分算法。
 
-Steem平台上帐户的基本单位是STEEM，一种加密货币代币。 Steem的运行基础是一STEEM一票。 在这个模型下，根据帐户余额来计算，那些对平台贡献最大的个人对平台中的贡献如何评分有最大的影响。 此外，Steem只允许参与到多年行权计划的成员参与投票。 Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+Steem平台上帐户的基本单位是STEEM，一种加密货币代币。 Steem的运行基础是一STEEM一票。 在这个模型下，根据帐户余额来计算，那些对平台贡献最大的个人对平台中的贡献如何评分有最大的影响。 此外，Steem只允许参与到多年行权计划的成员参与投票。 在这种模型下，成员会在财务上被激励以实现STEEM长期价值最大化的方式投票。
 
-Steem is designed around a relatively simple concept: *everyone's meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
+Steem是基于一个相对简单的概念来设计的：*每个人向社区提供的有意义的贡献应该在它所增加的价值上得到认可。*只有人们做出的有意义贡献被认可时，他们才会继续贡献，同时社区得以成长。 Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
 
 The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
 
