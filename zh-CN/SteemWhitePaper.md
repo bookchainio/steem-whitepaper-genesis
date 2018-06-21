@@ -26,7 +26,7 @@ Steem是一个通过加密货币奖励来支持社区建设和社交互动的区
 
 第三个原则就是社区生产的产品服务于社区成员。 这条原则的范例包括信用合作社、食品合作社和健康分享计划，它们服务社区成员，而不是将产品或服务卖给社区外的人员。
 
-The Steem community provides the following services to its members:
+Steem社区向其成员提供以下服务：
 
 1. A source of curated news and commentary.
 2. A means to get high quality answers to personalized questions.
