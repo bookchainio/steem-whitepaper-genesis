@@ -28,19 +28,19 @@ Il terzo principio è che la comunità produce prodotti per servire i propri mem
 
 La comunità Steem garantisce i seguenti servizi ai propri membri:
 
-1. Una fonte di documentari e novità curate.
+1. Una fonte di informazioni e articoli accurati.
 2. Un metodo per ricevere risposte di alta qualità a domande personalizzate.
 3. Una criptovaluta stabile legata al dollaro americano.
 4. Pagamenti gratuiti.
-5. Lavori che garantiscono i servizi menzionati al di sopra ad altri membri.
+5. Lavori che garantiscono i servizi menzionati qui sopra, ad altri membri.
 
 Il riallineamento intenzionale degli incentivi economici di Steem ha il potenziale di produrre risultati più giusti ed inclusivi per tutti coloro che vi sono coinvolti, a differenza delle piattaforme social media antecedenti. Questo documento esplorerà gli incentivi economici esistenti e dimostrerà come le iniziative di Steem potrebbero risultare in risultati migliore per la maggior parte dei partecipanti.
 
 ## Riconoscere la contribuzione
 
-Steem è stato creato da zero per affrontare le barriere più grandi per l'adozione e la monetizzazione di un social media basato sull'economia. La nostra tesi è che la stesse tecniche usate per far crescere i social media possono essere usate per avviare una criptovaluta di successo. Gli incentivi economici resi disponibili grazie alle criptovalute possono facilitare in modo decisivo la crescita di una nuova piattaforma di social media. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+Steem è stato creato da zero per superare le barriere più grandi per l'adozione ed economia basata sulla monetizzazione di un social media. La nostra tesi è che la stesse tecniche usate per far crescere i social media possono essere usate per avviare una criptovaluta di successo. Gli incentivi economici resi disponibili grazie alle criptovalute possono facilitare in modo decisivo la crescita di una nuova piattaforma di social media. È la sinergia tra la criptovaluta e i social media che fa credere che Steem possa avere un vantaggio notevole nel mercato.
 
-The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
+La sfida affrontata da Steem sta scaturendo un algoritmo per il calcolo dei contributi individuali in quanto la maggior parte dei membri delle comunità si pensa debbano avere una corretta valutazione in base al valore soggettivo di ogni contributo. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
 
 Existing platforms operate on a one-user, one-vote principle. This creates an environment where rankings can be manipulated by sybil attacks and the service providers must pro-actively identify and block abusers. People already attempt to manipulate the Reddit, Facebook, and Twitter scoring algorithms when the only reward is web traffic or censorship.
 
