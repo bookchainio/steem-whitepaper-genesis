@@ -22,9 +22,9 @@ Nel complesso, i contenuti generati dagli utenti hanno creato miliardi di dollar
 
 Ci sono dei principi chiave che sono stati usati per guidare la creazione di Steem. Il principio più importante è che ognuno che contribuisce ad una impresa deve ricevere una proprietà proporzionale, pagamento o debito dalla impresa. Questo principio è lo stesso che è usato da tutte le startups visto che allocano azioni nella fondazione e durante i seguenti finanziamenti.
 
-Il secondo principio è che ogni forma di capitale ha lo stesso valore. Questo vuol dire che coloro che contribuiscono con il loro tempo limitato e con la loro negligenza nella produzione e nella cura di contenuti per gli altri, hanno lo stesso valore di quelli che contribuiscono con il loro poco denaro. Questo è il principio primario di equità[^2] ed è un concetto che le prime criptovalute avevano problemi a fornire a più di dodici persone.
+Il secondo principio è che ogni forma di capitale ha lo stesso valore. Questo vuol dire che coloro che contribuiscono con il loro tempo limitato e con la loro negligenza nella produzione e nella cura di contenuti per gli altri, hanno lo stesso valore di quelli che contribuiscono con il loro poco denaro. Questo è il principio primario di equità[^2] ed è un concetto che le prime criptovalute avevano problemi a fornire a più di qualche decina d'individui
 
-Il terzo principio è che la comunità produce prodotti per servire i propri membri. Questo principio ha esempio nelle cooperative di credito, cooperazioni alimentari e piani per la salute, che servono membri della loro comunità invece di vendere prodotti o servizi a persone al di furi della comunità.
+Il terzo principio è che la comunità produce prodotti per servire i propri membri. Questo principio è esemplificato al meglio dalle cooperative di credito, dalle cooperative di cibo e dai piani di condivisione della salute, che si occupano dei membri delle loro comunità anziché vendere beni o servizi a persone al di fuori della comunità stessa.
 
 La comunità Steem garantisce i seguenti servizi ai propri membri:
 
@@ -38,7 +38,7 @@ Il riallineamento intenzionale degli incentivi economici di Steem ha il potenzia
 
 ## Riconoscere la contribuzione
 
-Steem è stato creato da zero per affrontare le barriere più grandi per l'adozione e la monetizzazione di un social media basato sull'economia. La nostra tesi è che la stesse tecniche usate per far crescere i social media possono essere usate per avviare una criptovaluta di successo. Incentivi economici resi possibili dalla criptovaluta possono facilitare drasticamente la crescita di un nuovo social media. È la sinergia tra le criptovalute ed i social media che crediamo posso dare a Steem un forte vantaggio sul mercato.
+Steem è stato creato da zero per affrontare le barriere più grandi per l'adozione e la monetizzazione di un social media basato sull'economia. La nostra tesi è che la stesse tecniche usate per far crescere i social media possono essere usate per avviare una criptovaluta di successo. Gli incentivi economici resi disponibili grazie alle criptovalute possono facilitare in modo decisivo la crescita di una nuova piattaforma di social media. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
 The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
 
