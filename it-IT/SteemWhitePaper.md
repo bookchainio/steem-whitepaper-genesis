@@ -34,7 +34,7 @@ La comunità Steem garantisce i seguenti servizi ai propri membri:
 4. Pagamenti senza commissioni.
 5. Lavori che garantiscono i servizi menzionati qui sopra, ad altri membri.
 
-Il riallineamento intenzionale degli incentivi economici di Steem ha il potenziale di produrre risultati più giusti ed inclusivi per tutti coloro che vi sono coinvolti, a differenza delle piattaforme social media antecedenti. Questo documento analizzerà gli esistenti incentivi economici e dimostrerà come gli incentivi di Steem si potrebbero riflettere in migliori risultati per la maggior parte dei partecipanti.
+Il riallineamento intenzionale degli incentivi economici di Steem ha il potenziale di produrre risultati più equi e più completi per chiunque vi è coinvolto, a differenza delle piattaforme di social media e di criptovalute che si sono formate prima di questa. Questo documento analizzerà gli esistenti incentivi economici e dimostrerà come gli incentivi di Steem si possono riflettere in migliori risultati per la maggior parte dei membri.
 
 ## Riconoscere la contribuzione
 
