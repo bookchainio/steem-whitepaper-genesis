@@ -20,9 +20,9 @@ Steem è un database blockchain che supporta la costruzione della comunità e l'
 
 Nel complesso, i contenuti generati dagli utenti, hanno creato un valore di miliardi di dollari per gli azionisti delle società dei social media, come per esempio Reddit, Facebook e Twitter. **Nel 2014 Reddit ha ipotizzato che la sua piattaforma si sarebbe migliorata se tutti quelli che contribuivano a reddit.com attraverso la pubblicazione di racconti, aggiungendo commenti e votando, sarebbero stati ricompensati con una quota equa di Reddit, Inc.[^1]**. Steem punta a sostenere i social media e le comunità online ridistribuendo molto del suo valore alle persone che apportano preziosi contributi, ricompensandoli con le criptovalute e, attraverso questo processo, creando una valuta in grado di raggiungere un ampio mercato, includendo anche le persone che devono ancora approcciarsi a qualsiasi economia basata sulle criptovalute.
 
-Ci sono dei principi chiave che sono stati usati per guidare la creazione di Steem. Il principio più importante è quello che ogni persona che contribuisce ad una impresa, dovrebbe ricevere proprietà pro-quota, pagamenti o anche sostenere i debiti dall'impresa stessa. Questo principio è esattamente quello che viene applicato alle startup in quanto, queste, conferiscono fondi al momento della loro istituzione e durante i seguenti finanziamenti.
+Ci sono dei principi chiave che sono stati usati per guidare la creazione di Steem. Il principio più importante è quello che ogni persona che contribuisce ad una impresa, dovrebbe ricevere proprietà pro-quota, pagamenti o anche sostenere i debiti dall'impresa stessa. Questo principio è esattamente quello che viene applicato alle startup in quanto, queste, conferiscono fondi al momento della loro istituzione e durante i successivi finanziamenti.
 
-Il secondo principio è che ogni forma di capitale ha lo stesso valore. Questo vuol dire che coloro che contribuiscono con il loro tempo limitato e con la loro premura nella produzione e nella cura di contenuti per gli altri, hanno la stessa importanza di quelli che contribuiscono con il loro poco denaro. Questo è il principio primario di equità[^2] ed è un concetto che le prime criptovalute avevano problemi a fornire a più di qualche decina d'individui
+Il secondo principio è che ogni forma di capitale ha lo stesso valore. Questo vuol dire che coloro che contribuiscono con il loro tempo limitato e con la loro premura nella produzione e nella cura di contenuti per gli altri, hanno la stessa importanza di quelli che contribuiscono con poche risorse monetarie. Questo è il principio primario di equità[^2] ed è un concetto che le prime criptovalute avevano problemi a fornire a più di qualche decina d'individui
 
 Il terzo principio è che la comunità produce prodotti per servire i propri membri. Questo principio è esemplificato al meglio dalle cooperative di credito, dalle cooperative alimentari e dai piani di condivisione della salute, che si occupano dei membri delle loro comunità anziché vendere beni o servizi a persone al di fuori della comunità stessa.
 
@@ -31,7 +31,7 @@ La comunità Steem garantisce i seguenti servizi ai propri membri:
 1. Una fonte di informazioni e articoli accurati.
 2. Un metodo per ricevere risposte di alta qualità a domande personalizzate.
 3. Una criptovaluta stabile legata al dollaro americano.
-4. Pagamenti gratuiti.
+4. Pagamenti senza commissioni.
 5. Lavori che garantiscono i servizi menzionati qui sopra, ad altri membri.
 
 Il riallineamento intenzionale degli incentivi economici di Steem ha il potenziale di produrre risultati più giusti ed inclusivi per tutti coloro che vi sono coinvolti, a differenza delle piattaforme social media antecedenti. Questo documento analizzerà gli esistenti incentivi economici e dimostrerà come gli incentivi di Steem si potrebbero riflettere in migliori risultati per la maggior parte dei partecipanti.
