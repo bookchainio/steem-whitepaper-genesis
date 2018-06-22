@@ -1,6 +1,6 @@
 # Steem
 
-## Una piattaforma di social media, basata su blockchain con incentivi.
+## Una piattaforma incentivata dai contenuti pubblici basata sulla blockchain.
 
 Marzo 2016
 
@@ -10,7 +10,7 @@ Spazio per gli appunti del traduttore.
 
 # Estratto
 
-Steem è un database blockchain che supporta la costruzione della comunità e l'interazione sociale con premi in criptovalute. Steem associa i concetti dei social media con gli insegnamenti derivanti dalla creazione delle criptovalute e delle loro comunità. Una delle chiavi importanti in qualsiasi comunità, con una economia di libero mercato o monetaria, volta a suscitare la partecipazione, viene rappresentata da un equo sistema di contabilità che rifletta il contributo di ogni singola persona. Steem è la prima criptovaluta che cerca di premiare accuratamente e in modo trasparente un numero indeterminato di persone che danno *contribuzioni personali* alla sua comunità.
+Steem è un database blockchain che supporta la costruzione della comunità e l'interazione sociale con premi in criptovalute. Steem associa i concetti dei social media con gli insegnamenti derivanti dalla creazione delle criptovalute e delle loro comunità. Una delle chiavi importanti in qualsiasi comunità, con una economia di libero mercato o monetaria, volta a suscitare la partecipazione, viene rappresentata da un equo sistema di contabilità che rifletta il contributo di ogni singola persona. Steem è la prima criptovaluta che cerca di premiare accuratamente e in modo trasparente un numero indeterminato di persone che danno *contributi personali* alla sua comunità.
 
 # Sommario
 
@@ -18,7 +18,7 @@ Steem è un database blockchain che supporta la costruzione della comunità e l'
 
 # Introduzione
 
-Nel complesso, i contenuti generati dagli utenti hanno creato miliardi di dollari in valore per gli azionisti delle compagnie di social media, come Reddit, Facebook e Twitter. **Nel 2014, Reddit ipotizzò che la sua piattaforma sarebbe stata migliorata se ognuno che contribuisce a reddit.com postando storie, commentando o votando venisse ricompensato con una porzione di Reddit, Inc[^1]**. Steem punta a sostenere i social media e le comunità online ridistribuendo molto del suo valore alle persone che apportano preziosi contributi, ricompensandoli con le criptovalute e, attraverso questo processo, creando una valuta in grado di raggiungere un ampio mercato, includendo anche le persone che devono ancora approcciarsi a qualsiasi economia basata sulle criptovalute.
+Nel complesso, i contenuti generati dagli utenti, hanno creato un valore di miliardi di dollari per gli azionisti delle società dei social media, come per esempio Reddit, Facebook e Twitter. **Nel 2014 Reddit ha ipotizzato che la sua piattaforma si sarebbe migliorata se tutti quelli che contribuivano a reddit.com attraverso la pubblicazione di racconti, aggiungendo commenti e votando, sarebbero stati ricompensati con una quota equa di Reddit, Inc.[^1]**. Steem punta a sostenere i social media e le comunità online ridistribuendo molto del suo valore alle persone che apportano preziosi contributi, ricompensandoli con le criptovalute e, attraverso questo processo, creando una valuta in grado di raggiungere un ampio mercato, includendo anche le persone che devono ancora approcciarsi a qualsiasi economia basata sulle criptovalute.
 
 Ci sono dei principi chiave che sono stati usati per guidare la creazione di Steem. Il principio più importante è che ognuno che contribuisce ad una impresa deve ricevere una proprietà proporzionale, pagamento o debito dalla impresa. Questo principio è lo stesso che è usato da tutte le startups visto che allocano azioni nella fondazione e durante i seguenti finanziamenti.
 
