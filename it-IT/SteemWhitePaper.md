@@ -56,9 +56,9 @@ Dato che il mercato libero è un sistema collaudato, garba l'idea di creare un s
 
 Steem è progettato per abilitare micropagamenti per tutti i tipi di contribuzioni cambiando l'equazione economica. I lettori non devono più decidere se desiderano o meno pagare qualcuno dalle loro tasche, invece possono votare i contenuti in modo positivo o negativo e Steem userà i loro voti per determinare i premi individuali. Questo vuol dire che le persone ricevono un'interfaccia famigliare e molto utilizzata e non si imbatteranno più in costi normalmente associati a tradizionali piattaforme di mance in forma di micropagamenti.
 
-L'invio di voto dalla comunità è molto importante per Steem per distribuire giustamente i pagamenti ai contributori. Votare può dunque essere visto come una contribuzione cruciale e degno di ricevere premi. Alcune piattaforme, come Slashdot, usano la meta-moderazione [^3] come modo per classificare e premiare i moderatori onesti. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+L'invio di voto dalla comunità è molto importante per Steem per distribuire giustamente i pagamenti ai contributori. Votare può dunque essere visto come una contribuzione cruciale e degno di ricevere premi. Alcune piattaforme, come Slashdot, usano la meta-moderazione [^3] come modo per classificare e premiare i moderatori onesti. Steem sceglie di premiare quelli che contribuiscono di più sulla promozione totale di un pezzo di contenuto e premia i votanti proporzionalmente sull'ultimo premio pagato al creatore del contenuto.
 
-There are other forms of contribution that Steem recognizes and rewards using objective metrics. Among these are: transaction validation, proof of work mining, liquidity rewards, and reporting of misbehaving block producers.
+Ci sono altri modi di contribuire he Steem riconosce e premia usando metriche di obbiettivi. Di queste si possono citare: validazione di transazione, prova di lavoro di mining, premi di liquidità e riportare mal comportanti produttori.
 
 # Ways to Contribute
 
