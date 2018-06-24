@@ -56,7 +56,7 @@ Steem是基于一个相对简单的概念来设计的：*每个人向社区提�
 
 Steem的设计目的是通过改变经济方程式来实现对所有类型的贡献进行微额付款。 读者不再需要决定他们是否想要从自己口袋中向他人付款，而是对内容点赞或踩，Steem会根据他们的投票来决定每一个奖励。 这意味着人们面对一个熟悉并被广泛使用的界面，并且无需面对在传统微支付和小费平台相关的认知、财务和机会成本等问题。
 
-来自社区成员的投票对于Steem精确分配贡献者的奖励是至关重要的。 因此投票本身也是一个非常重要的贡献并且值得被奖励。 Some platforms, such as Slashdot, use meta-moderation [^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+来自社区成员的投票对于Steem精确分配贡献者的奖励是至关重要的。 因此投票本身也是一个非常重要的贡献并且值得被奖励。 一些平台，例如Slashdot，使用meta-moderation [^3]作为排名和奖励诚实评判者的一种方法。 Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
 
 There are other forms of contribution that Steem recognizes and rewards using objective metrics. Among these are: transaction validation, proof of work mining, liquidity rewards, and reporting of misbehaving block producers.
 
