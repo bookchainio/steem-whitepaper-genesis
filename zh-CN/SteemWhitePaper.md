@@ -62,11 +62,11 @@ Steem的设计目的是通过改变经济方程式来实现对所有类型的贡
 
 # 贡献方式
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+本节概述了Steem背后的概念以及对那些向Steem社区提供有意义的并可衡量的贡献的人进行的奖励。
 
-## Capital Contributions
+## 资本投入
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+社区可以提供两种方式来吸引资本：债务和所有权。 那些购买所有权的人会在社区成长时获利，但在社区收缩时受损。 那些购买债务的人会有保障的得到一定的利息但不会因社区发展而获利。 这两种类型的资本贡献对社区的成长和货币的价值都是宝贵的。 Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SMD).
 
