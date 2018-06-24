@@ -66,13 +66,13 @@ Steem的设计目的是通过改变经济方程式来实现对所有类型的贡
 
 ## 资本投入
 
-社区可以提供两种方式来吸引资本：债务和所有权。 那些购买所有权的人会在社区成长时获利，但在社区收缩时受损。 那些购买债务的人会有保障的得到一定的利息但不会因社区发展而获利。 这两种类型的资本贡献对社区的成长和货币的价值都是宝贵的。 Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+社区可以提供两种方式来吸引资本：债务和所有权。 那些购买所有权的人会在社区成长时获利，但在社区收缩时受损。 那些购买债务的人会有保障的得到一定的利息但不会因社区发展而获利。 这两种类型的资本贡献对社区的成长和货币的价值都是宝贵的。 此外，持有所有权有两种方式：变现和行权。 行权所有权是一个长期的承诺，不能在短期内出售。
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SMD).
+Steem网络将这些不同的资产类别叫做Steem (STEEM)、Steem Power (SP) 和Steem Dollars (SMD)。
 
 ## Steem (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. Generally speaking STEEM should be held for short periods of time when liquidity is needed. Someone looking to enter or exit the Steem platform will have to buy or sell STEEM. Once STEEM has been purchased it should be converted into SP or SMD to mitigate the impact of dilution over the long-term.
+Steem是Steem区块链上账户的基础单位。 所有其他代币都是从STEEM的价值派生出来。 Generally speaking STEEM should be held for short periods of time when liquidity is needed. Someone looking to enter or exit the Steem platform will have to buy or sell STEEM. Once STEEM has been purchased it should be converted into SP or SMD to mitigate the impact of dilution over the long-term.
 
 STEEM is constantly increasing in supply by 100% per year due to non-SMD incentives. Someone who holds STEEM without converting it to SP is diluted by approximately 0.19% per day. While the rate may appear high, for transactions that take less than 10 days, it is still cheaper than credit card processing fees. Furthermore, the daily token creation is insignificant next to the daily volatility.
 
