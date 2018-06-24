@@ -58,9 +58,9 @@ Steem的设计目的是通过改变经济方程式来实现对所有类型的贡
 
 来自社区成员的投票对于Steem精确分配贡献者的奖励是至关重要的。 因此投票本身也是一个非常重要的贡献并且值得被奖励。 一些平台，例如Slashdot，使用meta-moderation [^3]作为排名和奖励诚实评判者的一种方法。 Steem选择奖励那些对某项内容的宣传贡献最大的成员，并且对投票者的奖励和对内容创造者的最终奖励成正比。
 
-还有一些其他形式的贡献也受到Steem的认可并通过客观指标评估并奖励。 Among these are: transaction validation, proof of work mining, liquidity rewards, and reporting of misbehaving block producers.
+还有一些其他形式的贡献也受到Steem的认可并通过客观指标评估并奖励。 这包括：交易验证、挖掘工作证明、流动性奖励和报告舞弊出块者。
 
-# Ways to Contribute
+# 贡献方式
 
 This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
 
