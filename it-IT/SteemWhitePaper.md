@@ -58,7 +58,7 @@ Steem è progettato per abilitare micropagamenti per tutti i tipi di contribuzio
 
 L'invio dei voti dalla comunità è molto importante per Steem per distribuire accuratamente i pagamenti ai contributori. Votare puo perciò essere considerato come un contributo cruciale ed essere esso stesso degno di ricevere un compenso. Alcune piattaforme, come Slashdot, utilizzano la meta-moderazione[^3] come metodo per classificare e premiare i moderatori onesti. Steem sceglie di ricompensare coloro che contribuiscono maggiormente alla totale promozione di una parte di un loro contenuto e ricompensa in modo proporzionale i votanti, facendo riferimento all'ultimo compenso pagato al creatore del contenuto.
 
-Ci sono altri modi di contribuire che Steem riconosce e premia usando metriche di obbiettivi. Di queste si possono citare: validazione di transazione, prova di lavoro di mining, premi di liquidità e riportare i cattivi comportamenti dei produttori.
+Ci sono altri modi di contribuire che Steem riconosce e premia usando metriche di giudizio oggettive. Di queste si possono citare: validazione di transazione, prova di lavoro di mining, premi di liquidità e riportare i cattivi comportamenti dei produttori.
 
 # Ways to Contribute
 
