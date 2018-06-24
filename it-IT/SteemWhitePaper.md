@@ -56,9 +56,9 @@ Dato che il mercato libero è un sistema collaudato, garba l'idea di creare un s
 
 Steem è progettato per abilitare micropagamenti per tutti i tipi di contribuzioni cambiando l'equazione economica. I lettori non devono più scegliere se desiderano o meno pagare qualcuno di tasca propria, invece possono votare i contenuti in modo positivo o negativo e Steem userà i loro voti per determinare i premi individuali. Questo vuol dire che alle persone viene data un'interfaccia famigliare e ampiamente utilizzata e non devono più imbattersi in costi cognitivi e finanziari che di norma interessano i tradizionali micropagamenti e le piattaforme che si basano su ricompense.
 
-L'invio dei voto dalla comunità è molto importante per Steem per distribuire giustamente i pagamenti ai contributori. Votare può dunque essere visto come una contribuzione cruciale e degno di ricevere premi. Alcune piattaforme, come Slashdot, usano la meta-moderazione [^3] come modo per classificare e premiare i moderatori onesti. Steem sceglie di premiare quelli che contribuiscono di più sulla promozione totale di un pezzo di contenuto e premia i votanti proporzionalmente sull'ultimo premio pagato al creatore del contenuto.
+L'invio dei voto dalla comunità è molto importante per Steem per distribuire giustamente i pagamenti ai contributori. Votare puo perciò essere considerato come un contributo cruciale ed essere esso stesso degno di ricevere un compenso. Alcune piattaforme, come Slashdot, utilizzano la meta-moderazione[^3] come metodo per classificare e premiare i moderatori onesti. Steem sceglie di ricompensare coloro che contribuiscono maggiormente alla totale promozione di una parte di un loro contenuto e ricompensa in modo proporzionale i votanti, facendo riferimento all'ultimo compenso pagato al creatore del contenuto.
 
-Ci sono altri modi di contribuire he Steem riconosce e premia usando metriche di obbiettivi. Di queste si possono citare: validazione di transazione, prova di lavoro di mining, premi di liquidità e riportare mal comportanti produttori.
+Ci sono altri modi di contribuire he Steem riconosce e premia usando metriche di obbiettivi. Di queste si possono citare: validazione di transazione, prova di lavoro di mining, premi di liquidità e riportare i cattivi comportamenti dei produttori.
 
 # Ways to Contribute
 
