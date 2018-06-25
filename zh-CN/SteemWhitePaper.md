@@ -92,11 +92,11 @@ Steem是Steem区块链上账户的基础单位。 所有其他代币都是从STE
 
 SP只能在两年的时间里通过104次固定等额转换回STEEM。 '1 SP'可以被理解为STEEM池中的一个股份。 网络会在每一个块中自动增加STEEM到池中。 在任何时候用户可以按照池中STEEM和SP总量的比例，把STEEM转换为SP。 将STEEM转换成SP并不会稀释持有人手中的SP。 类似的，每次SP转回STEEM的时候都按照当前的比例进行。 个人得到的保证就是，在将来会有比它们把STEEM转换为SP时更多的STEEM。
 
-SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+SP余额不能进行转让，也不可进行分割，通过自动分批转换请求的除外。这意味着SP不容易在加密货币交易所进行交易。
 
-SP is a requirement for voting for or against content. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+SP是对内容投票或者反对的先决条件。这意味着在Steem平台上，SP是一种能够赋予持有者专有权力的访问令牌。
 
-Transferring from STEEM to SP is referred to as powering up while transferring from SP to Steem is referred to as "powering down". For example, one can power down their STEEM over a period of two years, yet one can power up their STEEM instantly.
+从STEEM转换为SP被称作为提升权限(powering up)，而从SP转换为Steem被称作为 "消减权限" ("powering down")。 For example, one can power down their STEEM over a period of two years, yet one can power up their STEEM instantly.
 
 ## Steem Dollars (SMD)
 
