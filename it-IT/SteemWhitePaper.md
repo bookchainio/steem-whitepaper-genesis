@@ -72,7 +72,7 @@ La rete Steem divide queste diverse classi di capitale: Steem (STEEM), Steem Pow
 
 ## Steem (STEEM)
 
-Steem è l'unità di calcolo basilare nella blockchain di Steem. Tutti gli altri tokens derivano il loro valore dal valore dello STEEM. In generale STEEM dovrebbe essere conservato per periodi brevi quando serve liquidità. Qualcuno che cerca di entrare o di uscire la piattaforma di Steem dovrà comprare o vendere STEEM. Dopo che lo STEEM è stato comprato è consigliato cambiarlo in SP o SMD per ridurre l'impatto di diluizione a lungo raggio.
+Steem è l'unità di calcolo basilare nella blockchain di Steem. Tutti gli altri tokens derivano il loro valore dal valore dello STEEM. In generale lo STEEM dovrebbe essere conservato per periodi brevi quando serve liquidità. Qualcuno che cerca di entrare o di uscire la piattaforma di Steem dovrà comprare o vendere STEEM. Dopo che lo STEEM è stato comprato è consigliato cambiarlo in SP o SMD per ridurre l'impatto di diluizione a lungo raggio.
 
 STEEM sta costantemente aumentando del 100% il rifornimento annuale a causa di incentivi non-SMD. Qualcuno che possiede STEEM senza convertirli a SP, riceverà diluizioni di circa 0.19% al giorno. Anche se il tasso può sembrare alto per transazioni che richiedono meno di 10 giorni, è meno costoso dei tassi delle operazioni delle carte di credito. Inoltre, la creazione giornaliera di token è irrilevante rispetto alla volatilità giornaliera.
 
