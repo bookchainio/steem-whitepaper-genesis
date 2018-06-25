@@ -84,9 +84,9 @@ Steem是Steem区块链上账户的基础单位。 所有其他代币都是从STE
 
 初创公司需要长期的资本承诺。 那些给初创公司投资的人要等上几年后才能出售手中的股票获利。 如果没有长期资本承诺，初创公司通过增发股权寻求更多的资本，这与希望退出的现有股东产生竞争。 精明的投资者希望它们贡献的资本能够使公司成长，但如果新资本给了那些想要退出的股东，公司就不可能成长。
 
-拥有长期承诺非常重要，因为只有这样社区才能做出长期规划。 Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+拥有长期承诺非常重要，因为只有这样社区才能做出长期规划。 投资者的长期承诺也会导致他们投票支持社区的长期增长，而非短期的试验。
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+在加密货币世界里，投机者会在不同的加密货币间进行选择，主要取决于哪一种加密货币会有短期增长。 Steem想要建立一个具有长期眼光的人所拥有和控制的社区。
 
 Because Steem wants to encourage long-term growth, it is hardwired to allocate 9 STEEM to Steem Power (SP) stakeholders for every 1 STEEM it creates to fund growth through contribution incentives. Over time this drives the ratio of the total STEEM value of Steem Power balances to the total of STEEM balances toward 9:1 . (It seems likely that the ratio will be somewhat greater than 9:1 due to continued net Powering Up of the newly printed STEEM.) It also means that long-term holders are almost completely protected from the dilution used to fund growth.
 
