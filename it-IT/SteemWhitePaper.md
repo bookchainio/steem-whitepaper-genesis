@@ -60,13 +60,13 @@ L'invio dei voti da parte dei membri della comunità è molto importante per Ste
 
 Ci sono altri modi di contribuire che Steem riconosce e premia usando metriche di giudizio oggettive. Tra queste si possono citare: la validazione di transazione, la prova di lavoro di mining, premi di liquidità e segnalare i cattivi comportamenti dei "minatori".
 
-# Modi per contribuire
+# Modalità per contribuire
 
-Questa sezione delinea le idee dietro Steem ed i suo premi che forniscono contribuzioni significative e misurabili alla comunità Steem.
+Questa sezione delinea i concetti che si trovano dietro a Steem e dietro alle ricompense destinate alle persone che forniscono contributi significativi e quantificabili alla sua comunità.
 
-## Apporti di capitale
+## Gli apporti di capitali
 
-Ci sono due elementi che una comunità può offrire per attrarre capitale: obbligazioni e proprietà. Quelli che comprano proprietà ricevono profitto quando la comunità cresce ma perdono se diminuisce. Quelli che comprano obbligazioni hanno un interesse garantito ma non partecipano in alcun profitto creato dalla crescita della comunità. Ambo i tipi di contribuzione di capitale sono preziosi per la crescita della comunità ed il valore della sua valuta. Inoltre ci sono due modi per mantenere il capitale: liquidi o investiti. Investire i proprio capitale crea un impegno a lungo termine e la vendita non può essere effettuata por un periodo minimo.
+Ci sono due elementi che una comunità può offrire per attrarre capitale: obbligazioni e proprietà. Coloro che ottengono profitti dal possedimento delle proprietà quando la comunità cresce ma che vanno in perdita se la comunità decresce. Quelli che comprano obbligazioni hanno un interesse garantito ma non partecipano in alcun profitto creato dalla crescita della comunità. Ambo i tipi di contribuzione di capitale sono preziosi per la crescita della comunità ed il valore della sua valuta. Inoltre ci sono due modi per mantenere il capitale: liquidi o investiti. Investire i proprio capitale crea un impegno a lungo termine e la vendita non può essere effettuata por un periodo minimo.
 
 La rete Steem divide queste diverse classi di capitale: Steem (STEEM), Steem Power (SP) e Steem Dollars (SMD).
 
