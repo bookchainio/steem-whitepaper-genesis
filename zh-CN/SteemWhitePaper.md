@@ -78,11 +78,11 @@ Steem是Steem区块链上账户的基础单位。 所有其他代币都是从STE
 
 购买比特币或其他加密货币的人在10天后售出，由于价格波动，他们很容易损失3%甚至更多。 购买比特币并在同一天售出的人通常要支付超过0.4%的市场费用。 换句话说，对于典型的个人持有STEEM期间，STEEM的通货膨胀率是微不足道的。
 
-大多数的通货膨胀是由会计因素所致，而非真正的财富再分配。 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
+大多数的通货膨胀是由会计因素所致，而非真正的财富再分配。 90%的非SMD通货膨胀被被配给现有STEEM的持有者，于他们持有SP余额成正比，使得通胀更是一种“分裂”。 只有10%的非SMD通货膨胀会重新分配给网络的所有者。
 
 ## Steem Power (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+初创公司需要长期的资本承诺。 Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
 There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
