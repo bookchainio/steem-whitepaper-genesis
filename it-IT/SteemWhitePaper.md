@@ -66,13 +66,13 @@ Questa sezione delinea i concetti che si trovano dietro a Steem e dietro alle ri
 
 ## Gli apporti di capitali
 
-Ci sono due elementi che una comunità può offrire per attrarre capitale: obbligazioni e proprietà. Coloro che ottengono profitti dal possedimento delle proprietà quando la comunità cresce ma che vanno in perdita se la comunità decresce. Quelli che comprano obbligazioni hanno un interesse garantito ma non partecipano in alcun profitto creato dalla crescita della comunità. Ambo i tipi di contribuzione di capitale sono preziosi per la crescita della comunità ed il valore della sua valuta. Inoltre ci sono due modi per mantenere il capitale: liquidi o investiti. Investire i proprio capitale crea un impegno a lungo termine e la vendita non può essere effettuata por un periodo minimo.
+Ci sono due elementi che una comunità può offrire per attrarre capitale: obbligazioni e proprietà. Coloro che ottengono profitti dal possedimento delle proprietà quando la comunità cresce ma che vanno in perdita se la comunità decresce. A coloro che comprano obbligazioni viene garantito un certo ammontare di interessi ma non vengono coinvolti nella partecipazione ai profitti che avviene grazie alla crescita della comunità. Entrambi i tipi di apporto di capitali sono preziosi per la crescita della comunità e per il valore della propria valuta. Inoltre ci sono due modi per mantenere il capitale: liquidi o investiti. Investire i proprio capitale crea un impegno a lungo termine e la vendita non può essere effettuata por un periodo minimo.
 
 La rete Steem divide queste diverse classi di capitale: Steem (STEEM), Steem Power (SP) e Steem Dollars (SMD).
 
 ## Steem (STEEM)
 
-Steem è l'unità fondamentale sulla blockchain di Steem. Tutti gli altri tokens derivano il loro valore dal valore dello STEEM. In generale STEEM dovrebbe essere conservato per periodi brevi quando serve liquidità. Qualcuno che cerca di entrare o di uscire la piattaforma di Steem dovrà comprare o vendere STEEM. Dopo che lo STEEM è stato comprato è consigliato cambiarlo in SP o SMD per ridurre l'impatto di diluizione a lungo raggio.
+Steem è l'unità di calcolo basilare nella blockchain di Steem. Tutti gli altri tokens derivano il loro valore dal valore dello STEEM. In generale STEEM dovrebbe essere conservato per periodi brevi quando serve liquidità. Qualcuno che cerca di entrare o di uscire la piattaforma di Steem dovrà comprare o vendere STEEM. Dopo che lo STEEM è stato comprato è consigliato cambiarlo in SP o SMD per ridurre l'impatto di diluizione a lungo raggio.
 
 STEEM sta costantemente raddoppiando il rifornimento annualmente a causa di incentivi non-SMD. Qualcuno che possiede STEEM senza convertirli a SP, riceverà diluizioni di circa 0.19% al giorno. Anche se il tasso può sembrare alto per transazioni che richiedono meno di 10 giorni, è meno costoso dei tassi delle operazioni delle carte di credito. Inoltre, la creazione giornaliera di token è insignificante rispetto alla volatilità giornaliera.
 
