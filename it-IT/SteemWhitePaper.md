@@ -86,7 +86,7 @@ Le start up richiedono investimenti a lungo termine. Quelli che investono il lor
 
 Gli investimenti a lungo termine hanno molti vantaggi dato che garantisce alle comunità di fare piani a lungo termine. Le obbligazioni a lungo termine degli azionisti causano anche loro di votare per la crescita a lungo termine invece di crescita immediata.
 
-Nel campo delle criptovalute gli speculatori passano da una criptovaluta a un altra basandosi soprattutto sulla crescita immediata. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+Nel campo delle criptovalute gli speculatori passano da una criptovaluta a un altra basandosi soprattutto sulla crescita immediata. Steem vuole costruire una comunità che è maggiormente proprietà e sotto il controllo di persone che possiedono un'ottica a lungo termine.
 
 Because Steem wants to encourage long-term growth, it is hardwired to allocate 9 STEEM to Steem Power (SP) stakeholders for every 1 STEEM it creates to fund growth through contribution incentives. Over time this drives the ratio of the total STEEM value of Steem Power balances to the total of STEEM balances toward 9:1 . (It seems likely that the ratio will be somewhat greater than 9:1 due to continued net Powering Up of the newly printed STEEM.) It also means that long-term holders are almost completely protected from the dilution used to fund growth.
 
