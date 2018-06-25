@@ -82,7 +82,7 @@ Steem是Steem区块链上账户的基础单位。 所有其他代币都是从STE
 
 ## Steem Power (SP)
 
-初创公司需要长期的资本承诺。 那些给初创公司投资的人要等上几年后才能出售手中的股票获利。 Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+初创公司需要长期的资本承诺。 那些给初创公司投资的人要等上几年后才能出售手中的股票获利。 如果没有长期资本承诺，初创公司通过增发股权寻求更多的资本，这与希望退出的现有股东产生竞争。 精明的投资者希望它们贡献的资本能够使公司成长，但如果新资本给了那些想要退出的股东，公司就不可能成长。
 
 There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
