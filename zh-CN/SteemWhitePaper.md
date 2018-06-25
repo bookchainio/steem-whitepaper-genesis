@@ -72,9 +72,9 @@ Steem网络将这些不同的资产类别叫做Steem (STEEM)、Steem Power (SP) 
 
 ## Steem (STEEM)
 
-Steem是Steem区块链上账户的基础单位。 所有其他代币都是从STEEM的价值派生出来。 Generally speaking STEEM should be held for short periods of time when liquidity is needed. Someone looking to enter or exit the Steem platform will have to buy or sell STEEM. Once STEEM has been purchased it should be converted into SP or SMD to mitigate the impact of dilution over the long-term.
+Steem是Steem区块链上账户的基础单位。 所有其他代币都是从STEEM的价值派生出来。 一般意义来说，只有在体现时，才需要在短期内持有STEEM。 如果有人想要进入或离开Steem平台，它们就需要购买或出售STEEM。 一旦STEEM被购买，它就应该被转换为SP或SMD，以消除长期稀释的影响。
 
-STEEM is constantly increasing in supply by 100% per year due to non-SMD incentives. Someone who holds STEEM without converting it to SP is diluted by approximately 0.19% per day. While the rate may appear high, for transactions that take less than 10 days, it is still cheaper than credit card processing fees. Furthermore, the daily token creation is insignificant next to the daily volatility.
+由于非SMD的刺激，STEEM每年增发100%。 对于那些持有STEEM而没有转换为SP的人，它们持有的STEEM每天会被稀释约0.19%。 While the rate may appear high, for transactions that take less than 10 days, it is still cheaper than credit card processing fees. Furthermore, the daily token creation is insignificant next to the daily volatility.
 
 Someone who buys Bitcoin or any other cryptocurrency and sells it 10 days later could easily lose 3% or more due to price fluctuations. Someone who buys Bitcoin and then sells it the same day will usually pay more than 0.4% in market fees alone. In other words, the inflation rate is effectively insignificant during the period of time the typical individual will hold STEEM.
 
