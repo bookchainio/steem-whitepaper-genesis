@@ -74,11 +74,11 @@ Steem网络将这些不同的资产类别叫做Steem (STEEM)、Steem Power (SP) 
 
 Steem是Steem区块链上账户的基础单位。 所有其他代币都是从STEEM的价值派生出来。 一般意义来说，只有在体现时，才需要在短期内持有STEEM。 如果有人想要进入或离开Steem平台，它们就需要购买或出售STEEM。 一旦STEEM被购买，它就应该被转换为SP或SMD，以消除长期稀释的影响。
 
-由于非SMD的刺激，STEEM每年增发100%。 对于那些持有STEEM而没有转换为SP的人，它们持有的STEEM每天会被稀释约0.19%。 While the rate may appear high, for transactions that take less than 10 days, it is still cheaper than credit card processing fees. Furthermore, the daily token creation is insignificant next to the daily volatility.
+由于非SMD的刺激，STEEM每年增发100%。 对于那些持有STEEM而没有转换为SP的人，它们持有的STEEM每天会被稀释约0.19%。 虽然这个比例看起来有些高，然而针对小于10天的交易，它仍然比信用卡手续费要便宜。 此外，每日的代币生成速度和价格波动相比是微不足道的。
 
-Someone who buys Bitcoin or any other cryptocurrency and sells it 10 days later could easily lose 3% or more due to price fluctuations. Someone who buys Bitcoin and then sells it the same day will usually pay more than 0.4% in market fees alone. In other words, the inflation rate is effectively insignificant during the period of time the typical individual will hold STEEM.
+购买比特币或其他加密货币的人在10天后售出，由于价格波动，他们很容易损失3%甚至更多。 购买比特币并在同一天售出的人通常要支付超过0.4%的市场费用。 换句话说，对于典型的个人持有STEEM期间，STEEM的通货膨胀率是微不足道的。
 
-The majority of inflation is actually an accounting artifact rather than true reallocation of wealth. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
+大多数的通货膨胀是由会计因素所致，而非真正的财富再分配。 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
 
 ## Steem Power (SP)
 
