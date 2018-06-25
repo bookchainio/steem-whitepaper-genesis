@@ -76,13 +76,13 @@ Steem è l'unità fondamentale sulla blockchain di Steem. Tutti gli altri tokens
 
 STEEM sta costantemente raddoppiando il rifornimento annualmente a causa di incentivi non-SMD. Qualcuno che possiede STEEM senza convertirli a SP, riceverà diluizioni di circa 0.19% al giorno. Anche se il tasso può sembrare alto per transazioni che richiedono meno di 10 giorni, è meno costoso dei tassi delle operazioni delle carte di credito. Inoltre, la creazione giornaliera di token è insignificante rispetto alla volatilità giornaliera.
 
-Someone who buys Bitcoin or any other cryptocurrency and sells it 10 days later could easily lose 3% or more due to price fluctuations. Someone who buys Bitcoin and then sells it the same day will usually pay more than 0.4% in market fees alone. In other words, the inflation rate is effectively insignificant during the period of time the typical individual will hold STEEM.
+Chi acquista Bitcoin o qualsiasi altro tipo di cryptovaluta e la vende 10 giorni dopo potrebbe tranquillamente perdere 3% o più a causa delle fluttuazioni di prezzo. Chiunque compri Bitcoin e lo rivende lo stesso giorno pagherà solitamente più del 0.4% solo in tasse di mercato. In altre parole, il ratio di inflazione è insignificante durante il periodo di tempo in cui una persona è solita tenere STEEM.
 
-The majority of inflation is actually an accounting artifact rather than true reallocation of wealth. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
+La maggior parte dell'inflazione è infatti un artefatto contabile invece di vera ridistribuzione di capitale. 90% dell'inflazione non-SMD è ridistribuita ad aventi di STEEM proporzionalmente al valore STEEM del loro bilancio SP, creando più una "separazione". Solo circa il 10% di inflazione non-SMD ridistribuisce capitale nella rete.
 
 ## Steem Power (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Le start up richiedono investimenti a lungo termine. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
 There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
