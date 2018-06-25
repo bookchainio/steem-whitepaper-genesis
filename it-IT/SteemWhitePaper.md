@@ -76,17 +76,17 @@ Steem è l'unità fondamentale sulla blockchain di Steem. Tutti gli altri tokens
 
 STEEM sta costantemente raddoppiando il rifornimento annualmente a causa di incentivi non-SMD. Qualcuno che possiede STEEM senza convertirli a SP, riceverà diluizioni di circa 0.19% al giorno. Anche se il tasso può sembrare alto per transazioni che richiedono meno di 10 giorni, è meno costoso dei tassi delle operazioni delle carte di credito. Inoltre, la creazione giornaliera di token è insignificante rispetto alla volatilità giornaliera.
 
-Chi acquista Bitcoin o qualsiasi altro tipo di cryptovaluta e la vende 10 giorni dopo potrebbe tranquillamente perdere 3% o più a causa delle fluttuazioni di prezzo. Chiunque compri Bitcoin e lo rivende lo stesso giorno pagherà solitamente più del 0.4% solo in tasse di mercato. In altre parole, il ratio di inflazione è insignificante durante il periodo di tempo in cui una persona è solita tenere STEEM.
+Chi acquista Bitcoin o qualsiasi altro tipo di criptovaluta e la vende 10 giorni dopo potrebbe tranquillamente perdere 3% o più a causa delle fluttuazioni di prezzo. Chiunque compri Bitcoin e lo rivende lo stesso giorno pagherà solitamente più del 0.4% solo in tasse di mercato. In altre parole, il ratio di inflazione è insignificante durante il periodo di tempo in cui una persona è solita tenere STEEM.
 
 La maggior parte dell'inflazione è infatti un artefatto contabile invece di vera ridistribuzione di capitale. 90% dell'inflazione non-SMD è ridistribuita ad aventi di STEEM proporzionalmente al valore STEEM del loro bilancio SP, creando più una "separazione". Solo circa il 10% di inflazione non-SMD ridistribuisce capitale nella rete.
 
 ## Steem Power (SP)
 
-Le start up richiedono investimenti a lungo termine. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Le start up richiedono investimenti a lungo termine. Quelli che investono il loro capitale in startup comprendono che devono aspettare anni prima di poter vendere le loro azioni e ricavarne profitto. Senza investimenti a lungo termine una startup alla ricerca di aumentare il proprio capitale, grazie alla vendita di azioni, starebbe competendo con azionisti volenti un uscita. Investitori esperti vogliono che le loro contribuzioni facciano crescere l'azienda, ma la crescita non può avvenire se il nuovo capitale è dato a coloro che vogliono uscire.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+Gli investimenti a lungo termine hanno molti vantaggi dato che garantisce alle comunità di fare piani a lungo termine. Le obbligazioni a lungo termine degli azionisti causano anche loro di votare per la crescita a lungo termine invece di crescita immediata.
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+Nel campo delle criptovalute gli speculatori passano da una criptovaluta a un altra basandosi soprattutto sulla crescita immediata. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
 Because Steem wants to encourage long-term growth, it is hardwired to allocate 9 STEEM to Steem Power (SP) stakeholders for every 1 STEEM it creates to fund growth through contribution incentives. Over time this drives the ratio of the total STEEM value of Steem Power balances to the total of STEEM balances toward 9:1 . (It seems likely that the ratio will be somewhat greater than 9:1 due to continued net Powering Up of the newly printed STEEM.) It also means that long-term holders are almost completely protected from the dilution used to fund growth.
 
