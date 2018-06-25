@@ -76,9 +76,9 @@ Steem è l'unità di calcolo basilare nella blockchain di Steem. Tutti gli altri
 
 STEEM sta costantemente aumentando del 100% il rifornimento annuale a causa di incentivi non-SMD. Qualcuno che possiede STEEM senza convertirli a SP, riceverà diluizioni di circa 0.19% al giorno. Anche se il tasso può sembrare alto per transazioni che richiedono meno di 10 giorni, è meno costoso dei tassi delle operazioni delle carte di credito. Inoltre, la creazione giornaliera di token è irrilevante rispetto alla volatilità giornaliera.
 
-Chi acquista Bitcoin o qualsiasi altro tipo di criptovaluta e la vende 10 giorni dopo potrebbe tranquillamente perdere 3% o più a causa delle fluttuazioni di prezzo. Chiunque acquisti Bitcoin e lo rivenda lo stesso giorno solitamente pagherà, solo in tasse di mercato, più dello 0,4%. In altre parole, il ratio di inflazione è insignificante durante il periodo di tempo in cui una persona è solita tenere STEEM.
+Chi acquista Bitcoin o qualsiasi altro tipo di criptovaluta e la vende 10 giorni dopo potrebbe tranquillamente perdere 3% o più a causa delle fluttuazioni di prezzo. Chiunque acquisti Bitcoin e lo rivenda lo stesso giorno solitamente pagherà, solo in tasse di mercato, più dello 0,4%. In altre parole, il tasso di inflazione è effettivamente trascurabile durante il periodo di tempo in cui una persona è solita conservare lo STEEM.
 
-La maggior parte dell'inflazione è infatti un artefatto contabile invece di vera ridistribuzione di capitale. 90% dell'inflazione non-SMD è ridistribuita ad aventi di STEEM proporzionalmente al valore STEEM del loro bilancio SP, creando più una "separazione". Solo circa il 10% di inflazione non-SMD ridistribuisce capitale nella rete.
+La maggior parte dell'inflazione è piuttosto un artefatto di contabilità invece che una vera ridistribuzione di capitale. 90% dell'inflazione non-SMD è ridistribuita ad aventi di STEEM proporzionalmente al valore STEEM del loro bilancio SP, creando più una "separazione". Solo circa il 10% di inflazione non-SMD ridistribuisce capitale nella rete.
 
 ## Steem Power (SP)
 
