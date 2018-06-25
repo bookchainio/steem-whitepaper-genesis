@@ -66,7 +66,7 @@ Questa sezione delinea i concetti che si trovano dietro a Steem e dietro alle ri
 
 ## Gli apporti di capitali
 
-Ci sono due elementi che una comunità può offrire per attrarre capitale: obbligazioni e proprietà. Coloro che ottengono profitti dal possedimento delle proprietà quando la comunità cresce ma che vanno in perdita se la comunità decresce. A coloro che comprano obbligazioni viene garantito un certo ammontare di interessi ma non vengono coinvolti nella partecipazione ai profitti che avviene grazie alla crescita della comunità. Entrambi i tipi di apporto di capitali sono preziosi per la crescita della comunità e per il valore della propria valuta. Inoltre ci sono due modi per mantenere il capitale: liquidi o investiti. Investire i proprio capitale crea un impegno a lungo termine e la vendita non può essere effettuata por un periodo minimo.
+Ci sono due elementi che una comunità può offrire per attrarre capitale: obbligazioni e proprietà. Coloro che ottengono profitti dal possedimento delle proprietà quando la comunità cresce ma che vanno in perdita se la comunità decresce. A coloro che comprano obbligazioni viene garantito un certo ammontare di interessi ma non vengono coinvolti nella partecipazione ai profitti che avviene grazie alla crescita della comunità. Entrambi i tipi di apporto di capitali sono preziosi per la crescita della comunità e per il valore della propria valuta. Inoltre ci sono due modi per mantenere il capitale: liquidi o investiti. Investire il proprio capitale comporta ad avere un impegno a lungo termine e alla non possibilità di vendita dello stesso per un minimo periodo di tempo.
 
 La rete Steem divide queste diverse classi di capitale: Steem (STEEM), Steem Power (SP) e Steem Dollars (SMD).
 
