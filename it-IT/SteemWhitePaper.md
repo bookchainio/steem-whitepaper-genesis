@@ -62,17 +62,17 @@ Ci sono altri modi di contribuire che Steem riconosce e premia usando metriche d
 
 # Modi per contribuire
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+Questa sezione delinea le idee dietro Steem ed i suo premi che forniscono contribuzioni significative e misurabili alla comunità Steem.
 
-## Capital Contributions
+## Apporti di capitale
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Ci sono due elementi che una comunità può offrire per attrarre capitale: obbligazioni e proprietà. Quelli che comprano proprietà ricevono profitto quando la comunità cresce ma perdono se diminuisce. Quelli che comprano obbligazioni hanno un interesse garantito ma non partecipano in alcun profitto creato dalla crescita della comunità. Ambo i tipi di contribuzione di capitale sono preziosi per la crescita della comunità ed il valore della sua valuta. Inoltre ci sono due modi per mantenere il capitale: liquidi o investiti. Investire i proprio capitale crea un impegno a lungo termine e la vendita non può essere effettuata por un periodo minimo.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SMD).
+La rete Steem divide queste diverse classi di capitale: Steem (STEEM), Steem Power (SP) e Steem Dollars (SMD).
 
 ## Steem (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. Generally speaking STEEM should be held for short periods of time when liquidity is needed. Someone looking to enter or exit the Steem platform will have to buy or sell STEEM. Once STEEM has been purchased it should be converted into SP or SMD to mitigate the impact of dilution over the long-term.
+Steem è l'unità fondamentale sulla blockchain di Steem. All other tokens derive their value from the value of STEEM. Generally speaking STEEM should be held for short periods of time when liquidity is needed. Someone looking to enter or exit the Steem platform will have to buy or sell STEEM. Once STEEM has been purchased it should be converted into SP or SMD to mitigate the impact of dilution over the long-term.
 
 STEEM is constantly increasing in supply by 100% per year due to non-SMD incentives. Someone who holds STEEM without converting it to SP is diluted by approximately 0.19% per day. While the rate may appear high, for transactions that take less than 10 days, it is still cheaper than credit card processing fees. Furthermore, the daily token creation is insignificant next to the daily volatility.
 
