@@ -60,7 +60,7 @@ L'invio dei voti da parte dei membri della comunità è molto importante per Ste
 
 Ci sono altri modi di contribuire che Steem riconosce e premia usando metriche di giudizio oggettive. Tra queste si possono citare: la validazione di transazione, la prova di lavoro di mining, premi di liquidità e segnalare i cattivi comportamenti dei "minatori".
 
-# Ways to Contribute
+# Modi per contribuire
 
 This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
 
