@@ -96,7 +96,7 @@ SP余额不能进行转让，也不可进行分割，通过自动分批转换请
 
 SP是对内容投票或者反对的先决条件。这意味着在Steem平台上，SP是一种能够赋予持有者专有权力的访问令牌。
 
-从STEEM转换为SP被称作为提升权限(powering up)，而从SP转换为Steem被称作为 "消减权限" ("powering down")。 For example, one can power down their STEEM over a period of two years, yet one can power up their STEEM instantly.
+从STEEM转换为SP被称作为提升权限(powering up)，而从SP转换为Steem被称作为 "消减权限" ("powering down")。 例如，成员可以在两年时间内逐步消减权限，但却可以立刻提升权限。
 
 ## Steem Dollars (SMD)
 
