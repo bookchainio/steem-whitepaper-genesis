@@ -72,9 +72,9 @@ La rete Steem divide queste diverse classi di capitale: Steem (STEEM), Steem Pow
 
 ## Steem (STEEM)
 
-Steem è l'unità fondamentale sulla blockchain di Steem. All other tokens derive their value from the value of STEEM. Generally speaking STEEM should be held for short periods of time when liquidity is needed. Someone looking to enter or exit the Steem platform will have to buy or sell STEEM. Once STEEM has been purchased it should be converted into SP or SMD to mitigate the impact of dilution over the long-term.
+Steem è l'unità fondamentale sulla blockchain di Steem. Tutti gli altri tokens derivano il loro valore dal valore dello STEEM. In generale STEEM dovrebbe essere conservato per periodi brevi quando serve liquidità. Qualcuno che cerca di entrare o di uscire la piattaforma di Steem dovrà comprare o vendere STEEM. Dopo che lo STEEM è stato comprato è consigliato cambiarlo in SP o SMD per ridurre l'impatto di diluizione a lungo raggio.
 
-STEEM is constantly increasing in supply by 100% per year due to non-SMD incentives. Someone who holds STEEM without converting it to SP is diluted by approximately 0.19% per day. While the rate may appear high, for transactions that take less than 10 days, it is still cheaper than credit card processing fees. Furthermore, the daily token creation is insignificant next to the daily volatility.
+STEEM sta costantemente raddoppiando il rifornimento annualmente a causa di incentivi non-SMD. Qualcuno che possiede STEEM senza convertirli a SP, riceverà diluizioni di circa 0.19% al giorno. Anche se il tasso può sembrare alto per transazioni che richiedono meno di 10 giorni, è meno costoso dei tassi delle operazioni delle carte di credito. Inoltre, la creazione giornaliera di token è insignificante rispetto alla volatilità giornaliera.
 
 Someone who buys Bitcoin or any other cryptocurrency and sells it 10 days later could easily lose 3% or more due to price fluctuations. Someone who buys Bitcoin and then sells it the same day will usually pay more than 0.4% in market fees alone. In other words, the inflation rate is effectively insignificant during the period of time the typical individual will hold STEEM.
 
