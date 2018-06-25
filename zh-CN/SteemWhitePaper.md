@@ -88,7 +88,7 @@ Steem是Steem区块链上账户的基础单位。 所有其他代币都是从STE
 
 在加密货币世界里，投机者会在不同的加密货币间进行选择，主要取决于哪一种加密货币会有短期增长。 Steem想要建立一个具有长期眼光的人所拥有和控制的社区。
 
-Because Steem wants to encourage long-term growth, it is hardwired to allocate 9 STEEM to Steem Power (SP) stakeholders for every 1 STEEM it creates to fund growth through contribution incentives. Over time this drives the ratio of the total STEEM value of Steem Power balances to the total of STEEM balances toward 9:1 . (It seems likely that the ratio will be somewhat greater than 9:1 due to continued net Powering Up of the newly printed STEEM.) It also means that long-term holders are almost completely protected from the dilution used to fund growth.
+由于Steem想要鼓励长期增长，Steem每创建 1 个STEEM，它就会向Steem Power (SP) 的持有者分配 9 个STEEM，通过贡献激励机制实现资金增长。 Over time this drives the ratio of the total STEEM value of Steem Power balances to the total of STEEM balances toward 9:1 . (It seems likely that the ratio will be somewhat greater than 9:1 due to continued net Powering Up of the newly printed STEEM.) It also means that long-term holders are almost completely protected from the dilution used to fund growth.
 
 SP can only be converted back to STEEM over 2 years via 104 equal weekly payments. '1 SP' can be viewed as a share in a pool of STEEM. The network automatically adds STEEM to the pool every block. At any time users can convert their STEEM into SP at the same ratio as STEEM in the vesting pool to total SP. Converting STEEM to SP does not dilute existing holders of SP. Likewise, every time SP is converted back to STEEM it is done at the current ratio. Individuals are guaranteed to have more STEEM in the future than they have when they rst convert from STEEM to SP.
 
