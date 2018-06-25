@@ -90,7 +90,7 @@ Steem是Steem区块链上账户的基础单位。 所有其他代币都是从STE
 
 由于Steem想要鼓励长期增长，Steem每创建 1 个STEEM，它就会向Steem Power (SP) 的持有者分配 9 个STEEM，通过贡献激励机制实现资金增长。 久而久之，这就会导致整体STEEM POWER对应的STEEM价值和STEEM总量的比例是9:1。 (非常有可能的一种情况就是，由于新发行的STEEM的持续增长，实际比例会比 9:1要高。) 这同时也意味着长期持有者几乎会完全受到保护，而不受到资金增长而导致的稀释效应的影响。
 
-SP只能在两年的时间里通过104次固定等额转换回STEEM。 '1 SP'可以被理解为STEEM池中的一个股份。 网络会在每一个块中自动增加STEEM到池中。 At any time users can convert their STEEM into SP at the same ratio as STEEM in the vesting pool to total SP. Converting STEEM to SP does not dilute existing holders of SP. Likewise, every time SP is converted back to STEEM it is done at the current ratio. Individuals are guaranteed to have more STEEM in the future than they have when they rst convert from STEEM to SP.
+SP只能在两年的时间里通过104次固定等额转换回STEEM。 '1 SP'可以被理解为STEEM池中的一个股份。 网络会在每一个块中自动增加STEEM到池中。 在任何时候用户可以按照池中STEEM和SP总量的比例，把STEEM转换为SP。 将STEEM转换成SP并不会稀释持有人手中的SP。 类似的，每次SP转回STEEM的时候都按照当前的比例进行。 个人得到的保证就是，在将来会有比它们把STEEM转换为SP时更多的STEEM。
 
 SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
 
