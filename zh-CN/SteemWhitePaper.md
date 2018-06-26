@@ -102,7 +102,7 @@ SP是对内容投票或者反对的先决条件。这意味着在Steem平台上�
 
 稳定性是全球经济成功的一个重要标志。 没有稳定性，世界各地的人们都不可能在从事商业活动和储蓄时享有低的认知成本。 由于稳定性是成功经济的重要特征，Steem Dollars的设计宗旨就在于将稳定性带给加密货币世界以及使用Steem网络的每一个人。
 
-Steem Dollars使用和可兑换货币类似的机制创建，这种机制通常被用于给初创公司提供资金。 在初创公司的圈子里，可兑换货币是一种短期的债券工具，在后续的融资缓解中可以按比例转换为公司的所有权。 一个基于区块链的代币可以被看作是社区的所有权而可兑换货币则可以被看作以其他物品或货币标定的债务。 可兑换货币的条款允许持有者可以在很小的通知时限内以公平市场价格转换为基础代币。 创建可转换的货币使得区块链网络在为代币持有者获取利益最大化的同时得以成长。
+Steem Dollars使用和可兑换货币类似的机制创建，这种机制通常被用于给初创公司提供资金。 在初创公司的圈子里，可兑换货币是一种短期的债券工具，在后续的融资环节中可以按比例转换为公司的所有权。 一个基于区块链的代币可以被看作是社区的所有权而可兑换货币则可以被看作以其他物品或货币标定的债务。 可兑换货币的条款允许持有者可以在很小的通知时限内以公平市场价格转换为基础代币。 创建可转换的货币使得区块链网络在为代币持有者获取利益最大化的同时得以成长。
 
 Steem Dollars are referred to with the symbol SMD, an acronym for Steem Dollars. Creating SMD requires a combination of a reliable price feed, rules to prevent abuse, and liquidity. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
 
