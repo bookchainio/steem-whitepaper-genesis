@@ -76,9 +76,9 @@ Steem è l'unità di calcolo basilare nella blockchain di Steem. Tutti gli altri
 
 Lo steem sta costantemente incrementando la sua offerta annua del 100% a causa di incentivi non SMD Qualcuno che detiene STEEM senza convertirli in SP, subisce una diluizione di circa 0.19% al giorno. Mentre il tasso può sembrare alto per transazioni che richiedono meno di 10 giorni, è sempre più economico delle commissioni di elaborazione delle carte di credito. Inoltre, la creazione giornaliera di token è irrilevante rispetto alla volatilità giornaliera.
 
-Chi acquista Bitcoin o qualsiasi altro tipo di criptovaluta e la vende 10 giorni dopo potrebbe tranquillamente perdere il 3% o più a causa delle fluttuazioni di prezzo. Chiunque acquisti Bitcoin e lo rivenda lo stesso giorno solitamente pagherà più dello 0'4%, solamente in tasse di mercato. In altre parole, il tasso di inflazione è effettivamente trascurabile durante il periodo di tempo in cui una persona è solita conservare lo STEEM.
+Chi acquista Bitcoin o qualsiasi altro tipo di criptovaluta e la vende 10 giorni dopo potrebbe tranquillamente perdere il 3% o più a causa delle fluttuazioni di prezzo. Chiunque acquista Bitcoin e poi li rivende lo stesso giorno solitamente pagherà più dello 0,4% solamente in commissioni di mercato. In altre parole, il tasso di inflazione è effettivamente irrilevante durante il periodo di tempo in cui uno specifico individuo manterrà lo STEEM. 
 
-La maggior parte dell'inflazione è infatti un artefatto di contabilità piuttosto che una vera ridistribuzione di capitale. Il 90% dell'inflazione non-SMD è ridistribuita tra i possessori ,già esistenti, di STEEM, proporzionalmente al valore STEEM del loro bilancio SP, creando più una "separazione". Solo circa il 10% di inflazione non-SMD ridistribuisce capitale nella rete.
+La maggior parte dell'inflazione è in realtà un artefatto contabile piuttosto che una reale ridistribuzione di capitale. Il 90% dell'inflazione non-SMD viene restituita ai possessori già esistenti di STEEM, proporzionalmente al valore dello STEEM presente nel loro saldo in SP, mettendo in atto o una sorta di "divisione". Solo circa il 10% dell'inflazione non-SMD ridistribuisce i patrimoni nella rete. 
 
 ## Steem Power (SP)
 
