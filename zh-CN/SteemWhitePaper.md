@@ -54,9 +54,9 @@ Steem是基于一个相对简单的概念来设计的：*每个人向社区提�
 
 由于自由市场是一种行之有效的体系，这就吸引人们创造一个自由市场体系，其中的内容消费者直接向内容生产者付费。 然而，对于内容的创造和策展(curation)，直接支付是低效，也是不可行的。 相对于进行付款伴随的认知、财富和机会成本，内容的价值极低，很少有读者选择付费。 大量的免费替代品意味着强制收费会把读者赶往其他地方。 曾经有过一些实行由读者向作者按文章小额付款的尝试，但都没有得到普及。
 
-Steem的设计目的是通过改变经济方程式来实现对所有类型的贡献进行微额付款。 读者不再需要决定他们是否想要从自己口袋中向他人付款，而是对内容点赞或踩，Steem会根据他们的投票来决定每一个奖励。 这意味着人们面对一个熟悉并被广泛使用的界面，并且无需面对在传统微支付和小费平台相关的认知、财务和机会成本等问题。
+Steem的设计目的是通过改变经济方程式来实现对所有类型的贡献进行微额付款。 读者不再需要决定他们是否想要从自己口袋中向他人付款，而是对内容点赞或踩，Steem会根据他们的投票来决定每一个奖励。 这意味着人们面对一个熟悉并被广泛使用的界面，并且无需面对在传统微支付和小费平台中的认知、金融和机会成本等问题。
 
-来自社区成员的投票对于Steem精确分配贡献者的奖励是至关重要的。 因此投票本身也是一个非常重要的贡献并且值得被奖励。 一些平台，例如Slashdot，使用meta-moderation [^3]作为排名和奖励诚实评判者的一种方法。 Steem选择奖励那些对某项内容的宣传贡献最大的成员，并且对投票者的奖励和对内容创造者的最终奖励成正比。
+来自社区成员的投票对于Steem精确分配贡献者的奖励是至关重要的。 因此投票本身也是一个非常重要的贡献并且值得受到奖励。 一些平台，例如Slashdot，使用meta-moderation [^3]作为排名和奖励诚实评判者的一种方法。 Steem选择奖励那些对某项内容的宣传贡献最大的成员，并且对投票者的奖励和对内容创造者的最终奖励成正比。
 
 还有一些其他形式的贡献也受到Steem的认可并通过客观指标评估并奖励。 这包括：交易验证、挖掘工作证明、流动性奖励和报告舞弊出块者。
 
@@ -102,7 +102,7 @@ SP是对内容投票或者反对的先决条件。这意味着在Steem平台上�
 
 稳定性是全球经济成功的一个重要标志。 没有稳定性，世界各地的人们都不可能在从事商业活动和储蓄时享有低的认知成本。 由于稳定性是成功经济的重要特征，Steem Dollars的设计宗旨就在于将稳定性带给加密货币世界以及使用Steem网络的每一个人。
 
-Steem Dollars使用和可兑换货币类似的机制创建，这种机制通常被用于给初创公司提供资金。 In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
+Steem Dollars使用和可兑换货币类似的机制创建，这种机制通常被用于给初创公司提供资金。 在初创公司的圈子里，可兑换货币是一种短期的债券工具，在后续的融资缓解中可以按比例转换为公司的所有权。 一个基于区块链的代币可以被看作是社区的所有权而可兑换货币则可以被看作以其他物品或货币标定的债务。 可兑换货币的条款允许持有者可以在很小的通知时限内以公平市场价格转换为基础代币。 创建可转换的货币使得区块链网络在为代币持有者获取利益最大化的同时得以成长。
 
 Steem Dollars are referred to with the symbol SMD, an acronym for Steem Dollars. Creating SMD requires a combination of a reliable price feed, rules to prevent abuse, and liquidity. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
 
