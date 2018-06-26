@@ -68,11 +68,11 @@ Questa sezione delinea i concetti che si trovano dietro a Steem e dietro alle ri
 
 Ci sono due elementi che una comunità può offrire per attrarre capitale: obbligazioni e proprietà. Coloro che ottengono profitti dal possedimento delle proprietà quando la comunità cresce ma che vanno in perdita se la comunità decresce. A coloro che comprano obbligazioni viene garantito un certo ammontare di interessi ma non vengono coinvolti nella partecipazione ai profitti che avviene grazie alla crescita della comunità. Entrambi i tipi di apporto di capitali sono preziosi per la crescita della comunità e per il valore della propria valuta. Inoltre ci sono due modi per mantenere il capitale: liquidi o investiti. Investire il proprio capitale comporta ad avere un impegno a lungo termine e alla non possibilità di vendita dello stesso per un minimo periodo di tempo.
 
-La rete Steem divide queste diverse classi di capitale: Steem (STEEM), Steem Power (SP) e Steem Dollars (SMD).
+La rete di Steem considera le categorie di Steem (STEEM), Steem Power (SP) e Steem Dollars (SBD) come diversi tipi di possedimenti che si possono avere.
 
 ## Steem (STEEM)
 
-Steem è l'unità di calcolo basilare nella blockchain di Steem. Tutti gli altri tokens derivano il loro valore dal valore dello STEEM. In generale lo STEEM dovrebbe essere conservato per periodi brevi quando serve liquidità. Qualcuno che cerca di entrare o di uscire dalla piattaforma di Steem dovrà comprare o vendere lo STEEM. Dopo che lo STEEM è stato comprato è consigliato convertirlo in SP o SMD per attenuare l'impatto della diluizione a lungo termine
+Steem è l'unità di calcolo basilare nella blockchain di Steem. Tutti gli altri tokens derivano il loro valore dal valore dello STEEM. In generale lo STEEM dovrebbe essere conservato per periodi brevi quando serve liquidità. Qualcuno che cerca di entrare o di uscire dalla piattaforma di Steem dovrà comprare o vendere lo STEEM. Dopo che lo STEEM è stato acquistato è consigliato convertirlo in SP o SMD per attenuare l'impatto della diluizione a lungo termine
 
 Lo steem sta costantemente incrementando la sua offerta annua del 100% a causa di incentivi non SMD Qualcuno che detiene STEEM senza convertirli in SP, subisce una diluizione di circa 0.19% al giorno. Anche se il tasso può sembrare elevato per transazioni che richiedono meno di 10 giorni, è meno costoso dei tassi d'interesse operati dalle carte di credito. Inoltre, la creazione giornaliera di token è irrilevante rispetto alla volatilità giornaliera.
 
