@@ -90,13 +90,13 @@ Nel campo delle criptovalute, gli speculatori passano da una criptovaluta all'al
 
 Dato che Steem vuole incoraggiare la crescita a lungo termine, è impegnata ad allocare 9 STEEM ai proprietari di Steem Power (SP) per ogni STEEM che crea per creare crescita in forma di incentivi. A lungo termine questo porta il ratio totale del valore degli STEEM comparato allo Steem Power sul bilancio totale di STEEM ad un valore 9:1. (Sembra plausibile che il ratio sarà un po' maggiore a 9:1 data la continua Powering Up degli STEEM appena creati.) Vuole anche dire che proprietari a lungo termine some quasi completamente protetti dalla diluizione usata per finanziare la crescita.
 
-SP può solo essere riconvertito a STEEM nell'arco di 2 anni usando 104 pagamenti settimanali equivalenti. "1SP" può essere visto come un'azione della pool di STEEM. La rete aggiunge automaticamente STEEM al pool dei blocchi. Gli utenti possono convertire in ogni momento i loro STEEM in SP allo stesso ratio come STEEM nella pool di crescita a SP totali. Convertire STEEM a SP non diluisce proprietari di SP. Allo stesso modo, ogni volta che SP è convertito in STEEM è fatto al ratio corrente. Individuals are guaranteed to have more STEEM in the future than they have when they rst convert from STEEM to SP.
+SP può solo essere riconvertito a STEEM nell'arco di 2 anni usando 104 pagamenti settimanali equivalenti. "1SP" può essere visto come un'azione della pool di STEEM. La rete aggiunge automaticamente STEEM al pool dei blocchi. Gli utenti possono convertire in ogni momento i loro STEEM in SP allo stesso ratio come STEEM nella pool di crescita a SP totali. Convertire STEEM a SP non diluisce proprietari di SP. Allo stesso modo, ogni volta che SP è convertito in STEEM è fatto al ratio corrente. Le persone sono garantite sull'avere più STEEM nel futuro di quando convertirono per la prima volta da STEEM a SP.
 
-SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+I saldi di SP non sono trasferibili e divisibili eccetto via la richiesta di conversione automatica. Questo vuol dire che SP non può essere facilmente usato per scambi di criptovalute.
 
-SP is a requirement for voting for or against content. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+SP è un requisito per votare per o contro un contenuto. Questo vuol dire che SP è un token di accesso per garantire poteri esclusivi dentro la piattaforma di Steem.
 
-Transferring from STEEM to SP is referred to as powering up while transferring from SP to Steem is referred to as "powering down". For example, one can power down their STEEM over a period of two years, yet one can power up their STEEM instantly.
+Convertire da STEEM a SP è riferito come "potenziare" mentre trasferire SP a STEEM è riferito come "depotenziare". For example, one can power down their STEEM over a period of two years, yet one can power up their STEEM instantly.
 
 ## Steem Dollars (SMD)
 
