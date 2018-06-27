@@ -108,7 +108,7 @@ Gli Steem Dollars sono anche riferibili col simbolo SMD, un acronimo per Steem D
 
 ### Minimizzare feed fraudolenti
 
-I proprietari di SP eleggono persone per pubblicare i prezzi dei feed. Queste persone elette sono presumibilmente attendibili da quelli che hanno portato interesse nella qualità nel feed. Pagando quelli che sono stati eletti, Steem crea una competizione di mercato per guadagnare i feed di procedura giusti. Più i produttori di feed vengono pagati, più hanno da perdere pubblicando false informazioni.
+I proprietari di SP eleggono persone per pubblicare i prezzi dei feed. Queste persone elette sono presumibilmente attendibili da quelli che hanno portato interesse nella qualità nel feed. Pagando coloro che vengono eletti, lo Steem crea competizione di mercato per ottenere il diritto di produrre feed. Più i produttori di feed vengono pagati, più hanno da perdere pubblicando false informazioni.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
