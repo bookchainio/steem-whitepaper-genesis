@@ -96,7 +96,7 @@ Il saldo dello SP non è né trasferibile né divisibile se non attraverso richi
 
 SP è un requisito per votare per o contro un contenuto. Questo significa che lo SP di ogni detentore è un token di accesso necessario ad avere la garanzia di poter usufruire di poteri esclusivi all'interno della piattaforma di Steem.
 
-Convertire da STEEM a SP è riferito come "potenziare" mentre trasferire SP a STEEM è riferito come "depotenziare". Per esempio, uno può depotenziare i loro STEEM durante 2 anni, però uno può potenziare i loro STEEM istantaneamente.
+Il trasferimento dello STEEM a SP fa riferimento all'azione di "powering up" (potenziamento) mentre, il trasferimento da SP a STEEM fa riferimento all'azione di "powering down" (depotenziamento). Per esempio, uno può depotenziare i suoi STEEM lungo un periodo di due anni, tuttavia, può anche potenziare i suoi STEEM istantaneamente. 
 
 ## Steem Dollars (SMD)
 
