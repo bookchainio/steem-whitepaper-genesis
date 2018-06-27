@@ -90,9 +90,9 @@ Steem是Steem区块链上账户的基础单位。 所有其他代币都是从STE
 
 由于Steem想要鼓励长期增长，Steem每创建 1 个STEEM，它就会向Steem Power (SP) 的持有者分配 9 个STEEM，通过贡献激励机制实现资金增长。 久而久之，这就会导致整体STEEM POWER对应的STEEM价值和STEEM总量的比例是9:1。 (非常有可能的一种情况就是，由于新发行的STEEM的持续增长，实际比例会比 9:1要高。) 这同时也意味着长期持有者几乎会完全受到保护，而不受到资金增长而导致的稀释效应的影响。
 
-SP只能在两年的时间里通过104次固定等额转换回STEEM。 '1 SP'可以被理解为STEEM池中的一个股份。 网络会在每一个块中自动增加STEEM到池中。 在任何时候用户可以按照池中STEEM和SP总量的比例，把STEEM转换为SP。 将STEEM转换成SP并不会稀释SP持有人的股份。 类似的，每次SP转回STEEM的时候都按照当前的比例进行。 个人得到的保证就是，在将来会有比它们把STEEM转换为SP时更多的STEEM。
+SP只能在两年的时间里均分为104周，每周固定数额的方式转换回STEEM。 '1 SP'可以被理解为STEEM池中的一个股份。 网络会在每一个块中自动增加STEEM到池中。 在任何时候用户可以按照池中STEEM和SP总量的比例，把STEEM转换为SP。 将STEEM转换成SP并不会稀释SP持有人的股份。 类似的，每次SP转回STEEM的时候都按照当前的比例进行。 个人得到的保证就是，在将来会有比他们初期把STEEM转换为SP时更多的STEEM。
 
-SP余额不能进行转让，也不可进行分割，这包括通过自动分批转换请求的除外。这意味着SP不容易在加密货币交易所进行交易。
+除非通过自动分批转换请求，SP余额不能进行转让，也不可进行分割。这意味着SP不容易在加密货币交易所进行交易。
 
 SP是对内容投票或者反对的先决条件。这意味着在Steem平台上，SP是一种能够赋予持有者专有权力的访问令牌。
 
@@ -102,7 +102,7 @@ SP是对内容投票或者反对的先决条件。这意味着在Steem平台上�
 
 稳定性是全球经济成功的一个重要标志。 没有稳定性，世界各地的人们都不可能在从事商业活动和储蓄时享有低的认知成本。 由于稳定性是成功经济的重要特征，Steem Dollars的设计宗旨就在于将稳定性带给加密货币世界以及使用Steem网络的每一个人。
 
-Steem Dollars使用和可兑换货币类似的机制创建，这种机制通常被用于给初创公司提供资金。 在初创公司的圈子里，可兑换货币是一种短期的债券工具，在后续的融资环节中可以按比例转换为公司的所有权。 一个基于区块链的代币可以被看作是社区的所有权而可兑换货币则可以被看作以其他物品或货币标定的债务。 可兑换货币的条款允许持有者可以在很小的通知时限内以公平市场价格转换为基础代币。 创建可转换的货币使得区块链网络在为代币持有者获取利益最大化的同时得以成长。
+Steem Dollars使用和可兑换货币类似的机制创建，这种机制通常被用于给初创公司提供资金。 在初创公司的圈子里，可兑换货币是一种短期的债券工具，在后续的融资环节中可以按比例转换为公司的所有权。 一个基于区块链的代币可以被看作是社区的所有权，而可兑换货币则可以被看作以其他物品或货币标定的债务。 可兑换货币的条款允许持有者可以在很短的通知时限内以公平市场价格转换为基础代币。 创建可转换的货币使得区块链网络在为代币持有者获取利益最大化的同时得以成长。
 
 Steem Dollars are referred to with the symbol SMD, an acronym for Steem Dollars. Creating SMD requires a combination of a reliable price feed, rules to prevent abuse, and liquidity. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
 
