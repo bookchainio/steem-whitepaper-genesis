@@ -112,13 +112,13 @@ SP持有者通过投票选出喂价的个体，也就是见证人，发布喂价
 
 对于给定的一组受信任的当选喂价创造者，实际的转换价格可以通过喂价的中间值衍生出来。 通过这种方式，如果任何的喂价提供者产生异常，他们就会对中间值有着最小的影响，同时还会影响他们的声誉。
 
-即使所有的喂价提供者都是诚实的，仍旧存在这种可能，就是大多数的喂价提供者会被无法控制的时间所影响。 Steem网络被设计为可以容忍短期内喂价中间值的错误，在此期间社区会积极的解决问题。 One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+即使所有的喂价提供者都是诚实的，仍旧存在这种可能，就是大多数的喂价提供者会被无法控制的时间所影响。 Steem网络被设计为可以容忍短期内喂价中间值的错误，在此期间社区会积极的解决问题。 一个可能需要一些时间来修正的例子就是，短期的市场操纵。 进行长时间的市场操纵是很难并且非常昂贵的。 另外一个例子就是中心化的交易所出错，或者交易所发布的数据损坏。
 
-Steem factors out short-term price fluctuations by using the median price over a period of one week. The median published feed is sampled every hour on the hour.
+Steem使用一周内价格的中间值来抵消价格波动。发表的喂价中间值每小时取样一次。
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+只要喂价的损坏持续时间不超过取中间值区间的一半，就会对转换价格的影响降到最低。 在喂价被破坏时，网络的参与者就有机会在错误喂价对实际转换价格影响前，通过投票撤销错误喂价的提供者。 或许更重要的是，在喂价开始影响转换价格之前，它给予喂价提供者一个机会去检测并修正喂价。
 
-With a one week window, community members have three and a half days to respond to any issues that come up.
+在一周之内，社区成员有三天半的时间来应对发生的任何问题。
 
 ### 缓解计时攻击
 
