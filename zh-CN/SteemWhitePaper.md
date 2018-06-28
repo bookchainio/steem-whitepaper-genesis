@@ -120,7 +120,7 @@ As long as the price feed corruption lasts for less than half the moving median 
 
 With a one week window, community members have three and a half days to respond to any issues that come up.
 
-### Mitigating Timing Attacks
+### 缓解计时攻击
 
 Market participants have access to information faster than the blockchain's one week moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
 
