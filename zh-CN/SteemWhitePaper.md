@@ -153,7 +153,7 @@ Steem有一个构建于区块链上的SMD和STEEM上的市场。 用户可以通
 
 如果一个代币可被看作是整个代币供应中的所有权的话，则可转换代币的美元可被视为债务。 一旦债务对所有权比例过高，则整个货币会变得不稳定。 债务转换可以大幅提升代币供应，反过来一旦出售则会在市场上压低价格。 随后的转换要求发行更多的代币。 如果不加控制，系统会崩溃并留下毫无价值的所有权和如山的债务。 债务和所有权的比例过高会导致投资者不愿投资。
 
-For every SMD Steem creates, $19.00 of STEEM is also created and converted to SP. This means that the highest possible debt-to-ownership in a stable market is 1:19 or about 5%. If Steem falls in value by 50% then the ratio could increase to 10%. An 88% fall in value of STEEM could cause the debt-to-ownership ratio to reach 40%. Assuming the value of STEEM eventually stabilizes, the debt-to-ownership ratio will naturally move back toward 5%.
+Steem每生成一个SMD，会同时生成价值$19.00的STEEM并被转换为SP。 这意味着在一个稳定的市场中，债务和所有权的最高比例为1:19，或者大约5%。 一旦Steem的价值下降了50%，则这个比例会上升到10%。 一旦STEEM的价值下降了88%，则债务和所有权的比率会达到40%。 假定最终的STEEM价值会稳定下来，则债务和所有权的比例会自然回落到5%。
 
 The idea behind having a conservative 5% debt to ownership ratio is that even if all debt were converted and sold there should be ample buyers and the effective dilution of the token holders remains relatively small.
 
