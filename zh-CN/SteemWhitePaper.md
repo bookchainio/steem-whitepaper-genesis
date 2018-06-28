@@ -147,11 +147,11 @@ Steem有一个构建于区块链上的SMD和STEEM上的市场。 用户可以通
       提现点数 = 净报价量 x 净询价量
     
 
-每小时具备最大提现点数的用户会收到1200 STEEM，同时他的提现点数被清零。 在一周内不能赚取任何提现点数的账户也会被清零。 这意味着无论你提供大量的提现或者长期提供小量提现，你都会获得一定比例的奖励金额。 If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
+每小时具备最大提现点数的用户会收到1200 STEEM，同时他的提现点数被清零。 在一周内不能赚取任何提现点数的账户也会被清零。 这意味着无论你提供大量的提现或者长期提供小量提现，你都会获得一定比例的奖励金额。 如果净报价量或净询价量两者之一为负，则提现点数被视为0。
 
-### Sustainable Debt to Ownership Ratios
+### 可持续债务与所有权比率
 
-If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+如果一个代币可被看作是整个代币供应中的所有权的话，则可转换代币的美元可被视为债务。 一旦债务对所有权比例过高，则整个货币会变得不稳定。 债务转换可以大幅提升代币供应，反过来一旦出售则会在市场上压低价格。 随后的转换要求发行更多的代币。 如果不加控制，系统会崩溃并留下毫无价值的所有权和如山的债务。 债务和所有权的比例过高会导致投资者不愿投资。
 
 For every SMD Steem creates, $19.00 of STEEM is also created and converted to SP. This means that the highest possible debt-to-ownership in a stable market is 1:19 or about 5%. If Steem falls in value by 50% then the ratio could increase to 10%. An 88% fall in value of STEEM could cause the debt-to-ownership ratio to reach 40%. Assuming the value of STEEM eventually stabilizes, the debt-to-ownership ratio will naturally move back toward 5%.
 
