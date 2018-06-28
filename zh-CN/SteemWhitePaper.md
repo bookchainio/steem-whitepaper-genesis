@@ -138,7 +138,7 @@ SMD可以在指定的时间内按照公平的价格被转换为STEEM的等值美
 
 提现供应商购买和出售SMD和STEEM。 他们承担了主要的短期价格风险和长期喂价风险，给其余市场参与者提供一个高质量，高流动性的市场以从中交易。
 
-Steem has an on-blockchain market between SMD and STEEM. Users can earn rewards by providing liquidity to both sides of this market. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
+Steem有一个构建于区块链上的SMD和STEEM上的市场。 用户可以通过向市场双方提供提现来获取回报。 区块链使用一个简单的算法来对用户的流动性资金供应和消费进行评级。
 
 A user is considered a liquidity provider if they leave an open order on the books for at least 1 minute and the order is eventually filled. If the order is canceled before being filled then the user is not credited with providing liquidity.
 
