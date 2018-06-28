@@ -104,11 +104,11 @@ SP是对内容投票或者反对的先决条件。这意味着在Steem平台上�
 
 Steem Dollars使用和可兑换货币类似的机制创建，这种机制通常被用于给初创公司提供资金。 在初创公司的圈子里，可兑换货币是一种短期的债券工具，在后续的融资环节中可以按比例转换为公司的所有权。 一个基于区块链的代币可以被看作是社区的所有权，而可兑换货币则可以被看作以其他物品或货币标定的债务。 可兑换货币的条款允许持有者可以在很短的通知时限内以公平市场价格转换为基础代币。 创建可转换的货币使得区块链网络在为代币持有者获取利益最大化的同时得以成长。
 
-Steem Dollars are referred to with the symbol SMD, an acronym for Steem Dollars. Creating SMD requires a combination of a reliable price feed, rules to prevent abuse, and liquidity. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+人们通常用Steem Dollars的缩写符号 SMD 来引用Steem Dollars。 创建SMD需要可靠的喂价，防止舞弊的规则，和提现机制。 提供可靠的喂价需要三个因素：最小化错误喂价的影响、最大化产生错误喂价的成本以及最小化时限的重要性。
 
-### Minimizing Fraudulent Feeds
+### 最小化舞弊性喂价
 
-SP holders elect individuals to publish price feeds. These elected individuals are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+SP持有者通过投票选出喂价的个体，也就是见证人，发布喂价。 可以这样认为，那些高质量喂价的既得利益者信任这些被选出的见证人。 By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
