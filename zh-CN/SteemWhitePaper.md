@@ -122,11 +122,11 @@ With a one week window, community members have three and a half days to respond 
 
 ### 缓解计时攻击
 
-Market participants have access to information faster than the blockchain's one week moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+市场参与者获取信息的速度要快于区块链中一周内的转换价格的中值。 这个信息可以被交易者所用，以牺牲社区利益为代价来获利。 如果STEEM突然涨价，交易者可以在极低风险下请求把他们的SMD按照旧的较低价格转换为STEEM，然后再以新的较高的价格卖出STEEM。
 
-Steem levels the playing field by requiring all conversion requests to be delayed for one week. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steem通过将所有转换请求延迟一周的方式来平衡这种操作。 这意味着在真正进行转换的时候，不论交易者还是区块链在信息上面都没有任何优势。
 
-### Minimizing Abuse of Conversions
+### 最小化转换时的舞弊
 
 If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SMD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SMD to STEEM and not the other way around.
 
