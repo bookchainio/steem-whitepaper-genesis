@@ -134,9 +134,9 @@ Steem通过将所有转换请求延迟一周的方式来平衡这种操作。 �
 
 ### 提现
 
-SMD可以在指定的时间内按照公平的价格被转换为STEEM的等值美元，但这并不意味着它可以被看作是可靠的美元替代品。 这些资产需要市场的流动性，在STEEM和SMD之间进行自由转换。 区块链被迫采取措施以防止舞弊造成的可兑换代币的价格低估。 为了弥补这种质量上的损失，区块链可以为货币 流动性提供者 提供固定的成本奖励。 Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
+SMD可以在指定的时间内按照公平的价格被转换为STEEM的等值美元，但这并不意味着它可以被看作是可靠的美元替代品。 这些资产需要市场的流动性，在STEEM和SMD之间进行自由转换。 区块链被迫采取措施以防止舞弊造成的可兑换代币的价格低估。 为了弥补这种质量上的损失，区块链可以为货币 流动性提供者 提供固定的成本奖励。 虽然市场操纵和舞弊造成的损失可能是没有上限的，鼓励提现的成本是固定的。
 
-A liquidity provider buys and sells SMD and STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
+提现供应商购买和出售SMD和STEEM。 他们承担了主要的短期价格风险和长期喂价风险，给其余市场参与者提供一个高质量，高流动性的市场以从中交易。
 
 Steem has an on-blockchain market between SMD and STEEM. Users can earn rewards by providing liquidity to both sides of this market. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
 
