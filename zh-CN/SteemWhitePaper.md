@@ -134,7 +134,7 @@ Steem通过将所有转换请求延迟一周的方式来平衡这种操作。 �
 
 ### 体现
 
-Just because SMD can be converted to a dollars worth of STEEM at a fair price in a reasonable amount of time doesn't mean it will be viewed as a reliable dollar replacement. These assets require liquidity in a market that enables instantaneous conversion between STEEM and SMD. The measures a blockchain is forced to take to prevent abuse end up lowering the quality of the convertible dollars. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
+SMD可以在指定的时间内按照公平的价格被转换为STEEM的等值美元，但这并不意味着它可以被看作是可靠的美元替代品。 这些资产需要市场的流动性，在STEEM和SMD之间进行自由转换。 区块链被迫采取措施以防止舞弊造成的可兑换代币的价格低估。 To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
 
 A liquidity provider buys and sells SMD and STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
 
