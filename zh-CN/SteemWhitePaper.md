@@ -108,11 +108,11 @@ Steem Dollars使用和可兑换货币类似的机制创建，这种机制通常�
 
 ### 最小化舞弊性喂价
 
-SP持有者通过投票选出喂价的个体，也就是见证人，发布喂价。 可以这样认为，那些高质量喂价的既得利益者信任这些被选出的见证人。 By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+SP持有者通过投票选出喂价的个体，也就是见证人，发布喂价。 可以这样认为，那些高质量喂价的既得利益者信任这些被选出的见证人。 通过支付见证人，Steem创建了市场竞争环境，让见证人竞争喂价的资格。 喂价的发布者获得的报酬越多，他们发布虚假信息的代价就越大。
 
-Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+对于给定的一组受信任的当选喂价创造者，实际的转换价格可以通过喂价的中间值衍生出来。 通过这种方式，如果任何的喂价提供者产生异常，他们就会对中间值有着最小的影响，同时还会影响他们的声誉。
 
-Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+即使所有的喂价提供者都是诚实的，仍旧存在这种可能，就是大多数的喂价提供者会被无法控制的时间所影响。 Steem网络被设计为可以容忍短期内喂价中间值的错误，在此期间社区会积极的解决问题。 One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
 
 Steem factors out short-term price fluctuations by using the median price over a period of one week. The median published feed is sampled every hour on the hour.
 
