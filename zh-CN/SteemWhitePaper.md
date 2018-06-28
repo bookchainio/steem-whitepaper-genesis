@@ -128,11 +128,11 @@ Steem通过将所有转换请求延迟一周的方式来平衡这种操作。 �
 
 ### 最小化转换时的舞弊
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SMD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SMD to STEEM and not the other way around.
+如果人们可以在两个方向进行自由转换，交易者可以充分利用区块链的转换率，在不改变价格的情况下进行大额交易。 交易者在看到价格大幅上涨的时候可以以高价（在风险最高的时候）换成SMD并在价格回调时换回来。 Steem协议通过只允许人们从SMD转换为STEEM，而不是反向转换，来保护社区免受这种舞弊的影响。
 
-The blockchain decides how and when to create SMD and who should get it. This keeps the rate of SMD creation stable and removes most avenues of abuse.
+区块链决定如何以及何时来创建SMD以及谁会得到它。这会保持创建SMD的稳定速度并消除大多数的舞弊。
 
-### Liquidity
+### 体现
 
 Just because SMD can be converted to a dollars worth of STEEM at a fair price in a reasonable amount of time doesn't mean it will be viewed as a reliable dollar replacement. These assets require liquidity in a market that enables instantaneous conversion between STEEM and SMD. The measures a blockchain is forced to take to prevent abuse end up lowering the quality of the convertible dollars. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
 
