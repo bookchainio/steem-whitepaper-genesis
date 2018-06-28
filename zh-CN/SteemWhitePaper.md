@@ -140,14 +140,14 @@ SMD可以在指定的时间内按照公平的价格被转换为STEEM的等值美
 
 Steem有一个构建于区块链上的SMD和STEEM上的市场。 用户可以通过向市场双方提供提现来获取回报。 区块链使用一个简单的算法来对用户的流动性资金供应和消费进行评级。
 
-一个用户一旦挂单至少一分钟并被填单，则被看作是提现的供应者。 If the order is canceled before being filled then the user is not credited with providing liquidity.
+一个用户一旦挂单至少一分钟并被填单，则被看作是提现的供应者。 如果在填单之前用户取消订单，则用户不会被记录为提供流动资金。
 
-Users must provide liquidity on both sides of the book to qualify for rewards and they must provide liquidity consistently over time. The scoring algorithm is:
+用户必须在市场双方持续的提供体现以获得奖励。评分算法如下：
 
-      LiquidityPoints = NetBidVolume x NetAskVolume
+      提现点数 = 净报价量 x 净询价量
     
 
-Every hour the account with the most LiquidityPoints receives 1200 STEEM and then has its LiquidityPoints reset to 0. An account that goes a week without earning any LiquidityPoints also has its points reset to 0. This means that whether you provide a large amount of liquidity or a small amount over a long period of time everyone gets a proportional amount of the rewards. If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
+每小时具备最大提现点数的用户会收到1200 STEEM，同时他的提现点数被清零。 在一周内不能赚取任何提现点数的账户也会被清零。 这意味着无论你提供大量的提现或者长期提供小量提现，你都会获得一定比例的奖励金额。 If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
 
 ### Sustainable Debt to Ownership Ratios
 
