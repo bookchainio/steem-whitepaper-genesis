@@ -140,7 +140,7 @@ SMD可以在指定的时间内按照公平的价格被转换为STEEM的等值美
 
 Steem有一个构建于区块链上的SMD和STEEM上的市场。 用户可以通过向市场双方提供提现来获取回报。 区块链使用一个简单的算法来对用户的流动性资金供应和消费进行评级。
 
-A user is considered a liquidity provider if they leave an open order on the books for at least 1 minute and the order is eventually filled. If the order is canceled before being filled then the user is not credited with providing liquidity.
+一个用户一旦挂单至少一分钟并被填单，则被看作是提现的供应者。 If the order is canceled before being filled then the user is not credited with providing liquidity.
 
 Users must provide liquidity on both sides of the book to qualify for rewards and they must provide liquidity consistently over time. The scoring algorithm is:
 
