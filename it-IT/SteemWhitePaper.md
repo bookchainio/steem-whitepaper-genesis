@@ -112,13 +112,13 @@ I detentori di SP eleggono degli individui, per pubblicare i feed del prezzo. Qu
 
 La formazione di un insieme di affidabili ed eletti produttori di feed, porta il prezzo attuale utilizzato per le conversioni a dipendere dalla media dei feed. In questo modo, se qualche minoranza di produttori di feed genera valori anomali, ha un impatto minore nella media effettiva mentre continua ad avere la capacità di influenzare la propria reputazione.
 
-Anche se tutti i produttori di feed sono onesti, è possibile che la maggior parte dei produttori possa essere colpita da eventi al di fuori del loro controllo. Il network di Steem è progettato per tollerare anomalie della media dei prezzi del feed a breve termine, mentre la comunità lavora attivamente per risolvere il problema. Un esempio di un problema che potrebbe richiedere più tempo per risolvere è la manipolazione del mercato a breve termine. La manipolazione del mercato è difficile e costosa da mantenere sul lungo andare. Un altro esempio sarebbe il fallimento di un sito di scambio centralizzato o le anomalie di dati pubblicati dal sito di scambio.
+Anche se tutti i produttori di feed sono onesti, è possibile che la maggioranza dei produttori di feed venga colpita da eventi fuori dal loro controllo. Il network di Steem è progettato per tollerare anomalie della media dei prezzi del feed a breve termine, mentre la comunità lavora attivamente per risolvere il problema. Un esempio di un problema che potrebbe richiedere più tempo per risolvere è la manipolazione del mercato a breve termine. La manipolazione del mercato è difficile e costosa da mantenere sul lungo andare. Un altro esempio sarebbe il fallimento di un sito di scambio centralizzato o le anomalie di dati pubblicati dal sito di scambio.
 
-Steem calcola le fluttuazioni dei prezzi a breve termine utilizzando la media del prezzo lungo un periodo di una settimana. La media del feed pubblicata viene controllata ad ogni ora.
+Steem calcola le fluttuazioni breve termine dei prezzi utilizzando la media del prezzo lungo un periodo di una settimana. La media del feed pubblicata viene controllata ad ogni ora.
 
-Fino a quando l'alterazione del prezzo del feed dura meno di metà della finestra temporale media mobile, avrà un impatto minimo sul prezzo di conversione. Nell'evento nella quale il feed venga danneggiato, gli utenti avranno una opportunità per votare contro produttori di feed corrotti prima che il feed corrotto possa danneggiare il prezzo di conversione. Forse ancora più importante, da la possibilità ai produttori di fed di rilevare e correggere problemi prima che i loro feed inizino ad influenzare il prezzo.
+Fino a quando l'alterazione del prezzo del feed dura meno di metà della finestra temporale media mobile, avrà un impatto minimo sul prezzo di conversione. Nell'eventualità che il feed venga alterato, i partecipanti alla rete avranno l'opportunità di votare a sfavore dei produttori di feed alterati prima che il feed alterato possa avere un impatto effettivo sul prezzo di conversione. Forse la cosa più importante, è dare ai produttori di feed una opportunità di rilevare e correggere i problemi prima che i loro feed inizino ad avere un impatto nel prezzo.
 
-Con una finestra di una settimana, i membri della comunità hanno tre giorni e mezzo per rispondere a qualsiasi problema che sorge.
+Con un lasso di tempo di una settimana, i membri della comunità hanno tre giorni e mezzo per reagire a qualsiasi problema che si presenti.
 
 ### Attenuare gli attacchi temporali
 
