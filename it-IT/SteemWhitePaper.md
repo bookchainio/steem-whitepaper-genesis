@@ -122,19 +122,19 @@ Con una finestra di una settimana, i membri della comunità hanno tre giorni e m
 
 ### Attenuare gli attacchi temporali
 
-Gli operatori di mercato hanno accesso alle informazioni più velocemente di quanto possa reagire il prezzo di conversione medio di una settimana della blockchain. Queste informazioni potrebbero essere usate per avvantaggiare i commercianti a discapito della comunità. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Gli operatori di mercato hanno accesso alle informazioni più velocemente di quanto possa reagire il prezzo di conversione medio di una settimana della blockchain. Queste informazioni potrebbero essere usate per avvantaggiare i commercianti a discapito della comunità. Se c'è un improvviso aumento del valore di STEEM, i commercianti richiederebbero la conversione dei propri SMD al vecchio prezzo, il migliore, e poi rivenderebbero gli STEEM ricevendo un nuovo prezzo più alto con un rischio minimo.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for one week. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steem sradica il problema richiedendo tutte le richieste di conversione di essere ritardate di una settimana. Questo vuol dire che ne i commercianti ne la blockchain hanno alcun vantaggio di informazione riguardante il prezzo al tempo di conversione.
 
-### Minimizing Abuse of Conversions
+### Minimizzare l'abuso di conversione
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SMD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SMD to STEEM and not the other way around.
+Se le persone potessero convertire liberamente in ambo le direzioni i commercianti potrebbero trarre vantaggio dei tassi di conversione della blockchain negoziando grossi volumi senza cambiare il prezzo. I commercianti che vedono un enorme incremento nel prezzo convertirebbero a SMD al prezzo più alto (quando è più rischioso) e poi li convertirebbero di nuovo dopo la correzione. Questo protocollo di Steem protegge la comunità da questo tipo di abusi dando la possibilità alle persone di convertire solo da SMD a STEEM e non vice versa.
 
-The blockchain decides how and when to create SMD and who should get it. This keeps the rate of SMD creation stable and removes most avenues of abuse.
+La blockchain decide come e quando creare SMD e chi gli deve ottenere. Questo mantiene la proporzione di creazione di SMD stabile e rimuove le più grandi vie di abuso.
 
-### Liquidity
+### Liquidità
 
-Just because SMD can be converted to a dollars worth of STEEM at a fair price in a reasonable amount of time doesn't mean it will be viewed as a reliable dollar replacement. These assets require liquidity in a market that enables instantaneous conversion between STEEM and SMD. The measures a blockchain is forced to take to prevent abuse end up lowering the quality of the convertible dollars. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
+Solo perché SMD può essere convertito ad un valore di dollaro di STEEM ad un prezzo ragionevole in un tempo altrettanto ragionevole non vuol dire che sarà visto come un sostituto del dollaro affidabile. Queste attività richiedono liquidità in un mercato che fornisce conversioni immediate tra STEEM e SMD. The measures a blockchain is forced to take to prevent abuse end up lowering the quality of the convertible dollars. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
 
 A liquidity provider buys and sells SMD and STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
 
