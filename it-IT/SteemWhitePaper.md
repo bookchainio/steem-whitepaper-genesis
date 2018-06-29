@@ -110,7 +110,7 @@ Gli Steem Dollars vengono indicati con il simbolo SMD, un acronimo per Steem Dol
 
 I detentori di SP eleggono degli individui, per pubblicare i feed del prezzo. Questi individui che vengono eletti sono presumibilmente considerati affidabili da coloro che hanno gli interessi vincolati (tramite lo SP) in qualità del feed. Pagando coloro che vengono eletti, lo Steem crea competizione di mercato per ottenere il diritto di produrre i feed. Più i produttori di feed vengono pagati, più hanno da perdere pubblicando false informazioni.
 
-Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+Dato un insieme di produttori di feed eletti ed affidabili, porta il prezzo attuale usato per le conversioni a dipendere dalla media dei feed. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
 Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
 
