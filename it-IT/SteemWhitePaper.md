@@ -118,11 +118,11 @@ Steem calcola le fluttuazioni dei prezzi a breve termine utilizzando la media de
 
 Fino a quando l'alterazione del prezzo del feed dura meno di metà della finestra temporale media mobile, avrà un impatto minimo sul prezzo di conversione. Nell'evento nella quale il feed venga danneggiato, gli utenti avranno una opportunità per votare contro produttori di feed corrotti prima che il feed corrotto possa danneggiare il prezzo di conversione. Forse ancora più importante, da la possibilità ai produttori di fed di rilevare e correggere problemi prima che i loro feed inizino ad influenzare il prezzo.
 
-With a one week window, community members have three and a half days to respond to any issues that come up.
+Con una finestra di una settimana, i membri della comunità hanno tre giorni e mezzo per rispondere a qualsiasi problema che sorge.
 
-### Mitigating Timing Attacks
+### Attenuare gli attacchi temporali
 
-Market participants have access to information faster than the blockchain's one week moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Gli operatori di mercato hanno accesso alle informazioni più velocemente di quanto possa reagire il prezzo di conversione medio di una settimana della blockchain. Queste informazioni potrebbero essere usate per avvantaggiare i commercianti a discapito della comunità. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
 
 Steem levels the playing field by requiring all conversion requests to be delayed for one week. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
