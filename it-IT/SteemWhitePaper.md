@@ -116,7 +116,7 @@ Anche se tutti i produttori di feed sono onesti, è possibile che la maggioranza
 
 Steem calcola le fluttuazioni breve termine dei prezzi utilizzando la media del prezzo lungo un periodo di una settimana. La media del feed pubblicata viene controllata ad ogni ora.
 
-Fino a quando l'alterazione del prezzo del feed dura meno di metà della finestra temporale media mobile, avrà un impatto minimo sul prezzo di conversione. Nell'eventualità che il feed venga alterato, i partecipanti alla rete avranno l'opportunità di votare a sfavore dei produttori di feed alterati prima che il feed alterato possa avere un impatto effettivo sul prezzo di conversione. Forse la cosa più importante, è dare ai produttori di feed una opportunità di rilevare e correggere i problemi prima che i loro feed inizino ad avere un impatto nel prezzo.
+Finché l'alterazione del feed di prezzo dura meno della finestra temporale della media mobile, avrà un impatto minimo sul prezzo di conversione. Nell'eventualità che il feed venga alterato, i partecipanti alla rete avranno l'opportunità di votare a sfavore dei produttori di feed alterati prima che il feed alterato possa avere un impatto effettivo sul prezzo di conversione. Forse la cosa più importante, è dare ai produttori di feed una opportunità di rilevare e correggere i problemi prima che i loro feed inizino ad avere un impatto nel prezzo.
 
 Con un lasso di tempo di una settimana, i membri della comunità hanno tre giorni e mezzo per reagire a qualsiasi problema che si presenti.
 
@@ -134,7 +134,7 @@ La blockchain decide come e quando creare SMD e chi dovrebbe prenderli. Questo m
 
 ### Liquidità
 
-Solo perché SMD può essere convertito in un valore di STEEM in dollari, ad un prezzo equo in un ammontare di tempo ragionevole, non vuol dire che sarà visto come un sostituto affidabile del dollaro. Questi beni necessitano di liquidità in un mercato che permette conversioni istantanee tra STEEM e SMD. Le misure che la blockchain è obbligata a prendere per prevenire gli abusi, finiscono con l'abbassamento della qualità dei dollari convertibili. Per compensare questa perdita di qualità la blockchain può offrire un premio fisso per fornitori di liquidità. Mentre le perdite potenziali dalla manipolazione ed abuso sono illimitate, il costo di incoraggiamento della liquidità può essere fissato.
+Solo perché SMD può essere convertito in un valore di STEEM in dollari, ad un prezzo equo in un ammontare di tempo ragionevole, non vuol dire che sarà visto come un sostituto affidabile del dollaro. Questi beni necessitano di liquidità in un mercato che permette conversioni istantanee tra STEEM e SMD. Le misure che la blockchain è obbligata a prendere per prevenire gli abusi, finiscono con l'abbassamento della qualità dei dollari convertibili. Per compensare questa perdita di qualità la blockchain può offrire un premio fisso per i fornitori di liquidità. Mentre le potenziali perdite derivanti dalla manipolazione e dall'abuso, sono illimitate, il costo di incoraggiare la liquidità può essere fissato.
 
 A liquidity provider buys and sells SMD and STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
 
