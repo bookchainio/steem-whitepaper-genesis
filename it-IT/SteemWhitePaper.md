@@ -122,9 +122,9 @@ Con un lasso di tempo di una settimana, i membri della comunità hanno tre giorn
 
 ### Attenuare gli attacchi temporali
 
-Gli operatori di mercato hanno accesso alle informazioni più velocemente di quanto possa reagire il prezzo di conversione medio di una settimana della blockchain. Queste informazioni potrebbero essere usate per avvantaggiare i traders a discapito della comunità. Se c'è un improvviso aumento del valore di STEEM, i commercianti richiederebbero la conversione dei propri SMD al vecchio prezzo, il migliore, e poi rivenderebbero gli STEEM ricevendo un nuovo prezzo più alto con un rischio minimo.
+Gli operatori di mercato hanno accesso alle informazioni più velocemente di quanto possa reagire il prezzo di conversione medio di una settimana della blockchain. Queste informazioni potrebbero essere usate per avvantaggiare i traders a discapito della comunità. Se c'è un improvviso aumento del valore di STEEM, i traders richiederebbero la conversione dei propri SMD al vecchio prezzo, il migliore, e poi rivenderebbero gli STEEM ricevendo un nuovo prezzo più alto con un rischio minimo.
 
-Steem sradica il problema richiedendo tutte le richieste di conversione di essere ritardate di una settimana. Questo vuol dire che ne i commercianti ne la blockchain hanno alcun vantaggio di informazione riguardante il prezzo al tempo di conversione.
+Steem sradica il problema richiedendo a tutte le richieste di conversione di essere ritardate di una settimana. Questo vuol dire che ne i traders ne la blockchain hanno alcun vantaggio di informazione riguardante il prezzo al tempo di conversione.
 
 ### Minimizzare l'abuso di conversione
 
