@@ -126,7 +126,7 @@ Gli operatori di mercato hanno accesso alle informazioni più velocemente di qua
 
 Steem raggira il problema domandando che tutte le richieste di conversione vengano ritardate per una settimana. Questo vuol dire che ne i traders ne la blockchain hanno alcun vantaggio di informazione riguardante il prezzo al tempo di conversione.
 
-### Minimizzare l'abuso di conversione
+### Minimizzare l'abuso delle conversioni.
 
 Se le persone potessero convertire liberamente in ambo le direzioni, allora i i tarders potrebbero trarre vantaggio dei tassi di conversione della blockchain negoziando grossi volumi senza cambiare il prezzo. I traders che vedono un enorme incremento nel prezzo, convertirebbero a SMD al prezzo più alto (quando è più rischioso) e poi li convertirebbero di nuovo dopo la correzione dello stesso. Il protocollo di Steem protegge la comunità da questo tipo di abuso permettendo alle persone solamente di convertire da SMD a STEEM e non viceversa. 
 
