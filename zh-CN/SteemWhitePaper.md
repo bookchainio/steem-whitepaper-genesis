@@ -165,9 +165,9 @@ SMD向其持有人支付利息。 利率由发布喂价的人来设定，因此�
 
 当社区成员愿意持有SMD时，STEEM和SP持有者会获得杠杆作用。 这个杠杆放大了社区成长所带来的收益，同时反过来也促进社区的成长。 一旦价格下跌，STEEM持有者会因稀释作用而遭受损失。 一些加密货币项目展示了一个规律，增加愿意信任网络并投资的用户群所为网络增加的价值，会高于在市场低迷期时的稀释效应。
 
-### Setting Price Feeds
+### 设置喂价
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+精明的读者都会想到，受限供应资产的利息可能会对标定的资产价值产生波动，这取决于针对同一资产，是否有赚取利息的其他机会。 由于在某一绑定美元的项目上出现了高利率，很多人会对有限供应的Steem Dollars竞价而导致其价格上升，只到它们的价值不再是1美元。 In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
 1. A stable exchange rate
 2. Free capital movement
