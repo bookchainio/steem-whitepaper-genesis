@@ -175,7 +175,7 @@ SMD向其持有人支付利息。 利率由发布喂价的人来设定，因此�
 
 如果Steem喂价者的目标是创建一个独立的货币政策，允许他们在创造和销毁Steem Dollars的同时可以完全控制汇率，他们将会遇到问题。 三元悖论原理中阐述了Steem Dollars要么就要限制资本流动，导致对美元汇率不稳定，要么对利率的控制就会非常有限。
 
-Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇率保持在一比一。 在任何时候一旦SMD持续以超过1.00美元的汇率交易，必须停止支付利息。 In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇率保持在一比一。 在任何时候一旦SMD持续以超过1.00美元的汇率交易，必须停止支付利息。 如果在债务利息率为 0% 但仍需溢价的一个市场中，可以肯定的说，市场希望能够扩大信贷，其额度超过社区愿意承担的债务。 在这种情况下，SMD将会被估值超过 1.00 美元，在不收取负利率的情况下，社区难有作为。
 
 If the debt-to-ownership ratio is under 10% and SMD is trading for less than $1.00 then the interest rate should be increased. This will encourage more people to hold their SMD and support the price.
 
