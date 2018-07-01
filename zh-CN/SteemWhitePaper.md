@@ -189,9 +189,9 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 
 对利率政策的调整，和/或STEEM/SBD转换汇率的升/降，都应该是对长期平均偏差的缓慢且受控的回应，而不是试图对短期市场条件的反应。 区块链由于那些资金流动性的提供者吸收的短期的市场需求而支付他们。
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SMD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.99 and $1.01 for SMD under most market conditions.
+我们相信这些规则会给市场参与者信心，让他们相信持有以1.00美金的价格购买的SMD不会赔钱。 我们可以充分预期，在正常市场条件下，SMD会在介于0.99美元和1.01美元之间的一个很窄区间内交易。
 
-## Subjective Contributions
+## 积极贡献
 
 Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
 
