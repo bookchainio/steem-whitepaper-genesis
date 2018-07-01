@@ -167,13 +167,13 @@ SMD向其持有人支付利息。 利率由发布喂价的人来设定，因此�
 
 ### 设置喂价
 
-精明的读者都会想到，受限供应资产的利息可能会对标定的资产价值产生波动，这取决于针对同一资产，是否有赚取利息的其他机会。 由于在某一绑定美元的项目上出现了高利率，很多人会对有限供应的Steem Dollars竞价而导致其价格上升，只到它们的价值不再是1美元。 In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+精明的读者都会想到，受限供应资产的利息可能会对标定的资产价值产生波动，这取决于针对同一资产，是否有赚取利息的其他机会。 由于在某一绑定美元的项目上出现了高利率，很多人会对有限供应的Steem Dollars竞价而导致其价格上升，只到它们的价值不再是1美元。 在经济学中有一个原理，叫做不稳定三角[^4]，它阐述了不可能在同一时间同时满足以下三个条件：
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. 稳定的汇率
+2. 自由资本移动
+3. 独立货币政策
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+如果Steem喂价者的目标是创建一个独立的货币政策，允许他们在创造和销毁Steem Dollars的同时可以完全控制汇率，他们将会遇到问题。 The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
 The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SMD and the U.S. Dollar (USD). Any time SMD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
