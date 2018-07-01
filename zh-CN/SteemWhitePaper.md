@@ -181,11 +181,11 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 
 如果SMD以低于1美元的价格交易且债务对所有权比率超过10%，则喂价应被上调，也就是SMD对STEEM的汇率升高。 这会增加对SMD的需求，同时会降低债务对所有权的比率，使得SMD价格和美元持平。
 
-假设STEEM的价值增长速度超过Steem创建SMD的速度，债务和所有权的比率应该保持在目标利率之下，这样的利息将会惠及所有人。 If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+假设STEEM的价值增长速度超过Steem创建SMD的速度，债务和所有权的比率应该保持在目标利率之下，这样的利息将会惠及所有人。 如果网络的价值持平或者下落，则任何的利率都会使得债务和所有权的比率更差。
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+实际上，喂价者具有设定货币政策的责任，以保持和美元的稳定比率。 滥用这种权力会损害STEEM的价值，因此SP的持有者会明智的为那些能够根据以上原则调整喂价和利率的见证人投票。
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SMD.
+如果债务对所有权的比率达到危险的高度，市场参与者会选择避免兑换请求，这样喂价就会被调整，从而增加在转换SMD时支付STEEM的比率。
 
 Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SMD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions. The blockchain is paying liquidity providers for their service in absorbing short-term demands.
 
