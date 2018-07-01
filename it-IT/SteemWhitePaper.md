@@ -142,14 +142,14 @@ Steem ha un mercato blockchain tra SMD e STEEM. Gli utenti possono vincere premi
 
 Un utente è considerato un fornitore di liquidità se lascia un ordine aperto sui libri per almeno 1 minuto e l'ordine viene riempito. Se l'ordine è cancellato prima di essere riempito l'utente non è accreditato per fornire liquidità.
 
-Users must provide liquidity on both sides of the book to qualify for rewards and they must provide liquidity consistently over time. The scoring algorithm is:
+Gli utenti sono portati a fornire liquidità su ambo i lati del libro per qualificarsi per premi e devono fornire liquidità in modo consistente. L'algoritmo per i punteggi è:
 
-      LiquidityPoints = NetBidVolume x NetAskVolume
+      PuntiDiLiquidità = VolumeNetto DiOfferte x VolumeNettoDiRichiesta
     
 
-Every hour the account with the most LiquidityPoints receives 1200 STEEM and then has its LiquidityPoints reset to 0. An account that goes a week without earning any LiquidityPoints also has its points reset to 0. This means that whether you provide a large amount of liquidity or a small amount over a long period of time everyone gets a proportional amount of the rewards. If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
+Ogni ora l'utente con più PuntiDiLiquidità riceve 1200 STEEM e poi i suoi PuntiDiLiquidità sono azzerati. Un utente che per una settimana non guadagna alcun PuntoDiLiquidità ha anche esso i punti azzerati. Questo vuol dire che se fornisci una grande quantità di liquidità o una piccola quantità in un lungo periodo ognuno riceve una parte del premio proporzionalmente. Se il VolumeNetto DiOfferte o il VolumeNettoDiRichiesta sono negativi, i PuntiDiLiquidità sono considerati 0.
 
-### Sustainable Debt to Ownership Ratios
+### Dal debito sostenibile ai rapporti di proprietà
 
 If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
 
