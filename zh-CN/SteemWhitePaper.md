@@ -177,11 +177,11 @@ SMD向其持有人支付利息。 利率由发布喂价的人来设定，因此�
 
 Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇率保持在一比一。 在任何时候一旦SMD持续以超过1.00美元的汇率交易，必须停止支付利息。 如果在债务利息率为 0% 但仍需溢价的一个市场中，可以肯定的说，市场希望能够扩大信贷，其额度超过社区愿意承担的债务。 在这种情况下，SMD将会被估值超过 1.00 美元，在不收取负利率的情况下，社区难有作为。
 
-If the debt-to-ownership ratio is under 10% and SMD is trading for less than $1.00 then the interest rate should be increased. This will encourage more people to hold their SMD and support the price.
+如果债务对所有权的比率低于10%，且SMD以低于1美元的价格交易，则应增加利率。这会鼓励更多的人持有他们手中的SMD并支撑价格。
 
-If SMD trades for less than $1.00 USD and the debt-to-ownership ratio is over 10% then the feeds should be adjusted upward give more STEEM per SMD. This will increase demand for SMD while also reducing the debt-to-ownership ratio and returning SMD to parity with USD.
+如果SMD以低于1美元的价格交易且债务对所有权比率超过10%，则喂价应被上调，也就是SMD对STEEM的汇率升高。 这会增加对SMD的需求，同时会降低债务对所有权的比率，使得SMD价格和美元持平。
 
-Assuming the value of STEEM is growing faster than Steem is creating new SMD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+假设STEEM的价值增长速度超过Steem创建SMD的速度，债务和所有权的比率应该保持在目标利率之下，这样的利息将会惠及所有人。 If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
 In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
