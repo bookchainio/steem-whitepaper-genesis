@@ -193,9 +193,9 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 
 ## 积极贡献
 
-积极的工作量证明展示了另外的一种分配货币的方法，以改进完全*客观*的工作量证明系统（例如挖矿）。 实现了*积极*工作量证明的应用应该比实现*客观*工作量证明的系统范围要宽泛的多，因为前者可以围绕一个有充分定义的概念而构建一个社区。 When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+积极的工作量证明展示了另外的一种分配货币的方法，以改进完全*客观*的工作量证明系统（例如挖矿）。 实现了*积极*工作量证明的应用应该比实现*客观*工作量证明的系统范围要宽泛的多，因为前者可以围绕一个有充分定义的概念而构建一个社区。 当人们加入一个社区时，他们其实是在购入一组特定的信仰，并用投票的方式来强化社区的价值和目的。
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+实际上，评估工作的标准完全是主观的，它的定义完全在源代码之外。 一个社区可能希望奖励艺术家、诗人，或者喜剧演员。 其他社区可能会选择奖励慈善事业，或者帮助推进政治议程。
 
 The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
