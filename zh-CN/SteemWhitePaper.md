@@ -155,9 +155,9 @@ Steem有一个构建于区块链上的SMD和STEEM上的市场。 用户可以通
 
 Steem每生成一个SMD，会同时生成价值$19.00的STEEM并被转换为SP。 这意味着在一个稳定的市场中，债务和所有权的最高比例为1:19，或者大约5%。 一旦Steem的价值下降了50%，则这个比例会上升到10%。 一旦STEEM的价值下降了88%，则债务和所有权的比率会达到40%。 假定最终的STEEM价值会稳定下来，则债务和所有权的比例会自然回落到5%。
 
-The idea behind having a conservative 5% debt to ownership ratio is that even if all debt were converted and sold there should be ample buyers and the effective dilution of the token holders remains relatively small.
+保留保守的5%债务/所有权比例背后的原因是，即使所有债务都被转换并出售，仍然有足够的购买者，对代币持有者的有效稀释程度仍能保持相对较小。
 
-A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SMD and SP (as determined by the current rate / feed).
+STEEM代币价值如果出现快速波动，则会明显的影响债务/所有权比例。 The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SMD and SP (as determined by the current rate / feed).
 
 ### Interest
 
