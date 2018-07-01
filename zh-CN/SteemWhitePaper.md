@@ -197,11 +197,11 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 
 实际上，评估工作的标准完全是主观的，它的定义完全在源代码之外。 一个社区可能希望奖励艺术家、诗人，或者喜剧演员。 其他社区可能会选择奖励慈善事业，或者帮助推进政治议程。
 
-The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+每种货币能达到的价值取决于在一个特定社区内对影响力的需求，以及市场对社区规模的预期。 与以前的系统不同，积极的工作量证明使得社区能够对其认为有价值的事物进行资助，并对之前非货币化的事物货币化。
 
-### Distributing Currency
+### 分发货币
 
-There are two ways people can get involved with a crypto-currency community: they can *buy in*, or they can *work in*. In both cases users are adding value to the currency, however, the vast majority of people have more *free time* than they do *spare cash*. Imagine the goal of bootstrapping a currency in a poor community with no actual *cash* but plenty of *time*. If people can earn money by working for one another then they will bootstrap value through mutual exchange facilitated by a fair accounting/currency system.
+有两种方式可以让人们参与到加密货币社区：他们可以*购入*，或者*完成工作*。 在这两种情况下，用户为货币增加价值。然而，相比于*闲置资金*，绝大多数人拥有更多的*空余时间*。 Imagine the goal of bootstrapping a currency in a poor community with no actual *cash* but plenty of *time*. If people can earn money by working for one another then they will bootstrap value through mutual exchange facilitated by a fair accounting/currency system.
 
 Distributing a currency to as many people as possible in a manner that is generally perceived as fair is a challenging task. The tasks that can be entirely evaluated by an objective computer algorithm are limited in nature and generally speaking have limited positive external benefits. In the case of Bitcoin-style mining, it can result in the production of specialized hardware and cause people to invest time developing more efficient algorithms. It may even help find prime numbers, but none of these things provide meaningful value to society or the currency holding community at large. More importantly, economies of scale and market forces will end up excluding everyone but experts from participating in this kind of distribution. Ultimately, computation-based mining is just another way of *buying* in because it requires money to pay the electric bill or the development of hardware necessary to do the work.
 
