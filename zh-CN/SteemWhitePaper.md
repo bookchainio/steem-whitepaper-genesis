@@ -157,11 +157,11 @@ Steem每生成一个SMD，会同时生成价值$19.00的STEEM并被转换为SP�
 
 保留保守的5%债务/所有权比例背后的原因是，即使所有债务都被转换并出售，仍然有足够的购买者，对代币持有者的有效稀释程度仍能保持相对较小。
 
-STEEM代币价值如果出现快速波动，则会明显的影响债务/所有权比例。 The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SMD and SP (as determined by the current rate / feed).
+STEEM代币价值如果出现快速波动，则会明显的影响债务/所有权比例。 对于STEEM生成百分比的下限，其计算依据是包括所有未付的SMD和SP对应的STEEM价值（由当前转换率和喂价决定）。
 
-### Interest
+### 利率
 
-SMD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SMD向其持有人支付利息。 利率由发布喂价的人来设定，因此它能自动适应变化的市场行情。 所有债务都会给贷方带来风险。 对于所有持有未兑换SMD的人，他们实际上是在以现金形式向社区放贷。 They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
 STEEM and SP holders gain leverage when members of the community are willing to hold SMD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
