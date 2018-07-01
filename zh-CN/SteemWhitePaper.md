@@ -187,7 +187,7 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 
 如果债务对所有权的比率达到危险的高度，市场参与者会选择避免兑换请求，这样喂价就会被调整，从而增加在转换SMD时支付STEEM的比率。
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SMD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions. The blockchain is paying liquidity providers for their service in absorbing short-term demands.
+对利率政策的调整，和/或STEEM/SBD转换汇率的升/降，都应该是对长期平均偏差的缓慢且受控的回应，而不是试图对短期市场条件的反应。 区块链由于那些资金流动性的提供者吸收的短期的市场需求而支付他们。
 
 It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SMD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.99 and $1.01 for SMD under most market conditions.
 
