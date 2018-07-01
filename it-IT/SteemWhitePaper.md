@@ -136,11 +136,11 @@ La blockchain decide come e quando creare SMD e chi dovrebbe prenderli. Questo m
 
 Solo perché SMD può essere convertito in un valore di STEEM in dollari, ad un prezzo equo in un ammontare di tempo ragionevole, non vuol dire che sarà visto come un sostituto affidabile del dollaro. Questi beni necessitano di liquidità in un mercato che permette conversioni istantanee tra STEEM e SMD. Le misure che la blockchain è obbligata a prendere per prevenire gli abusi, finiscono con l'abbassamento della qualità dei dollari convertibili. Per compensare questa perdita di qualità la blockchain può offrire un premio fisso per i fornitori di liquidità. Mentre le potenziali perdite derivanti dalla manipolazione e dall'abuso, sono illimitate, il costo di incoraggiare la liquidità può essere fissato.
 
-A liquidity provider buys and sells SMD and STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
+Un fornitore di liquidità compra e vende SMD e STEEM. Prendono la maggior parte del rischio del prezzo a breve termine e i rischi di feed a lungo termine, dando al mercato restante un mercato di alta qualità ed estremamente liquido dove fare trading.
 
-Steem has an on-blockchain market between SMD and STEEM. Users can earn rewards by providing liquidity to both sides of this market. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
+Steem ha un mercato blockchain tra SMD e STEEM. Gli utenti possono vincere premi dando liquidità ad ambo i lati di questo mercato. La blockchain usa un semplice algoritmo per classificare tutta la liquidità prodotta e usata da ogni utente.
 
-A user is considered a liquidity provider if they leave an open order on the books for at least 1 minute and the order is eventually filled. If the order is canceled before being filled then the user is not credited with providing liquidity.
+Un utente è considerato un fornitore di liquidità se lascia un ordine aperto sui libri per almeno 1 minuto e l'ordine viene riempito. Se l'ordine è cancellato prima di essere riempito l'utente non è accreditato per fornire liquidità.
 
 Users must provide liquidity on both sides of the book to qualify for rewards and they must provide liquidity consistently over time. The scoring algorithm is:
 
