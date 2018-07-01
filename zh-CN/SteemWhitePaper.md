@@ -161,9 +161,9 @@ STEEM代币价值如果出现快速波动，则会明显的影响债务/所有�
 
 ### 利率
 
-SMD向其持有人支付利息。 利率由发布喂价的人来设定，因此它能自动适应变化的市场行情。 所有债务都会给贷方带来风险。 对于所有持有未兑换SMD的人，他们实际上是在以现金形式向社区放贷。 They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SMD向其持有人支付利息。 利率由发布喂价的人来设定，因此它能自动适应变化的市场行情。 所有债务都会给贷方带来风险。 对于所有持有未兑换SMD的人，他们实际上是在以现金形式向社区放贷。 他们相信在未来的某个时刻，会有人愿意以现金从他们手中购买SMD，或者有投资者或投机者愿意购买他们用SMD转换成的STEEM。
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SMD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+当社区成员愿意持有SMD时，STEEM和SP持有者会获得杠杆作用。 这个杠杆放大了社区成长所带来的收益，同时反过来也促进社区的成长。 一旦价格下跌，STEEM持有者会因稀释作用而遭受损失。 一些加密货币项目展示了一个规律，增加愿意信任网络并投资的用户群所为网络增加的价值，会高于在市场低迷期时的稀释效应。
 
 ### Setting Price Feeds
 
