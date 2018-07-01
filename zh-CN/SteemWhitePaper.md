@@ -201,7 +201,7 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 
 ### 分发货币
 
-有两种方式可以让人们参与到加密货币社区：他们可以*购入*，或者*完成工作*。 在这两种情况下，用户为货币增加价值。然而，相比于*闲置资金*，绝大多数人拥有更多的*空余时间*。 Imagine the goal of bootstrapping a currency in a poor community with no actual *cash* but plenty of *time*. If people can earn money by working for one another then they will bootstrap value through mutual exchange facilitated by a fair accounting/currency system.
+有两种方式可以让人们参与到加密货币社区：他们可以*购入*，或者*完成工作*。 在这两种情况下，用户为货币增加价值。然而，相比于*闲置资金*，绝大多数人拥有更多的*空余时间*。 可以设想在一个没有*资金*，但有大量*时间*的贫穷的社区中来推广一种货币。 如果人们可以通过为彼此工作而获取金钱，他们将通过一种公平的记账/货币体系，来实现价值。
 
 Distributing a currency to as many people as possible in a manner that is generally perceived as fair is a challenging task. The tasks that can be entirely evaluated by an objective computer algorithm are limited in nature and generally speaking have limited positive external benefits. In the case of Bitcoin-style mining, it can result in the production of specialized hardware and cause people to invest time developing more efficient algorithms. It may even help find prime numbers, but none of these things provide meaningful value to society or the currency holding community at large. More importantly, economies of scale and market forces will end up excluding everyone but experts from participating in this kind of distribution. Ultimately, computation-based mining is just another way of *buying* in because it requires money to pay the electric bill or the development of hardware necessary to do the work.
 
