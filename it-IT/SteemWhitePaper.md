@@ -163,7 +163,7 @@ Un rapido cambio di valore di STEEM può cambiare in modo drammatico il rapporto
 
 SMD paga ai proprietari interesse. Il tasso di interesse è deciso dalle stesse persone che pubblicano il prezzo del feed per adattare il mercato a seconda delle condizioni. Tutto il debito porta con se rischio al debitore. Qualcuno che ha SMD senza riscattarlo sta effettivamente prestando alla comunità il valore di un dollaro. Stanno dando fiducia la comunità che ad un certo punto nel futuro sarà disposta a comprare l'SMD da loro per un dollaro o che ci siano speculatori ed investitori che vogliono comprare lo STEEM in cui lo convertiranno.
 
-I proprietari di STEEM e SP guadagnano leva quando i membri della comunità vogliono tenere SMD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+I proprietari di STEEM e SP guadagnano leva quando i membri della comunità vogliono tenere SMD. Questa leva amplifica i guadagni dalla crescita e contribuisce anche alla crescita. I proprietari di STEEM soffrono dall'incremento della diluizione se il prezzo cade. I progetti di criptovaluta hanno dimostrato che i guadagni dall'aumentare la base degli user che credono nella piattaforma con capitale aumentano il valore della piattaforma stessa più di ogni altra diluizione che possa succedere.
 
 ### Setting Price Feeds
 
