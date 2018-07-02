@@ -157,13 +157,13 @@ Per ogni SMD che Steem crea, vengono creati $19.00 di STEEM che vengono poi conv
 
 L'idea dietro al avere un rapporto debito a proprietà conservativo al 5% è che tutto il debito venisse convertito e venduto ci sarebbero molti compratori e la diluizione dei proprietari di token rimane relativamente bassa.
 
-A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SMD and SP (as determined by the current rate / feed).
+Un rapido cambio di valore di STEEM può cambiare in modo drammatico il rapporto tra debito e proprietà. I limiti della percentuale usati per creare STEEM sono basati sulla fornitura includendo anche il valore di STEEM per gli SMD e SP non utilizzati (determinato dal rapporto del momento).
 
-### Interest
+### Interesse
 
-SMD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SMD paga ai proprietari interesse. Il tasso di interesse è deciso dalle stesse persone che pubblicano il prezzo del feed per adattare il mercato a seconda delle condizioni. Tutto il debito porta con se rischio al debitore. Qualcuno che ha SMD senza riscattarlo sta effettivamente prestando alla comunità il valore di un dollaro. Stanno dando fiducia la comunità che ad un certo punto nel futuro sarà disposta a comprare l'SMD da loro per un dollaro o che ci siano speculatori ed investitori che vogliono comprare lo STEEM in cui lo convertiranno.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SMD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+I proprietari di STEEM e SP guadagnano leva quando i membri della comunità vogliono tenere SMD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
 ### Setting Price Feeds
 
