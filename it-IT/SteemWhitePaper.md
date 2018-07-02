@@ -138,16 +138,16 @@ Solo perché SMD può essere convertito in un valore di STEEM in dollari, ad un 
 
 Un "fornitore di liquidità" compra e vende SMD e STEEM. Essi si assumono la maggior parte del rischio, relativo al prezzo, nel breve termine e i rischi di feed nel lungo termine, dando ai rimanenti operatori di mercato un mercato di alta qualità ed estremamente liquido, entro il quale negoziare.
 
-Steem ha un mercato blockchain tra SMD e STEEM. Gli utenti possono vincere premi dando liquidità ad ambo i lati di questo mercato. La blockchain usa un semplice algoritmo per classificare tutta la liquidità prodotta e usata da ogni utente.
+Steem ha un mercato sulla blockchain tra SMD e STEEM Gli utenti possono guadagnare ricompense dando liquidità ad entrambe le componenti di questo mercato La blockchain usa un semplice algoritmo per classificare tutta la fornitura e il consumo di liquidità di ogni utente. 
 
-Un utente è considerato un fornitore di liquidità se lascia un ordine aperto sui libri per almeno 1 minuto e l'ordine viene riempito. Se l'ordine è cancellato prima di essere riempito l'utente non è accreditato per fornire liquidità.
+Un utente è considerato un "fornitore di liquidità" se lascia un ordine aperto sui registri per almeno 1 minuto e l'ordine viene infine processato. Se l'ordine viene cancellato prima di essere completato l'utente non è autorizzato a fornire liquidità.
 
-Gli utenti sono portati a fornire liquidità su ambo i lati del libro per qualificarsi per premi e devono fornire liquidità in modo consistente. L'algoritmo per i punteggi è:
+Gli utenti devono fornire liquidità su entrambe le pagine del registro per qualificarsi per le ricompense e devono fornire costantemente liquidità nel tempo. 
 
-      PuntiDiLiquidità = VolumeNetto DiOfferte x VolumeNettoDiRichiesta
+      Punti Di Liquidità = Volume Netto Di Offerte x Volume Netto Di Domanda
     
 
-Ogni ora l'utente con più PuntiDiLiquidità riceve 1200 STEEM e poi i suoi PuntiDiLiquidità sono azzerati. Un utente che per una settimana non guadagna alcun PuntoDiLiquidità ha anche esso i punti azzerati. Questo vuol dire che se fornisci una grande quantità di liquidità o una piccola quantità in un lungo periodo ognuno riceve una parte del premio proporzionalmente. Se il VolumeNetto DiOfferte o il VolumeNettoDiRichiesta sono negativi, i PuntiDiLiquidità sono considerati 0.
+Ogni ora l'account con più Punti Di Liquidità riceve 1200 STEEM e poi i suoi Punti Di Liquidità vengono azzerati. Un account che per una settimana non guadagna alcun Punto Di Liquidità ha anche esso i suoi punti azzerati Questo vuol dire che se fornisci una grande quantità di liquidità o una piccola quantità in un lungo periodo ognuno riceve una parte del premio proporzionalmente. Se il VolumeNetto DiOfferte o il VolumeNettoDiRichiesta sono negativi, i PuntiDiLiquidità sono considerati 0.
 
 ### Dal debito sostenibile ai rapporti di proprietà
 
