@@ -177,9 +177,9 @@ Se i creatori dei feed di Steem puntano ad avere una politica monetaria indipend
 
 L'interesse primario dei creatori di feed di Steem è quello di mantenere stabile la conversione tra SMD e il dollaro americano (USD), uno-a-uno. Ogni volta che SMD viene costantemente scambiato sopra il valore di $1.00 USD, il pagamento degli interessi deve essere fermato. In un mercato dove lo 0% degli interessi sui debiti, richiede ancora un'indennità, è sicuro dire che il mercato è disposto ad estendere più credito rispetto al debito che la comunità è disposta ad assumersi. Se questo accade, un SMD sarà stimato a più di $1.00 e c'è poco che la comunità può fare senza addebitare tassi di interesse negativi.
 
-If the debt-to-ownership ratio is under 10% and SMD is trading for less than $1.00 then the interest rate should be increased. This will encourage more people to hold their SMD and support the price.
+Se il rapporto debito-patrimonio è sotto il 10% e SMD viene scambiato per meno di $1.00, il tasso di interesse dovrebbe essere aumentato. Questo incoraggerà più persone a mantenere i loro SMD e sostenere il prezzo.
 
-If SMD trades for less than $1.00 USD and the debt-to-ownership ratio is over 10% then the feeds should be adjusted upward give more STEEM per SMD. This will increase demand for SMD while also reducing the debt-to-ownership ratio and returning SMD to parity with USD.
+Se SMD viene scambiato per meno di $1.00 e il rapporto debito-proprietà è sopra il 10%, i feed dovrebbero essere regolati verso l'alto in modo tale da dare più STEEM per SMD. Questo aumenterà la domanda di SBD mentre anche il rapporto debito-proprietà si riduce, facendo ritornare SBD in pari con USD.
 
 Assuming the value of STEEM is growing faster than Steem is creating new SMD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
