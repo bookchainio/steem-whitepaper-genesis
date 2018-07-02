@@ -179,11 +179,11 @@ L'interesse primario dei creatori di feed di Steem è quello di mantenere stabil
 
 Se il rapporto debito-patrimonio è sotto il 10% e SMD viene scambiato per meno di $1.00, il tasso di interesse dovrebbe essere aumentato. Questo incoraggerà più persone a mantenere i loro SMD e sostenere il prezzo.
 
-Se SMD viene scambiato per meno di $1.00 e il rapporto debito-proprietà è sopra il 10%, i feed dovrebbero essere regolati verso l'alto in modo tale da dare più STEEM per SMD. Questo aumenterà la domanda di SBD mentre anche il rapporto debito-proprietà si riduce, facendo ritornare SBD in pari con USD.
+Se SMD viene scambiato per meno di $1.00 e il rapporto debito-proprietà è sopra il 10%, i feed dovrebbero essere regolati verso l'alto in modo tale da dare più STEEM per SMD. Questo aumenterà la domanda di SMD mentre anche il rapporto debito-proprietà si riduce, facendo ritornare SMD in pari con USD.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SMD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Ipotizzando che il valore di STEEM sta crescendo più velocemente rispetto alla creazione di SMD da parte di Steem, il rapporto debito-proprietà dovrebbe rimanere sotto al suo obiettivo e l'interesse offerto va a beneficio di chiunque. If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+In effetti, ai creatori di feed sono affidato le responsabilità di impostare la politica monetario con lo scopo di mantenere un legame stabile con il dollaro americano (USD). Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
 If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SMD.
 
