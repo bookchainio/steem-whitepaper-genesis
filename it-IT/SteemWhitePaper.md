@@ -157,7 +157,7 @@ Per ogni SMD che Steem crea, vengono creati $19.00 di STEEM che vengono poi conv
 
 L'idea dietro al avere un rapporto debito a proprietà conservativo al 5% è che tutto il debito venisse convertito e venduto ci sarebbero molti compratori e la diluizione dei proprietari di token rimane relativamente bassa.
 
-Un rapido cambiato nel valore di STEEM può drammaticamente cambiare il rapporto tra debito e patrimonio. I limiti della percentuale usati per creare STEEM sono basati sulla fornitura includendo anche il valore di STEEM per gli SMD e SP non utilizzati (determinato dal rapporto del momento).
+Un rapido cambiato nel valore di STEEM può drammaticamente cambiare il rapporto tra debito e patrimonio. Gli schemi percentuali utilizzati per la creazione di STEEM sono basati sull'offerta inclusiva degli SMD e dello SP di STEEM in sospeso (come determinato dal corrente tasso / feed).
 
 ### Interesse
 
