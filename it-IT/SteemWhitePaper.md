@@ -165,15 +165,15 @@ SMD paga gli interessi dei detentori. Il tasso di interesse è fissato dalle ste
 
 I detentori di STEEM e SP guadagnano in leva quando i membri della comunità sono disposti a mantenere SMD. Questa leva amplifica i guadagni derivanti dalla crescita mentre contribuisce alla crescita stessa. I proprietari di STEEM soffrono dall'incremento della diluizione se il prezzo cade. I progetti delle criptovalute hanno mostrato che i guadagni derivanti dall'aumentare della disponibilità degli utenti a fidarsi della rete apportando capitali, fondamentalmente apportano più valore alla rete rispetto a qualsiasi diluizione che possa verificarsi durante una recessione.
 
-### Setting Price Feeds
+### Stabilire i feed del prezzo
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+I lettori più attenti si renderanno conto che un bene fruttifero di limitata offerta, può essere scambiato ad un valore più alto o più basso rispetto ai beni subordinati; il tutto dipende dalle altre opportunità a guadagnare interessi sullo stesso bene. Con un tasso di interesse pagato su un bene ancorato al dollaro americano, molte persone offriranno l'ammontare limitato degli Steem Dollars fino a quando non saranno più stimati intorno al valore di 1$. Nelle economie c'è un principio conosciuto come la Trinità Impossibile[^4] che afferma che è impossibile avere tutte le seguenti tre caratteristiche:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. Un tasso di cambio stabile
+2. Un movimento di capitale libero
+3. Una politica monetaria indipendente
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+Se i creatori dei feed di Steem puntano ad avere una politica monetaria indipendente, permettendo di creare e distruggere gli Steem Dollars mentre simultaneamente si ha il totale controllo sui tassi di interesse, allora andranno incontro a dei problemi. La Trinità Impossibile afferma che gli Steem Dollars necessitano sia di limitare il movimento di capitale, che di avere un tasso di cambio instabile con il dollaro, o di avere un controllo limitato sul tasso di interesse.
 
 The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SMD and the U.S. Dollar (USD). Any time SMD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
