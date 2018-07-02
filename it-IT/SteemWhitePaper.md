@@ -136,7 +136,7 @@ La blockchain decide come e quando creare SMD e chi dovrebbe prenderli. Questo m
 
 Solo perché SMD può essere convertito in un valore di STEEM in dollari, ad un prezzo equo in un ammontare di tempo ragionevole, non vuol dire che sarà visto come un sostituto affidabile del dollaro. Questi beni necessitano di liquidità in un mercato che permette conversioni istantanee tra STEEM e SMD. Le misure che la blockchain è obbligata a prendere per prevenire gli abusi, finiscono con l'abbassamento della qualità dei dollari convertibili. Per compensare questa perdita di qualità la blockchain può offrire un premio fisso per i fornitori di liquidità. Mentre le potenziali perdite derivanti dalla manipolazione e dall'abuso, sono illimitate, il costo di incoraggiare la liquidità può essere fissato.
 
-Un fornitore di liquidità compra e vende SMD e STEEM. Prendono la maggior parte del rischio del prezzo a breve termine e i rischi di feed a lungo termine, dando al mercato restante un mercato di alta qualità ed estremamente liquido dove fare trading.
+Un "fornitore di liquidità" compra e vende SMD e STEEM. Essi si assumono la maggior parte del rischio, relativo al prezzo, nel breve termine e i rischi di feed nel lungo termine, dando ai rimanenti operatori di mercato un mercato di alta qualità ed estremamente liquido, entro il quale negoziare.
 
 Steem ha un mercato blockchain tra SMD e STEEM. Gli utenti possono vincere premi dando liquidità ad ambo i lati di questo mercato. La blockchain usa un semplice algoritmo per classificare tutta la liquidità prodotta e usata da ogni utente.
 
