@@ -199,7 +199,7 @@ In effetti, il criterio secondo il quale il lavoro viene valutato, è completame
 
 Il valore che ogni valuta raggiunge, dipende dalla domanda di incidenza all'interno di una particolare comunità e da quanto il mercato crede che ogni comunità possa acquistare. A differenza dei sistemi precedenti, la proof of work soggettiva, consente ad una comunità di finanziare collettivamente lo sviluppo di qualsiasi cosa trovi di valore e consente la monetizzazione del tempo precedente non monetizzabile.
 
-### Distribuzione di valuta
+### Distribuire la valuta
 
 Ci sono due modi con i quali le persone possono venire coinvolte in una comunità di criptovalute: possono *comprarle* o possono *lavorarci*. In entrambi i casi, gli utenti stanno apportando valore alla valuta, anche se, la grande maggioranza delle persone ha più *tempo libero* di quanto *denaro risparmino*. Immaginate l'obbiettivo di avviare una valuta in una comunità povera senza che abbia realmente *denaro* ma *tempo* in abbondanza. Se le persone possono guadagnare lavorando l'una per l'altra, avvieranno il processo di valorizzazione attraverso scambi reciproci, facilitati da un equo sistema contabile/monetario.
 
