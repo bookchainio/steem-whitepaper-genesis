@@ -209,7 +209,7 @@ Per dare a tutti pari opportunità per essere coinvolti e guadagnare la valuta, 
 
 Il primo passo nel ricompensare milioni di utenti è di impegnarsi a distribuire un ammontare fisso di valuta indipendentemente da quanto lavoro viene realmente fatto o da come gli utenti votano. questo cambia la domanda dall'essere * "Dovremmo pagare?" </ 0> a * "Chi dovremmo pagare?" </ 0> e segnala al mercato che il denaro viene distribuito e viene venduto all'asta per chiunque "fa un'offerta" il più * funziona </ 0>. Questo è simile al Bitcoin che si impegna ad assegnare 50 BTC a chi trova gli hash più difficili. Come il Bitcoin, tutto il lavoro deve essere fatto prima del pagamento e niente dovrebbe essere pagato in modo speculativo sulla promessa di fare del lavoro in futuro.</p> 
 
-Il prossimo passo è quello di premiare chiunque faccia qualcosa che sia anche lontanamente positivo con qualcosa. Ciò si ottiene classificando tutto il lavoro svolto e distribuendo proporzionalmente al suo valore. Più diventa competitivo il mercato, più diventa difficile (maggiore qualità o quantità) guadagnare lo stesso pagamento.
+Il passo successivo è di ricompensare chiunque faccia qualsiasi cosa, anche lontanamente positiva, con *qualcosa*. Ciò si ottiene classificando tutto il lavoro svolto e distribuendo proporzionalmente al suo valore. Più diventa competitivo il mercato, più diventa difficile (maggiore qualità o quantità) guadagnare lo stesso pagamento.
 
 ### Voto sulla distribuzione della moneta
 
