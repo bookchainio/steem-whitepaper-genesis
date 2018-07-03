@@ -187,13 +187,13 @@ In effetti, ai creatori di feed sono affidate le responsabilità di impostare la
 
 Se il rapporto debito-proprietà diventa pericolosamente alto e gli operatori di mercato scelgono di ignorare le richieste di conversione, il feed dovrebbe essere regolato per aumentare il tasso con il quale STEEM ha pagato per la conversione di SMD.
 
-I cambiamenti alla politica del tasso di interesse e/o qualsiasi premio/sconto sul tasso di conversione di STEEM/SMD, dovrebbero essere una lenta e misurata risposta alle deviazioni di una media a lungo termine piuttosto che tentare di rispondere a condizioni di mercato a breve termine. The blockchain is paying liquidity providers for their service in absorbing short-term demands.
+I cambiamenti alla politica del tasso di interesse e/o qualsiasi premio/sconto sul tasso di conversione di STEEM/SMD, dovrebbero essere una lenta e misurata risposta alle deviazioni di una media a lungo termine piuttosto che tentare di rispondere a condizioni di mercato a breve termine. La blockchain sta pagando i "fornitori di liquidità" per il loro servizio di assorbire le domande a breve termine.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SMD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.99 and $1.01 for SMD under most market conditions.
+È nostra convinzione dire che queste regole daranno agli operatori di mercato fiducia, in modo tale che sia improbabile che perdano soldi mantenendo gli SBD comprati ad un prezzo di £1.00. Ci aspettiamo totalmente che, sotto le più normali condizioni di mercato, ci sia uno stretto intervallo di scambio con i valori che si aggirano tra $0.99 e $1.01 per SMD.
 
-## Subjective Contributions
+## Contributi soggettivi
 
-Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+La soggettiva Proof of Work presenta un approccio alternativo alla distribuzione di una valuta che migliora completamente i sistemi della Proof of Work *oggettiva* come per esempio l'azione di minare (mining). Le richieste di una valuta che implementa la proof of work *soggettiva* sono molto più ampie rispetto a qualsiasi sistema di proof of work *oggettivo* perché possono essere applicate per formare una comunità intorno a qualsiasi concetto che ha un obiettivo sufficientemente definito. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
 
 In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
 
