@@ -187,7 +187,7 @@ In effetti, ai creatori di feed sono affidate le responsabilità di impostare la
 
 Se il rapporto debito-proprietà diventa pericolosamente alto e gli operatori di mercato scelgono di ignorare le richieste di conversione, il feed dovrebbe essere regolato per aumentare il tasso con il quale STEEM ha pagato per la conversione di SMD.
 
-I cambiamenti alla politica del tasso di interesse e/o qualsiasi premio/sconto sul tasso di conversione di STEEM/SMD, dovrebbero essere una lenta e misurata risposta alle deviazioni di una media a lungo termine piuttosto che tentare di rispondere a condizioni di mercato a breve termine. La blockchain sta pagando i "fornitori di liquidità" per il loro servizio di assorbire le domande a breve termine.
+I cambiamenti alla politica del tasso di interesse e/o qualsiasi premio/sconto sul tasso di conversione di STEEM/SMD, dovrebbero essere una lenta e misurata risposta alle deviazioni di una media a lungo termine piuttosto che tentare di rispondere a condizioni di mercato a breve termine. La blockchain sta pagando i "fornitori di liquidità" per il loro servizio nell'assorbire le domande a breve termine.
 
 È nostra convinzione dire che queste regole daranno agli operatori di mercato fiducia, in modo tale che sia improbabile che perdano soldi mantenendo gli SBD comprati ad un prezzo di £1.00. Ci aspettiamo totalmente che, sotto le più normali condizioni di mercato, ci sia uno stretto intervallo di scambio con i valori che si aggirano tra $0.99 e $1.01 per SMD.
 
@@ -209,11 +209,11 @@ Per dare a tutti pari opportunità per essere coinvolti e guadagnare la valuta, 
 
 Il primo passo nel ricompensare milioni di utenti è di impegnarsi a distribuire un ammontare fisso di valuta indipendentemente da quanto lavoro viene realmente fatto o da come gli utenti votano. questo cambia la domanda dall'essere * "Dovremmo pagare?" </ 0> a * "Chi dovremmo pagare?" </ 0> e segnala al mercato che il denaro viene distribuito e viene venduto all'asta per chiunque "fa un'offerta" il più * funziona </ 0>. Questo è simile al Bitcoin che si impegna ad assegnare 50 BTC a chi trova gli hash più difficili. Come il Bitcoin, tutto il lavoro deve essere fatto prima del pagamento e niente dovrebbe essere pagato in modo speculativo sulla promessa di fare del lavoro in futuro.</p> 
 
-Il passo successivo è di ricompensare chiunque faccia qualsiasi cosa, anche lontanamente positiva, con *qualcosa*. Ciò si ottiene classificando tutto il lavoro svolto e distribuendo proporzionalmente al suo valore. Più diventa competitivo il mercato, più diventa difficile (maggiore qualità o quantità) guadagnare lo stesso pagamento.
+Il passo successivo è di ricompensare chiunque faccia qualsiasi cosa, anche lontanamente positiva, con *qualcosa*. Ciò si ottiene classificando tutto il lavoro svolto e distribuendo proporzionalmente al suo valore. Più il mercato diventa competitivo, più difficile (maggiore qualità o quantità) diventa guadagnare lo stesso pagamento.
 
-### Voto sulla distribuzione della moneta
+### Votazione sulla distribuzione della valuta
 
-Supponiamo che ci sia una quantità fissa di denaro da distribuire, e che coloro che hanno un interesse a lungo termine per il valore futuro e l'utilità della valuta siano quelli che devono decidere come allocarlo.   Ogni utente che investe getta i propri voti su chi ha fatto il miglior lavoro e alla fine della giornata i soldi disponibili per quel giorno sono divisi in proporzione ai voti in modo tale che tutti, anche con un solo voto positivo netto, ottengano qualcosa.
+Supponiamo che ci sia un ammontare fisso di denaro da distribuire e che coloro che hanno interessi vincolati a lungo termine per il valore futuro e per l'utilità della valuta, siano quelli che devono decidere come distribuirlo. Ogni utente che investe getta i propri voti su chi ha fatto il miglior lavoro e alla fine della giornata i soldi disponibili per quel giorno sono divisi in proporzione ai voti in modo tale che tutti, anche con un solo voto positivo netto, ottengano qualcosa.
 
 Il processo di voto ingenuo crea un "dilemma del prigioniero" in cui ogni singolo elettore ha incentivi a votare per se stessi a spese dell'obiettivo della comunità più ampia Se tutti coloro che votassero difettassero del fatto di votarsi da soli, nessuna valuta finirà per essere distribuita e la valuta nel suo complesso non riuscirà a ottenere un effetto di rete. D'altra parte, se solo un elettore ha dei difetti, allora quell'elettore vincerebbe dei profitti immeritati e avrebbe un effetto minimo sul valore complessivo della valuta.
 
