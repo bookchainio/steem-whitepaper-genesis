@@ -221,7 +221,7 @@ Per fare in modo di riallineare gli incentivi e dissuadere le persone sempliceme
 
 Supponendo che tutti gli utenti abbiano una quota uguale, qualcuno che riceve solo il il suo stesso voto, riceverà molto meno rispetto a qualcuno che riceve voti da 100 diversi utenti. Questo incoraggia gli utenti a collaborare per votare per le stesse cose al fine di massimizzare il pagamento. Questo sistema crea inoltre incentivi finanziari per colludere chiunque, laddove questi votino su una cosa e poi dividano il compenso equamente tra loro stessi. 
 
-#### Voting Collusion
+#### La collusione nel sistema dei voti
 
 Mentre la collaborazione di distribuire fondi al il miglior lavoro è l'obiettivo desiderato, la collusione che mina ad esso dovrebbe essere minimizzata.   Esistono due tipi di * collusione </ 0>, il più diretto si ha quando un utente compra semplicemente una quota maggiore rispetto ad altri, e l'altro partecipa coordinando un gran numero di stakeholder più piccoli per lavorare insieme. I più grandi stakeholder possono avere l'influenza di voto di 100 o anche di 1000 stakeholder più piccoli, il che significa che hanno un incentivo ancora maggiore a danneggiare/disertare votando per loro stessi, rispetto a quanto non avessero sotto una distribuzione lineare. </p> 
 
