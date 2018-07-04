@@ -209,7 +209,7 @@ Distributing a currency to as many people as possible in a manner that is genera
 
 对百万计的用户进行奖励的第一步就是，无论工作量如何以及用户如何投票，保证以分布的方式定额分配货币。 这就将问题由*"我们是否该付钱?"*转换为*“我们应该向谁付钱？”*，同时向市场传递一个信号，资金正在被分配，并流向那些完成最多*工作*的人。 这和比特币保证奖励那些首先发现最难哈希值的人50 BTC一样。 就像比特币一样，所有工作都应该在支付之前完成，并且对未来工作的承诺不做任何支付。
 
-The next step is to reward everyone who does anything even remotely positive with *something*. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
+下一步就是对那些即使在远程工作的所有人进行*某种*奖励。 This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
 
 ### Voting on Distribution of Currency
 
