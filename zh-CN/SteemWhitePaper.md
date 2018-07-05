@@ -209,9 +209,9 @@ Distributing a currency to as many people as possible in a manner that is genera
 
 对百万计的用户进行奖励的第一步就是，无论工作量如何以及用户如何投票，保证以分布的方式定额分配货币。 这就将问题由*"我们是否该付钱?"*转换为*“我们应该向谁付钱？”*，同时向市场传递一个信号，资金正在被分配，并流向那些完成最多*工作*的人。 这和比特币保证奖励那些首先发现最难哈希值的人50 BTC一样。 就像比特币一样，所有工作都应该在支付之前完成，并且对未来工作的承诺不做任何支付。
 
-下一步就是对那些即使在远程工作的所有人进行*某种*奖励。 This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
+下一步就是对那些即使在远程工作的所有人进行*某种*奖励。 这可以通过对所有已完成的工作进行评估，并以此为依据工作价值来分配奖励。 市场竞争越激烈，就越难（更高的质量和更大工作量）赚取同样的报酬。
 
-### Voting on Distribution of Currency
+### 针对货币分配的投票
 
 Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
 
