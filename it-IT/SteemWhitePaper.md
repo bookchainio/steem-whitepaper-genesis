@@ -245,7 +245,7 @@ Eliminare "l'abuso" non è possibile e non dovrebbe essere lo scopo. Persino que
 
 Lo scopo di creare una valuta della comunità, è di ottenere più "granchi nel secchio". Andare verso l'adozione di misure estreme per eliminare gli abusi è come tentare di mettere un coperchio sul secchio per impedire a pochi granchi di scappare e, questo, andrebbe a scapito dell'aumento della difficoltà dell'aggiungere nuovi granchi nel secchio. È sufficiente creare le pareti scivolose e dare ad altri granchi potere sufficiente per impedire agli altri di scappare.
 
-### Rate Limited Voting
+### Limitazione della velocità di voto
 
 A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
