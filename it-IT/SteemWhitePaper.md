@@ -243,7 +243,7 @@ L'uso di *voti negativi* per trattenere le persone dall'abusare il sistema, fa l
 
 Eliminare "l'abuso" non è possibile e non dovrebbe essere lo scopo. Persino quelli che tentano di abusare del sistema, stanno comunque facendo un lavoro. Qualsiasi compenso ricevano per i loro tentativi riusciti nell'abusare o colludere, è prezioso almeno, tanto per l'obiettivo di distribuire la valuta, quanto per il sistema fare-lavoro impiegato dal mining tradizionale del Bitcoin o il mining collusivo fatto tramite le mining pool. Tutto quello che è necessario è di assicurare che l'abuso non sia così dilagante da minare l'incentivo di fare del lavoro vero a sostegno della comunità e della sua valuta.
 
-The goal of building a community currency is to get more "crabs in the bucket". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
+Lo scopo di creare una valuta della comunità, è di ottenere più "granchi nel secchio". Andare verso l'adozione di misure estreme per eliminare gli abusi è come tentare di mettere un coperchio sul secchio per impedire a pochi granchi di scappare e, questo, andrebbe a scapito dell'aumento della difficoltà dell'aggiungere nuovi granchi nel secchio. È sufficiente creare le pareti scivolose e dare ad altri granchi potere sufficiente per impedire agli altri di scappare.
 
 ### Rate Limited Voting
 
