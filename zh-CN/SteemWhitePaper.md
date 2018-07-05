@@ -223,7 +223,7 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 
 #### Voting Collusion
 
-While cooperation to distribute funds to the best work is the desired goal, *collusion* that undermines this objective should be minimized. There are two kinds of *collusion*, the most straightforward is when one user simply buys a larger stake than others, and the other involves coordinating a large number of smaller stakeholders to work together. Larger stakeholders can have the voting influence of 100 or even 1000 smaller stakeholders which means they have even greater incentive to defect by voting for themselves than they had under a linear distribution.
+虽然系统鼓励合作以对最佳的工作分配奖励，但破坏这一目标的*collusion*应被尽量减少。 共有两种的*collusion*，最直接的一种方式就是，一个用户比其他用户拥有更多股份，另一种方式则是涉及很多持有小股份用户之间的合作。 Larger stakeholders can have the voting influence of 100 or even 1000 smaller stakeholders which means they have even greater incentive to defect by voting for themselves than they had under a linear distribution.
 
 Regardless of how much money any one individual has, there are always many other individuals with similar wealth. Even the wealthiest individual rarely has much more than the next couple wealthiest combined. Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
 
