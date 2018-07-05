@@ -227,7 +227,7 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 
 无论一个个体拥有多少资金，总会有其他的人会拥有和他类似的资金量。 就算最富有的人也很少有可能会超过紧随其他的两到三人的财富总和。 此外，那些在一个社区中投入大笔资金的人如果尝试给自己投票，他们的损失也会最大。 着就像一个公司的CEO决定停止发放工资，这样他就可以独享所有利润。 所有人都会选择辞职到其他公司去工作，导致公司没有任何价值，从而使得CEO破产而不是变得富有。
 
-幸运的是，那些获得大量投票的工作亦会收到(公开) 审查。 通过追加的*负投票*，使得众多的小股东也能抵消那些利益集团或自私的大股东们的投票力。 此外，一旦由于滥用而导致币价大跌，相比给自己投票的获益，大股东会损失更多。 In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
+幸运的是，那些获得大量投票的工作亦会收到(公开) 审查。 通过追加的*负投票*，使得众多的小股东也能抵消那些利益集团或自私的大股东们的投票力。 此外，一旦由于滥用而导致币价大跌，相比给自己投票的获益，大股东会损失更多。 事实上，对于诚实的大股东们更有效的方式是，制定政策限制滥用，同时使用比给小的贡献投票更有效的负投票。
 
 The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only "problem" with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
 
