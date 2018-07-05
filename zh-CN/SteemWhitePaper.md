@@ -219,7 +219,7 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 
 为了重新调整激励机制，同时不鼓励人们给自己投票，资金必须以一种非线性的方式来进行分配。 例如在投票中使用一个二次函数，比如说，为他人投票两次的用户应该获取四倍收益，而为别人投票三次的用户应该获取9倍收益。 换句话说，奖励的比例是\\(投票数^{2}\\) ，而不是*投票数*。 根据梅特卡夫定律[^5]，这就能真实映射出以参与人数\\(n^{2}\\) 速度增长的网络效应。
 
-Assuming all users have equal stake, someone who only receives their own vote will receive much less than someone who receives votes from 100 different users. This encourages users to *cooperate* to vote for the same things to maximize the payout. This system also creates financial incentive to *collude* where everyone votes on one thing and then divides the reward equally among themselves.
+假定所有用户持有同等股份，那些只能收到自己投票用户的收益会远远少于那些能够收到100个不用用户投票的人。 着就会鼓励用户*彼此合作*来对******************同样的事情*************投票以获得最大化收益。 This system also creates financial incentive to *collude* where everyone votes on one thing and then divides the reward equally among themselves.
 
 #### Voting Collusion
 
