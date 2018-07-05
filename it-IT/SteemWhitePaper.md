@@ -155,7 +155,7 @@ Se un token viene visto come una proprietà in tutta la domanda di token, allora
 
 Per ogni SMD creato da Steem, $19.00 di STEEM vengono generati e convertiti in SP. Questo significa che il maggiore rapporto che si può verificare tra debito e patrimonio in un mercato stabile è di 1:19 o intorno al 5%. Se Steem perde il 50% del valore, il rapporto potrebbe incrementare fino al 10% Un deprezzamento dell' 88% del valore di STEEM potrebbe causare il raggiungimento del 40% tra il rapporto debito/ proprietà. Supponendo che il valore di STEEM si stabilizzi, il rapporto tra debito e patrimonio tornerà naturalmente vicino al 5%.
 
-L'idea dietro all'avere un prudente rapporto tra debito e patrimonio al 5% è che anche se tutto il debito venisse convertito, ci dovrebbero essere molti compratori e la diluizione effettiva dei detentori di token si manterrebbe relativamente bassa. 
+L'idea che sta dietro all'avere un prudente rapporto tra debito e patrimonio al 5% è che anche se tutto il debito venisse convertito, ci dovrebbero essere molti compratori e la diluizione effettiva dei detentori di token si manterrebbe relativamente bassa.
 
 Un rapido cambiamento nel valore di STEEM può drammaticamente cambiare il rapporto tra debito e proprietà. Gli schemi percentuali utilizzati per la creazione di STEEM, sono basati sull'offerta inclusiva degli SMD e dello SP di STEEM che sono in sospeso (come determinato dal corrente tasso / feed).
 
