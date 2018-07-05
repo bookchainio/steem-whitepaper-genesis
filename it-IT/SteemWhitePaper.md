@@ -10,7 +10,7 @@ Spazio per gli appunti del traduttore.
 
 # Estratto
 
-Steem è un database blockchain che supporta la costruzione della comunità e l'interazione sociale con premi in criptovalute. Steem associa i concetti dei social media con gli insegnamenti derivanti dalla creazione delle criptovalute e delle loro comunità. Una delle chiavi importanti in qualsiasi comunità, con una economia di libero mercato o monetaria, volta a suscitare la partecipazione, viene rappresentata da un equo sistema di contabilità che rifletta il contributo di ogni singola persona. Steem è la prima criptovaluta che cerca di premiare accuratamente e in modo trasparente un numero indeterminato di persone che danno *contributi personali* alla sua comunità.
+Steem è una banca dati che si sviluppa sulla blockchain. Essa supporta la formazione di comunità e di interazioni sociali con le criptovalute come sistema di ricompense. Steem associa i concetti dei social media con gli insegnamenti derivanti dalla creazione delle criptovalute e delle loro comunità. Una delle chiavi importanti in qualsiasi comunità, con una economia di libero mercato o monetaria, volta a suscitare la partecipazione, viene rappresentata da un equo sistema di contabilità che rifletta il contributo di ogni singola persona. Steem è la prima criptovaluta che cerca di premiare accuratamente e in modo trasparente un numero indeterminato di persone che danno *contributi personali* alla sua comunità.
 
 # Sommario
 
