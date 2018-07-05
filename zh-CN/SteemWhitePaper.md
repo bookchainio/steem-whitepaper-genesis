@@ -225,9 +225,9 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 
 虽然系统鼓励合作以对最佳的工作分配奖励，但破坏这一目标的*collusion*应被尽量减少。 共有两种的*collusion*，最直接的一种方式就是，一个用户比其他用户拥有更多股份，另一种方式则是涉及很多持有小股份用户之间的合作。 大的股东的投票影响力可能会是小股东的100甚至1000倍，这意味着在奖励的线性分布规律下，大股东们更有可能会给自己投票。
 
-无论一个个体拥有多少资金，总会有其他的人会拥有和他类似的资金量。 就算最富有的人也很少有可能会超过紧随其他的两到三人的财富总和。 Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
+无论一个个体拥有多少资金，总会有其他的人会拥有和他类似的资金量。 就算最富有的人也很少有可能会超过紧随其他的两到三人的财富总和。 此外，那些在一个社区中投入大笔资金的人如果尝试给自己投票，他们的损失也会最大。 着就像一个公司的CEO决定停止发放工资，这样他就可以独享所有利润。 所有人都会选择辞职到其他公司去工作，导致公司没有任何价值，从而使得CEO破产而不是变得富有。
 
-Fortunately, any work that is getting a large concentration of votes is also gaining the most scrutiny (publicity). Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. Furthermore, large-stakeholders have more to lose if the currency falls in value due to abuse than they might gain by voting for themselves. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
+幸运的是，那些获得大量投票的工作亦会收到(公开) 审查。 通过追加的*负投票*，使得众多的小股东也能抵消那些利益集团或自私的大股东们的投票力。 此外，一旦由于滥用而导致币价大跌，相比给自己投票的获益，大股东会损失更多。 In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
 
 The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only "problem" with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
 
