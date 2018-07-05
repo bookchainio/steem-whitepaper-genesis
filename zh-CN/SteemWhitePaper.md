@@ -213,11 +213,11 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 
 ### 针对货币分配的投票
 
-假定有固定数额的资金需要进行分配，同时假定只有那些对长期投资及货币效用感兴趣的人来决定如何进行分配。 Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
+假定有固定数额的资金需要进行分配，同时假定只有那些对长期投资及货币效用感兴趣的人来决定如何进行分配。 每一个投资的用户投票给那些出色完成工作的人，这样在每天结束的时候，可用的资金就会按照投票的比例来进行分配，即使只是获得一个净投票的人也能有所收获。
 
-The naive voting process creates a Prisoner's Dilemma whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
+幼稚的投票流程设计会导致一个所谓的囚徒困境，也就是说每个人都有动机给自己投票，从而和整个社区的发展目标背道而驰。 如果每一个投票者都给自己投票，这样就没有货币会被分发，这种货币就不能获得期待的网络效应。 另一方面，如果只有一个投票者给自己投票，这样该投票者就会获得不该得的收益，但对整个货币的价值影响最小。
 
-In order to realign incentives and discourage individuals from simply voting for themselves, money must be distributed in a nonlinear manner. For example a quadratic function in votes, i.e., someone with twice the votes of someone else should receive four times the payout and someone with three times the votes should receive nine times the payout. In other words, the reward is proportional to \\(votes^{2}\\) rather than *votes*. This mirrors the value of network effect which grows with \\(n^{2}\\) the number of participants, according to Metcalfe's Law[^5].
+为了重新调整激励机制，同时不鼓励人们给自己投票，资金必须以一种非线性的方式来进行分配。 For example a quadratic function in votes, i.e., someone with twice the votes of someone else should receive four times the payout and someone with three times the votes should receive nine times the payout. In other words, the reward is proportional to \\(votes^{2}\\) rather than *votes*. This mirrors the value of network effect which grows with \\(n^{2}\\) the number of participants, according to Metcalfe's Law[^5].
 
 Assuming all users have equal stake, someone who only receives their own vote will receive much less than someone who receives votes from 100 different users. This encourages users to *cooperate* to vote for the same things to maximize the payout. This system also creates financial incentive to *collude* where everyone votes on one thing and then divides the reward equally among themselves.
 
