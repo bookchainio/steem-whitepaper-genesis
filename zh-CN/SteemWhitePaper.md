@@ -223,9 +223,9 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 
 #### Voting Collusion
 
-虽然系统鼓励合作以对最佳的工作分配奖励，但破坏这一目标的*collusion*应被尽量减少。 共有两种的*collusion*，最直接的一种方式就是，一个用户比其他用户拥有更多股份，另一种方式则是涉及很多持有小股份用户之间的合作。 Larger stakeholders can have the voting influence of 100 or even 1000 smaller stakeholders which means they have even greater incentive to defect by voting for themselves than they had under a linear distribution.
+虽然系统鼓励合作以对最佳的工作分配奖励，但破坏这一目标的*collusion*应被尽量减少。 共有两种的*collusion*，最直接的一种方式就是，一个用户比其他用户拥有更多股份，另一种方式则是涉及很多持有小股份用户之间的合作。 大的股东的投票影响力可能会是小股东的100甚至1000倍，这意味着在奖励的线性分布规律下，大股东们更有可能会给自己投票。
 
-Regardless of how much money any one individual has, there are always many other individuals with similar wealth. Even the wealthiest individual rarely has much more than the next couple wealthiest combined. Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
+无论一个个体拥有多少资金，总会有其他的人会拥有和他类似的资金量。 就算最富有的人也很少有可能会超过紧随其他的两到三人的财富总和。 Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
 
 Fortunately, any work that is getting a large concentration of votes is also gaining the most scrutiny (publicity). Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. Furthermore, large-stakeholders have more to lose if the currency falls in value due to abuse than they might gain by voting for themselves. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
 
