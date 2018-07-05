@@ -237,7 +237,7 @@ L'uso di *voti negativi* per trattenere le persone dall'abusare il sistema, fa l
 > 
 > "Perché non copri il tuo secchio delle esche in modo che i granchi non fuggano?", disse lui.
 > 
-> "Tu non capisci.", rispose l'uomo, "Se ci fosse un granchio nel secchio, sicuramente striscerebbe fuori molto velocemente. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+> "Tu non capisci.", rispose l'uomo, "Se ci fosse un granchio nel secchio, sicuramente striscerebbe fuori molto velocemente. Tuttavia, quando ci sono tanti granchi nel secchio, se uno cerca di avanzare di lato, gli altri lo afferrano e lo tirano indietro così che lui possa condividere lo stesso destino come il resto degli altri"
 > 
 > E così è anche con le persone. Se qualcuna cerca di fare qualcosa di differente, ottenere voti migliori, migliorare sé stessa, sfuggire al suo ambiente o sognare grandi sogni, altre persone cercherebbero di trascinarla giù per farle condividere lo stesso loro destino.
 
