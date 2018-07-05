@@ -229,7 +229,7 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 
 幸运的是，那些获得大量投票的工作亦会收到(公开) 审查。 通过追加的*负投票*，使得众多的小股东也能抵消那些利益集团或自私的大股东们的投票力。 此外，一旦由于滥用而导致币价大跌，相比给自己投票的获益，大股东会损失更多。 事实上，对于诚实的大股东们更有效的方式是，制定政策限制滥用，同时使用比给小的贡献投票更有效的负投票。
 
-The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only "problem" with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
+对于*负投票*的使用可以防止人们滥用系统，而解决很多人都有的*螃蟹心态*，其实就是损人利己。 螃蟹心态通常是指那些目光短浅的人会让好人们失望，同时也指好人让坏人们吃亏失望。 螃蟹心态的唯一的问题就是人们*错误的认为*，人们是以损坏他人利益为基础而获利的。
 
 > #### The Story of the Crab Bucket[^6]
 > 
