@@ -217,7 +217,7 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 
 幼稚的投票流程设计会导致一个所谓的囚徒困境，也就是说每个人都有动机给自己投票，从而和整个社区的发展目标背道而驰。 如果每一个投票者都给自己投票，这样就没有货币会被分发，这种货币就不能获得期待的网络效应。 另一方面，如果只有一个投票者给自己投票，这样该投票者就会获得不该得的收益，但对整个货币的价值影响最小。
 
-为了重新调整激励机制，同时不鼓励人们给自己投票，资金必须以一种非线性的方式来进行分配。 For example a quadratic function in votes, i.e., someone with twice the votes of someone else should receive four times the payout and someone with three times the votes should receive nine times the payout. In other words, the reward is proportional to \\(votes^{2}\\) rather than *votes*. This mirrors the value of network effect which grows with \\(n^{2}\\) the number of participants, according to Metcalfe's Law[^5].
+为了重新调整激励机制，同时不鼓励人们给自己投票，资金必须以一种非线性的方式来进行分配。 例如在投票中使用一个二次函数，比如说，为他人投票两次的用户应该获取四倍收益，而为别人投票三次的用户应该获取9倍收益。 换句话说，奖励的比例是\\(投票数^{2}\\) ，而不是*投票数*。 根据梅特卡夫定律[^5]，这就能真实映射出以参与人数\\(n^{2}\\) 速度增长的网络效应。
 
 Assuming all users have equal stake, someone who only receives their own vote will receive much less than someone who receives votes from 100 different users. This encourages users to *cooperate* to vote for the same things to maximize the payout. This system also creates financial incentive to *collude* where everyone votes on one thing and then divides the reward equally among themselves.
 
