@@ -261,13 +261,13 @@ Il potere di voto viene moltiplicato per i token dell'utente vincolati, per dete
 
 Per prevenire ulteriormente gli abusi, tutti i pagamenti sono posticipati di una media ponderata fissa di 24 ore dal momento in cui è stato effettuato il voto. Ciò garantisce che i grandi stakeholder non possano raccogliere i pagamenti votando all'ultimo secondo prima che altri votanti (noti anche come granchi) abbiano la possibilità di annullare il potenziale abuso. Una volta che il pagamento viene emesso all'utente, tutti i voti vengono riportati a 0. Se i voti arrivano dopo il pagamento, il processo ricomincia.
 
-Questo grafico mostra come cambia la scadenza del periodo di votazione in risposta ai nuovi voti positivi e negativi applicati. Nuovi voti estendono il periodo di pagamento in proporzione a quanto sono grandi rispetto a tutti i voti che sono stati dati in precedenza. Intorno al tempo 40 è stato aggiunto un gran numero di nuovi voti che hanno esteso il periodo di votazione di 12 ore, i successivi voti minori hanno avuto un impatto molto minore sul periodo di votazione
+Questo grafico mostra come cambia la scadenza del periodo di votazione in risposta ai nuovi voti positivi e negativi applicati. Nuovi voti estendono il periodo di pagamento in proporzione a quanto sono grandi rispetto a tutti i voti che sono stati dati in precedenza. Intorno al tempo 40 è stato aggiunto un gran numero di nuovi voti che hanno esteso il periodo di votazione di 12 ore, i successivi voti minori hanno avuto un impatto molto minore sul periodo di votazione.
 
 ### Distribuzione del pagamento
 
 ![](\img_the_new_marketplace.png)
 
-Uno degli obiettivi primari delle ricompense di Steem è quello di produrre le migliori discussioni su internet. Ogni anno il 10% della capitalizzazione di mercato annua di Steem viene distribuita agli utenti presentando, votando e discutendo il contenuto. Considerando che il valore Bitcoin questo potrebbe essere fino a $ 1,75 milioni di dollari al giorno per i maggiori contributori.  
+Uno degli obiettivi primari delle ricompense di Steem è quello di produrre le migliori discussioni su internet. Ogni anno il 10% della capitalizzazione di mercato annua di Steem viene distribuita agli utenti presentando, votando e discutendo il contenuto. Considerando che il valore del Bitcoin, questo potrebbe essere fino a $ 1,75 milioni di dollari al giorno per i maggiori contributori.  
 
 La distribuzione effettiva dipenderà dai modelli di voto degli utenti, ma, noi sospettiamo, che la grande maggioranza delle ricompense verrà distribuita ai contenuti più popolari. Steem valuta i pagamenti in modo proporzionale a \\ (n ^ {2} \\) la quantità dello Steem Power della votazione per un articolo. In altre parole, il post x riceverebbe un pagamento proporzionale a:
 
