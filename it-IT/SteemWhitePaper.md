@@ -247,7 +247,7 @@ Lo scopo di creare una valuta della comunità, è di ottenere più "granchi nel 
 
 ### Limitazione della velocità di voto
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Una parte importante del minimizzare l'abuso, è la limitazione della velocità di votazione. I singoli utenti non possono leggere e valutare più di tanti articoli elaborati ogni giorno. Qualsiasi tentativo di votare più frequentemente rispetto a questo, è un segno di automazione e di potenziale abuso. Attraverso la limitazione della velocità, gli stakeholder che votano più frequentemente hanno, per ogni voto, un valore minore rispetto agli stakeholder che votano meno frequentemente. I tentativi di dividere i token tra più account, dividono anche l'influenza e perciò non risultano in un aumento netto della stessa, né raggirano la limitazione della velocità imposta sulla votazione.
 
 ![](\img_voting_rate_limiting.png)
 
