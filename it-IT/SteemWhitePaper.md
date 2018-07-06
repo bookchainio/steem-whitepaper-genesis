@@ -251,25 +251,25 @@ Una parte importante del minimizzare l'abuso, è la limitazione della velocità 
 
 ![](\img_voting_rate_limiting.png)
 
-I grafici qui sopra mostrano come il potere di voto degli utenti diminuisce ogni volta che votano e che poi si rigenera col passare del tempo senza votare. These charts use nominal time unit and could be made to scale to any targeted voting rate. Si noti che il potere di voto diminuisce rapidamente durante i periodi di votazione continua, e che dopo si ristabilisce lentamente.
+I grafici qui sopra mostrano come il potere di voto degli utenti diminuisce ogni volta che votano e che poi si rigenera col passare del tempo senza votare. Questi grafici utilizzano unità di tempo nominale e potrebbero essere fatti in scala per qualsiasi obbiettivo prefissato di voto Si noti che il potere di voto diminuisce rapidamente durante i periodi di votazione continua, e che dopo si ristabilisce lentamente.
 
 Il potere di voto viene moltiplicato per i token dell'utente vincolati, per determinare la quantità della quota che si trova nella pool delle ricompense e che deve essere assegnata ad un determinato articolo elaborato.
 
-### Delayed Payouts
+### Pagamenti in ritardo
 
 ![](\img_change_voting_period_eg.png)
 
 Per prevenire ulteriormente gli abusi, tutti i pagamenti sono posticipati di una media ponderata fissa di 24 ore dal momento in cui è stato effettuato il voto. Ciò garantisce che i grandi stakeholder non possano raccogliere i pagamenti votando all'ultimo secondo prima che altri votanti (noti anche come granchi) abbiano la possibilità di annullare il potenziale abuso. Una volta che il pagamento viene emesso all'utente, tutti i voti vengono riportati a 0. Se i voti arrivano dopo il pagamento, il processo ricomincia.
 
-Questo grafico mostra come cambia la scadenza del periodo di votazione in risposta ai nuovi voti positivi e negativi applicati. Nuovi voti estendono il periodo di pagamento in proporzione a quanto sono grandi rispetto a tutti i voti che sono stati dati in precedenza. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
+Questo grafico mostra come cambia la scadenza del periodo di votazione in risposta ai nuovi voti positivi e negativi applicati. Nuovi voti estendono il periodo di pagamento in proporzione a quanto sono grandi rispetto a tutti i voti che sono stati dati in precedenza. Intorno al tempo 40 è stato aggiunto un gran numero di nuovi voti che hanno esteso il periodo di votazione di 12 ore, i successivi voti minori hanno avuto un impatto molto minore sul periodo di votazione
 
-### Payout Distribution
+### Distribuzione del pagamento
 
 ![](\img_the_new_marketplace.png)
 
 Uno degli obiettivi primari delle ricompense di Steem è quello di produrre le migliori discussioni su internet. Ogni anno il 10% della capitalizzazione di mercato annua di Steem viene distribuita agli utenti presentando, votando e discutendo il contenuto. Considerando che il valore Bitcoin questo potrebbe essere fino a $ 1,75 milioni di dollari al giorno per i maggiori contributori.  
 
-La distribuzione effettiva dipenderà dai modelli di voto degli utenti, ma, noi sospettiamo, che la grande maggioranza delle ricompense verrà distribuita ai contenuti più popolari. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
+La distribuzione effettiva dipenderà dai modelli di voto degli utenti, ma, noi sospettiamo, che la grande maggioranza delle ricompense verrà distribuita ai contenuti più popolari. Steem valuta i pagamenti in modo proporzionale a \\ (n ^ {2} \\) la quantità dello Steem Power della votazione per un articolo. In altre parole, il post x riceverebbe un pagamento proporzionale a:
 
 \\ (voti [x] ^ {2} / somma (voti [0 ... n] ^ {2}) \\) 
 
