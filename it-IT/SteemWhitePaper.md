@@ -267,7 +267,7 @@ Questo grafico mostra come cambia la scadenza del periodo di votazione in rispos
 
 ![](\img_the_new_marketplace.png)
 
-Uno degli obiettivi primari delle ricompense di Steem è quello di produrre le migliori discussioni su internet. Each and every year 10% of the market capitalization of Steem is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be as much as $1.75 million dollars per day being given to top contributors.
+Uno degli obiettivi primari delle ricompense di Steem è quello di produrre le migliori discussioni su internet. Ogni anno il 10% della capitalizzazione di mercato annua di Steem viene distribuita agli utenti presentando, votando e discutendo il contenuto. At the size of Bitcoin this could be as much as $1.75 million dollars per day being given to top contributors.
 
 The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
 
