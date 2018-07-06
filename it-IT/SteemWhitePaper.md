@@ -251,17 +251,17 @@ Una parte importante del minimizzare l'abuso, è la limitazione della velocità 
 
 ![](\img_voting_rate_limiting.png)
 
-The charts above shows how a user's voting power decreases every time they vote and then regenerates as time passes without voting. These charts use nominal time unit and could be made to scale to any targeted voting rate. Note that voting power rapidly drops off during periods of continuous voting, and then slowly recovers.
+I grafici qui sopra mostrano come il potere di voto degli utenti diminuisce ogni volta che votano e che poi si rigenera col passare del tempo senza votare. These charts use nominal time unit and could be made to scale to any targeted voting rate. Si noti che il potere di voto diminuisce rapidamente durante i periodi di votazione continua, e che dopo si ristabilisce lentamente.
 
-Voting power is multiplied by a user's vesting tokens to determine how much share in the reward pool should be allocated to a given work item.
+Il potere di voto viene moltiplicato per i token dell'utente vincolati, per determinare la quantità della quota che si trova nella pool delle ricompense e che deve essere assegnata ad un determinato articolo elaborato.
 
 ### Delayed Payouts
 
 ![](\img_change_voting_period_eg.png)
 
-To further prevent abuse, all payouts are delayed a stake-weighted average of 24 hours from the time each vote was cast. This ensures that large stakeholders cannot snipe payouts by voting at the last second before other voters (aka crabs) have a chance to negate the potential abuse. Once a payout is made to the user all votes are reset to 0. If votes come in after the payout then the process begins again.
+Per prevenire ulteriormente gli abusi, tutti i pagamenti sono posticipati di una media ponderata fissa di 24 ore dal momento in cui è stato effettuato il voto. Ciò garantisce che i grandi stakeholder non possano raccogliere i pagamenti votando all'ultimo secondo prima che altri votanti (noti anche come granchi) abbiano la possibilità di annullare il potenziale abuso. Una volta che il pagamento viene emesso all'utente, tutti i voti vengono riportati a 0. Se i voti arrivano dopo il pagamento, il processo ricomincia.
 
-This chart shows how the voting period expiration changes in response to new positive and negative votes being applied. New votes extend the payout period in proportion to how large they are relative to all votes that have gone before. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
+Questo grafico mostra come cambia la scadenza del periodo di votazione in risposta ai nuovi voti positivi e negativi applicati. Nuovi voti estendono il periodo di pagamento in proporzione a quanto sono grandi rispetto a tutti i voti che sono stati dati in precedenza. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
 
 ### Payout Distribution
 
