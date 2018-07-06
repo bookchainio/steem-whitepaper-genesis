@@ -251,7 +251,7 @@ Una parte importante del minimizzare l'abuso, è la limitazione della velocità 
 
 ![](\img_voting_rate_limiting.png)
 
-I grafici qui sopra mostrano come il potere di voto degli utenti diminuisce ogni volta che votano e che poi si rigenera col passare del tempo senza votare. Questi grafici utilizzano unità di tempo nominale e potrebbero essere fatti in scala per qualsiasi obbiettivo prefissato di voto Si noti che il potere di voto diminuisce rapidamente durante i periodi di votazione continua, e che dopo si ristabilisce lentamente.
+I grafici qui sopra mostrano come il potere di voto degli utenti diminuisce ogni volta che votano e che poi si rigenera col passare del tempo senza votare. Questi grafici utilizzano unità di tempo nominale e potrebbero essere utilizzati per bilanciare qualsiasi tipologia di velocità di voto. Si noti che il potere di voto diminuisce rapidamente durante i periodi di votazione continua, e che dopo si ristabilisce lentamente.
 
 Il potere di voto viene moltiplicato per i token dell'utente vincolati, per determinare la quantità della quota che si trova nella pool delle ricompense e che deve essere assegnata ad un determinato articolo elaborato.
 
