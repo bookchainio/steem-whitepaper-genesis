@@ -231,11 +231,11 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 
 对*负投票*的使用可以防止人们滥用系统，从而解决很多人都有的*螃蟹心态*，其实就是损人利己。 螃蟹心态通常是指那些目光短浅的人会让好人们失望，同时也指好人让坏人们失望。 螃蟹心态的唯一问题就是人们*错误的相信*，人们是以损坏他人利益为基础而获利的。
 
-> #### The Story of the Crab Bucket[^6]
+> #### 螃蟹桶的故事[^6]
 > 
-> A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+> 一个男人正在海滩散步，看到另一个男人正在海浪边钓鱼，他旁边放了一个鱼饵桶。当他靠近后，看到鱼饵桶中有一些活螃蟹，却没有盖子。
 > 
-> "Why don't you cover your bait bucket so the crabs won't escape?", he said.
+> “为什么你不把鱼饵桶盖上，这样螃蟹就不会逃走？”，他问到。
 > 
 > "You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
 > 
