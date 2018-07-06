@@ -267,19 +267,19 @@ Questo grafico mostra come cambia la scadenza del periodo di votazione in rispos
 
 ![](\img_the_new_marketplace.png)
 
-Uno degli obiettivi primari delle ricompense di Steem è quello di produrre le migliori discussioni su internet. Ogni anno il 10% della capitalizzazione di mercato annua di Steem viene distribuita agli utenti presentando, votando e discutendo il contenuto. At the size of Bitcoin this could be as much as $1.75 million dollars per day being given to top contributors.
+Uno degli obiettivi primari delle ricompense di Steem è quello di produrre le migliori discussioni su internet. Ogni anno il 10% della capitalizzazione di mercato annua di Steem viene distribuita agli utenti presentando, votando e discutendo il contenuto. Considerando che il valore Bitcoin questo potrebbe essere fino a $ 1,75 milioni di dollari al giorno per i maggiori contributori.  
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
+La distribuzione effettiva dipenderà dai modelli di voto degli utenti, ma, noi sospettiamo, che la grande maggioranza delle ricompense verrà distribuita ai contenuti più popolari. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
 
-\\(votes[x]^{2} / sum(votes[0...n]^{2})\\)
+\\ (voti [x] ^ {2} / somma (voti [0 ... n] ^ {2}) \\) 
 
-Zipf's Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the \\(k^{th}\\)-ranked item will measure about 1/k of the first one.
+La legge di Zipf[^7] è una di quelle regole empiriche che caratterizzano incredibilmente bene, una sorprendente gamma di fenomeni del mondo reale. Essa afferma che, se ordiniamo una grosso insieme di elementi in base alla dimensione o alla popolarità, il secondo elemento di questo insieme sarà della metà della misura del primo, il terzo sarà di circa un terzo della misura del primo, e così via. In generale, l'elemento \\(k^{th}\\) classificato, misurerà circa 1/k rispetto al primo.
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf's Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Considerando la polarità come una una misura approssimativa di valore, il valore di ogni singolo elemento viene dato dalla legge di Zipf. Ovvero, se abbiamo milioni di articoli, i 100 i più popolari contribuiranno ad un terzo del valore totale, i successivi 10.000 ad un altro terzo e, i rimanenti 989.900 all'ultimo terzo. Il valore dell'insieme di n elementi è proporzionale a log(n).
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+L'impatto causato dall'utilizzo di questa distribuzione di voto e di pagamento si ha per offrire grandi premi per contenuti buoni mentre si continuano a premiare i piccoli giocatori per le loro contribuzioni long-tail.
 
-The economic effect of this is similar to a lottery where people over-estimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone "wins something" plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+L'effetto economico di questo è simile a quello della lotteria, dove le persone sopravvalutano la loro probabilità di ottenere voti e quindi lavorano di più rispetto al valore previsto della loro ricompensa e, in questo modo, massimizzano l'ammontare totale del lavoro eseguito, al servizio della comunità. Il fatto che ognuno "vinca qualcosa" gioca sulla stessa psicologia che utilizzano i casinò per far continuare le persone a giocare d'azzardo. In altre parole, piccole ricompense aiutano a rafforzare l'idea che è possibile guadagnare ricompense più grandi.
 
 #### Rewarding Parent Posts
 
