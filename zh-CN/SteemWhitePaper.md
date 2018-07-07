@@ -247,7 +247,7 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 
 ### 限定频率的投票
 
-最小化滥用的一个最重要部分就是对投票频率的限定。 每个用户每天只能阅读并评估一定量的工作。 Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+最小化滥用的一个最重要部分就是对投票频率的限定。 每个用户每天只能阅读并评估一定量的工作。 任何尝试过于频繁的投票往往就是一个自动化和潜在滥用的信号。 Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
 ![](\img_voting_rate_limiting.png)
 
