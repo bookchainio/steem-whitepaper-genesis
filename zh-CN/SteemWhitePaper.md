@@ -243,11 +243,11 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 
 消除“滥用”是不可能的，因此也不应该成为目标。 就算那些试图“滥用”系统的人同时也在完成他们的工作。 他们通过成功的滥用系统或合谋而获得的任何利益，类似于传统的比特币挖矿，或矿池方式的合谋挖矿，至少对于货币的分发是有价值的。 不过必须要做的就是要确保滥用不要太过猖獗，以至于它会影响那些做真正支持社区及其货币的人的积极性。
 
-创建一个社区货币的目标就是使得更多的“螃蟹在桶中”。 采用非常极端的方式来消除所有的滥用就像在螃蟹桶上盖上盖子，虽然能够防止个别螃蟹逃走，但却是以增加让新螃蟹进入桶中的难度为代价的。 It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
+创建一个社区货币的目标就是使得更多的“螃蟹在桶中”。 采用非常极端的方式来消除所有的滥用就像在螃蟹桶上盖上盖子，虽然能够防止个别螃蟹逃走，但却是以增加让新螃蟹进入桶中的难度为代价的。 其实，只要使得墙壁变滑，并给予螃蟹足够的权力来防止其他螃蟹逃脱就足够了。
 
-### Rate Limited Voting
+### 限定频率的投票
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+最小化滥用的一个最重要部分就是对投票频率的限定。 每个用户每天只能阅读并评估一定量的工作。 Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
 ![](\img_voting_rate_limiting.png)
 
