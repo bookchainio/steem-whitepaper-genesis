@@ -241,9 +241,9 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 > 
 > So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
 
-消除“滥用”是不可能的，因此也不应该成为目标。 就算那些试图“滥用”系统的人同时也在完成他们的工作。 他们通过成功的滥用系统或合谋而获得的任何利益，类似于传统的比特币挖矿，或矿池方式的合谋挖矿，至少对于货币的分发是有价值的。 All that is necessary is to ensure that abuse isn't so rampant that it undermines the incentive to do real work in support of the community and its currency.
+消除“滥用”是不可能的，因此也不应该成为目标。 就算那些试图“滥用”系统的人同时也在完成他们的工作。 他们通过成功的滥用系统或合谋而获得的任何利益，类似于传统的比特币挖矿，或矿池方式的合谋挖矿，至少对于货币的分发是有价值的。 不过必须要做的就是要确保滥用不要太过猖獗，以至于它会影响那些做真正支持社区及其货币的人的积极性。
 
-The goal of building a community currency is to get more "crabs in the bucket". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
+创建一个社区货币的目标就是使得更多的“螃蟹在桶中”。 Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
 
 ### Rate Limited Voting
 
