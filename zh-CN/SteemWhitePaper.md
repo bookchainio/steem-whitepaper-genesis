@@ -267,9 +267,9 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 
 ![](\img_the_new_marketplace.png)
 
-Steem奖励系统的一个主要目标就是产生在互联网上的最佳讨论。 在每一年，Steem市值的10%都会分配给那些提交内容，投票，和讨论内容的用户。 At the size of Bitcoin this could be as much as $1.75 million dollars per day being given to top contributors.
+Steem奖励系统的一个主要目标就是产生在互联网上的最佳讨论。 在每一年，Steem市值的10%都会分配给那些提交内容，投票，和讨论内容的用户。 按照比特币的规模来计算，这就相当于每天会有175万美元被奖励给那些最佳贡献者。
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
+具体的奖励分配会取决于用户投票的模式，但我们认为最主要的奖励会被分配给那些最流行的内容。 Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
 
 \\(votes[x]^{2} / sum(votes[0...n]^{2})\\)
 
