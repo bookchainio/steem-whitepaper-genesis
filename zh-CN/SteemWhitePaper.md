@@ -237,7 +237,7 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 > 
 > “为什么你不把鱼饵桶盖上，这样螃蟹就不会逃走？”，他问到。
 > 
-> "You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+> “你不明白。”，钓鱼的男人说。“如果在桶中只有一只螃蟹，毫无疑问它会很快从桶中逃出来。” 然而，当桶中有很多只螃蟹的时候，如果某只螃蟹试图沿着桶边往上爬，其他的螃蟹会抓住它并把它拖回去，因此试图逃离的螃蟹将会和其他螃蟹分享共同的命运。
 > 
 > So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
 
