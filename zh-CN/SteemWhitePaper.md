@@ -275,7 +275,7 @@ Steem奖励系统的一个主要目标就是产生在互联网上的最佳讨论
 
 Zipf定律[^7]是一种能够深刻描述范围广泛的现实世界现象的经验定律之一。 它是这样说的，如果我们按照尺寸和知名度订购一些大型收藏品，第二件是第一件尺寸的一半，但三件是第一件尺寸的三分之一，依此类推。 一般而论，第\\(k^{th}\\) 件的尺寸是第一件的1/k。
 
-把知名度作为一个对价值的粗略评估，每一个单独项目的价值可以通过Zipf定律给出。 这就是说，如果我们有一百万个项目，那么最流行的100个会占总价值的三分之一，接下来的一百万个占总价值的另外三分之一，剩下的989900个占据最后的三分之一。 The value of the collection of n items is proportional to log(n).
+把知名度作为一个对价值的粗略评估，每一个单独项目的价值可以通过Zipf定律给出。 这就是说，如果我们有一百万个项目，那么最流行的100个会占总价值的三分之一，接下来的一百万个占总价值的另外三分之一，剩下的989900个占据最后的三分之一。 含有n个项目集合的值与log(n) 成正比。
 
 The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
 
