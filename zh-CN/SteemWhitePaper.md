@@ -259,9 +259,9 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 
 ![](\img_change_voting_period_eg.png)
 
-为了进一步的防止滥用，所有的支付都会延迟一段时间，从投票开始后24个小时的股份加权平均值。 这就确保大的持股人不能在最后一秒钟投票而获利，让其他投票人（螃蟹）有机会否定潜在的滥用。 一旦向用户付款，所有的投票会被重置为0。 If votes come in after the payout then the process begins again.
+为了进一步的防止滥用，所有的支付都会延迟一段时间，从投票开始后24个小时的股份加权平均值。 这就确保大的持股人不能在最后一秒钟投票而获利，让其他投票人（螃蟹）有机会否定潜在的滥用。 一旦向用户付款，所有的投票会被重置为0。 如果投票发生在付款之后，则整个过程重新开始。
 
-This chart shows how the voting period expiration changes in response to new positive and negative votes being applied. New votes extend the payout period in proportion to how large they are relative to all votes that have gone before. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
+这个图表显示了在新的投票和负投票后，有效投票区间发生的变化。 New votes extend the payout period in proportion to how large they are relative to all votes that have gone before. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
 
 ### Payout Distribution
 
