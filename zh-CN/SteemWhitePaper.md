@@ -239,7 +239,7 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 > 
 > “你不明白。”，钓鱼的男人说。“如果在桶中只有一只螃蟹，毫无疑问它会很快从桶中逃出来。” 然而，当桶中有很多只螃蟹的时候，如果某只螃蟹试图沿着桶边往上爬，其他的螃蟹会抓住它并把它拖回去，因此试图逃离的螃蟹将会和其他螃蟹分享共同的命运。
 > 
-> So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+> 人也是这样的。 如果某人试图做不一样的事情，获得更好的成绩，提高自己，逃离现有的环境，或者追寻更大的梦想，其他人会试图把她拖回去以分享相同的命运。
 
 消除“滥用”是不可能的，因此也不应该成为目标。 就算那些试图“滥用”系统的人同时也在完成他们的工作。 他们通过成功的滥用系统或合谋而获得的任何利益，类似于传统的比特币挖矿，或矿池方式的合谋挖矿，至少对于货币的分发是有价值的。 不过必须要做的就是要确保滥用不要太过猖獗，以至于它会影响那些做真正支持社区及其货币的人的积极性。
 
