@@ -247,11 +247,11 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 
 ### 限定频率的投票
 
-最小化滥用的一个最重要部分就是对投票频率的限定。 每个用户每天只能阅读并评估一定量的工作。 任何尝试过于频繁的投票往往就是一个自动化和潜在滥用的信号。 Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+最小化滥用的一个最重要部分就是对投票频率的限定。 每个用户每天只能阅读并评估一定量的工作。 任何尝试过于频繁的投票往往就是一个自动化和潜在滥用的信号。 通过投票频率的限定，频繁投票持股人的每一个投票的影响力要低于那些相对投票较少的持股人。 试图将代币在多个账户间分割同时也会将投票的影响力进行分割，因此不会增加其净影响力，也不会跳过投票频率的限定。
 
 ![](\img_voting_rate_limiting.png)
 
-The charts above shows how a user's voting power decreases every time they vote and then regenerates as time passes without voting. These charts use nominal time unit and could be made to scale to any targeted voting rate. Note that voting power rapidly drops off during periods of continuous voting, and then slowly recovers.
+上面的图表展示了一个用户的投票能量如何在其投票后减少，以及伴随着未投票时间的流逝如何恢复投票能量。 这些图表使用的是名义上的时间，同时可以被扩展到任何目标投票频率。 Note that voting power rapidly drops off during periods of continuous voting, and then slowly recovers.
 
 Voting power is multiplied by a user's vesting tokens to determine how much share in the reward pool should be allocated to a given work item.
 
