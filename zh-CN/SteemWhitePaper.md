@@ -273,7 +273,7 @@ Steem奖励系统的一个主要目标就是产生在互联网上的最佳讨论
 
 \\(votes[x]^{2} / sum(votes[0...n]^{2})\\)
 
-Zipf定律[^7]是一种能够深刻描述范围广泛的现实世界现象的经验定律之一。 It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the \\(k^{th}\\)-ranked item will measure about 1/k of the first one.
+Zipf定律[^7]是一种能够深刻描述范围广泛的现实世界现象的经验定律之一。 它是这样说的，如果我们按照尺寸和知名度订购一些大型收藏品，第二件是第一件尺寸的一半，但三件是第一件尺寸的三分之一，依此类推。 In general, the \\(k^{th}\\)-ranked item will measure about 1/k of the first one.
 
 Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf's Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
 
