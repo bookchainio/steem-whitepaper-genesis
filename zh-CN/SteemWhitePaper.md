@@ -261,13 +261,13 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 
 为了进一步的防止滥用，所有的支付都会延迟一段时间，从投票开始后24个小时的股份加权平均值。 这就确保大的持股人不能在最后一秒钟投票而获利，让其他投票人（螃蟹）有机会否定潜在的滥用。 一旦向用户付款，所有的投票会被重置为0。 如果投票发生在付款之后，则整个过程重新开始。
 
-这个图表显示了在新的投票和负投票后，有效投票区间发生的变化。 New votes extend the payout period in proportion to how large they are relative to all votes that have gone before. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
+这个图表显示了在新的投票和负投票后，有效投票区间发生的变化。 新的投票会延长付款期，具体取决于新投票和所有已经投票的比例。 Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
 
-### Payout Distribution
+### 支付分配
 
 ![](\img_the_new_marketplace.png)
 
-One of the primary goals of Steem's reward system is to produce the best discussions on the internet. Each and every year 10% of the market capitalization of Steem is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be as much as $1.75 million dollars per day being given to top contributors.
+Steem奖励系统的一个主要目标就是产生在互联网上的最佳讨论。 在每一年，Steem市值的10%都会分配给那些提交内容，投票，和讨论内容的用户。 At the size of Bitcoin this could be as much as $1.75 million dollars per day being given to top contributors.
 
 The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
 
