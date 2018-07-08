@@ -251,11 +251,11 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 
 ![](\img_voting_rate_limiting.png)
 
-上面的图表展示了一个用户的投票能量如何在其投票后减少，以及伴随着未投票时间的流逝如何恢复投票能量。 这些图表使用的是名义上的时间，同时可以被扩展到任何目标投票频率。 Note that voting power rapidly drops off during periods of continuous voting, and then slowly recovers.
+上面的图表展示了一个用户的投票能量如何在其投票后减少，以及伴随着未投票时间的流逝如何恢复投票能量。 这些图表使用的是名义上的时间，同时可以被扩展到任何目标投票频率。 需要注意的是，投票能量会在连续投票时快速下降，然后缓慢的恢复。
 
-Voting power is multiplied by a user's vesting tokens to determine how much share in the reward pool should be allocated to a given work item.
+投票能量乘以用户投资的代币，可被用来决定在奖励池中的多少份额会被分配给指定的工作。
 
-### Delayed Payouts
+### 延迟支付
 
 ![](\img_change_voting_period_eg.png)
 
