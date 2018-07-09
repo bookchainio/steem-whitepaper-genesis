@@ -261,7 +261,7 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 
 为了进一步的防止滥用，所有的支付都会延迟一段时间，从投票开始后24个小时的股份加权平均值。 这就确保大的持股人不能在最后一秒钟投票而获利，让其他投票人（螃蟹）有机会否定潜在的滥用。 一旦向用户付款，所有的投票会被重置为0。 如果投票发生在付款之后，则整个过程重新开始。
 
-这个图表显示了在新的投票和负投票后，有效投票区间发生的变化。 新的投票会延长付款期，具体取决于新投票和所有已经投票的比例。 Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
+这个图表显示了在新的投票和负投票后，有效投票区间发生的变化。 新的投票会延长付款期，具体取决于新投票和所有已经投票的比例。 在第40个小时的时候，大批新的投票加入，导致投票区间被延长了12个小时，在整个投票期间，那些后续的小的投票会产生远远次要的影响。
 
 ### 支付分配
 
@@ -287,11 +287,11 @@ Zipf定律[^7]是一种能够深刻描述范围广泛的现实世界现象的经
 
 不能正确的把你的帖子发布在适合层级的讨论会导致你会获得负投票。
 
-This incentive structure motivates people to contribute in a way that motivates others to get involved. It encourages people to ask good questions so that others can provide valuable answers.
+这种结构的激励会鼓励人们以鼓励他人参与的方式来进行贡献。它鼓励人们提出好的问题，从而使得他人可以提供有价值的答案。
 
-### Payouts
+### 支付
 
-When a post receives a payout it takes the form of 50% SMD and 50% SP. The Steem Power give the user increased voting and transaction power while the SMD gives the user an immediate benefit in a stable currency. As we've already discussed at length, both SP and SMD are designed to encourage long-term holding rather than short-term selling.
+当一个帖子获得收益的时候，它以50% SMD和50% SP的方式支付。 Steem Power会给用户增加投票和交易的力度，而SMD则以一种稳定货币的形式给用户提供了即刻的利益。 就像我们先前长篇讨论的一样，SP和SMD都被设计为鼓励用户长期持有，而不是短期出售的。
 
 # Consensus Algorithm
 
