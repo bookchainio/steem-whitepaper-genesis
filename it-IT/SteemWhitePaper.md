@@ -283,23 +283,23 @@ L'effetto economico di questo è simile a quello della lotteria, dove le persone
 
 #### Ricompensare gli articoli principali 
 
-Una buona discussione richiede che ci sia un alternarsi di domande e risposte. Quando rispondi a qualcun altro, essi ricevono il 50% dei pagamenti che ottieni in quella discussione. Questa regola si applica fino a 6 livelli di profondità. Starting a big discussion greatly rewards the parent poster.
+Una buona discussione richiede che ci sia un alternarsi di domande e risposte. Quando rispondi a qualcun altro, essi ricevono il 50% dei pagamenti che ottieni in quella discussione. Questa regola si applica fino a 6 livelli di profondità. Dare origine ad una grande interazione premia grandemente il post principale. 
 
-Failure to properly nest your posts in the discussion is a good way to get down voted.
+La mancata riuscita ad indirizzare in modo appropriato il tuo articolo in una discussione, è un buon modo per essere votati negativamente. 
 
-This incentive structure motivates people to contribute in a way that motivates others to get involved. It encourages people to ask good questions so that others can provide valuable answers.
+Questa struttura di incentivi motiva le persone a contribuire in modo tale da motivare gli altri a farsi coinvolgere. Questo incoraggia le persone a fare valide domande in modo che altri possano fornire risposte preziose
 
-### Payouts
+### Pagamenti
 
-When a post receives a payout it takes the form of 50% SMD and 50% SP. The Steem Power give the user increased voting and transaction power while the SMD gives the user an immediate benefit in a stable currency. As we've already discussed at length, both SP and SMD are designed to encourage long-term holding rather than short-term selling.
+Quando un post riceve un pagamento, avviene sotto forma del 50% di SMD e del 50% di SP. Lo Steem Power consente all'utente di aumentare il voto e la potenza della transazione, mentre il SMD offre all'utente un vantaggio immediato in una valuta stabile. Come abbiamo già discusso a lungo, sia SP che SMD sono progettati per incoraggiare gli investimenti a lungo termine piuttosto che la vendita a breve termine. 
 
-# Consensus Algorithm
+# Algoritmo di consenso
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+Il consenso è il processo attraverso il quale una comunità giunge a un accordo universalmente riconosciuto e univoco su un'informazione. Ci sono molti algoritmi che la società ha sviluppato per raggiungere il consenso su chi possiede cosa. Ogni governo sulla terra è un algoritmo di consenso primitivo in base al quale la popolazione si impegna a rispettare un certo insieme di regole sancite da una costituzione. I governi stabiliscono tribunali, giudici e giurie per interpretare fatti soggettivi e presentare una decisione definitiva. La maggior parte delle volte le persone rispettano la decisione anche se in quel momento risultava essere sbagliata. 
 
-The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+Gli algoritmi utilizzati dalle criptovalute forniscono un modo migliore per raggiungere l'opinione generale Le testimonianze firmate crittograficamente dagli individui sono registrate in un libro mastro pubblico che stabilisce l'ordine globale assoluto degli eventi. Un algoritmo deterministico del computer può quindi elaborare questo libro mastro per trarne una conclusione universalmente accettata. Finché i membri di una comunità sono d'accordo sull'algoritmo di elaborazione, il risultato dell'algoritmo risulta essere autorevole. 
 
-The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+Il fattore principale è determinare a quale testimonianza è consentita l'iscrizione nel registro pubblico. I sistemi dovrebbero essere progettati per minimizzare la potenziale censura. La censura sul registro pubblico è simile a impedire a qualcuno di votare in un'elezione. In both cases an individual is prevented from impacting the global consensus.
 
 ## Consensus in Steem
 
