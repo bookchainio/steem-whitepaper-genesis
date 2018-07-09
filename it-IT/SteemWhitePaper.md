@@ -281,9 +281,9 @@ L'impatto causato dall'utilizzo di questa distribuzione di voto e di pagamento s
 
 L'effetto economico di questo è simile a quello della lotteria, dove le persone sopravvalutano la loro probabilità di ottenere voti e quindi lavorano di più rispetto al valore previsto della loro ricompensa e, in questo modo, massimizzano l'ammontare totale del lavoro eseguito, al servizio della comunità. Il fatto che ognuno "vinca qualcosa" gioca sulla stessa psicologia che utilizzano i casinò per far continuare le persone a giocare d'azzardo. In altre parole, piccole ricompense aiutano a rafforzare l'idea che è possibile guadagnare ricompense più grandi.
 
-#### Rewarding Parent Posts
+#### Ricompensare gli articoli principali 
 
-Good discussion requires back and forth posting. When you reply to someone else, they get 50% of any payout you receive in that thread. This rule applies up to 6 levels deep. Starting a big discussion greatly rewards the parent poster.
+Una buona discussione richiede che ci sia un alternarsi di domande e risposte. Quando rispondi a qualcun altro, essi ricevono il 50% dei pagamenti che ottieni in quella discussione. Questa regola si applica fino a 6 livelli di profondità. Starting a big discussion greatly rewards the parent poster.
 
 Failure to properly nest your posts in the discussion is a good way to get down voted.
 
