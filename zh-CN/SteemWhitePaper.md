@@ -279,13 +279,13 @@ Zipf定律[^7]是一种能够深刻描述范围广泛的现实世界现象的经
 
 这种投票和支付的分配结果在是对优质内容大力奖励的同时，对众多较小用户的贡献也能兼顾的奖励。
 
-The economic effect of this is similar to a lottery where people over-estimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone "wins something" plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+这在经济上的效果就和彩票类似，人们高估了自己获取投票的可能性，因此会做和它们潜在奖励相比更多的工作。这样就会使得由社区服务提供的工作最大化。 事实上赌场利用类似的每个人都会“赢得一些东西”的心理，使得人们不停的参与赌博。 换句话说，小的奖励有助于加强这种想法，那就是可能会赢得更大的奖励。
 
-#### Rewarding Parent Posts
+#### 奖励父贴
 
-Good discussion requires back and forth posting. When you reply to someone else, they get 50% of any payout you receive in that thread. This rule applies up to 6 levels deep. Starting a big discussion greatly rewards the parent poster.
+好的讨论要求反复不断的发表。 当你给某人回复的时候，他们会获取你在回复收入的50%。 这个规则适用于最多六个级别的深度。 开始一个大的讨论会大大的奖励父贴。
 
-Failure to properly nest your posts in the discussion is a good way to get down voted.
+不能正确的把你的帖子发布在适合层级的讨论会导致你会获得负投票。
 
 This incentive structure motivates people to contribute in a way that motivates others to get involved. It encourages people to ask good questions so that others can provide valuable answers.
 
