@@ -277,7 +277,7 @@ Zipf定律[^7]是一种能够深刻描述范围广泛的现实世界现象的经
 
 把知名度作为一个对价值的粗略评估，每一个单独项目的价值可以通过Zipf定律给出。 这就是说，如果我们有一百万个项目，那么最流行的100个会占总价值的三分之一，接下来的一百万个占总价值的另外三分之一，剩下的989900个占据最后的三分之一。 含有n个项目集合的值与log(n) 成正比。
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+这种投票和支付的分配结果在是对优质内容大力奖励的同时，对众多较小用户的贡献也能兼顾的奖励。
 
 The economic effect of this is similar to a lottery where people over-estimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone "wins something" plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
