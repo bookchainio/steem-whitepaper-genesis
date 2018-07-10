@@ -299,7 +299,7 @@ Il consenso è il processo attraverso il quale una comunità giunge a un accordo
 
 Gli algoritmi utilizzati dalle criptovalute forniscono un modo migliore per raggiungere l'opinione generale La testimonianze firmate crittograficamente dagli individui, è registrata in un libro mastro pubblico che stabilisce l'ordine globale assoluto degli eventi. Un algoritmo deterministico del computer può quindi elaborare questo libro mastro per trarne una conclusione universalmente accettata. Finché i membri di una comunità sono d'accordo sull'algoritmo di elaborazione, il risultato dell'algoritmo risulta essere autorevole. 
 
-Il fattore principale è determinare a quale testimonianza è consentita l'iscrizione nel registro pubblico. I sistemi dovrebbero essere progettati per minimizzare la potenziale censura. La censura sul registro pubblico è simile a impedire a qualcuno di votare in un'elezione. In entrambi i casi si impedisce ad un individuo di influire sul consenso globale.
+La premura principale è determinare a quale testimonianza è consentita l'iscrizione nel registro pubblico. I sistemi dovrebbero essere progettati per minimizzare la potenziale censura. La censura sul registro pubblico è simile ad impedire a qualcuno di votare in un'elezione. In entrambi i casi si impedisce ad un individuo di influire sul consenso globale.
 
 ## Consenso in Steem
 
