@@ -301,9 +301,9 @@ Gli algoritmi utilizzati dalle criptovalute forniscono un modo migliore per ragg
 
 La premura principale è determinare a quale testimonianza è consentita l'iscrizione nel registro pubblico. I sistemi dovrebbero essere progettati per minimizzare la potenziale censura. La censura sul registro pubblico è simile ad impedire a qualcuno di votare in un'elezione. In entrambi i casi si impedisce ad un individuo di influire sul consenso globale.
 
-## Consenso in Steem
+## Il consenso in Steem
 
-Concettualmente, l'algoritmo di consenso adottato da Steem è simile all'algoritmo di consenso adottato dalle aziende di tutto il mondo Persone con una partecipazione vincolata per un valore futuro di Steem, votano per selezionare le persone responsabili di includere la testimonianza nel registro pubblico. La votazione è misurata proporzionalmente alla partecipazione vincolata di ogni individuo. 
+Concettualmente, l'algoritmo di consenso adottato da Steem è simile all'algoritmo di consenso adottato dalle aziende di tutto il mondo Le persone con una partecipazione vincolata per una valorizzazione futura di Steem, votano per selezionare le persone responsabili di includere la testimonianza nel registro pubblico. La votazione è misurata proporzionalmente alla partecipazione vincolata di ogni individuo. 
 
 Nel mondo delle criptovalute, il registro pubblico viene comunemente definito come *blockchain*. Un <0>blocco<0>è un gruppo di transazioni firmate. </p> 
 
