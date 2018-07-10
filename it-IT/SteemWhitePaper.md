@@ -291,7 +291,7 @@ Questa struttura di incentivi motiva le persone a contribuire in modo tale da mo
 
 ### Pagamenti
 
-Quando un articolo riceve un pagamento, questo viene fatto sotto forma di SBD, al 50% e SP, sempre al 50%. Lo Steem Power conferisce all'utente la possibilità di aumentare il potere di voto e di transazione, mentre l'SBD, offre all'utente un vantaggio immediato in una valuta stabile. Come abbiamo già discusso a lungo, l'SP è progettato per incoraggiare gli investimenti a lungo termine piuttosto che la vendita a breve termine.
+Quando un articolo riceve un pagamento, questo viene fatto sotto forma di SBD, al 50% e SP, sempre al 50%. Lo Steem Power conferisce all'utente la possibilità di aumentare il potere di voto e di transazione, mentre l'SMD, offre all'utente un vantaggio immediato in una valuta stabile. Come abbiamo già discusso a lungo, SMD e SP sono entrambi progettati per incoraggiare gli investimenti a lungo termine che tiene piuttosto che la vendita a breve termine.
 
 # Algoritmo di consenso
 
