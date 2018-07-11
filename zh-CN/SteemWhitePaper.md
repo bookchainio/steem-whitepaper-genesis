@@ -315,11 +315,11 @@ Consensus is the process by which a community comes to a universally recognized,
 
 ## Steem挖矿
 
-传统的基于工作量证明的区块链将出块和解决工作证明相结合。 Because the process of solving a proof of work takes an unpredictable amount of time, the result is unpredictable block production times. Steem aims to have consistent and reliable block production every 3 seconds with almost no potential for forks.
+传统的基于工作量证明的区块链将出块和解决工作证明相结合。 由于工作量证明的过程需要花费的时间无法估算，导致的结果就是不可预期的出块时间。 Steem的目标就是稳定的每3秒出一个块，同时几乎没有分叉的可能。
 
-To achieve this Steem separates block production from solving of proof of work. When a miner solves a proof of work for Steem, they broadcast a transaction containing the work. The next scheduled witness includes the transaction into the blockchain. When the transaction is included the miner is added to the queue of miners scheduled to produce blocks. Each round one miner is popped from the queue and included in the active set of witnesses. The miner gets paid when they produce a block at the time they are scheduled.
+为了实现这个，Steem将工作量证明和出块分开。 当一个矿工在Steem中完成了工作量证明，他们会广播一个包含他们工作的交易。 下一个被计划出块的见证人会将这个交易信息包含在区块链中。 当这个交易被包含在块中，矿工会被加入一个矿工队列中，而后续的出块的矿工则从队列中选取。 每一轮一个矿工从队列中出列并加入活跃的见证人组。 矿工在计划的时间内出块后会获得报酬。
 
-The difficulty of the proof of work doubles every time the queue length grows by 4. Because one miner is popped from the queue every round, and each round takes 21 \* 3 = 63 seconds, the difficulty automatically halves if no proof of work is found in no more than 21 \* 3 \* 4 = 252 seconds.
+每当队列长度增加4时，工作量证明的难度就在于增加一倍。 Because one miner is popped from the queue every round, and each round takes 21 \* 3 = 63 seconds, the difficulty automatically halves if no proof of work is found in no more than 21 \* 3 \* 4 = 252 seconds.
 
 ### Mining Rewards require Steem Power
 
