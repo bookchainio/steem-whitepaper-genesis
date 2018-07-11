@@ -309,13 +309,13 @@ Consensus is the process by which a community comes to a universally recognized,
 
 在Steem网络中，块的产生是轮流完成的。 在每一轮中，21个见证人被选择来创建和签名块中的交易。 19个这样的见证人有投票产生，1个由计算工作量证明来产生，另一个则由除去前19名的其他见证人按他们获取的投票数的比例分时产生。 这21个活跃的见证人在每一轮都重新洗牌，以避免有的见证人持续性的忽略同一见证人出的块。
 
-这个过程被设计为，无论见证人排名是否足够靠前，都能确保在每个见证人都能参与出块的同时，来提供最大的可靠性。 People have three options to overcome censorship by the top 19 elected witnesses: patiently wait in line with everyone else not in the top 19, purchase enough computational power to solve a proof of work faster than others, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
+这个过程被设计为，无论见证人排名是否足够靠前，都能确保在每个见证人都能参与出块的同时，来提供最大的可靠性。 人们由三种可能来避免当选前 19名见证人的审查制度：和其他不在前19名的见证人一起耐心等待，购买足够的计算资源来做到比别人更快的解决工作证明，或者购买更多的SP来提高投票能量。 一般而言，采用审查会导致当选见证人丢掉他们的工作，以此在Steem网络中，这并不是一个真正的问题。
 
-Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
+由于活跃的见证人可以事先知道，Steem可以每三秒钟安排见证人出块。 见证人通过NTP协议来同步他们出的块。 基于这个算法的一个衍生算法在BitShare网络中被使用了超过一年，并被证明是非常可靠的。
 
-## Mining in Steem
+## Steem挖矿
 
-Traditional proof of work blockchains combine block production with the solving of a proof of work. Because the process of solving a proof of work takes an unpredictable amount of time, the result is unpredictable block production times. Steem aims to have consistent and reliable block production every 3 seconds with almost no potential for forks.
+传统的基于工作量证明的区块链将出块和解决工作证明相结合。 Because the process of solving a proof of work takes an unpredictable amount of time, the result is unpredictable block production times. Steem aims to have consistent and reliable block production every 3 seconds with almost no potential for forks.
 
 To achieve this Steem separates block production from solving of proof of work. When a miner solves a proof of work for Steem, they broadcast a transaction containing the work. The next scheduled witness includes the transaction into the blockchain. When the transaction is included the miner is added to the queue of miners scheduled to produce blocks. Each round one miner is popped from the queue and included in the active set of witnesses. The miner gets paid when they produce a block at the time they are scheduled.
 
