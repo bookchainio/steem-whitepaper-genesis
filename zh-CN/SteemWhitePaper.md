@@ -299,15 +299,15 @@ Consensus is the process by which a community comes to a universally recognized,
 
 加密货币使用的算法提供了更好的方式来达成共识。 来自个体的用密码签名的证词被记录在公共账本上，这样就为事件建立了绝对的全局顺序。 一个确定性的计算机算法就能处理这个账本，从而得到一个能够得到普遍认可的结论。 只要社区成员认可这个处理算法，算法的结果就具备权威性。
 
-首要的考虑条件就是决定什么样的证词被允许进入到这个公共记录上。 系统应被设计为尽量减少潜在的审查。 对公共账本的审查和防止某人在选举中投票类似。 In both cases an individual is prevented from impacting the global consensus.
+首要的考虑条件就是决定什么样的证词被允许进入到这个公共记录上。 系统应被设计为尽量减少潜在的审查。 对公共账本的审查和防止某人在选举中投票类似。 在这两种情况下，一个个体被阻止影响全局性共识。
 
-## Consensus in Steem
+## Steem中的共识
 
-Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+从概念上讲，被Steem采用的共识算法类似于被全球公司采用的共识算法。 对Steem未来价值有投资兴趣的人会投票选出一些个体，由他们负责在公共记录中包含证词。 投票权重由每个个体的投资额决定。
 
-In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
+在加密货币世界里，公共记录被普遍的称作*区块链*。一个*块*就是一组经签名的交易。
 
-With Steem, block production is done in rounds. Each round 21 witnesses are selected to create and sign blocks of transactions. Nineteen (19) of these witnesses are selected by approval voting, one is selected by a computational proof-of-work, and one is timeshared by every witness that didn't make it into the top 19 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before.
+在Steem网络中，块的产生是轮流完成的。 在每一轮中，21个见证人被选择来创建和签名块中的交易。 Nineteen (19) of these witnesses are selected by approval voting, one is selected by a computational proof-of-work, and one is timeshared by every witness that didn't make it into the top 19 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before.
 
 This process is designed to provide the best reliability while ensuring that everyone has the potential to participate in block production regardless of whether they are popular enough to get voted to the top. People have three options to overcome censorship by the top 19 elected witnesses: patiently wait in line with everyone else not in the top 19, purchase enough computational power to solve a proof of work faster than others, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
 
