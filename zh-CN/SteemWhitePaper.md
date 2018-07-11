@@ -344,9 +344,9 @@ Steem采纳的挖矿算法要求矿工能够访问将来获取收益的账户的
 
 ### 防僵尸网络
 
-许多工作量证明的代币最终被僵尸网络所挖掘。 A botnet is a collection of thousands or millions of machines that have been compromised by hackers. These hackers steal the computational and electrical resources of compromised machines to mine cryptocurrency tokens.
+许多工作量证明的代币最终被僵尸网络所挖掘。 一个僵尸网络就是成千上万的被黑客入侵的机器的集合。 这些黑客偷取这些被入侵电脑的计算资源和电力来挖掘加密货币代币。
 
-Steem has many properties that prevent these computational thieves from profiting. Botnet operators are profit seeking enterprises and typically sell their stolen resources to the highest bidder. This means that those who utilize a botnet pay for the computational power in the same way that someone who uses Amazon EC2 does. The vesting requirement of Steem means that the capital spent on buying the resources of the botnet will be tied up for a long period of time during which the operator is exposed to price volatility.
+Steem有很多特性来防止这些计算窃贼们获利。 Botnet operators are profit seeking enterprises and typically sell their stolen resources to the highest bidder. This means that those who utilize a botnet pay for the computational power in the same way that someone who uses Amazon EC2 does. The vesting requirement of Steem means that the capital spent on buying the resources of the botnet will be tied up for a long period of time during which the operator is exposed to price volatility.
 
 Another way that botnet operators are prevented from profiting is the requirement to distribute the private key to all compromised machines. If even one compromised computer is discovered, the operator could lose their coins.
 
