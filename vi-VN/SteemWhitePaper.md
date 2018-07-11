@@ -78,7 +78,7 @@ Số lượng đồng STEEM đang gia tăng liên tục lên đến 100% mỗi n
 
 Nếu ai đó mua Bitcoin hoặc đồng tiền điện tử khác và bán nó, thì 10 ngày sau người đó có thể dễ dàng bị thua lỗ 3% hoặc hơn bởi những sự biến động về mặt giá cả. Còn nếu ai mua Bitcoin và sau đó bán nó trong ngày hôm đấy, thì chính người đó sẽ thường xuyên phải trả nhiều hơn 0.4% cho những chi phí thị trường. Hay nói cách khác, tỷ giá lạm phát sẽ có ảnh hưởng không đáng kể trong khoảng thời gian khi mà một cá nhân điển hình lưu giữ đồng STEEM.
 
-The majority of inflation is actually an accounting artifact rather than true reallocation of wealth. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
+Phần lớn sự lạm phát thực sự là một sự giả tưởng kế toán, hơn là sự phân phối lại của tài sản. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
 
 ## Steem Power (SP)
 
