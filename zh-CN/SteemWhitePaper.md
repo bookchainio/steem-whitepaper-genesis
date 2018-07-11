@@ -329,9 +329,9 @@ Zipf定律[^7]是一种能够深刻描述范围广泛的现实世界现象的经
 
 ### 挖矿算法
 
-Steem采纳的挖矿算法要求矿工能够访问将来获取收益的账户的私钥。 这个要求有以几个重要的结果。 首先，它鼓励优化Steem需要的椭圆曲线签名验证算法。 其次，它使得设置矿池非常困难，原因在于矿池操作者被迫和所有”匿名“ 矿工们分享对奖励的控制。 Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
+Steem采纳的挖矿算法要求矿工能够访问将来获取收益的账户的私钥。 这个要求有以几个重要的结果。 首先，它鼓励优化Steem需要的椭圆曲线签名验证算法。 其次，它使得设置矿池非常困难，原因在于矿池操作者被迫和所有”匿名“ 矿工们分享对奖励的控制。 第三，它使得使用botnets非常困难。原因在于botnet的操作者不得不把他们的私钥在所有被入侵的机器上传播。
 
-The following pseudocode describes how the proof-of-work hash value is calculated:
+下面的伪代码描述了工作量证明的哈希值是如何计算的。
 
     Let H    = Head Block ID
     Let H2   = SHA256(H + NONCE)
@@ -342,9 +342,9 @@ The following pseudocode describes how the proof-of-work hash value is calculate
     Let POW  = SHA256(K)
     
 
-### Botnet Resistant
+### 防僵尸网络
 
-Many proof of work coins end up being mined by botnets. A botnet is a collection of thousands or millions of machines that have been compromised by hackers. These hackers steal the computational and electrical resources of compromised machines to mine cryptocurrency tokens.
+许多工作量证明的代币最终被僵尸网络所挖掘。 A botnet is a collection of thousands or millions of machines that have been compromised by hackers. These hackers steal the computational and electrical resources of compromised machines to mine cryptocurrency tokens.
 
 Steem has many properties that prevent these computational thieves from profiting. Botnet operators are profit seeking enterprises and typically sell their stolen resources to the highest bidder. This means that those who utilize a botnet pay for the computational power in the same way that someone who uses Amazon EC2 does. The vesting requirement of Steem means that the capital spent on buying the resources of the botnet will be tied up for a long period of time during which the operator is exposed to price volatility.
 
