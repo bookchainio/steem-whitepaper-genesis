@@ -348,7 +348,7 @@ Steem采纳的挖矿算法要求矿工能够访问将来获取收益的账户的
 
 Steem有很多特性来防止这些计算窃贼们获利。 僵尸网络的运营者是追求利润的企业，他们出售这些资源给最高的竞价者。 这意味着那些操纵僵尸网络的人需要为计算资源付费，就像有人使用Amazon EC2并付费一样。 Steem的投资要求意味着花费在购买僵尸网络资源上的钱将会被长期绑定，并且运营商面临着价格波动。
 
-另外一种防止僵尸网络运营商获利的方式就是，要求将私钥在所有被入侵电脑上分发。 If even one compromised computer is discovered, the operator could lose their coins.
+另外一种防止僵尸网络运营商获利的方式就是，要求将私钥在所有被入侵电脑上分发。 即使只有一个被入侵的电脑被发现，僵尸网络的运营商都有可能会丢失他们的代币。
 
 The last mitigation is the dependency on latency. Most botnets are comprised of computers with poor internet connections, these slow Internet connections will dramatically reduce the effectiveness of the computational resource.
 
