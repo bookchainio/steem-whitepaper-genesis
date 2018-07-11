@@ -329,7 +329,7 @@ Zipf定律[^7]是一种能够深刻描述范围广泛的现实世界现象的经
 
 ### 挖矿算法
 
-Steem采纳的挖矿算法要求矿工能够访问将来获取收益的账户的私钥。 这个要求有以几个重要的结果。 First it encourages optimization of elliptic curve signature verification algorithms needed by Steem. Second it makes it challenging to set up mining pools because the pool operator would have to share control over the reward with all of the "anonymous" miners. Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
+Steem采纳的挖矿算法要求矿工能够访问将来获取收益的账户的私钥。 这个要求有以几个重要的结果。 首先，它鼓励优化Steem需要的椭圆曲线签名验证算法。 其次，它使得设置矿池非常困难，原因在于矿池操作者被迫和所有”匿名“ 矿工们分享对奖励的控制。 Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
 
 The following pseudocode describes how the proof-of-work hash value is calculated:
 
