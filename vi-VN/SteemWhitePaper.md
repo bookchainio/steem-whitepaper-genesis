@@ -66,7 +66,7 @@ Phần này chỉ ra những ý tưởng đằng sau Steem và các phần thư�
 
 ## Các khoản đóng góp vốn
 
-Có hai khoản mà một cộng đồng có thể cung cấp để thu hút vốn: Khoản nợ và quyền sở hữu. Những người mua lợi nhuận quyền sở hữu khi cộng đồng phát triển nhưng thua lỗ khi cộng đồng thu hẹp lại. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Có hai khoản mà một cộng đồng có thể cung cấp để thu hút vốn: Khoản nợ và quyền sở hữu. Những người mua lợi nhuận quyền sở hữu khi cộng đồng phát triển nhưng thua lỗ khi cộng đồng thu hẹp lại. Những người mua khoản nợ được đảm bảo một sự quan tâm nhất định nào đó, nhưng không được tham gia vào bất kỳ khoản lợi nhuận nào có được từ sự phát triển của cộng đồng. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SMD).
 
