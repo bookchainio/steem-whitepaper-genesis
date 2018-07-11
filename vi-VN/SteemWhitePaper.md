@@ -76,7 +76,7 @@ Steem là một đơn vị tiền tệ cơ bản của tài khoản trên chuỗ
 
 Số lượng đồng STEEM đang gia tăng liên tục lên đến 100% mỗi năm bởi sự thúc đẩy của những đồng không phải Steem đô la. Những ai nắm giữ STEEM nhưng không chuyển đổi nó sang thành SP thì sẽ làm giảm giá trị của nó xấp xỉ 0.19% mỗi ngày. Mặc dù tỷ giá hiển thị có thể hơi cao cho những phiên giao dịch có thời gian giao dịch ít hơn 10 ngày, nhưng nó vẫn rẻ hơn những chi phí cho quá trình xử lý của thẻ tín dụng thông thường. Hơn nữa, việc tạo ra các đồng tiền mã hóa hàng ngày là không đáng kể đối với sự biến động mỗi ngày.
 
-Someone who buys Bitcoin or any other cryptocurrency and sells it 10 days later could easily lose 3% or more due to price fluctuations. Someone who buys Bitcoin and then sells it the same day will usually pay more than 0.4% in market fees alone. In other words, the inflation rate is effectively insignificant during the period of time the typical individual will hold STEEM.
+Nếu ai đó mua Bitcoin hoặc đồng tiền điện tử khác và bán nó, thì 10 ngày sau người đó có thể dễ dàng bị thua lỗ 3% hoặc hơn bởi những sự biến động về mặt giá cả. Còn nếu ai mua Bitcoin và sau đó bán nó trong ngày hôm đấy, thì chính người đó sẽ thường xuyên phải trả nhiều hơn 0.4% cho những chi phí thị trường. In other words, the inflation rate is effectively insignificant during the period of time the typical individual will hold STEEM.
 
 The majority of inflation is actually an accounting artifact rather than true reallocation of wealth. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
 
