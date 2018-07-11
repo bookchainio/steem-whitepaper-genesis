@@ -346,17 +346,17 @@ Il seguente pseudocodice descrive come viene calcolato il valore hash della proo
 
 Molte proof of work per la produzione delle coin finiscono per essere minate dalle botnet. Una botnet è una raccolta di migliaia o milioni di macchine che sono state compromesse dagli hacker. Questi hacker rubano le risorse computazionali ed elettriche delle macchine compromesse per minare i token di criptovaluta.
 
-Steem ha molte caratteristiche che impediscono a questi ladri computazionali di trarre profitto. Gli operatori di botnet sono aziende che cercano profitto e in genere vendono le loro risorse rubate al miglior offerente. This means that those who utilize a botnet pay for the computational power in the same way that someone who uses Amazon EC2 does. The vesting requirement of Steem means that the capital spent on buying the resources of the botnet will be tied up for a long period of time during which the operator is exposed to price volatility.
+Steem ha molte caratteristiche che impediscono a questi ladri computazionali di trarre profitto. Gli operatori di botnet sono aziende che cercano profitto e in genere vendono le loro risorse rubate al miglior offerente. Ciò significa che chi utilizza una botnet, paga per il potere computazionale allo stesso modo di chi usa Amazon EC2 Con il requisito di maturazione di Steem si intende che il capitale speso per l'acquisto delle risorse del botnet sarà bloccato per un lungo periodo di tempo durante il quale l'operatore è esposto alla volatilità del prezzo.
 
-Another way that botnet operators are prevented from profiting is the requirement to distribute the private key to all compromised machines. If even one compromised computer is discovered, the operator could lose their coins.
+Un altro modo con il quale agli operatori di botnet viene impedito di trarre profitto, è il requisito di distribuire la chiave privata a tutte le macchine compromesse. Se viene scoperto anche un solo computer compromesso, l'operatore potrebbe perdere le sue monete.
 
-The last mitigation is the dependency on latency. Most botnets are comprised of computers with poor internet connections, these slow Internet connections will dramatically reduce the effectiveness of the computational resource.
+L'ultima attenuazione è la dipendenza dalla latenza. La maggior parte delle botnet sono costituite da computer con connessioni Internet scadenti e, queste connessioni Internet lente, ridurranno drasticamente l'efficacia della risorsa computazionale. 
 
-It should be more profitable and less risky for botnet operators to use their resources for other activities than mining STEEM.
+Dovrebbe essere più redditizio e meno rischioso per gli operatori della botnet, utilizzare le proprie risorse per altre attività rispetto a minare gli STEEM.
 
-### Mining Pool Resistant
+### Resistenza alla Mining Pool
 
-Miners have a total of 3 seconds to receive a block, solve the proof of work, and get the transaction to the next block producer. Much of this time will consist of network latency which means that it is critical for miners to be well connected to the network to make the most effective use of their computational resources.
+I minatori hanno un totale di 3 secondi per ricevere un blocco, risolvere la prova di lavoro e ottenere la transazione per il successivo produttore di blocchi. Gran parte di questo tempo consiste nella latenza della rete, il che significa che è cruciale per i minatori che siano ben collegati alla rete per farne l'uso più efficace per le loro risorse computazionali
 
 Because of the constantly changing head block and network latency, forwarding a template for mining a specific block to participants of a mining pool adds additional network latency and reduces efficiency of pooled mining significantly.
 
