@@ -72,7 +72,7 @@ Mạng lưới Steem gọi những loại tài sản khác nhau này là Steem (
 
 ## Steem (STEEM)
 
-Steem là một đơn vị tiền tệ cơ bản của tài khoản trên chuỗi khối Steem. Tất cả các đồng tiền điện tử khác đều được lấy giá trị xoay quanh giá trị của đồng STEEM. Nhìn chung mà nói, đồng STEEM chỉ nên được giữ trong những khoảng thời gian ngắn khi mà sự lưu thông tiền tệ là cần thiết. Những ai muốn tham gia hoặc rời khỏi nền tảng Steem đều sẽ phải mua hoặc bán STEEM. Once STEEM has been purchased it should be converted into SP or SMD to mitigate the impact of dilution over the long-term.
+Steem là một đơn vị tiền tệ cơ bản của tài khoản trên chuỗi khối Steem. Tất cả các đồng tiền điện tử khác đều được lấy giá trị xoay quanh giá trị của đồng STEEM. Nhìn chung mà nói, đồng STEEM chỉ nên được giữ trong những khoảng thời gian ngắn khi mà sự lưu thông tiền tệ là cần thiết. Những ai muốn tham gia hoặc rời khỏi nền tảng Steem đều sẽ phải mua hoặc bán STEEM. Một khi STEEM được mua về, nó nên được chuyển đổi sang thành SP hoặc SMD nhằm làm giảm nhẹ sự ảnh hưởng lớn của việc bị loãng, mất giá trị của đồng STEEM trong khoảng thời gian dài.
 
 STEEM is constantly increasing in supply by 100% per year due to non-SMD incentives. Someone who holds STEEM without converting it to SP is diluted by approximately 0.19% per day. While the rate may appear high, for transactions that take less than 10 days, it is still cheaper than credit card processing fees. Furthermore, the daily token creation is insignificant next to the daily volatility.
 
