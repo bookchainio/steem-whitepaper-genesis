@@ -360,9 +360,9 @@ I minatori hanno un totale di 3 secondi per ricevere un blocco, risolvere la pro
 
 A causa del blocco principale e della latenza di rete in continua evoluzione, inoltrare un modello per minare un blocco specifico ai partecipanti di una mining pool, aggiunge ulteriore latenza di rete e riduce significativamente l'efficienza dell'azione di mining delle pool.
 
-# Eliminando comisiones de transacción
+# Eliminazione delle commissioni di transazione 
 
-Steem va más allá para beneficiar a quienes contribuyen a la red. Sería contraproducente dar la espalda y cobrar a los usuarios cada vez que intentan interactuar con la comunidad.
+Steem fa di tutto per premiare le persone che contribuiscono alla rete. Sarebbe controproducente tornare indietro e accusare le persone ogni volta che tentano di interagire con la comunità.
 
 Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
 
