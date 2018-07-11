@@ -327,7 +327,7 @@ Dopo il primo mese, i minatori di Steem vengono pagati in Steem Power (SP). Lo S
 
 L'effetto di pagare in SP le ricompense derivate dal mining, è quello di impedire ai minatori di utilizzare il prezzo di oggi per determinare la redditività dell'attività di mining. Poche persone saranno d'accordo su quale sarà il prezzo futuro. Ciò significa che le difficoltà nel mining saranno inflitte da coloro che pongono la stima più elevata sul valore futuro. I minatori senza un interesse a lungo termine nella piattaforma saranno scoraggiati dal competere. In definitiva, ciò significa che i proventi delle attività di mining hanno meno probabilità di essere scaricati sul mercato perché matureranno per coloro che credono nel valore della piattaforma Steem a lungo termine.
 
-### Mining Algorithm
+### L'algoritmo di mining
 
 L'algoritmo di mining adottato da Steem richiede che il minatore abbia accesso alla chiave privata dell'account che riceverà le ricompense. Questo requisito ha diverse importanti conseguenze. Innanzitutto incoraggia l'ottimizzazione degli algoritmi di verifica della firma della curva ellittica richiesti da Steem. In secondo luogo, rende difficile impostare le pool di mining perché l'operatore della pool dovrebbe condividere il controllo della ricompensa con tutti i minatori "anonimi". In terzo luogo, rende difficile l'uso di botnet perché l'operatore botnet dovrebbe distribuire la propria chiave privata a tutte le macchine compromesse
 
@@ -362,7 +362,7 @@ A causa del blocco principale e della latenza di rete in continua evoluzione, in
 
 # Eliminazione delle commissioni di transazione 
 
-Steem fa di tutto per premiare le persone che contribuiscono alla rete. Sarebbe controproducente tornare indietro e accusare le persone ogni volta che tentano di interagire con la comunità.
+Steem fa di tutto per ricompensare le persone per il loro contribuire alla rete. Sarebbe controproducente voltare le spalle e opprimere le persone ogni volta che tentano di interagire con la comunità.
 
 Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
 
