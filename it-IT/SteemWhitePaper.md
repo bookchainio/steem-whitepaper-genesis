@@ -358,11 +358,11 @@ Dovrebbe essere più redditizio e meno rischioso per gli operatori della botnet,
 
 I minatori hanno un totale di 3 secondi per ricevere un blocco, risolvere la prova di lavoro e ottenere la transazione per il successivo produttore di blocchi. Gran parte di questo tempo consiste nella latenza della rete, il che significa che è cruciale per i minatori che siano ben collegati alla rete per farne l'uso più efficace per le loro risorse computazionali
 
-Because of the constantly changing head block and network latency, forwarding a template for mining a specific block to participants of a mining pool adds additional network latency and reduces efficiency of pooled mining significantly.
+A causa del blocco principale e della latenza di rete in continua evoluzione, inoltrare un modello per minare un blocco specifico ai partecipanti di una mining pool, aggiunge ulteriore latenza di rete e riduce significativamente l'efficienza dell'azione di mining delle pool.
 
-# Eliminating Transaction Fees
+# Eliminando comisiones de transacción
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Steem va más allá para beneficiar a quienes contribuyen a la red. Sería contraproducente dar la espalda y cobrar a los usuarios cada vez que intentan interactuar con la comunidad.
 
 Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
 
