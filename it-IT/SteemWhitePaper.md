@@ -315,7 +315,7 @@ Visto che i testimoni attivi si sanno in anticipo, Steem è capace di programmar
 
 ## Il mining in Steem
 
-La proof of work tradizionale delle blockchain combina la produzione di blocchi con la risoluzione di una proof of work. Poiché il processo di risoluzione di una proof of work richiede una quantità di tempo imprevedibile, il risultato sono tempi di produzione di blocchi imprevedibili. Steem mira ad avere una produzione di blocchi affidabile ogni 3 secondi con quasi nessun potenziale per le fork. 
+La proof of work tradizionale delle blockchain combina la produzione di blocchi con la risoluzione di una proof of work. Poiché il processo di risoluzione di una proof of work richiede una quantità di tempo imprevedibile, il risultato sono tempi di produzione di blocchi imprevedibili. Steem mira ad avere una produzione di blocchi affidabile ogni 3 secondi con quasi nessun potenziale per i fork.
 
 Per realizzare questo obiettivo, Steem separa la produzione di blocchi dalla risoluzione della proof of work. Quando un minatore risolve una proof of work per Steem, trasmette una transazione contenente il lavoro. Il successivo testimone stabilito, include la transazione nella blockchain. Quando la transazione viene inserita, il minatore viene aggiunto alla coda dei minatori stabiliti per produrre blocchi. Ad ogni turno, un minatore viene espulso dalla coda e inserito nella serie attiva di testimoni I minatori vengono pagati quando producono un blocco nel momento stabilito. 
 
