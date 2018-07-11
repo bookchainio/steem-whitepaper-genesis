@@ -307,9 +307,9 @@ Consensus is the process by which a community comes to a universally recognized,
 
 在加密货币世界里，公共记录被普遍的称作*区块链*。一个*块*就是一组经签名的交易。
 
-在Steem网络中，块的产生是轮流完成的。 在每一轮中，21个见证人被选择来创建和签名块中的交易。 Nineteen (19) of these witnesses are selected by approval voting, one is selected by a computational proof-of-work, and one is timeshared by every witness that didn't make it into the top 19 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before.
+在Steem网络中，块的产生是轮流完成的。 在每一轮中，21个见证人被选择来创建和签名块中的交易。 19个这样的见证人有投票产生，1个由计算工作量证明来产生，另一个则由除去前19名的其他见证人按他们获取的投票数的比例分时产生。 这21个活跃的见证人在每一轮都重新洗牌，以避免有的见证人持续性的忽略同一见证人出的块。
 
-This process is designed to provide the best reliability while ensuring that everyone has the potential to participate in block production regardless of whether they are popular enough to get voted to the top. People have three options to overcome censorship by the top 19 elected witnesses: patiently wait in line with everyone else not in the top 19, purchase enough computational power to solve a proof of work faster than others, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
+这个过程被设计为，无论见证人排名是否足够靠前，都能确保在每个见证人都能参与出块的同时，来提供最大的可靠性。 People have three options to overcome censorship by the top 19 elected witnesses: patiently wait in line with everyone else not in the top 19, purchase enough computational power to solve a proof of work faster than others, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
 
 Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
 
