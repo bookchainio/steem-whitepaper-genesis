@@ -60,9 +60,9 @@ Voting input from community members is critical for Steem to accurately allocate
 
 There are other forms of contribution that Steem recognizes and rewards using objective metrics. Among these are: transaction validation, proof of work mining, liquidity rewards, and reporting of misbehaving block producers.
 
-# Ways to Contribute
+# Những cách để đóng góp
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+Phần này chỉ ra những ý tưởng đằng sau Steem và các phần thưởng của nó cho những người có những đóng góp ý nghĩa và đáng kể.
 
 ## Capital Contributions
 
