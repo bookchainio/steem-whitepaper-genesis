@@ -297,9 +297,9 @@ Zipf定律[^7]是一种能够深刻描述范围广泛的现实世界现象的经
 
 Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
 
-加密货币使用的算法提供了更好的方式来达成共识。 Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+加密货币使用的算法提供了更好的方式来达成共识。 来自个体的用密码签名的证词被记录在公共账本上，这样就为事件建立了绝对的全局顺序。 一个确定性的计算机算法就能处理这个账本，从而得到一个能够得到普遍认可的结论。 只要社区成员认可这个处理算法，算法的结果就具备权威性。
 
-The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+首要的考虑条件就是决定什么样的证词被允许进入到这个公共记录上。 系统应被设计为尽量减少潜在的审查。 对公共账本的审查和防止某人在选举中投票类似。 In both cases an individual is prevented from impacting the global consensus.
 
 ## Consensus in Steem
 
