@@ -325,7 +325,7 @@ Zipf定律[^7]是一种能够深刻描述范围广泛的现实世界现象的经
 
 在第一个月后，Steem矿工会获得Steem Power (SP) 方式的报酬。 SP通过为期两年的"powering down"过程进行结算。 这就意味着，矿工必须要等待一个很长的时间，可能是很多月，才能将他们挖矿获得的奖励来power down，从而用来支付电费和其他计算资源。 这个powering down的过程就会阻止创建矿池，原因在于矿池的操作者不得不在数年内分摊支持。
 
-The effect of paying mining rewards in SP is to prevent miners from using today's price to determine the pro tability of mining. Few people will agree on what the future price will be. This means mining difficulty will be driven by those who place the highest estimate on future value. Miners without a long-term interest in the platform will be discouraged from competing. Ultimately this means that the proceeds of mining are less likely to be dumped on the market because they will accrue to long-term believers in the platform.
+为挖矿以SP形式支付报酬可以防止矿工们通过今日的价格来决定挖矿的可行性。 Few people will agree on what the future price will be. This means mining difficulty will be driven by those who place the highest estimate on future value. Miners without a long-term interest in the platform will be discouraged from competing. Ultimately this means that the proceeds of mining are less likely to be dumped on the market because they will accrue to long-term believers in the platform.
 
 ### Mining Algorithm
 
