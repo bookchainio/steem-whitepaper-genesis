@@ -329,9 +329,9 @@ L'effetto di pagare in SP le ricompense derivate dal mining, è quello di impedi
 
 ### Mining Algorithm
 
-La proof of work tradizionale delle blockchain combina la produzione di blocchi con la risoluzione di una proof of work. This requirement has several important consequences. First it encourages optimization of elliptic curve signature verification algorithms needed by Steem. Second it makes it challenging to set up mining pools because the pool operator would have to share control over the reward with all of the "anonymous" miners. Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
+L'algoritmo di mining adottato da Steem richiede che il minatore abbia accesso alla chiave privata dell'account che riceverà le ricompense. Questo requisito ha diverse importanti conseguenze. Innanzitutto incoraggia l'ottimizzazione degli algoritmi di verifica della firma della curva ellittica richiesti da Steem. In secondo luogo, rende difficile impostare le pool di mining perché l'operatore della pool dovrebbe condividere il controllo della ricompensa con tutti i minatori "anonimi". In terzo luogo, rende difficile l'uso di botnet perché l'operatore botnet dovrebbe distribuire la propria chiave privata a tutte le macchine compromesse
 
-The following pseudocode describes how the proof-of-work hash value is calculated:
+Il seguente pseudocodice descrive come viene calcolato il valore hash della proof-of-work:
 
     Let H    = Head Block ID
     Let H2   = SHA256(H + NONCE)
@@ -342,11 +342,11 @@ The following pseudocode describes how the proof-of-work hash value is calculate
     Let POW  = SHA256(K)
     
 
-### Botnet Resistant
+### Resistenza alle botnet
 
-Many proof of work coins end up being mined by botnets. A botnet is a collection of thousands or millions of machines that have been compromised by hackers. These hackers steal the computational and electrical resources of compromised machines to mine cryptocurrency tokens.
+Molte proof of work per la produzione delle coin finiscono per essere minate dalle botnet. Una botnet è una raccolta di migliaia o milioni di macchine che sono state compromesse dagli hacker. Questi hacker rubano le risorse computazionali ed elettriche delle macchine compromesse per minare i token di criptovaluta.
 
-Steem has many properties that prevent these computational thieves from profiting. Botnet operators are profit seeking enterprises and typically sell their stolen resources to the highest bidder. This means that those who utilize a botnet pay for the computational power in the same way that someone who uses Amazon EC2 does. The vesting requirement of Steem means that the capital spent on buying the resources of the botnet will be tied up for a long period of time during which the operator is exposed to price volatility.
+Steem ha molte caratteristiche che impediscono a questi ladri computazionali di trarre profitto. Gli operatori di botnet sono aziende che cercano profitto e in genere vendono le loro risorse rubate al miglior offerente. This means that those who utilize a botnet pay for the computational power in the same way that someone who uses Amazon EC2 does. The vesting requirement of Steem means that the capital spent on buying the resources of the botnet will be tied up for a long period of time during which the operator is exposed to price volatility.
 
 Another way that botnet operators are prevented from profiting is the requirement to distribute the private key to all compromised machines. If even one compromised computer is discovered, the operator could lose their coins.
 
