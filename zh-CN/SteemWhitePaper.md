@@ -239,7 +239,7 @@ Steem喂价者面临的最主要问题就是，将SMD和美元 (USD)之间的汇
 > 
 > “你不明白。”，钓鱼的男人说。“如果在桶中只有一只螃蟹，毫无疑问它会很快从桶中爬出来。” 然而，当桶中有很多只螃蟹的时候，如果某只螃蟹试图沿着桶边往上爬，其他的螃蟹会抓住它并把它拖回去，因此试图逃离的螃蟹将会和其他螃蟹分享共同的命运。
 > 
-> 人也是这样的。 如果某人试图做不一样的事情，获得更好的成绩，提高自己，逃离现有的环境，或者追寻更大的梦想，其他人会试图把她拖回去以分享相同的命运。
+> 人也是这样的。 如果某人试图做不一样的事情，获得更好的成绩，自我提升，逃离现有的环境，或者追寻更大的梦想，其他人会试图把她拖回去以分享相同的命运。
 
 消除“滥用”是不可能的，因此也不应该成为目标。 就算那些试图“滥用”系统的人同时也在完成他们的工作。 他们通过成功的滥用系统或合谋而获得的任何利益，就和传统的比特币挖矿，或矿池方式的合谋挖矿类似，至少对于货币的分发是有价值的。 不过必须要做的就是要确保滥用不要太过猖獗，以至于它会影响那些真正在工作，并以此来支持社区及其货币的人的积极性。
 
@@ -279,11 +279,11 @@ Zipf定律[^7]是一种能够深刻描述范围广泛的现实世界现象的经
 
 这种投票和支付的分配结果在是对优质内容大力奖励的同时，对众多较小用户的贡献也能兼顾的进行奖励。
 
-这在经济上的效果就和彩票类似，人们高估了自己获取投票的可能性，因此会做和他们潜在奖励相比更多的工作。这样就会使得由社区服务提供的工作最大化。 事实上赌场利用类似的每个人都会“赢得一些东西”的心理，使得人们不停的参与赌博。 换句话说，小的奖励有助于加强这种想法，那就是可能会赢得更大的奖励。
+这在经济上的效果就和彩票类似，人们高估了自己获取投票的可能性，因此会做和他们潜在奖励相比更多的工作。这样就会使得由社区服务提供的工作最大化。 事实上赌场利用类似的每个人都会“赢些少”的心理，使得人们不停的参与赌博。 换句话说，小的奖励有助于加强这种想法，那就是可能会赢得更大的奖励。
 
 #### 奖励父贴
 
-好的讨论需要来回发表。 当你给某人回复的时候，他们会获取你回复收入的50%。 这个规则适用于最多六个级别的深度。 开始一个大的讨论会大大的奖励父贴。
+好的讨论需要来回发表。 当你给某人回复的时候，他们会获取你回复收入的50%。 这个规则适用于最多6层深度。 开始一个大的讨论会大大的奖励父贴。
 
 不能在讨论中正确的嵌套你的帖子会导致你获得负投票。
 
@@ -297,7 +297,7 @@ Zipf定律[^7]是一种能够深刻描述范围广泛的现实世界现象的经
 
 Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
 
-The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+加密货币使用的算法提供了更好的方式来达成共识。 Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
 
 The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
 
