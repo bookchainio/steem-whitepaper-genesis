@@ -325,11 +325,11 @@ Zipf定律[^7]是一种能够深刻描述范围广泛的现实世界现象的经
 
 在第一个月后，Steem矿工会获得Steem Power (SP) 方式的报酬。 SP通过为期两年的"powering down"过程进行结算。 这就意味着，矿工必须要等待一个很长的时间，可能是很多月，才能将他们挖矿获得的奖励来power down，从而用来支付电费和其他计算资源。 这个powering down的过程就会阻止创建矿池，原因在于矿池的操作者不得不在数年内分摊支持。
 
-为挖矿以SP形式支付报酬可以防止矿工们通过今日的价格来决定挖矿的可行性。 Few people will agree on what the future price will be. This means mining difficulty will be driven by those who place the highest estimate on future value. Miners without a long-term interest in the platform will be discouraged from competing. Ultimately this means that the proceeds of mining are less likely to be dumped on the market because they will accrue to long-term believers in the platform.
+为挖矿以SP形式支付报酬可以防止矿工们通过今日的价格来决定挖矿的可行性。 很少有人会同意将来的价格是多少。 这意味着挖矿难度将由那些对未来价格预期最高的矿工来决定。 对平台没有长期兴趣的矿工们不被鼓励参与竞争。 最终这意味着，由于矿工会是长期信任平台的人，挖矿的收益不太可能会被倾销到市场上去。
 
-### Mining Algorithm
+### 挖矿算法
 
-The mining algorithm adopted by Steem requires the miner to have access to the private key of the account that will receive the rewards. This requirement has several important consequences. First it encourages optimization of elliptic curve signature verification algorithms needed by Steem. Second it makes it challenging to set up mining pools because the pool operator would have to share control over the reward with all of the "anonymous" miners. Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
+Steem采纳的挖矿算法要求矿工能够访问将来获取收益的账户的私钥。 这个要求有以几个重要的结果。 First it encourages optimization of elliptic curve signature verification algorithms needed by Steem. Second it makes it challenging to set up mining pools because the pool operator would have to share control over the reward with all of the "anonymous" miners. Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
 
 The following pseudocode describes how the proof-of-work hash value is calculated:
 
