@@ -78,9 +78,9 @@ Số lượng đồng STEEM đang gia tăng liên tục lên đến 100% mỗi n
 
 Nếu ai đó mua Bitcoin hoặc đồng tiền điện tử khác và bán nó, thì 10 ngày sau người đó có thể dễ dàng bị thua lỗ 3% hoặc hơn bởi những sự biến động về mặt giá cả. Còn nếu ai mua Bitcoin và sau đó bán nó trong ngày hôm đấy, thì chính người đó sẽ thường xuyên phải trả nhiều hơn 0.4% cho những chi phí thị trường. Hay nói cách khác, tỷ giá lạm phát sẽ có ảnh hưởng không đáng kể trong khoảng thời gian khi mà một cá nhân điển hình lưu giữ đồng STEEM.
 
-Phần lớn sự lạm phát thực sự là một sự tăng giá giả tạo, hơn là sự phân phối lại của tài sản. 90% lạm phát của những đồng không phải SMD được phân phối lại cho những người nắm giữ đồng STEEM hiện tại, tỷ lệ với giá trị đồng STEEM của số dư SP trong ví của họ. Only about 10% of non-SMD inflation redistributes ownership in the network.
+Phần lớn sự lạm phát thực sự là một sự tăng giá giả tạo, hơn là sự phân phối lại của tài sản. 90% lạm phát của những đồng không phải SMD được phân phối lại cho những người nắm giữ đồng STEEM hiện tại, tỷ lệ với giá trị đồng STEEM của số dư SP trong ví của họ. Chỉ khoảng chừng 10% lạm phát của những đồng không phải SMD được phân phối lại cho quyền sở hữu trong mạng lưới.
 
-## Steem Power (SP)
+## Steem quyền lực (SP)
 
 Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
