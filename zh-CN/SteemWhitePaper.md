@@ -319,11 +319,11 @@ Consensus is the process by which a community comes to a universally recognized,
 
 为了实现这个，Steem将工作量证明和出块分开。 当一个矿工在Steem中完成了工作量证明，他们会广播一个包含他们工作的交易。 下一个被计划出块的见证人会将这个交易信息包含在区块链中。 当这个交易被包含在块中，矿工会被加入一个矿工队列中，而后续的出块的矿工则从队列中选取。 每一轮一个矿工从队列中出列并加入活跃的见证人组。 矿工在计划的时间内出块后会获得报酬。
 
-每当队列长度增加4时，工作量证明的难度就在于增加一倍。 Because one miner is popped from the queue every round, and each round takes 21 \* 3 = 63 seconds, the difficulty automatically halves if no proof of work is found in no more than 21 \* 3 \* 4 = 252 seconds.
+每当队列长度增加4时，工作量证明的难度就在于增加一倍。 由于每一轮中一个矿工会从出列，同时每一轮需要21 \* 3 = 63秒，如果在21 \ * 3 \ * 4 = 252秒之内找不到工作量证明，则难度会自动减半。
 
-### Mining Rewards require Steem Power
+### 挖矿奖励需要Steem Power
 
-After the first month, Steem miners are paid in Steem Power (SP). SP is liquidated through the two-year process of "powering down". This means that miners must wait for a long time, likely many months, before sufficient mining rewards have been powered down to allow them to recover the cost of electricity and computational resources. The powering down process discourages creation of mining pools because the pool operator would have to spread payouts over years.
+在第一个月后，Steem矿工会获得Steem Power (SP) 方式的报酬。 SP通过为期两年的"powering down"过程进行结算。 这就意味着，矿工必须要等待一个很长的时间，可能是很多月，才能将他们挖矿获得的奖励来power down，从而用来支付电费和其他计算资源。 这个powering down的过程就会阻止创建矿池，原因在于矿池的操作者不得不在数年内分摊支持。
 
 The effect of paying mining rewards in SP is to prevent miners from using today's price to determine the pro tability of mining. Few people will agree on what the future price will be. This means mining difficulty will be driven by those who place the highest estimate on future value. Miners without a long-term interest in the platform will be discouraged from competing. Ultimately this means that the proceeds of mining are less likely to be dumped on the market because they will accrue to long-term believers in the platform.
 
