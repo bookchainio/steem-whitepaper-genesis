@@ -293,9 +293,9 @@ Zipf定律[^7]是一种能够深刻描述范围广泛的现实世界现象的经
 
 当一个帖子获得收益的时候，它以50% SMD和50% SP的方式支付。 Steem Power会给用户增加投票和交易的力度，而SMD则以一种稳定货币的形式给用户提供了即刻的利益。 就像我们先前长篇讨论的一样，SP和SMD都被设计为鼓励用户长期持有，而不是短期出售的。
 
-# Consensus Algorithm
+# 共识算法
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+共识就是一个过程，在这个过程中社区就一些信息达成公认的、无歧义的协议。 有很多由社区开发的算法来就谁拥有什么的问题来达成共识。 在地球上的每一个政府其实就是一个原始的共识算法，人们遵守宪法中规定的一组规则。 政府建立法院、法官和陪审团来解释主观试试并作出最终裁决。 绝大多数情况下，即使决定是错误的，人们也会遵守这个决定。
 
 加密货币使用的算法提供了更好的方式来达成共识。 来自个体的用密码签名的证词被记录在公共账本上，这样就为事件建立了绝对的全局顺序。 一个确定性的计算机算法就能处理这个账本，从而得到一个能够得到普遍认可的结论。 只要社区成员认可这个处理算法，算法的结果就具备权威性。
 
