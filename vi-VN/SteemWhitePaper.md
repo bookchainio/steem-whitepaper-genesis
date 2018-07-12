@@ -116,7 +116,7 @@ Thậm chí nếu tất cả các nhà sản xuất dữ liệu đều trung th�
 
 Steem chỉ ra các yếu tố biến động giá ngắn hạn bằng cách sử dụng giá trung bình trong khoảng thời gian một tuần. Nguồn cung cấp dữ liệu xuất bản trung bình được lấy mẫu mỗi giờ trên giờ.
 
-Chừng nào nguồn cung cấp dữ liệu giá bị hỏng kéo dài ít hơn một nửa thời gian di chuyển trung bình, nó sẽ có tác động tối thiểu về mức giá chuyển đổi. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Chừng nào nguồn cung cấp dữ liệu giá bị hỏng kéo dài ít hơn một nửa thời gian di chuyển trung bình, nó sẽ có tác động tối thiểu về mức giá chuyển đổi. Trong trường hợp nguồn cung cấp dữ liệu bị hỏng, người tham gia mạng lưới sẽ có cơ hội bỏ phiếu cho các nhà sản xuất dữ liệu bị hỏng trước khi nguồn cung cấp dữ liệu bị hỏng có thể tác động đến giá chuyển đổi thực tế. Có lẽ quan trọng hơn cả, nó cho phép các nhà sản xuất dữ liệu có cơ hội phát hiện và khắc phục các vấn đề trước khi nguồn cung cấp dữ liệu của họ bắt đầu tác động đến giá cả.
 
 With a one week window, community members have three and a half days to respond to any issues that come up.
 
