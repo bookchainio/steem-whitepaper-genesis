@@ -100,7 +100,7 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
 
 ## Steem Dollars (SMD)
 
-Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
+Sự ổn định là một tính năng quan trọng cho sự thành công của các nền kinh tế toàn cầu. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
 
 Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
 
@@ -118,7 +118,7 @@ Steem chỉ ra các yếu tố biến động giá ngắn hạn bằng cách s�
 
 Chừng nào nguồn cung cấp dữ liệu giá bị hỏng kéo dài ít hơn một nửa thời gian di chuyển trung bình, nó sẽ có tác động tối thiểu về mức giá chuyển đổi. Trong trường hợp nguồn cung cấp dữ liệu bị hỏng, người tham gia mạng lưới sẽ có cơ hội bỏ phiếu cho các nhà sản xuất dữ liệu bị hỏng trước khi nguồn cung cấp dữ liệu bị hỏng có thể tác động đến giá chuyển đổi thực tế. Có lẽ quan trọng hơn cả, nó cho phép các nhà sản xuất dữ liệu có cơ hội phát hiện và khắc phục các vấn đề trước khi nguồn cung cấp dữ liệu của họ bắt đầu tác động đến giá cả.
 
-With a one week window, community members have three and a half days to respond to any issues that come up.
+Với khoảng thời gian một tuần, các thành viên trong cộng đồng có ba ngày rưỡi để trả lời bất kỳ vấn đề nảy sinh.
 
 ### Mitigating Timing Attacks
 
