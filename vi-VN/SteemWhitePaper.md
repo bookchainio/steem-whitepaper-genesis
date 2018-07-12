@@ -4,7 +4,7 @@
 
 March 2016
 
-# Những ghi chú của phiên dịch viên
+# Những ghi chú của người phiên dịch
 
 Placeholder for translator's notes.
 
@@ -66,7 +66,7 @@ Phần này chỉ ra những ý tưởng đằng sau Steem và các phần thư�
 
 ## Các khoản đóng góp vốn
 
-Có hai khoản mà một cộng đồng có thể cung cấp để thu hút vốn đó là: Khoản nợ và quyền sở hữu. Có những người thu được lợi nhuận từ việc mua quyền sở hữu khi cộng đồng phát triển đi lên, nhưng họ sẽ thua lỗ nếu như cộng đồng bị suy thoái. Còn những người mua khoản nợ thì sẽ được đảm bảo một sự quan tâm nhất định nào đó, nhưng họ không được tham gia vào bất kỳ khoản lợi nhuận nào có được từ sự phát triển của cộng đồng. Cả hai khoản đóng góp vốn này đều có giá trị không nhỏ đối với sự phát triển của cộng đồng nói chung và giá trị đồng tiền của nó nói riêng. Ngoài ra, có hai phương thức mà quyền sở hữu có thể được nắm giữ đó là: vốn luân chuyển và quyền hưởng lợi. Quyền sở hữu của phương thức quyền hưởng lợi thực hiện một sự cam kết gắn bó lâu dài và không thể bị bán tháo trong một khoảng thời gian tối thiểu.
+Có hai khoản mà một cộng đồng có thể cung cấp để thu hút vốn đó là: Khoản nợ và quyền sở hữu. Những người mua quyền sở hữu sẽ thu được lợi nhuận khi cộng đồng phát triển đi lên, nhưng họ sẽ thua lỗ nếu như cộng đồng bị suy thoái. Còn những người mua khoản nợ thì được đảm bảo một sự quan tâm nhất định nào đó, nhưng họ sẽ không được hưởng bất kỳ khoản lợi nhuận nào có được từ sự phát triển của cộng đồng. Cả hai khoản đóng góp vốn này đều có giá trị không nhỏ đối với sự phát triển của cộng đồng nói chung và giá trị đồng tiền của nó nói riêng. Ngoài ra, có hai phương thức mà quyền sở hữu có thể được nắm giữ đó là: vốn luân chuyển và quyền hưởng lợi. Quyền sở hữu của phương thức quyền hưởng lợi thực hiện một sự cam kết gắn bó lâu dài và không thể bị bán tháo trong một khoảng thời gian tối thiểu.
 
 Mạng lưới Steem gọi những loại tài sản khác nhau này là Steem (STEEM), Steem quyền lực (SP), và Steem đô la (SMD).
 
@@ -82,7 +82,7 @@ Phần lớn sự lạm phát thực sự là một sự tăng giá giả tạo,
 
 ## Steem quyền lực (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Những công ty khởi nghiệp đều đòi hỏi một sự cam kết đầu tư vốn dài hạn. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
 There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
