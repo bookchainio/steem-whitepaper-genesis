@@ -2,7 +2,7 @@
 
 ## An incentivized, blockchain-based social media platform.
 
-March 2016
+Tháng 3 năm 2016
 
 # Những ghi chú của người phiên dịch
 
