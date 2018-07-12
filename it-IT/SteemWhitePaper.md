@@ -386,17 +386,17 @@ Nel mondo dei pagamenti finanziari, piccole commissioni sono accettabili perché
 
 I sistemi come BitShares, Nxt, Ripple, Counter Party e Stellar consentono a tutti agli utenti di piazzare ordini in maniera limitata sulla blockchain, e tutti addebitano agli utenti una piccola commissione per eseguire questa operazione. Successivamente, se l'utente desidera cancellare il suo ordine, viene addebitata un'altra commissione. Sistemi come Ethereum prendono micropagamenti ad un livello completamente nuovo: addebitando in base al calcolo. Tutti questi sistemi lottano per attrarre nuovi utenti comuni per lo stesso motivo per il quale un motore di ricerca decentralizzato combatterebbe per attirare utenti da Google se esso addebitasse una piccola commissione per ogni ricerca. Non importa quanto è buono il servizio, le persone si aspettano che certe cose siano gratuite. Questo risulta essere vero anche se un utente finisce con il pagare di più in generale sotto un sistema di commissione differente.
 
-### Fees are a Barrier to Entry
+### Le commisioni sono barriere di accesso
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Ogni commissione crea una barriera di accesso per i nuovi utenti. Prima che qualcuno possa sperimentare con Ethereum, deve acquistare alcuni token ETH. Chiunque vuole costruire un programma decentralizzato su Ethereum, deve trasmettere il costo ai suoi clienti. Comprare una criptovaluta non è un lavoro facile e raramente ha senso per importi inferiori a $10. Questo vuol dire che i nuovi utenti che vogliono provare un nuovo programma decentralizzato devono innanzitutto essere convinti di partire con $10.
 
-### Changing Fees
+### Commissioni variabili
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Con il tempo, una rete deve regolare le commissioni. Questo può accadere o a causa di un aumento del valore del token, o a causa di un aumento della capacità. Gli utenti preferiscono commissioni prevedibili e servizi garantiti. Mentre è possibile regolare in modo dinamico le commissioni durante i periodi di grande utilizzo, il risultato è quello di una scarsa esperienza per l'utente.
 
-### Sybil Attacks
+### Attacchi Sybil
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA [^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+I siti web centralizzati impediscono lo spam attraverso una limitazione della velocità e attraverso alcuni tipi di verifica dell'identità. Even something as simple as reCAPTCHA [^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
 
 In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
 
