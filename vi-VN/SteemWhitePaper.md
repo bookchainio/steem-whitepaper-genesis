@@ -92,7 +92,7 @@ Bởi vì Steem muốn khuyến khích phát triển một cách lâu dài, cho 
 
 SP chỉ có thể được chuyển hết lại thành STEEM sau hơn 2 năm, chính xác hơn, quá trình này sẽ mất 104 tuần để hoàn thành với mỗi tuần nhận được 1 lượng như nhau. '1SP' có thể được xem như là 1 cổ phần trong quỹ chung của STEEM. Mạng lưới này tự động thêm STEEM vào quỹ chung mỗi khối. At any time users can convert their STEEM into SP at the same ratio as STEEM in the vesting pool to total SP. Converting STEEM to SP does not dilute existing holders of SP. Likewise, every time SP is converted back to STEEM it is done at the current ratio. Individuals are guaranteed to have more STEEM in the future than they have when they rst convert from STEEM to SP.
 
-SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Số dư SP không thể chuyển nhượng và không thể chia hết trừ các yêu cầu tự động chuyển đổi định kỳ. Điều này có nghĩa là SP không thể dễ dàng được giao dịch trên các sàn giao dịch tiền điện tử.
 
 SP là một yêu cầu để bỏ phiếu hoặc chống lại nội dung. Điều này có nghĩa là SP là một token truy cập và cấp quyền sở hữu độc quyền cho người nắm giữ nó trong nền tảng Steem.
 
