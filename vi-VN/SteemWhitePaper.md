@@ -82,7 +82,7 @@ Phần lớn sự lạm phát thực sự là một sự tăng giá giả tạo,
 
 ## Steem quyền lực (SP)
 
-Những công ty khởi nghiệp đều đòi hỏi một sự cam kết đầu tư vốn dài hạn. Những người đầu tư tiền của họ trong khoảng thời gian xây dựng ban đầu thì dự định sẽ phải chờ đợi trong nhiều năm, trước khi họ có thể bán cổ phần của mình và gặt hái được thành quả. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Những công ty khởi nghiệp đều đòi hỏi một sự cam kết đầu tư vốn dài hạn. Những người đầu tư tiền của họ trong khoảng thời gian xây dựng ban đầu thì dự định sẽ phải chờ đợi trong nhiều năm, trước khi họ có thể bán cổ phần của mình và gặt hái được thành quả. Nếu không có được sự cam kết gắn bó lâu dài, một công ty khởi nghiệp sẽ phải tìm cách huy động thêm nguồn vốn bên ngoài thông qua việc bán các cổ phần bổ sung, để cạnh tranh với các cổ đông hiện tại, những người đang cố gắng để rút cổ phần. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
 There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
