@@ -78,7 +78,7 @@ Số lượng đồng STEEM đang gia tăng liên tục lên đến 100% mỗi n
 
 Nếu ai đó mua Bitcoin hoặc đồng tiền điện tử khác và bán nó, thì 10 ngày sau người đó có thể dễ dàng bị thua lỗ 3% hoặc hơn bởi những sự biến động về mặt giá cả. Còn nếu ai mua Bitcoin và sau đó bán nó trong ngày hôm đấy, thì chính người đó sẽ thường xuyên phải trả nhiều hơn 0.4% cho những chi phí thị trường. Hay nói cách khác, tỷ giá lạm phát sẽ có ảnh hưởng không đáng kể trong khoảng thời gian khi mà một cá nhân điển hình lưu giữ đồng STEEM.
 
-Phần lớn lạm phát thực ra là do sự tăng giá giả tạo, hơn là sự phân phối lại tài sản một cách đúng nghĩa. 90% lạm phát của những đồng không phải SMD được phân phối lại cho những người nắm giữ đồng STEEM hiện tại, tỷ lệ với giá trị đồng STEEM của số dư SP trong ví của họ. Chỉ khoảng chừng 10% lạm phát của những đồng không phải SMD được phân phối lại cho quyền sở hữu trong mạng lưới.
+Phần lớn lạm phát thực ra là do sự tăng giá giả tạo, hơn là sự phân phối lại tài sản một cách đúng nghĩa. 90% lạm phát của những đồng không phải SMD là do sự phân chia lại cho những người nắm giữ đồng STEEM hiện tại, tỷ lệ với giá trị đồng STEEM của số dư SP trong ví của họ. Chỉ khoảng 10% lạm phát của những đồng không phải SMD là do sự phân chia cho quyền sở hữu trong mạng lưới.
 
 ## Steem quyền lực (SP)
 
@@ -108,7 +108,7 @@ Steem Dollars are referred to with the symbol SMD, an acronym for Steem Dollars.
 
 ### Giảm thiểu các nguồn cung cấp dữ liệu gian lận
 
-Chủ sở hữu SP chọn cá nhân để công bố nguồn cung cấp dữ liệu giá. These elected individuals are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+Chủ sở hữu SP chọn cá nhân để công bố nguồn cung cấp dữ liệu giá. Những cá nhân được chọn này được cho là đáng tin cậy bởi những người quan tâm về chất lượng của nguồn cung cấp dữ liệu. Bằng cách trả cho những người được chọn, Steem tạo ra sự cạnh tranh thị trường để giành quyền sản xuất dữ liệu. The more the feed producers are paid the more they have to lose by publishing false information.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
