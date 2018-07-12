@@ -94,9 +94,9 @@ SP chỉ có thể được chuyển hết lại thành STEEM sau hơn 2 năm, c
 
 SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
 
-SP is a requirement for voting for or against content. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+SP là một yêu cầu để bỏ phiếu hoặc chống lại nội dung. Điều này có nghĩa là SP là một token truy cập và cấp quyền sở hữu độc quyền cho người nắm giữ nó trong nền tảng Steem.
 
-Chuyển STEEM sang SP được gọi là "powering up" và khi chuyển từ SP sang Steem được gọi là "powering down". For example, one can power down their STEEM over a period of two years, yet one can power up their STEEM instantly.
+Chuyển STEEM sang SP được gọi là "powering up" và khi chuyển từ SP sang Steem được gọi là "powering down". Ví dụ, họ có thể "power down" STEEM của họ trong khoảng thời gian hai năm, nhưng họ có thể "power up" STEEM của họ ngay lập tức.
 
 ## Steem Dollars (SMD)
 
