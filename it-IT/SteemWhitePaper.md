@@ -364,11 +364,11 @@ A causa del blocco principale e della latenza di rete in continua evoluzione, in
 
 Steem fa di tutto per ricompensare le persone per il loro contribuire alla rete. Sarebbe controproducente voltare le spalle e opprimere le persone ogni volta che tentano di interagire con la comunità.
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+La tecnologia della blockchain dipende attualmente dalle commissioni di transazione per impedire lo spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. I programmi veramente decentralizzati devono presentare agli utenti la presenza di transazioni gratuite se desiderano competere con le loro alternative centralizzate. Questo documento delinea l'approccio usato da Steem di eliminare il bisogno di commissioni, offrendo in questo modo, una vasta gamma di programmi che precedentemente risultavano essere insostenibili e centralizzati.
 
-## The Problem With Fees
+## Il problema con le commissioni
 
-Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. Tutte le blockchain devono trovare una soluzione per impedire agli utenti malintenzionati di esaurire tutto il volume disponibile della rete con transazioni di poco conto. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
 
 The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn't use email.
 
@@ -378,10 +378,9 @@ The fundamental problem with charging transaction fees is that micropayments don
 
 Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave.
 
-> A transaction can't be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
-> Micropayments, like all payments, require a comparison: "Is this much of X worth that much of Y?" There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
+> A transaction can't be worth so much as to require a decision but worth so little that that decision is automatic. C'è una certa dose di ansia che coinvolge il prendere una decisione, non importa quanto piccola essa sia, e non deriva dall'interfaccia utilizzato o dal tempo richiesto, ma dall'atto stesso di decidere. I micropagamenti, come i pagamenti, richiedono una comparazione: <0>"È il quantitativo di X del medesimo valore di Y?"</0> C'è un minimo costo mentale di transazione creato da questo fatto che non può essere lontanamente ottimizzato, perché l'unica transazione che un utente sarà disposto ad approvare senza pensieri sarà quella che a loro costa niente, e che quindi non è affatto una transazione.
 > 
-> *- Clay Shirky[^8]*
+> *– Clay Shirky[^8]*
 
 In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
 
