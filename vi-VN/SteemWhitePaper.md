@@ -120,7 +120,7 @@ Chừng nào nguồn cung cấp dữ liệu giá tham nhũng kéo dài ít hơn 
 
 Với khoảng thời gian một tuần, các thành viên trong cộng đồng có ba ngày rưỡi để trả lời bất kỳ vấn đề nảy sinh.
 
-### Mitigating Timing Attacks
+### Giảm thiểu những cuộc tấn công thời gian
 
 Market participants have access to information faster than the blockchain's one week moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
 
