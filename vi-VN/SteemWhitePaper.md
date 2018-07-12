@@ -128,9 +128,9 @@ Steem làm cân bằng thị trường bằng cách bắt buộc tất cả nh�
 
 ### Hạn chế việc lạm dụng các chuyển đổi
 
-Nếu mọi người có thể tự do chuyển đổi theo cả hai chiều thì những nhà giao dịch có thể tranh thủ tận dụng tỷ lệ chuyển đổi của blockchains bằng cách giao dịch một khối lượng lớn với giá không đổi. Các nhà giao dịch thấy giá tăng mạnh sẽ chuyển đổi sang SMD ở mức giá cao (khi rủi ro là lớn nhất) và sau đó chuyển đổi trở lại sau khi giá đã bình ổn. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SMD to STEEM and not the other way around.
+Nếu mọi người có thể tự do chuyển đổi theo cả hai chiều thì những nhà giao dịch có thể tranh thủ tận dụng tỷ lệ chuyển đổi của blockchains bằng cách giao dịch một khối lượng lớn với giá không đổi. Các nhà giao dịch thấy giá tăng mạnh sẽ chuyển đổi sang SMD ở mức giá cao (khi rủi ro là lớn nhất) và sau đó chuyển đổi trở lại sau khi giá đã bình ổn. Giao thức mạng Steem giúp bảo vệ cộng đồng khỏi việc lạm dụng này bằng cách chỉ cho phép người ta chuyển đổi từ SMD sang STEEM mà không phải là cách nào khác.
 
-The blockchain decides how and when to create SMD and who should get it. This keeps the rate of SMD creation stable and removes most avenues of abuse.
+Blockchain quyết định cách thức và thời điểm tạo SMD và ai sẽ nhận được nó. Điều này giúp tỷ lệ SMD trở nên ổn định và loại bỏ hầu hết các hành vi lạm dụng.
 
 ### Liquidity
 
