@@ -126,9 +126,9 @@ Những người tham gia thị trường có quyền truy cập thông tin nhan
 
 Steem làm cân bằng thị trường bằng cách bắt buộc tất cả những yêu cầu chuyển đổi bị trì hoãn trong vòng một tuần. Điều này có nghĩa là các nhà giao dịch cũng như blockchain đều không có bất kỳ ưu thế thông tin nào về giá tại thời điểm mà việc chuyển đổi được thực hiện.
 
-### Minimizing Abuse of Conversions
+### Hạn chế việc lạm dụng các chuyển đổi
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SMD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SMD to STEEM and not the other way around.
+Nếu mọi người có thể tự do chuyển đổi theo cả hai chiều thì những nhà giao dịch có thể tranh thủ tận dụng tỷ lệ chuyển đổi của blockchains bằng cách giao dịch một khối lượng lớn với giá không đổi. Các nhà giao dịch thấy giá tăng mạnh sẽ chuyển đổi sang SMD ở mức giá cao (khi rủi ro là lớn nhất) và sau đó chuyển đổi trở lại sau khi giá đã bình ổn. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SMD to STEEM and not the other way around.
 
 The blockchain decides how and when to create SMD and who should get it. This keeps the rate of SMD creation stable and removes most avenues of abuse.
 
