@@ -10,7 +10,7 @@
 
 # خلاصة
 
-Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+ستيم هو قاعدة بيانات بلوكشاين الذي يدعم بناء المجتمع و التفاعل الاجتماعي مع مكافآت العملة الإفتراضية. ستيم يدمج المفاهيم من وسائل الأعلام الإجتماعية مع دروس مستفاد منها من بناء العملات الإفتراضة و مجتمعاتها. مفتاح مهم لإلهام المشاركة في أي مجتمع، العملة أو إقتصاد السوق الحر هو نظام المحاسبة العادلة التي تعكس باستمرار مساهمة كل فرد. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
 
 # Table of Contents
 
