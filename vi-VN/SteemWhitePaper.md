@@ -84,7 +84,7 @@ Phần lớn sự lạm phát thực sự là một sự tăng giá giả tạo,
 
 Những công ty khởi nghiệp đều đòi hỏi một sự cam kết đầu tư vốn dài hạn. Những người đầu tư tiền của họ trong khoảng thời gian xây dựng ban đầu thì dự định sẽ phải chờ đợi trong nhiều năm, trước khi họ có thể bán cổ phần của mình và gặt hái được thành quả. Nếu không có được sự cam kết gắn bó lâu dài, một công ty khởi nghiệp sẽ phải tìm cách huy động thêm nguồn vốn bên ngoài thông qua việc bán các cổ phần bổ sung, để cạnh tranh với các cổ đông hiện tại, những người đang cố gắng thu rút cổ phần. Những nhà đầu tư thông minh đều muốn đóng góp vốn đầu tư của họ để phát triển công ty, nhưng sự tăng trưởng sẽ không thể xảy ra nếu như nguồn vốn mới được sử dụng một cách phí phạm cho những người đang muốn rời bỏ "cuộc chơi".
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+Đó là một quyền lợi đáng kể để người dùng cam kết hợp tác lâu dài, bởi nó cho phép những cộng đồng thực hiện những kế hoạch dài hạn. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
 In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
