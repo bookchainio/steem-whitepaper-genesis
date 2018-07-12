@@ -122,7 +122,7 @@ Với khoảng thời gian một tuần, các thành viên trong cộng đồng 
 
 ### Giảm thiểu những cuộc tấn công thời gian
 
-Market participants have access to information faster than the blockchain's one week moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Những người tham gia thị trường có quyền truy cập thông tin nhanh hơn blockchain một tuần, trước khi giá chuyển đổi trung bình bắt đầu biến động. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
 
 Steem levels the playing field by requiring all conversion requests to be delayed for one week. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
