@@ -96,7 +96,7 @@ SP balances are non-transferrable and non-divisible except via the automatically
 
 SP is a requirement for voting for or against content. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
-Transferring from STEEM to SP is referred to as powering up while transferring from SP to Steem is referred to as "powering down". For example, one can power down their STEEM over a period of two years, yet one can power up their STEEM instantly.
+Chuyển STEEM sang SP được gọi là "powering up" và khi chuyển từ SP sang Steem được gọi là "powering down". For example, one can power down their STEEM over a period of two years, yet one can power up their STEEM instantly.
 
 ## Steem Dollars (SMD)
 
