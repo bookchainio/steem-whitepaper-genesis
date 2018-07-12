@@ -396,17 +396,17 @@ Con il tempo, una rete deve regolare le commissioni. Questo può accadere o a ca
 
 ### Attacchi Sybil
 
-I siti web centralizzati impediscono lo spam attraverso una limitazione della velocità e attraverso alcuni tipi di verifica dell'identità. Even something as simple as reCAPTCHA [^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+I siti web centralizzati impediscono lo spam attraverso una limitazione della velocità e attraverso alcuni tipi di verifica dell'identità. Anche qualcosa di semplice come reCAPTCHA[^9] è sufficiente per limitare la creazione di account falsi. Se qualcuno fa un cattivo utilizzo del proprio account, i siti web centralizzati sono liberi di bloccare l'account in causa.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+In un sistema decentralizzato non c'è un modo diretto per espellere gli utenti né i fornitori centralizzati capaci di gestire un reCAPTCHA e imporre una percentuale limitata di account. Infatti, l'incapacità di censurare gli utenti è uno dei principali vantaggi della tecnologia della blockchain.
 
-### Full Reserve vs Fractional Reserve
+### Riserva completa vs riserva frazionaria
 
-Let's view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+Proviamo a vedere la blockchain come una cooperativa fornitrice di servizi internet (Internet Service Provider -ISP-) che possiede tutti i cavi della città e ha una quantità massima di larghezza di banda che può offrire in qualsiasi momento. Le persone che vivono nella città possono acquistare azioni dell' ISP e, in cambio, sono autorizzate ad utilizzare una parte della larghezza di banda disponibile.
 
-The ISP has two choices, run a "full reserve" or "fractional reserve" system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town's network would be significantly underutilized.
+The ISP has two choices, run a "full reserve" or "fractional reserve" system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Dal momento che non tutti utilizzano Internet nello stesso momento, la rete della città sarebbe, in modo significativo, non sfruttata a pieno.
 
-Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+Sotto un sistema di riserva frazionaria, i singoli utenti potrebbero utilizzare più larghezza di banda di quella a cui hanno diritto in un dato momento, fintanto che non tutti utilizzano Internet nello stesso momento. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
 
 ## Bandwidth Instead of Micropayment Channels
 
