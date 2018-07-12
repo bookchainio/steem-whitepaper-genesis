@@ -44,9 +44,9 @@
 
 تعمل المنصات الحالية على مبدأ مستخدم واحد، و صوت واحد. و هذا يخلق بيئة حيث أن المُصنَفون الأوائل يمكنهم التلاعب بهجمات سيبيل و يجب على مقدمي الخدمات أن يحددوا و يمنعوا المسيئين بشكل إستباقي. حاول العديد من الناس التلاعب بـ راديت، فايسبوك، و تويتر لتحطيم أرقام الخوارزميات عندما تكون المكافأة الوحيدة هي حركة السير على شبكة الإنترنت أو الرقابة.
 
-الوحدة الأساسية للحساب على منصة ستيم هي STEEM، رمز العملة الرقمية. يعمل ستيم على أساس ستيم-واحد، و صوت واحد. و بموجب هذا النموذج، فإن الأفراد الذين ساهموا بأكبر قدر ممكن في المنصة، مُقاسة برصيد حسابهم، لهم أكبر تأثير على كيفية تسجيل المساهمات. Furthermore, Steem only allows members to vote with STEEM when it is committed to a multi-year vesting schedule. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+الوحدة الأساسية للحساب على منصة ستيم هي STEEM، رمز العملة الرقمية. يعمل ستيم على أساس ستيم-واحد، و صوت واحد. و بموجب هذا النموذج، فإن الأفراد الذين ساهموا بأكبر قدر ممكن في المنصة، مُقاسة برصيد حسابهم، لهم أكبر تأثير على كيفية تسجيل المساهمات. بالإضافة إلى ذلك، يسمح ستيم فقط للأعضاء بالتصويت بـSteem عندما يتم الإلتزام بجدول استحقاق متعدد السنوات. و بموجب هذا النموذج، يتمتع الأعضاء بحافز مالي للتصويت بطريقة تزيد إلى أقصى حد من قيمة الستيم الخاصة بهم.
 
-Steem is designed around a relatively simple concept: *everyone's meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
+لقد تم تصميم ستيم حول مفهوم بسيط نسبيا:*كل شخص لديه مساهمة ذات مغزى للمجتمع ينبغي أن يعترف بالقيمة التي يضيفها.*عندما يقومون بذلك، فإنهم يستمرون في المساهمة و المجتمع يكبر. أي خلل الأخذ و العطاء داخل المجتمع لايمكن تحمله. Eventually the givers grow tired of supporting the takers and disengage from the community.
 
 The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
 
