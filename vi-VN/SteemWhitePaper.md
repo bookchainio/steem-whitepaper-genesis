@@ -86,7 +86,7 @@ Những công ty khởi nghiệp đều đòi hỏi một sự cam kết đầu 
 
 Đó là một quyền lợi đáng kể để người dùng cam kết hợp tác lâu dài, bởi nó cho phép những cộng đồng thực hiện những kế hoạch dài hạn. Sự cam kết gắn bó lâu dài của các bên liên quan cũng giúp họ bỏ phiếu cho sự phát triển dài hạn, hơn là những cuộc thu mua ngắn hạn.
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+Trong thế giới của tiền điện tử, những người đầu cơ thường nhảy từ đồng tiền này sang đồng tiền khác, chủ yếu dựa vào nhận định đồng nào được mong đợi sẽ phát triển nhanh trong tương lai gần. Steem muốn xây dựng một cộng đồng mà chủ yếu được sở hữu và được chi phối một cách hoàn toàn bởi những người có một tư tưởng dài hạn.
 
 Because Steem wants to encourage long-term growth, it is hardwired to allocate 9 STEEM to Steem Power (SP) stakeholders for every 1 STEEM it creates to fund growth through contribution incentives. Over time this drives the ratio of the total STEEM value of Steem Power balances to the total of STEEM balances toward 9:1 . (It seems likely that the ratio will be somewhat greater than 9:1 due to continued net Powering Up of the newly printed STEEM.) It also means that long-term holders are almost completely protected from the dilution used to fund growth.
 
