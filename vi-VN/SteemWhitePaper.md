@@ -108,7 +108,7 @@ Steem Dollars are referred to with the symbol SMD, an acronym for Steem Dollars.
 
 ### Giảm thiểu các nguồn cung cấp dữ liệu gian lận
 
-Chủ sở hữu SP chọn cá nhân để công bố nguồn cung cấp dữ liệu giá. Những cá nhân được chọn này được cho là đáng tin cậy bởi những người quan tâm về chất lượng của nguồn cung cấp dữ liệu. Bằng cách trả cho những người được chọn, Steem tạo ra sự cạnh tranh thị trường để giành quyền sản xuất dữ liệu. The more the feed producers are paid the more they have to lose by publishing false information.
+Chủ sở hữu SP chọn cá nhân để công bố nguồn cung cấp dữ liệu giá. Những cá nhân được chọn này được cho là đáng tin cậy bởi những người quan tâm về chất lượng của nguồn cung cấp dữ liệu. Bằng cách trả cho những người được chọn, Steem tạo ra sự cạnh tranh thị trường để giành quyền sản xuất dữ liệu. Người sản xuất dữ liệu được trả càng nhiều thì họ sẽ càng mất nhiều hơn bằng cách xuất bản thông tin sai lệch.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
