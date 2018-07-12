@@ -78,7 +78,7 @@ Số lượng đồng STEEM đang gia tăng liên tục lên đến 100% mỗi n
 
 Nếu ai đó mua Bitcoin hoặc đồng tiền điện tử khác và bán nó, thì 10 ngày sau người đó có thể dễ dàng bị thua lỗ 3% hoặc hơn bởi những sự biến động về mặt giá cả. Còn nếu ai mua Bitcoin và sau đó bán nó trong ngày hôm đấy, thì chính người đó sẽ thường xuyên phải trả nhiều hơn 0.4% cho những chi phí thị trường. Hay nói cách khác, tỷ giá lạm phát sẽ có ảnh hưởng không đáng kể trong khoảng thời gian khi mà một cá nhân điển hình lưu giữ đồng STEEM.
 
-Phần lớn lạm phát thực ra là một sự tăng giá giả tạo, hơn là sự phân phối lại của tài sản đúng nghĩa. 90% lạm phát của những đồng không phải SMD được phân phối lại cho những người nắm giữ đồng STEEM hiện tại, tỷ lệ với giá trị đồng STEEM của số dư SP trong ví của họ. Chỉ khoảng chừng 10% lạm phát của những đồng không phải SMD được phân phối lại cho quyền sở hữu trong mạng lưới.
+Phần lớn lạm phát thực ra là do sự tăng giá giả tạo, hơn là sự phân phối lại tài sản một cách đúng nghĩa. 90% lạm phát của những đồng không phải SMD được phân phối lại cho những người nắm giữ đồng STEEM hiện tại, tỷ lệ với giá trị đồng STEEM của số dư SP trong ví của họ. Chỉ khoảng chừng 10% lạm phát của những đồng không phải SMD được phân phối lại cho quyền sở hữu trong mạng lưới.
 
 ## Steem quyền lực (SP)
 
