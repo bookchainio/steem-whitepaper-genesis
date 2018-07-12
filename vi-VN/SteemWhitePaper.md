@@ -74,7 +74,7 @@ Mạng lưới Steem gọi những loại tài sản khác nhau này là Steem (
 
 Steem là một đơn vị tiền tệ cơ bản của tài khoản trên chuỗi khối Steem. Tất cả các đồng tiền điện tử khác đều được định giá dựa theo giá trị của đồng STEEM. Nhìn chung mà nói, đồng STEEM chỉ nên được giữ trong những khoảng thời gian ngắn khi mà sự lưu thông tiền tệ là cần thiết. Những ai muốn tham gia hoặc rời khỏi nền tảng Steem đều sẽ phải mua hoặc bán STEEM. Một khi STEEM được mua về, nó nên được chuyển đổi sang thành SP hoặc SMD nhằm làm giảm nhẹ sự ảnh hưởng lớn của việc bị loãng, mất giá trị của đồng STEEM trong khoảng thời gian dài.
 
-Số lượng đồng STEEM đang gia tăng liên tục lên đến 100% mỗi năm bởi sự thúc đẩy của những đồng không phải Steem đô la. Những ai nắm giữ STEEM nhưng không chuyển đổi nó sang thành SP thì sẽ làm giảm giá trị của nó xấp xỉ 0.19% mỗi ngày. Mặc dù tỷ lệ này có thể hơi cao cho những phiên giao dịch có thời gian giao dịch ít hơn 10 ngày, nhưng nó vẫn rẻ hơn những chi phí cho quá trình xử lý của thẻ tín dụng thông thường. Hơn nữa, việc tạo ra các đồng tiền mã hóa hàng ngày là không đáng kể bên cạnh sự biến động của giá cả mỗi ngày.
+Số lượng đồng STEEM đang gia tăng liên tục lên đến 100% mỗi năm bởi sự thúc đẩy của những đồng không phải Steem đô la. Những ai nắm giữ STEEM nhưng không chuyển đổi nó sang thành SP thì sẽ làm giảm giá trị của nó xấp xỉ 0.19% mỗi ngày. Mặc dù tỷ lệ này có thể hơi cao cho những phiên giao dịch có thời gian giao dịch ít hơn 10 ngày, nhưng nó vẫn rẻ hơn những chi phí cho quá trình xử lý của thẻ tín dụng thông thường. Hơn nữa, việc tạo ra các đồng tiền mã hóa hàng ngày là không đáng kể so với sự biến động của giá cả mỗi ngày.
 
 Nếu ai đó mua Bitcoin hoặc đồng tiền điện tử khác và bán nó, thì 10 ngày sau người đó có thể dễ dàng bị thua lỗ 3% hoặc hơn bởi những sự biến động về mặt giá cả. Còn nếu ai mua Bitcoin và sau đó bán nó trong ngày hôm đấy, thì chính người đó sẽ thường xuyên phải trả nhiều hơn 0.4% cho những chi phí thị trường. Hay nói cách khác, tỷ giá lạm phát sẽ có ảnh hưởng không đáng kể trong khoảng thời gian khi mà một cá nhân điển hình lưu giữ đồng STEEM.
 
@@ -108,7 +108,7 @@ Steem Dollars are referred to with the symbol SMD, an acronym for Steem Dollars.
 
 ### Giảm thiểu các nguồn cung cấp dữ liệu gian lận
 
-SP holders elect individuals to publish price feeds. These elected individuals are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+Chủ sở hữu SP chọn cá nhân để công bố nguồn cung cấp dữ liệu giá. These elected individuals are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
