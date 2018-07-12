@@ -46,11 +46,11 @@
 
 الوحدة الأساسية للحساب على منصة ستيم هي STEEM، رمز العملة الرقمية. يعمل ستيم على أساس ستيم-واحد، و صوت واحد. و بموجب هذا النموذج، فإن الأفراد الذين ساهموا بأكبر قدر ممكن في المنصة، مُقاسة برصيد حسابهم، لهم أكبر تأثير على كيفية تسجيل المساهمات. بالإضافة إلى ذلك، يسمح ستيم فقط للأعضاء بالتصويت بـSteem عندما يتم الإلتزام بجدول استحقاق متعدد السنوات. و بموجب هذا النموذج، يتمتع الأعضاء بحافز مالي للتصويت بطريقة تزيد إلى أقصى حد من قيمة الستيم الخاصة بهم.
 
-لقد تم تصميم ستيم حول مفهوم بسيط نسبيا:*كل شخص لديه مساهمة ذات مغزى للمجتمع ينبغي أن يعترف بالقيمة التي يضيفها.*عندما يقومون بذلك، فإنهم يستمرون في المساهمة و المجتمع يكبر. أي خلل الأخذ و العطاء داخل المجتمع لايمكن تحمله. Eventually the givers grow tired of supporting the takers and disengage from the community.
+لقد تم تصميم ستيم حول مفهوم بسيط نسبيا:*كل شخص لديه مساهمة ذات مغزى للمجتمع ينبغي أن يعترف بالقيمة التي يضيفها.*عندما يقومون بذلك، فإنهم يستمرون في المساهمة و المجتمع يكبر. أي خلل الأخذ و العطاء داخل المجتمع لايمكن تحمله. في النهاية المتناميون يتعبون من دعم المتسللين و فك الإرتباط مع المجتمع.
 
-The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
+يتمثل التحدي في إنشاء نظام قادر على تحديد المساهمات المطلوبة و قيمتها النسبية بطريقة يمكن أن تصل إلى عدد غير محدود من الناس.
 
-A proven system for evaluating and rewarding contributions is the free market. The free market can be viewed as a single community where everyone trades with one another and rewards are allocated by profit and loss. The market system rewards those who provide value to others and punishes those who consume more value than they produce. The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
+هنالك نظام مؤكد لتقييم و مكافأة المساهمات هو السوق الحر أو المجاني. The free market can be viewed as a single community where everyone trades with one another and rewards are allocated by profit and loss. The market system rewards those who provide value to others and punishes those who consume more value than they produce. The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
 
 Since the free market is a proven system, it is tempting to try to create a free-market system where content consumers directly pay content producers. However, direct payment is inefficient and not really viable for content creation and curation. The value of most content is so low relative to the cognitive, financial, and opportunity costs associated with making a payment that few readers choose to tip. The abundance of free alternatives means that enforcing a 'paywall' will drive readers elsewhere. There have been several attempts to implement per-article micropayments from readers to authors, but none have become widespread.
 
