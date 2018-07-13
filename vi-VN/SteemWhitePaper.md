@@ -120,7 +120,7 @@ Chừng nào nguồn cung cấp dữ liệu giá tham nhũng kéo dài ít hơn 
 
 Với khoảng thời gian một tuần, các thành viên trong cộng đồng có ba ngày rưỡi để trả lời bất kỳ vấn đề nảy sinh.
 
-### Giảm thiểu những cuộc tấn công thời gian
+### Giảm thiểu những cuộc tấn công dựa theo thời gian
 
 Những người tham gia thị trường có quyền truy cập thông tin nhanh hơn blockchain một tuần, trước khi giá chuyển đổi trung bình bắt đầu biến động. Thông tin này có thể được sử dụng để mang lại lợi ích cho những người giao dịch với chi phí của cộng đồng. Nếu có sự gia tăng đột ngột về giá trị của đồng STEEM, các nhà giao dịch có thể yêu cầu chuyển đổi SMD của họ ở mức giá cũ, thấp hơn, và sau đó bán STEEM ở một mức giá mới cao hơn với rủi ro nhỏ nhất.
 
