@@ -364,11 +364,11 @@ Because of the constantly changing head block and network latency, forwarding a 
 
 Steem尽最大可能的奖励给网络做出贡献的人。如果在人们和社区互动时都要被收费，其结果将会适得其反。
 
-区块链技术目前通过交易费来防止垃圾的产生。 这些费用面临和微交易相关的问题，并且防止区块链被用于小额交易。 Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+区块链技术目前通过交易费来防止垃圾的产生。 这些费用面临和微交易相关的问题，并且防止区块链被用于小额交易。 若和对应的中心化应用程序竞争，真正的去中心化程序必须为用户提供免费交易的支持。 本文概述了Steem使用的消除费用的方法，因此可以支持之前那些无法维持的去中心化应用。
 
-## The Problem With Fees
+## 收费带来的问题
 
-Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+区块链是去中心化的网络，其中的所有交易都会被广播给所有对等方。 每隔一段时间就会产生一个包含部分或全部待处理交易的块。 All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
 
 The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn't use email.
 
