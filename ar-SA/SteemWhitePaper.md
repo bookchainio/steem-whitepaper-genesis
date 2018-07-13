@@ -86,7 +86,7 @@ The majority of inflation is actually an accounting artifact rather than true re
 
 وهناك قيمة كبيرة لوجود إلتزام طويل الأجل لأنه يمكن المجتمعات المحلية من وضع خطط طويلة الأجل. کما أن إلتزام أصحاب المصلحة علی المدى الطویل یجعلھم یصوتون لنمو طویل الأجل بدلا من المضخات قصیرة الأجل.
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+في الفضاء العملات الرقمية، السمسارون يقفزون من العملات الرقمية إلى عملات رقمية تستند في الغالب على أي واحد من المتوقع أن يحصل على نمو ذي مدى قصير. يريد ستيم بناء مجتمع يمتلكه معضمهم و يتحكم فيه بالكامل أولئك الذين لديهم منظور طويل الأجل.
 
 Because Steem wants to encourage long-term growth, it is hardwired to allocate 9 STEEM to Steem Power (SP) stakeholders for every 1 STEEM it creates to fund growth through contribution incentives. Over time this drives the ratio of the total STEEM value of Steem Power balances to the total of STEEM balances toward 9:1 . (It seems likely that the ratio will be somewhat greater than 9:1 due to continued net Powering Up of the newly printed STEEM.) It also means that long-term holders are almost completely protected from the dilution used to fund growth.
 
