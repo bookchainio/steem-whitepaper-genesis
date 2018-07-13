@@ -356,7 +356,7 @@ It should be more profitable and less risky for botnet operators to use their re
 
 ### 防止矿池
 
-Miners have a total of 3 seconds to receive a block, solve the proof of work, and get the transaction to the next block producer. Much of this time will consist of network latency which means that it is critical for miners to be well connected to the network to make the most effective use of their computational resources.
+矿工有三秒的时间接受一个块，完成工作量证明，把交易发给下一个块的生产者。 这个时间包含网络延迟，因此对矿工而言，保持良好的网络连接以便充分利用计算资源就是至关重要的。
 
 Because of the constantly changing head block and network latency, forwarding a template for mining a specific block to participants of a mining pool adds additional network latency and reduces efficiency of pooled mining significantly.
 
