@@ -56,7 +56,7 @@
 
 لقد تم تصميم ستيم لتفعيل مدفوعات صغيرة ناجحة لجميع أنواع المساهمة عن طريق تغيير المعادلة الإقتصادية. لم يعد على القُراء أن يقرروا ما إذا كانوا يريدون الدفع لشخص ما من جيبهم الخاص، في حين أنه يمكنهم التصويت مع أو ضد المحتوى و سيستخدم ستيم أصواتهم لتحديد المكافآت الفردية. This means that people are given a familiar and widely used interface and no longer face the cognitive, nancial, and opportunity costs associated traditional micropayment and tipping platforms.
 
-Voting input from community members is critical for Steem to accurately allocate payments to contributors. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation [^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+إن التصويت من أعضاء المجتمع أمر ذو أهمية بالنسبة لشركة ستيم لتخصيص المدفوعات للمساهمين بدقة. لذلك يمكن النظر إلى التصويت على أنه مساهمة حاسمة وتستحق المكافآت من تلقاء نفسها. تستخدم بعض المنصات، مثل سلاشدوت، الإشراف التجميعي [^3] كوسيلة لترتيب ومكافأة المشرفين الصادقين. يختار ستيم لمكافأة أولئك الذين يساهمون أكثر من إجمالي الترويج لجزء من المحتوى ويكافئ المصوتين بما يتناسب مع المكافأة النهائية المدفوعة لمنشئ المحتوى.
 
 There are other forms of contribution that Steem recognizes and rewards using objective metrics. Among these are: transaction validation, proof of work mining, liquidity rewards, and reporting of misbehaving block producers.
 
