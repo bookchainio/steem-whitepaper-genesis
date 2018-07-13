@@ -185,7 +185,7 @@ Assuming the value of STEEM is growing faster than Steem is creating new SMD, th
 
 In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SMD.
+Nếu tỷ lệ nợ-sở hữu cao tới mức nguy hiểm và người tham gia thị trường chọn việc tránh các yêu cầu chuyển đổi, thì nguồn cung cấp dữ liệu phải được điều chỉnh để tăng giá mà STEEM đã trả để chuyển đổi sang SMD.
 
 Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SMD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions. The blockchain is paying liquidity providers for their service in absorbing short-term demands.
 
