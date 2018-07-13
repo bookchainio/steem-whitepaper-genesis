@@ -4,13 +4,13 @@
 
 Tháng 3 năm 2016
 
-# Những ghi chú của người biên dịch
+# Những ghi chú của người dịch
 
 Mục dành cho những ghi chú của người phiên dịch.
 
 # Tóm tắt nội dung
 
-Steem là một cơ sở dữ liệu hoạt động trên chuỗi khối Blockchain nhằm hỗ trợ xây dựng cộng đồng và tương tác xã hội bằng phần thưởng là tiền điện tử. Steem kết hợp các khái niệm từ mạng xã hội với các bài học kinh nghiệm từ việc xây dựng tiền điện tử và cộng đồng của họ. Một chìa khóa quan trọng trong việc truyền cảm hứng cho sự tham gia vào bất kỳ cộng động nào, dù là cộng đồng tiền tệ hay cộng đồng kinh tế thị trường tự do, đó là một hệ thống kế toán công bằng mà có thể phản ánh một cách rõ nét sự đóng góp của mỗi cá nhân. Steem là loại tiền điện tử đầu tiên có trả thưởng một cách chính xác và minh bạch cho một số lượng lớn những cá nhân có *đóng góp chủ quan* vào cộng động Steem.
+Steem là một cơ sở dữ liệu hoạt động trên chuỗi khối Blockchain nhằm hỗ trợ xây dựng cộng đồng và tương tác xã hội bằng phần thưởng là tiền điện tử. Steem kết hợp các khái niệm từ mạng xã hội với các bài học kinh nghiệm từ việc xây dựng tiền điện tử và cộng đồng của họ. Để khuyến khích người dùng tham gia vào bất kỳ mạng lưới nào, bao gồm một cộng đồng, một thị trường tiền tệ hoặc một thị trường kinh tế tự do thì hệ thống tài chính công bằng thể hiện thông qua việc trả cho người dùng về đúng giá trị họ tạo ra là một nhân tố quan trọng. Steem là loại tiền điện tử đầu tiên có trả thưởng một cách chính xác và minh bạch cho một số lượng lớn những cá nhân có *đóng góp chủ quan* vào cộng động Steem.
 
 # Phần mục lục
 
