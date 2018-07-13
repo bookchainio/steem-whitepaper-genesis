@@ -163,21 +163,21 @@ A rapid change in the value of STEEM can dramatically change the debt-to-ownersh
 
 SMD trả lãi suất cho chủ sở hữu. Lãi suất được đặt bởi người cùng xuất bản nguồn cung cấp dữ liệu giá để nó có thể thích ứng với sự thay đổi điều kiện thị trường. Tất cả các khoản nợ đều chứa rủi ro cho người cho vay. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. Họ tin tưởng rằng tại một thời điểm nào đó trong tương lai ai đó sẽ sẵn sàng mua SMD từ họ với một đồng đô la hoặc sẽ có các nhà đầu cơ và các nhà đầu tư sẵn sàng mua STEEM mà họ đã chuyển đổi nó thành.
 
-Những người nắm giữ STEEM và SP có được lợi thế đòn bẩy khi các thành viên trong cộng đồng sẵn sàng nắm giữ SMD. Đòn bẩy này khuếch đại lợi nhuận từ sự tăng trưởng trong khi đó nó sẽ cũng góp phần vào sự phát triển. Chủ sở hữu STEEM sẽ phải chịu đựng việc nó ngày càng mất giá trị khi mà giá liên tục giảm. Các dự án tiền điện tử đã cho thấy rằng lợi ích từ việc tăng cơ sở người dùng sẵn lòng tin tưởng mạng lưới với vốn sẽ giúp tăng thêm giá trị cho mạng lưới so với bất kỳ sự mất giá trị nào có thể xảy ra trong thời gian suy thoái.
+Những người nắm giữ STEEM và SP có được lợi thế đòn bẩy khi các thành viên trong cộng đồng sẵn sàng nắm giữ SMD. Đòn bẩy này khuếch đại lợi nhuận từ sự tăng trưởng trong khi đó nó sẽ cũng góp phần vào sự phát triển. Chủ sở hữu đồng STEEM sẽ phải chịu đựng việc loãng giá nếu giá giảm. Các dự án tiền điện tử đã cho thấy rằng lợi ích từ việc tăng cơ sở người dùng sẵn lòng tin tưởng mạng lưới với vốn sẽ giúp tăng thêm giá trị cho mạng lưới so với bất kỳ sự loãng giá nào có thể xảy ra trong thời gian suy thoái.
 
 ### Thiết lập nguồn cung cấp dữ liệu giá
 
-Những độc giả thông minh sẽ nhận ra rằng tài sản có lãi suất từ nguồn cung cấp giới hạn có thể giao dịch cao hơn hoặc thấp hơn tài sản cơ bản tùy thuộc vào các cơ hội kiếm lãi trên cùng một tài sản. Với lãi suất cao được trả bằng một tài sản cố định với đồng đô la Mỹ, nhiều người sẽ trả giá cho nguồn cung giới hạn của Steem Dollars cho đến khi chúng không còn có giá trị $1 nữa. Trong kinh tế học có một nguyên tắc được gọi là Impossible Trinity [^4] nói rằng không thể có tất cả ba điều sau đây trong cùng một lúc:
+Những độc giả thông minh sẽ nhận ra rằng tài sản có lãi suất từ nguồn cung cấp giới hạn có thể giao dịch cao hơn hoặc thấp hơn tài sản cơ bản tùy thuộc vào các cơ hội kiếm lãi trên cùng một tài sản. Với lãi suất cao được trả bằng một tài sản cố định với đồng đô la Mỹ, nhiều người sẽ trả giá cho nguồn cung giới hạn của Steem Dollars cho đến khi chúng không còn có giá trị $1 nữa. Trong kinh tế học có một nguyên tắc được gọi là Bộ ba bất khả thi (The Impossible Trinity) [^4] nói rằng không thể có tất cả ba điều sau đây trong cùng một lúc:
 
 1. Tỷ giá giao dịch ổn định
 2. Sự lưu động vốn tự do
 3. Chính sách lưu thông tiền tệ độc lập
 
-Nếu các nhà sản xuất thức dữ liệu đồng Steem hướng đến việc có một chính sách lưu thông tiền tệ độc lập thì sẽ cho phép nó tạo ra và phá hủy đồng Steem Dollars đồng thời có quyền kiểm soát toàn bộ lãi suất thì họ sẽ chắn chắn gặp phải nhiều vấn đề. Impossible Trinity nói rằng đồng Steem Dollars cần phải hạn chế sự lưu động vốn, hoặc hạn chế tỷ giá giao dịch không ổn định với đồng đô la, hoặc giới hạn về việc kiểm soát lãi suất.
+Nếu các nhà sản xuất thức dữ liệu đồng Steem hướng đến việc có một chính sách lưu thông tiền tệ độc lập thì sẽ cho phép nó tạo ra và phá hủy đồng Steem Dollars đồng thời có quyền kiểm soát toàn bộ lãi suất thì họ sẽ chắn chắn gặp phải nhiều vấn đề. Bộ ba bất khả thi (The Impossible Trinity) nói rằng đồng Steem Dollars cần phải hạn chế sự lưu động vốn, hoặc hạn chế tỷ giá giao dịch không ổn định với đồng đô la, hoặc giới hạn về việc kiểm soát lãi suất.
 
 The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SMD and the U.S. Dollar (USD). Any time SMD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
-If the debt-to-ownership ratio is under 10% and SMD is trading for less than $1.00 then the interest rate should be increased. This will encourage more people to hold their SMD and support the price.
+Nếu tỷ lệ nợ-sở hữu dưới 10% và SMD đang giao dịch dưới $1.00 thì lãi suất sẽ được tăng lên. Điều này sẽ khuyến khích nhiều người giữ SMD của họ và để hỗ trợ mức giá.
 
 If SMD trades for less than $1.00 USD and the debt-to-ownership ratio is over 10% then the feeds should be adjusted upward give more STEEM per SMD. This will increase demand for SMD while also reducing the debt-to-ownership ratio and returning SMD to parity with USD.
 
