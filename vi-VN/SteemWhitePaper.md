@@ -12,11 +12,11 @@ Mục dành cho những ghi chú của người phiên dịch.
 
 Steem là một cơ sở dữ liệu hoạt động trên chuỗi khối Blockchain nhằm hỗ trợ xây dựng cộng đồng và tương tác xã hội bằng phần thưởng là tiền điện tử. Steem kết hợp các khái niệm từ mạng xã hội với các bài học kinh nghiệm từ việc xây dựng tiền điện tử và cộng đồng của họ. Một chìa khóa quan trọng trong việc truyền cảm hứng cho sự tham gia vào bất kỳ cộng động nào, dù là cộng đồng tiền tệ hay cộng đồng kinh tế thị trường tự do, đó là một hệ thống kế toán công bằng mà có thể phản ánh một cách rõ nét sự đóng góp của mỗi cá nhân. Steem là loại tiền điện tử đầu tiên có trả thưởng một cách chính xác và minh bạch cho một số lượng lớn những cá nhân có *đóng góp chủ quan* vào cộng động Steem.
 
-# Mục lục
+# Phần mục lục
 
 <!-- toc -->
 
-# Introduction
+# Phần giới thiệu nội dung
 
 Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
 
@@ -74,7 +74,7 @@ Mạng lưới Steem gọi những loại tài sản khác nhau này là Steem (
 
 Steem là một đơn vị tiền tệ cơ bản của tài khoản trên chuỗi khối Steem. Tất cả các đồng tiền điện tử khác đều được định giá dựa theo giá trị của đồng STEEM. Nhìn chung mà nói, đồng STEEM chỉ nên được giữ trong những khoảng thời gian ngắn khi mà sự lưu thông tiền tệ là cần thiết. Những ai muốn tham gia hoặc rời khỏi nền tảng Steem đều sẽ phải mua hoặc bán STEEM. Một khi STEEM được mua về, nó nên được chuyển đổi sang thành SP hoặc SMD nhằm làm giảm nhẹ sự ảnh hưởng lớn của việc bị loãng, mất giá trị của đồng STEEM trong khoảng thời gian dài.
 
-Số lượng đồng STEEM đang gia tăng liên tục lên đến 100% mỗi năm bởi sự thúc đẩy của những đồng không phải Steem đô la. Những ai nắm giữ STEEM nhưng không chuyển đổi nó sang thành SP thì sẽ làm giảm giá trị của nó xấp xỉ 0.19% mỗi ngày. Mặc dù tỷ lệ này có thể hơi cao cho những phiên giao dịch có thời gian giao dịch ít hơn 10 ngày, nhưng nó vẫn rẻ hơn những chi phí cho quá trình xử lý của thẻ tín dụng thông thường. Hơn nữa, việc tạo ra các đồng tiền mã hóa hàng ngày là không đáng kể so với sự biến động của giá cả mỗi ngày.
+Số lượng đồng STEEM đang gia tăng liên tục lên đến 100% mỗi năm bởi sự thúc đẩy của những đồng không phải Steem đô la. Những ai nắm giữ STEEM nhưng không chuyển đổi nó sang thành SP thì sẽ làm giảm giá trị của nó xấp xỉ 0.19% mỗi ngày. Mặc dù tỷ lệ này có thể hơi cao cho những phiên giao dịch có thời gian giao dịch ít hơn 10 ngày, nhưng nó vẫn rẻ hơn những chi phí cho quá trình xử lý của thẻ tín dụng thông thường. Hơn nữa, việc tạo ra các đồng tiền mã hóa hàng ngày là không đáng kể so với biến động của giá cả trong ngày.
 
 Nếu ai đó mua Bitcoin hoặc đồng tiền điện tử khác và bán nó, thì 10 ngày sau người đó có thể dễ dàng bị thua lỗ 3% hoặc hơn bởi những sự biến động về mặt giá cả. Còn nếu ai mua Bitcoin và sau đó bán nó trong ngày hôm đấy, thì chính người đó sẽ thường xuyên phải trả nhiều hơn 0.4% cho những chi phí thị trường. Hay nói cách khác, tỷ giá lạm phát sẽ có ảnh hưởng không đáng kể trong khoảng thời gian khi mà một cá nhân điển hình lưu giữ đồng STEEM.
 
