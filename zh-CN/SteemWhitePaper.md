@@ -352,13 +352,13 @@ Steem有很多特性来防止这些计算机窃贼们获利。 僵尸网络的�
 
 The last mitigation is the dependency on latency. Most botnets are comprised of computers with poor internet connections, these slow Internet connections will dramatically reduce the effectiveness of the computational resource.
 
-It should be more profitable and less risky for botnet operators to use their resources for other activities than mining STEEM.
+对于僵尸网络的操纵者而言，相较于挖STEEM，使用他们的资源从事其他活动会利润更高且风险更小。
 
 ### 防止矿池
 
 矿工有三秒的时间接受一个块，完成工作量证明，把交易发给下一个块的生产者。 这个时间包含网络延迟，因此对矿工而言，保持良好的网络连接以便充分利用计算资源就是至关重要的。
 
-Because of the constantly changing head block and network latency, forwarding a template for mining a specific block to participants of a mining pool adds additional network latency and reduces efficiency of pooled mining significantly.
+由于头块经常变化以及网路延迟，给矿池的参与者转发包含挖掘特定区块信息的模板会增加额外的网络延迟，并显著的降低矿池挖矿的效率。
 
 # 取消交易费
 
