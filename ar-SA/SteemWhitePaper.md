@@ -58,13 +58,13 @@
 
 إن التصويت من أعضاء المجتمع أمر ذو أهمية بالنسبة لشركة ستيم لتخصيص المدفوعات للمساهمين بدقة. لذلك يمكن النظر إلى التصويت على أنه مساهمة حاسمة وتستحق المكافآت من تلقاء نفسها. تستخدم بعض المنصات، مثل سلاشدوت، الإشراف التجميعي [^3] كوسيلة لترتيب ومكافأة المشرفين الصادقين. يختار ستيم لمكافأة أولئك الذين يساهمون أكثر من إجمالي الترويج لجزء من المحتوى ويكافئ المصوتين بما يتناسب مع المكافأة النهائية المدفوعة لمنشئ المحتوى.
 
-There are other forms of contribution that Steem recognizes and rewards using objective metrics. Among these are: transaction validation, proof of work mining, liquidity rewards, and reporting of misbehaving block producers.
+حيث أن هناك أشكال أخرى من المساهمة و التي يتعرف عليها ستيم و يكافئها باستخدام مقاييس موضوعية. Among these are: transaction validation, proof of work mining, liquidity rewards, and reporting of misbehaving block producers.
 
-# Ways to Contribute
+# طُرق المساهمة
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+يحدد هذا القسم الأفكار الكامنة وراء ستيم ومكافآته للألشخاص الذين يقدمون مساهمات مجدية وقابلة للقياس لمجتمع ستيم.
 
-## Capital Contributions
+## المساهمات الأساسية
 
 There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
