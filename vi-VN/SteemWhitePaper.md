@@ -175,7 +175,7 @@ Những độc giả thông minh sẽ nhận ra rằng tài sản có lãi suấ
 
 Nếu các nhà sản xuất thức dữ liệu đồng Steem hướng đến việc có một chính sách lưu thông tiền tệ độc lập thì sẽ cho phép nó tạo ra và phá hủy đồng Steem Dollars đồng thời có quyền kiểm soát toàn bộ lãi suất thì họ sẽ chắn chắn gặp phải nhiều vấn đề. Bộ ba bất khả thi (The Impossible Trinity) nói rằng đồng Steem Dollars cần phải hạn chế sự lưu động vốn, hoặc hạn chế tỷ giá giao dịch không ổn định với đồng đô la, hoặc giới hạn về việc kiểm soát lãi suất.
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SMD and the U.S. Dollar (USD). Any time SMD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+Mối quan ngại chính của các nhà cung cấp dữ liệu đồng Steem là duy trì giao dịch một-một-một ổn định giữa SMD và Đô la Mỹ (USD). Bất cứ lúc nào SMD liên tục giao dịch trên $1.00 USD thì thanh toán lãi suấtphải được ngưng lại. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
 Nếu tỷ lệ nợ-sở hữu dưới 10% và SMD đang giao dịch dưới $1.00 thì lãi suất sẽ được tăng lên. Điều này sẽ khuyến khích nhiều người giữ SMD của họ và để hỗ trợ mức giá.
 
