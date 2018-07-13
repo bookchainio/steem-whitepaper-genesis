@@ -112,7 +112,7 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
 
 وبالنظر إلى مجموعة من منتجي التحديث الموثوق بهم والمنتخبين، يمكن استخلاص السعر الفعلي المستخدم للتحويلات كمتوسط للتحديثات. وبهذه الطريقة إذا كانت أي أقلية من منتجي التحديث الفرديين ينتجون قيم متطرفة يكون لها تأثير ضئيل على الوسيلة الفعلية في حين لا يزال لديهم القدرة على التأثير على سمعتهم.
 
-وحتى إذا كان كل منتجي التحديث صادقين، فمن الممكن أن يتأثر معظمهم بأحداث خارجة عن إرادتهم. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+وحتى إذا كان كل منتجي التحديث صادقين، فمن الممكن أن يتأثر معظمهم بأحداث خارجة عن إرادتهم. تم تصميم شبكة ستيم لتحمل الفساد على المدى القصير من متوسط تحديث السعر في حين أن المجتمع يعمل بنشاط لتصحيح هذه المسألة. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
 
 Steem factors out short-term price fluctuations by using the median price over a period of one week. The median published feed is sampled every hour on the hour.
 
