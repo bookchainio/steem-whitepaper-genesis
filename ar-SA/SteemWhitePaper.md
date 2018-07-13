@@ -104,13 +104,13 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
 
 يتم إنشاء دولارات ستيم من خلال آلية مماثلة للملاحظات القابلة للتحويل، والتي غالبا ما تُستخدم لتمويل الشركات الناشئة. وفي عالم الشركات الناشئة، تُعتبر السندات القابلة للتحويل أدوات دين قصيرة الأجل يمكن تحويلها إلى ملكية بمعدل محدد في المستقبل، عادة خلال جولة تمويلية في المستقبل. يمكن النظر إلى الرمز المميز القائم على بلوكشين على أنه ملكية في المجتمع، بينما يمكن النظر إلى المذكرة القابلة للتحويل على أنها دين مقوم بأي سلعة أو عملة أخرى. حيث أن شروط المذكرة القابلة للتحويل تسمح للمالك بالتحويل إلى الرمز المميز مع الحد الأدنى للإشعار بسعر السوق العادل للرمز المميز. خلق رمز دولار قابلة للتحويل تُمكن بلوكشينز لتنمي تأثير الشبكة مع زيادة العائد لحاملي الرمز الى الحد الاعلى.
 
-يشار إلى ستيم دولار برمز SMD، وهو اختصار لـ ستيم دولار. إنشاء SMD يتطلب مزيج من تغذية السعر الموثوق بها، وقواعد لمنع إساءة الاستخدام، و السيولة. ويشمل توفير تغذية موثوقة للأسعار ثلاثة عوامل: تقليل تأثير التغذية غير الصحيحة، وزيادة تكلفة إنتاج التغذية الغير الصحيحة، والتقليل من أهمية التوقيت.
+يشار إلى ستيم دولار برمز SMD، وهو اختصار لـ ستيم دولار. إنشاء SMD يتطلب مزيج من تحديث السعر الموثوق به، وقواعد لمنع إساءة الاستخدام، و السيولة. ويشمل توفير التحديث الموثوق للأسعار ثلاثة عوامل: تقليل تأثير التحديث غير الصحيح، وزيادة تكلفة إنتاج التحديث الغير الصحيح، والتقليل من أهمية التوقيت.
 
-### تقليل التغذية الإحتيالية
+### تقليل التحديث الإحتيالي
 
-يقوم مالكي ستيم باور باختيار الأفراد لنشر تحديثات السعر. These elected individuals are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+يقوم مالكي ستيم باور باختيار الأفراد لنشر تحديثات السعر. ويفترض أن الأفراد المنتخبين يثق بهم أولئك الذين لديهم مصلحة خاصة في نوعية التحديث. من خلال الدفع لأولئك الذين يتم اختيارهم، ستيم يخلق المنافسة في السوق لكسب الحق في إنتاج التحديث. وكلما ازدادت قيمة منتجي التحديث كلما خسروا من خلال نشر معلومات كاذبة.
 
-Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+وبالنظر إلى مجموعة من منتجي التحديث الموثوق بهم والمنتخبين، يمكن استخلاص السعر الفعلي المستخدم للتحويلات كمتوسط للتحديثات. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
 Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
 
