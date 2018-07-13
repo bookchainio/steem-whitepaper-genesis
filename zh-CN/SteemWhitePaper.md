@@ -374,9 +374,9 @@ Steem尽最大可能的奖励给网络做出贡献的人。如果在人们和社
 
 ### 微支付不工作
 
-收取交易费的最根本问题就是微支付无法工作，尤其对于那些低价值用户的操作。 When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+收取交易费的最根本问题就是微支付无法工作，尤其对于那些低价值用户的操作。 当每一项交易都收费时，它就限制了一个去中心花网络能够处理的交易类型。 无论对收费必要性的理解如何，人们都会讨厌为各种行为而交费的经历。
 
-Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave.
+设想如果我们每天使用的网站在每次我们更新密码时都收费。 用户期待某些事情是免费的。 让用户最出某项操作是否值得缴纳小额费用的决定会导致用户的焦虑，从而使得用户离开。
 
 > A transaction can't be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
 > Micropayments, like all payments, require a comparison: "Is this much of X worth that much of Y?" There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
