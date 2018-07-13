@@ -366,15 +366,15 @@ Steem尽最大可能的奖励给网络做出贡献的人。如果在人们和社
 
 区块链技术目前通过交易费来防止垃圾的产生。 这些费用面临和微交易相关的问题，并且防止区块链被用于小额交易。 若和对应的中心化应用程序竞争，真正的去中心化程序必须为用户提供免费交易的支持。 本文概述了Steem使用的消除费用的方法，因此可以支持之前那些无法维持的去中心化应用。
 
-## 收费带来的问题
+## 和收费相关的问题
 
-区块链是去中心化的网络，其中的所有交易都会被广播给所有对等方。 每隔一段时间就会产生一个包含部分或全部待处理交易的块。 All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+区块链是去中心化的网络，其中的所有交易都会被广播给所有对等方。 每隔一段时间就会产生一个包含部分或全部待处理交易的块。 所有的区块链必须要找到一个解决方案，从而防止那些恶意用户使用所有可用网络资源来处理没有任何价值的交易。 那些毫无价值的交易能够防止其他有价值的交易被处理，最终会破坏网络。
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn't use email.
+迄今为止，被大多数区块链采纳的解决方案就是收取最低交易费。 只需要几美分的交易费就会使得对网络的攻击非常昂贵且无利可图。 这个方法在解决了垃圾问题的同时引入了新的问题。 设想如果通过收取小额费用的方式来解决垃圾邮件的问题，人们就不会使用电子邮件。
 
-### Micropayments Don't Work
+### 微支付不工作
 
-The fundamental problem with charging transaction fees is that micropayments don't work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+收取交易费的最根本问题就是微支付无法工作，尤其对于那些低价值用户的操作。 When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
 
 Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave.
 
