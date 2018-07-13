@@ -163,9 +163,9 @@ A rapid change in the value of STEEM can dramatically change the debt-to-ownersh
 
 SMD trả lãi suất cho chủ sở hữu. Lãi suất được đặt bởi người cùng xuất bản nguồn cung cấp dữ liệu giá để nó có thể thích ứng với sự thay đổi điều kiện thị trường. Tất cả các khoản nợ đều chứa rủi ro cho người cho vay. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. Họ tin tưởng rằng tại một thời điểm nào đó trong tương lai ai đó sẽ sẵn sàng mua SMD từ họ với một đồng đô la hoặc sẽ có các nhà đầu cơ và các nhà đầu tư sẵn sàng mua STEEM mà họ đã chuyển đổi nó thành.
 
-Những người nắm giữ STEEM và SP có được lợi thế đòn bẩy khi các thành viên trong cộng đồng sẵn sàng nắm giữ SMD. Đòn bẩy này khuếch đại lợi nhuận từ sự tăng trưởng trong khi đó nó sẽ cũng góp phần vào sự phát triển. STEEM holders do suffer from increased dilution if the price falls. Các dự án tiền điện tử đã cho thấy rằng lợi ích từ việc tăng cơ sở người dùng sẵn lòng tin tưởng mạng lưới với vốn sẽ giúp tăng thêm giá trị cho mạng lưới so với bất kỳ sự loãng giá nào có thể xảy ra trong thời gian suy thoái.
+Những người nắm giữ STEEM và SP có được lợi thế đòn bẩy khi các thành viên trong cộng đồng sẵn sàng nắm giữ SMD. Đòn bẩy này khuếch đại lợi nhuận từ sự tăng trưởng trong khi đó nó sẽ cũng góp phần vào sự phát triển. Chủ sở hữu STEEM sẽ phải chịu đựng sự loãng giá nếu giá giảm. Các dự án tiền điện tử đã cho thấy rằng lợi ích từ việc tăng cơ sở người dùng sẵn lòng tin tưởng mạng lưới với vốn sẽ giúp tăng thêm giá trị cho mạng lưới so với bất kỳ sự loãng giá nào có thể xảy ra trong thời gian suy thoái.
 
-### Setting Price Feeds
+### Thiết lập nguồn cung cấp dữ liệu giá
 
 Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
