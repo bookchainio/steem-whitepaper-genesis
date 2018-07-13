@@ -323,7 +323,7 @@ Zipf定律[^7]是一种能够深刻描述范围广泛的现实世界现象的经
 
 ### 挖矿奖励需要Steem Power
 
-在第一个月后，Steem矿工会获得Steem Power (SP) 方式的报酬。 SP通过为期两年的"powering down"过程进行结算。 这就意味着，矿工必须要等待一段很长的时间，可能是很多个月，才能将他们挖矿获得的奖励来power down，来收回电费以及计算资源的成本。 这个powering down的过程会阻止创建矿池，原因在于矿池的操作者不得不在数年内分摊支出。
+在第一个月后，Steem矿工会获得Steem Power (SP) 方式的报酬。 SP通过为期两年的"powering down"过程进行结算。 这就意味着，矿工必须要等待一段很长的时间，可能是很多个月，才能将他们挖矿获得的奖励来power down，来收回电费以及计算资源的成本。 这个powering down的过程会阻止创建矿池，原因在于矿池的操作者得在数年内分摊支出。
 
 以SP形式支付挖矿报酬可以防止矿工们通过今日的价格来决定挖矿的可行性。 很少有人会在将来的价格是多少上达成一致。 这意味着挖矿难度将由那些对未来价格预期最高的矿工来决定。 对平台没有长期兴趣的矿工们不被鼓励参与竞争。 最终这意味着，由于矿工会是长期信任平台的人，挖矿的收益不太可能会被倾销到市场上去。
 
@@ -354,7 +354,7 @@ The last mitigation is the dependency on latency. Most botnets are comprised of 
 
 It should be more profitable and less risky for botnet operators to use their resources for other activities than mining STEEM.
 
-### Mining Pool Resistant
+### 防止矿池
 
 Miners have a total of 3 seconds to receive a block, solve the proof of work, and get the transaction to the next block producer. Much of this time will consist of network latency which means that it is critical for miners to be well connected to the network to make the most effective use of their computational resources.
 
