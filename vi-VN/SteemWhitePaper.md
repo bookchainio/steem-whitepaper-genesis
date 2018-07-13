@@ -4,7 +4,7 @@
 
 Tháng 3 năm 2016
 
-# Những ghi chú của người phiên dịch
+# Những ghi chú của người biên dịch
 
 Mục dành cho những ghi chú của người phiên dịch.
 
