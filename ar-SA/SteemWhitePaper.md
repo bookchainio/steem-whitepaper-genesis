@@ -1,6 +1,6 @@
 # ستيم
 
-## An incentivized, blockchain-based social media platform.
+## منصة محفزة ، قائمة على بلوكشين ، وسيلة إعلام إجتماعية.
 
 مارس 2016
 
@@ -52,7 +52,7 @@
 
 نظام مؤكد لتقييم ومكافأة المساهمات هو السوق الحر. و يمكن النظر إلى السوق الحر كمجتمع واحد حيث يتداول الجميع مع بعضهم البعض و يتم توزيع المكافآت عن طريق الربح و الخسارة. نظام السوق يكافئ أولئك الذين يقدمون قيمة للآخرين و يعاقب أولئك الذين يستهلكون قيمة أكثر مما ينتجون. السوق الحر يدعم العديد من العملات المختلفة و الأموال هي ببساطة مجرد سلعة يسهل على الجميع التعامل معها والتبادل بها.
 
-و بما أن السوق الحر نظام أثبت قدراته، فإنه سيكون من المغري أن يتم إنشاء سوق حرة أين يقوم المستهلكين بالدفع للمنتجين بكشل مباشر. و مع ذلك، فإن الدفع المباشر يعد غير فعال ولا يمكن الإعتماد عليه لإنشاء المحتوى وتمويله. حيث أن قيمة معظم المحتوى منخفضة جدا بالنسبة إلى المعرفية، و المالية، و التكاليف المناسبة مرتبطة بإجراء الدفع و التي يختارون تلميحها القلة القليلة من القراء. The abundance of free alternatives means that enforcing a 'paywall' will drive readers elsewhere. كانت هناك عدة محاولات لتنفيذ المدفوعات الصغيرة لكل مقال من القراء إلى المؤلفين، ولكن لم يُنشر أي منها على نطاق واسع.
+و بما أن السوق الحر نظام أثبت قدراته، فإنه سيكون من المغري أن يتم إنشاء سوق حرة أين يقوم المستهلكين بالدفع للمنتجين بكشل مباشر. و مع ذلك، فإن الدفع المباشر يعد غير فعال ولا يمكن الإعتماد عليه لإنشاء المحتوى وتمويله. حيث أن قيمة معظم المحتوى منخفضة جدا بالنسبة إلى المعرفية، و المالية، و التكاليف المناسبة مرتبطة بإجراء الدفع و التي يختارون تلميحها القلة القليلة من القراء. توفر البدائل المجانية يعني أن فرض "paywall"  ستدفع القراء إلى أماكن أخرى. كانت هناك عدة محاولات لتنفيذ المدفوعات الصغيرة لكل مقال من القراء إلى المؤلفين، ولكن لم يُنشر أي منها على نطاق واسع.
 
 لقد تم تصميم ستيم لتفعيل مدفوعات صغيرة ناجحة لجميع أنواع المساهمة عن طريق تغيير المعادلة الإقتصادية. لم يعد على القُراء أن يقرروا ما إذا كانوا يريدون الدفع لشخص ما من جيبهم الخاص، في حين أنه يمكنهم التصويت مع أو ضد المحتوى و سيستخدم ستيم أصواتهم لتحديد المكافآت الفردية. يعني هذا أن الناس يعطون واجهة مألوفة تُستخدم على نطاق واسع ولم تعد تواجه التكاليف المعرفية والمالية، والفرص المرتبطة بالدفع الجزئي التقليدي و منصات دفع المبالغ الصغيرة.
 
@@ -102,7 +102,7 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
 
 الإستقرار هو سمة هامة من سمات الإقتصادات العالمية الناجحة. وبدون الإستقرار، لا يمكن للأفراد في جميع أنحاء العالم أن يكون لديهم تكاليف إدراكية منخفضة أثناء الإنخراط في التجارة والمدخرات. لأن الإستقرار هو سمة هامة من سمات الإقتصادات الناجحة، تم تصميم ستيم دولار كمحاولة لتحقيق الإستقرار في عالم العملات الرقمية وللأفراد الذين يستخدمون شبكة ستيم.
 
-يتم إنشاء دولارات ستيم من خلال آلية مماثلة للملاحظات القابلة للتحويل، والتي غالبا ما تُستخدم لتمويل الشركات الناشئة. وفي عالم الشركات الناشئة، تُعتبر السندات القابلة للتحويل أدوات دين قصيرة الأجل يمكن تحويلها إلى ملكية بمعدل محدد في المستقبل، عادة خلال جولة تمويلية في المستقبل. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
+يتم إنشاء دولارات ستيم من خلال آلية مماثلة للملاحظات القابلة للتحويل، والتي غالبا ما تُستخدم لتمويل الشركات الناشئة. وفي عالم الشركات الناشئة، تُعتبر السندات القابلة للتحويل أدوات دين قصيرة الأجل يمكن تحويلها إلى ملكية بمعدل محدد في المستقبل، عادة خلال جولة تمويلية في المستقبل. يمكن النظر إلى الرمز المميز القائم على بلوكشين على أنه ملكية في المجتمع، بينما يمكن النظر إلى المذكرة القابلة للتحويل على أنها دين مقوم بأي سلعة أو عملة أخرى. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
 
 Steem Dollars are referred to with the symbol SMD, an acronym for Steem Dollars. Creating SMD requires a combination of a reliable price feed, rules to prevent abuse, and liquidity. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
 
