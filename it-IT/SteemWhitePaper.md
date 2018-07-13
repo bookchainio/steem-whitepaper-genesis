@@ -387,7 +387,7 @@ Nel mondo dei pagamenti finanziari, piccole commissioni sono accettabili perché
 
 I sistemi come BitShares, Nxt, Ripple, Counter Party e Stellar consentono a tutti agli utenti di piazzare ordini in maniera limitata sulla blockchain, e tutti addebitano agli utenti una piccola commissione per eseguire questa operazione. Successivamente, se l'utente desidera cancellare il suo ordine, viene addebitata un'altra commissione. Sistemi come Ethereum prendono micropagamenti ad un livello completamente nuovo: addebitando in base al calcolo. Tutti questi sistemi lottano per attrarre nuovi utenti comuni per lo stesso motivo per il quale un motore di ricerca decentralizzato combatterebbe per attirare utenti da Google se esso addebitasse una piccola commissione per ogni ricerca. Non importa quanto è buono il servizio, le persone si aspettano che certe cose siano gratuite. Questo risulta essere vero anche se un utente finisce con il pagare di più in generale sotto un sistema di commissione differente.
 
-### Le commisioni sono barriere di accesso
+### Le commissioni sono barriere di accesso
 
 Ogni commissione crea una barriera di accesso per i nuovi utenti. Prima che qualcuno possa sperimentare con Ethereum, deve acquistare alcuni token ETH. Chiunque vuole costruire un programma decentralizzato su Ethereum, deve trasmettere il costo ai suoi clienti. Comprare una criptovaluta non è un lavoro facile e raramente ha senso per importi inferiori a $10. Questo vuol dire che i nuovi utenti che vogliono provare un nuovo programma decentralizzato devono innanzitutto essere convinti di partire con $10.
 
