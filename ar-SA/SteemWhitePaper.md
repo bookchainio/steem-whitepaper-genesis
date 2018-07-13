@@ -66,11 +66,11 @@
 
 ## المساهمات الأساسية
 
-There are two items a community can offer to attract capital: debt and ownership. أولئك الذين يشترون أرباح الملكية عندما ينمو المجتمع و لكن يخسرون إذا تقلص. و يضمن أولئك الذين يشترون الديون قدرا معينا من الفائدة و لكن لا يحصلون على المشاركة في أي أرباح تتحقق من نمو المجتمع. وكلا النوعين من المساهمات الرئيسة له قيمة بالنسبة لنمو المجتمع وقيمة عملته. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+There are two items a community can offer to attract capital: debt and ownership. أولئك الذين يشترون أرباح الملكية عندما ينمو المجتمع و لكن يخسرون إذا تقلص. و يضمن أولئك الذين يشترون الديون قدرا معينا من الفائدة و لكن لا يحصلون على المشاركة في أي أرباح تتحقق من نمو المجتمع. وكلا النوعين من المساهمات الرئيسة له قيمة بالنسبة لنمو المجتمع وقيمة عملته. بالإضافة إلى ذلك هنالك طريقتان لإمكانية عقد الملكية: السلاسة والاستحقاق. وتؤدي ملكية الاستحقاق إلى التزام ذو أجل طويل ولا يمكن بيعها لفترة زمنية محددة.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SMD).
 
-## Steem (STEEM)
+## ستيم(STEEM)
 
 Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. Generally speaking STEEM should be held for short periods of time when liquidity is needed. Someone looking to enter or exit the Steem platform will have to buy or sell STEEM. Once STEEM has been purchased it should be converted into SP or SMD to mitigate the impact of dilution over the long-term.
 
