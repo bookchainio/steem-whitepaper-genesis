@@ -360,11 +360,11 @@ Miners have a total of 3 seconds to receive a block, solve the proof of work, an
 
 Because of the constantly changing head block and network latency, forwarding a template for mining a specific block to participants of a mining pool adds additional network latency and reduces efficiency of pooled mining significantly.
 
-# Eliminating Transaction Fees
+# 取消交易费
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Steem尽最大可能的奖励给网络做出贡献的人。如果在人们和社区互动时都要被收费，其结果将会适得其反。
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+区块链技术目前通过交易费来防止垃圾的产生。 这些费用面临和微交易相关的问题，并且防止区块链被用于小额交易。 Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
 
 ## The Problem With Fees
 
