@@ -104,9 +104,9 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
 
 يتم إنشاء دولارات ستيم من خلال آلية مماثلة للملاحظات القابلة للتحويل، والتي غالبا ما تُستخدم لتمويل الشركات الناشئة. وفي عالم الشركات الناشئة، تُعتبر السندات القابلة للتحويل أدوات دين قصيرة الأجل يمكن تحويلها إلى ملكية بمعدل محدد في المستقبل، عادة خلال جولة تمويلية في المستقبل. يمكن النظر إلى الرمز المميز القائم على بلوكشين على أنه ملكية في المجتمع، بينما يمكن النظر إلى المذكرة القابلة للتحويل على أنها دين مقوم بأي سلعة أو عملة أخرى. حيث أن شروط المذكرة القابلة للتحويل تسمح للمالك بالتحويل إلى الرمز المميز مع الحد الأدنى للإشعار بسعر السوق العادل للرمز المميز. خلق رمز دولار قابلة للتحويل تُمكن بلوكشينز لتنمي تأثير الشبكة مع زيادة العائد لحاملي الرمز الى الحد الاعلى.
 
-يشار إلى ستيم دولار برمز SMD، وهو اختصار لـ ستيم دولار. إنشاء SMD يتطلب مزيج من تغذية السعر الموثوق بها، وقواعد لمنع إساءة الاستخدام، و السيولة. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+يشار إلى ستيم دولار برمز SMD، وهو اختصار لـ ستيم دولار. إنشاء SMD يتطلب مزيج من تغذية السعر الموثوق بها، وقواعد لمنع إساءة الاستخدام، و السيولة. ويشمل توفير تغذية موثوقة للأسعار ثلاثة عوامل: تقليل تأثير التغذية غير الصحيحة، وزيادة تكلفة إنتاج التغذية الغير الصحيحة، والتقليل من أهمية التوقيت.
 
-### Minimizing Fraudulent Feeds
+### تقليل التغذية الإحتيالية
 
 SP holders elect individuals to publish price feeds. These elected individuals are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
 
