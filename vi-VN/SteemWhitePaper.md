@@ -72,7 +72,7 @@ Mạng lưới Steem gọi những loại tài sản khác nhau này là Steem (
 
 ## Steem (STEEM)
 
-Steem là một đơn vị tiền tệ cơ bản của tài khoản trên chuỗi khối Steem. Tất cả các đồng tiền điện tử khác đều được định giá dựa theo giá trị của đồng STEEM. Nhìn chung mà nói, đồng STEEM chỉ nên được giữ trong những khoảng thời gian ngắn khi mà sự lưu thông tiền tệ là cần thiết. Những ai muốn tham gia hoặc rời khỏi nền tảng Steem đều sẽ phải mua hoặc bán STEEM. Một khi STEEM được mua về, nó nên được chuyển đổi sang thành SP hoặc SMD nhằm làm giảm nhẹ sự ảnh hưởng lớn của việc bị loãng, mất giá trị của đồng STEEM trong khoảng thời gian dài.
+Steem là một đơn vị tiền tệ cơ bản của tài khoản trên chuỗi khối Steem. Tất cả các đồng tiền điện tử khác đều được định giá dựa theo giá trị của đồng STEEM. Nhìn chung, đồng STEEM chỉ nên được giữ trong những khoảng thời gian ngắn để thực hiện việc lưu thông cần thiết. Những ai muốn tham gia hoặc rời khỏi nền tảng Steem đều sẽ phải mua hoặc bán STEEM. Một khi STEEM được mua về, nó nên được chuyển đổi sang thành SP hoặc SMD nhằm làm giảm nhẹ sự ảnh hưởng lớn của việc bị loãng, mất giá trị của đồng STEEM trong khoảng thời gian dài.
 
 Số lượng đồng STEEM đang gia tăng liên tục lên đến 100% mỗi năm bởi sự thúc đẩy của những đồng không phải Steem đô la. Những ai nắm giữ STEEM nhưng không chuyển đổi nó sang thành SP thì sẽ làm giảm giá trị của nó xấp xỉ 0.19% mỗi ngày. Mặc dù tỷ lệ này có thể hơi cao cho những phiên giao dịch có thời gian giao dịch ít hơn 10 ngày, nhưng nó vẫn rẻ hơn những chi phí cho quá trình xử lý của thẻ tín dụng thông thường. Hơn nữa, việc tạo ra các đồng tiền mã hóa hàng ngày là không đáng kể so với biến động của giá cả trong ngày.
 
@@ -126,7 +126,7 @@ Những người tham gia thị trường có quyền truy cập thông tin nhan
 
 Steem làm cân bằng thị trường bằng cách bắt buộc tất cả những yêu cầu chuyển đổi bị trì hoãn trong vòng một tuần. Điều này có nghĩa là các nhà giao dịch cũng như blockchain đều không có bất kỳ ưu thế thông tin nào về giá tại thời điểm mà việc chuyển đổi được thực hiện.
 
-### Hạn chế việc lạm dụng các chuyển đổi
+### Hạn chế việc lạm dụng các quyền chuyển đổi
 
 Nếu mọi người có thể tự do chuyển đổi theo cả hai chiều thì những nhà giao dịch có thể tranh thủ tận dụng tỷ lệ chuyển đổi của blockchains bằng cách giao dịch một khối lượng lớn với giá không đổi. Các nhà giao dịch thấy giá tăng mạnh sẽ chuyển đổi sang SMD ở mức giá cao (khi rủi ro là lớn nhất) và sau đó chuyển đổi trở lại sau khi giá đã bình ổn. Giao thức mạng Steem giúp bảo vệ cộng đồng khỏi việc lạm dụng này bằng cách chỉ cho phép người ta chuyển đổi từ SMD sang STEEM mà không phải là cách nào khác.
 
