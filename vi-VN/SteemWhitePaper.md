@@ -1,12 +1,12 @@
 # Steem
 
-## An incentivized, blockchain-based social media platform.
+## Một nền tảng mạng xã hội có trả thưởng và hoạt động trên chuỗi khối blockchain.
 
 Tháng 3 năm 2016
 
 # Những ghi chú của người phiên dịch
 
-Placeholder for translator's notes.
+Mục dành cho những ghi chú của người phiên dịch.
 
 # Tóm tắt nội dung
 
