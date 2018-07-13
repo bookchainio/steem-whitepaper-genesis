@@ -378,7 +378,7 @@ Steem尽最大可能的奖励给网络做出贡献的人。如果在人们和社
 
 设想如果我们每天使用的网站在每次我们更新密码时都收费。 用户期待某些事情是免费的。 让用户最出某项操作是否值得缴纳小额费用的决定会导致用户的焦虑，从而使得用户离开。
 
-> A transaction can't be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
+> 一个交易并不值得因此而做一个决定，与此相反，因其价值太小，决定都是自动化的。 There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
 > Micropayments, like all payments, require a comparison: "Is this much of X worth that much of Y?" There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
 > 
 > *- Clay Shirky[^8]*
