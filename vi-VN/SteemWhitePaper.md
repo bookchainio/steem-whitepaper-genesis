@@ -1,16 +1,16 @@
 # Steem
 
-## Một nền tảng mạng xã hội có trả thưởng và hoạt động trên chuỗi khối blockchain.
+## Một phương tiện truyền thông xã hội dựa trên nền tảng blockchain và có cơ chế trả thưởng khích lệ người dùng.
 
 Tháng 3 năm 2016
 
 # Những ghi chú của người dịch
 
-Mục dành cho những ghi chú của người phiên dịch.
+Mục dành cho những ghi chú của người dịch.
 
 # Tóm tắt nội dung
 
-Steem là một cơ sở dữ liệu hoạt động trên chuỗi khối Blockchain nhằm hỗ trợ xây dựng cộng đồng và tương tác xã hội bằng phần thưởng là tiền điện tử. Steem kết hợp các khái niệm từ mạng xã hội với các bài học kinh nghiệm từ việc xây dựng tiền điện tử và cộng đồng của họ. Để khuyến khích người dùng tham gia vào bất kỳ mạng lưới nào, bao gồm một cộng đồng, một thị trường tiền tệ hoặc một thị trường kinh tế tự do thì hệ thống tài chính công bằng thể hiện thông qua việc trả cho người dùng về đúng giá trị họ tạo ra là một nhân tố quan trọng. Steem là loại tiền điện tử đầu tiên có trả thưởng một cách chính xác và minh bạch cho một số lượng lớn những cá nhân có *đóng góp chủ quan* vào cộng động Steem.
+Steem là một nguồn cơ sở dữ liệu trên nền tảng blockchain nhằm hỗ trợ xây dựng cộng đồng và tương tác xã hội bằng phần thưởng là tiền điện tử. Steem tích hợp việc xây dựng tiền tệ mã hóa trong cộng đồng với phương tiện truyền thông xã hội. Để khuyến khích người dùng tham gia vào bất kỳ mạng lưới nào, bao gồm một cộng đồng, một thị trường tiền tệ hoặc một thị trường kinh tế tự do thì hệ thống tài chính công bằng thể hiện thông qua việc trả cho người dùng về đúng giá trị họ tạo ra là một nhân tố quan trọng. Steem là loại tiền điện tử đầu tiên có trả thưởng chính xác và minh bạch cho một lượng không giới hạn cho những cá nhân có *đóng góp chủ quan* vào cộng đồng Steem.
 
 # Phần mục lục
 
