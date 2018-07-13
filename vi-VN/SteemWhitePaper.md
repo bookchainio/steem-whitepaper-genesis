@@ -10,9 +10,9 @@ Mục dành cho những ghi chú của người phiên dịch.
 
 # Tóm tắt nội dung
 
-Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Steem là một cơ sở dữ liệu hoạt động trên chuỗi khối Blockchain nhằm hỗ trợ xây dựng cộng đồng và tương tác xã hội bằng phần thưởng là tiền điện tử. Steem kết hợp các khái niệm từ mạng xã hội với các bài học kinh nghiệm từ việc xây dựng tiền điện tử và cộng đồng của họ. Một chìa khóa quan trọng trong việc truyền cảm hứng cho sự tham gia vào bất kỳ cộng động nào, dù là cộng đồng tiền tệ hay cộng đồng kinh tế thị trường tự do, đó là một hệ thống kế toán công bằng mà có thể phản ánh một cách rõ nét sự đóng góp của mỗi cá nhân. Steem là loại tiền điện tử đầu tiên có trả thưởng một cách chính xác và minh bạch cho một số lượng lớn những cá nhân có *đóng góp chủ quan* vào cộng động Steem.
 
-# Table of Contents
+# Mục lục
 
 <!-- toc -->
 
