@@ -64,15 +64,15 @@
 
 يحدد هذا القسم الأفكار الكامنة وراء ستيم ومكافآته للألشخاص الذين يقدمون مساهمات مجدية وقابلة للقياس لمجتمع ستيم.
 
-## المساهمات الأساسية
+## المساهمات الرأسمالية
 
-There are two items a community can offer to attract capital: debt and ownership. أولئك الذين يشترون أرباح الملكية عندما ينمو المجتمع و لكن يخسرون إذا تقلص. و يضمن أولئك الذين يشترون الديون قدرا معينا من الفائدة و لكن لا يحصلون على المشاركة في أي أرباح تتحقق من نمو المجتمع. وكلا النوعين من المساهمات الرئيسة له قيمة بالنسبة لنمو المجتمع وقيمة عملته. بالإضافة إلى ذلك هنالك طريقتان لإمكانية عقد الملكية: السلاسة والاستحقاق. وتؤدي ملكية الاستحقاق إلى التزام ذو أجل طويل ولا يمكن بيعها لفترة زمنية محددة.
+هناك بندان يمكن للمجتمع تقديمهما لجذب رأس المال: الدين و الملكية. أولئك الذين يشترون أرباح الملكية عندما ينمو المجتمع و لكن يخسرون إذا تقلص. و يضمن أولئك الذين يشترون الديون قدرا معينا من الفائدة و لكن لا يحصلون على المشاركة في أي أرباح تتحقق من نمو المجتمع. وكلا النوعين من المساهمات الرئيسة له قيمة بالنسبة لنمو المجتمع وقيمة عملته. بالإضافة إلى ذلك هنالك طريقتان لإمكانية عقد الملكية: السلاسة والاستحقاق. وتؤدي ملكية الاستحقاق إلى التزام ذو أجل طويل ولا يمكن بيعها لفترة زمنية محددة.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SMD).
 
 ## ستيم(STEEM)
 
-Steem هو وحدة الحساب الأساسية في ستيم بلوكشين. وتستمد جميع العملات الرمزية الأخرى قيمتها من قيمة ستيم. Generally speaking STEEM should be held for short periods of time when liquidity is needed. Someone looking to enter or exit the Steem platform will have to buy or sell STEEM. Once STEEM has been purchased it should be converted into SP or SMD to mitigate the impact of dilution over the long-term.
+Steem هو وحدة الحساب الأساسية في ستيم بلوكشين. وتستمد جميع العملات الرمزية الأخرى قيمتها من قيمة ستيم. وبصفة عامة ينبغي أن يُقبض STEEM لفترات قصيرة من الوقت عندما تكون السيولة مطلوبة. شخص يريد الدخول أو الخروج من منصة Steem يتطلب منه شراء أو بيع STEEM. Once STEEM has been purchased it should be converted into SP or SMD to mitigate the impact of dilution over the long-term.
 
 STEEM is constantly increasing in supply by 100% per year due to non-SMD incentives. Someone who holds STEEM without converting it to SP is diluted by approximately 0.19% per day. While the rate may appear high, for transactions that take less than 10 days, it is still cheaper than credit card processing fees. Furthermore, the daily token creation is insignificant next to the daily volatility.
 
@@ -80,9 +80,9 @@ Someone who buys Bitcoin or any other cryptocurrency and sells it 10 days later 
 
 The majority of inflation is actually an accounting artifact rather than true reallocation of wealth. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
 
-## Steem Power (SP)
+## قوة ستيم(SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+الشركات الناشئة تتطلب الإلتزلم برأس مل على المدى الطويل. أولئك الذين يستثمرون أموالهم في شركة ناشئة يترقبون الانتظار لسنوات قبل أن يتمكنوا من بيع أسهمهم وتحقيق أرباحهم. وبدون الإلتزام على المدى الطويل، فإن الشركة الناشئة تسعى إلى زيادة رأس المال من خلال بيع أسهم إضافية والتي ستكون منافِسة مع المساهمين الحاليين الذين يتطلعون للخروج. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
 There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
