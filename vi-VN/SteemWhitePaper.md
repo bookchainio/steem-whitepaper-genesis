@@ -360,7 +360,7 @@ Miners have a total of 3 seconds to receive a block, solve the proof of work, an
 
 Because of the constantly changing head block and network latency, forwarding a template for mining a specific block to participants of a mining pool adds additional network latency and reduces efficiency of pooled mining significantly.
 
-# Eliminating Transaction Fees
+# Loại bỏ các chi phí giao dịch
 
 Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
 
