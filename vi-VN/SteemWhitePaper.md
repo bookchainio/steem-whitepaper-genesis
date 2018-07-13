@@ -173,7 +173,7 @@ Những độc giả thông minh sẽ nhận ra rằng tài sản có lãi suấ
 2. Sự lưu động vốn tự do
 3. Chính sách lưu thông tiền tệ độc lập
 
-Nếu các nhà sản xuất thức dữ liệu đồng Steem hướng đến việc có một chính sách lưu thông tiền tệ độc lập thì sẽ cho phép nó tạo ra và phá hủy đồng Steem Dollars đồng thời có quyền kiểm soát toàn bộ lãi suất thì họ sẽ chắn chắn gặp phải nhiều vấn đề. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+Nếu các nhà sản xuất thức dữ liệu đồng Steem hướng đến việc có một chính sách lưu thông tiền tệ độc lập thì sẽ cho phép nó tạo ra và phá hủy đồng Steem Dollars đồng thời có quyền kiểm soát toàn bộ lãi suất thì họ sẽ chắn chắn gặp phải nhiều vấn đề. Impossible Trinity nói rằng đồng Steem Dollars cần phải hạn chế sự lưu động vốn, hoặc hạn chế tỷ giá giao dịch không ổn định với đồng đô la, hoặc giới hạn về việc kiểm soát lãi suất.
 
 The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SMD and the U.S. Dollar (USD). Any time SMD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
