@@ -171,7 +171,7 @@ Những độc giả thông minh sẽ nhận ra rằng tài sản có lãi suấ
 
 1. Tỷ giá giao dịch ổn định
 2. Sự lưu động vốn tự do
-3. An independent monetary policy
+3. Chính sách lưu thông tiền tệ độc lập
 
 If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
