@@ -110,9 +110,9 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
 
 يقوم مالكي ستيم باور باختيار الأفراد لنشر تحديثات السعر. ويفترض أن الأفراد المنتخبين يثق بهم أولئك الذين لديهم مصلحة خاصة في نوعية التحديث. من خلال الدفع لأولئك الذين يتم اختيارهم، ستيم يخلق المنافسة في السوق لكسب الحق في إنتاج التحديث. وكلما ازدادت قيمة منتجي التحديث كلما خسروا من خلال نشر معلومات كاذبة.
 
-وبالنظر إلى مجموعة من منتجي التحديث الموثوق بهم والمنتخبين، يمكن استخلاص السعر الفعلي المستخدم للتحويلات كمتوسط للتحديثات. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+وبالنظر إلى مجموعة من منتجي التحديث الموثوق بهم والمنتخبين، يمكن استخلاص السعر الفعلي المستخدم للتحويلات كمتوسط للتحديثات. وبهذه الطريقة إذا كانت أي أقلية من منتجي التحديث الفرديين ينتجون قيم متطرفة يكون لها تأثير ضئيل على الوسيلة الفعلية في حين لا يزال لديهم القدرة على التأثير على سمعتهم.
 
-Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+وحتى إذا كان كل منتجي التحديث صادقين، فمن الممكن أن يتأثر معظمهم بأحداث خارجة عن إرادتهم. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
 
 Steem factors out short-term price fluctuations by using the median price over a period of one week. The median published feed is sampled every hour on the hour.
 
