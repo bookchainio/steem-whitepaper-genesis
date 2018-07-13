@@ -167,10 +167,10 @@ Những người nắm giữ STEEM và SP có được lợi thế đòn bẩy k
 
 ### Thiết lập nguồn cung cấp dữ liệu giá
 
-Những độc giả thông minh sẽ nhận ra rằng tài sản có lãi suất từ nguồn cung cấp giới hạn có thể giao dịch cao hơn hoặc thấp hơn tài sản cơ bản tùy thuộc vào các cơ hội kiếm lãi trên cùng một tài sản. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Những độc giả thông minh sẽ nhận ra rằng tài sản có lãi suất từ nguồn cung cấp giới hạn có thể giao dịch cao hơn hoặc thấp hơn tài sản cơ bản tùy thuộc vào các cơ hội kiếm lãi trên cùng một tài sản. Với lãi suất cao được trả bằng một tài sản cố định với đồng đô la Mỹ, nhiều người sẽ trả giá cho nguồn cung giới hạn của Steem Dollars cho đến khi chúng không còn có giá trị $1 nữa. Trong kinh tế học có một nguyên tắc được gọi là Impossible Trinity [^4] nói rằng không thể có tất cả ba điều sau đây trong cùng một lúc:
 
-1. A stable exchange rate
-2. Free capital movement
+1. Tỷ giá giao dịch ổn định
+2. Sự lưu động vốn tự do
 3. An independent monetary policy
 
 If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
