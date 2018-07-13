@@ -74,7 +74,7 @@
 
 Steem هو وحدة الحساب الأساسية في ستيم بلوكشين. وتستمد جميع العملات الرمزية الأخرى قيمتها من قيمة ستيم. وبصفة عامة ينبغي أن يُقبض STEEM لفترات قصيرة من الوقت عندما تكون السيولة مطلوبة. شخص يريد الدخول أو الخروج من منصة Steem يتطلب منه شراء أو بيع STEEM. Once STEEM has been purchased it should be converted into SP or SMD to mitigate the impact of dilution over the long-term.
 
-STEEM is constantly increasing in supply by 100% per year due to non-SMD incentives. Someone who holds STEEM without converting it to SP is diluted by approximately 0.19% per day. While the rate may appear high, for transactions that take less than 10 days, it is still cheaper than credit card processing fees. Furthermore, the daily token creation is insignificant next to the daily volatility.
+STEEM يتزايد في العرض باستمرار بنسبة 100% في السنة بسبب عدم وجود تحفيو لـ SMD. Someone who holds STEEM without converting it to SP is diluted by approximately 0.19% per day. While the rate may appear high, for transactions that take less than 10 days, it is still cheaper than credit card processing fees. Furthermore, the daily token creation is insignificant next to the daily volatility.
 
 Someone who buys Bitcoin or any other cryptocurrency and sells it 10 days later could easily lose 3% or more due to price fluctuations. Someone who buys Bitcoin and then sells it the same day will usually pay more than 0.4% in market fees alone. In other words, the inflation rate is effectively insignificant during the period of time the typical individual will hold STEEM.
 
@@ -102,9 +102,9 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
 
 الإستقرار هو سمة هامة من سمات الإقتصادات العالمية الناجحة. وبدون الإستقرار، لا يمكن للأفراد في جميع أنحاء العالم أن يكون لديهم تكاليف إدراكية منخفضة أثناء الإنخراط في التجارة والمدخرات. لأن الإستقرار هو سمة هامة من سمات الإقتصادات الناجحة، تم تصميم ستيم دولار كمحاولة لتحقيق الإستقرار في عالم العملات الرقمية وللأفراد الذين يستخدمون شبكة ستيم.
 
-يتم إنشاء دولارات ستيم من خلال آلية مماثلة للملاحظات القابلة للتحويل، والتي غالبا ما تُستخدم لتمويل الشركات الناشئة. وفي عالم الشركات الناشئة، تُعتبر السندات القابلة للتحويل أدوات دين قصيرة الأجل يمكن تحويلها إلى ملكية بمعدل محدد في المستقبل، عادة خلال جولة تمويلية في المستقبل. يمكن النظر إلى الرمز المميز القائم على بلوكشين على أنه ملكية في المجتمع، بينما يمكن النظر إلى المذكرة القابلة للتحويل على أنها دين مقوم بأي سلعة أو عملة أخرى. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
+يتم إنشاء دولارات ستيم من خلال آلية مماثلة للملاحظات القابلة للتحويل، والتي غالبا ما تُستخدم لتمويل الشركات الناشئة. وفي عالم الشركات الناشئة، تُعتبر السندات القابلة للتحويل أدوات دين قصيرة الأجل يمكن تحويلها إلى ملكية بمعدل محدد في المستقبل، عادة خلال جولة تمويلية في المستقبل. يمكن النظر إلى الرمز المميز القائم على بلوكشين على أنه ملكية في المجتمع، بينما يمكن النظر إلى المذكرة القابلة للتحويل على أنها دين مقوم بأي سلعة أو عملة أخرى. حيث أن شروط المذكرة القابلة للتحويل تسمح للمالك بالتحويل إلى الرمز المميز مع الحد الأدنى للإشعار بسعر السوق العادل للرمز المميز. خلق رمز دولار قابلة للتحويل تُمكن بلوكشينز لتنمي تأثير الشبكة مع زيادة العائد لحاملي الرمز الى الحد الاعلى.
 
-Steem Dollars are referred to with the symbol SMD, an acronym for Steem Dollars. Creating SMD requires a combination of a reliable price feed, rules to prevent abuse, and liquidity. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+يشار إلى ستيم دولار برمز SMD، وهو اختصار لـ ستيم دولار. إنشاء SMD يتطلب مزيج من تغذية السعر الموثوق بها، وقواعد لمنع إساءة الاستخدام، و السيولة. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
 
 ### Minimizing Fraudulent Feeds
 
