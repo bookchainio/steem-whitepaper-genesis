@@ -424,26 +424,27 @@ Sia B uguale alla banda larga media di un utente al tempo T.
     BNuovo = MIN (0, B * (W - S) / W) + N * S / W tNuovo = T + S
     
 
-Each user is entitled to an average weekly bandwidth of:
+Ogni utente ha diritto ad una larghezza di banda media settimanale di:
 
-    Let U = the user's SP
-    Let S = the total number of SP
-    Let R = the current reserve ratio between 1 and Rmax
-    Let C = the maximum block size capacity set by witnesses
-    Let L = the total blocks per week
-    Let M = C * L * R
-    Allocation = M * U / S
+    Sia U = allo SP dell'utente
+    Sia S = al numero totale dello SP
+    Sia R = all'attuale rapporto di riserva tra 1 e il massimo di R
+    Sia C = alla capacità massima del blocco impostata dal testimone
+    Sia L = al totale dei blocchi per settimana
+    Sia M = C * L * R
+    Ripartizione = M * U / S
+    
     
 
-A user would be entitled to an average bandwidth of M \* U / S. Any time a transaction would cause the user's average to go above this threshold they would be unable to transact until enough time passes to lower the average.
+Un utente avrebbe diritto a una larghezza di banda media di M \ * U / S. Ogni volta che una transazione potrebbe causare il superamento di una soglia della media dell'utente, esso, non sarebbe in grado di effettuare transazioni finché non passerà abbastanza tempo necessario per abbassare la media.
 
-The network can increase the reserve ratio, anytime blocks are less than half the target capacity and decrease it anytime they are more than half. The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
+La rete può aumentare l'indice di riserva ogni volta che i blocchi sono meno della metà della capacità prestabilita e diminuirlo ogni volta che sono più della metà. L'algoritmo utilizzato per regolare R è progettato per reagire rapidamente per ridurre l'indice di riserva in caso di aumento della domanda, agendo lentamente per aumentare l'indice di riserva nel periodo di bassa domanda.
 
-The minimum reserve ratio is 1, and the maximum reserve ratio should be calculated to prevent small stakeholders from consuming all of the available bandwidth. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
+ll coefficiente di riserva minimo è 1, e il coefficiente di riserva massimo dovrebbe essere calcolato per impedire a piccoli stakeholder di consumare tutta la banda larga disponibile. Se nessuno sta utilizzando la banda larga disponibile, il livello di riserva può aumentare fino a quando un utente con solo 1 satoshi come valuta è in grado di effettuare transazioni su ogni singolo blocco.
 
-### Case Study: Bitcoin
+### Argomento di studio: il Bitcoin
 
-To understand how this algorithm would work on Bitcoin it is necessary to estimate a reasonable value for the reserve ratio, R, based on actual usage. Based upon the total supply of 15M BTC and a daily transaction volume of 400K BTC[^10], we can derive a minimum reserve ratio of 38 for Bitcoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
+Per capire come questo algoritmo funzionerebbe sul Bitcoin, è necessario stimare un valore ragionevole per il rapporto di riserva, R, basato sull'utilizzo effettivo. Based upon the total supply of 15M BTC and a daily transaction volume of 400K BTC[^10], we can derive a minimum reserve ratio of 38 for Bitcoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
 
     Let C = 1MB = 1024 * 1024
     Let L = 1008 (blocks per week)
