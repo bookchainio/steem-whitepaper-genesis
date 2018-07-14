@@ -384,15 +384,15 @@ Steem尽最大可能的奖励给网络做出贡献的人。如果在人们和社
 
 在金融支付领域，小额费用可以接受，原因在于相比于需要支付的费用，交易金额要高的多，买方已经做出了购买的决定。 潜在的区块链应用程序的世界比金融支付要大的多，且包含了很多必要的交易，它们的金额无法被用户接受。
 
-像BitShares、Nxt、Ripple、Counter Party以及Stellar这样的系统允许用户在区块链上发出有限的订单，且所有这些网络都会收取小额费用来完成这些操作。 如果用户后续想要取消他们的订单，则需要缴纳另外的费用。 像Ethereum这样的系统则将微支付提高到了一个新的水平：每次计算都要收费。 以上所有系统都难以吸引主流用户，其原因就类似于，对于一个去中心化的搜索引擎，如果每次搜索都收费，会难以将用户从Google吸引过来。 无论服务有多好，人们期待某些东西是免费的。 This is true even if a user ends up paying more overall under a different fee structure.
+像BitShares、Nxt、Ripple、Counter Party以及Stellar这样的系统允许用户在区块链上发出有限的订单，且所有这些网络都会收取小额费用来完成这些操作。 如果用户后续想要取消他们的订单，则需要缴纳另外的费用。 像Ethereum这样的系统则将微支付提高到了一个新的水平：每次计算都要收费。 以上所有系统都难以吸引主流用户，其原因就类似于，对于一个去中心化的搜索引擎，如果每次搜索都收费，会难以将用户从Google吸引过来。 无论服务有多好，人们期待某些东西是免费的。 即使用户在不同的收费结构下整体支付更多费用，这也是一个不争事实。
 
-### Fees are a Barrier to Entry
+### 收费是进入的障碍
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+任何的费用会对新用户的加入造成障碍。 在任何人可以尝试Ethereum之前，他们必须先要购买一定的ETH代币。 任何人希望构建基于Ethereum上的去中心化应用，必须将费用转嫁给他们的用户。 购买加密货币不是件容易的事，且对于金额小于10美元的购买，其本身并没有太大意义。 这意味着希望尝试一个新的去中心化应用的新用户必须首先被说服去消费10美元。
 
-### Changing Fees
+### 费用更改
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+伴随着时间推移，网络必须调整费用。 这可能是由于代币的价值提升，或者是由于容量的激增。 用户喜欢可预测的费用和有保障的服务。 While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
 
 ### Sybil Attacks
 
