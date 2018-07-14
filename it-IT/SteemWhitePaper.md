@@ -444,7 +444,7 @@ ll coefficiente di riserva minimo è 1, e il coefficiente di riserva massimo dov
 
 ### Argomento di studio: il Bitcoin
 
-Per capire come questo algoritmo funzionerebbe sul Bitcoin, è necessario stimare un valore ragionevole per il livello di riserva, R, basato sull'utilizzo effettivo. Sulla base della offerta totale di 15 milioni di BTC e su un volume di transazioni giornaliero di 400 mila BTC<sup id="fnref:10"><a href="#fn:10" class="footnote-ref">10<0>, possiamo ricavare un livello di riserva minimo di 38 per Bitcoin. Utilizzando le equazioni possiamo calcolare la larghezza di banda settimanale (in byte) consentita per BTC essere:</p> 
+Per capire come questo algoritmo funzionerebbe sul Bitcoin, è necessario stimare un valore ragionevole per il livello di riserva, R, basato sull'utilizzo effettivo. Sulla base della offerta totale di 15 milioni di BTC e su un volume di transazioni giornaliero di 400 mila BTC<sup id="fnref:10"><a href="#fn:10" class="footnote-ref">10<0>, possiamo ricavare un livello di riserva minimo di 38 per ogni Bitcoin. Utilizzando le equazioni possiamo calcolare la larghezza di banda settimanale (in byte) consentita per BTC, in modo tale che:</p> 
 
 <pre><code>
 Sia C = 1MB = 1024 * 1024
