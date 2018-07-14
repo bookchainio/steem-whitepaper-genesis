@@ -462,7 +462,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  Tutte le stime sopra riportate sono valori massimi conservativi, supponendo che le monete e l'utilizzo siano distribuiti in modo relativamente piatto. La realtà è che gli utenti grandi, come i siti di scambi, hanno un rapporto moneta / utilizzo molto più elevato rispetto agli utenti più modesti, il che a sua volta significa che i reali requisiti minimi di bilancio sono molto più bassi.
+  Tutte le stime sopra riportate sono valori massimi conservativi, supponendo che le monete e l'utilizzo siano distribuiti in modo relativamente uniforme. La realtà è che gli utenti grandi, come i siti di scambi, hanno un rapporto moneta / utilizzo molto più elevato rispetto agli utenti più modesti, il che a sua volta significa che i reali requisiti minimi di bilancio sono molto più bassi.
 </p>
 
 <h4>
