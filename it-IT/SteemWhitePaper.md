@@ -409,20 +409,19 @@ L'ISP ha due opzioni, avviare un sistema di "riserva completa" o di "riserva fra
 
 Sotto un sistema di riserva frazionaria, i singoli utenti potrebbero utilizzare più larghezza di banda di quella a cui hanno diritto in un dato momento, fintanto che non tutti utilizzano Internet nello stesso momento. Il problema di gestire un sistema di riserva frazionaria è che la congestione può verificarsi ogni volta che tante persone desiderano utilizzare la rete nello stesso momento. L'ISP necessita di un modo per dare delle priorità alla larghezza di banda durante i periodi congestionati. Nei casi più estremi, una rete pienamente congestionata deve ritornare ad un sistema di riserva completa. L'impresa è impostare il giusto rapporto di riserva frazionale.
 
-## Bandwidth Instead of Micropayment Channels
+## Banda larga al posto di canali di micropagamenti
 
-The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
+La soluzione ai problemi con i micropagamenti è implementare *riserve frazionali dinamiche*. Sotto questo modello, la blockchain regolerà automaticamente il livello di riserva per la rete durante i periodi di congestione. La blockchain imposterà un margine di utilizzo che lasci abbastanza spazio per degli aumenti improvvisi della domanda a breve termine. Ogni volta che i picchi vengono sostenuti, la blockchain riduce il massimo della larghezza di banda per azione. Quando un picco è finito e c'è una eccedenza nella capacità, la blockchain può lentamente aumentare la larghezza di banda per azione.
 
-Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
+La larghezza di banda utilizzata da un singolo utente dovrebbe essere misurata su un periodo di tempo sufficientemente lungo per permettere a quell'utente lo slittamento temporale del suo utilizzo. Gli utenti tendono a connettersi, fare molte cose contemporaneamente e quindi disconnettersi. Ciò significa che la loro larghezza di banda, attraverso un breve periodo di tempo, potrebbe sembrare più ampia, se vista attraverso un periodo di tempo più lungo. Se l'intervallo di tempo viene allungato in modo eccessivo, il livello di riserva non si regolerà abbastanza velocemente per rispondere ai picchi di breve durata e, se l'intervallo è troppo breve, il clustering (composto da tecniche per analizzare gruppi) utilizzato avrà un impatto troppo grande sugli utenti normali.
 
-In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user's moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+Secondo le nostra stima, dovrebbe essere sufficiente misurare la media dell'utilizzo settimanale della larghezza di banda, da parte degli utenti. Ogni volta che un utente traccia una transazione, questa transazione viene calcolata nella sua media mobile individuale. Ogni volta che la media mobile di un utente eccede il limite della rete presente, la sua transazione viene sospesa fino a che la media non scende sotto il limite.
 
-### Example Implementation
+### Esempio di implementazione
 
-Let B equal a user's average bandwidth at time T. Let W equal the number of seconds per week, and let N equal the size of the new transaction that occurred S seconds after T. Given this information the blockchain can calculate the new average bandwidth for a user as:
+Sia B uguale alla banda larga media di un utente al tempo T.
 
-    Bnew = MIN(0,B * (W - S) / W) + N * S / W
-    Tnew = T + S
+    BNuovo = MIN (0, B * (W - S) / W) + N * S / W tNuovo = T + S
     
 
 Each user is entitled to an average weekly bandwidth of:
