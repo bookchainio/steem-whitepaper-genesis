@@ -473,11 +473,11 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <h4>
-  Maximum Number of Unique Users
+  Numero massimo utenti online:
 </h4>
 
 <p>
-  We can use similar math to calculate the maximum number of unique users that the network can allow to transact once per week as: B\*W/T. T represents the average transaction size. This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
+  Possiamo usare simile matematica per calcolare il numero massimo di utenti unici che la rete può consentire di trattare una volta alla settimana come: b \ * W/T. T rappresenta la dimensione media delle transazioni. Ciò significa che Bitcoin potrebbe supportare transazioni una volta a settimana supponendo che ogni utente ha un saldo pari circa 2 milioni di utenti.
 </p>
 
 <h4>
