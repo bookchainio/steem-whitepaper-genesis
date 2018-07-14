@@ -398,11 +398,11 @@ Steem尽最大可能的奖励对网络做出贡献的人。如果人们每次和
 
 中心化的网站通过频率限制和某种ID验证的方式来防止垃圾。 即使简单如reCAPTCHA [^9]，也足以限制创建虚假账户。 一旦某人滥用其账号，中心化的网站可以轻易的禁用该账号。
 
-在去中心化的系统中，没有直接的方式来禁止用户，也不能像中心化的系统一样提供reCAPTCHA，或者强制账户频率限制。 事实上，无法审查用户是区块链技术的主要卖点之一。
+在去中心化的系统中，没有直接的方式来禁止用户，也不能像中心化的系统一样提供reCAPTCHA，或者强制账户频率限制。 事实上，无法审查用户正是区块链技术的主要卖点之一。
 
 ### 完全预留和部分预留
 
-让我们把区块链看作是一个互联网服务提供商 (ISP)，他们拥有城市中的所有电缆，且拥有一个随时可用的最大带宽。 生活在城市中的人可以购买ISP的股票，作为交换，他们可以使用部分可用带宽。
+让我们把区块链看作是一个互联网服务提供商 (ISP)，他们拥有城市中的所有电缆，且拥有一个随时可提供的最大带宽。 生活在城市中的人可以购买ISP的股票，作为交换，他们有权使用部分可用带宽。
 
 The ISP has two choices, run a "full reserve" or "fractional reserve" system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town's network would be significantly underutilized.
 
