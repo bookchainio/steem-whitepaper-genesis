@@ -392,17 +392,17 @@ Steem尽最大可能的奖励给网络做出贡献的人。如果在人们和社
 
 ### 费用更改
 
-伴随着时间推移，网络必须调整费用。 这可能是由于代币的价值提升，或者是由于容量的激增。 用户喜欢可预测的费用和有保障的服务。 While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+伴随着时间推移，网络必须调整费用。 这可能是由于代币的价值提升，或者是由于容量的激增。 用户喜欢可预测的费用和有保障的服务。 虽然在被大量使用的同时可以动态调整费用，但其结果是不佳的用户体验。
 
-### Sybil Attacks
+### Sybil攻击
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA [^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+中心化的网站通过频率限定和某种ID验证的方式来防止垃圾。 即使简单如reCAPTCHA [^9]，亦能足够限制创建假的账户。 一旦某人滥用其账号，中心化的网站可以轻易的禁用该账号。
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+在去中心化的系统中，没有直接的方式来禁止用户，也不能像中心化的系统一样提供reCAPTCHA，或者强制频率限定。 事实上，无法审查用户是区块链技术的主要卖点之一。
 
-### Full Reserve vs Fractional Reserve
+### 完全预留和部分预留
 
-Let's view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+让我们把区块链看作是一个互联网服务提供商 (ISP)，他们拥有城市中的所有电缆，且拥有一个随时可用的最大带宽。 生活在城市中的人可以购买ISP的股票，作为交换，他们可以使用部分可用带宽。
 
 The ISP has two choices, run a "full reserve" or "fractional reserve" system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town's network would be significantly underutilized.
 
