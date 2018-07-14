@@ -421,7 +421,8 @@ Secondo le nostra stima, dovrebbe essere sufficiente misurare la media dell'util
 
 Sia B uguale alla banda larga media di un utente al tempo T.
 
-    BNuovo = MIN (0, B * (W - S) / W) + N * S / W tNuovo = T + S
+    Bnew = MIN(0,B * (W - S) / W) + N * S / W
+    Tnew = T + S
     
 
 Ogni utente ha diritto ad una larghezza di banda media settimanale di:
