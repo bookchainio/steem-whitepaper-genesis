@@ -16,7 +16,7 @@ Steem là một nguồn cơ sở dữ liệu trên nền tảng blockchain nhằ
 
 <!-- toc -->
 
-# Phần giới thiệu nội dung
+# Giới thiệu
 
 Xét một cách tổng quan, nội dung do người dùng tạo ra đã đem lại giá trị hàng tỉ đô la cho các cổ đông của các công ty truyền thông xã hội như Reddit, Facebook và Twitter. **Trong năm 2014, Reddit đưa ra giả thuyết rằng nếu tất cả những cá nhân có đóng góp trên trang Reddit.com bằng cách đăng tải nội dung, bình luận hoặc bỏ phiếu bài viết và được trả thưởng tương xứng bằng một cổ phiếu của Tập đoàn Reddit thì chương trình của họ sẽ có nhiều cải thiện<sup id="fnref:1"><a href="#fn:1" class="footnote-ref"></a></sup>**. Mục đích của Steem là thông qua việc hỗ trợ các phương tiện truyền thông xã hội và các cộng đồng trực tuyến trao trả thưởng cho người dùng đã có những đóng góp giá trị cho cộng đồng, bao gồm cả những người chưa từng tham gia bất kỳ thị trường tiền tệ mã hóa nào với phần thưởng là tiền điện tử, qua đó tạo ra một loại tiền tệ có thể tiếp cận thị trường mở.
 
