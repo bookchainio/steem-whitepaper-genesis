@@ -461,7 +461,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  Tutte le stime sopra riportate sono valori massimi prudenti, supponendo che le monete e l'utilizzo siano distribuiti in modo relativamente piatto. The reality is that heavy users, such as exchanges, have a much higher coin-to-usage ratio than lighter users, which in turn means that actual minimum balance requirements are far lower.
+  Tutte le stime sopra riportate sono valori massimi prudenti, supponendo che le monete e l'utilizzo siano distribuiti in modo relativamente piatto. La realtà è che gli utenti grandi, come gli exchange, hanno un rapporto moneta / utilizzo molto più elevato rispetto agli utenti più modesti, il che a sua volta significa che i reali requisiti minimi di bilancio sono molto più bassi.
 </p>
 
 <h4>
@@ -481,7 +481,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <h4>
-  Comparison to Fees
+  Confronto con le commissioni
 </h4>
 
 <p>
