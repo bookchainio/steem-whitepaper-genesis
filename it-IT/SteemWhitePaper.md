@@ -469,7 +469,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </h4>
 
 <p>
-  La capacità della blockchain non è necessariamente limitata. È cosa buona, all'interno dell'abilità dell'infrastruttura di internet, aumentare la dimensione del blocco del Bitcoin a 10MB che, a sua volta, ridurrà il saldo minimo richiesto di un coefficiente di 10. Mentre Bitcoin supporta attualmente 3 transazioni al secondo, implementazioni alternative sono capaci di sostenere oltre 1000 transazioni al secondo. Questo cambia il nostro limite superiore prudenziale a 0,0006 BTC o circa $ 0,25, il che significa che un conto in possesso di $ 0,25 sarebbe in grado di effettuare transazioni almeno una volta alla settimana in media (e probabilmente molte altre volte perché abbiamo a che fare con un limite superiore piuttosto allentato).
+  La capacità della blockchain non è necessariamente limitata. È cosa buona, all'interno dell'abilità dell'infrastruttura di internet, aumentare la dimensione del blocco del Bitcoin a 10MB che, a sua volta, ridurrà il saldo minimo richiesto di un coefficiente di 10. Mentre Bitcoin supporta attualmente 3 transazioni al secondo, implementazioni alternative sono capaci di sostenere oltre 1000 transazioni al secondo. Questo cambia il nostro valore massimo conservativo a 0,0006 BTC o a circa $0.25, il che significa che un conto in possesso di $0.25 sarebbe in grado di effettuare in media transazioni almeno una volta alla settimana (e probabilmente molte altre volte perché abbiamo a che fare con un valore massimo piuttosto libero)
 </p>
 
 <h4>
