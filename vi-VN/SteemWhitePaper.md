@@ -114,9 +114,9 @@ Với tập hợp các nhà sản xuất dữ liệu được chọn và đáng 
 
 Thậm chí nếu tất cả các nhà sản xuất dữ liệu đều trung thực, thì phần lớn các nhà sản xuất dữ liệu đều có thể bị ảnh hưởng bởi những sự kiện ngoài tầm kiểm soát của họ. Mạng lưới Steem được thiết kế để chịu đựng sự tham nhũng ngắn hạn của nguồn cung cấp giá trung bình trong khi đó cộng đồng sẽ tích cực làm việc để khắc phục vấn đề. Một ví dụ về vấn đề có thể mất một khoảng thời gian để khắc phục là thao túng thị trường ngắn hạn. Thao túng thị trường rất là khó khăn và tốn kém để duy trì trong thời gian dài. Một ví dụ khác là sự thất bại của sàn giao dịch tập trung hoặc sự hư hỏng về dữ liệu được công bố bởi sàn giao dịch.
 
-Steem chỉ ra các yếu tố biến động giá ngắn hạn bằng cách sử dụng giá trung bình trong khoảng thời gian một tuần. Nguồn cung cấp dữ liệu xuất bản trung bình được lấy mẫu mỗi giờ trên giờ.
+Steem factors out short-term price fluctuations by using the median price over a period of one week. The median published feed is sampled every hour on the hour.
 
-Chừng nào nguồn cung cấp dữ liệu giá tham nhũng kéo dài ít hơn một nửa thời gian di chuyển trung bình, nó sẽ có tác động tối thiểu về mức giá chuyển đổi. Trong trường hợp nguồn cung cấp dữ liệu tham nhũng, người tham gia mạng lưới sẽ có cơ hội bỏ phiếu cho các nhà sản xuất dữ liệu tham nhũng trước khi dữ liệu tham nhũng có thể tác động đến giá chuyển đổi thực tế. Có lẽ quan trọng hơn cả, nó cho phép các nhà sản xuất dữ liệu có cơ hội phát hiện và khắc phục các vấn đề trước khi nguồn cung cấp dữ liệu của họ bắt đầu tác động đến giá cả.
+Chừng nào nguồn cung cấp dữ liệu giá tham nhũng tồn tại ít hơn một nửa thời gian di chuyển trung bình thì nó sẽ có tác động tối thiểu về mức giá chuyển đổi. Trong trường hợp nguồn cung cấp dữ liệu tham nhũng, người tham gia mạng lưới sẽ có cơ hội bỏ phiếu cho các nhà sản xuất dữ liệu tham nhũng trước khi dữ liệu tham nhũng có thể tác động đến giá chuyển đổi thực tế. Có lẽ quan trọng hơn cả, nó cho phép các nhà sản xuất dữ liệu có cơ hội phát hiện và khắc phục các vấn đề trước khi nguồn cung cấp dữ liệu của họ bắt đầu tác động đến giá cả.
 
 Với khoảng thời gian một tuần, các thành viên trong cộng đồng có ba ngày rưỡi để trả lời bất kỳ vấn đề nảy sinh.
 
