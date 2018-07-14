@@ -219,7 +219,7 @@ Quy trình bỏ phiếu đơn giản này dẫn đến cái gọi là “Tình t
 
 Để điều chỉnh lại các ưu đãi và hạn chế việc mọi người tự "vote" cho chính mình, các quỹ phải được phân bổ theo cách phi tuyến tính. Ví dụ, chức năng lũy thừa bậc hai được sử dụng để đánh giá, nó giúp cho người dùng với số "vote" gấp đôi người khác sẽ nhận được lợi nhuận gấp bốn lần người bình thường, và những người có số "vote" gấp ba lần so với những người khác sẽ được hưởng tới chín lần lợi nhuận. Nói cách khác, phần thưởng tỷ lệ thuận với (số lượt "vote")^{2} chứ không phải là (số lượt "vote"). Theo luật của Metcalfe [^5], điều này thực sự có thể phản ánh giá trị của hiệu ứng mạng tương ứng với số lượng người tham gia \\(n^{2}\\).
 
-Assuming all users have equal stake, someone who only receives their own vote will receive much less than someone who receives votes from 100 different users. This encourages users to *cooperate* to vote for the same things to maximize the payout. This system also creates financial incentive to *collude* where everyone votes on one thing and then divides the reward equally among themselves.
+Giả sử rằng tất cả mọi người đều có lượng cổ phiếu như nhau, một người nếu chỉ "vote" cho chính mình sẽ thu được lợi nhuận ít hơn nhiều so với người nhận được "vote" từ 100 người dùng khác nhau. This encourages users to *cooperate* to vote for the same things to maximize the payout. This system also creates financial incentive to *collude* where everyone votes on one thing and then divides the reward equally among themselves.
 
 #### Voting Collusion
 
