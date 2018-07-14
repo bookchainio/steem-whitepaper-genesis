@@ -350,7 +350,7 @@ Steem有很多特性来防止这些计算机窃贼们获利。 僵尸网络的�
 
 另外一种防止僵尸网络运营商获利的方式就是，要求将私钥在所有被入侵电脑上分发。 即使只有一个被入侵的电脑被发现，僵尸网络的运营商都有可能会丢失他们的代币。
 
-The last mitigation is the dependency on latency. Most botnets are comprised of computers with poor internet connections, these slow Internet connections will dramatically reduce the effectiveness of the computational resource.
+最后一个防止僵尸网络的特性就是对网络延迟的依赖。 绝大多数的僵尸网络由那些互联网连接不良的计算机组成，这些慢速的互联网连接会极大的降低计算资源的效率。
 
 对于僵尸网络的操纵者而言，相较于挖STEEM，使用他们的资源从事其他活动会利润更高且风险更小。
 
