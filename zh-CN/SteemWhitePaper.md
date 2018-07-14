@@ -378,12 +378,11 @@ Steem尽最大可能的奖励给网络做出贡献的人。如果在人们和社
 
 设想如果我们每天使用的网站在每次我们更新密码时都收费。 用户期待某些事情是免费的。 让用户最出某项操作是否值得缴纳小额费用的决定会导致用户的焦虑，从而使得用户离开。
 
-> 一个交易并不值得因此而做一个决定，与此相反，因其价值太小，决定都是自动化的。 There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
-> Micropayments, like all payments, require a comparison: "Is this much of X worth that much of Y?" There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
+> 一个交易并不值得因此而做一个决定，与此相反，因其价值太小，决定都是自动化的。 在决定购买的时候都会涉及到一定程度的焦虑，无论购买金额有多小，同时这种焦虑不是源于所使用的界面或者所需要的时间，而是源于做决定这个行为本身。微支付，就像所有的支付一样，需要一个比较：“X值Y这么多钱吗？” 由这个事实造成的心里交易成本无法进行优化，原因在于唯一用户愿意无需考虑就可以批准的交易就是那些不花钱的，而这本身就不是交易。
 > 
 > *- Clay Shirky[^8]*
 
-In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+在金融支付领域，小额费用可以接受，原因在于相比于需要支付的费用，交易金额要高的多，买方已经做出了购买的决定。 The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
 
 Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn't matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
 
