@@ -213,7 +213,7 @@ The next step is to reward everyone who does anything even remotely positive wit
 
 ### Bỏ phiếu cho việc phân bổ tiền tệ
 
-Giả sử rằng có một số tiền cố định của quỹ cần được phân bổ và chỉ những người quan tâm đến tiện ích đầu tư và tiền tệ dài hạn mới có quyền quyết định cách phân phối nó. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
+Giả sử rằng có một số tiền cố định của quỹ cần được phân bổ và chỉ những người quan tâm đến tiện ích đầu tư và tiền tệ dài hạn mới có quyền quyết định cách phân phối nó. Mỗi người dùng đầu tư bỏ phiếu cho người thực hiện công việc tốt nhất, do đó, vào cuối mỗi ngày, số tiền có sẵn trong ngày sẽ được phân bổ theo tỷ lệ bỏ phiếu, ngay cả khi chỉ có một phiếu thuận cũng sẽ nhận được một lượng tiền nhất định.
 
 The naive voting process creates a Prisoner's Dilemma whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
 
