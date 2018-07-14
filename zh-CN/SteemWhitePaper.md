@@ -382,9 +382,9 @@ Steem尽最大可能的奖励给网络做出贡献的人。如果在人们和社
 > 
 > *- Clay Shirky[^8]*
 
-在金融支付领域，小额费用可以接受，原因在于相比于需要支付的费用，交易金额要高的多，买方已经做出了购买的决定。 The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+在金融支付领域，小额费用可以接受，原因在于相比于需要支付的费用，交易金额要高的多，买方已经做出了购买的决定。 潜在的区块链应用程序的世界比金融支付要大的多，且包含了很多必要的交易，它们的金额无法被用户接受。
 
-Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn't matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
+像BitShares、Nxt、Ripple、Counter Party以及Stellar这样的系统允许用户在区块链上发出有限的订单，且所有这些网络都会收取小额费用来完成这些操作。 如果用户后续想要取消他们的订单，则需要缴纳另外的费用。 像Ethereum这样的系统则将微支付提高到了一个新的水平：每次计算都要收费。 以上所有系统都难以吸引主流用户，其原因就类似于，对于一个去中心化的搜索引擎，如果每次搜索都收费，会难以将用户从Google吸引过来。 无论服务有多好，人们期待某些东西是免费的。 This is true even if a user ends up paying more overall under a different fee structure.
 
 ### Fees are a Barrier to Entry
 
