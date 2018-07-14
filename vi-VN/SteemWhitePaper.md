@@ -364,9 +364,9 @@ Because of the constantly changing head block and network latency, forwarding a 
 
 Steem đã tạo ra một tiến bộ thực sự khi thực hiện việc trả thưởng cho những người dùng đã góp phần xây dựng cộng đồng. Phương pháp này sẽ trở nên phản tác dụng nếu như lấy phí của họ mỗi khi họ hoạt động trong hệ thống.
 
-Hiện nay để ngăn chặn các cuộc tấn công mạng như Spam công nghệ Blockchain chủ yếu dựa vào những phí giao dịch trên. Những phí này sẽ được dùng để giải quyết tất cả các vẫn đề liên quan đến giao dịch vi mô và giúp blockchain không bị lạm dụng nhằm thực hiện những giao dịch có giá trị thấp. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+Hiện nay để ngăn chặn các cuộc tấn công mạng như Spam công nghệ Blockchain chủ yếu dựa vào những phí giao dịch trên. Những phí này sẽ được dùng để giải quyết tất cả các vẫn đề liên quan đến giao dịch vi mô và giúp blockchain không bị lạm dụng nhằm thực hiện những giao dịch có giá trị thấp. Thật sự mà nói thì những ứng dụng phi tập trung cần miễn phí cho người dùng nếu như muốn được thay thế bằng những ứng dụng tập trung. Bài viết này sẽ chỉ ra những giải pháp nhằm loại bỏ các loại chi phí khi dùng Steem, đồng thời có thể mở rộng những ứng dụng phi tập trung cần thiết.
 
-## The Problem With Fees
+## Các vấn đề liên quan đến chi phí
 
 Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
 
