@@ -219,9 +219,9 @@ Quy trình bỏ phiếu đơn giản này dẫn đến cái gọi là “Tình t
 
 Để điều chỉnh lại các ưu đãi và hạn chế việc mọi người tự "vote" cho chính mình, các quỹ phải được phân bổ theo cách phi tuyến tính. Ví dụ, chức năng lũy thừa bậc hai được sử dụng để đánh giá, nó giúp cho người dùng với số "vote" gấp đôi người khác sẽ nhận được lợi nhuận gấp bốn lần người bình thường, và những người có số "vote" gấp ba lần so với những người khác sẽ được hưởng tới chín lần lợi nhuận. Nói cách khác, phần thưởng tỷ lệ thuận với (số lượt "vote")^{2} chứ không phải là (số lượt "vote"). Theo luật của Metcalfe [^5], điều này thực sự có thể phản ánh giá trị của hiệu ứng mạng tương ứng với số lượng người tham gia \\(n^{2}\\).
 
-Giả sử rằng tất cả mọi người đều có lượng cổ phiếu như nhau, một người nếu chỉ "vote" cho chính mình sẽ thu được lợi nhuận ít hơn nhiều so với người nhận được "vote" từ 100 người dùng khác nhau. Điều này sẽ khuyến khích người dùng *hợp tác với nhau* để "vote" cho cùng một công việc để tối đa hóa doanh thu. Khi mọi người đều *thống nhất* "vote" cho cùng một công việc, hệ thống cũng đưa ra cơ chế khuyến khích tài chính để chia đều phần thưởng giữa họ.
+Giả sử rằng tất cả mọi người đều có lượng cổ phiếu như nhau, một người nếu chỉ "vote" cho chính mình sẽ thu được lợi nhuận ít hơn nhiều so với người nhận được "vote" từ 100 người dùng khác nhau. Điều này sẽ khuyến khích người dùng *hợp tác với nhau* để "vote" cho cùng một công việc để tối đa hóa doanh thu. Khi mọi người *thông đồng* với nhau để "vote" cho cùng một công việc, hệ thống cũng đưa ra cơ chế khuyến khích tài chính để chia đều phần thưởng giữa họ.
 
-#### Voting Collusion
+#### Thông đồng để "vote"
 
 While cooperation to distribute funds to the best work is the desired goal, *collusion* that undermines this objective should be minimized. There are two kinds of *collusion*, the most straightforward is when one user simply buys a larger stake than others, and the other involves coordinating a large number of smaller stakeholders to work together. Larger stakeholders can have the voting influence of 100 or even 1000 smaller stakeholders which means they have even greater incentive to defect by voting for themselves than they had under a linear distribution.
 
