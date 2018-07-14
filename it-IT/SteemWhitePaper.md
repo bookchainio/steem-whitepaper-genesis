@@ -457,11 +457,11 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </code></pre>
 
 <p>
-  Poiché R = 38 è un limite inferiore sul rapporto di riserva, CLR / S è un limite inferiore sulla larghezza di banda consentita. Questo semplice caso di studio suggerisce che un utente richiederà al massimo 0,20 BTC (oltre 80 $ al momento della stesura) per effettuare transazioni una volta alla settimana. Tuttavia, questo è un valore massimo libero, derivante dalla supposizione che tutti i BTC siano ugualmente instabili. Questo non è il caso - gli utenti con dozzine o centinaia di bitcoin non necessariamente effettuano transazioni decine o centinaia di volte alla settimana! Le transazioni "rimanenti" che quegli utenti "avrebbero dovuto" effettuare, aumenteranno il coefficiente di riserva, alla loro larghezza di banda non utilizzata di essere "riciclata" per utenti più piccoli.
+  Poiché R = 38 è un limite inferiore sul rapporto di riserva, CLR / S è un limite inferiore sulla larghezza di banda consentita. Questo semplice caso di studio suggerisce che un utente richiederà al massimo 0,20 BTC (oltre 80 $ al momento della stesura) per effettuare transazioni una volta alla settimana. Tuttavia, questo è un valore massimo libero, derivante dalla supposizione che tutti i BTC siano ugualmente instabili. Questo non è il caso - gli utenti con dozzine o centinaia di bitcoin non necessariamente effettuano transazioni decine o centinaia di volte alla settimana! Le transazioni "rimanenti" che quegli utenti "avrebbero dovuto" effettuare, aumenteranno il livello di riserva, permettendo alla loro larghezza di banda non utilizzata di essere "riciclata" per utenti più piccoli.
 </p>
 
 <p>
-  Tutte le stime sopra riportate sono valori massimi prudenti, supponendo che le monete e l'utilizzo siano distribuiti in modo relativamente piatto. La realtà è che gli utenti grandi, come gli exchange, hanno un rapporto moneta / utilizzo molto più elevato rispetto agli utenti più modesti, il che a sua volta significa che i reali requisiti minimi di bilancio sono molto più bassi.
+  Tutte le stime sopra riportate sono valori massimi conservativi, supponendo che le monete e l'utilizzo siano distribuiti in modo relativamente piatto. La realtà è che gli utenti grandi, come i siti di scambi, hanno un rapporto moneta / utilizzo molto più elevato rispetto agli utenti più modesti, il che a sua volta significa che i reali requisiti minimi di bilancio sono molto più bassi.
 </p>
 
 <h4>
@@ -473,11 +473,11 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <h4>
-  Maximum Number of Unique Users
+  Numero massimo di utenti singoli
 </h4>
 
 <p>
-  We can use similar math to calculate the maximum number of unique users that the network can allow to transact once per week as: B\*W/T. T represents the average transaction size. This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
+  Possiamo utilizzare una matematica simile per calcolare il numero massimo di utenti singoli che la rete può consentire loro di effettuare transazioni una volta alla settimana come: B \ * W / T. T rappresenta la dimensione media della transazione Ciò significa che Bitcoin potrebbe supportare circa 2 milioni di utenti che effettuano transazioni una volta alla settimana supponendo che ogni utente abbia un saldo uguale.
 </p>
 
 <h4>
