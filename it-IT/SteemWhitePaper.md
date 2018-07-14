@@ -438,13 +438,13 @@ Ogni utente ha diritto ad una larghezza di banda media settimanale di:
 
 Un utente avrebbe diritto a una larghezza di banda media di M \ * U / S. Ogni volta che una transazione potrebbe causare il superamento di una soglia della media dell'utente, esso, non sarebbe in grado di effettuare transazioni finché non passerà abbastanza tempo necessario per abbassare la media.
 
-La rete può aumentare l'indice di riserva ogni volta che i blocchi sono meno della metà della capacità prestabilita e diminuirlo ogni volta che sono più della metà. L'algoritmo utilizzato per regolare R è progettato per reagire rapidamente per ridurre l'indice di riserva in caso di aumento della domanda, agendo lentamente per aumentare l'indice di riserva nel periodo di bassa domanda.
+La rete può aumentare il livello di riserva ogni volta che i blocchi sono meno della metà della capacità prestabilita e diminuirlo ogni volta che sono più della metà. L'algoritmo utilizzato per regolare R è progettato per reagire rapidamente per ridurre il livello di riserva in caso di aumento della domanda, agendo lentamente per aumentare il livello di riserva nel periodo di bassa domanda.
 
 ll coefficiente di riserva minimo è 1, e il coefficiente di riserva massimo dovrebbe essere calcolato per impedire a piccoli stakeholder di consumare tutta la banda larga disponibile. Se nessuno sta utilizzando la banda larga disponibile, il livello di riserva può aumentare fino a quando un utente con solo 1 satoshi come valuta è in grado di effettuare transazioni su ogni singolo blocco.
 
 ### Argomento di studio: il Bitcoin
 
-Per capire come questo algoritmo funzionerebbe sul Bitcoin, è necessario stimare un valore ragionevole per il rapporto di riserva, R, basato sull'utilizzo effettivo. Sulla base della offerta totale di 15 milioni di BTC e su un volume di transazioni giornaliero di 400 mila BTC<sup id="fnref:10"><a href="#fn:10" class="footnote-ref">10<0>, possiamo ricavare un rapporto di riserva minimo di 38 per Bitcoin. Utilizzando le equazioni possiamo calcolare la larghezza di banda settimanale (in byte) consentita per BTC essere:</p> 
+Per capire come questo algoritmo funzionerebbe sul Bitcoin, è necessario stimare un valore ragionevole per il livello di riserva, R, basato sull'utilizzo effettivo. Sulla base della offerta totale di 15 milioni di BTC e su un volume di transazioni giornaliero di 400 mila BTC<sup id="fnref:10"><a href="#fn:10" class="footnote-ref">10<0>, possiamo ricavare un livello di riserva minimo di 38 per Bitcoin. Utilizzando le equazioni possiamo calcolare la larghezza di banda settimanale (in byte) consentita per BTC essere:</p> 
 
 <pre><code>
 Sia C = 1MB = 1024 * 1024
