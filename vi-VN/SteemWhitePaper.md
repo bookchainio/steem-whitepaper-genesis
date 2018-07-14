@@ -362,9 +362,9 @@ Because of the constantly changing head block and network latency, forwarding a 
 
 # Loại bỏ các chi phí giao dịch
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Steem đã tạo ra một tiến bộ thực sự khi thực hiện việc trả thưởng cho những người dùng đã góp phần xây dựng cộng đồng. Phương pháp này sẽ trở nên phản tác dụng nếu như lấy phí của họ mỗi khi họ hoạt động trong hệ thống.
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+Hiện nay để ngăn chặn các cuộc tấn công mạng như Spam công nghệ Blockchain chủ yếu dựa vào những phí giao dịch trên. Những phí này sẽ được dùng để giải quyết tất cả các vẫn đề liên quan đến giao dịch vi mô và giúp blockchain không bị lạm dụng nhằm thực hiện những giao dịch có giá trị thấp. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
 
 ## The Problem With Fees
 
