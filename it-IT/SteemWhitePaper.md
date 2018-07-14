@@ -419,7 +419,7 @@ Secondo le nostra stima, dovrebbe essere sufficiente misurare la media dell'util
 
 ### Esempio di implementazione
 
-Sia B uguale alla banda larga media di un utente al tempo T.
+Sia B uguale alla banda larga media di un utente al tempo T. Sia W uguale al numero di secondi per settimana, e sia N uguale alla dimensione della nuova transazione che si è verificata S secondi dopo T. Date queste informazioni, la blockchain può calcolare la nuova media della banda larga per un utente come:
 
     Bnew = MIN(0,B * (W - S) / W) + N * S / W
     Tnew = T + S
