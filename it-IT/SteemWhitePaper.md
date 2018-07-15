@@ -542,11 +542,11 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </h3>
 
 <p>
-  La limitazione della velocità richiede che la rete regoli il livello di riserva abbastanza rapidamente da mitigare l'impatto di un utente malintenzionato che tenta di boicottare la rete. Supponiamo che l'attaccante abbia un grande saldo, diciamo l'1% dei token disponibili. Se supponiamo anche che la rete raggiunga il 50% di utilizzo, un attacco prolungato dovrebbe trovare questo utente limitato al 25% della capacità della rete, supponendo che anche tutti gli altri stiano utilizzando il 25% della capacità della stessa. In altre parole, il più grande utente singolo non dovrebbe mai essere in grado di consumare più del 50% della capacità prestabilita a meno che non possieda più del 50% dello SP.
+  La limitazione della velocità richiede che la rete regoli il livello di riserva abbastanza rapidamente da mitigare l'impatto di un aggressore che tenta di boicottare la rete. Supponiamo che l'attaccante abbia un grande saldo, diciamo l'1% dei token disponibili. Se supponiamo anche che la rete raggiunga il 50% di utilizzo, un attacco prolungato dovrebbe trovare questo utente limitato al 25% della capacità della rete, supponendo che anche tutti gli altri stiano utilizzando il 25% della capacità della stessa. In altre parole, il più grande utente singolo non dovrebbe mai essere in grado di consumare più del 50% della capacità prestabilita a meno che non possieda più del 50% dello SP.
 </p>
 
 <p>
-  Usiamo un livello di riserva iniziale di 200x. Questo significa che, a causa delle riserve frazionarie, qualcuno che detiene l'1% dei token ha il diritto di richiedere transazioni per un totale di 2x la dimensione massima del blocco. Al fine di portare l'utilizzo della rete della persona malintenzionata al 25%, il livello di riserva dovrebbe scendere di 25 volte. Questo porterebbe il saldo minimo richiesto per effettuare le transazioni una volta a settimana, a crescere di otto volte.
+  Usiamo un livello di riserva iniziale di 200x. Questo significa che, a causa delle riserve frazionarie, qualcuno che detiene l'1% dei token ha il diritto di richiedere transazioni per un totale di 2x la dimensione massima del blocco. Al fine di portare l'utilizzo della rete dell'aggressore al 25%, il livello di riserva dovrebbe scendere di 25 volte. Questo porterebbe il saldo minimo richiesto per effettuare le transazioni una volta a settimana, a crescere di otto volte.
 </p>
 
 <p>
