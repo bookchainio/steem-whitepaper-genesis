@@ -221,7 +221,7 @@ Quy trình bỏ phiếu đơn giản này dẫn đến cái gọi là “Tình t
 
 Giả sử rằng tất cả mọi người đều có lượng cổ phiếu như nhau, một người nếu chỉ "vote" cho chính mình sẽ thu được lợi nhuận ít hơn nhiều so với người nhận được "vote" từ 100 người dùng khác nhau. Điều này sẽ khuyến khích người dùng *hợp tác với nhau* cùng "vote" cho một đối tượng để có thể tối đa hóa doanh thu. Khi mọi người *thông đồng* với nhau cùng "vote" cho một đối tượng, hệ thống cũng sẽ đưa ra cơ chế khuyến khích tài chính để chia đều phần thưởng giữa họ.
 
-#### Thông đồng để "vote"
+#### Sự thông đồng khi bình chọn bài viết
 
 While cooperation to distribute funds to the best work is the desired goal, *collusion* that undermines this objective should be minimized. There are two kinds of *collusion*, the most straightforward is when one user simply buys a larger stake than others, and the other involves coordinating a large number of smaller stakeholders to work together. Larger stakeholders can have the voting influence of 100 or even 1000 smaller stakeholders which means they have even greater incentive to defect by voting for themselves than they had under a linear distribution.
 
