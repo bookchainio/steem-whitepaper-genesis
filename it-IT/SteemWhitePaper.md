@@ -502,7 +502,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  Per garantire agli utenti una esperienza adeguata, accettabile, con un numero minimo di account in sospeso, tutti i nuovi account dovrebbero avviarsi con un saldo di 10 volte superiore al minimo richiesto per effettuare transazioni settimanalmente. This way even if demand increases by a factor of 10 the account will remain viable.
+  Per garantire agli utenti una esperienza adeguata, accettabile, con un numero minimo di account in sospeso, tutti i nuovi account dovrebbero avviarsi con un saldo di 10 volte superiore al minimo richiesto per effettuare transazioni settimanalmente. In questo modo anche se la domanda aumenta di un coefficiente di 10, l'account rimarrà utilizzabile.
 </p>
 
 <p>
@@ -538,7 +538,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <h3>
-  Adjusting the Reserve Ratio
+  Regolare il livello di riserva
 </h3>
 
 <p>
@@ -550,35 +550,35 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  La blockchain può stabilire una velocità di risposta che stabilisce che qualsiasi aumento costante dell'uso, dovrebbe essere ridotto alla capacità prestabilita entro un breve periodo di tempo (diciamo 30 secondi). Un aggressore della rete che tenta di inviare spam alla rete non dovrebbe essere in grado di interrompere il servizio per gli utenti normali per più di un minuto.
+  La blockchain può stabilire una velocità di risposta che stabilisce che qualsiasi aumento costante dell'uso, dovrebbe essere ridotto alla capacità prestabilita entro un breve periodo di tempo (diciamo 30 secondi). Un aggressore che tenta di inviare spam alla rete non dovrebbe essere in grado di interrompere il servizio per gli utenti normali per più di un minuto.
 </p>
 
 <p>
-  Mentre le riduzioni del livello di riserva devono essere rapide e non lineari per contrastare l'abuso, l'aumento del livello di riserva dovrebbe essere lento e lineare. Se la rete viene regolata in entrambe le direzioni in soli 30 secondi, l'attaccante potrebbe dare impulsi alla rete. e qua Un'invasione di transazioni dovrebbe essere corretta in 30 secondi per poi ritornare nel giro di un ora ai suoi livelli precedenti all'attacco. secondo questo modello, un aggressore della rete potrebbe invadere la rete per 30 secondi all'ora, o per meno dell'1% del tempo.
+  Mentre le riduzioni del livello di riserva devono essere rapide e non lineari per contrastare l'abuso, l'aumento del livello di riserva dovrebbe essere lento e lineare. Se la rete viene regolata in entrambe le direzioni in soli 30 secondi, l'attaccante potrebbe dare impulsi alla rete. e qua Un'invasione di transazioni dovrebbe essere corretta in 30 secondi per poi ritornare nel giro di un ora ai suoi livelli precedenti all'attacco. secondo questo modello, un aggressore potrebbe invadere la rete per 30 secondi all'ora, o per meno dell'1% del tempo.
 </p>
 
 <p>
-  There must be a slow constant upward pressure on the reserve ratio any time network usage is below 50% until the network hits the maximum reserve ratio. The maximum reserve ratio determines the minimum required stake to flood the network in short bursts.
+  secondo questo modello, un aggressore potrebbe invadere la rete per 30 secondi all'ora, o per meno dell'1% del tempo. Il livello massimo della riserva determina il livello minimo della partecipazione necessaria per invadere la rete durante i brevi periodi di tempo.
 </p>
 
 <p>
-  Any user with fewer than TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) will be unable to produce enough transactions to fill even a single block. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
+  Ogni utente con meno di TOTALE\_TOKENS / (2 \* LIVELLO\_RISERVA) sarà incapace di generare abbastanza transazioni da occupare ogni singolo blocco. Con un livello di riserva di 200, significa che ogni utente con meno dello 0.25% della valuta, non può creare abbastanza transazioni per ritardare il servizio di chiunque.
 </p>
 
 <h3>
-  Effectiveness Relative to Fees
+  L'efficacia relativa alle commissioni
 </h3>
 
 <p>
-  To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+  Per confrontare l'efficacia della limitazione della velocità rispetto alle commissioni, dobbiamo considerare come i due sistemi reagiscono alla invasione intenzionale della rete da parte di un aggressore. Sotto il Bitcoin, un aggressore con $10,000 dollari potrebbe interrompere il servizio per un intero giorno occupando ogni singolo blocco. Lo stesso aggressore della rete sarebbe incapace di interrompere il servizio anche per un singolo blocco sotto un approccio di riserva frazionale dinamico che limita la velocità.
 </p>
 
 <p>
-  If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+  Se passiamo ad un caso ancora più estremo e ipotizziamo che l'aggressore della rete detenga l'1% delle monete, supponiamo anche che esso avrà $60 milioni di dollari. Un aggressore del genere potrebbe negare il servizio del Bitcoin nella blockchain per 16 anni fino a che i minatori non avranno aumentato le commissioni o la capacità. Anche se le commissioni venissero aumentate a $15 per transazione, l'aggressore potrebbe mantenere la rete occupata ancora per 16 giorni.
 </p>
 
 <p>
-  Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+  Sotto l'approccio della limitazione della velocità, qualcuno con l'intento di invadere la rete e che detiene l'1% di tutte le monete, raggiungerebbe il suo scopo per meno di trenta secondi.
 </p>
 
 <h3>
