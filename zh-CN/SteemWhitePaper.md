@@ -406,11 +406,11 @@ Steem尽最大可能的奖励对网络做出贡献的人。如果人们每次和
 
 ISP有两个选择，运行“完全预留”，或者“部分预留”系统。 在一个完全预留系统中，每个用户只被允许使用和他股份成正比的最大带宽。 因为不是所有人在同时使用互联网，这个城市的网络被使用的非常不充分。
 
-在一个部分预留系统中，单个用户在任何不是所有用户都在上网的时候，可以使用比他们应得的还要多的带宽。 运作一个部分预留系统的问题在于，当太多人同时使用网络时会发生拥堵。 The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+在一个部分预留系统中，单个用户在任何不是所有用户都在上网的时候，可以使用比他们应得的还要多的带宽。 运作一个部分预留系统的问题在于，当太多人同时使用网络时会发生拥堵。 ISP需要寻找一种方式在拥堵期间进行带宽的优先分配。 在最极端的情况下，一个完全拥堵的网络必须还原为一个完全预留系统。 挑战在于如何设置正确的部分预留率。
 
-## Bandwidth Instead of Micropayment Channels
+## 带宽而非微支付通道
 
-The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
+解决微支付问题的方案就是实现*动态部分预留*。 在这种模型下，区块链在网络拥堵时会自动调整网络预留率。 区块链会设定一个目标应用，为短期激增的需求留下足够的空间。 在任何时候当峰值持续时，区块链会减少每股的最大带宽。 When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
 
 Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
 
