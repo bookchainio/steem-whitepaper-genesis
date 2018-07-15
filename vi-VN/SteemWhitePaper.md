@@ -213,7 +213,7 @@ The next step is to reward everyone who does anything even remotely positive wit
 
 ### Bỏ phiếu cho việc phân bổ tiền tệ
 
-Giả sử rằng có một số tiền cố định của quỹ cần được phân bổ và chỉ những người quan tâm đến tiện ích đầu tư và tiền tệ dài hạn mới có quyền quyết định cách phân phối nó. Mỗi người dùng đầu tư bỏ phiếu cho người thực hiện công việc tốt nhất, do đó, vào cuối mỗi ngày, số tiền có sẵn trong ngày sẽ được phân bổ theo tỷ lệ bỏ phiếu, ngay cả khi chỉ có một phiếu thuận cũng sẽ nhận được một lượng tiền nhất định.
+Giả sử rằng có một số tiền cố định của quỹ cần được phân bổ và chỉ những người quan tâm đến hiệu quả đầu tư vào loại tiền này một cách lâu dài thì mới có quyền quyết định cách phân phối nó. Mỗi người dùng đầu tư bỏ phiếu cho người thực hiện công việc tốt nhất, do đó, vào cuối mỗi ngày, số tiền có sẵn trong ngày sẽ được phân bổ theo tỷ lệ bỏ phiếu, ngay cả khi chỉ có một phiếu thuận cũng sẽ nhận được một lượng tiền nhất định.
 
 Quy trình bỏ phiếu đơn giản này dẫn đến cái gọi là “Tình trạng tiến thoái lưỡng nan của tù nhân”, có nghĩa là mọi người đều có động cơ tự "vote" cho mình, điều này là đi ngược lại với mục tiêu phát triển của toàn bộ cộng đồng. Nếu mọi người đều không cảm thấy xấu hổ khi tự đi "vote" cho chính mình, thì sẽ không có tiền để phân phối, và loại tiền này sẽ không thể có được hiệu quả mạng như mong đợi. Ngược lại, nếu chỉ có một người tự "vote" cho chính mình, thì người đó sẽ nhận được một khoản tiền không đáng được hưởng, nhưng tác động đến giá trị tổng thể của loại tiền tệ đó sẽ là nhỏ nhất.
 
