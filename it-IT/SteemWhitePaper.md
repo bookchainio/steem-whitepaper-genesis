@@ -546,7 +546,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  Usiamo un livello di riserva iniziale di 200x. Questo significa che, a causa delle riserve frazionarie, qualcuno che detiene l'1% dei token ha il diritto di richiedere transazioni per un totale di 2x la dimensione massima del blocco. Al fine di portare l'utilizzo della rete dell'aggressore al 25%, il livello di riserva dovrebbe scendere di 25 volte. Questo porterebbe il saldo minimo richiesto per effettuare le transazioni una volta a settimana, a crescere di otto volte.
+  Usiamo un livello di riserva iniziale di 200x. Questo significa che, a causa delle riserve frazionarie, qualcuno che detiene l'1% dei token ha il diritto di richiedere transazioni per un totale di 2 volte la dimensione massima del blocco. Al fine di portare l'utilizzo da parte dell'aggressore della rete al 25%, il livello di riserva dovrebbe scendere di 25 volte. Questo porterebbe il saldo minimo richiesto per effettuare le transazioni una volta a settimana, a crescere di otto volte.
 </p>
 
 <p>
