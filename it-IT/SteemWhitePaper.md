@@ -546,15 +546,15 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  Usiamo un livello di riserva iniziale di 200x. Due to fractional reserves, this means someone holding 1% of the tokens has the right to demand transactions totalling 2x the maximum block size. In order to bring the network usage of the attacker down to 25% the reserve ratio would have to fall to 25x. This would cause the minimum balance required to transact once per week to grow by 8x.
+  Usiamo un livello di riserva iniziale di 200x. Questo significa che, a causa delle riserve frazionarie, qualcuno che detiene l'1% dei token ha il diritto di richiedere transazioni per un totale di 2x la dimensione massima del blocco. Al fine di portare l'utilizzo della rete della persona malintenzionata al 25%, il livello di riserva dovrebbe scendere di 25 volte. Questo porterebbe il saldo minimo richiesto per effettuare le transazioni una volta a settimana, a crescere di otto volte.
 </p>
 
 <p>
-  The blockchain can establish a response rate that says any sustained increase in usage should be brought down to the target capacity in within a short period of time (say 30 seconds). An attacker attempting to spam the network shouldn't be able to disrupt service for normal users for more than a minute.
+  La blockchain può stabilire una velocità di risposta che stabilisce che qualsiasi aumento costante dell'uso, dovrebbe essere ridotto alla capacità prestabilita entro un breve periodo di tempo (diciamo 30 secondi). Un aggressore della rete che tenta di inviare spam alla rete non dovrebbe essere in grado di interrompere il servizio per gli utenti normali per più di un minuto.
 </p>
 
 <p>
-  While reductions in the reserve ratio must be quick and non-linear to counter abuse, increases in the reserve ratio should be slow and linear. If the network adjusted in both directions in just 30 seconds then an attacker could pulse the network. A flood of transactions should be corrected in 30 seconds and then take a hour to return to their pre-attack levels. Under this model the attacker could flood the network for 30 seconds per hour or less than 1% of the time.
+  Mentre le riduzioni del livello di riserva devono essere rapide e non lineari per contrastare l'abuso, l'aumento del livello di riserva dovrebbe essere lento e lineare. Se la rete viene regolata in entrambe le direzioni in soli 30 secondi, l'attaccante potrebbe dare impulsi alla rete. e qua Un'invasione di transazioni dovrebbe essere corretta in 30 secondi per poi ritornare nel giro di un ora ai suoi livelli precedenti all'attacco. secondo questo modello, un aggressore della rete potrebbe invadere la rete per 30 secondi all'ora, o per meno dell'1% del tempo.
 </p>
 
 <p>
