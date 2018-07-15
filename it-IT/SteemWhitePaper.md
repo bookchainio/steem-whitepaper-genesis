@@ -554,7 +554,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  Mentre le riduzioni del livello di riserva devono essere rapide e non lineari per contrastare l'abuso, l'aumento del livello di riserva dovrebbe essere lento e lineare. Se la rete viene regolata in entrambe le direzioni in soli 30 secondi, l'attaccante potrebbe dare impulsi alla rete. e qua Un'invasione di transazioni dovrebbe essere corretta in 30 secondi per poi ritornare nel giro di un ora ai suoi livelli precedenti all'attacco. secondo questo modello, un aggressore potrebbe invadere la rete per 30 secondi all'ora, o per meno dell'1% del tempo.
+  Mentre le riduzioni del livello di riserva devono essere rapide e non lineari per contrastare l'abuso, l'aumento del livello di riserva dovrebbe essere lento e lineare. Se la rete viene regolata in entrambe le direzioni in soli 30 secondi, l'attaccante potrebbe dare impulsi alla rete. Un'invasione di transazioni dovrebbe essere corretta in 30 secondi per poi ritornare nel giro di un ora ai suoi livelli precedenti all'attacco. secondo questo modello, un aggressore potrebbe invadere la rete per 30 secondi all'ora, o per meno dell'1% del tempo.
 </p>
 
 <p>
