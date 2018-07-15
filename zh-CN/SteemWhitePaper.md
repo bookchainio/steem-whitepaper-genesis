@@ -404,9 +404,9 @@ Steem尽最大可能的奖励对网络做出贡献的人。如果人们每次和
 
 让我们把区块链看作是一个互联网服务提供商 (ISP)，他们拥有城市中的所有电缆，且拥有一个随时可提供的最大带宽。 生活在城市中的人可以购买ISP的股票，作为交换，他们有权使用部分可用带宽。
 
-ISP有两个选择，运行“完全预留”，或者“部分预留”系统。 在一个完全预留系统中，每个用户只被允许使用和他股份成正比的最大带宽。 Because not everyone uses the Internet at the same time, the town's network would be significantly underutilized.
+ISP有两个选择，运行“完全预留”，或者“部分预留”系统。 在一个完全预留系统中，每个用户只被允许使用和他股份成正比的最大带宽。 因为不是所有人在同时使用互联网，这个城市的网络被使用的非常不充分。
 
-Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+在一个部分预留系统中，单个用户在任何不是所有用户都在上网的时候，可以使用比他们应得的还要多的带宽。 The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
 
 ## Bandwidth Instead of Micropayment Channels
 
