@@ -490,51 +490,51 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <h3>
-  Account Creation
+  Creazione dell'account
 </h3>
 
 <p>
-  Steem's account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+  Il sistema di Steem basato sugli account aventi saldi resi pubblici, semplifica le implementazioni dell'algoritmo della larghezza di banda basata sulla limitazione della velocità. Ogni account avente un saldo al di sotto del minimo richiesto, necessario per effettuare transazioni una volta a settimana, sarebbe incapace di poterle sostenere. Ciò implica che tutti i nuovi account dovrebbero essere finanziati con almeno questo saldo minimo. Implica anche che gli utenti che desiderano effettuare transazioni in quantità inferiori, possono farlo, a condizioni che mantengano un saldo più ampio e riutilizzino l'account.
 </p>
 
 <p>
-  It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by transferring a larger balance into the account.
+  È possibile per un account con un saldo basso che è stato creato durante un momento di scarso utilizzo, diventare inaccessibile se i sistemi d'uso della rete prevedono di sottrarlo. I fondi potrebbero essere recuperati in ogni momento trasferendo temporaneamente un saldo maggiore all'account.
 </p>
 
 <p>
-  In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+  Per garantire agli utenti una esperienza adeguata, accettabile, con un numero minimo di account in sospeso, tutti i nuovi account dovrebbero avviarsi con un saldo di 10 volte superiore al minimo richiesto per effettuare transazioni settimanalmente. In questo modo anche se la domanda aumenta di un coefficiente di 10, l'account rimarrà utilizzabile.
 </p>
 
 <p>
-  Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+  Qualsiasi saldo iniziale dell'account dovrebbe derivare dalla creazione dell'account stesso da parte dell'utente e non dalla creazione di token a causa di possibili attacchi sybil.
 </p>
 
 <h3>
-  Justifying Minimum Balances
+  Giustificare i saldi minimi
 </h3>
 
 <p>
-  The concept of forcing users to maintain a minimum balance flows naturally from the value of a user<fnref target="11" /> . Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many <em>free services</em> just to keep them around long enough to monetize them through some other means.
+  Il concetto di forzare gli utenti a mantenere un saldo minimo, deriva naturalmente dalla valutazione dell'utente stesso<fnref target="11" /> Chiunque gestisce una attività commerciale sa che ogni singolo cliente ha un valore significativo. Le aziende spendono dovunque dai $30 ai $200 per procurarsi un cliente. Qualche volta pagano direttamente i clienti, altre volte pagano per la pubblicità e altre volte ancora, intere aziende vengono acquistate solo per la loro base di utenza. Dopo che una azienda acquisisce un cliente, spesso gli vengono dati <em>servizi gratuiti</em> solo per tenerlo nelle vicinanze abbastanza a lungo da monetizzare con lui attraverso altri mezzi.
 </p>
 
 <p>
-  Ripple uses a minimum balance<fnref target="12" /> that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
+  Ripple utilizza un minimo saldo<fnref target="12" /> che bilancia con l'utilizzo delle risorse del conto e richiede che i nuovi account vengano finanziati con questo saldo minimo. Attualmente, questo saldo minimo è di circa $0.15 che è maggiore rispetto ai $0.10 che avevamo preventivato e che avrebbero potuto consentire a qualcuno di effettuare transazioni liberamente almeno una volta a settimana.
 </p>
 
 <p>
-  A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Any business that wishes to bring a new customer to the blockchain can pre-fund that user's account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+  Una blockchain può imporre un valore minimo per utente attraverso il semplice processo di richiedere un saldo minimo. Qualsiasi attività commerciale che desidera portare un nuovo cliente nella blockchain può pre-finanziare l'account di quell'utente con il saldo minimo che gli permetterebbe di effettuare transazioni. Richiedere una commissione relativamente grande ($1.00) per far iscrivere nuovi utenti, forzerà naturalmente, chiunque offra account gratuiti, ad esaminare la qualità e l'unicità di ogni account prima di registrarli nella blockchain.
 </p>
 
 <p>
-  Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
+  Mantenere un saldo minimo è effettivamente la stessa cosa di far pagare agli utenti le commissioni di transazione con gli interessi che avrebbero potuto guadagnare sul loro saldo. Il saldo minimo è semplicemente il saldo richiesto per guadagnare abbastanza interessi da pagare una commissione in un periodo di tempo relativamente breve.
 </p>
 
 <p>
-  Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn't incur the cognitive cost of a micro-fee and is far more acceptable to users.
+  Fortunatamente, il saldo minimo richiede di essere basso tanto quanto un dollaro e questo è qualcosa che gli utenti possono capire e apprezzare. L'occasione durante la quale si sostiene un costo per aver perso l'interesse, non incorre nel costo cognitivo di una piccola commissione ed è di gran lunga più accettato dagli utenti.
 </p>
 
 <p>
-  The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power).
+  Lo STEEM utilizzato per pre-finanziare un account viene trasferito nel nuovo account tramite il processo di Power Up (cioè, convertito in Steem Power).
 </p>
 
 <h3>
