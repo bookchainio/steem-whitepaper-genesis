@@ -406,7 +406,7 @@ Steem尽最大可能的奖励对网络做出贡献的人。如果人们每次和
 
 ISP有两个选择，运行“完全预留”，或者“部分预留”系统。 在一个完全预留系统中，每个用户只被允许使用和他股份成正比的最大带宽。 因为不是所有人在同时使用互联网，这个城市的网络被使用的非常不充分。
 
-在一个部分预留系统中，单个用户在任何不是所有用户都在上网的时候，可以使用比他们应得的还要多的带宽。 The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+在一个部分预留系统中，单个用户在任何不是所有用户都在上网的时候，可以使用比他们应得的还要多的带宽。 运作一个部分预留系统的问题在于，当太多人同时使用网络时会发生拥堵。 The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
 
 ## Bandwidth Instead of Micropayment Channels
 
