@@ -542,11 +542,11 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </h3>
 
 <p>
-  Rate limiting requires that the network adjust the reserve ratio quickly enough to mitigate the impact of an attacker attempting to ood the network. Let's assume the attacker has a large balance, say 1% of the available tokens. If we also assume that the network targets 50% utilization, then a sustained attack should find this user throttled to 25% of network capacity assuming everyone else is also using 25% of the capacity. Stated another way, the largest single user should never be able to consume more than 50% of the target capacity unless they own more than 50% of the SP.
+  La limitazione della velocità richiede che la rete regoli il livello di riserva abbastanza rapidamente da mitigare l'impatto di un utente malintenzionato che tenta di boicottare la rete. Supponiamo che l'attaccante abbia un grande saldo, diciamo l'1% dei token disponibili. Se supponiamo anche che la rete raggiunga il 50% di utilizzo, un attacco prolungato dovrebbe trovare questo utente limitato al 25% della capacità della rete, supponendo che anche tutti gli altri stiano utilizzando il 25% della capacità della stessa. In altre parole, il più grande utente singolo non dovrebbe mai essere in grado di consumare più del 50% della capacità prestabilita a meno che non possieda più del 50% dello SP.
 </p>
 
 <p>
-  Let's use an initial reserve ratio of 200x. Due to fractional reserves, this means someone holding 1% of the tokens has the right to demand transactions totalling 2x the maximum block size. In order to bring the network usage of the attacker down to 25% the reserve ratio would have to fall to 25x. This would cause the minimum balance required to transact once per week to grow by 8x.
+  Usiamo un livello di riserva iniziale di 200x. Due to fractional reserves, this means someone holding 1% of the tokens has the right to demand transactions totalling 2x the maximum block size. In order to bring the network usage of the attacker down to 25% the reserve ratio would have to fall to 25x. This would cause the minimum balance required to transact once per week to grow by 8x.
 </p>
 
 <p>
