@@ -410,7 +410,7 @@ ISP有两个选择，运行“完全预留”，或者“部分预留”系统�
 
 ## 带宽而非微支付通道
 
-解决微支付问题的方案就是实现*动态部分预留*。 在这种模型下，区块链在网络拥堵时会自动调整网络预留率。 区块链会设定一个目标应用，为短期激增的需求留下足够的空间。 在任何时候当峰值持续时，区块链会减少每股的最大带宽。 When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
+解决微支付问题的方案就是实现*动态部分预留*。 在这种模型下，区块链在网络拥堵时会自动调整网络预留率。 区块链会设定一个目标应用，为短期激增的需求留下足够的空间。 在任何时候当峰值持续时，区块链会减少每股的最大带宽。 当峰值结束且有剩余的容量时，区块链会为每股缓慢的增加带宽。
 
 Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
 
