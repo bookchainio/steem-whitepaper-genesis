@@ -522,7 +522,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  Una blockchain può imporre un valore minimo per utente attraverso il semplice processo di richiedere un saldo minimo. Qualsiasi attività commerciale che desidera portare un nuovo cliente nella blockchain può pre-finanziare l'account di quell'utente con il saldo minimo che gli permetterebbe di effettuare transazioni. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+  Una blockchain può imporre un valore minimo per utente attraverso il semplice processo di richiedere un saldo minimo. Qualsiasi attività commerciale che desidera portare un nuovo cliente nella blockchain può pre-finanziare l'account di quell'utente con il saldo minimo che gli permetterebbe di effettuare transazioni. Richiedere una commissione relativamente grande ($1.00) per far iscrivere nuovi utenti, forzerà naturalmente, chiunque offra account gratuiti, ad esaminare la qualità e l'unicità di ogni account prima di registrarli nella blockchain.
 </p>
 
 <p>
@@ -534,7 +534,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power).
+  Lo STEEM utilizzato per pre-finanziare un account viene trasferito nel nuovo account tramite il processo di Power Up (cioè, convertito in Steem Power).
 </p>
 
 <h3>
