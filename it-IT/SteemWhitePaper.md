@@ -582,15 +582,15 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <h3>
-  Renting vs. Buying vs. Time Sharing
+  Affitto vs. acquisto vs. ripartizione del tempo
 </h3>
 
 <p>
-  When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+  Quando qualcuno possiede una casa, si aspetta di avere il diritto di utilizzarla gratuitamente. Se un gruppo di persone comprano una casa tutte insieme, allora ognuna si aspetterà di avere il diritto di usare la casa proporzionalmente alla sua percentuale di proprietà della stessa. Una blockchain basata sulla commissione è come affittare una casa dai rispettivi proprietari, considerando che la percentuale limitativa è come la multiproprietà tra i proprietari.
 </p>
 
 <p>
-  If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+  Se una casa è di proprietà di più persone, allora esse dovrebbero decidere come desiderano ripartire il tempo di utilizzo della casa. Qualcuno che possiede il 50% della casa ma la usa solo un fine settimana all'anno, potrebbe aspettarsi di essere pagato dalle persone che usufruiscono del loro tempo inutilizzato. Questo è il modo di pensare di un sistema basato sulla commissione.
 </p>
 
 <p>
