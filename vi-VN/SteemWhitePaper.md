@@ -374,7 +374,7 @@ Sẽ phải trả một chút phí giáo dịch để có thể sử dụng nh�
 
 ### Hệ thống thanh toán vi mô không còn hoạt động
 
-The fundamental problem with charging transaction fees is that micropayments don't work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+Một vấn đề mấu chốt xảy ra trong việc trả phí giao dịch là hệ thống thanh toán vi mô không còn hoạt động, đặc biệt là đối với những người dùng chưa mang lại nhiều giá trị. Khi tất cả những giao dịch đều mất phí thì nó sẽ giới hạn loại giao dịch nào được hệ thống phi tập trung xử lý. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
 
 Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave.
 
