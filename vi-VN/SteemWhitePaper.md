@@ -381,9 +381,9 @@ Hãy thử tưởng tượng hằng ngày chúng ta sử dụng một trang mạ
 > Khi một cuộc giao dịch mà người dùng phải đắn đo suy nghĩ có nên thực hiện hay không thì đó là một giao dịch sẽ chẳng có giá trị gì nhiều, nhưng một cuộc giao dịch được người dùng quyết định thực hiện ngay lập tức thì sẽ có một chút giá trị. Khi đưa ra bất ký quyết định mua cái gì, dù to hay nhỏ mà cảm thấy phân vân thì đấy không phải là do không gian hay thời gian mà là do sự quyết đoán.  
 > Hệ thống thanh toán vi mô cũng giống như các hình thức thanh toán khác đều làm cho người dùng phải cân nhắc và so sánh kiểu như " X có nhiều giá trị hơn hay Y có nhiều giá trị hơn?". Thực tế này tạo ra sự đấu tranh tư tưởng. Bởi vì chỉ những giao dịch miễn phí mới khiến cho người dùng thực hiện ngay mà không cần phải đắn đo suy nghĩ.
 > 
-> *- Clay Shirky[^8]*
+> *Clay Shirky - Câu chuyện về cái xô đựng cua[^6]*
 
-In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+Trong mạng lưới thanh toán tài chính, việc trả phí it là có thể chấp nhận được vì giá trị của giao dịch còn lớn hơn rất nhiều so với khoản phí bỏ ra, vì vậy mà người mua sẵn sàng chi trả. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
 
 Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn't matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
 
