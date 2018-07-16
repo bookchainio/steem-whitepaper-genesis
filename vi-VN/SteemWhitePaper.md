@@ -387,9 +387,9 @@ Trong mạng lưới thanh toán tài chính, việc trả một ít phí là c�
 
 Một số những hệ thống như BitShares, Nxt, Ripple, Counter Party và Stellar đều lấy phí của người dùng khi họ muốn đặt lệnh trên nền tảng blockchain. Sau đó nếu người dùng muốn hủy lệnh thì họ lại phải trả thêm một khoản phí khác. Những hệ thống như Ethereum đều dùng thanh toán vi mô để tính phí cho tất cả các mức độ khi thực hiện giao dịch. Tất cả những hệ thống này đều cạnh tranh nhau nhằm thu hút những người dùng mới với cùng một mục đích là kéo những người sử dụng Google sang sử dụng công cụ tìm kiếm phi tập trung và họ sẽ tính phí cho mỗi lần tìm kiếm đấy. Cho dù dịch vụ có tốt như thế nào đi chăng nữa thì cái người dùng quan tâm nhất chính là được miễn phí. This is true even if a user ends up paying more overall under a different fee structure.
 
-### Fees are a Barrier to Entry
+### Chi phí chính là một rào cản khi tham gia một cộng đồng nào đó
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Bất kể một chi phí nào cũng tạo ra một rào cản cho những người dùng mới. Để được tham gia vào Ethereum người dùng phải có một số "token" ETH. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
 
 ### Changing Fees
 
