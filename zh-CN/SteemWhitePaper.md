@@ -437,13 +437,13 @@ ISP有两个选择，运行“完全预留”，或者“部分预留”系统�
 
 一个用户有权拥有的平均带宽为M \* U / S。任何时候一旦一个交易导致用户的平均值超出这个限额，他们就不能进行交易，直到足够的事件后他们的平均值重新回落到这个限额之下。
 
-网络可以提高这个预留限额，任何时候块都小于目标容量的一半，一旦超过一半，则降低它。 The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
+网络可以提高这个预留限额，任何时候块都小于目标容量的一半，一旦超过一半，则降低它。 用于调整R的算法被设计为在出现短期激增的时候，能够迅速做出反应来降低预留额度，同时在使用量较低的时候缓慢增加预留额度。
 
-The minimum reserve ratio is 1, and the maximum reserve ratio should be calculated to prevent small stakeholders from consuming all of the available bandwidth. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
+最小的预留额度为1，最大预留额度应被计算，来防止小股东消耗所有的可用带宽。 如果无人使用可用带宽，预留额会增长，直到哪怕只有一个satoshi代币的用户可以处理每个单一的块。
 
-### Case Study: Bitcoin
+### 案例研究：比特币
 
-To understand how this algorithm would work on Bitcoin it is necessary to estimate a reasonable value for the reserve ratio, R, based on actual usage. Based upon the total supply of 15M BTC and a daily transaction volume of 400K BTC[^10], we can derive a minimum reserve ratio of 38 for Bitcoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
+为了理解这个算法如何在比特币上工作，很有必要基于实际使用来估算一个预留额R的合理值。 基于总共的1500万BTC供应量和每日的40万 BTC[^10]交易量，我们可以推算出比特币的最小预留额度为38。 使用如下公式我们可以计算出每个比特币可用的每周带宽 (字节) 为：
 
     Let C = 1MB = 1024 * 1024
     Let L = 1008 (blocks per week)
@@ -453,7 +453,7 @@ To understand how this algorithm would work on Bitcoin it is necessary to estima
     CLR/S = 2869 bytes per week, or about 5 transactions/week per BTC
     
 
-Since R = 38 is a lower bound on the reserve ratio, CLR/S is a lower bound on the permitted bandwidth. This simple case study suggests a user will require at most 0.20 BTC (over $80 as of this writing) to transact once per week. However, this is a loose upper bound derived from the assumption that all BTC are equally mobile. This is not the case - users with dozens or hundreds of bitcoins do not necessarily transact dozens or hundreds of times a week! The "leftover" transactions that those users "should" have made will increase the reserve ratio, allowing their unused bandwidth to be "recycled" for smaller users.
+由于 R = 38是预留比率的下限，CLR/S是允许带宽的下限。 这个简单的案例研究表明，用户需要最多0.20比特币 (其价值在写作本文时超过80美元) 来进行每周一次的交易。 However, this is a loose upper bound derived from the assumption that all BTC are equally mobile. This is not the case - users with dozens or hundreds of bitcoins do not necessarily transact dozens or hundreds of times a week! The "leftover" transactions that those users "should" have made will increase the reserve ratio, allowing their unused bandwidth to be "recycled" for smaller users.
 
 All of the above estimates are conservative upper bounds assuming coins and usage are distributed in a relatively flat manner. The reality is that heavy users, such as exchanges, have a much higher coin-to-usage ratio than lighter users, which in turn means that actual minimum balance requirements are far lower.
 
