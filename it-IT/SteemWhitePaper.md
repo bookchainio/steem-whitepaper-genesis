@@ -594,35 +594,35 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  Dall'altra parte, qualcuno che possiede il 50% della casa, sta ipotizzando che la richiesta per la casa aumenterà in futuro e che loro saranno in grado di vendere la loro partecipazione per un prezzo maggiore. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
+  Dall'altra parte, qualcuno che possiede il 50% della casa, sta ipotizzando che la richiesta per la casa aumenterà in futuro e che loro saranno in grado di vendere la loro partecipazione per un prezzo maggiore. Ogni proprietario che possiede più di una casa rispetto a quella che utilizza, diventa uno speculatore immobiliare. Con questa mentalità, piuttosto che riscuotere l'affitto, collezionano apprezzamenti.
 </p>
 
 <p>
-  The value of a share is derived from how much time it can potentially grant its owner. Owning 1% of a house and getting it 1 weekend per year is the lowest value of a share. However, if half of the shareholders never use their weekend, then the value per timeshare rises to 2 weekends per year. If those inactive users instead opt to rent their unused time, then it falls back to 1 weekend per year. If those unused timeshares were sold to people who would use them then the value of a timeshare would fall by 50%. Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
+  L'utilità di una condivisione deriva da quanto tempo il proprietario può potenzialmente dedicarvici. Possedere l'1% di una casa ed averla 1 fine settimana all'anno, è l'utilità minima di una condivisone. Tuttavia, se la metà degli azionisti non usufruiscono mai del loro fine settimana, il valore del diritto di godimento sale a 2 fine settimana all'anno. Se le persone non attive optano invece di affittare il loro tempo inutilizzato, allora il valore tornerà a 1 fine settimana all'anno. Se quelle multiproprietà non utilizzate venissero vendute a persone che le userebbero, allora il valore di una multiproprietà diminuirebbe del 50%. Salvo che che l'affitto incassato non sia superiore alla diminuzione del valore azionario, allora i proprietari di una multiproprietà stanno effettuano un errore di calcolo economico.
 </p>
 
 <p>
-  Using this rationale we can assume that a system based on fees will either be more expensive for its users or be less profitable for its collective owners. An individual small owner may profit by renting out his small time slice, but only at the expense of all other timeshare owners. In effect, the cost of the falling timeshare value is shared among all owners whereas the profits are centralized in the single owner who decided to rent his share.
+  Utilizzando questa logica, possiamo supporre che un sistema basato sulle commissioni sarà o più costoso per i suoi utenti, o meno redditizio per i suoi proprietari in comune. Un piccolo proprietario individuale potrebbe trarre profitto affittando la sua piccola porzione di tempo, ma solo a scapito di tutti gli altri proprietari della multiproprietà. In effetti, il costo derivante dalla caduta del valore della multiproprietà, viene diviso tra i proprietari laddove i profitti sono accentrati nel singolo proprietario che ha deciso di affittare la sua quota.
 </p>
 
 <p>
-  We can conclude from this that a blockchain is best served by not using usage fees at all. If a usage fee were to be charged as an alternative to rate limiting, then it should be the equivalent of buying enough timeshares and committing to hold them long enough to gain the right use it once.
+  Da questo possiamo concludere che la blockchain è meglio servita non utilizzando affatto le commissioni di utilizzo. Se dovesse essere addebitata una commissione di utilizzo in alternativa alla limitazione della velocità, dovrebbe essere quindi l'equivalente di comprare abbastanza multiproprietà e impegnarsi a mantenerle abbastanza a lungo da ottenere il diritto di utilizzarle almeno una volta.
 </p>
 
 <p>
-  Stated another way, a transaction fee should be equal to the minimum account balance necessary to transact once per week and it should be refunded at the end of the week. Assume the minimum account balance is $1 and allows someone to transact once per week. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
+  Detto in altre parole, una commissione di transazione dovrebbe essere uguale al minimo del saldo dell'account necessario ad effettuare transazioni una volta a settimana e dovrebbe essere rimborsato alla fine della settimana. Supponiamo che il saldo minimo dell'account sia di $1 e permetta a qualcuno di effettuare transazioni una volta a settimana. Se qualcuno con un saldo di $1 desidera effettuare 5 transazioni contemporaneamente, dovrà aumentare il suo saldo a $5 per una settimana o prima, o dopo le sue transazioni.
 </p>
 
 <p>
-  In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+  In teoria, un mercato potrebbe formarsi laddove gli utenti possono prendere in prestito la quota richiesta. In pratica, è più efficiente per gli utenti semplicemente acquistare e vendere le loro multiproprietà per soddisfare la loro quota di utilizzo desiderata. In altre parole, il costo di negoziazione dei micro prestiti è maggiore rispetto al costo di mantenimento di un saldo adatto al proprio massimo utilizzo settimanale.
 </p>
 
 <p>
-  Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+  La limitazione decentralizzata della velocità delle transazioni può abilitare nuovi tipi di programmi decentralizzati che non erano praticabili quando ogni utilizzo dell'applicazione stessa richiedeva un micro pagamento. Questo nuovo modello concede agli sviluppatori dei programmi l'abilità di decidere se e quando addebitare i suoi utenti per le loro transazioni.
 </p>
 
 <h1>
-  Performance and Scalability
+  Prestazioni e scalabilità
 </h1>
 
 <p>
