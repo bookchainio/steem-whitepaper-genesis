@@ -383,9 +383,9 @@ Hãy thử tưởng tượng hằng ngày chúng ta sử dụng một trang mạ
 > 
 > *Clay Shirky - Câu chuyện về cái xô đựng cua[^6]*
 
-Trong mạng lưới thanh toán tài chính, việc trả phí it là có thể chấp nhận được vì giá trị của giao dịch còn lớn hơn rất nhiều so với khoản phí bỏ ra, vì vậy mà người mua sẵn sàng chi trả. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+Trong mạng lưới thanh toán tài chính, việc trả một ít phí là có thể chấp nhận được vì giá trị của giao dịch còn lớn hơn rất nhiều so với khoản phí bỏ ra, vì vậy mà người mua sẵn sàng chi trả. Trong khi những ứng dụng đầy tiềm năng của hệ thống blockchain tuyệt vời hơn rất nhiều so với mạng lưới thanh toàn tài chính thì người dùng lại không sẵn sàng trả phí cho những giao dịch cần thiết.
 
-Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn't matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
+Một số những hệ thống như BitShares, Nxt, Ripple, Counter Party và Stellar đều lấy phí của người dùng khi họ muốn đặt lệnh trên nền tảng blockchain. Sau đó nếu người dùng muốn hủy lệnh thì họ lại phải trả thêm một khoản phí khác. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn't matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
 
 ### Fees are a Barrier to Entry
 
