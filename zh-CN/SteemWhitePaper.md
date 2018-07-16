@@ -412,19 +412,19 @@ ISP有两个选择，运行“完全预留”，或者“部分预留”系统�
 
 解决微支付问题的方案就是实现*动态部分预留*。 在这种模型下，区块链在网络拥堵时会自动调整网络预留率。 区块链会设定一个目标应用，为短期激增的需求留下足够的空间。 在任何时候当峰值持续时，区块链会减少每股的最大带宽。 当峰值结束且有剩余的容量时，区块链会为每股缓慢的增加带宽。
 
-单个用户使用的带宽应该在适当长的时间内进行监测，以便用户能够在此期间灵活调整其使用量。 用户倾向于登录，一次实现很多操作，然后注销。 这意味着他们的带宽在短期内的值可能会比长期内的带宽值要高的多。 If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
+单个用户使用的带宽应该在适当长的时间段内进行监测，以便用户能够在此期间灵活调整其使用量。 用户倾向于登录，一次实现很多操作，然后注销。 这意味着他们的带宽在短期内的值可能会比长期内的带宽值要高的多。 如果时间段过长，则预留的比率无法快速调整以对短期内的激增做出响应，如果时间段过短，则集群应用将对普通用户产生过大影响。
 
-In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user's moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+我们预计，对用户的每周带宽进行评估应该就足够了。 每当用户签署一个交易时，该交易会影响他们自己的动态平均值。 任何时候，一旦用户的动态平均值超过当前网络的限制，他们的交易就会被延迟，知道他们的平均值回落到网络限制。
 
-### Example Implementation
+### 实现范例
 
-Let B equal a user's average bandwidth at time T. Let W equal the number of seconds per week, and let N equal the size of the new transaction that occurred S seconds after T. Given this information the blockchain can calculate the new average bandwidth for a user as:
+假定B是用户在时间T时的平均带宽。假定W是每周的总计秒数，N是在时间T后S秒的新交易数量。通过这些数据，区块链可以计算出一个用户的新平均带宽：
 
     Bnew = MIN(0,B * (W - S) / W) + N * S / W
     Tnew = T + S
     
 
-Each user is entitled to an average weekly bandwidth of:
+每个用户有权获得的每周平均带宽：
 
     Let U = the user's SP
     Let S = the total number of SP
@@ -435,9 +435,9 @@ Each user is entitled to an average weekly bandwidth of:
     Allocation = M * U / S
     
 
-A user would be entitled to an average bandwidth of M \* U / S. Any time a transaction would cause the user's average to go above this threshold they would be unable to transact until enough time passes to lower the average.
+一个用户有权拥有的平均带宽为M \* U / S。任何时候一旦一个交易导致用户的平均值超出这个限额，他们就不能进行交易，直到足够的事件后他们的平均值重新回落到这个限额之下。
 
-The network can increase the reserve ratio, anytime blocks are less than half the target capacity and decrease it anytime they are more than half. The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
+网络可以提高这个预留限额，任何时候块都小于目标容量的一半，一旦超过一半，则降低它。 The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
 
 The minimum reserve ratio is 1, and the maximum reserve ratio should be calculated to prevent small stakeholders from consuming all of the available bandwidth. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
 
