@@ -370,9 +370,9 @@ Hiện nay để ngăn chặn các cuộc tấn công mạng như Spam công ngh
 
 Blockchain là nền tàng phi tập trung trong đó tất cả các giao dịch đều được minh bạch đến các hệ thống khác. Có khi một nền tảng sẽ được tạo ra từ một vài hoặc nhiều những giao dịch đang trong quá trình chờ xử lý. Tất cả nền tảng blockchain phải tìm một giải pháp nào đó nhằm ngăn chặn những người dùng sử dụng hết dung lượng có sẵn trong hệ thống để thực hiện các giao dịch không có giá trị nào. Những cuộc giao dịch không có giá trị này có thể ngăn cản quá trình xử lý của những giao dịch có giá trị khác và cuối cùng hậu quả là có thể phá hủy cả hệ thống.
 
-Sẽ phải trả một chút phí giáo dịch để có thể sử dụng những giải pháp phù hợp với nền tảng blockchain. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn't use email.
+Sẽ phải trả một chút phí giáo dịch để có thể sử dụng những giải pháp phù hợp với nền tảng blockchain. Một khoản phí chỉ tốn vài xu thôi nhưng cũng đủ để ngăn chặn một cuộc tấn công mạng mà có thể gây ra những tổn thất nặng nề. Trong lúc tìm cách giải quyết vấn đề tấn công mạng như Spam thì lại phát sinh một vấn đề mới. Hãy thử hình dung khi mọi người sử dụng thư điện tử (email) nhưng sẽ phải trả một khoản phí để ngăn chặn spam , vậy thì sẽ chẳng ai muốn dùng email nữa.
 
-### Micropayments Don't Work
+### Hệ thống thanh toán vi mô không còn hoạt động
 
 The fundamental problem with charging transaction fees is that micropayments don't work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
 
