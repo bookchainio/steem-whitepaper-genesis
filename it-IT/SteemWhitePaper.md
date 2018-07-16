@@ -676,7 +676,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </h1>
 
 <p>
-  La rete di Steem ha iniziato con una offerta di valuta di 0 e STEEM assegnati ai minatori tramite la proof of work ad una velocità approssimativa di 40 STEEM al minuto, con ulteriori 40 STEEM al minuto creati per classificare il contenuto e la cura della pool delle ricompense (per un totale di 80 STEEM al minuto). Quindi, la rete ha iniziato ricompensando gli utenti che convertivano in SP. At this point, STEEM grows at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+  La rete di Steem inizia con una offerta di valuta di 0 e STEEM assegnati ai minatori tramite la proof of work ad una velocità approssimativa di 40 STEEM al minuto, con ulteriori 40 STEEM al minuto creati per classificare il contenuto e la cura della pool delle ricompense (per un totale di 80 STEEM al minuto). Quindi, la rete inizia ricompensando gli utenti che convertono in SP. Arrivati a quel punto, STEEM cresce con una velocità approssimativa di 800 STEEM al minuto grazie agli effetti combinati dei vari premi di contribuzione riassunti qui di seguito:
 </p>
 
 <p>
