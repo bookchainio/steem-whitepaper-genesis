@@ -28,11 +28,11 @@ Nguyên tắc thứ ba nêu lên hoạt động cộng đồng nhằm để ph�
 
 Các thành viên của Steem khi tham gia vào cộng đồng sẽ nhận được những tiện ích sau:
 
-1. Một nguồn tài liệu và thông tin đã được kiểm duyệt.
+1. Một nguồn tài liệu và thông tin đã được đánh giá.
 2. Một phương thức để tiếp cận các luồng ý kiến cá nhân chất lượng cao.
 3. Một loại hình tiền điện tử ổn định neo theo giá trị đồng Đô la Mỹ.
 4. Hệ thống thanh toán tự do.
-5. Được tham gia vào việc kiến tạo những tiện ích nêu để trao đổi cùng các thành viên khác.
+5. Được tham gia vào việc trao đổi những tiện ích nêu trên cùng các thành viên khác.
 
 Steem's purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
 
@@ -241,13 +241,13 @@ Việc sử dụng *quyền bỏ phiếu nghịch* có thể ngăn chặn việc
 > 
 > Điều đó xảy ra tương tự với hành vi của con người trong xã hội. Khi một cô gái cố gắng làm điều gì đó khác biệt, muốn có điểm cao hơn, cải thiện bản thân hơn để thoát khỏi hoàn cảnh hiện tại, hoặc theo đuổi những giấc mơ lớn hơn, những người khác sẽ cố gắng kéo cô ấy trở lại để cùng chịu chung số phận.
 
-Loại bỏ hoàn toàn "sự lạm dụng" là không khả thi và điều đó không nên được đặt làm mục tiêu phấn đấu. Ngay cả những người cố gắng "lạm dụng" hệ thống cũng đang phải làm việc. Bất kỳ lợi ích nào họ đạt được thông qua việc lạm dụng thành công hệ thống hay việc thông đồng với nhau, ít nhất nó cũng có giá trị với mục đích phân phối tiền tệ như khai thác bitcoin truyền thống hoặc khai thác các mỏ khoáng sản. Tất cả những gì cần làm là phải đảm bảo rằng sự lạm dụng không bành trướng đến mức có thể gây ảnh hưởng đến sự nhiệt tình của những người thực sự làm việc hay những người ủng hộ cộng đồng và đồng tiền của nó.
+Việc loại bỏ hoàn toàn "sự lạm dụng" là không khả thi và điều đó không nên được đặt làm mục tiêu phấn đấu. Ngay cả những người cố gắng "lạm dụng" hệ thống cũng đang phải làm việc. Bất kỳ lợi ích nào họ đạt được thông qua việc lạm dụng thành công hệ thống hay việc thông đồng với nhau, ít nhất nó cũng có giá trị với mục đích phân phối tiền tệ như khai thác bitcoin truyền thống hoặc khai thác các mỏ khoáng sản. Tất cả những gì cần làm là phải đảm bảo rằng sự lạm dụng không bành trướng đến mức có thể gây ảnh hưởng đến sự nhiệt tình của những người thực sự làm việc hay những người ủng hộ cộng đồng và đồng tiền của nó.
 
 Mục tiêu của việc tạo ra một loại tiền tệ cộng đồng là để có nhiều hơn "những con cua trong xô". Sẽ có những biện pháp cực đoan để loại bỏ sự lạm dụng cũng giống như cố gắng đặt một cái nắp trên xô để ngăn chặn một vài con cua trèo ra nhưng điều này cũng sẽ làm khó khăn hơn trong việc thêm cua mới vào thùng. Đơn giản chỉ cần tạo ra các bức tường trơn, bóng và bỏ vào xô một vài con cua đủ khỏe để ngăn chặn những con cua khác trèo ra ngoài.
 
 ### Sự bỏ phiếu với một tần suất cho phép
 
-Một trong những điều quan trọng nhất trong việc giảm thiểu sự lạm dụng là giới hạn tần suất bỏ phiếu. Mỗi người dùng chỉ có thể đọc và đánh giá một số lượng bài viết nhất định trong ngày. Những hành động "vote" bài quá nhiều đều được xem là dấu hiệu của việc tự động và lạm dụng tiềm lực. Bằng cách hạn chế tần suất bỏ phiếu, mỗi lượt "vote" của những người thường xuyên "vote" bài sẽ có sức ảnh hưởng yếu hơn so với những người ít khi "vote" bài. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Một trong những điều quan trọng nhất trong việc giảm thiểu sự lạm dụng là giới hạn tần suất bỏ phiếu. Mỗi người dùng chỉ có thể đọc và đánh giá một số lượng bài viết nhất định trong ngày. Những hành động "vote" bài quá nhiều đều được xem là dấu hiệu của việc tự động và lạm dụng tiềm lực. Bằng cách hạn chế tần suất bỏ phiếu, mỗi lượt "vote" của những người thường xuyên "vote" bài sẽ có sức ảnh hưởng yếu hơn so với những người ít khi "vote" bài. Việc phân chia số "token" cho các tài khoản cũng sẽ phân chia sức ảnh hưởng của họ, vì vậy điều đó sẽ không làm tăng mức độ ảnh hưởng của phiếu bầu cũng như không cho phép vượt quá giới hạn tần suất bỏ phiếu.
 
 ![](\img_voting_rate_limiting.png)
 
