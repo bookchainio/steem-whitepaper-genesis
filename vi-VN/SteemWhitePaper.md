@@ -233,9 +233,9 @@ Việc sử dụng *quyền bỏ phiếu nghịch* có thể ngăn chặn việc
 
 > #### Câu chuyện về cái xô đựng cua[^6]
 > 
-> A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+> Một người đàn ông đang đi dạo trên bãi biển và thấy một người đàn ông khác đang câu cá bên bờ với một cái xô mồi bên cạnh anh ta. Khi đến gần, anh ta thấy một số con cua đang cựa quậy trong một cái xô không có nắp đậy.
 > 
-> "Why don't you cover your bait bucket so the crabs won't escape?", he said.
+> Anh ta liền hỏi: "Tại sao anh không đậy nắp lại? Nếu cứ để thế thì mấy con cua sẽ bò ra mất đấy".
 > 
 > "You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
 > 
