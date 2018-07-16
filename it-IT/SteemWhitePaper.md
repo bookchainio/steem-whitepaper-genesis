@@ -647,7 +647,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
   </li>
   
   <li>
-    Keep the core business logic in a single thread.
+    Mantieni il filo della logica del business principale.
   </li>
   
   <li>
