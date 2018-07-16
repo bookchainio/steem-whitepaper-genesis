@@ -638,7 +638,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange<fnref target="14" />, which is able to process 6 million transactions per second. Among these lessons are the following key points:
+  Per raggiungere questa prestazione da leader del settore, Steem ha preso in prestito lezioni apprese da LMAX Exchange<fnref target="14" />,che è in grado di elaborare 6 milioni di transazioni al secondo. Tra queste lezioni si trovano i seguenti punti chiave:
 </p>
 
 <ol>
@@ -651,24 +651,24 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
   </li>
   
   <li>
-    Keep cryptographic operations (hashes and signatures) out of the core business logic.
+    Mantieni le operazioni crittografiche (hash e firme) fuori dalla logica del business principale.
   </li>
   
   <li>
-    Divide validation into state-dependent and state-independent checks.
+    Dividi la convalida in controlli dipendenti dallo stato e indipendenti dallo stato.
   </li>
   
   <li>
-    Use an object oriented data model.
+    Utilizza un modello di dati orientato agli oggetti.
   </li>
 </ol>
 
 <p>
-  By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+  Seguendo queste semplici regole, Steem è capace di elaborare 10,000 transazioni al secondo senza nessuno sforzo significativo destinato all'ottimizzazione.
 </p>
 
 <p>
-  Keeping everything in memory is increasingly viable given the recent introduction of Optanetechnology from Intel <fnref target="15" />. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+  Keeping everything in memory is increasingly viable given the recent introduction of Optanetechnology from Intel <fnref target="15" />. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In altre parole, Steem è creato per le architetture del futuro ed è progettato per crescere.
 </p>
 
 <h1>
