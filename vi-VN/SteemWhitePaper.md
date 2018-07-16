@@ -389,11 +389,11 @@ Một số những hệ thống như BitShares, Nxt, Ripple, Counter Party và S
 
 ### Chi phí chính là một rào cản khi tham gia một cộng đồng nào đó
 
-Bất kể một chi phí nào cũng tạo ra một rào cản cho những người dùng mới. Để được tham gia vào nền tảng Ethereum người dùng phải có một số lượng "token" ETH nhất định. Những ai muốn xây dựng những ứng dụng trên nền tảng Ethereum thì phải trả một khoản phí cho những khách hàng của họ. Đầu tư vào một loại đồng tiền điện tử không hề dễ dàng và sẽ chẳng có ý nghĩa gì mấy khi đồng tiền đấy có giá trị dưới $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Bất kể một chi phí nào cũng tạo ra một rào cản cho những người dùng mới. Để được tham gia vào nền tảng Ethereum người dùng phải có một số lượng "token" ETH nhất định. Những ai muốn xây dựng những ứng dụng trên nền tảng Ethereum thì cũng phải trả một khoản phí cho những khách hàng của họ. Đầu tư vào một loại đồng tiền điện tử không hề dễ dàng và sẽ chẳng có ý nghĩa gì mấy khi đồng tiền đấy có giá trị dưới $10. Điều này đồng nghĩa với việc một ứng dụng phi tập trung mới ra đời muốn thu hút người dùng thì trước tiên phải có giá trị $10.
 
-### Sự thay đổi chi phí
+### Sự thay đổi về các khoản phí
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Theo thời gian thì một hệ thống cần phải thay đổi về các khoản phí. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
 
 ### Sybil Attacks
 
