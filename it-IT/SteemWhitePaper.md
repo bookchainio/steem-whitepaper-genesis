@@ -634,7 +634,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </h2>
 
 <p>
-  Steem è capace di amministrare una base di utenza maggiore rispetto a Reddit. In 2015 Reddit's 8.7 million users generated an average of 23 comments per second<fnref target="13" /> , with an average of 83 comments per year per user. Ci sono stati 73 milioni di articoli di livello superiore per una media di 2 nuovi articoli al secondo. Ci sono stati circa 7 miliardi di voti che hanno creato una media nella velocità di voto pari a 220 voti al secondo. Tutto sommato, se Reddit operasse nella Blockchain, richiederebbe una media di 250 transazioni al secondo.
+  Steem è capace di amministrare una base di utenza maggiore rispetto a Reddit. Nel 2015, gli 8.7 milioni di utenti di Reddit hanno generato una media di 23 commenti al secondo.<fnref target="13" />, con una media di 83 commenti per utente all'anno. Ci sono stati 73 milioni di articoli di livello superiore per una media di 2 nuovi articoli al secondo. Ci sono stati circa 7 miliardi di voti che hanno creato una media nella velocità di voto pari a 220 voti al secondo. Tutto sommato, se Reddit operasse nella Blockchain, richiederebbe una media di 250 transazioni al secondo.
 </p>
 
 <p>
@@ -643,7 +643,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 
 <ol>
   <li>
-    Keep everything in memory.
+    Mantieni tutto in memoria.
   </li>
   
   <li>
@@ -668,7 +668,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  Keeping everything in memory is increasingly viable given the recent introduction of Optanetechnology from Intel <fnref target="15" />. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In altre parole, Steem è creato per le architetture del futuro ed è progettato per crescere.
+  Mantenere tutto in memoria è sempre più attuabile introducendo da Intel<fnref target="15" /> la tecnologia di Optane. Dovrebbe essere possibile per l'hardware relativo alla merce, gestire in un unico filo tutti i business associati logicamente con Steem, insieme a tutti gli articoli mantenuti in memoria per una rapida indicizzazione. Addirittura Google mantiene i suoi indici dell'intere rete di Internet nella RAM. L'utilizzo della tecnologia della blockchain rende banale il replicare la banca dati su molte macchine per prevenire la perdita di dati. Con l'arrivo della tecnologia Optane, la RAM diventerà anche più veloce guadagnando persistenza. In altre parole, Steem è creato per le architetture del futuro ed è progettato per crescere.
 </p>
 
 <h1>
