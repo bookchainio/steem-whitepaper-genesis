@@ -26,9 +26,9 @@ Nguyên tắc thứ hai nhấn mạnh tất cả các hình thức vốn góp đ
 
 Nguyên tắc thứ ba nêu lên hoạt động cộng đồng nhằm để phục vụ cộng đồng và các thành viên của họ. Những tổ chức tín dụng, tập đoàn liên kết và các chương trình chia sẻ chăm sóc sức khỏe là ví dụ điển hình cho nguyên tắc này; mục đích của họ không đơn thuần là cung cấp hàng hóa và dịch vụ ra các đối tác bên ngoài mà chủ yếu hoạt động để phục vụ cho chính các thành viên trong tổ chức.
 
-The Steem community provides the following services to its members:
+Các thành viên của Steem sẽ nhận được những tiện ích sau khi tham gia vào cộng đồng:
 
-1. A source of curated news and commentary.
+1. Một nguồn tài liệu và thông tin đã được kiểm duyệt.
 2. A means to get high quality answers to personalized questions.
 3. A stable cryptocurrency pegged to the U.S. dollar.
 4. Free payments.
@@ -247,7 +247,7 @@ Mục tiêu của việc tạo ra một loại tiền tệ cộng đồng là đ
 
 ### Sự bỏ phiếu với một tần suất cho phép
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Một trong những điều quan trọng nhất trong việc giảm thiểu sự lạm dụng là giới hạn tần suất bỏ phiếu. Mỗi người dùng chỉ có thể đọc và đánh giá một số lượng bài viết nhất định trong ngày. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
 ![](\img_voting_rate_limiting.png)
 
