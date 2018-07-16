@@ -26,13 +26,13 @@ Nguyên tắc thứ hai nhấn mạnh tất cả các hình thức vốn góp đ
 
 Nguyên tắc thứ ba nêu lên hoạt động cộng đồng nhằm để phục vụ cộng đồng và các thành viên của họ. Những tổ chức tín dụng, tập đoàn liên kết và các chương trình chia sẻ chăm sóc sức khỏe là ví dụ điển hình cho nguyên tắc này; mục đích của họ không đơn thuần là cung cấp hàng hóa và dịch vụ ra các đối tác bên ngoài mà chủ yếu hoạt động để phục vụ cho chính các thành viên trong tổ chức.
 
-Các thành viên của Steem sẽ nhận được những tiện ích sau khi tham gia vào cộng đồng:
+Các thành viên của Steem khi tham gia vào cộng đồng sẽ nhận được những tiện ích sau:
 
 1. Một nguồn tài liệu và thông tin đã được kiểm duyệt.
 2. Một phương thức để tiếp cận các luồng ý kiến cá nhân chất lượng cao.
 3. Một loại hình tiền điện tử ổn định neo theo giá trị đồng Đô la Mỹ.
 4. Hệ thống thanh toán tự do.
-5. Jobs providing above services to other members.
+5. Được tham gia vào việc kiến tạo những tiện ích nêu để trao đổi cùng các thành viên khác.
 
 Steem's purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
 
