@@ -243,7 +243,7 @@ Việc sử dụng *quyền bỏ phiếu nghịch* có thể ngăn chặn việc
 
 Loại bỏ hoàn toàn "sự lạm dụng" là không khả thi và điều đó không nên được đặt làm mục tiêu phấn đấu. Ngay cả những người cố gắng "lạm dụng" hệ thống cũng đang phải làm việc. Bất kỳ lợi ích nào họ đạt được thông qua việc lạm dụng thành công hệ thống hay việc thông đồng với nhau, ít nhất nó cũng có giá trị với mục đích phân phối tiền tệ như khai thác bitcoin truyền thống hoặc khai thác các mỏ khoáng sản. Tất cả những gì cần làm là phải đảm bảo rằng sự lạm dụng không bành trướng đến mức có thể gây ảnh hưởng đến sự nhiệt tình của những người thực sự làm việc hay những người ủng hộ cộng đồng và đồng tiền của nó.
 
-The goal of building a community currency is to get more "crabs in the bucket". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
+Mục tiêu của việc tạo ra một loại tiền tệ cộng đồng là để có nhiều hơn "những con cua trong xô". Sẽ có những biện pháp cực đoan để loại bỏ sự lạm dụng cũng giống như cố gắng đặt một cái nắp trên xô để ngăn chặn một vài con cua trèo ra nhưng điều này cũng sẽ làm khó khăn hơn trong việc thêm cua mới vào thùng. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
 
 ### Rate Limited Voting
 
