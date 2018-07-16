@@ -453,17 +453,17 @@ ISP有两个选择，运行“完全预留”，或者“部分预留”系统�
     CLR/S = 2869 bytes per week, or about 5 transactions/week per BTC
     
 
-由于 R = 38是预留比率的下限，CLR/S是允许带宽的下限。 这个简单的案例研究表明，用户需要最多0.20比特币 (其价值在写作本文时超过80美元) 来进行每周一次的交易。 However, this is a loose upper bound derived from the assumption that all BTC are equally mobile. This is not the case - users with dozens or hundreds of bitcoins do not necessarily transact dozens or hundreds of times a week! The "leftover" transactions that those users "should" have made will increase the reserve ratio, allowing their unused bandwidth to be "recycled" for smaller users.
+由于 R = 38是预留比率的下限，CLR/S是允许带宽的下限。 这个简单的案例研究表明，用户需要最多0.20比特币 (其价值在写作本文时超过80美元) 来进行每周一次的交易。 然而，这是一个基于所有的比特币都同样可流通的假设上而得出的一个松散上限。 实际上事情可能不是这样的 －拥有很多甚至数百计比特币的用户没有必要每周都要交易很多甚至上百个比特币！ 那些用户“应该”完成的“剩下的”交易会增加预留率，允许他们的未用带宽能被“回收”并为小用户所用。
 
-All of the above estimates are conservative upper bounds assuming coins and usage are distributed in a relatively flat manner. The reality is that heavy users, such as exchanges, have a much higher coin-to-usage ratio than lighter users, which in turn means that actual minimum balance requirements are far lower.
+以上所有假设都是在代币和网络的使用都在一种先对平坦的方式来分布的前提下，对上限的保守估计。 现实情况是，对于那些频繁交易的用户，比如交易所，相比较于不怎么交易的用户，他们有一个比非常高的代币／使用的比率，反过来又意味着实际的最低余额限定要低的多。
 
-#### Impact of Capacity
+#### 容量的影响
 
-Blockchain capacity isn't necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second. This changes our conservative upper bound to 0.0006 BTC or about $0.25, meaning that an account holding $0.25 would be able to transact at least once per week on average (and likely many more times because we're dealing with a fairly loose upper bound).
+区块链的容量未必需要封顶。 从技术角度来说，互联网设施的容量允许将比特币块的容量增加10MB，从而将必须的最小余额降低10倍。 当前的比特币网络支持每秒三个交易，替代的实现方式能够应付每秒1000个交易。 这会将保守的上限改为0.0006 BTC ，或者0.25美元，意味着拥有0.25美元的账户平均可以每周至少交易一次 (而且非常有可能是很多次，原因在于我们使用非常宽松的上限)。
 
-#### Maximum Number of Unique Users
+#### 最大的唯一性用户数
 
-We can use similar math to calculate the maximum number of unique users that the network can allow to transact once per week as: B\*W/T. T represents the average transaction size. This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
+我们可以使用类似的数学方法来计算网络允许每周交易一次的最大的唯一性用户数：B\*W/T。 T代表平均交易大小。 This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
 
 #### Comparison to Fees
 
