@@ -362,9 +362,9 @@ Because of the constantly changing head block and network latency, forwarding a 
 
 # Loại bỏ các chi phí giao dịch
 
-Steem đã tạo ra một tiến bộ thực sự khi thực hiện việc trả thưởng cho những người dùng đã góp phần xây dựng cộng đồng. Phương pháp này sẽ trở nên phản tác dụng nếu như lấy phí của họ mỗi khi họ hoạt động trong hệ thống.
+Steem đã tạo ra một tiến bộ thực sự khi thực hiện việc trả thưởng cho những người dùng đã đóng góp xây dựng cộng đồng. Phương pháp này sẽ trở nên phản tác dụng nếu như lấy phí của họ mỗi khi họ tương tác với cộng đông.
 
-Hiện nay để ngăn chặn các cuộc tấn công mạng như Spam công nghệ Blockchain chủ yếu dựa vào những phí giao dịch trên. Những phí này sẽ được dùng để giải quyết tất cả các vẫn đề liên quan đến giao dịch vi mô và giúp blockchain không bị lạm dụng nhằm thực hiện những giao dịch có giá trị thấp. Thật sự mà nói thì những ứng dụng phi tập trung cần miễn phí cho người dùng nếu như muốn được thay thế bằng những ứng dụng tập trung. Bài viết này sẽ chỉ ra những giải pháp nhằm loại bỏ các loại chi phí khi dùng Steem, đồng thời có thể mở rộng những ứng dụng phi tập trung cần thiết.
+Hiện nay để ngăn chặn các cuộc tấn công mạng như Spam công nghệ Blockchain chủ yếu dựa vào những phí giao dịch trên. Những phí này sẽ được dùng để giải quyết tất cả các vẫn đề liên quan đến giao dịch vi mô và giúp blockchain không bị lạm dụng nhằm thực hiện những giao dịch có giá trị thấp. Thật sự mà nói thì những ứng dụng phi tập trung cần miễn phí cho người dùng nếu như muốn được thay thế bằng những ứng dụng tập trung khác. Bài viết này sẽ chỉ ra những giải pháp nhằm loại bỏ các loại chi phí khi dùng Steem, đồng thời có thể mở rộng những ứng dụng phi tập trung cần thiết.
 
 ## Các vấn đề liên quan đến chi phí
 
