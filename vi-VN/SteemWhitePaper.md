@@ -378,7 +378,7 @@ Một vấn đề mấu chốt xảy ra trong việc trả phí giao dịch là 
 
 Hãy thử tưởng tượng hằng ngày chúng ta sử dụng một trang mạng nào đó nhưng họ lại đòi chúng ta phải trả phí mỗi khi chúng ta muốn thay đổi mật khẩu cho tài khoản của mình. Rõ ràng là người dùng luôn muốn được miễn phí. Nếu đưa người dùng vào tình huống khi họ phải cân nhắc có nên thực hiện một hoạt động nào đó mà phải trả phí hay không thì rõ ràng sẽ làm cho họ cảm thấy phân vân.
 
-> A transaction can't be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
+> Khi một cuộc giao dịch mà người dùng phải đắn đo suy nghĩ có nên thực hiện hay không thì đó là một giao dịch sẽ chẳng có giá trị gì nhiều, nhưng một cuộc giao dịch được người dùng quyết định thực hiện ngay lập tức thì sẽ có một chút giá trị. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
 > Micropayments, like all payments, require a comparison: "Is this much of X worth that much of Y?" There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
 > 
 > *- Clay Shirky[^8]*
