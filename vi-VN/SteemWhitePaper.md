@@ -34,7 +34,7 @@ Các thành viên của Steem khi tham gia vào cộng đồng sẽ nhận đư�
 4. Hệ thống thanh toán tự do.
 5. Được tham gia vào việc trao đổi những tiện ích nêu trên cùng các thành viên khác.
 
-Steem's purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
+So sánh với các phương tiện truyền thông và nền tảng sử dụng tiền mã hóa khác trước đây thì việc tái cấu trúc một cách có mục đích hình thức trả thưởng bằng tài chính của Steem sẽ đem lại khả năng đánh giá công bằng và toàn diện hơn giá trị mà người dùng đã đóng góp cho cộng đồng. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
 
 ## Recognizing Contribution
 
