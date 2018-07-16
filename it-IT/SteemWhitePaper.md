@@ -634,7 +634,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </h2>
 
 <p>
-  Steem è capace di amministrare una base di utenza maggiore rispetto a Reddit. Nel 2015, gli 8.7 milioni di utenti di Reddit hanno generato una media di 23 commenti al secondo.<fnref target="13" />, con una media di 83 commenti per utente all'anno. Ci sono stati 73 milioni di articoli di livello superiore per una media di 2 nuovi articoli al secondo. Ci sono stati circa 7 miliardi di voti che hanno creato una media nella velocità di voto pari a 220 voti al secondo. Tutto sommato, se Reddit operasse nella Blockchain, richiederebbe una media di 250 transazioni al secondo.
+  Steem è capace di amministrare una base di utenza maggiore rispetto a Reddit. Nel 2015, gli 8.7 milioni di utenti di Reddit hanno generato una media di 23 commenti al secondo<fnref target="13" />, con una media di 83 commenti per utente all'anno. Ci sono stati 73 milioni di articoli di livello superiore per una media di 2 nuovi articoli al secondo. Ci sono stati circa 7 miliardi di voti che hanno creato una media nella velocità di voto pari a 220 voti al secondo. Tutto sommato, se Reddit operasse nella Blockchain, richiederebbe una media di 250 transazioni al secondo.
 </p>
 
 <p>
