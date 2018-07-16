@@ -594,7 +594,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
+  Dall'altra parte, qualcuno che possiede il 50% della casa, sta ipotizzando che la richiesta per la casa aumenterà in futuro e che loro saranno in grado di vendere la loro partecipazione per un prezzo maggiore. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
 </p>
 
 <p>
