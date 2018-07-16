@@ -29,9 +29,9 @@ Nguyên tắc thứ ba nêu lên hoạt động cộng đồng nhằm để ph�
 Các thành viên của Steem sẽ nhận được những tiện ích sau khi tham gia vào cộng đồng:
 
 1. Một nguồn tài liệu và thông tin đã được kiểm duyệt.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
+2. Một phương thức để tiếp cận các luồng ý kiến cá nhân chất lượng cao.
+3. Một loại hình tiền điện tử ổn định neo theo giá trị đồng Đô la Mỹ.
+4. Hệ thống thanh toán tự do.
 5. Jobs providing above services to other members.
 
 Steem's purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
@@ -247,7 +247,7 @@ Mục tiêu của việc tạo ra một loại tiền tệ cộng đồng là đ
 
 ### Sự bỏ phiếu với một tần suất cho phép
 
-Một trong những điều quan trọng nhất trong việc giảm thiểu sự lạm dụng là giới hạn tần suất bỏ phiếu. Mỗi người dùng chỉ có thể đọc và đánh giá một số lượng bài viết nhất định trong ngày. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Một trong những điều quan trọng nhất trong việc giảm thiểu sự lạm dụng là giới hạn tần suất bỏ phiếu. Mỗi người dùng chỉ có thể đọc và đánh giá một số lượng bài viết nhất định trong ngày. Những hành động "vote" bài quá nhiều đều được xem là dấu hiệu của việc tự động và lạm dụng tiềm lực. Bằng cách hạn chế tần suất bỏ phiếu, mỗi lượt "vote" của những người thường xuyên "vote" bài sẽ có sức ảnh hưởng yếu hơn so với những người ít khi "vote" bài. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
 ![](\img_voting_rate_limiting.png)
 
