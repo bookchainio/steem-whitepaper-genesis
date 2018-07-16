@@ -34,7 +34,7 @@ Các thành viên của Steem khi tham gia vào cộng đồng sẽ nhận đư�
 4. Hệ thống thanh toán tự do.
 5. Được tham gia vào việc trao đổi những tiện ích nêu trên cùng các thành viên khác.
 
-So sánh với các phương tiện truyền thông và nền tảng sử dụng tiền mã hóa khác trước đây thì việc tái cấu trúc một cách có mục đích hình thức trả thưởng bằng tài chính của Steem sẽ đem lại khả năng đánh giá công bằng và toàn diện hơn giá trị mà người dùng đã đóng góp cho cộng đồng. Bản tài liệu này sẽ đi sâu phân tích các hình thức trả thưởng bằng tiền tệ hiện có, từ đó minh họa cho người đọc cách nhìn rõ nét về tính hiệu quả trong cách thức trả thưởng của Steem đến người dùng.
+So sánh với các phương tiện truyền thông và nền tảng sử dụng tiền mã hóa khác trước đây thì việc sắp xếp lại một cách có mục đích hình thức trả thưởng bằng tài chính của Steem sẽ đem lại khả năng đánh giá công bằng và toàn diện hơn những giá trị mà người dùng đã đóng góp cho cộng đồng. Bản tài liệu này sẽ đi sâu phân tích các hình thức trả thưởng bằng tiền tệ hiện có, từ đó minh họa cho người đọc cách nhìn rõ nét về tính hiệu quả trong cách thức trả thưởng của Steem đến người dùng.
 
 ## Recognizing Contribution
 
