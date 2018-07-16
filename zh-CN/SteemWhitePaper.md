@@ -463,11 +463,11 @@ ISP有两个选择，运行“完全预留”，或者“部分预留”系统�
 
 #### 最大的唯一性用户数
 
-我们可以使用类似的数学方法来计算网络允许每周交易一次的最大的唯一性用户数：B\*W/T。 T代表平均交易大小。 This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
+我们可以使用类似的数学方法来计算网络允许每周交易一次的最大的唯一性用户数：B\*W/T。 T代表平均交易大小。 这意味假定每个用户都拥有相同余额时，比特币可以支持两百万用户每周交易一次。
 
-#### Comparison to Fees
+#### 费用对比
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+如果我们假定一个拥有和25美元等值比特币的用户每周交易一次，且每次缴纳0.04美元的交易费，这样他们每年支付2美元的费用。 一个用户必须要赚取25美元的8%，才能和支付的费用达到收支平衡。 无论如何，用户将会把钱放在区块链上，这样的话，通过采用限额方法，而不是计费方法，这个拥有和25美元等值比特币的用户将会在一年内省下2美元。 如果由175美元，他们如果每天交易的话，每年会省下14美元。
 
 ### Account Creation
 
