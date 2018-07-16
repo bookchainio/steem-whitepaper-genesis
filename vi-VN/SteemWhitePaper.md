@@ -389,7 +389,7 @@ Một số những hệ thống như BitShares, Nxt, Ripple, Counter Party và S
 
 ### Chi phí chính là một rào cản khi tham gia một cộng đồng nào đó
 
-Bất kể một chi phí nào cũng tạo ra một rào cản cho những người dùng mới. Để được tham gia vào Ethereum người dùng phải có một số "token" ETH. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Bất kể một chi phí nào cũng tạo ra một rào cản cho những người dùng mới. Để được tham gia vào nền tảng Ethereum người dùng phải có một số lượng "token" ETH nhất định. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
 
 ### Changing Fees
 
