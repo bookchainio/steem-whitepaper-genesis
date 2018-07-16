@@ -626,15 +626,15 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </h1>
 
 <p>
-  The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+  La rete di Steem viene costruita su Grafene, la stessa tecnologia che potenzia BitShares. È stato dimostrato pubblicamente che il Grafene supporta oltre 1000 transazioni al secondo in un una rete distribuita e testata. Il grafene può facilmente arrivare a 10,000 transazioni al secondo con miglioramenti relativamente semplici, utili alla capacità del server e ai protocolli di comunicazione.
 </p>
 
 <h2>
-  Reddit Scale
+  L'entità di Reddit
 </h2>
 
 <p>
-  Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit's 8.7 million users generated an average of 23 comments per second<fnref target="13" /> , with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+  Steem è capace di amministrare una base di utenza maggiore rispetto a Reddit. In 2015 Reddit's 8.7 million users generated an average of 23 comments per second<fnref target="13" /> , with an average of 83 comments per year per user. Ci sono stati 73 milioni di articoli di livello superiore per una media di 2 nuovi articoli al secondo. Ci sono stati circa 7 miliardi di voti che hanno creato una media nella velocità di voto pari a 220 voti al secondo. Tutto sommato, se Reddit operasse nella Blockchain, richiederebbe una media di 250 transazioni al secondo.
 </p>
 
 <p>
