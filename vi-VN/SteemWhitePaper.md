@@ -237,9 +237,9 @@ Việc sử dụng *quyền bỏ phiếu nghịch* có thể ngăn chặn việc
 > 
 > Anh ta liền hỏi: "Tại sao anh không đậy nắp lại? Nếu cứ để thế thì mấy con cua sẽ bò ra mất đấy".
 > 
-> "You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+> "Anh không hiểu rồi.", Người đánh cá nói. "Nếu như trong xô chỉ có một con cua, thì nó sẽ nhanh chóng leo ra khỏi cái xô một cách dễ dàng. Nhưng nếu trong xô có nhiều cua, trong quá trình cố gắng tự giải thoát, chúng sẽ kéo những con khác xuống dưới. Cuối cùng, sẽ chẳng con nào có thể thoát khỏi, bởi vì chúng cản trở lẫn nhau trong quá trình thực hiện mục đích của mình."
 > 
-> So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+> Điều đó xảy ra tương tự với hành vi của con người trong xã hội. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
 
 Eliminating "abuse" is not possible and shouldn't be the goal. Even those who are attempting to "abuse" the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn't so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
