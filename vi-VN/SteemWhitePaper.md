@@ -372,9 +372,9 @@ Blockchain là nền tàng phi tập trung trong đó tất cả các giao dịc
 
 Sẽ phải trả một chút phí giáo dịch để có thể sử dụng những giải pháp phù hợp với nền tảng blockchain. Một khoản phí chỉ tốn vài xu thôi nhưng cũng đủ để ngăn chặn một cuộc tấn công mạng mà có thể gây ra những tổn thất nặng nề. Trong lúc tìm cách giải quyết vấn đề tấn công mạng như Spam thì lại phát sinh một vấn đề mới. Hãy thử hình dung khi mọi người sử dụng thư điện tử (email) nhưng sẽ phải trả một khoản phí để ngăn chặn spam , vậy thì sẽ chẳng ai muốn dùng email nữa.
 
-### Hệ thống thanh toán vi mô không còn hoạt động
+### Hệ thống thanh toán vi mô không còn tác dụng nữa
 
-Một vấn đề mấu chốt xảy ra trong việc trả phí giao dịch là hệ thống thanh toán vi mô không còn hoạt động, đặc biệt là đối với những người dùng chưa mang lại nhiều giá trị. Khi tất cả những giao dịch đều mất phí thì nó sẽ giới hạn loại giao dịch nào được hệ thống phi tập trung xử lý. Cho dù việc chi phí là rõ ràng nhưng người dùng vẫn không thấy thoải mái khi phải trả phí.
+Một vấn đề mấu chốt xảy ra trong việc trả phí giao dịch là hệ thống thanh toán vi mô không còn tác dụng nữa, đặc biệt là đối với những người dùng chưa mang lại nhiều giá trị. Khi tất cả những giao dịch đều mất phí thì nó sẽ giới hạn loại giao dịch nào được hệ thống phi tập trung xử lý. Cho dù việc chi phí là rõ ràng nhưng người dùng vẫn không thấy thoải mái khi phải trả phí.
 
 Hãy thử tưởng tượng hằng ngày chúng ta sử dụng một trang mạng nào đó nhưng họ lại đòi chúng ta phải trả phí mỗi khi chúng ta muốn thay đổi mật khẩu cho tài khoản của mình. Rõ ràng là người dùng luôn muốn được miễn phí. Nếu đưa người dùng vào tình huống khi họ phải cân nhắc có nên thực hiện một hoạt động nào đó mà phải trả phí hay không thì rõ ràng sẽ làm cho họ cảm thấy phân vân.
 
