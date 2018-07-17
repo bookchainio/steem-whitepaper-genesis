@@ -740,7 +740,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <h2>
-  Impact of Token Creation Rate
+  L'impatto del prezzo di creazione dei token
 </h2>
 
 <p>
