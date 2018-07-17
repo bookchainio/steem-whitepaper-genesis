@@ -715,7 +715,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </ul>
 
 <p>
-  <strong>SMD operations:</strong>
+  <strong>Funzioni dell'SMD:</strong>
 </p>
 
 <ul>
@@ -723,20 +723,20 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
     L'SMD premia: una percentuale del valore di SMD viene creata ad un tasso percentuale annuo stabilito dai testimoni e pagato ai detentori di SMD sotto forma di SMD
   </li>
   <li>
-    Feed Rate following: The amount of STEEM for which the total SMD in existence can be redeemed will change based on changes in the price feed. This change is effectively destruction ("burning") of STEEM when the value of STEEM (as measured by the feed) is increasing, or creation of STEEM when the value of STEEM (as measured by the feed) is declining.
+    Segue l'indice del feed: L'ammontare di STEEM per il quale il totale degli SMD esistenti possono essere riscattati, cambierà in base ai cambiamenti dei prezzo del feed. Questo cambiamento è effettivamente la distruzione ("il bruciare") di STEEM quando il suo valore (come misurato dal feed) sta aumentando, o la creazione di STEEM quando il suo valore (come misurato dal feed) sta diminuendo.
   </li>
 </ul>
 
 <p>
-  The percentage constraints effectively ensure the incentives for rewards do not become meaninglessly small over time, which is intended to prevent the system from experiencing the "speed bump" in the growth pattern of many other blockchains, where an initial growth spurt fueled by high incentives for early participants is followed by prolonged stagnation as the continually falling incentives drop below the level necessary to induce newcomers to join.
+  I vincoli percentuali assicurano in modo efficace che gli incentivi per le ricompense non diventino insignificantemente piccoli nel tempo, il che è destinato ad impedire al sistema di sperimentare il "rallentamento" nel modello di crescita di molte altre blockchain, dove una crescita improvvisa alimentata da alti incentivi per i primi partecipanti è seguita da una prolungata stagnazione, poiché gli incentivi in continua diminuzione scendono al di sotto del livello necessario per indurre i nuovi arrivati ad aderire.
 </p>
 
 <p>
-  The overall effect of these percentage constants on allocation and supply is that the (approximately) 800 STEEM per minute rate remains in effect for some time (i.e. units of STEEM), but drops in percentage terms (i.e., 800 STEEM is a smaller and smaller fraction of the total supply as the total supply grows larger and larger). When the various individual components of the 800 STEEM per minute rate reach their respective percentage-based floors, each floor halts the fall in its component of the rate. This in turn means that, over the long term, the nominal rate will rise from 800 STEEM per minute to the (time-varying, supply-dependent) value needed to maintain a constant annualized growth rate of 10% for the Contribution Incentives, and a constant annualized growth rate of 100% for the combined effect of the Contribution Incentives and the Power Incentives. The overall effect is a doubling of the STEEM supply each year (but, as detailed in the next section, if most users Power Up then much of this doubling is effectively a "split" which does not transfer ownership).
+  L'effetto complessivo di queste costanti percentuali sull'allocazione e sull'offerta, è che la velocità di 800 STEEM al minuto (circa) sussiste per qualche tempo (cioè unità di STEEM), ma scende in termini percentuali (cioè, 800 STEEM sono una frazione sempre più piccola della offerta totale in quanto questa cresce in maniera maggiore sempre di più). Quando le varie componenti individuali della velocità di 800 STEEM al minuto raggiungono i loro rispettivi piani basati sulla percentuale, ciascun piano arresta la caduta del suo componente del tasso. Questo a sua volta significa che, a lungo termine, la velocità nominale salirà da 800 STEEM al minuto al valore (variabile nel tempo, dipendente dall'offerta) necessario per mantenere un tasso di crescita annuale costante del 10% per gli incentivi di contributo, e un tasso di crescita annuale costante del 100% per l'effetto combinato degli incentivi di contribuzione e degli incentivi di potenza. L'effetto complessivo è un raddoppiamento dell'offerta di STEEM ogni anno (ma, come spiegato nel dettaglio nella prossima sezione, se la maggior parte degli utenti compie l'azione di Power Up, gran parte di questo raddoppio, quindi, è effettivamente una "divisione" che non trasferisce la proprietà).
 </p>
 
 <p>
-  The overall supply picture is complicated by the effect of SMD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SMD rewards, as discussed in the SMD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), noise due to miner luck in proof-of-work production, and the effects of changes in the miner queue length due to a change in the network's total hashpower.
+  L'immagine dell'offerta complessiva viene complicata dagli effetti delle operazioni dell'SMD, che possono risultare, in larga scala, in una creazione o in una distruzione successiva di STEEM mediante il feed del prezzo e le ricompense di SMD, come discusso nella sezione SMD. Altri effetti di complicazione su piccola scala, sussistono ancora, compresi gli incentivi non reclamati (ad esempio il blocco delle ricompense per i blocchi mancati), il rumore dovuto alla fortuna dei minatori nella produzione di proof of work e gli effetti delle modifiche nella lunghezza della coda dei minatori dovuti ad un cambiamento totale nella rete del potere degli hash.
 </p>
 
 <h2>
@@ -744,7 +744,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </h2>
 
 <p>
-  At first glance, 100% annual increase in the STEEM supply may appear to be hyper-inflationary and unsustainable. Those who follow the Quantity Theory of Money<fnref target="16" /> may even conclude that the value of STEEM must fall by approximately 5.6% per month. We know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+  A prima vista, un aumento annuale del 100% dell'offerta di STEEM può sembrare iperinflazionistico e insostenibile. Coloro che seguono la teoria della quantità del denaro<fnref target="16" /> potrebbero addirittura concludere che il valore di STEEM deve diminuire del circa 5,6% al mese. We know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
 </p>
 
 <p>
