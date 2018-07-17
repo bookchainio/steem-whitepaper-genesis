@@ -748,7 +748,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  Poiché il 90% di tutti gli STEEM creati viene redistribuito ai possessori di SP, il risultato è simile all'avere un rapporto di 2:1 scisso ogni anno, un'inflazione piuttosto vera. La percentuale totale delle spese utilizzate per ricompensare i contributori è di circa il 10% della annuale capitalizzazione di mercato, una percentuale ben al di sotto di quella che il Bitcoin ha sostenuto per i primi 7 anni dopo il suo lancio.
+  Poiché il 90% di tutti gli STEEM creati viene redistribuito ai possessori di SP, il risultato è simile all'avere un rapporto di 2:1 "scisso" ogni anno, un'inflazione piuttosto credibile. La percentuale totale delle spese utilizzate per ricompensare i contributori è di circa il 10% della annuale capitalizzazione di mercato, una percentuale ben al di sotto di quella che il Bitcoin ha sostenuto per i primi 7 anni dopo il suo lancio.
 </p>
 
 <p>
