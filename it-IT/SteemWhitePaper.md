@@ -760,7 +760,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  Il prezzo del bene digitale, come STEEM, viene guidato sia dall'offerta che dalla domanda. Se i nuovi STEEM vengono assegnati a quelli che stanno mantenendo a lungo termine, l'aumento dell'offerta viene compensato dalla corrispondente domanda del mantenere. L'impatto di questo cambiamento nell'offerta è rinviato a una data futura in cui il detentore a lungo termine decide di vendere. La pressione di vendita viene quindi distribuita lungo 2 anni.
+  Il prezzo del bene digitale, come STEEM, viene guidato sia dall'offerta che dalla domanda. Se i nuovi STEEM vengono assegnati a quelli che li stanno mantenendo a lungo termine, l'aumento dell'offerta viene compensato dalla corrispondente domanda di mantenimento. L'impatto di questo cambiamento nell'offerta è rinviato a una data futura in cui il detentore a lungo termine decide di vendere. La pressione di vendita viene quindi distribuita lungo 2 anni.
 </p>
 
 <p>
