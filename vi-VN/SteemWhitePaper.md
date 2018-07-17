@@ -36,7 +36,7 @@ Các thành viên của Steem khi tham gia vào cộng đồng sẽ nhận đư�
 
 So sánh với các phương tiện truyền thông và nền tảng sử dụng tiền mã hóa khác trước đây thì việc sắp xếp lại một cách có mục đích hình thức trả thưởng bằng tài chính của Steem sẽ đem lại khả năng đánh giá công bằng và toàn diện hơn những giá trị mà người dùng đã đóng góp cho cộng đồng. Bản tài liệu này sẽ đi sâu phân tích các hình thức trả thưởng bằng tiền tệ hiện có, từ đó minh họa cho người đọc cách nhìn rõ nét về tính hiệu quả trong cách thức trả thưởng của Steem đến người dùng.
 
-## Recognizing Contribution
+## Cách thức Steem ghi nhận những đóng góp của người tham gia
 
 Steem ra đời với mục tiêu từ ban đầu là trở thành giải pháp cho những rào cản về sự đồng thuận và áp dụng hoạt động kiếm tiền từ mạng xã hội. Lập luận được nêu ra ở đây là có thể sử dụng các kỹ thuật phát triển những nền tảng phương tiện truyền thông xã hội trước đấy để kích hoạt thành công một chương trình xây dựng tiền tệ mã hóa. Hình thức trả thưởng khích lệ người dùng bằng tiền điện tử có thể là bước đột phá trong sự phát triển của một nền tảng truyền thông xã hội mới. Chúng tôi tin rằng sự vận hành tiền tệ mã hóa trong phương tiện truyền thông xã hội sẽ là lợi thế mạnh mẽ khi Steem thâm nhập thị trường.
 
