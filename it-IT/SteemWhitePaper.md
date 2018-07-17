@@ -736,7 +736,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  L'immagine dell'offerta complessiva viene complicata dagli effetti delle operazioni dell'SMD, che possono risultare, in larga scala, in una creazione o in una distruzione successiva di STEEM mediante il feed del prezzo e le ricompense di SMD, come discusso nella sezione SMD. Altri effetti di complicazione su piccola scala, sussistono ancora, compresi gli incentivi non reclamati (ad esempio il blocco delle ricompense per i blocchi mancati), il rumore dovuto alla fortuna dei minatori nella produzione di proof of work e gli effetti delle modifiche nella lunghezza della coda dei minatori dovuti ad un cambiamento totale nella rete del potere degli hash.
+  L'immagine dell'offerta complessiva viene complicata dagli effetti delle operazioni dell'SMD, che possono risultare, in larga scala, in una creazione o in una distruzione successiva di STEEM mediante il feed del prezzo e le ricompense di SMD, come discusso nella sezione SMD. Altri effetti di complicazione su piccola scala, sussistono ancora, compresi gli incentivi non reclamati (ad esempio il blocco delle ricompense per i blocchi mancati), il vociferare dovuto alla sorte dei minatori nella produzione di proof of work e gli effetti delle modifiche nella lunghezza della coda dei minatori dovuti ad un cambiamento totale nella rete del potere degli hash.
 </p>
 
 <h2>
