@@ -728,11 +728,11 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </ul>
 
 <p>
-  I vincoli percentuali assicurano in modo efficace che gli incentivi per le ricompense non diventino insignificantemente piccoli nel tempo, il che è destinato ad impedire al sistema di sperimentare il "rallentamento" nel modello di crescita di molte altre blockchain, dove una crescita improvvisa alimentata da alti incentivi per i primi partecipanti è seguita da una prolungata stagnazione, poiché gli incentivi in continua diminuzione scendono al di sotto del livello necessario per indurre i nuovi arrivati ad aderire.
+  I vincoli percentuali assicurano in modo efficace che gli incentivi per le ricompense non diventino piccoli e privi di senso nel tempo, il che è destinato ad impedire al sistema di sperimentare il "rallentamento" nel modello di crescita di molte altre blockchain, dove una crescita improvvisa alimentata da alti incentivi per i primi partecipanti è seguita da una prolungata stagnazione, poiché gli incentivi in continua diminuzione scendono al di sotto del livello necessario per indurre i nuovi arrivati ad aderire.
 </p>
 
 <p>
-  L'effetto complessivo di queste costanti percentuali sull'allocazione e sull'offerta, è che la velocità di 800 STEEM (cioè unità di STEEM) al minuto (circa) sussiste per qualche tempo, ma scende in termini percentuali (cioè, 800 STEEM sono una frazione sempre più piccola della offerta totale in quanto questa cresce in maniera maggiore sempre di più). Quando le varie componenti individuali della velocità di 800 STEEM al minuto raggiungono i loro rispettivi piani basati sulla percentuale, ciascun piano arresta la caduta del suo componente del tasso. Questo a sua volta significa che, a lungo termine, la velocità nominale salirà da 800 STEEM al minuto al valore (variabile nel tempo, dipendente dall'offerta) necessario per mantenere un tasso di crescita annuale costante del 10% per gli incentivi di contributo, e un tasso di crescita annuale costante del 100% per l'effetto combinato degli incentivi di contribuzione e degli incentivi di potenza. L'effetto complessivo è un raddoppiamento dell'offerta di STEEM ogni anno (ma, come spiegato nel dettaglio nella prossima sezione, se la maggior parte degli utenti compie l'azione di Power Up, gran parte di questo raddoppio, quindi, è effettivamente una "divisione" che non trasferisce la proprietà).
+  L'effetto complessivo di queste costanti percentuali sull'allocazione e sull'offerta, è che la velocità di 800 STEEM (cioè unità di STEEM) al minuto (circa) sussiste per qualche tempo, ma scende in termini percentuali (cioè, 800 STEEM sono una frazione sempre più piccola della offerta totale in quanto questa cresce sempre di più). Quando le varie componenti individuali della velocità di 800 STEEM al minuto raggiungono i loro rispettivi piani basati sulla percentuale, ciascun piano arresta la caduta del suo componente del tasso. Questo a sua volta significa che, a lungo termine, la velocità nominale salirà da 800 STEEM al minuto al valore (variabile nel tempo, dipendente dall'offerta) necessario per mantenere un tasso di crescita annuale costante del 10% per gli incentivi di contributo, e un tasso di crescita annuale costante del 100% per l'effetto combinato degli incentivi di contribuzione e degli incentivi di potenza. L'effetto complessivo è un raddoppiamento dell'offerta di STEEM ogni anno (ma, come spiegato nel dettaglio nella prossima sezione, se la maggior parte degli utenti compie l'azione di Power Up, gran parte di questo raddoppio, quindi, è effettivamente una "divisione" che non trasferisce la proprietà).
 </p>
 
 <p>
@@ -744,7 +744,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </h2>
 
 <p>
-  A prima vista, un aumento annuale del 100% dell'offerta di STEEM può sembrare iperinflazionistico e insostenibile. Coloro che seguono la teoria della quantità del denaro<fnref target="16" /> potrebbero addirittura concludere che il valore di STEEM deve diminuire del circa 5,6% al mese. Noi sappiamo da innumerevoli esempi reali che la quantità di denaro non ha un impatto immediato e diretto nel suo valore, anche se, certamente, un ruolo lo svolge.
+  A prima vista, un aumento annuale del 100% dell'offerta di STEEM può sembrare iperinflazionistico e insostenibile. Coloro che seguono la teoria della quantità del denaro<fnref target="16" /> potrebbero addirittura concludere che il valore di STEEM deve diminuire del circa 5,6% al mese. Sappiamo da innumerevoli esempi reali che la quantità di denaro non ha un impatto immediato e diretto nel suo valore, anche se, certamente, un ruolo lo svolge.
 </p>
 
 <p>
@@ -756,7 +756,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  A partire dall'agosto del 2008 fino al gennaio del 2009, l'offerta di denaro statunitense<fnref target="17" /> è cresciuita da $871 miliardi a $1,737 miliardi, con un tasso annuo di oltre il 100% e ha continuato a crescere di circa il 10% all'anno per i successivi 6 anni. Tutto sommato, l'offerta di denaro negli Stati Uniti è cresciuta di 4,59 volte, in meno di 7 anni. Durante lo stesso periodo di tempo, il valore del dollaro relativo ai beni e ai servizi è sceso meno del 10% in base all'indice di prezzo del governo <fnref target="18" /> . Questo esempio reale dimostra che l'offerta è solo una componente del prezzo.
+  A partire dall'agosto del 2008 fino al gennaio del 2009, l'offerta di denaro statunitense<fnref target="17" /> è cresciuta da $871 miliardi a $1,737 miliardi, con un tasso annuo di oltre il 100% e ha continuato a crescere di circa il 10% all'anno per i successivi 6 anni. Tutto sommato, l'offerta di denaro negli Stati Uniti è cresciuta di 4,59 volte, in meno di 7 anni. Durante lo stesso periodo di tempo, il valore del dollaro relativo ai beni e ai servizi è sceso meno del 10% in base all'indice di prezzo del governo <fnref target="18" /> . Questo esempio reale dimostra che l'offerta è solo una componente del prezzo.
 </p>
 
 <p>
