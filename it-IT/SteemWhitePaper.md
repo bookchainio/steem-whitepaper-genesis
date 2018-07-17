@@ -680,37 +680,37 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  <strong>Contribution Rewards:</strong>
+  <strong>Premi di contribuzione:</strong>
 </p>
 
 <ul>
   <li>
-    Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
+    Premi di contribuzione: 1 STEEM per blocco o 3.875% all'anno, qualsiasi sia maggiore
   </li>
   <li>
-    Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
+    Premi di contribuzione per contenuto: 1 STEEM per blocco o 3.875% all'anno, qualsiasi sia maggiore
   </li>
   <li>
-    Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
+    Premi per la produzione di blocchi: 1 STEEM per blocco o 0.750% all'anno, qualsiasi sia maggiore
   </li>
   <li>
-    POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
+    Premi per l'inserimento della POW prima del blocco 864,000: 1 STEEM per blocco (premiato con 21 STEEM per ogni turno)
   </li>
   <li>
-    POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
+    Premi per l'inserimento della POW dopo il blocco 864,000: 0.0476 STEEM per blocco (premiato con 1 STEEM per ogni turno) o 0.750% all'anno, qualsiasi sia maggiore.
   </li>
   <li>
-    Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+    Premi di liquidità: 1 STEEM per blocco (premiato con 1200 STEEM all'ora) o 0.750% all'anno, qualsiasi sia maggiore
   </li>
 </ul>
 
 <p>
-  <strong>Power Rewards:</strong>
+  <strong>Il potere delle ricompense:</strong>
 </p>
 
 <ul>
   <li>
-    Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+    Lo Steem Power premia: per ogni STEEM creato dalla ricompensa di cui sopra, 9 STEEM sono divisi tra tutti i detentori di Steem Power.
   </li>
 </ul>
 
@@ -720,7 +720,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 
 <ul>
   <li>
-    SMD rewards: A percentage of SMD value is created at an APR set by the witnesses and paid to SMD holders as SMD
+    L'SMD premia: una percentuale del valore di SMD viene creata ad un tasso percentuale annuo stabilito dai testimoni e pagato ai detentori di SMD sotto forma di SMD
   </li>
   <li>
     Feed Rate following: The amount of STEEM for which the total SMD in existence can be redeemed will change based on changes in the price feed. This change is effectively destruction ("burning") of STEEM when the value of STEEM (as measured by the feed) is increasing, or creation of STEEM when the value of STEEM (as measured by the feed) is declining.
