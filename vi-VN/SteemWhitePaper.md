@@ -393,7 +393,7 @@ Bất kể một chi phí nào cũng tạo ra một rào cản cho những ngư�
 
 ### Sự thay đổi về các khoản phí
 
-Theo thời gian thì một hệ thống cần phải thay đổi về các khoản phí. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Theo thời gian thì một hệ thống cần phải thay đổi về các khoản phí. Sự thay đổi này có thể xảy ra do token tăng giá trị hoặc số lượng token. Người dùng muốn biết chính xác những chi phí cũng như được hưởng một dịch vụ tốt và đảm bảo cho họ. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
 
 ### Sybil Attacks
 
