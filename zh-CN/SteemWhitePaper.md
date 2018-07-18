@@ -489,7 +489,7 @@ Ripple使用一个最小余额[^12]，该余额会根据账户使用的资源进
 
 保留一个最小余额就类似于让用户支付交易费，而这个写交易费可以出自余用户账户余额的利息。 简单的说，最小余额只是一种在较短时间内，赚取足够利息以支付费用所要求的余额。
 
-Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn't incur the cognitive cost of a micro-fee and is far more acceptable to users.
+幸运的是，系统要求的最小余额可以低至一美元，这也是用户可以理解和接受的额度。 The opportunity cost of lost interest doesn't incur the cognitive cost of a micro-fee and is far more acceptable to users.
 
 The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power).
 
