@@ -489,11 +489,11 @@ Ripple使用一个最小余额[^12]，该余额会根据账户使用的资源进
 
 保留一个最小余额就类似于让用户支付交易费，而这个写交易费可以出自余用户账户余额的利息。 简单的说，最小余额只是一种在较短时间内，赚取足够利息以支付费用所要求的余额。
 
-幸运的是，系统要求的最小余额可以低至一美元，这也是用户可以理解和接受的额度。 The opportunity cost of lost interest doesn't incur the cognitive cost of a micro-fee and is far more acceptable to users.
+幸运的是，系统要求的最小余额可以低至一美元，这也是用户可以理解和接受的额度。 失去兴趣的机会成本不会产生小额费用的认知成本，且易于被用户接受。
 
-The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power).
+为新账户预付的STEEM在该账户中被Powered Up (例如：被转换为Steem Power)。
 
-### Adjusting the Reserve Ratio
+### 调整预留率
 
 Rate limiting requires that the network adjust the reserve ratio quickly enough to mitigate the impact of an attacker attempting to ood the network. Let's assume the attacker has a large balance, say 1% of the available tokens. If we also assume that the network targets 50% utilization, then a sustained attack should find this user throttled to 25% of network capacity assuming everyone else is also using 25% of the capacity. Stated another way, the largest single user should never be able to consume more than 50% of the target capacity unless they own more than 50% of the SP.
 
