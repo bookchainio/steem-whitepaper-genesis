@@ -251,7 +251,7 @@ Một trong những điều quan trọng nhất trong việc giảm thiểu sự
 
 ![](\img_voting_rate_limiting.png)
 
-The charts above shows how a user's voting power decreases every time they vote and then regenerates as time passes without voting. These charts use nominal time unit and could be made to scale to any targeted voting rate. Note that voting power rapidly drops off during periods of continuous voting, and then slowly recovers.
+Các biểu đồ trên cho thấy "voting power" của người dùng bị giảm như thế nào sau mỗi lượt "vote" và thời gian hồi phục của "voting power" khi dừng việc "vote" bài. These charts use nominal time unit and could be made to scale to any targeted voting rate. Note that voting power rapidly drops off during periods of continuous voting, and then slowly recovers.
 
 Voting power is multiplied by a user's vesting tokens to determine how much share in the reward pool should be allocated to a given work item.
 
