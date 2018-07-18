@@ -475,9 +475,9 @@ Steem基于帐户的系统具备了公开的账户余额，使得基于带宽频
 
 事实上存在这种可能性，对于一个在网络空闲时创建的余额值较低的帐户，在网络变得繁忙时，该账户可能变得不可用。 可以向该账户转入较大额度资金使其变得可用，从而收回该账户中的资金。
 
-为了保持好的用户体验，应尽量减少账户被挂起，所有的新账户应该在初始时被赋予每周进行交易需要最小金额的10倍。 This way even if demand increases by a factor of 10 the account will remain viable.
+为了保持好的用户体验，应尽量减少账户被挂起，所有的新账户应该在初始时被赋予每周进行交易需要最小金额的10倍。 通过这种方式，即使对网络的需求量增加10倍，该账户仍然可以可用。
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+出于对潜在的sybil攻击的考虑，任何初始的账户余额必须来自创建该账户的用户，而不是来自代币。
 
 ### 最小余额的合理性
 
