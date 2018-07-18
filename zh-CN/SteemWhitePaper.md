@@ -473,9 +473,9 @@ ISP有两个选择，运行“完全预留”，或者“部分预留”系统�
 
 Steem基于帐户的系统具备了公开的账户余额，使得基于带宽频率限定的算法的更容易实现。 任何账户的余额一旦低于每周交易一次需要的最低限额，就不能进行交易。 这意味着所有新创建的账户应当被充值，额度至少为系统要求的最小余额。 这同时还意味着，对于想要进行多次小额交易的用户，只要他们拥有较大余额，并反复使用该账户，就可以实现该操作。
 
-事实上存在这种可能性，对于一个在网络空闲时创建的余额值较低的帐户，在网络变得繁忙时，该账户可能变得不可用。 The funds could be recovered at any time by transferring a larger balance into the account.
+事实上存在这种可能性，对于一个在网络空闲时创建的余额值较低的帐户，在网络变得繁忙时，该账户可能变得不可用。 可以向该账户转入较大额度资金使其变得可用，从而收回该账户中的资金。
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+为了保持好的用户体验，应尽量减少账户被挂起，所有的新账户应该在初始时被赋予每周进行交易需要最小金额的10倍。 This way even if demand increases by a factor of 10 the account will remain viable.
 
 Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
 
