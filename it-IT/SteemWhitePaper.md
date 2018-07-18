@@ -764,7 +764,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  Quando un detentore a lungo termine decide di uscire, l'offerta di STEEM sul mercato aumenterà e spingerà il prezzo in basso. Questa spinta verso il basso viene contrastata quando un nuovo detentore a lungo termine decide di comprare lo STEEM e di convertirlo nuovamente in SP. Sappiamo da innumerevoli esempi del mondo reale che la quantità di denaro non ha un impatto diretto e immediato sul suo valore, sebbene giochi certamente un ruolo.  
+  Quando un detentore a lungo termine decide di uscire, l'offerta di STEEM sul mercato aumenterà e spingerà il prezzo in basso. Questa spinta verso il basso viene contrastata quando un nuovo detentore a lungo termine decide di comprare lo STEEM e di convertirlo nuovamente in SP. Possiamo quindi concludere che il prezzo sarà per lo più influenzato da un cambiamento nella domanda di detenere gli STEEM a lungo termine.  
 </p>
 
 <p>
