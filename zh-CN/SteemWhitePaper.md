@@ -469,9 +469,9 @@ ISP有两个选择，运行“完全预留”，或者“部分预留”系统�
 
 如果我们假定一个拥有和25美元等值BTC的用户每周交易一次，且每次缴纳0.04美分的交易费，这样他们每年支付2美元的费用。 针对这25美元，一个用户必须要赚取8%的回报率，才能和支付的费用达到收支平衡。 无论如何，用户将会把钱放在区块链上，这样的话，通过采用限额方法，而不是计费方法，这个拥有和25美元等值 BTC 的用户将会在一年内省下2美元。 如果用户有175美元且每天交易的话，每年会省下14美元。
 
-### Account Creation
+### 帐户创建
 
-Steem's account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+Steem基于帐户的系统具备了公开的账户余额，使得基于带宽频率限定的算法的更容易实现。 任何账户的余额一旦低于每周交易一次需要的最低限额，就不能进行交易。 This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
 
 It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by transferring a larger balance into the account.
 
