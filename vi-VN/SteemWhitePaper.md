@@ -255,7 +255,7 @@ Các biểu đồ trên cho thấy "voting power" của người dùng bị gi�
 
 Để xác định được lượng phần thưởng được phân bổ cho một bài viết nhất định, ta tính bằng cách lấy "voting power" nhân với số "token" mà một người dùng đầu tư đang nắm giữ.
 
-### Delayed Payouts
+### Sự thanh toán bị trì hoãn
 
 ![](\img_change_voting_period_eg.png)
 
