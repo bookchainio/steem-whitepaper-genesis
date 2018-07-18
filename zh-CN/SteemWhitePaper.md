@@ -461,13 +461,13 @@ ISP有两个选择，运行“完全预留”，或者“部分预留”系统�
 
 区块链的容量未必需要封顶。 从技术角度来说，互联网设施的容量允许将比特币网络中块的容量增加10MB，从而将必须的最低余额降低10倍。 当前的比特币网络支持每秒三个交易，替代的实现方式能够应付每秒超过1000个交易。 这会将保守的上限改为0.0006 BTC ，或者0.25美元，意味着拥有0.25美元的账户平均可以每周至少交易一次 (而且非常有可能是很多次，原因在于我们使用非常宽松的上限)。
 
-#### 最大的唯一性用户数
+#### 最大的单独用户数
 
-我们可以使用类似的数学方法来计算网络允许每周交易一次的最大的唯一性用户数：B\*W/T。 T代表平均交易大小。 这意味假定每个用户都拥有相同余额时，比特币可以支持两百万用户每周交易一次。
+我们可以使用类似的数学方法来计算网络允许每周交易一次的最大的单独用户数：B\*W/T。 T代表平均交易大小。 这意味假定每个用户都拥有相同余额时，比特币可以支持两百万用户每周交易一次。
 
 #### 费用对比
 
-如果我们假定一个拥有和25美元等值BTC的用户每周交易一次，且每次缴纳0.04美分的交易费，这样他们每年支付2美元的费用。 针对这25美元，一个用户必须要赚取8%的回报率，才能和支付的费用达到收支平衡。 无论如何，用户将会把钱放在区块链上，这样的话，通过采用限额方法，而不是计费方法，这个拥有和25美元等值 BTC 的用户将会在一年内省下2美元。 如果由175美元，他们如果每天交易的话，每年会省下14美元。
+如果我们假定一个拥有和25美元等值BTC的用户每周交易一次，且每次缴纳0.04美分的交易费，这样他们每年支付2美元的费用。 针对这25美元，一个用户必须要赚取8%的回报率，才能和支付的费用达到收支平衡。 无论如何，用户将会把钱放在区块链上，这样的话，通过采用限额方法，而不是计费方法，这个拥有和25美元等值 BTC 的用户将会在一年内省下2美元。 如果用户有175美元且每天交易的话，每年会省下14美元。
 
 ### Account Creation
 
@@ -479,9 +479,9 @@ In order to maintain a reasonable user experience with a minimum number of hung 
 
 Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
 
-### Justifying Minimum Balances
+### 最小余额的合理性
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^11] . Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+强制用户保留最小余额这个概念自然的源于用户的价值[^11]。 任何进行商业活动的人都直到每个用户都有其重要价值。 企业需要花费30到100美金来获得一个用户。 有些时候他们直接付钱给用户，也有时候他们把钱花在广告上，还有些时候整个公司为他们的用户群买单。 当一个公司获得了一个新用户时，他们经常会给用户提供很多*免费服务*，以便能够留住用户并从他们身上赚到钱。
 
 Ripple uses a minimum balance[^12] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
 
