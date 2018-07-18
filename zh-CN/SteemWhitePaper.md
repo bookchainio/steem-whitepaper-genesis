@@ -487,7 +487,7 @@ Ripple使用一个最小余额[^12]，该余额会根据账户使用的资源进
 
 通过要求最小余额的过程，区块链网络可以强制针对每个用户的最小值。 任何想把新用户带到区块链的企业，可以预充值最小余额到用户账户，以便用户可以进行交易。 由于这个相对较高的注册新用户费用(1美元)，那些提供免费账户服务的人在把用户注册到区块链之前，自然就会审核每个用户的质量和唯一性。
 
-保留一个最小余额就类似于让用户支付交易费，而这个写交易费可以出自余用户账户余额的利息。 The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
+保留一个最小余额就类似于让用户支付交易费，而这个写交易费可以出自余用户账户余额的利息。 简单的说，最小余额只是一种在较短时间内，赚取足够利息以支付费用所要求的余额。
 
 Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn't incur the cognitive cost of a micro-fee and is far more acceptable to users.
 
