@@ -58,7 +58,7 @@ Bằng cách thay đổi phương trình tính toán kinh tế, các nhà sáng 
 
 Để Steem có thể phân bổ một cách chính xác các khoản thưởng cho người tham gia thì việc bình bầu từ các thành viên là vô cùng quan trọng. Do đó việc bình bầu tự bản thân nó cũng là một hành động vô cùng giá trị và xứng đáng được trao thưởng. Trên một số nền tảng khác như Slashdot, để xếp hạng và trao thưởng cho những người có thẩm quyền đánh giá thì hệ thống đã sử dụng phương pháp bình luận soát xét lại đội quản lý [^3]. Steem sẽ trả thưởng nhiều nhất cho người có đóng góp chính vào việc sáng tạo nội dung bài viết và một phần thưởng tương xứng dành cho người bình bầu nội dung.
 
-Ngoài ra với những hình thức đóng góp khác của các thành viên, Steem sẽ ghi nhận và có phương thức trả thưởng dựa trên các tiêu chí đánh giá khách quan. Among these are: transaction validation, proof of work mining, liquidity rewards, and reporting of misbehaving block producers.
+Ngoài ra với những hình thức đóng góp khác của các thành viên, Steem sẽ ghi nhận và có phương thức trả thưởng dựa trên các tiêu chí đánh giá khách quan. Các tiêu chí bao gồm: Xác thực giao dịch, bằng chứng công việc, tính thanh khoản của giải thưởng và báo cáo về những sai phạm của người kiến tạo sản phẩm.
 
 # Những cách để đóng góp
 
