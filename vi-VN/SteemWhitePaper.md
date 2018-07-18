@@ -259,7 +259,7 @@ Các biểu đồ trên cho thấy "voting power" của người dùng bị gi�
 
 ![](\img_change_voting_period_eg.png)
 
-To further prevent abuse, all payouts are delayed a stake-weighted average of 24 hours from the time each vote was cast. This ensures that large stakeholders cannot snipe payouts by voting at the last second before other voters (aka crabs) have a chance to negate the potential abuse. Once a payout is made to the user all votes are reset to 0. If votes come in after the payout then the process begins again.
+Để ngăn chặn sự lạm dụng hơn nữa, tất cả các khoản thanh toán sẽ bị trì hoãn trong một khoảng thời gian trung bình là 24 tiếng dựa trên số tiền góp vốn tính từ thời điểm bắt đầu bỏ phiếu. This ensures that large stakeholders cannot snipe payouts by voting at the last second before other voters (aka crabs) have a chance to negate the potential abuse. Once a payout is made to the user all votes are reset to 0. If votes come in after the payout then the process begins again.
 
 This chart shows how the voting period expiration changes in response to new positive and negative votes being applied. New votes extend the payout period in proportion to how large they are relative to all votes that have gone before. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
 
