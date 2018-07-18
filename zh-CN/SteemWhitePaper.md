@@ -483,9 +483,9 @@ Any initial account balance would have to come from the user creating the accoun
 
 强制用户保留最小余额这个概念自然的源于用户的价值[^11]。 任何进行商业活动的人都直到每个用户都有其重要价值。 企业需要花费30到100美金来获得一个用户。 有些时候他们直接付钱给用户，也有时候他们把钱花在广告上，还有些时候整个公司为他们的用户群买单。 当一个公司获得了一个新用户时，他们经常会给用户提供很多*免费服务*，以便能够留住用户并从他们身上赚到钱。
 
-Ripple uses a minimum balance[^12] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
+Ripple使用一个最小余额[^12]，该余额会根据账户使用的资源进行调整，且在新注册账户的时候必须充值达到该最小余额。 现在这个最小余额大约为0.15美元，该值高于我们推算出的，能够让用户每周至少自由交易一次的0.10美元。
 
-A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Any business that wishes to bring a new customer to the blockchain can pre-fund that user's account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+通过要求最小余额的过程，区块链网络可以强制针对每个用户的最小值。 任何想把新用户带到区块链的企业，可以预充值最小余额到用户账户，以便用户可以进行交易。 由于这个相对较高的注册新用户费用(1美元)，那些提供免费账户服务的人在把用户注册到区块链之前，自然就会审核每个用户的质量和唯一性。
 
 Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
 
