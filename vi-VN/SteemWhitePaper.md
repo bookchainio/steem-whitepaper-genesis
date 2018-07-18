@@ -46,7 +46,7 @@ Hiện tại có một số nền tảng truyền thông xã hội hoạt độn
 
 Steem, một dạng token tiền kỹ thuật số, cũng là đơn vị tiền tệ cơ bản của hệ thống Steem. Nguyên tắc hoạt động của Steem là mỗi một Steem tương ứng với một phiếu bình chọn. Căn cứ trên nguyên tắc này thì cá nhân nào có nhiều đóng góp nhất cho cộng đồng và thu về nhiều giá trị trong số dư tài khoản sẽ là người có tầm ảnh hưởng nhất tới việc đánh giá và bình bầu nội dung. Hơn thế nữa, Steem chỉ cho phép người dùng bỏ phiếu bằng Steem khi họ thể hiện sự cam kết một lộ trình đầu tư tài chính dài hạn. Cũng theo nguyên tắc này, các thành viên tham gia vào mạng lưới phải tính toán cách bình chọn bài viết bằng Steem làm sao để tối đa hóa giá trị Steem thu về trong dài hạn.
 
-Steem is designed around a relatively simple concept: *everyone's meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
+Hoạt động của Steem xoay quanh mục tiêu cơ bản: *Trả về cho người dùng đúng giá trị xứng đáng khi họ có những đóng góp hữu ích cho cộng đồng.* Bởi lẽ một khi công sức của họ được ghi nhận, họ sẽ không ngừng cống hiến phát triển mạng lưới. Cộng đồng chỉ thực sự bền vững khi cân bằng được giữa việc cho và nhận. Eventually the givers grow tired of supporting the takers and disengage from the community.
 
 The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
 
