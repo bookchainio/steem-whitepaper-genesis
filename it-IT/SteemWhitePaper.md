@@ -768,11 +768,11 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  Of the 100% annual increase in the virtual STEEM supply, 5% of it is in the form of Steem Dollars (SMD). SMD represents a commitment to create a dollar's worth of STEEM in the future and does not impact the amount of STEEM on the market today. The change in debt-to-ownership ratio may impact the perceived value of STEEM, but it does not map directly into a fall in the value of STEEM. If the value of Steem rises over time, then the amount of STEEM that may be created in the future will be less and the corresponding "inflation" never actually happened.
+  Dell'aumento annuale del 100% della fornitura virtuale di STEEM, il 5% di esso è sotto forma di Steem Dollars (SMD). SMD rappresenta un impegno per creare un valore in dollari di STEEM in futuro e non incide sulla quantità di STEEM presente oggi sul mercato. Il cambio nel rapporto debito / proprietà può avere un impatto sul valore percepito di STEEM, ma non indica direttamente una diminuzione del valore di STEEM. If the value of Steem rises over time, then the amount of STEEM that may be created in the future will be less and the corresponding "inflation" never actually happened.
 </p>
 
 <p>
-  All told the total "spending" Steem does to fund content, curation, mining, and liquidity rewards amounts to just 10% APR or 1.2% per month. The same wealth transfer could be implemented without any change in the STEEM supply by implementing a negative interest rate on liquid STEEM of around 10% per month. Stated another way, it could be implemented by charging a 3% fee (similar to credit cards) on every transfer and having 1% of all STEEM transferred every single day. The Bitcoin network transfers<fnref target="19" /> 400,000 BTC out of 15.5M (or 2.5% daily).
+  Tutto sommato, la "spesa" totale che Steem sostiene per finanziare i contenuti, la cura, il mining e i le ricompense in liquidità, ammonta solo al 10% del tasso percentuale annuo o all'1,2% al mese. Lo stesso trasferimento di ricchezza potrebbe essere realizzato senza alcun cambiamento nell'offerta di STEEM, implementando un tasso di interesse negativo sullo STEEM liquido di circa il 10% al mese. Stated another way, it could be implemented by charging a 3% fee (similar to credit cards) on every transfer and having 1% of all STEEM transferred every single day. The Bitcoin network transfers<fnref target="19" /> 400,000 BTC out of 15.5M (or 2.5% daily).
 </p>
 
 <p>
