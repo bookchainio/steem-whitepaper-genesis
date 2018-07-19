@@ -401,11 +401,11 @@ Theo thời gian thì một hệ thống cần phải thay đổi về các kho�
 
 In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. Thực tế điểm mạnh của công nghệ blockchain là người dùng không chịu sự kiểm duyệt gắt gao.
 
-### Full Reserve vs Fractional Reserve
+### So sánh dự trữ toàn phần với dự trữ tỷ lệ
 
-Let's view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+Nền tảng blockchain được ví như một nhà cung cấp dịch vụ Internet (ISP) sở hữu tất cả các loại cáp trong thị trấn và có một số lượng băng thông đủ lớn để có thể cung cấp bất cứ lúc nào. Những người dân sống trong thị trấn có thể mua cổ phần của ISP và đổi lại họ có quyền sử dụng một phần băng thông có sẵn đấy.
 
-The ISP has two choices, run a "full reserve" or "fractional reserve" system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town's network would be significantly underutilized.
+ISP đưa ra hai lựa chọn, chạy hệ thống dự trữ toàn phần và hệ thống dự trữ tỷ lệ. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town's network would be significantly underutilized.
 
 Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
 
