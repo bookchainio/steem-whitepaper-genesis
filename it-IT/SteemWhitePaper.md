@@ -800,7 +800,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  Un effetto collaterale di aumentare l'offerta è che la rete richiederà livelli di precisione sempre maggiori nella sua contabilità. In media il numero di bit necessari per rappresentare un account tipico, crescerà di 1,3 all'anno. Ci vorranno solo 10 anni prima che i numeri coinvolti non rientrino più nella precisione a 53 bit supportata da JavaScript o nella precisione a 64 bit supportata dalle CPU. Nel corso del tempo l'entità dei numeri coinvolti cresce oltre la scala umana e la comprensione; inoltre, i bit meno significativi hanno un così basso valore economico da renderli privi di significato. Per compensare la sempre crescente precisione, la rete STEEM esegue una "divisione inversa" di 10: 1 ogni 32.000.000 blocchi (circa 3 anni).
+  Un effetto collaterale di aumentare l'offerta è che la rete richiederà livelli di precisione sempre maggiori nella sua contabilità. In media il numero di bit necessari per rappresentare un account tipico, crescerà di 1,3 all'anno. Ci vorranno solo 10 anni prima che i numeri coinvolti non rientrino più nella precisione a 53 bit supportata da JavaScript o nella precisione a 64 bit supportata dalle CPU. Nel corso del tempo l'entità dei numeri coinvolti cresce oltre la scala umana e la comprensione; inoltre, i bit meno significativi hanno un così basso valore economico da renderli privi di significato.
 </p>
 
 <p>
