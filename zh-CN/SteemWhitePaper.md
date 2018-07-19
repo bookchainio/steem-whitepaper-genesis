@@ -511,9 +511,9 @@ Ripple使用一个最小余额[^12]，该余额会根据账户使用的资源进
 
 为了比较使用率限制对费用的有效性，我们必须要考虑各种系统对攻击者有意制造的洪水攻击做出的反应。 在比特币网络中，一个拥有10,000美元的攻击者可以通过填满每个区块来将服务中断一整天。 在动态部分预留率限制方法中，同样的攻击者甚至都不能中断一个单一块的服务。
 
-如果我们考虑一个更极端的例子，如果一个攻击者拥有1%的代币，我们假定他拥有6000万美元。 Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+如果我们考虑一个更极端的例子，如果一个攻击者拥有1%的代币，我们假定他拥有6000万美元。 这样的攻击者可以使整个比特币网络服务停顿16年，除非矿工们增加费率或者扩容。 就算是费用增加到每个交易15美元，攻击者仍能将整个网络陷入到信息垃圾中长达16天之久。
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+在使用率限制方法中，对于持有1%代币的攻击者，如果他们要对网络进行洪水攻击，那么他们的攻击不会超过30秒。
 
 ### Renting vs. Buying vs. Time Sharing
 
