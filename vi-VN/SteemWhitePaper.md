@@ -393,13 +393,13 @@ Bất kể một chi phí nào cũng tạo ra một rào cản cho những ngư�
 
 ### Sự thay đổi về các khoản phí
 
-Theo thời gian thì một hệ thống cần phải thay đổi về các khoản phí. Sự thay đổi này có thể xảy ra do token tăng giá trị hoặc tăng số lượng token. Chi phí minh bạch và một dịch vụ đảm bảo luôn thu hút được người dùng. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Theo thời gian thì một hệ thống cần phải thay đổi về các khoản phí. Sự thay đổi này có thể xảy ra do token tăng giá trị hoặc tăng số lượng token. Chi phí minh bạch và một dịch vụ đảm bảo luôn thu hút được người dùng. Trong quá trình sử dụng việc tính phí tự động có thể khiến người dùng ngày càng ít đi.
 
 ### Thủ thuật "Tấn công mạo nhận"
 
 Để ngăn chặn Spam những website theo mô hình tập trung đã sử dụng các giải pháp như giới hạn tốc độ và xác mình ID bằng các hình thức khác nhau. Thậm chí một thao tác đơn giản như reCAPTCHA [^9] cũng có thể hạn chế việc tạo các tài khoản giả mạo. Những website tập trung sẽ chặn những tài khoản bị lạm dụng.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. Thực tế điểm mạnh của công nghệ Blockchain là người dùng không chịu sự kiểm duyệt gắt gao.
+Trong hệ thống phi tập trung không thể ngăn việc lưu trữ reCAPTCHA và giới hạn tốc độ tài khoản của những cá nhân hay các nhà cung cấp tập trung. Thực tế điểm mạnh của công nghệ Blockchain là người dùng không chịu sự kiểm duyệt gắt gao.
 
 ### So sánh dự trữ toàn phần với dự trữ tỷ lệ
 
