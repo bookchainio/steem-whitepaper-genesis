@@ -505,13 +505,13 @@ Ripple使用一个最小余额[^12]，该余额会根据账户使用的资源进
 
 每当网络使用率低于50%时，预留率必须进行缓慢上升，直到网络达到了最大预留率。 最大预留率决定了在短期内对网络进行洪水攻击需要的最小股份。
 
-对于任何持有小于TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) 代币的用户，他们甚至都没有能力产生足够的交易来填满一个单一的块。 With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
+对于任何持有小于TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) 代币的用户，他们甚至都没有能力产生足够的交易来填满一个单一的块。 一旦预留率设置为200，这就意味着任何拥有少于0.25%代币的用户无法创建足够的交易来延迟他人对网络的使用。
 
-### Effectiveness Relative to Fees
+### 费用的有效性
 
-To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+为了比较使用率限制对费用的有效性，我们必须要考虑各种系统对攻击者有意制造的洪水攻击做出的反应。 在比特币网络中，一个拥有10,000美元的攻击者可以通过填满每个区块来将服务中断一整天。 在动态部分预留率限制方法中，同样的攻击者甚至都不能中断一个单一块的服务。
 
-If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+如果我们考虑一个更极端的例子，如果一个攻击者拥有1%的代币，我们假定他拥有6000万美元。 Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
 
 Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
 
