@@ -267,7 +267,7 @@ Biểu đồ này cho thấy những thay đổi về thời hạn bỏ phiếu 
 
 ![](\img_the_new_marketplace.png)
 
-Một trong những mục tiêu chính của hệ thống phần thưởng Steem là tạo ra các cuộc tranh luận hiệu quả nhất trên Internet. Each and every year 10% of the market capitalization of Steem is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be as much as $1.75 million dollars per day being given to top contributors.
+Một trong những mục tiêu chính của hệ thống phần thưởng Steem là tạo ra các cuộc tranh luận hiệu quả nhất trên Internet. Mỗi năm, 10% số vốn hóa thị trường của Steem được phân bổ cho người dùng khi họ viết bài, bỏ phiếu và thảo luận về nội dung. At the size of Bitcoin this could be as much as $1.75 million dollars per day being given to top contributors.
 
 The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
 
