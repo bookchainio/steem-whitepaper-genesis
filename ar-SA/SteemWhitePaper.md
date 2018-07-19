@@ -167,13 +167,13 @@ STEEM and SP holders gain leverage when members of the community are willing to 
 
 ### إعداد خلاصات الأسعار
 
-سوف يدرك القُرّاء الأذكياء أن الأصول التي تحمل فائدة محدودة العرض قد تتداول أعلى أو أقل من الأصول الأساسية اعتمادا على فرص أخرى لكسب الفائدة على نفس الأصول. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+سوف يدرك القُرّاء الأذكياء أن الأصول التي تحمل فائدة محدودة العرض قد تتداول أعلى أو أقل من الأصول الأساسية اعتمادا على فرص أخرى لكسب الفائدة على نفس الأصول. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. في الاقتصاد هناك مبدأ يعرف الثالوث المستحيل [^4] الذي ينص على أنه من المستحيل أن تتواجد الثلاث مبادئ التالية في نفس الوقت:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. سعر صرف مستقر
+2. حرية حركة رأس المال
+3. سياسة نقدية مستقلة
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+إذا كان منتجو خلاصات ستيم يهدفون إلى أن يكون لهم سياسة نقدية مستقلة مما يسمح لهم بإنشاء وتدمير ستيم دولار وفي نفس الوقت إمتلاك السيطرة الكاملة على سعر الفائدة اذا سوف يواجهون مشاكل. يقول الثالوث المستحيل أن ستيم دولار إما يحتاج إلى تقييد حركة رأس المال، إمتلاك سعر صرف غير مستقر مع الدولار، أو أن يكون له سيطرة محدودة على سعر الفائدة.
 
 The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SMD and the U.S. Dollar (USD). Any time SMD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
