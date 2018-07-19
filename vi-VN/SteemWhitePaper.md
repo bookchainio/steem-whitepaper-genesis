@@ -273,7 +273,7 @@ Việc phân phối phần thưởng cụ thể sẽ tùy thuộc vào chế đ�
 
 \\(votes[x]^{2} / sum(votes[0...n]^{2})\\)
 
-Zipf's Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the \\(k^{th}\\)-ranked item will measure about 1/k of the first one.
+Quy luật Zipf [^7] là một trong những quy luật thực nghiệm có thể mô tả một cách rõ nét hàng loạt các hiện tượng xảy ra trong thế giới thực. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the \\(k^{th}\\)-ranked item will measure about 1/k of the first one.
 
 Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf's Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
 
