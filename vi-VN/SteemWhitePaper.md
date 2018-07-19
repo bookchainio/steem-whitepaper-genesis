@@ -269,7 +269,7 @@ Biểu đồ này cho thấy những thay đổi về thời hạn bỏ phiếu 
 
 Một trong những mục tiêu chính của hệ thống phần thưởng Steem là tạo ra các cuộc tranh luận hiệu quả nhất trên Internet. Mỗi năm, 10% số vốn hóa thị trường của Steem được phân bổ cho người dùng khi họ viết bài, bỏ phiếu và thảo luận về nội dung. Nếu tính theo giá trị của Bitcoin, số tiền này tương đương với 1,75 triệu đô la mỗi ngày được thưởng cho những người đóng góp tốt nhất.
 
-Việc phân phối phần thưởng cụ thể sẽ tùy thuộc vào chế độ bỏ phiếu của người dùng, nhưng chúng tôi tin rằng số lượng lớn tiền thưởng sẽ được trả cho nội dung mà thu hút nhiều người xem nhất. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
+Việc phân phối phần thưởng cụ thể sẽ tùy thuộc vào chế độ bỏ phiếu của người dùng, nhưng chúng tôi tin rằng số lượng lớn tiền thưởng sẽ được trả cho nội dung mà thu hút nhiều người xem nhất. Steem đánh giá các khoản thanh toán tương đương với \\ (n ^ {2} \\) số Steem Power mà người dùng có khi "vote" cho một bài đăng. Nói cách khác, bài đăng x sẽ nhận một khoản thanh toán tương ứng với tỷ lệ sau:
 
 \\(votes[x]^{2} / sum(votes[0...n]^{2})\\)
 
