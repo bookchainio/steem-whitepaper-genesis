@@ -772,7 +772,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  Tutto sommato, la "spesa" totale che Steem sostiene per finanziare i contenuti, la cura, il mining e i le ricompense in liquidità, ammonta solo al 10% del tasso percentuale annuo o all'1,2% al mese. Lo stesso trasferimento di ricchezza potrebbe essere realizzato senza alcun cambiamento nell'offerta di STEEM, implementando un tasso di interesse negativo sullo STEEM liquido di circa il 10% al mese. In altre parole, potrebbe essere attuato addebitando una commissione del 3% (simile alle carte di credito) su ogni trasferimento e avendo l'1% di tutti gli STEEM trasferiti ogni singolo giorno. La rete del Bitcoin trasferisce<fnref target="19" /> 400,000 BTC su 15,5 milioni (o il 2,5% al giorno). Lo scopo dello STEEM liquido è di facilitare i cambiamenti di proprietà tra i detentori a lungo termine.
+  Tutto sommato, la "spesa" totale che Steem sostiene per finanziare i contenuti, la cura, il mining e i le ricompense in liquidità, ammonta solo al 10% del tasso percentuale annuo o all'1,2% al mese. Lo stesso trasferimento di ricchezza potrebbe essere realizzato senza alcun cambiamento nell'offerta di STEEM, implementando un tasso di interesse negativo sullo STEEM liquido di circa il 10% al mese. In altre parole, potrebbe essere attuato addebitando una commissione del 3% (simile alle carte di credito) su ogni trasferimento e avendo l'1% di tutti gli STEEM trasferiti ogni singolo giorno. La rete del Bitcoin trasferisce<fnref target="19" /> 400,000 BTC su 15,5 milioni (o il 2,5% al giorno).
 </p>
 
 <p>
