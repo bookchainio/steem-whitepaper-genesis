@@ -776,7 +776,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  The purpose of liquid STEEM is to facilitate changes in ownership between long-term holders. È questo cambiamento nella proprietà che la rete "tassa" per finanziare la crescita. Questa tassa di trasferimento può essere evitata quasi completamente vendendo automaticamente STEEM per SMD ogni settimana mentre la rete riconverte lo SP in STEEM. Il tempo totale trascorso detenendo lo STEEM sarà così breve che qualsiasi impatto del cambiamento dell'offerta di STEEM sarà insignificante in confronto alla volatilità e ad altre commissioni di mercato.
+  Lo scopo di STEEM liquido è di facilitare i cambiamenti di proprietà tra i titolari di lungo periodo. È questo cambiamento nella proprietà che la rete "tassa" per finanziare la crescita. Questa tassa di trasferimento può essere evitata quasi completamente vendendo automaticamente STEEM per SMD ogni settimana mentre la rete riconverte lo SP in STEEM. Il tempo totale trascorso detenendo lo STEEM sarà così breve che qualsiasi impatto del cambiamento dell'offerta di STEEM sarà insignificante in confronto alla volatilità e ad altre commissioni di mercato.
 </p>
 
 <h3>
