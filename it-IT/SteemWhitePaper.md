@@ -820,7 +820,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  Visto che tutti ne traggono beneficio, tutti dovrebbero pagare. In altre parole, nessun utente singolo dovrebbe aspettarsi di pagare per qualsiasi cosa, ma invece, dovrebbe essere pagato per tutto quello che fa quando questo apporta valore a Steem. Tutto quello che abbiamo bisogno di fare è constatare quali contribuzioni dell'utente apportano un valore sociale della rete e quali invece no.
+  Visto che tutti ne traggono beneficio, tutti dovrebbero pagare. In altre parole, nessun utente singolo dovrebbe aspettarsi di pagare per qualsiasi cosa, ma invece, dovrebbe essere pagato per tutto quello che fa quando questo apporta valore a Steem. Tutto quello che abbiamo bisogno di fare è constatare quali contribuzioni dell'utente apportano un valore sociale alla rete e quali invece no.
 </p>
 
 <p>
