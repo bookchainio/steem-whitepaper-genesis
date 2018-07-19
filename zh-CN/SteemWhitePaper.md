@@ -499,9 +499,9 @@ Ripple使用一个最小余额[^12]，该余额会根据账户使用的资源进
 
 让我们使用一个初始的预留率 200x。 由于是部分预留，这就意味着持有1%代币的人就有权要求最大区块大小2倍的交易量。 为了将攻击者的网络使用降低为25%，预留率必须降低25倍。 随之而来的就是每周都进行交易的最低账户额度要求会增加8倍。
 
-The blockchain can establish a response rate that says any sustained increase in usage should be brought down to the target capacity in within a short period of time (say 30 seconds). An attacker attempting to spam the network shouldn't be able to disrupt service for normal users for more than a minute.
+区块链可以增加一个响应率，用于将持续使用量的增加在短时间内(比如说30秒) 降低到目标容量。 试图在网络中散布垃圾信息的攻击者对正常用户的影响应该会被控制在一分钟内。
 
-While reductions in the reserve ratio must be quick and non-linear to counter abuse, increases in the reserve ratio should be slow and linear. If the network adjusted in both directions in just 30 seconds then an attacker could pulse the network. A flood of transactions should be corrected in 30 seconds and then take a hour to return to their pre-attack levels. Under this model the attacker could flood the network for 30 seconds per hour or less than 1% of the time.
+对于预留率的降低必须是快速且非线性的，以应对滥用，而预留率的增长则应是缓慢和线性的。 如果网络在两个方向的调整都可在30秒内完成，攻击者可以用脉冲方式进行攻击。 A flood of transactions should be corrected in 30 seconds and then take a hour to return to their pre-attack levels. Under this model the attacker could flood the network for 30 seconds per hour or less than 1% of the time.
 
 There must be a slow constant upward pressure on the reserve ratio any time network usage is below 50% until the network hits the maximum reserve ratio. The maximum reserve ratio determines the minimum required stake to flood the network in short bursts.
 
