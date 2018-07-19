@@ -368,7 +368,7 @@ Hiện nay công nghệ Blockchain chủ yếu dựa vào các phí giao dịch 
 
 ## Các vấn đề liên quan đến chi phí
 
-Nền tảng Blockchain là mạng lưới phi tập trung trong đó tất cả các giao dịch đều được minh bạch đến các hệ thống khác. Một nền tảng được tạo ra bao gồm một vài hoặc nhiều giao dịch đang trong quá trình xử lý. Tất cả nền tảng blockchain phải tìm một giải pháp nào đó nhằm ngăn chặn những người dùng sử dụng hết dung lượng có sẵn trong hệ thống để thực hiện các giao dịch không có giá trị nào. Những cuộc giao dịch không có giá trị này có thể ngăn cản quá trình xử lý của những giao dịch có giá trị khác và cuối cùng hậu quả là có thể phá hủy cả hệ thống.
+Nền tảng Blockchain là mạng lưới phi tập trung trong đó tất cả các giao dịch đều được minh bạch đến các hệ thống khác. Một nền tảng được tạo ra bao gồm một vài hoặc nhiều giao dịch đang trong quá trình xử lý. Những người lợi dụng việc sử dụng dung lượng có sẵn trong hệ thống để thực hiện các giao dịch không có giá trị đều bị blockchain ngăn chặn. Những cuộc giao dịch không có giá trị này có thể gây cản trở việc thực hiện những giao dịch có giá trị khác và cuối cùng hậu quả là phá hủy cả hệ thống.
 
 Sẽ phải trả một chút phí giáo dịch để có thể sử dụng những giải pháp phù hợp với nền tảng blockchain. Một khoản phí chỉ tốn vài xu thôi nhưng cũng đủ để ngăn chặn một cuộc tấn công mạng mà có thể gây ra những tổn thất nặng nề. Trong lúc tìm cách giải quyết vấn đề tấn công mạng như Spam thì lại phát sinh một vấn đề mới. Hãy thử hình dung khi mọi người sử dụng thư điện tử (email) nhưng sẽ phải trả một khoản phí để ngăn chặn spam , vậy thì sẽ chẳng ai muốn dùng email nữa.
 
