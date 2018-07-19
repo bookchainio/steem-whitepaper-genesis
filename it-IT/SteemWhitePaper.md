@@ -836,7 +836,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone's actions so everyone should pay or no one should pay, depending on how you look at it.
+  Tutti questi approcci sono riconducibili ai micropagamenti. Essi differiscono solo su chi sta effettuando il pagamento. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone's actions so everyone should pay or no one should pay, depending on how you look at it.
 </p>
 
 <p>
