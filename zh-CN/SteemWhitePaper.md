@@ -497,7 +497,7 @@ Ripple使用一个最小余额[^12]，该余额会根据账户使用的资源进
 
 使用频率的限制要求网络必须能够快速的调整预留率，以减轻攻击者对网络的负面影响。 我们假定攻击者账户余额很大，比如说是整个代币的1%。 我们同时假定网络的目标利用率为50%，持续攻击者应该会发现这个用户只能使用整个网络容量的25%，其余所有用户在使用另外的25%容量。 换句话说，即使是拥有SP最多的单一用户也不能使用目标容量的50%，除非该用户拥有整个网络SP总和的50%。
 
-让我们使用一个初始的预留率 200x。 Due to fractional reserves, this means someone holding 1% of the tokens has the right to demand transactions totalling 2x the maximum block size. In order to bring the network usage of the attacker down to 25% the reserve ratio would have to fall to 25x. This would cause the minimum balance required to transact once per week to grow by 8x.
+让我们使用一个初始的预留率 200x。 由于是部分预留，这就意味着持有1%代币的人就有权要求最大区块大小2倍的交易量。 为了将攻击者的网络使用降低为25%，预留率必须降低25倍。 随之而来的就是每周都进行交易的最低账户额度要求会增加8倍。
 
 The blockchain can establish a response rate that says any sustained increase in usage should be brought down to the target capacity in within a short period of time (say 30 seconds). An attacker attempting to spam the network shouldn't be able to disrupt service for normal users for more than a minute.
 
