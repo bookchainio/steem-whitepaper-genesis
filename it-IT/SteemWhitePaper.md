@@ -828,11 +828,11 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <h2>
-  No Micropayments, Tips Optional
+  Nessun micropagamento, mance opzionali
 </h2>
 
 <p>
-  Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Many services have attempted to introduce tipping. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content's ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
+  I tentativi esistenti volti ad integrare una criptovaluta in una piattaforma di social media, si sono focalizzati nel permettere gli utenti di pagarsi a vicenda. Molti servizi hanno tentato di introdurre la possibilità di dare le mance. L'ipotesi è che se rendiamo il dare le mance abbastanza semplice, allora più persone lo faranno. Altri servizi tentano di portare le persone a pagare per promuovere o incrementare la posizione, e quindi la visibilità, dei loro contenuti. Altri tentano ancora di costruire piccole predizioni di mercato su quante mance riceverà un articolo.
 </p>
 
 <p>
