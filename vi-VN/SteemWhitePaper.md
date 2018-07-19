@@ -378,7 +378,7 @@ Một vấn đề mấu chốt xảy ra trong việc trả phí giao dịch là 
 
 Hãy thử tưởng tượng hằng ngày chúng ta sử dụng một trang mạng (website) nào đó nhưng họ lại đòi chúng ta phải trả phí mỗi khi chúng ta muốn thay đổi mật khẩu cho tài khoản của mình. Rõ ràng là người dùng luôn muốn được miễn phí. Nếu đưa người dùng vào tình huống cân nhắc việc thực hiện một hoạt động trả phí nào đó sẽ khiến họ rời bỏ hệ thống.
 
-> Khi một cuộc giao dịch mà người dùng phải đắn đo suy nghĩ có nên thực hiện hay không thì đó là một giao dịch sẽ chẳng có giá trị gì nhiều, nhưng một cuộc giao dịch được người dùng quyết định thực hiện ngay lập tức thì sẽ có một chút giá trị. Khi đưa ra bất ký quyết định mua cái gì, dù to hay nhỏ mà cảm thấy phân vân thì đấy không phải là do không gian hay thời gian mà là do sự quyết đoán.  
+> Khi một giao dịch khiến người dùng đắn đo suy nghĩ có nên thực hiện hay không thì chẳng có giá trị gì nhiều, nhưng một cuộc giao dịch được người dùng quyết định thực hiện ngay lập tức thì sẽ có một chút giá trị. Khi đưa ra bất ký quyết định mua cái gì, dù to hay nhỏ mà cảm thấy phân vân thì đấy không phải là do không gian hay thời gian mà là do sự quyết đoán.  
 > Hệ thống thanh toán vi mô cũng giống như các hình thức thanh toán khác đều làm cho người dùng phải cân nhắc và so sánh kiểu như " X có nhiều giá trị hơn hay Y có nhiều giá trị hơn?". Thực tế này tạo ra sự đấu tranh tư tưởng. Bởi vì chỉ những giao dịch miễn phí mới khiến cho người dùng thực hiện ngay mà không cần phải đắn đo suy nghĩ.
 > 
 > *Clay Shirky - Câu chuyện về cái xô đựng cua[^6]*
