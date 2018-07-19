@@ -501,11 +501,11 @@ Ripple使用一个最小余额[^12]，该余额会根据账户使用的资源进
 
 区块链可以增加一个响应率，用于将持续使用量的增加在短时间内(比如说30秒) 降低到目标容量。 试图在网络中散布垃圾信息的攻击者对正常用户的影响应该会被控制在一分钟内。
 
-对于预留率的降低必须是快速且非线性的，以应对滥用，而预留率的增长则应是缓慢和线性的。 如果网络在两个方向的调整都可在30秒内完成，攻击者可以用脉冲方式进行攻击。 A flood of transactions should be corrected in 30 seconds and then take a hour to return to their pre-attack levels. Under this model the attacker could flood the network for 30 seconds per hour or less than 1% of the time.
+对于预留率的降低必须是快速且非线性的，以应对滥用，而预留率的增长则应是缓慢和线性的。 如果网络在两个方向的调整都可在30秒内完成，攻击者可以用脉冲方式进行攻击。 大量的交易会在30秒内被更正，之后需要一个小时来恢复到攻击前的状态。 在这个模型下，在每个小时内，攻击者只有30秒或者1%的时间可以对网络进行洪水攻击，
 
-There must be a slow constant upward pressure on the reserve ratio any time network usage is below 50% until the network hits the maximum reserve ratio. The maximum reserve ratio determines the minimum required stake to flood the network in short bursts.
+每当网络使用率低于50%时，预留率必须进行缓慢上升，直到网络达到了最大预留率。 最大预留率决定了在短期内对网络进行洪水攻击需要的最小股份。
 
-Any user with fewer than TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) will be unable to produce enough transactions to fill even a single block. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
+对于任何持有小于TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) 代币的用户，他们甚至都没有能力产生足够的交易来填满一个单一的块。 With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
 
 ### Effectiveness Relative to Fees
 
