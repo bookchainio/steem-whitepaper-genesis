@@ -768,31 +768,31 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  Dell'aumento annuale del 100% della fornitura virtuale di STEEM, il 5% di esso è sotto forma di Steem Dollars (SMD). SMD rappresenta un impegno per creare un valore in dollari di STEEM in futuro e non incide sulla quantità di STEEM presente oggi sul mercato. Il cambio nel rapporto debito / proprietà può avere un impatto sul valore percepito di STEEM, ma non indica direttamente una diminuzione del valore di STEEM. If the value of Steem rises over time, then the amount of STEEM that may be created in the future will be less and the corresponding "inflation" never actually happened.
+  Dell'aumento annuale del 100% della fornitura virtuale di STEEM, il 5% di esso è sotto forma di Steem Dollars (SMD). SMD rappresenta un impegno per creare un valore in dollari di STEEM in futuro e non incide sulla quantità di STEEM presente oggi sul mercato. Il cambio nel rapporto debito / proprietà può avere un impatto sul valore percepito di STEEM, ma non indica direttamente una diminuzione del valore di STEEM. Se il valore di Steem aumenta nel tempo, allora, la quantità di STEEM che potrebbe essere creata in futuro sarà inferiore e, la corrispondente "inflazione", sarà come se non fosse mai realmente avvenuta.
 </p>
 
 <p>
-  Tutto sommato, la "spesa" totale che Steem sostiene per finanziare i contenuti, la cura, il mining e i le ricompense in liquidità, ammonta solo al 10% del tasso percentuale annuo o all'1,2% al mese. Lo stesso trasferimento di ricchezza potrebbe essere realizzato senza alcun cambiamento nell'offerta di STEEM, implementando un tasso di interesse negativo sullo STEEM liquido di circa il 10% al mese. Stated another way, it could be implemented by charging a 3% fee (similar to credit cards) on every transfer and having 1% of all STEEM transferred every single day. The Bitcoin network transfers<fnref target="19" /> 400,000 BTC out of 15.5M (or 2.5% daily).
+  Tutto sommato, la "spesa" totale che Steem sostiene per finanziare i contenuti, la cura, il mining e i le ricompense in liquidità, ammonta solo al 10% del tasso percentuale annuo o all'1,2% al mese. Lo stesso trasferimento di ricchezza potrebbe essere realizzato senza alcun cambiamento nell'offerta di STEEM, implementando un tasso di interesse negativo sullo STEEM liquido di circa il 10% al mese. In altre parole, potrebbe essere attuato addebitando una commissione del 3% (simile alle carte di credito) su ogni trasferimento e avendo l'1% di tutti gli STEEM trasferiti ogni singolo giorno. La rete del Bitcoin trasferisce<fnref target="19" /> 400,000 BTC su 15,5 milioni (o il 2,5% al giorno). Lo scopo dello STEEM liquido è di facilitare i cambiamenti di proprietà tra i detentori a lungo termine.
 </p>
 
 <p>
-  The purpose of liquid STEEM is to facilitate changes in ownership between long-term holders. It is this change in ownership that the network "taxes" to fund growth. This transfer tax can be avoided almost completely by automatically selling STEEM for SMD every week as the network converts SP back to STEEM. The total time spent holding STEEM will be so small that any impact of changing STEEM supply will be insigni cant next to volatility and other market fees.
+  The purpose of liquid STEEM is to facilitate changes in ownership between long-term holders. È questo cambiamento nella proprietà che la rete "tassa" per finanziare la crescita. Questa tassa di trasferimento può essere evitata quasi completamente vendendo automaticamente STEEM per SMD ogni settimana mentre la rete riconverte lo SP in STEEM. Il tempo totale trascorso detenendo lo STEEM sarà così breve che qualsiasi impatto del cambiamento dell'offerta di STEEM sarà insignificante in confronto alla volatilità e ad altre commissioni di mercato.
 </p>
 
 <h3>
-  Impact of Token Creation Rate Greater than Ninety-Percent
+  Impatto del tasso di creazione di token superiore al novanta percento
 </h3>
 
 <p>
-  As of May 1, 2016, over 98.49% of all STEEM has been converted to SP. This demonstrates that demand to hold long term dominates. In this environment both liquid STEEM and SP are diluted to fund rewards.
+  A partire dall' 1 maggio 2016, oltre il 98,49% di tutti gli STEEM è stato convertito in SP. Ciò dimostra che la domanda di detenere a lungo termine, domina In questo ambiente, sia gli STEEM liquidi che lo SP vengono diluiti per finanziare le ricompense.
 </p>
 
 <p>
-  For the first 2 years of Bitcoin's life the network sustained an annual inflation rate<fnref target="20" /> of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. According to the tool for estimating future inflation included with the Steem source code, Steem by contrast will achieve an instantaneous annual rate of approximately 12% after just 1 year (not including the effects of SMD operations).
+  Per i primi due anni di vita del Bitcoin, la rete ha sostenuto un tasso di inflazione annuo<fnref target="20" /> di oltre il 100%. Per i primi 5 anni è stata di oltre il 30% e, per i primi 8 anni è stata di oltre il 10%. Secondo lo strumento per stimare l'inflazione futura inclusa con il codice sorgente di Steem, Steem, al contrario, raggiungerà un tasso istantaneo annuo di circa il 12% dopo solo un anno (escludendo gli effetti delle operazioni SMD).
 </p>
 
 <h3>
-  Accounting In Steem
+  Contabilità In Steem
 </h3>
 
 <p>
