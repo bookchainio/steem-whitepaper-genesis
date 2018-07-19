@@ -409,7 +409,7 @@ ISP đưa ra hai lựa chọn, chạy hệ thống dự trữ toàn phần và h
 
 Khi chạy hệ thống dự trữ tỷ lệ thì mỗi cá nhân có thể sử dụng nhiều băng thông hơn so với lượng băng thông họ được hưởng tại thời điểm đó, miễn là không phải tất cả mọi người sử dụng Internet cùng một lúc. Có một nhược điểm khi chay hệ thống dự trữ tỷ lệ là nếu có quá nhiều người sử dụng Internet cùng một lúc thì sẽ bị nghẽn mạng. Trong thời gian nghẽn mạng ISP cần tìm cách để ưu tiên băng thông. Trường hợp xấu nhất là khi mạng bị nghẽn hoàn toàn thì sẽ được chuyển sang chạy hệ thống dự trữ toàn phần. Vấn đề khó khăn là cần cài đặt tỷ lệ dự trữ tỷ lệ sao cho tương thích.
 
-## Bandwidth Instead of Micropayment Channels
+## Băng thông thay thế thanh toán vi mô
 
 The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
 
