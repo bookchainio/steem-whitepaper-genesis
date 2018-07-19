@@ -399,7 +399,7 @@ Theo thời gian thì một hệ thống cần phải thay đổi về các kho�
 
 Để ngăn chặn Spam những website theo mô hình tập trung đã sử dụng các giải pháp như giới hạn tốc độ và xác mình ID bằng các hình thức khác nhau. Thậm chí một thao tác đơn giản như reCAPTCHA [^9] cũng có thể hạn chế việc tạo các tài khoản giả mạo. Những website tập trung sẽ chặn những tài khoản bị lạm dụng.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. Thực tế điểm mạnh của công nghệ blockchain là người dùng không chịu sự kiểm duyệt gắt gao.
 
 ### Full Reserve vs Fractional Reserve
 
