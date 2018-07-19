@@ -796,35 +796,35 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </h3>
 
 <p>
-  The increase in the supply of STEEM is mostly an accounting artifact created by the desire to avoid charging negative interest rates on liquid STEEM. Negative interest rates would complicate the lives of exchanges which would have to adjust user balances to account for the negative rate of return of STEEM held on deposit. Mirroring the blockchain logic exactly would be error prone and complicate integration and adoption. Therefore, STEEM has chosen to never charge someone's account, but instead to increase supply. This achieves a similar economic result without forcing everyone accepting STEEM deposits to implement negative interest rates on their internal ledger.
+  L'aumento dell'offerta di STEEM è soprattutto un artefatto contabile creato dal desiderio di evitare di addebitare tassi di interesse negativi sullo STEEM liquido. I tassi di interesse negativi complicherebbero le vite degli exchange che dovrebbero adeguare i saldi degli utenti per tenere conto del tasso di rendimento negativo di STEEM detenuti in deposito. Rispecchiare esattamente la logica della blockchain sarebbe soggetto a errori e complicherebbe l'integrazione e l'adozione. Pertanto, STEEM ha scelto di non addebitare mai l'account di qualcuno, ma di aumentare invece l'offerta. Ciò raggiunge un risultato economico simile senza costringere tutti ad accettare i depositi STEEM per implementare i tassi di interesse negativi sul loro libro mastro interno.
 </p>
 
 <p>
-  A side effect of increasing the supply is that the network will require ever increasing levels of precision in its accounting. On average the number of bits required to represent a typical account will grow by 1.3 per year. It will only take 10 years before numbers involved no longer fit within the 53 bit precision supported by JavaScript or the 64 bit precision supported by CPUs. Over time the magnitude of the numbers involved grows beyond human scale and comprehension; furthermore, the least significant bits have so little economic value as to render them meaningless.
+  Un effetto collaterale di aumentare l'offerta è che la rete richiederà livelli di precisione sempre maggiori nella sua contabilità. In media il numero di bit necessari per rappresentare un account tipico, crescerà di 1,3 all'anno. Ci vorranno solo 10 anni prima che i numeri coinvolti non rientrino più nella precisione a 53 bit supportata da JavaScript o nella precisione a 64 bit supportata dalle CPU. Nel corso del tempo l'entità dei numeri coinvolti cresce oltre la scala umana e la comprensione; inoltre, i bit meno significativi hanno un così basso valore economico da renderli privi di significato. Per compensare la sempre crescente precisione, la rete STEEM esegue una "divisione inversa" di 10: 1 ogni 32.000.000 blocchi (circa 3 anni).
 </p>
 
 <p>
-  In order to compensate for the ever increasing precision, the STEEM network performs a 10:1 "reverse split" every 32,000,000 blocks (about 3 years). At this point in time all balances of STEEM are divided by 10 and all prices are multiplied by 10. Cryptocurrency exchanges will have to suspend trading around this time and update the account balances and price history to reflect the "reverse split" before resuming trading.
+  Per compensare la sempre crescente precisione, la rete STEEM esegue una "divisione inversa" di 10: 1 ogni 32.000.000 blocchi (circa 3 anni). In questo momento tutti i saldi di STEEM vengono divisi per 10 e tutti i prezzi vengono moltiplicati per 10. Gli exchange di criptovalute dovranno sospendere il trading in questo periodo e aggiornare i saldi dei conti e la cronologia dei prezzi per rispecchiare la "divisione inversa" prima di riprendere il trading.
 </p>
 
 <p>
-  All rounding errors will be in favor of the network. Every balance may lose up to 0.009 STEEM due to rounding, but this amount of STEEM should be economically insignificant. Collectively all holders of SP will lose at most 0.009 STEEM.
+  Tutti gli errori di arrotondamento saranno a favore della rete. Ogni saldo può perdere fino a 0,009 STEEM a causa dell'arrotondamento, ma questa quantità di STEEM dovrebbe essere economicamente insignificante. Collettivamente tutti i possessori di SP perderanno al massimo 0.009 STEEM.
 </p>
 
 <h1>
-  The Power of Steem
+  Il potere di Steem
 </h1>
 
 <p>
-  Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+  Steem riconosce che il valore di tutte le contribuzioni da parte degli utenti (articoli e voti), è maggiore rispetto alla somma delle parti. Un singolo commento vale quasi nulla ma, milioni di articoli accurati valgono tanti milioni (o addirittura possibili miliardi) di dollari. Un singolo voto fornisce un piccolo valore di cura ma, miliardi di voti, sono una cura molto efficace. I contenuti senza la cura sono di un valore limitato. Dati tutti i contenuti di Internet meno i collegamenti tra loro, Google combatterebbe per produrre risultati di ricerca utili. Sono i collegamenti tra le informazioni che gli conferiscono un valore significativo.
 </p>
 
 <p>
-  Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don't.
+  Visto che tutti ne traggono beneficio, tutti dovrebbero pagare. In altre parole, nessun utente singolo dovrebbe aspettarsi di pagare per qualsiasi cosa, ma invece, dovrebbe essere pagato per tutto quello che fa quando questo apporta valore a Steem. Tutto quello che abbiamo bisogno di fare è constatare quali contribuzioni dell'utente apportano un valore sociale della rete e quali invece no.
 </p>
 
 <p>
-  Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million<fnref target="21" /> and $4 billion<fnref target="22" /> which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year's worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
+  Nell'insieme, gli utenti di Reddit, votano 220 volte al secondo e producono 23 articoli al secondo. Reddit è valutato tra i $500 milioni<fnref target="21" /> e i $4 miliardi<fnref target="22" /> il che significa che ciascun voto dato e ciascun articolo, valgono tra i $0,06 e i $0,50 supponendo che, il valore di Reddit sia per la maggior parte corrispondente all'attività eseguita entro la fine dello scorso anno. Qualcuno potrebbe sostenere che la maggior parte del valore di Reddit sia dato dalle discussioni in tempo reale che si sono verificate entro la fine della settimana scorsa, il che aumenterebbe notevolmente il valore della nuova attività. Le persone vanno dove le altre si trovano oggi e non dove erano l'anno scorso.
 </p>
 
 <h2>
