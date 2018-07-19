@@ -411,7 +411,7 @@ Khi chạy hệ thống dự trữ tỷ lệ thì mỗi cá nhân có thể sử
 
 ## Băng thông thay thế thanh toán vi mô
 
-*Dự trữ tỷ lệ động * chính là giải pháp cho các vẫn đề còn tồn tại của thanh toán vi mô. Theo mô hình này khi bị nghẽn mạng nền tảng Blockchain sẽ tự động điều chỉnh tỷ lệ dự trữ trong hệ thống. Khi dùng băng thông Blockchain đặt ra giới hạn nhằm giữ lại lượng băng thông nhất định phòng khi nghẽn mạng xảy ra. Bất cứ khi nào nghẽn mạng blockchain sẽ giảm thiểu tối đa băng thông mỗi lần chia sẻ. Khi giải quyết xong nghẽn mạng mà còn dư thừa băng thông blockchain có thể từ từ tăng lượng băng thông mỗi lần chia sẻ.
+*Dự trữ tỷ lệ động * chính là giải pháp cho các vẫn đề còn tồn tại của thanh toán vi mô. Theo mô hình này khi bị nghẽn mạng nền tảng Blockchain sẽ tự động điều chỉnh tỷ lệ dự trữ trong hệ thống. Khi dùng băng thông Blockchain đặt ra giới hạn nhằm giữ lại lượng băng thông nhất định phòng khi nghẽn mạng xảy ra. Bất cứ khi nào nghẽn mạng Blockchain sẽ giảm thiểu tối đa băng thông mỗi lần chia sẻ. Khi giải quyết xong nghẽn mạng mà còn dư thừa băng thông Blockchain có thể từ từ tăng lượng băng thông mỗi lần chia sẻ.
 
 Mỗi cá nhân khi sử dụng băng thông cần tính toán sao cho có thể duy trì lâu dài và chuyển đổi thời gian sử dụng một cách hợp lý. Người dùng có thói quen đăng nhập vào hệ thống và làm nhiều thao tác cùng một lúc, sau đó thoát. Như thế trong một khoảng thời gian ngắn băng thông của họ sẽ bị sử dụng quá nhiều so với việc họ chia đều các thao tác của mình cho những lần đăng nhập sau. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
 
