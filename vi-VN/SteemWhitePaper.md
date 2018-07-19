@@ -263,7 +263,7 @@ Các biểu đồ trên cho thấy "voting power" của người dùng bị gi�
 
 Biểu đồ này cho thấy những thay đổi về thời hạn bỏ phiếu sau khi các phiếu bầu thuận và nghịch mới được thông qua. Cuộc bỏ phiếu mới sẽ kéo dài thời hạn thanh toán, còn bao lâu thì điều đó còn tùy thuộc vào số phiếu bầu mới và tỷ lệ phiếu bầu đã được bỏ phiếu. Trong giờ thứ 40, một số lượng lớn phiếu bầu mới đã được thêm vào, dẫn đến việc phải gia hạn thời gian bỏ phiếu thêm 12 tiếng. Những phiếu bầu nhỏ được bỏ phiếu ở giai đoạn sau sẽ có tác động ít hơn nhiều so với số phiếu ở giai đoạn trước trong thời gian bỏ phiếu.
 
-### Payout Distribution
+### Sự phân phối các khoản thanh toán
 
 ![](\img_the_new_marketplace.png)
 
