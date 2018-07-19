@@ -387,17 +387,17 @@ Trong mạng lưới thanh toán tài chính, người dùng sẵn sàng trả p
 
 Một số những hệ thống như BitShares, Nxt, Ripple, Counter Party và Stellar đều lấy phí của người dùng khi họ muốn đặt lệnh trên nền tảng blockchain. Sau đó nếu người dùng muốn hủy lệnh thì họ lại phải trả thêm một khoản phí khác. Những hệ thống như Ethereum đều dùng hệ thống thanh toán vi mô để tính phí cho tất cả các mức độ khi thực hiện giao dịch. Tất cả những hệ thống này đều cạnh tranh nhau nhằm thu hút những người dùng mới với cùng một mục đích là kéo những người sử dụng Google sang sử dụng công cụ tìm kiếm phi tập trung và họ sẽ tính phí cho mỗi lần tìm kiếm đấy. Cho dù dịch vụ có tốt như thế nào đi nữa thì cái người dùng quan tâm nhất chính là được miễn phí. This is true even if a user ends up paying more overall under a different fee structure.
 
-### Chi phí chính là một rào cản khi tham gia một cộng đồng nào đó
+### Chi phí là một rào cản khi tham gia một cộng đồng
 
-Bất kể một chi phí nào cũng tạo ra một rào cản cho những người dùng mới. Để được tham gia vào nền tảng Ethereum người dùng phải có một số lượng "token" ETH nhất định. Những ai muốn xây dựng những ứng dụng trên nền tảng Ethereum thì cũng phải trả một khoản phí cho những khách hàng của họ. Đầu tư vào một loại đồng tiền điện tử không hề dễ dàng và sẽ chẳng có ý nghĩa gì mấy khi đồng tiền đấy có giá trị dưới $10. Điều này đồng nghĩa với việc một ứng dụng phi tập trung mới ra đời muốn thu hút người dùng thì trước tiên phải có giá trị $10.
+Bất kể một chi phí nào cũng tạo ra một rào cản cho những người dùng mới. Để được tham gia vào nền tảng Ethereum người dùng phải có một số lượng "token" ETH nhất định. Những ai muốn xây dựng những ứng dụng phi tập trung trên nền tảng Ethereum thì cũng phải trả một khoản phí cho những khách hàng của họ. Đầu tư vào một loại đồng tiền điện tử không hề đơn giản nhất là với số vốn dưới 10$. Điều này đồng nghĩa với việc khi người dùng muốn trải nghiệm một ứng dụng phi tập trung mới thì số vốn tối thiểu phải là $10.
 
 ### Sự thay đổi về các khoản phí
 
-Theo thời gian thì một hệ thống cần phải thay đổi về các khoản phí. Sự thay đổi này có thể xảy ra do token tăng giá trị hoặc số lượng token. Người dùng muốn biết chính xác những chi phí cũng như được hưởng một dịch vụ tốt và đảm bảo cho họ. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Theo thời gian thì một hệ thống cần phải thay đổi về các khoản phí. Sự thay đổi này có thể xảy ra do token tăng giá trị hoặc tăng số lượng token. Người dùng muốn biết chính xác những chi phí họ phải bỏ ra cũng như được hưởng một dịch vụ tốt và đảm bảo cho họ. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
 
 ### Thủ thuật "Tấn công mạo nhận"
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA [^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+Để ngăn chặn Spam những website theo mô hình tập trung đã sử dụng các giải pháp như giới hạn tốc độ và xác mình ID bằng các hình thức khác nhau. Thậm chí một thao tác đơn giản như reCAPTCHA [^9] cũng có thể hạn chế việc tạo các tài khoản giả mạo. If someone abuses their account then centralized websites are free to block the account.
 
 In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
 
