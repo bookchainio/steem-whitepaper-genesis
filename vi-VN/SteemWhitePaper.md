@@ -142,7 +142,7 @@ Steem đã xây dựng được một thị trường giao dịch chuyển đổ
 
 Nếu một người dùng đã đặt lệnh mua hoặc bán trong ít nhất một phút, và khi nó được xử lý thì người đó được gọi là một nhà cung cấp thanh khoản. Nếu lệnh bị hủy trước khi nó được hoàn thành thì người dùng không được phép cung cấp thanh khoản.
 
-Người dùng phải tiếp tục cung cấp thanh khoản trên cả hai phía mua và bán của thị trường để nhận tiền thưởng. Thuật toán được biểu diễn như sau:
+Người dùng phải tiếp tục cung cấp thanh khoản trên cả hai phía mua và bán của thị trường để nhận tiền thưởng. Điểm thanh khoản được tính theo công thức như sau:
 
       Điểm thanh khoản = Số lượng mua vào x Số lượng bán ra
     
