@@ -147,7 +147,7 @@ Người dùng phải tiếp tục cung cấp thanh khoản trên cả hai phía
       Điểm thanh khoản = Số lượng mua vào x Số lượng bán ra
     
 
-Every hour the account with the most LiquidityPoints receives 1200 STEEM and then has its LiquidityPoints reset to 0. An account that goes a week without earning any LiquidityPoints also has its points reset to 0. This means that whether you provide a large amount of liquidity or a small amount over a long period of time everyone gets a proportional amount of the rewards. If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
+Trong mỗi tiếng, người có số điểm thanh khoản lớn nhất sẽ được thưởng 1200 STEEM và điểm thanh khoản của người đó sẽ được đặt lại về mức 0. Nếu một tài khoản trong một tuần không kiếm được bất kỳ điểm thanh khoản nào cũng sẽ được đặt lại về mức 0. Điều này có nghĩa là cho dù bạn cung cấp một lượng lớn thanh khoản tiền hoặc cung cấp thanh khoản tiền tệ dài hạn thì bạn đều sẽ nhận được một tỷ lệ phần trăm tương ứng nhất định của số tiền thưởng. If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
 
 ### Sustainable Debt to Ownership Ratios
 
@@ -664,7 +664,7 @@ Steem solves this problem by giving everyone a way to get paid for doing simple,
 
 ## Solving the Cryptocurrency Liquidation Problem
 
-Giá trị của đồng tiền phụ thuộc vào tính thanh khoản của nó. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Giá trị của đồng tiền phụ thuộc vào tính thanh khoản của đồng tiền đó. Ví dụ có thể thấy là giá trị giao dịch của đồng Bitcoin 1.00$ còn cao hơn giá trị nội tại mà nó nắm giữ. Để tham gia thực hiện giao dịch, người dùng phải tạo một tài khoản, tiến hành xác minh danh tính khách hàng (KYC) và trả phí khởi tạo. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
 
 Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
 
