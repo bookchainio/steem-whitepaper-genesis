@@ -114,7 +114,7 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
 
 وحتى إذا كان كل منتجي التحديث صادقين، فمن الممكن أن يتأثر معظمهم بأحداث خارجة عن إرادتهم. تم تصميم شبكة ستيم لتحمل الفساد على المدى القصير من متوسط تحديث السعر في حين أن المجتمع يعمل بنشاط لتصحيح هذه المسألة. أحد الأمثلة على مشكلة قد تستغرق بعض الوقت للتصحيح هي التلاعب في السوق على المدى القصير. التلاعب في السوق على المدى الطويل أمر صعب ومكلف. مثال آخر يمكن أن يكون فشل موقع تبادل مركزي أو فساد البيانات التي ينشرها موقع التبادل.
 
-يقوم Steem بحساب تقلبات الأسعار قصيرة المدى باستخدام متوسط السعر خلال فترة أسبوع واحد. يتم التحقق من متوسط الخلاصة المنشورة في أي وقت.
+يتعامل Steem مع تقلبات الأسعار قصيرة الأجل باستخدام متوسط السعر على مدار أسبوع واحد. يتم فحص الخلاصة المنشورة المتوسطة كل ساعة على مدار الساعة.
 
 As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
