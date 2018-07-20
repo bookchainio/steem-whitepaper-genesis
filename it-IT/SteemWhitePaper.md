@@ -853,7 +853,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
   </p>
   
   <p>
-    <em>- Micropayments: A Viable Business Model <fnref target="23" /></em>
+    <em>-Micropagamenti: un modello aziendale redditizio<fnref target="23" /></em>
   </p>
 </blockquote>
 
@@ -878,7 +878,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  Un social network può massimizzare il valore ricavato da una serie di contenuti massimizzando la quantità e la qualità delle connessioni. Curare i contenuti è costoso e dispendioso in termini di tempo, mentre per i computer è quasi impossibile operare in assenza di collegamenti. Steem rewards users who are among the first to find and link to new content.
+  Un social network può massimizzare il valore ricavato da una serie di contenuti massimizzando la quantità e la qualità delle connessioni. Curare i contenuti è costoso e dispendioso in termini di tempo, mentre per i computer è quasi impossibile operare in assenza di collegamenti. Steem premia gli utenti che sono tra i primi a scoprire e identificare un nuovo contenuto.
 </p>
 
 <p>
@@ -910,19 +910,19 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SMD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+  I commercianti accetteranno qualsiasi valuta se questa aumenterà le sue vendite. Avere una base di utenza ampia con una valuta stabile come l'SMD, abbassa la barriera all'ingresso per gli esercenti. La presenza degli esercenti migliora il sistema attraverso la creazione di una svolta per gli utenti che escono dal sistema senza incorrere nel problema di usare un exchange.
 </p>
 
 <p>
-  Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through tipping others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+  Un altro modo con il quale le persone possono liquidare le piccole quantità di cripovaluta che ricevono dal partecipare sulla piattaforma di Steem, è dando la mancia agli altri. È come lasciare il poco resto come una mancia per il tuo cameriere. Quando abbastanza persone lasciano piccole mance, sommandosi si raggiunge un importo significativo. Sia tu che il tuo cameriere, ottenete un beneficio dalla mancia.
 </p>
 
 <h2>
-  Censorship
+  Censura
 </h2>
 
 <p>
-  Steem is a decentralized network that is operated by miners in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+  Steem è una rete decentralizzata che è gestita dai minatori nei paesi di tutto il mondo. Tutti gli utenti vengono registrati pubblicamente nella blockchain e, pubblicamente, possono essere verificati. Questo significa che non c'è un'unica entità che possa censurare un contenuto che viene valutato dai possessori di STEEM.
 </p>
 
 <p>
