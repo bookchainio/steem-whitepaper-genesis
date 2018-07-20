@@ -72,7 +72,7 @@
 
 ## ستيم(STEEM)
 
-Steem هو وحدة الحساب الأساسية في ستيم بلوكشين. وتستمد جميع العملات الرمزية الأخرى قيمتها من قيمة ستيم. وبصفة عامة ينبغي أن يُقبض STEEM لفترات قصيرة من الوقت عندما تكون السيولة مطلوبة. شخص يريد الدخول أو الخروج من منصة Steem يتطلب منه شراء أو بيع STEEM. Once STEEM has been purchased it should be converted into SP or SMD to mitigate the impact of dilution over the long-term.
+Steem هو وحدة الحساب الأساسية في ستيم بلوكشين. وتستمد جميع العملات الرمزية الأخرى قيمتها من قيمة ستيم. وبصفة عامة ينبغي أن يُقبض STEEM لفترات قصيرة من الوقت عندما تكون السيولة مطلوبة. شخص يريد الدخول أو الخروج من منصة Steem يتطلب منه شراء أو بيع STEEM. بمجرد شراء STEEM ، يجب تحويله إلى SP أو SMD لتقليل تأثير التخفيف على المدى الطويل.
 
 STEEM يتزايد في العرض باستمرار بنسبة 100% في السنة بسبب عدم وجود تحفيو لـ SMD. Someone who holds STEEM without converting it to SP is diluted by approximately 0.19% per day. While the rate may appear high, for transactions that take less than 10 days, it is still cheaper than credit card processing fees. Furthermore, the daily token creation is insignificant next to the daily volatility.
 
@@ -134,7 +134,7 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
 
 ### السيولة
 
-فقط لأن SMD يمكن تحويله إلى قيمة STEEM بالدولار ، بسعر عادل في فترة زمنية معقولة ، لا يعني أنه سيعتبر بديلا موثوقا للدولار. تحتاج هذه الأصول إلى سيولة في سوق تسمح بالتحويلات الفورية بين STEEM و SMD. The measures a blockchain is forced to take to prevent abuse end up lowering the quality of the convertible dollars. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
+فقط لأن SMD يمكن تحويله إلى قيمة STEEM بالدولار ، بسعر عادل في فترة زمنية معقولة ، لا يعني أنه سيعتبر بديلا موثوقا للدولار. تحتاج هذه الأصول إلى سيولة في سوق تسمح بالتحويلات الفورية بين STEEM و SMD. التدابير المفروضة على سلسلة الكتل لمنع سوء الاستخدام ، في نهاية المطاف تؤدي إلى خفض جودة الدولارات القابلة للتحويل. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
 
 A liquidity provider buys and sells SMD and STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
 
