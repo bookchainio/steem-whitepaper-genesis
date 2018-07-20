@@ -858,23 +858,23 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </blockquote>
 
 <p>
-  Under Steem, micropayments are paid to content producer, but those who vote for the content do not pay. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+  Secondo Steem, i micropagamenti vengono pagati ai produttori di contenuti ma, coloro che votano per i contenuti, non pagano. Instead, the cost of the reward is paid for via new tokens. Qualcuno può unirsi al sistema, votare per pagare qualcun altro e quindi, uscire dal sistema con più denaro di quello con il quale ha iniziato (supponendo che la valutazione di mercato del sistema di Steem sia rimasta costante). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
 </p>
 
 <p>
-  Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+  Inoltre, Steem paga le persone per capire chi dovrebbe essere pagato! Questo tipo di pensiero è rivoluzionario.
 </p>
 
 <h2>
-  Value is in the Links
+  Il valore è nei collegamenti
 </h2>
 
 <p>
-  The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+  Internet perderebbe la grande maggioranza del suo valore se tutti i collegamenti tra i contenuti venissero rimossi. È il rapporto tra le pagine web che permette a Google di identificare la migliore ricetta della torta di mele tra i 16 milioni di risultati. Senza i collegamenti, l'unica informazione che Google avrebbe, sarebbe la frequenza delle parole.
 </p>
 
 <p>
-  Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a link between themselves and the content. This in turn links the consumer to the producer through the content. The more links a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+  I collegamenti possono assumere varie forme e adattarsi con il tempo. Ogni volta che un utente vota un contenuto in un social network, aggiunge una connessione tra sé stesso e il contenuto. Questo a sua volta, collega il consumatore al produttore attraverso il contenuto. The more links a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
 </p>
 
 <p>
