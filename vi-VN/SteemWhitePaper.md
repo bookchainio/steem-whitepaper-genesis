@@ -132,9 +132,9 @@ Nếu mọi người có thể tự do chuyển đổi theo cả hai chiều th�
 
 Blockchain quyết định cách thức và thời điểm tạo SMD và ai sẽ nhận được nó. Điều này giúp tỷ lệ SMD trở nên ổn định và loại bỏ hầu hết các hành vi lạm dụng.
 
-### Liquidity
+### Sự luân chuyển tiền tệ
 
-Just because SMD can be converted to a dollars worth of STEEM at a fair price in a reasonable amount of time doesn't mean it will be viewed as a reliable dollar replacement. These assets require liquidity in a market that enables instantaneous conversion between STEEM and SMD. The measures a blockchain is forced to take to prevent abuse end up lowering the quality of the convertible dollars. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
+Khi tính toán giá trị của STEEM, một SMD có thể được quy đổi thành một đô la ở mức giá hợp lý và trong một khoảng thời gian nhất định, nhưng điều đó không có nghĩa là nó được xem như một loại tiền tệ mà có thể thay thế cho đồng đô la. Các loại tiền tệ này đòi hỏi phải được luân chuyển trên thị trường và được tự do chuyển đổi giữa hai đồng STEEM và SMD. The measures a blockchain is forced to take to prevent abuse end up lowering the quality of the convertible dollars. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
 
 A liquidity provider buys and sells SMD and STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
 
