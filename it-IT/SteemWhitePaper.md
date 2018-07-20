@@ -878,7 +878,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  Un social network può massimizzare il valore ricavato da una serie di contenuti massimizzando la quantità e la qualità delle connessioni. Curare i contenuti è costoso e dispendioso in termini di tempo, mentre per i computer è quasi impossibile operare in assenza di collegamenti. Steem premia gli utenti che sono tra i primi a scoprire e identificare un nuovo contenuto.
+  Un social network può massimizzare il valore ricavato da una serie di contenuti massimizzando la quantità e la qualità delle connessioni. Curare i contenuti è costoso e dispendioso in termini di tempo, mentre per i computer è quasi impossibile operare in assenza di collegamenti. Steem premia gli utenti che sono tra i primi a scoprire e a connettersi con i nuovi contenuti.
 </p>
 
 <p>
