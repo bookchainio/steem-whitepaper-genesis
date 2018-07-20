@@ -849,7 +849,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 
 <blockquote>
   <p>
-    <em>Affrontiamo già una moltitudine di scelte ogni giorno per quanto riguarda a che cosa aderire online in quest'era digitale di esplosione dell'informazione, e ogni decisione aggiuntiva che dobbiamo semplicemente prendere, aggiunge l'incertezza e l'ansia che affrontiamo. I sostenitori dei micropagamenti credono che una implementazione semplificata possa minimizzare l'invadenza dei micropagamenti e migliorare l'esperienza dell'utente ma, il loro ragionamento, crea solamente standard doppi per il processo decisionale\[2\]. Una transazione non può valere abbastanza per giustificare una decisione e contemporaneamente valere così poco da rendere la decisione automatica. <strong>Le uniche transazioni che gli utenti possono approvare senza pensarci, sono quelle che a loro costano niente</strong>, quindi, ogni micro transazione di valore positivo, incorrerà in costi mentali a causa del suo richiedere una decisione. Inoltre, i costi mentali delle transazioni, aumentano fino ad arrivare al di sotto di un determinato valore soglia, un fenomeno che pone i micropagamenti in uno svantaggio ancora maggiore. Per esempio, è facile pensare che una copia del giornale odierno costi $1, ma i lettori affrontano molta più difficoltà e ansia per decidere sul valore di ogni articolo o parola. Such a dilemma will only be replicated and exacerbated if all online content were to be broken down into their components and individually valued within a micropayment system.</em>
+    <em>Affrontiamo già una moltitudine di scelte ogni giorno per quanto riguarda a che cosa aderire online in quest'era digitale di esplosione dell'informazione, e ogni decisione aggiuntiva che dobbiamo semplicemente prendere, aggiunge l'incertezza e l'ansia che affrontiamo. I sostenitori dei micropagamenti credono che una implementazione semplificata possa minimizzare l'invadenza dei micropagamenti e migliorare l'esperienza dell'utente ma, il loro ragionamento, crea solamente standard doppi per il processo decisionale\[2\]. Una transazione non può valere abbastanza per giustificare una decisione e contemporaneamente valere così poco da rendere la decisione automatica. <strong>Le uniche transazioni che gli utenti possono approvare senza pensarci, sono quelle che a loro costano niente</strong>, quindi, ogni micro transazione di valore positivo, incorrerà in costi mentali a causa del suo richiedere una decisione. Inoltre, i costi mentali delle transazioni, aumentano fino ad arrivare al di sotto di un determinato valore soglia, un fenomeno che pone i micropagamenti in uno svantaggio ancora maggiore. Per esempio, è facile pensare che una copia del giornale odierno costi $1, ma i lettori affrontano molta più difficoltà e ansia per decidere sul valore di ogni articolo o parola. Un tale dilemma verrà solamente replicato e esasperato se tutti i contenuti online venissero ripartiti nelle loro componenti e valutati individualmente attraverso un sistema di micropagamento.</em>
   </p>
   
   <p>
@@ -858,7 +858,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </blockquote>
 
 <p>
-  Secondo Steem, i micropagamenti vengono pagati ai produttori di contenuti ma, coloro che votano per i contenuti, non pagano. Instead, the cost of the reward is paid for via new tokens. Qualcuno può unirsi al sistema, votare per pagare qualcun altro e quindi, uscire dal sistema con più denaro di quello con il quale ha iniziato (supponendo che la valutazione di mercato del sistema di Steem sia rimasta costante). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+  Secondo Steem, i micropagamenti vengono pagati ai produttori di contenuti ma, coloro che votano per i contenuti, non pagano. Il costo della ricompensa invece, viene pagato attraverso nuovi token. Qualcuno può unirsi al sistema, votare per pagare qualcun altro e quindi, uscire dal sistema con più denaro di quello con il quale ha iniziato (supponendo che la valutazione di mercato del sistema di Steem sia rimasta costante). In altre parole, la soluzione del micropagamento fornita da Steem, offre una esperienza per l'utente simile a quella dei siti web ampiamente utilizzati che hanno contenuti moderati dagli utenti.
 </p>
 
 <p>
@@ -874,7 +874,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  I collegamenti possono assumere varie forme e adattarsi con il tempo. Ogni volta che un utente vota un contenuto in un social network, aggiunge una connessione tra sé stesso e il contenuto. Questo a sua volta, collega il consumatore al produttore attraverso il contenuto. The more links a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+  I collegamenti possono assumere varie forme e adattarsi con il tempo. Ogni volta che un utente vota un contenuto in un social network, aggiunge una connessione tra sé stesso e il contenuto. Questo a sua volta, collega il consumatore al produttore attraverso il contenuto. Più connessioni ha una rete, più l'informazione diventa di valore. È la reciproca e intenzionale connessione dell'informazione che gli dà valore.
 </p>
 
 <p>
@@ -882,15 +882,15 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+  Incentivando la cura, la rete di Steem è capace di utilizzare algoritmi automatici per estrarre le informazioni più preziose da un ammontare massiccio di contenuti.
 </p>
 
 <h2>
-  Solving the Cryptocurrency Onboarding Problem
+  Risolvere il problema dell'onboarding della criptovaluta
 </h2>
 
 <p>
-  It isn't easy to get into cryptocurrency<fnref target="24" /> . Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook's adoption rate have been like if you had to fork over money and a two forms of ID?
+  It isn't easy to get into cryptocurrency<fnref target="24" /> . Qualcuno che scopre il Bitcoin e vuole provarlo velocemente, impara che avrà bisogno di registrarsi in un exchange e finanziare il suo account con una carta di credito o con un bonifico bancario. What would Facebook's adoption rate have been like if you had to fork over money and a two forms of ID?
 </p>
 
 <p>
