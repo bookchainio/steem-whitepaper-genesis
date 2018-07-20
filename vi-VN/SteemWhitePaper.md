@@ -134,7 +134,7 @@ Blockchain quyết định cách thức và thời điểm tạo SMD và ai sẽ
 
 ### Sự luân chuyển tiền tệ
 
-Khi tính toán giá trị của STEEM, một SMD có thể được quy đổi thành một đô la ở mức giá hợp lý và trong một khoảng thời gian nhất định, nhưng điều đó không có nghĩa là nó được xem như một loại tiền tệ mà có thể thay thế cho đồng đô la. Các loại tiền tệ này đòi hỏi phải được luân chuyển trên thị trường và được tự do chuyển đổi giữa hai đồng STEEM và SMD. Nền tảng blockchain đã buộc phải thực hiện các biện pháp để ngăn chặn sự suy giảm giá trị của các đồng đô la được chuyển đổi do gian lận. Để bù đắp cho sự suy giảm giá trị này, nền tảng blockchain có thể cung cấp phí bảo hiểm cố định cho các nhà cung cấp thanh khoản (nhà cái). Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
+Khi tính toán giá trị của STEEM, một SMD có thể được quy đổi thành một đô la ở mức giá hợp lý và trong một khoảng thời gian nhất định, nhưng điều đó không có nghĩa là nó được xem như một loại tiền tệ mà có thể thay thế cho đồng đô la. Các loại tiền tệ này đòi hỏi phải được luân chuyển trên thị trường và được tự do chuyển đổi giữa hai đồng STEEM và SMD. Nền tảng blockchain đã buộc phải thực hiện các biện pháp để ngăn chặn sự suy giảm giá trị của các đồng đô la được chuyển đổi do gian lận. Để bù đắp cho sự suy giảm giá trị này, nền tảng blockchain có thể cung cấp phí bảo hiểm cố định cho các nhà cung cấp thanh khoản (nhà cái). Mặc dù các tổn thất do việc thao túng thị trường và gian lận có thể không có giới hạn, nhưng chi phí cho việc khuyến khích rút tiền có thể được ấn định.
 
 A liquidity provider buys and sells SMD and STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
 
@@ -364,7 +364,7 @@ Because of the constantly changing head block and network latency, forwarding a 
 
 Steem đã tạo ra một tiến bộ thực sự khi thực hiện việc trả thưởng cho những người dùng đã đóng góp xây dựng cộng đồng. Phương pháp này sẽ trở nên phản tác dụng nếu như lấy phí của họ mỗi khi họ tương tác với cộng đông.
 
-Hiện nay công nghệ Blockchain chủ yếu dựa vào các phí giao dịch trên để ngăn chặn các cuộc tấn công mạng như Spam. Những phí này sẽ được dùng để giải quyết tất cả các vẫn đề liên quan đến giao dịch vi mô và giúp blockchain không bị lạm dụng nhằm thực hiện những giao dịch có giá trị thấp. Các ứng dụng phi tập trung thường miễn phí giao dịch cho người dùng để cạnh tranh với những ứng dụng tập trung khác. Bài viết này đưa ra những giải pháp để loại bỏ các chi phí khi sử dụng Steem, đồng thời có thể mở rộng những ứng dụng phi tập trung cần thiết khác.
+Hiện nay công nghệ Blockchain chủ yếu dựa vào các phí giao dịch trên để ngăn chặn các cuộc tấn công mạng như Spam. Những phí này sẽ được dùng để giải quyết tất cả các vẫn đề liên quan đến giao dịch vi mô và giúp blockchain không bị lạm dụng nhằm thực hiện những giao dịch có giá trị thấp. Các ứng dụng phi tập trung thường miễn phí giao dịch cho người dùng để cạnh tranh với những ứng dụng tập trung khác. Bài viết này đưa ra những giải pháp để loại bỏ các chi phí khi sử dụng Steem, đồng thời có thể mở rộng những ứng dụng phi tập trung tiền đề trước đây.
 
 ## Các vấn đề liên quan đến chi phí
 
