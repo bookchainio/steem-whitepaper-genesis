@@ -112,9 +112,9 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
 
 وبالنظر إلى مجموعة من منتجي التحديث الموثوق بهم والمنتخبين، يمكن استخلاص السعر الفعلي المستخدم للتحويلات كمتوسط للتحديثات. وبهذه الطريقة إذا كانت أي أقلية من منتجي التحديث الفرديين ينتجون قيم متطرفة يكون لها تأثير ضئيل على الوسيلة الفعلية في حين لا يزال لديهم القدرة على التأثير على سمعتهم.
 
-وحتى إذا كان كل منتجي التحديث صادقين، فمن الممكن أن يتأثر معظمهم بأحداث خارجة عن إرادتهم. تم تصميم شبكة ستيم لتحمل الفساد على المدى القصير من متوسط تحديث السعر في حين أن المجتمع يعمل بنشاط لتصحيح هذه المسألة. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+وحتى إذا كان كل منتجي التحديث صادقين، فمن الممكن أن يتأثر معظمهم بأحداث خارجة عن إرادتهم. تم تصميم شبكة ستيم لتحمل الفساد على المدى القصير من متوسط تحديث السعر في حين أن المجتمع يعمل بنشاط لتصحيح هذه المسألة. أحد الأمثلة على مشكلة قد تستغرق بعض الوقت للتصحيح هي التلاعب في السوق على المدى القصير. التلاعب في السوق على المدى الطويل أمر صعب ومكلف. مثال آخر يمكن أن يكون فشل موقع تبادل مركزي أو فساد البيانات التي ينشرها موقع التبادل.
 
-Steem factors out short-term price fluctuations by using the median price over a period of one week. The median published feed is sampled every hour on the hour.
+يقوم Steem بحساب تقلبات الأسعار قصيرة المدى باستخدام متوسط السعر خلال فترة أسبوع واحد. يتم التحقق من متوسط الخلاصة المنشورة في أي وقت.
 
 As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
