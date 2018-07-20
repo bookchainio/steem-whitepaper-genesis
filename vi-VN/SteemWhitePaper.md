@@ -586,7 +586,7 @@ The overall supply picture is complicated by the effect of SMD operations, which
 
 ## Tác động của tỷ lệ tạo mã Token điện tử
 
-At first glance, 100% annual increase in the STEEM supply may appear to be hyper-inflationary and unsustainable. Those who follow the Quantity Theory of Money[^16] may even conclude that the value of STEEM must fall by approximately 5.6% per month. We know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+Thoạt nhìn, mức tăng 100% hàng năm trong nguồn cung cấp STEEM có thể có vẻ là siêu lạm phát và không bền vững. Những người tuân theo lý thuyết số lượng của Money[^16] thậm chí có thể kết luận rằng giá trị của STEEM phải giảm khoảng 5,6% mỗi tháng. We know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
 
 Because 90% of all STEEM created is distributed back to holders of SP, the result is similar to having a 2:1 "split" every year rather true inflation. The total rate of expenditures used to reward contributors is about 10% of the market capitalization per year, a rate well below what Bitcoin sustained for the first 7 years after it launched.
 
