@@ -281,9 +281,9 @@ Quyền bỏ phiếu và sự phân phối bản thanh toán này có ảnh hư�
 
 Hiệu quả kinh tế của điều này tương tự như xổ số, nơi mà mọi người đánh giá quá cao xác suất nhận được các phiếu bầu và do đó khiến họ chăm chỉ viết bài hơn trong khi giá trị tiền thưởng cho các bài đăng sẽ không được như kỳ vọng của họ. Tuy nhiên điều này sẽ giúp tối đa hóa số lượng bài đăng được cung cấp để phục vụ cộng đồng. Trong thực tế, điều đó cũng tương tự với việc các sòng bạc casino đều chơi bài tâm lý khi khiến mọi người nghĩ rằng họ sẽ kiếm được nhiều tiền hơn sau khi đã "thắng một số ván nhỏ", và điều đó giúp các song bài giữ mọi người tiếp tục tham gia vào cờ bạc. Hay nói cách khác, số tiền thưởng nhỏ sẽ giúp củng cố niềm tin rằng họ có khả năng giành được số tiền thưởng còn lớn hơn nữa.
 
-#### Rewarding Parent Posts
+#### Những bài đăng gốc đáng xem
 
-Good discussion requires back and forth posting. When you reply to someone else, they get 50% of any payout you receive in that thread. This rule applies up to 6 levels deep. Starting a big discussion greatly rewards the parent poster.
+Những cuộc thảo luận tốt đòi hỏi phải có sự tương tác qua lại bằng một loạt các câu hỏi và trả lời. Khi bạn trả lời người khác, họ sẽ nhận được 50% số tiền mà bạn nhận được từ cuộc thảo luận đó. Quy tắc này được áp dụng tới 6 lần tương tác trả lời qua lại. Khi mới bắt đầu một cuộc thảo luận thì bài đăng gốc sẽ nhận được một số tiền thưởng rất lớn.
 
 Failure to properly nest your posts in the discussion is a good way to get down voted.
 
