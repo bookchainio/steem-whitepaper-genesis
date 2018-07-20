@@ -417,7 +417,7 @@ Mỗi cá nhân khi sử dụng băng thông cần tính toán sao cho có thể
 
 Theo ước tính của chúng tôi cần đo lượng băng thông trung bình được sử dụng hàng tuần. Mỗi lần người dùng thực hiện một giao dịch được tính là một mức sử dụng băng thông trung bình của họ. Nếu người dùng sử dụng băng thông trung bình quá mức cho phép của hệ thống tại thời điểm thực hiện giao dịch thì giao dịch đấy sẽ bị dừng cho đến khi băng thông trung bình quay trở lại đúng giới hạn.
 
-### Example Implementation
+### Ví dụ minh họa
 
 Let B equal a user's average bandwidth at time T. Let W equal the number of seconds per week, and let N equal the size of the new transaction that occurred S seconds after T. Given this information the blockchain can calculate the new average bandwidth for a user as:
 
