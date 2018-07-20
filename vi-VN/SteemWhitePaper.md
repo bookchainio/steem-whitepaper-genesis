@@ -136,7 +136,7 @@ Blockchain quyết định cách thức và thời điểm tạo SMD và ai sẽ
 
 Khi tính toán giá trị của STEEM, một SMD có thể được quy đổi thành một đô la ở mức giá hợp lý và trong một khoảng thời gian nhất định, nhưng điều đó không có nghĩa là nó được xem như một loại tiền tệ mà có thể thay thế cho đồng đô la. Các loại tiền tệ này đòi hỏi phải được luân chuyển trên thị trường và được tự do chuyển đổi giữa hai đồng STEEM và SMD. Nền tảng blockchain đã buộc phải thực hiện các biện pháp để ngăn chặn sự suy giảm giá trị của các đồng đô la được chuyển đổi do gian lận. Để bù đắp cho sự suy giảm giá trị này, nền tảng blockchain có thể cung cấp phí bảo hiểm cố định cho các nhà cung cấp thanh khoản (nhà cái). Mặc dù các tổn thất do việc thao túng thị trường và gian lận có thể không có giới hạn, nhưng chi phí cho việc khuyến khích rút tiền có thể được ấn định.
 
-A liquidity provider buys and sells SMD and STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
+Một nhà cái có thể mua và bán đồng thời các đồng SMD và STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
 
 Steem has an on-blockchain market between SMD and STEEM. Users can earn rewards by providing liquidity to both sides of this market. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
 
@@ -368,9 +368,9 @@ Hiện nay công nghệ Blockchain chủ yếu dựa vào các phí giao dịch 
 
 ## Các vấn đề liên quan đến chi phí
 
-Nền tảng Blockchain là mạng lưới phi tập trung trong đó tất cả các giao dịch đều được minh bạch đến các hệ thống khác. Một nền tảng được tạo ra bao gồm một vài hoặc nhiều giao dịch đang trong quá trình xử lý. Những người lợi dụng việc sử dụng dung lượng có sẵn trong hệ thống để thực hiện các giao dịch không có giá trị đều bị Blockchain ngăn chặn. Những cuộc giao dịch không có giá trị này có thể gây cản trở việc thực hiện những giao dịch có giá trị khác và cuối cùng hậu quả là phá hủy cả hệ thống.
+Nền tảng Blockchain là mạng lưới phi tập trung trong đó tất cả các giao dịch đều được minh bạch đến các hệ thống khác. Một nền tảng được tạo ra sẽ phát sinh một vài hoặc nhiều giao dịch chờ xử lý. Những người lợi dụng dung lượng có sẵn trong hệ thống để thực hiện các giao dịch không có giá trị đều bị Blockchain ngăn chặn. Những giao dịch này có thể gây cản trở trong xử lý những giao dịch có giá trị khác và gây hậu quả phá hủy cả hệ thống.
 
-Để sử dụng những ứng dụng tương thích với nền tảng Blockchain đều phải trả phí. Một khoản phí chỉ tốn vài xu thôi nhưng cũng đủ để ngăn chặn một cuộc tấn công mạng mà có thể gây ra những tổn thất nặng nề. Trong quá trình giải quyết vấn đề tấn công mạng như Spam thì lại phát sinh một vấn đề mới. Hãy tưởng tượng mọi người còn muốn dùng email nữa không nếu phải trả một khoản phí để ngăn chặn Spam.
+Để sử dụng những ứng dụng tương thích với nền tảng Blockchain đều phải trả phí. Một khoản phí chỉ tốn vài xu nhưng đủ để ngăn chặn một cuộc tấn công mạng mà có thể gây ra những tổn thất nặng nề. Trong khi giải quyết vấn đề tấn công mạng như Spam thì phát sinh những khó khăn khác. Hãy tưởng tượng mọi người còn muốn dùng email nữa không nếu phải trả một khoản phí để ngăn chặn Spam.
 
 ### Hệ thống thanh toán vi mô không còn được sử dụng
 
