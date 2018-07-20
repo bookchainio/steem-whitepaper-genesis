@@ -405,7 +405,7 @@ Trong hệ thống phi tập trung không thể ngăn việc lưu trữ reCAPTCH
 
 Nền tảng Blockchain được ví như một nhà cung cấp dịch vụ Internet (ISP) sở hữu tất cả các loại cáp trong thị trấn và có một số lượng băng thông đủ lớn để có thể cung cấp bất cứ lúc nào. Những người dân sống trong thị trấn có thể mua cổ phần của ISP và đổi lại họ có quyền sử dụng một phần băng thông có sẵn đấy.
 
-ISP chạy hai hệ thống "dự trữ toàn phần" hoặc "dự trữ tỷ lệ". Khi chạy hệ thống dự trữ toàn phần thì người dùng chỉ được phép sử dụng số băng thông tương ứng với số cổ phiếu của mình. Hệ thống Internet của thị trấn sẽ không được sử dụng một cách tối đa bởi vì không phải ai cũng sử dụng Internet cùng một lúc.
+ISP đưa ra hai lựa chọn, chạy hệ thống dự trữ toàn phần và hệ thống dự trữ tỷ lệ. Khi chạy hệ thống dự trữ toàn phần thì người dùng chỉ được phép sử dụng số băng thông tương ứng với số cổ phiếu của mình. Hệ thống Internet của thị trấn sẽ không được sử dụng một cách tối đa bởi vì không phải ai cũng sử dụng Internet cùng một lúc.
 
 Khi chạy hệ thống dự trữ tỷ lệ thì mỗi cá nhân có thể sử dụng nhiều băng thông hơn so với lượng băng thông họ được hưởng tại thời điểm đó, miễn là không phải tất cả mọi người sử dụng Internet cùng một lúc. Có một nhược điểm khi chay hệ thống dự trữ tỷ lệ là nếu có quá nhiều người sử dụng Internet cùng một lúc thì sẽ bị nghẽn mạng. Trong thời gian nghẽn mạng ISP cần tìm cách để ưu tiên băng thông. Trường hợp xấu nhất là mạng bị nghẽn hoàn toàn thì sẽ được chuyển sang chạy hệ thống dự trữ toàn phần. Vấn đề là cài đặt dự trữ tỷ lệ sao cho tương thích.
 
@@ -470,7 +470,7 @@ We can use similar math to calculate the maximum number of unique users that the
 
 If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
 
-### Account Creation
+### Tạo tài khoản
 
 Steem's account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
 
