@@ -926,7 +926,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+  I siti web individuali come steemit.com possono censurare contenuti nel loro specifico sito, ma il contenuto pubblicato sulla blockchain viene intrinsecamente divulgato e, il traffico e la riproduzione in tutto il mondo possono continuare a renderlo disponibile.
 </p>
 
 <p>
