@@ -136,9 +136,9 @@ Blockchain quyết định cách thức và thời điểm tạo SMD và ai sẽ
 
 Khi tính toán giá trị của STEEM, một SMD có thể được quy đổi thành một đô la ở mức giá hợp lý và trong một khoảng thời gian nhất định, nhưng điều đó không có nghĩa là nó được xem như một loại tiền tệ mà có thể thay thế cho đồng đô la. Các loại tiền tệ này đòi hỏi phải được luân chuyển trên thị trường và được tự do chuyển đổi giữa hai đồng STEEM và SMD. Nền tảng blockchain đã buộc phải thực hiện các biện pháp để ngăn chặn sự suy giảm giá trị của các đồng đô la được chuyển đổi do gian lận. Để bù đắp cho sự suy giảm giá trị này, nền tảng blockchain có thể cung cấp phí bảo hiểm cố định cho các nhà cung cấp thanh khoản (nhà cái). Mặc dù các tổn thất do việc thao túng thị trường và gian lận có thể không có giới hạn, nhưng chi phí cho việc khuyến khích rút tiền có thể được ấn định.
 
-Một nhà cái có thể mua và bán đồng thời các đồng SMD và STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
+Một nhà cái có thể mua và bán đồng thời các đồng SMD và STEEM. Họ phải chịu phần lớn các rủi ro về giá ngắn hạn và rủi ro cho vay dài hạn để cung cấp cho những người tham gia khác một thị trường chất lượng để giao dịch với tần suất trao đổi mua bán cực kỳ nhiều.
 
-Steem has an on-blockchain market between SMD and STEEM. Users can earn rewards by providing liquidity to both sides of this market. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
+Steem đã xây dựng được một thị trường giao dịch chuyển đổi qua lại giữa hai đồng SMD và STEEM dựa trên nền tảng blockchain. Người dùng cũng có thể kiếm lời từ các hoạt động mua bán các loại tiền tệ này trên thị trường nếu biết tính toán đúng thời điểm. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
 
 A user is considered a liquidity provider if they leave an open order on the books for at least 1 minute and the order is eventually filled. If the order is canceled before being filled then the user is not credited with providing liquidity.
 
@@ -372,9 +372,9 @@ Nền tảng Blockchain là mạng lưới phi tập trung trong đó tất cả
 
 Để sử dụng những ứng dụng tương thích với nền tảng Blockchain đều phải trả phí. Một khoản phí chỉ tốn vài xu nhưng đủ để ngăn chặn một cuộc tấn công mạng mà có thể gây ra những tổn thất nặng nề. Trong khi giải quyết vấn đề tấn công mạng như Spam thì phát sinh những khó khăn khác. Hãy tưởng tượng mọi người còn muốn dùng email nữa không nếu phải trả một khoản phí để ngăn chặn Spam.
 
-### Hệ thống thanh toán vi mô không còn được sử dụng
+### Hệ thống thanh toán vi mô không còn hữu ích
 
-Một vấn đề mấu chốt xảy ra trong việc trả phí giao dịch là không sử dụng hệ thống thanh toán vi mô, đặc biệt là đối với người dùng có ít vốn. Khi tất cả những giao dịch đều mất phí thì nó sẽ giới hạn loại giao dịch nào được hệ thống phi tập trung xử lý. Cho dù chi phí rõ ràng là cần thiết nhưng người dùng vẫn không thấy thoải mái khi phải trả phí.
+Việc thu phí giao dịch không sử dụng hệ thống thanh toán vi mô, đặc biệt là đối với người dùng có ít vốn là điểm mấu chốt. Khi mọi giao dịch đều mất phí thì hệ thống phi tập trung sẽ giới hạn loại giao dịch nào để xử lý. Mặc dù việc trả phí là rõ ràng và cần thiết nhưng người dùng vẫn không thấy thoải mái.
 
 Hãy thử tưởng tượng hằng ngày chúng ta sử dụng một trang mạng (website) nào đó nhưng họ lại đòi chúng ta phải trả phí mỗi khi chúng ta muốn thay đổi mật khẩu cho tài khoản của mình. Rõ ràng là người dùng luôn muốn được miễn phí. Nếu đưa người dùng vào tình huống cân nhắc việc thực hiện một hoạt động trả phí nào đó sẽ khiến họ rời bỏ hệ thống.
 
