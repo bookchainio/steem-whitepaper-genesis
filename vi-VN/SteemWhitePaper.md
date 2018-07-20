@@ -393,7 +393,7 @@ Bất kể một chi phí nào cũng tạo ra một rào cản cho những ngư�
 
 ### Sự thay đổi về các khoản phí
 
-Một hệ thống cần điều chỉnh phí theo thời gian. Sự điều chỉnh này có thể dựa vào sự tăng giá hoặc tăng số lượng của token. Chi phí minh bạch và một dịch vụ đảm bảo luôn thu hút được người dùng. Trong quá trình sử dụng việc tính phí tự động có thể khiến người dùng ngày càng ít đi.
+Trong hệ thống sự tính phí có thể thay đổi theo thời gian. Sự điều chỉnh này có thể dựa vào sự tăng giá hoặc tăng số lượng của token. Chi phí minh bạch và một dịch vụ đảm bảo luôn thu hút được người dùng. Việc điều chỉnh phí tự động có thể khiến người dùng dần dần rời bỏ hệ thống.
 
 ### Thủ thuật "Tấn công mạo nhận"
 
@@ -664,7 +664,7 @@ Steem solves this problem by giving everyone a way to get paid for doing simple,
 
 ## Solving the Cryptocurrency Liquidation Problem
 
-Giá trị của đồng tiền phụ thuộc vào tính thanh khoản của đồng tiền đó. Ví dụ có thể thấy là giá trị giao dịch của đồng Bitcoin 1.00$ còn cao hơn giá trị nội tại mà nó nắm giữ. Để tham gia thực hiện giao dịch, người dùng phải tạo một tài khoản, tiến hành xác minh danh tính khách hàng (KYC) và trả phí khởi tạo. Đối với tiền tệ mã hóa, sự thay đổi về lượng không làm tăng nhiều giá trị của đồng tiền để có thể thu hút sự quan tâm của người tham gia giao dịch.
+Giá trị của đồng tiền phụ thuộc vào tính thanh khoản của đồng tiền đó. Ví dụ có thể thấy là giá trị giao dịch của đồng Bitcoin 1.00$ còn cao hơn giá trị nội tại mà nó nắm giữ. Để tham gia thực hiện giao dịch, người dùng phải tạo một tài khoản, tiến hành xác minh danh tính khách hàng (KYC) và trả phí khởi tạo. Đối với tiền tệ mã hóa, sự thay đổi về lượng không làm thay đổi nhiều về giá trị để có thể thu hút sự quan tâm của người tham gia giao dịch.
 
 Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
 
