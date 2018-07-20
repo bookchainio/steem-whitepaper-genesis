@@ -142,9 +142,9 @@ Steem đã xây dựng được một thị trường giao dịch chuyển đổ
 
 Nếu một người dùng đã đặt lệnh mua hoặc bán trong ít nhất một phút, và khi nó được xử lý thì người đó được gọi là một nhà cung cấp thanh khoản. Nếu lệnh bị hủy trước khi nó được hoàn thành thì người dùng không được phép cung cấp thanh khoản.
 
-Users must provide liquidity on both sides of the book to qualify for rewards and they must provide liquidity consistently over time. The scoring algorithm is:
+Người dùng phải tiếp tục cung cấp thanh khoản trên cả hai phía mua và bán của thị trường để nhận tiền thưởng. Thuật toán được biểu diễn như sau:
 
-      LiquidityPoints = NetBidVolume x NetAskVolume
+      Điểm thanh khoản = Số lượng mua vào x Số lượng bán ra
     
 
 Every hour the account with the most LiquidityPoints receives 1200 STEEM and then has its LiquidityPoints reset to 0. An account that goes a week without earning any LiquidityPoints also has its points reset to 0. This means that whether you provide a large amount of liquidity or a small amount over a long period of time everyone gets a proportional amount of the rewards. If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
@@ -385,9 +385,9 @@ Hãy thử tưởng tượng hằng ngày chúng ta sử dụng một trang mạ
 
 Trong mạng lưới thanh toán tài chính, người dùng sẵn sàng trả phí vì giá trị của giao dịch còn lớn hơn rất nhiều so với khoản phí bỏ ra. Trong khi những ứng dụng đầy tiềm năng trên nền tảng Blockchain tuyệt vời hơn rất nhiều so với mạng lưới thanh toàn tài chính thì người dùng lại không sẵn sàng trả phí cho những giao dịch cần thiết.
 
-Một số những hệ thống như BitShares, Nxt, Ripple, Counter Party và Stellar đều lấy phí của người dùng khi họ muốn đặt lệnh trên nền tảng Blockchain. Sau đó nếu người dùng muốn hủy lệnh thì họ lại phải trả thêm một khoản phí khác. Những hệ thống như Ethereum đều dùng thanh toán vi mô để tính phí cho tất cả các mức giao dịch. Tất cả những hệ thống này đều cạnh tranh nhau nhằm thu hút những người dùng mới với cùng một mục đích là kéo những người sử dụng Google sang sử dụng công cụ tìm kiếm phi tập trung và họ sẽ tính phí cho mỗi lần tìm kiếm đấy. Cho dù dịch vụ có tốt như thế nào đi nữa thì cái người dùng quan tâm nhất chính là được miễn phí. Thậm chí nếu tính theo một hình thức thu phí khác thì người dùng phải trả nhiều hơn.
+Một số những hệ thống như BitShares, Nxt, Ripple, Counter Party và Stellar đều lấy phí của người dùng khi họ muốn đặt lệnh trên nền tảng Blockchain. Sau đó nếu người dùng muốn hủy lệnh thì họ lại phải trả thêm một khoản phí khác. Những hệ thống như Ethereum đều dùng thanh toán vi mô để tính phí cho tất cả các mức giao dịch. Tất cả những hệ thống này đều đang cạnh tranh với nhau nhằm thu hút những người dùng mới cũng như kéo những người sử dụng Google sang sử dụng công cụ tìm kiếm phi tập trung có tính phí của họ. Cái người dùng quan tâm là được miễn phí, không phải là dịch vụ tốt như thế nào. Thậm chí họ có thể phải trả phí nhiều hơn nếu dựa vào một hình thức thu phí khác.
 
-### Chi phí là một rào cản khi tham gia một cộng đồng
+### Chi phí là một rào cản khi tham gia
 
 Bất kể một chi phí nào cũng tạo ra một rào cản cho những người dùng mới. Để được tham gia vào nền tảng Ethereum người dùng phải có một số lượng "token" ETH nhất định. Những ai muốn xây dựng những ứng dụng phi tập trung trên nền tảng Ethereum thì cũng phải trả một khoản phí cho những khách hàng của họ. Đầu tư vào một loại đồng tiền điện tử không hề đơn giản nhất là với số vốn dưới 10$. Điều này đồng nghĩa với việc khi người dùng muốn trải nghiệm một ứng dụng phi tập trung mới thì số vốn tối thiểu phải là $10.
 
@@ -664,7 +664,7 @@ Steem solves this problem by giving everyone a way to get paid for doing simple,
 
 ## Solving the Cryptocurrency Liquidation Problem
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Giá trị của đồng tiền phụ thuộc vào tính thanh khoản của nó. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
 
 Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
 
