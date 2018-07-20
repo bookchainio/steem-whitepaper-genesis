@@ -291,7 +291,7 @@ Phương thức này thúc đẩy mọi người đóng góp bằng cách kêu g
 
 ### Các khoản thanh toán
 
-Khi một bài đăng có được thanh toán, người đăng bài sẽ nhận được một khoản tiền thưởng với 50% SMD và 50% SP. The Steem Power give the user increased voting and transaction power while the SMD gives the user an immediate benefit in a stable currency. As we've already discussed at length, both SP and SMD are designed to encourage long-term holding rather than short-term selling.
+Khi một bài đăng có được thanh toán, người đăng bài sẽ nhận được một khoản tiền thưởng với 50% SMD và 50% SP. Steem Power giúp tăng quyền bỏ phiếu và giao dịch cho người dùng, mặt khác, SMD lại cung cấp lợi ích ngay lập tức cho người dùng bằng một loại tiền tệ ổn định. Như chúng ta đã bàn luận nhiều rồi, cả 2 loại tiền tệ SP và SMD đều được tạo ra để khuyến khích người dùng lưu giữ trong một thời gian dài, thay vì đem bán chúng một cách nhanh chóng trên các sàn giao dịch.
 
 # Consensus Algorithm
 
