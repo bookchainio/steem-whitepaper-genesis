@@ -287,11 +287,11 @@ Những cuộc thảo luận tốt đòi hỏi phải có sự tương tác qua 
 
 Việc bình luận không đúng chỗ trong cuộc thảo luận có thể khiến bạn bị nhận phiếu bầu nghịch từ người khác.
 
-This incentive structure motivates people to contribute in a way that motivates others to get involved. It encourages people to ask good questions so that others can provide valuable answers.
+Phương thức này thúc đẩy mọi người đóng góp bằng cách kêu gọi những người khác tham gia vào cuộc thảo luận. Nó khuyến khích người dùng đặt câu hỏi hay để những người khác có thể đưa ra những câu trả lời có giá trị.
 
-### Payouts
+### Các khoản thanh toán
 
-When a post receives a payout it takes the form of 50% SMD and 50% SP. The Steem Power give the user increased voting and transaction power while the SMD gives the user an immediate benefit in a stable currency. As we've already discussed at length, both SP and SMD are designed to encourage long-term holding rather than short-term selling.
+Khi một bài đăng có được thanh toán, người đăng bài sẽ nhận được một khoản tiền thưởng với 50% SMD và 50% SP. The Steem Power give the user increased voting and transaction power while the SMD gives the user an immediate benefit in a stable currency. As we've already discussed at length, both SP and SMD are designed to encourage long-term holding rather than short-term selling.
 
 # Consensus Algorithm
 
