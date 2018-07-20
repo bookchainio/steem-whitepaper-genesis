@@ -147,7 +147,7 @@ Người dùng phải tiếp tục cung cấp thanh khoản trên cả hai phía
       Điểm thanh khoản = Số lượng mua vào x Số lượng bán ra
     
 
-Trong mỗi tiếng, người có số điểm thanh khoản lớn nhất sẽ được thưởng 1200 STEEM và điểm thanh khoản của người đó sẽ được đặt lại về mức 0. Nếu một tài khoản trong một tuần không kiếm được bất kỳ điểm thanh khoản nào cũng sẽ được đặt lại về mức 0. Điều này có nghĩa là cho dù bạn cung cấp một lượng lớn thanh khoản tiền hoặc cung cấp thanh khoản tiền tệ dài hạn thì bạn đều sẽ nhận được một tỷ lệ phần trăm tương ứng nhất định của số tiền thưởng. If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
+Trong mỗi tiếng, người có số điểm thanh khoản lớn nhất sẽ được thưởng 1200 STEEM và điểm thanh khoản của người đó sẽ được đặt lại về mức 0. Nếu một tài khoản trong một tuần không kiếm được bất kỳ điểm thanh khoản nào cũng sẽ được đặt lại về mức 0. Điều này có nghĩa là cho dù bạn cung cấp một lượng lớn thanh khoản tiền hoặc cung cấp thanh khoản tiền tệ dài hạn thì bạn đều sẽ nhận được một tỷ lệ phần trăm tương ứng nhất định của số tiền thưởng. Nếu một trong hai yếu tố "số lượng mua vào" hoặc "số lượng bán ra" là số âm, thì điểm thanh khoản sẽ được coi là 0.
 
 ### Sustainable Debt to Ownership Ratios
 
@@ -393,7 +393,7 @@ Bất kể một chi phí nào cũng tạo ra một rào cản cho những ngư�
 
 ### Sự thay đổi về các khoản phí
 
-Theo thời gian thì một hệ thống cần phải thay đổi về các khoản phí. Sự thay đổi này có thể xảy ra do token tăng giá trị hoặc tăng số lượng token. Chi phí minh bạch và một dịch vụ đảm bảo luôn thu hút được người dùng. Trong quá trình sử dụng việc tính phí tự động có thể khiến người dùng ngày càng ít đi.
+Một hệ thống cần điều chỉnh phí theo thời gian. Sự điều chỉnh này có thể dựa vào sự tăng giá hoặc tăng số lượng của token. Chi phí minh bạch và một dịch vụ đảm bảo luôn thu hút được người dùng. Trong quá trình sử dụng việc tính phí tự động có thể khiến người dùng ngày càng ít đi.
 
 ### Thủ thuật "Tấn công mạo nhận"
 
@@ -664,7 +664,7 @@ Steem solves this problem by giving everyone a way to get paid for doing simple,
 
 ## Solving the Cryptocurrency Liquidation Problem
 
-Giá trị của đồng tiền phụ thuộc vào tính thanh khoản của đồng tiền đó. Ví dụ có thể thấy là giá trị giao dịch của đồng Bitcoin 1.00$ còn cao hơn giá trị nội tại mà nó nắm giữ. Để tham gia thực hiện giao dịch, người dùng phải tạo một tài khoản, tiến hành xác minh danh tính khách hàng (KYC) và trả phí khởi tạo. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Giá trị của đồng tiền phụ thuộc vào tính thanh khoản của đồng tiền đó. Ví dụ có thể thấy là giá trị giao dịch của đồng Bitcoin 1.00$ còn cao hơn giá trị nội tại mà nó nắm giữ. Để tham gia thực hiện giao dịch, người dùng phải tạo một tài khoản, tiến hành xác minh danh tính khách hàng (KYC) và trả phí khởi tạo. Đối với tiền tệ mã hóa, sự thay đổi về lượng không làm tăng nhiều giá trị của đồng tiền để có thể thu hút sự quan tâm của người tham gia giao dịch.
 
 Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
 
