@@ -279,7 +279,7 @@ Lấy độ phổ biến để làm thước đo cho giá trị, khi đó giá t
 
 Quyền bỏ phiếu và sự phân phối bản thanh toán này có ảnh hưởng lớn đến số tiền thưởng được trả cho những bài viết có nội dung chất lượng, đồng thời thưởng cho những cho những người dùng có ít cổ phần hơn vì những đóng góp lâu dài của họ.
 
-Hiệu quả kinh tế của điều này tương tự như xổ số, nơi mà mọi người đánh giá quá cao xác suất nhận được các phiếu bầu và do đó khiến họ chăm chỉ viết bài hơn trong khi giá trị tiền thưởng cho các bài đăng sẽ không được như kỳ vọng của họ. Tuy nhiên điều này sẽ giúp tối đa hóa số lượng bài đăng được cung cấp để phục vụ cộng đồng. The fact that everyone "wins something" plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+Hiệu quả kinh tế của điều này tương tự như xổ số, nơi mà mọi người đánh giá quá cao xác suất nhận được các phiếu bầu và do đó khiến họ chăm chỉ viết bài hơn trong khi giá trị tiền thưởng cho các bài đăng sẽ không được như kỳ vọng của họ. Tuy nhiên điều này sẽ giúp tối đa hóa số lượng bài đăng được cung cấp để phục vụ cộng đồng. Trong thực tế, điều đó cũng tương tự với việc các sòng bạc casino đều chơi bài tâm lý khi khiến mọi người nghĩ rằng họ sẽ kiếm được nhiều tiền hơn sau khi đã "thắng một số ván nhỏ", và điều đó giúp các song bài giữ mọi người tiếp tục tham gia vào cờ bạc. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
 #### Rewarding Parent Posts
 
