@@ -277,7 +277,7 @@ Quy luật Zipf [^7] là một trong những quy luật thực nghiệm có th�
 
 Lấy độ phổ biến để làm thước đo cho giá trị, khi đó giá trị của từng dự án riêng lẻ sẽ được đánh giá theo quy luật của Zipf. Tức là, nếu chúng ta có một triệu dự án, thì 100 dự án phổ biến nhất sẽ chiếm một phần ba tổng giá trị, 10.000 dự án khác sẽ chiếm một phần ba tổng giá trị tiếp theo, và 989900 còn lại sẽ chiếm một phần ba tổng giá trị cuối cùng. Giá trị của tập hợp các các phần tử n thì tỷ lệ thuận với log(n).
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+Quyền bỏ phiếu và sự phân phối bản thanh toán này có ảnh hưởng lớn đến số tiền thưởng được trả cho những bài viết có nội dung chất lượng, đồng thời thưởng cho những cho những người dùng có ít cổ phần hơn vì những đóng góp lâu dài của họ.
 
 The economic effect of this is similar to a lottery where people over-estimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone "wins something" plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
