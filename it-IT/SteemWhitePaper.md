@@ -894,7 +894,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  Steem risolve questo problema dando a tutti un modo di essere pagati per eseguire compiti semplici ma di valore. Questo aiuterà a distribuire ampiamente i token di Steem. Questo è utile in quanto le criptovalute hanno un effetto nella rete (cioè più utenti le rendono più utili; per fare un esempio estremo, considerate se Satoshi detenesse il 100% dei Bitcoin per sé stesso, il Bitcoin sarebbe privo valore)
+  Steem risolve questo problema dando a tutti un modo di essere pagati per eseguire compiti semplici ma di valore. This will help to widely distribute STEEM tokens. Questo è utile in quanto le criptovalute hanno un effetto nella rete (cioè più utenti le rendono più utili; per fare un esempio estremo, considerate se Satoshi detenesse il 100% dei Bitcoin per sé stesso, il Bitcoin sarebbe privo valore)
 </p>
 
 <h2>
