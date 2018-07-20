@@ -116,7 +116,7 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
 
 يتعامل Steem مع تقلبات الأسعار قصيرة الأجل باستخدام متوسط السعر على مدار أسبوع واحد. يتم فحص الخلاصة المنشورة المتوسطة كل ساعة على مدار الساعة.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+طالما أن فساد خلاصة السعر يستمر أقل من الإطار الزمني للمتوسط المتحرك ، فسيكون له تأثير ضئيل على سعر التحويل. في حالة فساد الخلاصة ، ستتاح الفرصة للمشاركين في الشبكة للتصويت ضد منتجي الخلاصة الفاسدة قبل أن يكون للخلاصة الفاسدة تأثير فعلي على سعر التحويل. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
 With a one week window, community members have three and a half days to respond to any issues that come up.
 
