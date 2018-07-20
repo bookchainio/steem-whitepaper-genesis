@@ -890,7 +890,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </h2>
 
 <p>
-  It isn't easy to get into cryptocurrency<fnref target="24" /> . Qualcuno che scopre il Bitcoin e vuole provarlo velocemente, impara che avrà bisogno di registrarsi in un exchange e finanziare il suo account con una carta di credito o con un bonifico bancario. Come sarebbe stato il tasso di adozione di Facebook se tu avessi dovuto corrispondere del denaro e due tipi di documenti d'identità?
+  Non è facile avere accesso alla criptovaluta<fnref target="24" />. Qualcuno che scopre il Bitcoin e vuole provarlo velocemente, impara che avrà bisogno di registrarsi in un exchange e finanziare il suo account con una carta di credito o con un bonifico bancario. Come sarebbe stato il tasso di adozione di Facebook se tu avessi dovuto corrispondere del denaro e due tipi di documenti d'identità?
 </p>
 
 <p>
@@ -906,7 +906,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+  Gli esercenti danno agli utenti un modo per convertire velocemente la loro criptovaluta in beni e servizi tangibili. Gli esercenti hanno bisogno di una valuta legata alla loro unità del conto, di norma i dollari. Accettando una valuta volatile, si introduce nel complesso una contabilità significativa.
 </p>
 
 <p>
