@@ -124,15 +124,15 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
 
 يمكن للمشاركين في السوق الوصول إلى المعلومات بشكل أسرع من متوسط سعر التحويل الذي يمكن أن تتخده سلسلة الكتل (blockchain) لمدة أسبوع واحد. يمكن استخدام هذه المعلومات لفائدة المتداولين على حساب المجتمع. إذا كانت هناك زيادة مفاجئة في قيمة STEEM ، قد يطلب المتداولون تحويل SMDs الخاصة بهم إلى السعر القديم ، وهو السعر الأدنى ، ثم إعادة بيع STEEMs التي يتلقونها بسعر أعلى جديد بأقل خطر.
 
-يوازن Steem ذلك بتأخير جميع طلبات التحويل لمدة أسبوع واحد. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+يوازن Steem ذلك بتأخير جميع طلبات التحويل لمدة أسبوع واحد. هذا يعني أنه لا المتداولين ولا سلسلة الكتل (blockchain) لديهم أي ميزة من المعلومات المتعلقة بالسعر في وقت التحويل.
 
-### Minimizing Abuse of Conversions
+### تقليل إساءة استخدام التحويلات
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SMD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SMD to STEEM and not the other way around.
+إذا كان بإمكان الناس التحويل بكل حرية في كلا الاتجاهين إذن المتداولون يمكنهم الاستفادة من معدلات تحويل سلاسل الكتل (blockchains) من خلال تداول كميات كبيرة دون تغيير السعر. المتداولون الذين يرون زيادة كبيرة في السعر ، سوف يحولون إلى SMD بأعلى سعر (عندما يكون أكثر خطورة) ثم يقومون بتحويلها مرة أخرى بعد تصحيحها. يحمي بروتوكول Steem المجتمع من هذا النوع من الإساءة عن طريق السماح للأشخاص بالتحويل فقط من SMD إلى STEEM وليس العكس.
 
-The blockchain decides how and when to create SMD and who should get it. This keeps the rate of SMD creation stable and removes most avenues of abuse.
+تقرر سلسلة الكتل (blockchain) كيف ومتى ينشئ SMD ومن الذي يجب ان يحصل عليه. هذا يحافظ على معدل إنشاء SMD مستقر ويزيل معظم سبل سوء المعاملة.
 
-### Liquidity
+### السيولة
 
 Just because SMD can be converted to a dollars worth of STEEM at a fair price in a reasonable amount of time doesn't mean it will be viewed as a reliable dollar replacement. These assets require liquidity in a market that enables instantaneous conversion between STEEM and SMD. The measures a blockchain is forced to take to prevent abuse end up lowering the quality of the convertible dollars. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
 
