@@ -116,15 +116,15 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
 
 يتعامل Steem مع تقلبات الأسعار قصيرة الأجل باستخدام متوسط السعر على مدار أسبوع واحد. يتم فحص الخلاصة المنشورة المتوسطة كل ساعة على مدار الساعة.
 
-طالما أن فساد خلاصة السعر يستمر أقل من الإطار الزمني للمتوسط المتحرك ، فسيكون له تأثير ضئيل على سعر التحويل. في حالة فساد الخلاصة ، ستتاح الفرصة للمشاركين في الشبكة للتصويت ضد منتجي الخلاصة الفاسدة قبل أن يكون للخلاصة الفاسدة تأثير فعلي على سعر التحويل. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+طالما أن فساد خلاصة السعر يستمر أقل من الإطار الزمني للمتوسط المتحرك ، فسيكون له تأثير ضئيل على سعر التحويل. في حالة فساد الخلاصة ، ستتاح الفرصة للمشاركين في الشبكة للتصويت ضد منتجي الخلاصة الفاسدة قبل أن يكون للخلاصة الفاسدة تأثير فعلي على سعر التحويل. ربما يكون أهم شيء هو إعطاء منتجي الخلاصات فرصة للكشف عن المشاكل وتصحيحها قبل أن تبدأ خلاصاتهم في التأثير على السعر.
 
-With a one week window, community members have three and a half days to respond to any issues that come up.
+وبإطار زمني مدته أسبوع واحد ، يمتلك أعضاء المجتمع ثلاثة أيام ونصف يوم للرد على أي مشاكل تنشأ.
 
-### Mitigating Timing Attacks
+### تخفيف هجمات الوقت
 
-Market participants have access to information faster than the blockchain's one week moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+يمكن للمشاركين في السوق الوصول إلى المعلومات بشكل أسرع من متوسط سعر التحويل الذي يمكن أن تتخده سلسلة الكتل (blockchain) لمدة أسبوع واحد. يمكن استخدام هذه المعلومات لفائدة المتداولين على حساب المجتمع. إذا كانت هناك زيادة مفاجئة في قيمة STEEM ، قد يطلب المتداولون تحويل SMDs الخاصة بهم إلى السعر القديم ، وهو السعر الأدنى ، ثم إعادة بيع STEEMs التي يتلقونها بسعر أعلى جديد بأقل خطر.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for one week. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+يوازن Steem ذلك بتأخير جميع طلبات التحويل لمدة أسبوع واحد. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
 ### Minimizing Abuse of Conversions
 
