@@ -167,7 +167,7 @@ STEEM and SP holders gain leverage when members of the community are willing to 
 
 ### إعداد خلاصات الأسعار
 
-سوف يدرك القُرّاء الأذكياء أن الأصول التي تحمل فائدة محدودة العرض قد تتداول أعلى أو أقل من الأصول الأساسية اعتمادا على فرص أخرى لكسب الفائدة على نفس الأصول. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. في الاقتصاد هناك مبدأ يعرف الثالوث المستحيل [^4] الذي ينص على أنه من المستحيل أن تتواجد الثلاث مبادئ التالية في نفس الوقت:
+سوف يدرك القُرّاء الأذكياء أن الأصول التي تحمل فائدة محدودة العرض قد تتداول أعلى أو أقل من الأصول الأساسية اعتمادا على فرص أخرى لكسب الفائدة على نفس الأصول. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. في الاقتصاد هناك مبدأ يعرف بالثالوث المستحيل [^4] الذي ينص على أنه من المستحيل أن تتواجد الثلاث المبادئ التالية في نفس الوقت:
 
 1. سعر صرف مستقر
 2. حرية حركة رأس المال
