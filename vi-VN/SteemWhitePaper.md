@@ -279,7 +279,7 @@ Lấy độ phổ biến để làm thước đo cho giá trị, khi đó giá t
 
 Quyền bỏ phiếu và sự phân phối bản thanh toán này có ảnh hưởng lớn đến số tiền thưởng được trả cho những bài viết có nội dung chất lượng, đồng thời thưởng cho những cho những người dùng có ít cổ phần hơn vì những đóng góp lâu dài của họ.
 
-The economic effect of this is similar to a lottery where people over-estimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone "wins something" plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+Hiệu quả kinh tế của điều này tương tự như xổ số, nơi mà mọi người đánh giá quá cao xác suất nhận được các phiếu bầu và do đó khiến họ chăm chỉ viết bài hơn trong khi giá trị tiền thưởng cho các bài đăng sẽ không được như kỳ vọng của họ. Tuy nhiên điều này sẽ giúp tối đa hóa số lượng bài đăng được cung cấp để phục vụ cộng đồng. The fact that everyone "wins something" plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
 #### Rewarding Parent Posts
 
