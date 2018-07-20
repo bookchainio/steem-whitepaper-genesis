@@ -389,7 +389,7 @@ Một số những hệ thống như BitShares, Nxt, Ripple, Counter Party và S
 
 ### Chi phí là một rào cản khi tham gia
 
-Bất kể một chi phí nào cũng tạo ra một rào cản cho những người dùng mới. Để được tham gia vào nền tảng Ethereum người dùng phải có một số lượng "token" ETH nhất định. Những ai muốn xây dựng những ứng dụng phi tập trung trên nền tảng Ethereum thì cũng phải trả một khoản phí cho những khách hàng của họ. Đầu tư vào một loại đồng tiền điện tử không hề đơn giản nhất là với số vốn dưới 10$. Điều này đồng nghĩa với việc khi người dùng muốn trải nghiệm một ứng dụng phi tập trung mới thì số vốn tối thiểu phải là $10.
+Bất kể một chi phí nào cũng tạo ra một rào cản cho những người dùng mới. Để được tham gia vào nền tảng Ethereum người dùng phải có một số lượng "token" ETH nhất định. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Đầu tư vào một loại đồng tiền điện tử không hề đơn giản nhất là với số vốn dưới 10$. Điều này đồng nghĩa với việc khi người dùng muốn trải nghiệm một ứng dụng phi tập trung mới thì số vốn tối thiểu phải là $10.
 
 ### Sự thay đổi về các khoản phí
 
