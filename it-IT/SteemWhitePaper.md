@@ -836,15 +836,15 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  Tutti questi approcci sono riconducibili ai micropagamenti. Essi differiscono solo su chi sta effettuando il pagamento. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone's actions so everyone should pay or no one should pay, depending on how you look at it.
+  Tutti questi approcci sono riconducibili ai micropagamenti. Essi differiscono solo su chi sta effettuando il pagamento. Tutti soffrono a causa di un impegno non sufficiente da parte delle persone di effettuare micropagamenti. Nella ricerca per la produzione di contenuti incentivati, gli imprenditori sono stati molto concentrati su chi dovrebbe pagare quelli che hanno perso la evidente realtà: tutti godono dalle azioni di tutti, quindi, ognuno dovrebbe pagare o nessuno dovrebbe pagare, il tutto dipende da come lo si guarda.
 </p>
 
 <p>
-  Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
+  Steem devia completamente i micropagamenti perché, quando un utente vota un articolo, è la comunità che paga il conto. Lo stesso ammontare di denaro verrà speso se l'utente vota o meno un articolo e i fondi non proverranno dal votante.
 </p>
 
 <p>
-  The mental energy associated with making an economic decision becomes a barrier to participation for most people.
+  L'energia mentale associata con il prendere una decisione economica, diventa una barriera per la partecipazione per molte persone.
 </p>
 
 <blockquote>
