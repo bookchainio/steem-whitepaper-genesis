@@ -138,9 +138,9 @@ Khi tính toán giá trị của STEEM, một SMD có thể được quy đổi 
 
 Một nhà cái có thể mua và bán đồng thời các đồng SMD và STEEM. Họ phải chịu phần lớn các rủi ro về giá ngắn hạn và rủi ro cho vay dài hạn để cung cấp cho những người tham gia khác một thị trường chất lượng để giao dịch với tần suất trao đổi mua bán cực kỳ nhiều.
 
-Steem đã xây dựng được một thị trường giao dịch chuyển đổi qua lại giữa hai đồng SMD và STEEM dựa trên nền tảng blockchain. Người dùng cũng có thể kiếm lời từ các hoạt động mua bán các loại tiền tệ này trên thị trường nếu biết tính toán đúng thời điểm. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
+Steem đã xây dựng được một thị trường giao dịch chuyển đổi qua lại giữa hai đồng SMD và STEEM dựa trên nền tảng blockchain. Người dùng cũng có thể kiếm lời từ các hoạt động mua bán các loại tiền tệ này trên thị trường nếu biết tính toán đúng thời điểm. Công nghệ blockchain sử dụng một thuật toán đơn giản để đánh giá và phân loại dựa vào tần suất, mức độ giao dịch các loại tiền tệ của người dùng.
 
-A user is considered a liquidity provider if they leave an open order on the books for at least 1 minute and the order is eventually filled. If the order is canceled before being filled then the user is not credited with providing liquidity.
+Nếu một người dùng đã đặt lệnh mua hoặc bán trong ít nhất một phút, và khi nó được xử lý thì người đó được gọi là một nhà cung cấp thanh khoản. Nếu lệnh bị hủy trước khi nó được hoàn thành thì người dùng không được phép cung cấp thanh khoản.
 
 Users must provide liquidity on both sides of the book to qualify for rewards and they must provide liquidity consistently over time. The scoring algorithm is:
 
@@ -378,14 +378,14 @@ Việc thu phí giao dịch không sử dụng hệ thống thanh toán vi mô, 
 
 Hãy thử tưởng tượng hằng ngày chúng ta sử dụng một trang mạng (website) nào đó nhưng họ lại đòi chúng ta phải trả phí mỗi khi chúng ta muốn thay đổi mật khẩu cho tài khoản của mình. Rõ ràng là người dùng luôn muốn được miễn phí. Nếu đưa người dùng vào tình huống cân nhắc việc thực hiện một hoạt động trả phí nào đó sẽ khiến họ rời bỏ hệ thống.
 
-> Khi một giao dịch khiến người dùng đắn đo suy nghĩ có nên thực hiện hay không thì chẳng có giá trị gì nhiều, nhưng một cuộc giao dịch được người dùng quyết định thực hiện ngay lập tức thì sẽ có một chút giá trị. Khi đưa ra bất ký quyết định mua cái gì, cho dù là nhỏ nhưng lại phân vân không phải do không gian hay thời gian mà do tính quyết đoán.  
+> Khi một giao dịch khiến người dùng đắn đo suy nghĩ có nên thực hiện hay không thì chẳng có giá trị gì nhiều, nhưng một giao dịch được người dùng quyết định thực hiện ngay lập tức thì sẽ mang lại một chút giá trị. Sự phân vân khi quyết định mua gì, cho dù là nhỏ không phải do không gian hay thời gian mà do tính quyết đoán.  
 > Hệ thống thanh toán vi mô cũng giống như các hình thức thanh toán khác khiến người dùng phải cân nhắc và so sánh " X có nhiều giá trị hơn hay Y có nhiều giá trị hơn?". Thực tế này tạo ra sự đấu tranh tư tưởng. Bởi vì chỉ những giao dịch miễn phí mới khiến cho người dùng thực hiện ngay mà không cần phải đắn đo suy nghĩ.
 > 
 > *Clay Shirky - Câu chuyện về cái xô đựng cua[^6]*
 
 Trong mạng lưới thanh toán tài chính, người dùng sẵn sàng trả phí vì giá trị của giao dịch còn lớn hơn rất nhiều so với khoản phí bỏ ra. Trong khi những ứng dụng đầy tiềm năng trên nền tảng Blockchain tuyệt vời hơn rất nhiều so với mạng lưới thanh toàn tài chính thì người dùng lại không sẵn sàng trả phí cho những giao dịch cần thiết.
 
-Một số những hệ thống như BitShares, Nxt, Ripple, Counter Party và Stellar đều lấy phí của người dùng khi họ muốn đặt lệnh trên nền tảng Blockchain. Sau đó nếu người dùng muốn hủy lệnh thì họ lại phải trả thêm một khoản phí khác. Những hệ thống như Ethereum đều dùng hệ thống thanh toán vi mô để tính phí cho tất cả các mức độ khi thực hiện giao dịch. Tất cả những hệ thống này đều cạnh tranh nhau nhằm thu hút những người dùng mới với cùng một mục đích là kéo những người sử dụng Google sang sử dụng công cụ tìm kiếm phi tập trung và họ sẽ tính phí cho mỗi lần tìm kiếm đấy. Cho dù dịch vụ có tốt như thế nào đi nữa thì cái người dùng quan tâm nhất chính là được miễn phí. Thậm chí nếu tính theo một hình thức thu phí khác thì người dùng phải trả nhiều hơn.
+Một số những hệ thống như BitShares, Nxt, Ripple, Counter Party và Stellar đều lấy phí của người dùng khi họ muốn đặt lệnh trên nền tảng Blockchain. Sau đó nếu người dùng muốn hủy lệnh thì họ lại phải trả thêm một khoản phí khác. Những hệ thống như Ethereum đều dùng thanh toán vi mô để tính phí cho tất cả các mức giao dịch. Tất cả những hệ thống này đều cạnh tranh nhau nhằm thu hút những người dùng mới với cùng một mục đích là kéo những người sử dụng Google sang sử dụng công cụ tìm kiếm phi tập trung và họ sẽ tính phí cho mỗi lần tìm kiếm đấy. Cho dù dịch vụ có tốt như thế nào đi nữa thì cái người dùng quan tâm nhất chính là được miễn phí. Thậm chí nếu tính theo một hình thức thu phí khác thì người dùng phải trả nhiều hơn.
 
 ### Chi phí là một rào cản khi tham gia một cộng đồng
 
