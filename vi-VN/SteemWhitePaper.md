@@ -285,7 +285,7 @@ Hiệu quả kinh tế của điều này tương tự như xổ số, nơi mà 
 
 Những cuộc thảo luận tốt đòi hỏi phải có sự tương tác qua lại bằng một loạt các câu hỏi và trả lời. Khi bạn trả lời người khác, họ sẽ nhận được 50% số tiền mà bạn nhận được từ cuộc thảo luận đó. Quy tắc này được áp dụng tới 6 lần tương tác trả lời qua lại. Khi mới bắt đầu một cuộc thảo luận thì bài đăng gốc sẽ nhận được một số tiền thưởng rất lớn.
 
-Failure to properly nest your posts in the discussion is a good way to get down voted.
+Việc bình luận không đúng chỗ trong cuộc thảo luận có thể khiến bạn bị nhận phiếu bầu nghịch từ người khác.
 
 This incentive structure motivates people to contribute in a way that motivates others to get involved. It encourages people to ask good questions so that others can provide valuable answers.
 
