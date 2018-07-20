@@ -878,7 +878,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of links. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and link to new content.
+  Un social network può massimizzare il valore ricavato da una serie di contenuti massimizzando la quantità e la qualità delle connessioni. Curare i contenuti è costoso e dispendioso in termini di tempo, mentre per i computer è quasi impossibile operare in assenza di collegamenti. Steem rewards users who are among the first to find and link to new content.
 </p>
 
 <p>
@@ -890,19 +890,19 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </h2>
 
 <p>
-  It isn't easy to get into cryptocurrency<fnref target="24" /> . Qualcuno che scopre il Bitcoin e vuole provarlo velocemente, impara che avrà bisogno di registrarsi in un exchange e finanziare il suo account con una carta di credito o con un bonifico bancario. What would Facebook's adoption rate have been like if you had to fork over money and a two forms of ID?
+  It isn't easy to get into cryptocurrency<fnref target="24" /> . Qualcuno che scopre il Bitcoin e vuole provarlo velocemente, impara che avrà bisogno di registrarsi in un exchange e finanziare il suo account con una carta di credito o con un bonifico bancario. Come sarebbe stato il tasso di adozione di Facebook se tu avessi dovuto corrispondere del denaro e due tipi di documenti d'identità?
 </p>
 
 <p>
-  Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless).
+  Steem risolve questo problema dando a tutti un modo di essere pagati per eseguire compiti semplici ma di valore. Questo aiuterà a distribuire ampiamente i token di Steem. Questo è utile in quanto le criptovalute hanno un effetto nella rete (cioè più utenti le rendono più utili; per fare un esempio estremo, considerate se Satoshi detenesse il 100% dei Bitcoin per sé stesso, il Bitcoin sarebbe privo valore)
 </p>
 
 <h2>
-  Solving the Cryptocurrency Liquidation Problem
+  Risolvere il problema della liquidazione della criptovaluta
 </h2>
 
 <p>
-  A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+  Una valuta che è difficile da usare o impossibile da vendere ha un valore basso. Qualcuno che si imbatte in $1.00 di valore di Bitcoin, scoprirà che venderlo, costa di più di $1.00. Essi devono creare un account con un exchange, eseguire la convalida tramite il procedimento KYC (conosci il tuo cliente) e pagare le commissioni. Piccole quantità di criptovaluta sono come un piccolo cambiamento ai quali le persone non sono disposte ad abbassarsi per accoglierli.
 </p>
 
 <p>
