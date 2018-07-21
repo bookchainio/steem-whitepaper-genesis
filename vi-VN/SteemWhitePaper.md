@@ -425,18 +425,18 @@ Gọi B là băng thông trung bình của người dùng tại thời điểm T
     Thời điểm T mới (Tnew) = T + S
     
 
-Each user is entitled to an average weekly bandwidth of:
+Mỗi người dùng được sử dụng băng thông trung bình hàng tuần là:
 
-    Let U = the user's SP
-    Let S = the total number of SP
-    Let R = the current reserve ratio between 1 and Rmax
-    Let C = the maximum block size capacity set by witnesses
-    Let L = the total blocks per week
-    Let M = C * L * R
-    Allocation = M * U / S
+    Gọi U = SP của người dùng
+    Gọi S = tổng số SP
+    Gọi R = tỷ lệ dự trữ hiện tại giữa 1 và R tối đa
+    Gọi C = dung lượng tối đa của nền tảng được tạo nên bởi các nhân chứng
+    Gọi L = tổng số nền tảng mỗi tuần
+    Gọi M = C * L * R
+    Lượng phân bổ = M * U / S
     
 
-A user would be entitled to an average bandwidth of M \* U / S. Any time a transaction would cause the user's average to go above this threshold they would be unable to transact until enough time passes to lower the average.
+Người dùng sử dụng số băng thông trung bình là M \ * U / S. Mức này sẽ tăng vượt ngưỡng khi thực hiện giao dịch dù ở bất kỳ thời điểm nào và giao dịch sẽ không thể thực hiện cho đến khi đủ thời gian để chỉ số băng thông trung bình giảm xuống.
 
 The network can increase the reserve ratio, anytime blocks are less than half the target capacity and decrease it anytime they are more than half. The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
 
