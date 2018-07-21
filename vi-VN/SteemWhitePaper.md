@@ -114,7 +114,7 @@ Với tập hợp các nhà sản xuất dữ liệu được chọn và đáng 
 
 Thậm chí nếu tất cả các nhà sản xuất dữ liệu đều trung thực, thì phần lớn các nhà sản xuất dữ liệu đều có thể bị ảnh hưởng bởi những sự kiện ngoài tầm kiểm soát của họ. Mạng lưới Steem được thiết kế để chịu đựng sự tham nhũng ngắn hạn của nguồn cung cấp giá trung bình trong khi đó cộng đồng sẽ tích cực làm việc để khắc phục vấn đề. Một ví dụ về vấn đề có thể mất một khoảng thời gian để khắc phục là thao túng thị trường ngắn hạn. Thao túng thị trường rất là khó khăn và tốn kém để duy trì trong thời gian dài. Một ví dụ khác là sự thất bại của sàn giao dịch tập trung hoặc sự hư hỏng về dữ liệu được công bố bởi sàn giao dịch.
 
-Steem factors out short-term price fluctuations by using the median price over a period of one week. The median published feed is sampled every hour on the hour.
+Steem loại trừ các yếu tố biến động giá ngắn hạn bằng cách sử dụng giá trung bình trong khoảng thời gian một tuần. Nguồn cấp dữ liệu giá trung bình sẽ được thống kê mẫu trong mỗi giờ.
 
 Chừng nào nguồn cung cấp dữ liệu giá tham nhũng tồn tại ít hơn một nửa thời gian di chuyển trung bình thì nó sẽ có tác động tối thiểu về mức giá chuyển đổi. Trong trường hợp nguồn cung cấp dữ liệu đã bị tham nhũng, người tham gia mạng lưới sẽ có cơ hội bỏ phiếu cho các nhà sản xuất dữ liệu tham nhũng trước khi dữ liệu tham nhũng tác động đến giá chuyển đổi thực tế. Có lẽ quan trọng hơn cả, nó cho phép các nhà sản xuất dữ liệu có cơ hội phát hiện và khắc phục các vấn đề trước khi nguồn cung cấp dữ liệu của họ bắt đầu tác động đến giá cả.
 
@@ -181,13 +181,13 @@ Nếu tỷ lệ nợ-sở hữu dưới 10% và SMD đang giao dịch dưới $1
 
 Nếu giá giao dịch của SMD dưới $1.00 USD và tỷ lệ nợ-quyền sở hữu trên 10% thì nguồn cung cấp dữ liệu phải được điều chỉnh theo chiều hướng tăng lên để cung cấp thêm đồng STEEM cho mỗi đồng SMD. Điều này sẽ làm tăng nhu cầu của đồng SMD và trong khi đó sẽ làm giảm tỷ lệ nợ-quyền sở hữu và đưa giá giao dịch giữa đồng SMD và USD ngang bằng với nhau.
 
-Giả sử rằng giá trị của đồng STEEM phát triển nhanh hơn việc Steem đang tạo ra đồng SMD mới thì tỷ lệ nợ-quyền sở hữu nên được duy trì theo tỷ lệ mục tiêu và lợi ích của lãi suất mang lại cho tất cả mọi người. Nếu giá trị của mạng lưới đang được giữ nguyên hoặc giảm, thì bất kỳ lãi suất được cung cấp cũng chỉ sẽ làm cho tỷ lệ nợ-quyền sở hữu trở nên tồi tệ hơn.
+Giả sử rằng giá trị của đồng STEEM phát triển nhanh hơn việc Steem đang tạo ra đồng SMD mới thì tỷ lệ nợ-quyền sở hữu nên được duy trì theo tỷ lệ mục tiêu và lợi ích của lãi suất mang lại cho tất cả mọi người. Nếu giá trị của mạng lưới đang được giữ nguyên hoặc giảm, thì bất kỳ lãi suất được cung cấp cũng chỉ làm cho tỷ lệ nợ-quyền sở hữu trở nên tồi tệ hơn.
 
 Trên thực tế, các nhà cung cấp dữ liệu được giao phó trách nhiệm thiết lập chính sách tiền tệ với mục đích duy trì giá trị ổn định với USD. Lạm dụng quyền lực này có thể gây tổn hại đến giá trị của STEEM cho nên những người nắm giữ SP phải khôn ngoan khi bỏ phiếu cho các nhân chứng mà chúng ta có thể tin tưởng cho việc điều chỉnh dữ liệu giá và lãi suất theo các quy tắc được nêu trên.
 
 Nếu tỷ lệ nợ-sở hữu cao tới mức nguy hiểm và người tham gia thị trường chọn việc tránh các yêu cầu chuyển đổi, thì nguồn cung cấp dữ liệu phải được điều chỉnh để tăng giá mà STEEM đã trả để chuyển đổi sang SMD.
 
-Các sự thay đổi chính sách về lãi suất và/hoặc bất kỳ các khoản tiền thưởng/chiết khấu trên tỷ lệ chuyển đổi STEEM/SMD phải là phản hồi được cân nhắc kỹ càng và từ tốn về sự chênh lệch trung bình trong khoảng thời gian dài hạn hơn là cố gắng phản hồi dựa trên các điều kiện thị trường ngắn hạn. Chuỗi khối blockchain đang chi trả cho các nhà cung cấp thanh khoản về dịch vụ của họ trong việc đáp ứng các nhu cầu ngắn hạn.
+Các sự thay đổi chính sách về lãi suất và/hoặc bất kỳ các khoản tiền thưởng/chiết khấu trên tỷ lệ chuyển đổi STEEM/SMD phải là phản hồi cần được cân nhắc kỹ càng và từ tốn về sự chênh lệch trung bình trong khoảng thời gian dài hạn hơn là cố gắng phản hồi dựa trên các điều kiện thị trường ngắn hạn. Chuỗi khối blockchain đang chi trả cho các nhà cung cấp thanh khoản về dịch vụ của họ trong việc đáp ứng các nhu cầu ngắn hạn.
 
 Chúng tôi tin rằng với những quy tắc này sẽ giúp người tham gia thị trường sẽ tự tin vào khả năng mất tiền của họ khi giữ đồng SMD được mua với giá $1.00 là không thể. Chúng tôi kỳ vọng rằng sẽ có một phạm vi giao dịch hẹp vào giữa $0.99 và $1.01 cho đồng SMD trong hầu hết tất cả các điều kiện thị trường.
 
