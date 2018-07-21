@@ -309,7 +309,7 @@ Trong thế giới của các đồng tiền mã hóa, bản ghi chép công c�
 
 Trên nền tảng Steem, việc sản xuất các khối được tính theo các vòng. Mỗi vòng gồm có 21 nhân chứng được lựa chọn để tạo ra các khối, đồng thời ký lên các giao dịch. Trong số 19 các nhân chứng này được lựa chọn bằng việc bỏ phiếu phê chuẩn, một phiếu được lựa chọn từ sự tính toán của bằng chứng công việc, phiếu bầu còn lại là việc bầu từ các nhân chứng không thuộc trong nhóm 19 người đầu tỷ lệ thuận với tổng số phiếu của họ. Thứ tự 21 nhân chứng đang hoạt động này thường xuyên được xáo trộn nhằm tránh việc một nhân chứng liên tục bỏ qua các khối do chính mình tạo ra trước đó.
 
-This process is designed to provide the best reliability while ensuring that everyone has the potential to participate in block production regardless of whether they are popular enough to get voted to the top. People have three options to overcome censorship by the top 19 elected witnesses: patiently wait in line with everyone else not in the top 19, purchase enough computational power to solve a proof of work faster than others, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
+Quá trình này được thiết kế với mục đích là dù bất kỳ nhân chứng nào kể cả không có tiếng tăm và không nằm trên nhóm đầu nhưng vẫn đảm bảo khả năng tạo ra các khối, càng làm gia tăng độ tin cậy đối với họ. People have three options to overcome censorship by the top 19 elected witnesses: patiently wait in line with everyone else not in the top 19, purchase enough computational power to solve a proof of work faster than others, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
 
 Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
 
@@ -444,14 +444,14 @@ Tỷ lệ dự trữ tối thiểu là 1 và tỷ lệ dự trữ tối đa sẽ
 
 ### Ví dụ thực tế: Bitcoin
 
-Khi tính tỷ lệ dự trữ R dựa vào mức sử dụng thực tế sẽ hiểu rõ hơn cách áp dụng thuật toán này trên Bitcoin. Với tổng nguồn cung là 15 triệu BTC và khối lượng giao dịch hàng ngày là 400 nghìn BTC[^10], chúng ta có thể tính được tỷ lệ dự trữ R là 38. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
+Khi tính tỷ lệ dự trữ R dựa vào mức sử dụng thực tế sẽ hiểu rõ hơn cách áp dụng thuật toán này trên Bitcoin. Với tổng nguồn cung là 15 triệu BTC và khối lượng giao dịch hàng ngày là 400 nghìn BTC[^10], chúng ta có thể tính được tỷ lệ dự trữ R là 38. Tính toán theo công thức sau chúng ta có thể tìm ra số băng thông hàng tuần ( tình bằng Byte) được sử dụng trên mỗi BTC là:
 
-    Let C = 1MB = 1024 * 1024
-    Let L = 1008 (blocks per week)
-    Let R = 38
-    Let S = 14000000 BTC (supply minus Satoshi's unmoving coins)
-    Let U = 1 BTC
-    CLR/S = 2869 bytes per week, or about 5 transactions/week per BTC
+    Cho C = 1MB = 1024 * 1024
+    Cho L = 1008 (số khối mỗi tuần)
+    Cho R = 38
+    Cho S = 14000000 BTC (không bao gồm lượng Satotshi không sử dụng)
+    Cho U = 1 BTC
+    CLR / S = 2869 byte hoặc khoảng 5 giao dịch mỗi tuần đối với một BTC
     
 
 Since R = 38 is a lower bound on the reserve ratio, CLR/S is a lower bound on the permitted bandwidth. This simple case study suggests a user will require at most 0.20 BTC (over $80 as of this writing) to transact once per week. However, this is a loose upper bound derived from the assumption that all BTC are equally mobile. This is not the case - users with dozens or hundreds of bitcoins do not necessarily transact dozens or hundreds of times a week! The "leftover" transactions that those users "should" have made will increase the reserve ratio, allowing their unused bandwidth to be "recycled" for smaller users.
