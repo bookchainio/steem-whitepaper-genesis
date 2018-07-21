@@ -529,9 +529,9 @@ Ripple使用一个最小余额[^12]，该余额会根据账户使用的资源进
 
 在这里我们可以得出结论，区块链最好不要收取使用费。 如果用使用费来替代频率限定，那么它就等同于购买足够的分时共享，且通过长期持有来获得使用一次的权利。
 
-换句话说，交易费应当等同于每周交易一次所需的最低账户余额，且在一周结束时会被返还。 Assume the minimum account balance is $1 and allows someone to transact once per week. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
+换句话说，交易费应当等同于每周交易一次所需的最低账户余额，且在一周结束时会被返还。 假定最小账户余额为1美元，且该余额允许用户一周至少交易一次。 如果某个持有1美元余额的个人希望一次性进行5笔交易，他们需要在交易前后，将余额增至5美元。
 
-In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+在理论上，如果用户可以租赁他们需要的股份，则就形成了一个市场。 在实际上，用户可以通过买卖分时共享，来达到他们期待的使用率。 In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
 
 Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
 
