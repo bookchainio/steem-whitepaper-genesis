@@ -515,9 +515,9 @@ Ripple使用一个最小余额[^12]，该余额会根据账户使用的资源进
 
 在使用率限制方法中，对于持有1%代币的攻击者，如果他们要对网络进行洪水攻击，那么他们的攻击不会超过30秒。
 
-### Renting vs. Buying vs. Time Sharing
+### 租赁、购买与分时共享
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+当某人拥有一所房子时，他们会期待拥有房子的免费使用权。 If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
 
 If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
 
