@@ -140,11 +140,11 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
 
 لدى Steem سوق على سلسلة الكتل (blockchain) بين SMD و STEEM. يمكن للمستخدمين الحصول على مكافآت بتوفير السيولة لكلا الجانبين من هذا السوق. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
 
-يعتبر المستخدم مزودًا للسيولة إذا ترك أمرًا مفتوحًا في السجل لمدة دقيقة واحدة على الأقل وتم ملء الطلب في النهاية. If the order is canceled before being filled then the user is not credited with providing liquidity.
+يعتبر المستخدم مزودًا للسيولة إذا ترك أمرًا مفتوحًا في السجل لمدة دقيقة واحدة على الأقل وتم ملء الطلب في النهاية. إذا تم إلغاء الطلب قبل اكتماله ، المستخدم لن يعطى له الفضل في توفير السيولة.
 
-Users must provide liquidity on both sides of the book to qualify for rewards and they must provide liquidity consistently over time. The scoring algorithm is:
+يجب على المستخدمين توفير السيولة لكلا الجانبين للتأهل للحصول على المكافآت ، ويجب عليهم توفير السيولة باستمرار مع مرور الوقت. خوارزمية النقاط هي:
 
-      LiquidityPoints = NetBidVolume x NetAskVolume
+      نقاط السيولة = صافي حجم العروض x حجم الطلب
     
 
 Every hour the account with the most LiquidityPoints receives 1200 STEEM and then has its LiquidityPoints reset to 0. An account that goes a week without earning any LiquidityPoints also has its points reset to 0. This means that whether you provide a large amount of liquidity or a small amount over a long period of time everyone gets a proportional amount of the rewards. If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
