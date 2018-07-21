@@ -527,9 +527,9 @@ Ripple使用一个最小余额[^12]，该余额会根据账户使用的资源进
 
 基于这个原理，我们可以假定，基于费用的系统或者说对用户而言更加贵，或者说对于所有者而言利润更低。 一个小的所有者可能通过出租他的小时间片而获利，但会影响其他分时共享所有者的利益。 实际上，下降的分时共享价值的成本是所有所有者共同承担的，而利润却主要集中在决定出租自己时间段的人的手中。
 
-在这里我们可以得出结论，区块链最好不要收取使用费。 If a usage fee were to be charged as an alternative to rate limiting, then it should be the equivalent of buying enough timeshares and committing to hold them long enough to gain the right use it once.
+在这里我们可以得出结论，区块链最好不要收取使用费。 如果用使用费来替代频率限定，那么它就等同于购买足够的分时共享，且通过长期持有来获得使用一次的权利。
 
-Stated another way, a transaction fee should be equal to the minimum account balance necessary to transact once per week and it should be refunded at the end of the week. Assume the minimum account balance is $1 and allows someone to transact once per week. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
+换句话说，交易费应当等同于每周交易一次所需的最低账户余额，且在一周结束时会被返还。 Assume the minimum account balance is $1 and allows someone to transact once per week. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
 
 In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
 
