@@ -155,9 +155,9 @@ Nếu một "token" có thể được xem là quyền sở hữu trong toàn b�
 
 Mỗi lần Steem tạo ra một SMD, nó sẽ đồng thời cũng tạo ra một STEEM trị giá $ 19.00 và được chuyển đổi thành SP. Điều này có nghĩa là trong một thị trường ổn định, tỷ lệ giữa khoản nợ và quyền sở hữu cao nhất là 1:19 hoặc khoảng 5%. Nếu Steem giảm mất 50% giá trị, tỷ lệ này có thể tăng lên đến 10%. Khi giá trị của STEEM giảm 88%, tỷ lệ nợ / quyền sở hữu có thể sẽ đạt tới 40%. Giả sử rằng nếu giá trị STEEM cuối cùng sẽ ổn định thì tỷ lệ nợ / quyền sở hữu sẽ tự nhiên giảm xuống tới ở mức 5%.
 
-The idea behind having a conservative 5% debt to ownership ratio is that even if all debt were converted and sold there should be ample buyers and the effective dilution of the token holders remains relatively small.
+Lý do đằng sau việc bảo toàn tỷ lệ nợ / quyền sở hữu bằng 5% là ngay cả khi tất cả các khoản nợ được chuyển đổi và bán thì vẫn phải có nhiều người mua để giữ cho các "token" trong tay những người nắm giữ không bị loãng giá quá nhiều.
 
-A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SMD and SP (as determined by the current rate / feed).
+Nếu giá trị của đồng STEEM biến động quá nhiều, nó sẽ có ảnh hưởng đáng kể đến tỷ lệ nợ / quyền sở hữu. The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SMD and SP (as determined by the current rate / feed).
 
 ### Lãi suất
 
