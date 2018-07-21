@@ -147,7 +147,7 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
       نقاط السيولة = صافي حجم العروض x حجم الطلب
     
 
-Every hour the account with the most LiquidityPoints receives 1200 STEEM and then has its LiquidityPoints reset to 0. An account that goes a week without earning any LiquidityPoints also has its points reset to 0. This means that whether you provide a large amount of liquidity or a small amount over a long period of time everyone gets a proportional amount of the rewards. If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
+كل ساعة يتلقى الحساب الذي لديه أكثر نقاط سيولة 1200 STEEM ، ثم يتم إعادة تعيين نقاط السيولة الخاصة به إلى 0. الحساب الذي لم يكسب أي نقطة سيولة لمدة أسبوع يتم أيضا إعادة تعيين نقاطه إلى 0. وهذا يعني أنه بغض النظر عما إذا كنت تقدم كمية كبيرة من السيولة أو كمية صغيرة على مدى فترة زمنية طويلة ، الجميع يحصل على كمية متناسبة من المكافآت. If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
 
 ### Sustainable Debt to Ownership Ratios
 
