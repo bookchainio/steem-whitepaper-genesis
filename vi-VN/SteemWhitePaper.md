@@ -187,7 +187,7 @@ Trên thực tế, các nhà cung cấp dữ liệu được giao phó trách nh
 
 Nếu tỷ lệ nợ-sở hữu cao tới mức nguy hiểm và người tham gia thị trường chọn việc tránh các yêu cầu chuyển đổi, thì nguồn cung cấp dữ liệu phải được điều chỉnh để tăng giá mà STEEM đã trả để chuyển đổi sang SMD.
 
-Các sự thay đổi chính sách về lãi suất và/hoặc bất kỳ các khoản tiền thưởng/chiết khấu trên tỷ lệ chuyển đổi STEEM/SMD phải là phản hồi được cân nhắc kỹ càng và từ tốn về sự chênh lệch trung bình trong khoảng thời gian dài hạn hơn là cố gắng phản hồi dựa trên các điều kiện thị trường ngắn hạn. The blockchain is paying liquidity providers for their service in absorbing short-term demands.
+Các sự thay đổi chính sách về lãi suất và/hoặc bất kỳ các khoản tiền thưởng/chiết khấu trên tỷ lệ chuyển đổi STEEM/SMD phải là phản hồi được cân nhắc kỹ càng và từ tốn về sự chênh lệch trung bình trong khoảng thời gian dài hạn hơn là cố gắng phản hồi dựa trên các điều kiện thị trường ngắn hạn. Chuỗi khối blockchain đang chi trả cho các nhà cung cấp thanh khoản về dịch vụ của họ trong việc đáp ứng các nhu cầu ngắn hạn.
 
 It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SMD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.99 and $1.01 for SMD under most market conditions.
 
