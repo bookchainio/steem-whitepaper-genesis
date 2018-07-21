@@ -946,11 +946,11 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </h2>
 
 <p>
-  Internet rappresenta il mezzo più semplice per distribuire l'informazione nel mondo. Detto ciò, esso può essere un posto spaventoso per i creatori di contenuti che vorrebbero possedere il proprio contenuto e che questo venga condiviso con l'opportuna attribuzione. Nelle attuali piattaforme di social media, l'attribuzione è qualcosa che può essere persa improvvisamente - un video o un'immagine pubblicata, possono essere replicati e condivisi a loro volta senza il consenso o la considerazione per il creatore.
+  Internet rappresenta il mezzo più semplice per distribuire l'informazione nel mondo. Detto ciò, esso può essere un posto spaventoso per i creatori di contenuti che vorrebbero possedere il proprio contenuto e che questo venisse condiviso con l'opportuna attribuzione. Nelle attuali piattaforme di social media, l'attribuzione è qualcosa che può essere persa improvvisamente - un video o un'immagine pubblicata, possono essere replicati e condivisi a loro volta senza il consenso o la considerazione per il creatore.
 </p>
 
 <p>
-  Secondo il social media basato sulla blockchain, un creatore o un autore saranno sempre capaci di puntare ad un registro pubblico e ad una marcatura temporale mostrando la prova dell'origine del loro contenuto. In una circostanza dove al creatore piacerebbe affrontare coloro che hanno a loro volta condiviso senza l'autorizzazione o l'attribuzione, i regisri pubblici basati sulla blockchain forniscono una prova pubblica che il contenuto era stato pubblicato da un determinato utente ad una determinata ora. Nel futuro, l'attribuzione basata sulla blockchain potrebbe venire riconosciuta dai governi per la sua autenticità e potrebbe avere un peso in tribunale, il che darebbe ai creatori dei contenuti poteri maggiori per controllare il loro lavoro.
+  Secondo il social media basato sulla blockchain, un creatore o un autore saranno sempre capaci di puntare ad un registro pubblico e ad una marcatura temporale, mostrando la prova dell'origine del loro contenuto. In una circostanza dove al creatore piacerebbe affrontare coloro che hanno a loro volta condiviso senza l'autorizzazione o l'attribuzione, i regisri pubblici basati sulla blockchain forniscono una prova pubblica che il contenuto era stato pubblicato da un determinato utente ad una determinata ora. Nel futuro, l'attribuzione basata sulla blockchain potrebbe venire riconosciuta dai governi per la sua autenticità e potrebbe avere un peso in tribunale, il che darebbe ai creatori dei contenuti poteri maggiori per controllare il loro lavoro.
 </p>
 
 <p>
@@ -974,11 +974,11 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </h1>
 
 <p>
-  Steem è un esperimento progettato per affrontare le sfide nelle industrie della criptovaluta e dei social media, combinando i migliori aspetti di entrambe. Steem presenta opportunità di guadagno per i creatori di contenuti e i lettori di internet in modi che non sono esistiti tra le industrie dei social media. All'intenro di Steem, gli individui guadagnano online delle vere ricompense che sono direttamente correlate alle loro contribuzioni. Those rewards will have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem will have more exclusive earning powers than those who do not.
+  Steem è un esperimento progettato per affrontare le sfide nelle industrie della criptovaluta e dei social media, combinando i migliori aspetti di entrambe. Steem presenta opportunità di guadagno per i creatori di contenuti e i lettori di internet in modi che non sono esistiti tra le industrie dei social media. All'intenro di Steem, gli individui guadagnano online delle vere ricompense che sono direttamente correlate alle loro contribuzioni. Quelle ricompense avranno un valore in dollari dovuto al prezzo di mercato esposto e alla liquidità di Steem e, le persone che detengono Steem, avranno più poteri esclusivi di guadagno rispetto a quelle che non lo detengono. giusta
 </p>
 
 <h1>
-  References
+  Bibliografia
 </h1>
 
 <footnotes>
