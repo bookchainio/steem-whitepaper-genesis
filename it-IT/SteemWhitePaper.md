@@ -946,7 +946,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </h2>
 
 <p>
-  Internet rappresenta il mezzo più semplice per distribuire l'informazione nel mondo. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
+  Internet rappresenta il mezzo più semplice per distribuire l'informazione nel mondo. Detto ciò, esso può essere un posto spaventoso per i creatori di contenuti che vorrebbero possedere il proprio contenuto e che questo venga condiviso con l'opportuna attribuzione. Nelle attuali piattaforme di social media, l'attribuzione è qualcosa che può essere persa improvvisamente - un video o un'immagine pubblicata, possono essere replicati e condivisi a loro volta senza il consenso o la considerazione per il creatore.
 </p>
 
 <p>
@@ -962,7 +962,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </h2>
 
 <p>
-  Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work's value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+  Secondo la maggior parte dei modelli di monetizzazione del contenuto, i creatori di quest'ultimo sfruttano la pubblicità in un modo o nell'altro. Many creators recognize how advertising may diminish their work's value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
 </p>
 
 <p>
