@@ -161,7 +161,7 @@ A rapid change in the value of STEEM can dramatically change the debt-to-ownersh
 
 ### Lãi suất
 
-SMD trả lãi suất cho chủ sở hữu. Lãi suất được đặt bởi người cùng xuất bản nguồn cung cấp dữ liệu giá để nó có thể thích ứng với sự thay đổi điều kiện thị trường. Tất cả các khoản nợ đều chứa rủi ro cho người cho vay. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. Họ tin tưởng rằng tại một thời điểm nào đó trong tương lai ai đó sẽ sẵn sàng mua SMD từ họ với một đồng đô la hoặc sẽ có các nhà đầu cơ và các nhà đầu tư sẵn sàng mua STEEM mà họ đã chuyển đổi nó thành.
+SMD trả lãi suất cho chủ sở hữu. Lãi suất được đặt bởi người cùng xuất bản nguồn cung cấp dữ liệu giá để nó có thể thích ứng với sự thay đổi điều kiện thị trường. Tất cả các khoản nợ đều chứa rủi ro cho người cho vay. Người nào nắm giữ đồng SMD mà không rút tiền nó ra đồng nghĩa là họ đang cho cộng đồng vay với giá trị của một đồng đô la. Họ tin tưởng rằng tại một thời điểm nào đó trong tương lai ai đó sẽ sẵn sàng mua SMD từ họ với một đồng đô la hoặc sẽ có các nhà đầu cơ và các nhà đầu tư sẵn sàng mua STEEM mà họ đã chuyển đổi nó thành.
 
 Những người nắm giữ STEEM và SP có được lợi thế đòn bẩy khi các thành viên trong cộng đồng sẵn sàng nắm giữ SMD. Đòn bẩy này khuếch đại lợi nhuận từ sự tăng trưởng trong khi đó nó sẽ cũng góp phần vào sự phát triển. Chủ sở hữu đồng STEEM sẽ phải chịu đựng việc loãng giá nếu giá giảm. Các dự án tiền điện tử đã cho thấy lợi ích từ việc tăng cơ sở người dùng tin tưởng vào mạng lưới với vốn đầu tư của họ sẽ giúp tăng thêm giá trị cho mạng lưới so với bất kỳ sự mất giá nào có thể xảy ra trong thời gian suy thoái.
 
