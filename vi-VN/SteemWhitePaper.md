@@ -299,11 +299,11 @@ Sự đồng thuận là một quá trình mà ở đây một cộng đồng c�
 
 Các thuật toán sử dụng xây dựng các đồng tiền mã hóa đưa ra giải pháp tốt hơn nhằm đạt sự đồng thuận. Tài liệu chứng từ cá nhân được mã hóa và lưu vào sổ cái công cộng, cách này giúp thiết lập trật tự hoàn toàn cho mỗi sự kiện. Một thuật toán máy tính có tính xác nhận giúp xử lí sổ cái này và từ đó khiến mọi người cùng đi đến một kết luận được chấp nhận. Yêu cầu đặt ra là các thành viên phải cùng đồng ý áp dụng thuật toán này, để kết quả của nó trở nên có tính thẩm quyền.
 
-Việc đầu tiên cần phải xem xét đó là cần quyết định xem loại chứng từ nào được phép ghi chép và lưu truyền ra công cộng. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+Việc đầu tiên cần phải xem xét đó là cần quyết định xem loại chứng từ nào được phép ghi chép và lưu truyền ra công cộng. Sau đó các hệ thống cần được thiết lập để hạn chế khả năng bị kiểm duyệt. Việc cuốn sổ cái công cộng bị kiểm duyệt thì cũng giống như ngăn cản quyền bỏ phiếu của một người nào đó. Nhưng trong cả hai trường hợp trên đều đã bãi bỏ tác động của sự đồng thuận toàn cầu.
 
-## Consensus in Steem
+## Sự đồng thuận trên Steem
 
-Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+Từ khái niệm trên được đưa ra, thuật toán đồng thuận sử dụng trên nền tảng của Steem cũng tương tự như thuật toán đồng thuận mà các công ty hiện nay trên thế giới đang áp dụng. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
 
 In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
 
