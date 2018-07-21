@@ -440,9 +440,9 @@ Người dùng sử dụng số băng thông trung bình là M \ * U / S. Mức 
 
 Bất cứ khi nào số lượng khối được tạo ra không bằng một nửa số lượng dự tính thì hệ thống có thể tăng tỷ lệ dự trữ và sẽ giảm tỷ lệ này nếu số lượng khối tăng hơn một nửa. Thuật toán điều chỉnh R đã ra đời để xử lý nhanh chóng việc giảm tỷ lệ dự trữ khi nhu cầu sử dụng tăng cao hay tăng tỷ lệ này khi nhu cầu giảm xuống.
 
-The minimum reserve ratio is 1, and the maximum reserve ratio should be calculated to prevent small stakeholders from consuming all of the available bandwidth. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
+Tỷ lệ dự trữ tối thiểu là 1 và tỷ lệ dự trữ tối đa sẽ được tính toán hợp lý để ngăn những bên tham gia sử dụng hết băng thông sẵn có. Trong trường hợp không có ai sử dụng băng thông sẵn có thì tỷ lệ dự trữ có thể tăng lên cho đến khi người dùng chỉ cần 1 satoshi cũng có thể thực hiện giao dịch từng khối đơn lẻ.
 
-### Case Study: Bitcoin
+### Ví dụ thực tế: Bitcoin
 
 To understand how this algorithm would work on Bitcoin it is necessary to estimate a reasonable value for the reserve ratio, R, based on actual usage. Based upon the total supply of 15M BTC and a daily transaction volume of 400K BTC[^10], we can derive a minimum reserve ratio of 38 for Bitcoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
 
