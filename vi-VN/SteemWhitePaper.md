@@ -662,7 +662,7 @@ It isn't easy to get into cryptocurrency[^24] . Someone who discovers Bitcoin an
 
 Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless).
 
-## Solving the Cryptocurrency Liquidation Problem
+## Giải pháp cho những vấn đề về tính thanh khoản của tiền tệ điện tử
 
 Giá trị của đồng tiền phụ thuộc vào tính thanh khoản của đồng tiền đó. Bất kỳ ai nắm giữ đồng Bitcoin trị giá $1.00 cũng hiểu rằng giá trị giao dịch của nó cao hơn nhiều so với thực giá. Để tham gia thực hiện giao dịch, người dùng phải tạo một tài khoản, tiến hành xác minh danh tính khách hàng (KYC) và trả phí khởi tạo. Đối với tiền tệ mã hóa, sự thay đổi về lượng không làm thay đổi nhiều về giá trị để có thể thu hút sự quan tâm của người tham gia giao dịch.
 
@@ -670,7 +670,7 @@ Các đại lý giao dịch thường cung cấp cho người dùng cách nhanh 
 
 Các đại lý giao dịch sẽ chấp nhận bất kỳ loại tiền tệ nào làm tăng doanh thu cho họ. Do đó, việc họ sở hữu một đồng tiền ổn định với lượng người sử dụng lớn như SMD sẽ giúp các đại lý giao dịch bớt đi nhiều rào cản khi tham gia thị trường. Bằng cách tạo ra một lối tắt cho người tham gia thoát ra khỏi hệ thống mà không gặp bất kỳ khó khăn nào, các đại lý giao dịch đã góp phần cải tiến hệ thống tốt hơn.
 
-Người tham gia giao dịch có thể tiến hành thanh lý lượng nhỏ tiền điện tử họ nhận được theo một cách khác là dưới dạng tiền biếu (tips). Điều này giống cách thức bạn để lại tiền thưởng cho bồi bàn tại các nhà hàng. Khi khoản tiền thưởng nhỏ dành cho nhiều người nó sẽ gộp lại thành một khoản tiền có giá trị. Cả người trao và người nhận tiền thưởng nhỏ đều có lợi thông qua hoạt động này.
+Người tham gia giao dịch có thể tiến hành thanh lý lượng nhỏ tiền điện tử họ nhận được theo một cách khác là dưới dạng tiền thưởng nhỏ (tips). Điều này giống cách thức bạn để lại tiền thưởng cho bồi bàn tại các nhà hàng. Khi khoản tiền thưởng nhỏ dành cho nhiều người nó sẽ gộp lại thành một khoản tiền có giá trị. Cả người trao và người nhận tiền thưởng nhỏ đều có lợi thông qua hoạt động này.
 
 ## Censorship
 
