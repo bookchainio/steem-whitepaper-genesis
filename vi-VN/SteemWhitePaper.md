@@ -297,9 +297,9 @@ Khi một bài đăng có được thanh toán, người đăng bài sẽ nhận
 
 Sự đồng thuận là một quá trình mà ở đây một cộng đồng cùng nhau công nhận, đạt được thỏa thuận rõ ràng về một thông tin nào đó. Hiện nay đã có rất nhiều các thuật toán được phát triển và sử dụng nhằm mang tới sự đồng thuận về ai sở hữu điều gì. Mỗi chính phủ hiện nay được coi là hiện thân của thuật toán đồng thuận cơ bản, nơi người dân đồng ý tuân theo bộ quy tắc được ghi chép lại trong hiến pháp. Các chính phủ lại thành lập các toàn án, phẩm phán và bồi thẩm đoàn nhằm giải thích các sự thật chủ quan và đưa ra quyết định cuối cùng. Trong hầu hết các trường hợp, dù các quyết định được đưa ra là sai, mọi người vẫn cứ phải tuân theo.
 
-Các thuật toán sử dụng xây dựng các đồng tiền mã hóa đưa ra giải pháp tốt hơn nhằm đạt sự đồng thuận. Tài liệu chứng từ cá nhân được mã hóa và lưu vào sổ cái công cộng, cách này giúp thiết lập trật tự hoàn toàn cho mỗi sự kiện. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+Các thuật toán sử dụng xây dựng các đồng tiền mã hóa đưa ra giải pháp tốt hơn nhằm đạt sự đồng thuận. Tài liệu chứng từ cá nhân được mã hóa và lưu vào sổ cái công cộng, cách này giúp thiết lập trật tự hoàn toàn cho mỗi sự kiện. Một thuật toán máy tính có tính xác nhận giúp xử lí sổ cái này và từ đó khiến mọi người cùng đi đến một kết luận được chấp nhận. Yêu cầu đặt ra là các thành viên phải cùng đồng ý áp dụng thuật toán này, để kết quả của nó trở nên có tính thẩm quyền.
 
-The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+Việc đầu tiên cần phải xem xét đó là cần quyết định xem loại chứng từ nào được phép ghi chép và lưu truyền ra công cộng. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
 
 ## Consensus in Steem
 
