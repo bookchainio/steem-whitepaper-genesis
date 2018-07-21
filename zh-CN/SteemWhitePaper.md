@@ -521,7 +521,7 @@ Ripple使用一个最小余额[^12]，该余额会根据账户使用的资源进
 
 如果由多人共同拥有一所房子，那么每个人都要决定他们希望如何来分时共享他们的房子。 如果拥有房子50%产权的人每年只使用该房子一周的时间，那么他们会期待那些使用了他们空闲时段的人会付钱给他们。 其实这是基于费用系统的思维方式。
 
-On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
+另一方面，拥有房子50%产权的人预测将来对房子的需求会增长，他们一旦售出产权会获利更多。 任何拥有房子产权，但并不完全使用该房子的人其实上变成了房地产投机者。 With this mindset rather than collecting rent, they collect appreciation.
 
 The value of a share is derived from how much time it can potentially grant its owner. Owning 1% of a house and getting it 1 weekend per year is the lowest value of a share. However, if half of the shareholders never use their weekend, then the value per timeshare rises to 2 weekends per year. If those inactive users instead opt to rent their unused time, then it falls back to 1 weekend per year. If those unused timeshares were sold to people who would use them then the value of a timeshare would fall by 50%. Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
 
