@@ -938,7 +938,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </h2>
 
 <p>
-  Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+  La maggior parte delle criptovalute generano un piccolo valore per coloro che non utilizzano attivamente la rete. Steem, al contrario, genera contenuti e incoraggia gli utenti a condividerli. Questo contenuto viene indicizzato dai motori di ricerca e, in definitiva, apporterà valore ad un elevato numero di utenti passivi. Questo traffico di ricerca crea pubblicità naturale per la rete di Steem e fa crescere l'incidenza della rete.
 </p>
 
 <h2>
