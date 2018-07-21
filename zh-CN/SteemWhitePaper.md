@@ -523,7 +523,7 @@ Ripple使用一个最小余额[^12]，该余额会根据账户使用的资源进
 
 另一方面，拥有房子50%产权的人预测将来对房子的需求会增长，他们一旦售出产权会获利更多。 任何拥有房子产权，但并不完全使用该房子的人其实上变成了房地产投机者。 有了这种思维方式但并不收取租金的人，会获得他人的感激。
 
-The value of a share is derived from how much time it can potentially grant its owner. Owning 1% of a house and getting it 1 weekend per year is the lowest value of a share. However, if half of the shareholders never use their weekend, then the value per timeshare rises to 2 weekends per year. If those inactive users instead opt to rent their unused time, then it falls back to 1 weekend per year. If those unused timeshares were sold to people who would use them then the value of a timeshare would fall by 50%. Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
+每一个共享份额的价值来自于它们能够为所有者带来多少时间的使用权。 拥有房子1%的所有权，且能够在每年获得一个周末的使用权，这就是一个共享份额对应的最低价值。 然而，如果所有的产权拥有者从未使用他们应得的周末，那么每个分时份额的价值会升至每年两个周末。 If those inactive users instead opt to rent their unused time, then it falls back to 1 weekend per year. If those unused timeshares were sold to people who would use them then the value of a timeshare would fall by 50%. Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
 
 Using this rationale we can assume that a system based on fees will either be more expensive for its users or be less profitable for its collective owners. An individual small owner may profit by renting out his small time slice, but only at the expense of all other timeshare owners. In effect, the cost of the falling timeshare value is shared among all owners whereas the profits are centralized in the single owner who decided to rent his share.
 
