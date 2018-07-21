@@ -74,9 +74,9 @@
 
 Steem هو وحدة الحساب الأساسية في ستيم بلوكشين. وتستمد جميع العملات الرمزية الأخرى قيمتها من قيمة ستيم. وبصفة عامة ينبغي أن يُقبض STEEM لفترات قصيرة من الوقت عندما تكون السيولة مطلوبة. شخص يريد الدخول أو الخروج من منصة Steem يتطلب منه شراء أو بيع STEEM. بمجرد شراء STEEM ، يجب تحويله إلى SP أو SMD لتقليل تأثير التخفيف على المدى الطويل.
 
-STEEM يتزايد في العرض باستمرار بنسبة 100% في السنة بسبب عدم وجود تحفيو لـ SMD. الشخص الذي يحمل STEEM دون تحويله إلى SP يعاني من انخفاض في القيمة بما يقرب من 0.19 ٪ في اليوم الواحد. While the rate may appear high, for transactions that take less than 10 days, it is still cheaper than credit card processing fees. Furthermore, the daily token creation is insignificant next to the daily volatility.
+STEEM يتزايد في العرض باستمرار بنسبة 100% في السنة بسبب عدم وجود تحفيو لـ SMD. الشخص الذي يحمل STEEM دون تحويله إلى SP يعاني من انخفاض في القيمة بما يقرب من 0.19 ٪ في اليوم الواحد. على الرغم من أن هذه النسبة تبدو عالية قليلاً, للمعاملات التي يقل عمرها عن 10 أيام ، إلا أنها لا تزال أرخص من رسوم البطاقات الائتمانية. بالإضافة إلى ذلك ، الإنتاج اليومي للعملات الجديدة غير مهم مقارنة بالتقلب اليومي.
 
-Someone who buys Bitcoin or any other cryptocurrency and sells it 10 days later could easily lose 3% or more due to price fluctuations. Someone who buys Bitcoin and then sells it the same day will usually pay more than 0.4% in market fees alone. In other words, the inflation rate is effectively insignificant during the period of time the typical individual will hold STEEM.
+الشخص الذي يشتري بيتكوين (Bitcoin) أو أي عملة مشفرة أخرى ويبيعها بعد 10 أيام يمكن أن يخسر بسهولة 3٪ أو أكثر بسبب تقلبات الأسعار. Someone who buys Bitcoin and then sells it the same day will usually pay more than 0.4% in market fees alone. In other words, the inflation rate is effectively insignificant during the period of time the typical individual will hold STEEM.
 
 The majority of inflation is actually an accounting artifact rather than true reallocation of wealth. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
 
