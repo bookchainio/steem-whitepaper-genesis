@@ -78,7 +78,7 @@ STEEM يتزايد في العرض باستمرار بنسبة 100% في الس�
 
 الشخص الذي يشتري بيتكوين (Bitcoin) أو أي عملة مشفرة أخرى ويبيعها بعد 10 أيام يمكن أن يخسر بسهولة 3٪ أو أكثر بسبب تقلبات الأسعار. أي شخص يشتري بيتكوين (Bitcoin) ثم يبيعه في نفس اليوم ، سيدفع عادة أكثر من 0.4٪ على عمولات السوق وحدها. وبعبارة أخرى ، فإن معدل التضخم هو في الواقع غير مهم خلال الفترة التي سيحتفظ فيها الفرد العادي بـ STEEM.
 
-The majority of inflation is actually an accounting artifact rather than true reallocation of wealth. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
+غالبية التضخم هو في الواقع أداة محاسبة بدلاً من إعادة توزيع الثروة الحقيقية. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
 
 ## قوة ستيم(SP)
 
@@ -155,9 +155,9 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
 
 For every SMD Steem creates, $19.00 of STEEM is also created and converted to SP. This means that the highest possible debt-to-ownership in a stable market is 1:19 or about 5%. If Steem falls in value by 50% then the ratio could increase to 10%. An 88% fall in value of STEEM could cause the debt-to-ownership ratio to reach 40%. Assuming the value of STEEM eventually stabilizes, the debt-to-ownership ratio will naturally move back toward 5%.
 
-The idea behind having a conservative 5% debt to ownership ratio is that even if all debt were converted and sold there should be ample buyers and the effective dilution of the token holders remains relatively small.
+إن الفكرة من وجود دين محافظ بنسبة 5٪ للملكية هي أنه حتى لو تم تحويل جميع الديون وبيعها ، يجب أن يكون هناك عدد كافي من المشترين ويظل التخفيف الفعلي لمالكي العملات منخفضًا نسبيًا.
 
-A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SMD and SP (as determined by the current rate / feed).
+يمكن أن يؤدي التغير السريع في قيمة STEEM إلى تغيير كبير في نسبة الدين إلى الملكية. The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SMD and SP (as determined by the current rate / feed).
 
 ### Interest
 
