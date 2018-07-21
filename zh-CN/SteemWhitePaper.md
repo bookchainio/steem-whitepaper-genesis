@@ -517,9 +517,9 @@ Ripple使用一个最小余额[^12]，该余额会根据账户使用的资源进
 
 ### 租赁、购买与分时共享
 
-当某人拥有一所房子时，他们会期待拥有房子的免费使用权。 如果一组人一起买房子, 那么每个人都可以期望用房子的百分比来与房子的所有权比例相称的权利。 A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+当某人拥有一所房子时，他们会期待拥有房子的免费使用权。 如果一组人一起买房子, 那么每个人都可以期望用房子的百分比来与房子的所有权比例相称的权利。 基于交易费的区块链就像是从房东那里租赁房子，而对使用率的限制则像是房东之间的分时共享。
 
-If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+如果由多人共同拥有一所房子，那么每个人都要决定他们希望如何来分时共享他们的房子。 Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
 
 On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
 
