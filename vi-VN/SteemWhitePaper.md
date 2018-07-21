@@ -307,7 +307,7 @@ Từ khái niệm trên được đưa ra, thuật toán đồng thuận sử d�
 
 Trong thế giới của các đồng tiền mã hóa, bản ghi chép công cộng thường được gọi với cái tên khác là *blockchain*. Một *block* (khối) là một nhóm các giao dịch đã ký hoàn thành.
 
-Trên nền tảng Steem, việc sản xuất các khối được tính theo các vòng. Mỗi vòng gồm có 21 nhân chứng được lựa chọn để tạo ra các khối, đồng thời ký lên các giao dịch. Nineteen (19) of these witnesses are selected by approval voting, one is selected by a computational proof-of-work, and one is timeshared by every witness that didn't make it into the top 19 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before.
+Trên nền tảng Steem, việc sản xuất các khối được tính theo các vòng. Mỗi vòng gồm có 21 nhân chứng được lựa chọn để tạo ra các khối, đồng thời ký lên các giao dịch. Trong số 19 các nhân chứng này được lựa chọn bằng việc bỏ phiếu phê chuẩn, một phiếu được lựa chọn từ sự tính toán của bằng chứng công việc, phiếu bầu còn lại là việc bầu từ các nhân chứng không thuộc trong nhóm 19 người đầu tỷ lệ thuận với tổng số phiếu của họ. Thứ tự 21 nhân chứng đang hoạt động này thường xuyên được xáo trộn nhằm tránh việc một nhân chứng liên tục bỏ qua các khối do chính mình tạo ra trước đó.
 
 This process is designed to provide the best reliability while ensuring that everyone has the potential to participate in block production regardless of whether they are popular enough to get voted to the top. People have three options to overcome censorship by the top 19 elected witnesses: patiently wait in line with everyone else not in the top 19, purchase enough computational power to solve a proof of work faster than others, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
 
@@ -444,7 +444,7 @@ Tỷ lệ dự trữ tối thiểu là 1 và tỷ lệ dự trữ tối đa sẽ
 
 ### Ví dụ thực tế: Bitcoin
 
-Khi tính tỷ lệ dự trữ R dựa vào mức sử dụng thực tế sẽ hiểu rõ hơn cách áp dụng thuật toán này trên Bitcoin. Based upon the total supply of 15M BTC and a daily transaction volume of 400K BTC[^10], we can derive a minimum reserve ratio of 38 for Bitcoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
+Khi tính tỷ lệ dự trữ R dựa vào mức sử dụng thực tế sẽ hiểu rõ hơn cách áp dụng thuật toán này trên Bitcoin. Với tổng nguồn cung là 15 triệu BTC và khối lượng giao dịch hàng ngày là 400 nghìn BTC[^10], chúng ta có thể tính được tỷ lệ dự trữ R là 38. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
 
     Let C = 1MB = 1024 * 1024
     Let L = 1008 (blocks per week)
