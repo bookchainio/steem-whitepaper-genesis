@@ -140,7 +140,7 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
 
 لدى Steem سوق على سلسلة الكتل (blockchain) بين SMD و STEEM. يمكن للمستخدمين الحصول على مكافآت بتوفير السيولة لكلا الجانبين من هذا السوق. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
 
-A user is considered a liquidity provider if they leave an open order on the books for at least 1 minute and the order is eventually filled. If the order is canceled before being filled then the user is not credited with providing liquidity.
+يعتبر المستخدم مزودًا للسيولة إذا ترك أمرًا مفتوحًا في السجل لمدة دقيقة واحدة على الأقل وتم ملء الطلب في النهاية. If the order is canceled before being filled then the user is not credited with providing liquidity.
 
 Users must provide liquidity on both sides of the book to qualify for rewards and they must provide liquidity consistently over time. The scoring algorithm is:
 
