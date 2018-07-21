@@ -436,7 +436,7 @@ Mỗi người dùng được sử dụng băng thông trung bình hàng tuần 
     Lượng phân bổ = M * U / S
     
 
-Người dùng sử dụng số băng thông trung bình là M \ * U / S. Mức này sẽ tăng vượt ngưỡng khi thực hiện giao dịch dù ở bất kỳ thời điểm nào và giao dịch sẽ không thể thực hiện cho đến khi đủ thời gian để chỉ số băng thông trung bình giảm xuống.
+Người dùng sử dụng số băng thông trung bình là M \ * U / S. Mức này có thể tăng vượt ngưỡng nếu thực hiện giao dịch dù ở bất kỳ thời điểm nào và giao dịch sẽ không thể thực hiện cho đến khi đủ thời gian để chỉ số băng thông trung bình giảm xuống.
 
 The network can increase the reserve ratio, anytime blocks are less than half the target capacity and decrease it anytime they are more than half. The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
 
