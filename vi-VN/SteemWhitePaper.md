@@ -193,9 +193,9 @@ Chúng tôi tin rằng những quy tắc này sẽ giúp người tham gia thị
 
 ## Đóng góp chủ quan
 
-Sự ra đời của bằng chứng công việc chủ quan nhằm thay thế bằng chứng công việc đã hoàn toàn *khách quan* như việc khai thác mỏ, với mục đích cung cấp một cách tiếp cận khác tới việc phân phối tiền tệ. Một đồng tiền tệ sử dụng bằng chứng công việc *chủ quan* có tính thực tiễn rộng rãi hơn so với hệ thống bằng chứng công việc *khách quan*, bởi vì chúng có thể được áp dụng để xây dựng bất kỳ cộng đồng nào có mục đích hoạt động rõ ràng và đầy đủ. Khi các cá nhân tham gia một cộng đồng nào đó, họ thường mang theo những sự tin tưởng và có thể bỏ phiếu cho các quyết định nhằm tăng các giá trị hoặc mục đích của cộng đồng đó.
+Sự ra đời của bằng chứng công việc chủ quan nhằm thay thế bằng chứng công việc đã hoàn toàn *khách quan* như việc khai thác mỏ, với mục đích cung cấp một cách tiếp cận khác tới việc phân phối tiền tệ. Các ứng dụng của một loại tiền tệ sử dụng bằng chứng công việc *chủ quan* sẽ trở nên phổ biến hơn bất kỳ hệ thống nào sử dụng bằng chứng công việc *khách quan*, bởi vì chúng có thể được áp dụng để xây dựng cộng đồng nơi có mục đích, ý tưởng hoạt động rõ ràng và đầy đủ. Khi các cá nhân tham gia một cộng đồng nào đó, họ thường mang theo những sự tin tưởng và có thể bỏ phiếu cho các quyết định nhằm tăng các giá trị hoặc mục đích của cộng đồng đó.
 
-Trên thực tế, các công việc được đánh giá với tiêu chuẩn theo cách hoàn toàn chủ quan và định nghĩa nằm ngoài mã nguồn của nó. Một cộng đồng có thể mong muốn trao thưởng cho các nghệ sĩ, các nhà thơ và các diễn viên kịch vui. Trong khi các cộng đồng khác lựa chọn để tặng thưởng các hoạt động từ thiện hay giúp cải thiện các chương trình nghị sự chính trị. Trong khi các cộng đồng khác lựa chọn để tặng thưởng các hoạt động từ thiện hay giúp cải thiện các chương trình nghị sự chính trị.
+Và hiệu quả thực tế là, công việc được đánh giá với các tiêu chuẩn sẽ trở nên hoàn toàn chủ quan và sự xác định đồng thời sẽ nằm ngoài bộ mã nguồn của nó. Một cộng đồng có thể mong muốn trao thưởng cho các nghệ sĩ, các nhà thơ và các diễn viên kịch vui. Trong khi các cộng đồng khác lựa chọn để tặng thưởng các hoạt động từ thiện hay giúp cải thiện các chương trình nghị sự chính trị. Trong khi các cộng đồng khác lựa chọn để tặng thưởng các hoạt động từ thiện hay giúp cải thiện các chương trình nghị sự chính trị.
 
 Giá trị mỗi đồng tiền đạt được phụ thuộc vào nhu cầu dành ảnh hưởng trong phạm vi một cộng đồng cụ thể và niềm tin từ thị trường về độ lớn của mỗi cộng đồng có khả năng phát triển được bao nhiêu. Không giống như các hệ thống trước đây, bằng chứng công việc chủ quan giúp đỡ cộng đồng gây quỹ một cách chọn lọc cho sự phát triển của các chương trình có ý nghĩa và khiến cho khoảng thời gian vô giá trị trước đây trở nên có lợi nhuận kinh tế.
 
@@ -672,17 +672,17 @@ Các đại lý giao dịch sẽ chấp nhận bất kỳ loại tiền tệ nà
 
 Người tham gia giao dịch có thể tiến hành thanh lý lượng nhỏ tiền điện tử họ nhận được theo một cách khác là dưới dạng tiền thưởng nhỏ (tips). Điều này giống cách thức bạn để lại tiền thưởng cho bồi bàn tại các nhà hàng. Khi khoản tiền thưởng nhỏ dành cho nhiều người nó sẽ gộp lại thành một khoản tiền có giá trị. Cả người trao và người nhận tiền thưởng nhỏ đều có lợi thông qua hoạt động này.
 
-## Censorship
+## Hoạt động kiểm duyệt nội dung khi đăng tải
 
 Steem là một mạng lưới phi tập trung được vận hành bởi các thợ mỏ có quyền hạn pháp lý trên toàn thế giới. Mọi hoạt động của người dùng sẽ được ghi lại một cách công khai trên hệ thống blockchain và có thể được xác minh công khai. Điều này có nghĩa là việc kiểm duyệt nội dung của những người tham gia Steem không thể thực hiện đơn lẻ bởi bất kỳ một cá nhân nào.
 
 Các trang mạng như Steemit.com đều cho phép người dùng có thể sửa đổi, kiểm duyệt nội dung trên trang cá nhân của họ, tuy nhiên một khi thông tin được phát hành trên hệ thống blockchain và vốn đã được truy cập, sao chép trên toàn thế giới thì nó sẽ tiếp tục tồn tại.
 
-Tự do ngôn luận là nền tảng của tất cả các quyền tự do khác và bất kỳ hoạt động nào vi phạm về quyền tự do ngôn luận cũng cần thông qua phương pháp hòa bình duy nhất là trao đổi thảo luận để đi đến sự đồng thuận. Những người sử dụng trang mạng sẽ bị thiếu hụt thông tin khi mà họ không được tham gia các cuộc thảo luận tự do và nếu so sánh với việc một người bị mất quyền bình chọn nội dung thì hành động bỏ phiếu với nguồn thông tin không đầy đủ sẽ thực sự là mối đe dọa lớn cho cộng đồng. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+Tự do ngôn luận là nền tảng của tất cả các quyền tự do khác và bất kỳ hoạt động nào vi phạm về quyền tự do ngôn luận cũng cần thông qua phương pháp hòa bình duy nhất là trao đổi thảo luận để đi đến sự đồng thuận. Những người sử dụng trang mạng sẽ bị thiếu hụt thông tin khi mà họ không được tham gia các cuộc thảo luận tự do và nếu so sánh với việc một người bị mất quyền bình chọn nội dung thì hành động bỏ phiếu với nguồn thông tin không đầy đủ sẽ thực sự là mối đe dọa lớn cho cộng đồng. Thông qua hoạt động giới hạn các bài tham luận công khai thì việc kiểm duyệt nội dung trước khi đăng tải là một hình thức tước đoạt quyền được bình chọn của người tham gia vào mạng lưới. Steem cam kết đem lại cho người dùng một cộng đồng được tự do ngôn luận và bình đẳng.
 
 ## Solving Organic Discovery via Search Engine Optimization
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+Hầu hết các đồng tiền mã hóa thường không cung cấp nhiều giá trị cho những người dùng có ít hoạt động trên mạng lưới. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
 
 ## Shifting Toward Blockchain-based Attribution
 
