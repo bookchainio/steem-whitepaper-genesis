@@ -444,7 +444,7 @@ Tỷ lệ dự trữ tối thiểu là 1 và tỷ lệ dự trữ tối đa sẽ
 
 ### Ví dụ thực tế: Bitcoin
 
-To understand how this algorithm would work on Bitcoin it is necessary to estimate a reasonable value for the reserve ratio, R, based on actual usage. Based upon the total supply of 15M BTC and a daily transaction volume of 400K BTC[^10], we can derive a minimum reserve ratio of 38 for Bitcoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
+Khi tính tỷ lệ dự trữ R dựa vào mức sử dụng thực tế sẽ hiểu rõ hơn cách áp dụng thuật toán này trên Bitcoin. Based upon the total supply of 15M BTC and a daily transaction volume of 400K BTC[^10], we can derive a minimum reserve ratio of 38 for Bitcoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
 
     Let C = 1MB = 1024 * 1024
     Let L = 1008 (blocks per week)
