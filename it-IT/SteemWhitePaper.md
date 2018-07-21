@@ -954,7 +954,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  Mentre un servizio con la marcatura temporale può essere realizzato su quasi ogni blockchain e diversi sforzi per creare questo tipo di servizio nelle rete del Bitcoin sussistono, Steem ha un valido vantaggio in questo ambito perché gli editori di contenuti sono "cittadini di prima classe" -- La blockchain di Steem è costruita da cima a fondo intorno al caso d'uso della pubblicazione del contenuto, il che permette ai creatori del contenuto di avere la blockchain per convalidarlo in un certo periodo di tempo, semplicemente scrivendo il loro articolo utilizzando gli stessi strumenti di creazione utilizzati dagli altri utenti di Steem.
+  Mentre un servizio con la marcatura temporale può essere realizzato su quasi ogni blockchain e diversi sforzi per creare questo tipo di servizio nelle rete del Bitcoin sussistono, Steem ha un valido vantaggio in questo ambito perché gli editori di contenuti sono "cittadini di prima classe" -- La blockchain di Steem è costruita da cima a fondo intorno al caso d'uso della pubblicazione del contenuto, il che permette ai creatori dello stesso, di avere la blockchain per convalidarlo in un certo periodo di tempo, semplicemente scrivendo il loro articolo utilizzando gli stessi strumenti di creazione utilizzati dagli altri utenti di Steem.
 </p>
 
 <h2>
@@ -962,7 +962,7 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </h2>
 
 <p>
-  Secondo la maggior parte dei modelli di monetizzazione del contenuto, i creatori di quest'ultimo sfruttano la pubblicità in un modo o nell'altro. Tanti creatori riconosco come la pubblicità possa sminuire il valore del loro lavoro per il consumatore, tuttavia i creatori devono mirare ad un rendimento nel loro tempo monetizzando. La pubblicità rappresenta un'arma a doppio taglio: con le pubblicità i creatori possono fare soldi più facilmente. Senza pubblicità, la monetizzazione è difficile ma il contenuto è più ricco.
+  Secondo la maggior parte dei modelli di monetizzazione del contenuto, i creatori di quest'ultimo sfruttano, in un modo o nell'altro, la pubblicità. Tanti creatori riconosco come la pubblicità possa sminuire il valore del loro lavoro per il consumatore, tuttavia i creatori devono mirare ad un rendimento nel loro tempo monetizzando. La pubblicità rappresenta un'arma a doppio taglio: con le pubblicità i creatori possono fare soldi più facilmente. Senza pubblicità, la monetizzazione è difficile ma il contenuto è più ricco.
 </p>
 
 <p>
