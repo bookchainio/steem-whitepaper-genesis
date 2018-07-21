@@ -430,15 +430,15 @@ Mỗi người dùng được sử dụng băng thông trung bình hàng tuần 
     Gọi U = SP của người dùng
     Gọi S = tổng số SP
     Gọi R = tỷ lệ dự trữ hiện tại giữa 1 và R tối đa
-    Gọi C = dung lượng tối đa của nền tảng được tạo nên bởi các nhân chứng
-    Gọi L = tổng số nền tảng mỗi tuần
+    Gọi C = số lượng khối tối đa được các nhân chứng sản xuất
+    Gọi L = tổng số khối mỗi tuần
     Gọi M = C * L * R
     Lượng phân bổ = M * U / S
     
 
 Người dùng sử dụng số băng thông trung bình là M \ * U / S. Mức này có thể tăng vượt ngưỡng nếu thực hiện giao dịch dù ở bất kỳ thời điểm nào và giao dịch sẽ không thể thực hiện cho đến khi đủ thời gian để chỉ số băng thông trung bình giảm xuống.
 
-The network can increase the reserve ratio, anytime blocks are less than half the target capacity and decrease it anytime they are more than half. The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
+Bất cứ khi nào số lượng khối được tạo ra không bằng một nửa số lượng dự tính thì hệ thống có thể tăng tỷ lệ dự trữ và sẽ giảm tỷ lệ này nếu số lượng khối tăng hơn một nửa. The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
 
 The minimum reserve ratio is 1, and the maximum reserve ratio should be calculated to prevent small stakeholders from consuming all of the available bandwidth. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
 
