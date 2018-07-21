@@ -183,7 +183,7 @@ Nếu giá giao dịch của SMD dưới $1.00 USD và tỷ lệ nợ-quyền s�
 
 Giả sử rằng giá trị của đồng STEEM phát triển nhanh hơn việc Steem đang tạo ra đồng SMD mới thì tỷ lệ nợ-quyền sở hữu nên được duy trì theo tỷ lệ mục tiêu và lợi ích của lãi suất mang lại cho tất cả mọi người. If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+Trên thực tế, các nhà cung cấp dữ liệu được giao phó trách nhiệm thiết lập chính sách tiền tệ với mục đích duy trì giá trị ổn định với USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
 Nếu tỷ lệ nợ-sở hữu cao tới mức nguy hiểm và người tham gia thị trường chọn việc tránh các yêu cầu chuyển đổi, thì nguồn cung cấp dữ liệu phải được điều chỉnh để tăng giá mà STEEM đã trả để chuyển đổi sang SMD.
 
