@@ -942,23 +942,23 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <h2>
-  Shifting Toward Blockchain-based Attribution
+  Muoversi verso l'attribuzione basata sulla Blockchain
 </h2>
 
 <p>
-  The internet represents the easiest medium for distributing information in the world. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
+  Internet rappresenta il mezzo più semplice per distribuire l'informazione nel mondo. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
 </p>
 
 <p>
-  Under blockchain-based social media, a creator or author would always be able to point to a public record and timestamp showing proof of their content origination. In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
+  Secondo il social media basato sulla blockchain, un creatore o un autore saranno sempre capaci di puntare ad un registro pubblico e ad una marcatura temporale mostrando la prova dell'origine del loro contenuto. In una circostanza dove al creatore piacerebbe affrontare coloro che hanno a loro volta condiviso senza l'autorizzazione o l'attribuzione, i regisri pubblici basati sulla blockchain forniscono una prova pubblica che il contenuto era stato pubblicato da un determinato utente ad una determinata ora. Nel futuro, l'attribuzione basata sulla blockchain potrebbe venire riconosciuta dai governi per la sua autenticità e potrebbe avere un peso in tribunale, il che darebbe ai creatori dei contenuti poteri maggiori per controllare il loro lavoro.
 </p>
 
 <p>
-  While a timestamping service can be built on almost any blockchain, and several efforts exist to build this kind of service on the Bitcoin network, Steem has a useful advantage in this realm because content publishers are "first class citizens" - the Steem blockchain is built from the ground up around the use case of content publication, which allows content creators to have the blockchain to validate their content at a certain point in time simply by writing their post using the same authoring tools used by other Steem users.
+  Mentre un servizio con la marcatura temporale può essere realizzato su quasi ogni blockchain e diversi sforzi per creare questo tipo di servizio nelle rete del Bitcoin sussistono, Steem ha un valido vantaggio in questo ambito perché gli editori di contenuti sono "cittadini di prima classe" -- La blockchain di Steem è costruita da cima a fondo intorno al caso d'uso della pubblicazione del contenuto, il che permette ai creatori del contenuto di avere la blockchain per convalidarlo in un certo periodo di tempo, semplicemente scrivendo il loro articolo utilizzando gli stessi strumenti di creazione utilizzati dagli altri utenti di Steem.
 </p>
 
 <h2>
-  Replacing Advertising with Blockchain-based Content Rewards
+  Sostituire la pubblicità con le ricompense del contenuto basato sulla blockchain
 </h2>
 
 <p>
