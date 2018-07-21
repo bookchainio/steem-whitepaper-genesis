@@ -930,11 +930,11 @@ CLR/S = 2869 bytes a settimana o circa 5 transazioni a settimana per BTC
 </p>
 
 <p>
-  Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+  La libertà di parola è il fondamento di tutte le altre libertà e, qualsiasi violazione a quest'ultima, mina all'unico strumento pacifico per raggiungere l'opinione generale: la discussione. Senza il libero dibattito, i votanti non possono essere informati totalmente, e, quelli non informati, sono una minaccia maggiore alla società rispetto al perdere il diritto di voto. La censura è uno strumento per rubare i voti limitando il dibattito pubblico. Steem si impegna a consentire la libertà di parola e a costituire una società libera.
 </p>
 
 <h2>
-  Solving Organic Discovery via Search Engine Optimization
+  Risolvere la ricerca naturale attraverso l'ottimizzazione del motore di ricerca
 </h2>
 
 <p>
