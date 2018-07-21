@@ -189,7 +189,7 @@ Nếu tỷ lệ nợ-sở hữu cao tới mức nguy hiểm và người tham gi
 
 Các sự thay đổi chính sách về lãi suất và/hoặc bất kỳ các khoản tiền thưởng/chiết khấu trên tỷ lệ chuyển đổi STEEM/SMD phải là phản hồi cần được cân nhắc kỹ càng và từ tốn về sự chênh lệch trung bình trong khoảng thời gian dài hạn hơn là cố gắng phản hồi dựa trên các điều kiện thị trường ngắn hạn. Chuỗi khối blockchain đang chi trả cho các nhà cung cấp thanh khoản về dịch vụ của họ trong việc đáp ứng các nhu cầu ngắn hạn.
 
-Chúng tôi tin rằng với những quy tắc này sẽ giúp người tham gia thị trường sẽ tự tin vào khả năng mất tiền của họ khi giữ đồng SMD được mua với giá $1.00 là không thể. Chúng tôi kỳ vọng rằng sẽ có một phạm vi giao dịch hẹp vào giữa $0.99 và $1.01 cho đồng SMD trong hầu hết tất cả các điều kiện thị trường.
+Chúng tôi tin rằng những quy tắc này sẽ giúp người tham gia thị trường tự tin vào khả năng mất tiền của họ khi giữ đồng SMD được mua với giá $1.00 là không thể. Chúng tôi kỳ vọng rằng sẽ có một phạm vi giao dịch hẹp vào giữa $0.99 và $1.01 cho đồng SMD trong hầu hết tất cả các điều kiện thị trường.
 
 ## Đóng góp chủ quan
 
