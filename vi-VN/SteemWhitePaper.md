@@ -670,7 +670,7 @@ Các đại lý giao dịch thường cung cấp cho người dùng cách nhanh 
 
 Các đại lý giao dịch sẽ chấp nhận bất kỳ loại tiền tệ nào làm tăng doanh thu cho họ. Do đó, việc họ sở hữu một đồng tiền ổn định với lượng người sử dụng lớn như SMD sẽ giúp các đại lý giao dịch bớt đi nhiều rào cản khi tham gia thị trường. Bằng cách tạo ra một lối tắt cho người tham gia thoát ra khỏi hệ thống mà không gặp bất kỳ khó khăn nào, các đại lý giao dịch đã góp phần cải tiến hệ thống tốt hơn.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through tipping others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+Người tham gia giao dịch có thể tiến hành thanh lý lượng nhỏ tiền điện tử họ nhận được theo một cách khác là dưới dạng tiền biếu (tips). Điều này giống cách thức bạn để lại tiền thưởng cho bồi bàn tại các nhà hàng. Khi khoản tiền thưởng nhỏ dành cho nhiều người nó sẽ gộp lại thành một khoản tiền có giá trị. Cả người trao và người nhận tiền thưởng nhỏ đều có lợi thông qua hoạt động này.
 
 ## Censorship
 
