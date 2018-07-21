@@ -181,7 +181,7 @@ Nếu tỷ lệ nợ-sở hữu dưới 10% và SMD đang giao dịch dưới $1
 
 Nếu giá giao dịch của SMD dưới $1.00 USD và tỷ lệ nợ-quyền sở hữu trên 10% thì nguồn cung cấp dữ liệu phải được điều chỉnh theo chiều hướng tăng lên để cung cấp thêm đồng STEEM cho mỗi đồng SMD. Điều này sẽ làm tăng nhu cầu của đồng SMD và trong khi đó sẽ làm giảm tỷ lệ nợ-quyền sở hữu và đưa giá giao dịch giữa đồng SMD và USD ngang bằng với nhau.
 
-Giả sử rằng giá trị của đồng STEEM phát triển nhanh hơn việc Steem đang tạo ra đồng SMD mới thì tỷ lệ nợ-quyền sở hữu nên được duy trì theo tỷ lệ mục tiêu và lợi ích của lãi suất mang lại cho tất cả mọi người. If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Giả sử rằng giá trị của đồng STEEM phát triển nhanh hơn việc Steem đang tạo ra đồng SMD mới thì tỷ lệ nợ-quyền sở hữu nên được duy trì theo tỷ lệ mục tiêu và lợi ích của lãi suất mang lại cho tất cả mọi người. Nếu giá trị của mạng lưới đang được giữ nguyên hoặc giảm, thì bất kỳ lãi suất được cung cấp cũng chỉ sẽ làm cho tỷ lệ nợ-quyền sở hữu trở nên tồi tệ hơn.
 
 Trên thực tế, các nhà cung cấp dữ liệu được giao phó trách nhiệm thiết lập chính sách tiền tệ với mục đích duy trì giá trị ổn định với USD. Lạm dụng quyền lực này có thể gây tổn hại đến giá trị của STEEM cho nên những người nắm giữ SP phải khôn ngoan khi bỏ phiếu cho các nhân chứng mà chúng ta có thể tin tưởng cho việc điều chỉnh dữ liệu giá và lãi suất theo các quy tắc được nêu trên.
 
