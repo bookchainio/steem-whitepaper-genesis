@@ -293,9 +293,9 @@ Phương thức này thúc đẩy mọi người đóng góp bằng cách kêu g
 
 Khi một bài đăng có được thanh toán, người đăng bài sẽ nhận được một khoản tiền thưởng với 50% SMD và 50% SP. Steem Power giúp tăng quyền bỏ phiếu và giao dịch cho người dùng, mặt khác, SMD lại cung cấp lợi ích ngay lập tức cho người dùng bằng một loại tiền tệ ổn định. Như chúng ta đã bàn luận nhiều rồi, cả 2 loại tiền tệ SP và SMD đều được tạo ra để khuyến khích người dùng lưu giữ trong một thời gian dài, thay vì đem bán chúng một cách nhanh chóng trên các sàn giao dịch.
 
-# Consensus Algorithm
+# Thuật toán đồng thuận
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+Sự đồng thuận là một quá trình mà ở đây một cộng đồng cùng nhau công nhận, đạt được thỏa thuận rõ ràng về một thông tin nào đó. Hiện nay đã có rất nhiều các thuật toán được phát triển và sử dụng nhằm mang tới sự đồng thuận về ai sở hữu điều gì. Mỗi chính phủ hiện nay được coi là hiện thân của thuật toán đồng thuận cơ bản, nơi người dân đồng ý tuân theo bộ quy tắc được ghi chép lại trong hiến pháp. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
 
 The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
 
