@@ -421,8 +421,8 @@ Theo ước tính của chúng tôi cần đo lượng băng thông trung bình 
 
 Gọi B là băng thông trung bình của người dùng tại thời điểm T. Gọi W là số giây mỗi tuần và gọi N là lượng giao dịch diễn ra trong S giây sau thời điểm T. Với thông tin này blockchain có thể tính băng thông trung bình mới cho người dùng là:
 
-    Bnew = MIN(0,B * (W - S) / W) + N * S / W
-    Tnew = T + S
+    Số băng thông trung bình mới (Bnew) = MIN(0,B * (W - S) / W) + N * S / W 
+    Thời điểm T mới (Tnew) = T + S
     
 
 Each user is entitled to an average weekly bandwidth of:
