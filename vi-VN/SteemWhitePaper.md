@@ -179,7 +179,7 @@ Mối quan tâm chính của các nhà cung cấp dữ liệu đồng Steem là 
 
 Nếu tỷ lệ nợ-sở hữu dưới 10% và SMD đang giao dịch dưới $1.00 thì lãi suất sẽ được tăng lên. Điều này sẽ khuyến khích nhiều người giữ SMD của họ và để hỗ trợ mức giá.
 
-Nếu giá giao dịch của SMD dưới $1.00 USD và tỷ lệ nợ-quyền sở hữu trên 10% thì nguồn cung cấp dữ liệu phải được điều chỉnh theo chiều hướng tăng lên để cung cấp thêm đồng STEEM cho mỗi đồng SMD. This will increase demand for SMD while also reducing the debt-to-ownership ratio and returning SMD to parity with USD.
+Nếu giá giao dịch của SMD dưới $1.00 USD và tỷ lệ nợ-quyền sở hữu trên 10% thì nguồn cung cấp dữ liệu phải được điều chỉnh theo chiều hướng tăng lên để cung cấp thêm đồng STEEM cho mỗi đồng SMD. Điều này sẽ làm tăng nhu cầu của đồng SMD và trong khi đó sẽ làm giảm tỷ lệ nợ-quyền sở hữu và đưa giá giao dịch giữa đồng SMD và USD ngang bằng với nhau.
 
 Assuming the value of STEEM is growing faster than Steem is creating new SMD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
