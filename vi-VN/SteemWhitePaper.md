@@ -678,7 +678,7 @@ Steem là một mạng lưới phi tập trung được vận hành bởi các t
 
 Các trang mạng như Steemit.com đều cho phép người dùng có thể sửa đổi, kiểm duyệt nội dung trên trang cá nhân của họ, tuy nhiên một khi thông tin được phát hành trên hệ thống blockchain và vốn đã được truy cập, sao chép trên toàn thế giới thì nó sẽ tiếp tục tồn tại.
 
-Tự do ngôn luận là nền tảng của tất cả các quyền tự do khác và bất kỳ hoạt động nào vi phạm về quyền tự do ngôn luận cũng cần thông qua phương pháp hòa bình duy nhất là trao đổi thảo luận để đi đến sự đồng thuận. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+Tự do ngôn luận là nền tảng của tất cả các quyền tự do khác và bất kỳ hoạt động nào vi phạm về quyền tự do ngôn luận cũng cần thông qua phương pháp hòa bình duy nhất là trao đổi thảo luận để đi đến sự đồng thuận. Những người sử dụng trang mạng sẽ bị thiếu hụt thông tin khi mà họ không được tham gia các cuộc thảo luận tự do và nếu so sánh với việc một người bị mất quyền bình chọn nội dung thì hành động bỏ phiếu với nguồn thông tin không đầy đủ sẽ thực sự là mối đe dọa lớn cho cộng đồng. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
 
 ## Solving Organic Discovery via Search Engine Optimization
 
