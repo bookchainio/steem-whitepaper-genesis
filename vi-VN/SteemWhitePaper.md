@@ -301,7 +301,7 @@ Các thuật toán sử dụng xây dựng các đồng tiền mã hóa đưa ra
 
 Việc đầu tiên cần phải xem xét đó là cần quyết định xem loại chứng từ nào được phép ghi chép và lưu truyền ra công cộng. Sau đó các hệ thống cần được thiết lập để hạn chế khả năng bị kiểm duyệt. Việc cuốn sổ cái công cộng bị kiểm duyệt thì cũng giống như ngăn cản quyền bỏ phiếu của một người nào đó. Nhưng trong cả hai trường hợp trên đều đã bãi bỏ tác động của sự đồng thuận toàn cầu.
 
-## Sự đồng thuận trên Steem
+## Cơ chế đồng thuận trên Steem
 
 Từ khái niệm trên được đưa ra, thuật toán đồng thuận sử dụng trên nền tảng của Steem cũng tương tự như thuật toán đồng thuận mà các công ty hiện nay trên thế giới đang áp dụng. Những người quan tâm đến lợi ích của việc tăng giá trị của Steem trong tương lai sẽ cần bỏ phiếu để lựa chọn các cá nhân phụ trách việc quản lý chứng từ trong bản ghi chép công cộng. Sức mạnh quyền biểu quyết tỷ lệ thuận với sự quan tâm đến những lợi ích đó.
 
@@ -313,9 +313,9 @@ Quá trình này được thiết kế với mục đích là dù bất kỳ nh�
 
 Bởi vì các nhân chứng còn hoạt động đều biết rằng, Steem có thể cho phép các nhân chứng trong mỗi ba giây sản xuất ra các khối mới. Các nhân chứng đồng bộ hóa quá trình sản xuất khối của mình thông qua giao thức NTP. Sự tin cậy đã được chứng minh của thuật toán này đã được mạng lưới BitShares tạo ra biến thể mới và sử dụng được hơn một năm.
 
-## Mining in Steem
+## Khai thác trên Steem
 
-Traditional proof of work blockchains combine block production with the solving of a proof of work. Because the process of solving a proof of work takes an unpredictable amount of time, the result is unpredictable block production times. Steem aims to have consistent and reliable block production every 3 seconds with almost no potential for forks.
+Các chuỗi khối sử dụng trong bằng chứng công việc truyền thống thường kết hợp bởi hai yếu tố: sản xuất khối và giải bài toán bằng chứng công việc. Bởi vì rất khó xác định được thời gian cho quá trình giải bằng chứng công việc, nên kết quả trả về cho việc sản xuất khối cũng khó biết được trước. Steem aims to have consistent and reliable block production every 3 seconds with almost no potential for forks.
 
 To achieve this Steem separates block production from solving of proof of work. When a miner solves a proof of work for Steem, they broadcast a transaction containing the work. The next scheduled witness includes the transaction into the blockchain. When the transaction is included the miner is added to the queue of miners scheduled to produce blocks. Each round one miner is popped from the queue and included in the active set of witnesses. The miner gets paid when they produce a block at the time they are scheduled.
 
