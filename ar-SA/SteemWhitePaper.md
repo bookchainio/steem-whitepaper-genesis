@@ -76,7 +76,7 @@ Steem هو وحدة الحساب الأساسية في ستيم بلوكشين. 
 
 STEEM يتزايد في العرض باستمرار بنسبة 100% في السنة بسبب عدم وجود تحفيو لـ SMD. الشخص الذي يحمل STEEM دون تحويله إلى SP يعاني من انخفاض في القيمة بما يقرب من 0.19 ٪ في اليوم الواحد. على الرغم من أن هذه النسبة تبدو عالية قليلاً, للمعاملات التي يقل عمرها عن 10 أيام ، إلا أنها لا تزال أرخص من رسوم البطاقات الائتمانية. بالإضافة إلى ذلك ، الإنتاج اليومي للعملات الجديدة غير مهم مقارنة بالتقلب اليومي.
 
-الشخص الذي يشتري بيتكوين (Bitcoin) أو أي عملة مشفرة أخرى ويبيعها بعد 10 أيام يمكن أن يخسر بسهولة 3٪ أو أكثر بسبب تقلبات الأسعار. Someone who buys Bitcoin and then sells it the same day will usually pay more than 0.4% in market fees alone. In other words, the inflation rate is effectively insignificant during the period of time the typical individual will hold STEEM.
+الشخص الذي يشتري بيتكوين (Bitcoin) أو أي عملة مشفرة أخرى ويبيعها بعد 10 أيام يمكن أن يخسر بسهولة 3٪ أو أكثر بسبب تقلبات الأسعار. أي شخص يشتري بيتكوين (Bitcoin) ثم يبيعه في نفس اليوم ، سيدفع عادة أكثر من 0.4٪ على عمولات السوق وحدها. وبعبارة أخرى ، فإن معدل التضخم هو في الواقع غير مهم خلال الفترة التي سيحتفظ فيها الفرد العادي بـ STEEM.
 
 The majority of inflation is actually an accounting artifact rather than true reallocation of wealth. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
 
