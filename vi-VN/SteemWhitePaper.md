@@ -157,7 +157,7 @@ Mỗi lần Steem tạo ra một SMD, nó sẽ đồng thời cũng tạo ra m�
 
 Lý do đằng sau việc bảo toàn tỷ lệ nợ / quyền sở hữu bằng 5% là ngay cả khi tất cả các khoản nợ được chuyển đổi và bán thì vẫn phải có nhiều người mua để giữ cho các "token" trong tay những người nắm giữ không bị loãng giá quá nhiều.
 
-Nếu giá trị của đồng STEEM biến động quá nhiều, nó sẽ có ảnh hưởng đáng kể đến tỷ lệ nợ / quyền sở hữu. The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SMD and SP (as determined by the current rate / feed).
+Nếu giá trị của đồng STEEM biến động quá nhiều, nó sẽ có ảnh hưởng đáng kể đến tỷ lệ nợ / quyền sở hữu. Đối với giới hạn dưới của tỷ lệ tạo STEEM, phép tính dựa trên giá trị của STEEM (được xác định bằng (tỷ giá / nguồn cấp dữ liệu) hiện tại) tương ứng với tất cả số SMD và SP chưa được thanh toán.
 
 ### Lãi suất
 
