@@ -674,7 +674,7 @@ Người tham gia giao dịch có thể tiến hành thanh lý lượng nhỏ ti
 
 ## Censorship
 
-Steem is a decentralized network that is operated by miners in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem là một mạng lưới phi tập trung được vận hành bởi các thợ mỏ có quyền hạn pháp lý trên toàn thế giới. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
 
 Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
 
