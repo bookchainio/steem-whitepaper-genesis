@@ -195,9 +195,9 @@ Chúng tôi tin rằng những quy tắc này sẽ giúp người tham gia thị
 
 Sự ra đời của bằng chứng công việc chủ quan nhằm thay thế bằng chứng công việc đã hoàn toàn *khách quan* như việc khai thác mỏ, với mục đích cung cấp một cách tiếp cận khác tới việc phân phối tiền tệ. Các ứng dụng của một loại tiền tệ sử dụng bằng chứng công việc *chủ quan* sẽ trở nên phổ biến hơn bất kỳ hệ thống nào sử dụng bằng chứng công việc *khách quan*, bởi vì chúng có thể được áp dụng để xây dựng cộng đồng nơi có mục đích, ý tưởng hoạt động rõ ràng và đầy đủ. Khi các cá nhân tham gia một cộng đồng nào đó, họ thường mang theo những sự tin tưởng và có thể bỏ phiếu cho các quyết định nhằm tăng các giá trị hoặc mục đích của cộng đồng đó.
 
-Và hiệu quả thực tế là, công việc được đánh giá với các tiêu chuẩn sẽ trở nên hoàn toàn chủ quan và sự xác định đồng thời sẽ nằm ngoài bộ mã nguồn của nó. Một cộng đồng có thể mong muốn trao thưởng cho các nghệ sĩ, các nhà thơ và các diễn viên kịch vui. Trong khi các cộng đồng khác lựa chọn để tặng thưởng các hoạt động từ thiện hay giúp cải thiện các chương trình nghị sự chính trị. Trong khi các cộng đồng khác lựa chọn để tặng thưởng các hoạt động từ thiện hay giúp cải thiện các chương trình nghị sự chính trị.
+Và hiệu quả thực tế là, công việc được đánh giá với các tiêu chuẩn sẽ trở nên hoàn toàn chủ quan và sự xác định đồng thời sẽ nằm ngoài bộ mã nguồn của nó. Một cộng đồng có thể có mong muốn tặng thưởng cho các công việc của nghệ sĩ, cộng đồng khác cũng muốn tặng thưởng cho các nhà thơ, hay có cộng đồng lại muốn tặng thưởng cho các diễn viên kịch vui. Trong khi các cộng đồng khác lại lựa chọn để trao tặng các chương trình hoạt động từ thiện hoặc giúp đỡ các chương trình nghị sự chính trị.
 
-Giá trị mỗi đồng tiền đạt được phụ thuộc vào nhu cầu dành ảnh hưởng trong phạm vi một cộng đồng cụ thể và niềm tin từ thị trường về độ lớn của mỗi cộng đồng có khả năng phát triển được bao nhiêu. Không giống như các hệ thống trước đây, bằng chứng công việc chủ quan giúp đỡ cộng đồng gây quỹ một cách chọn lọc cho sự phát triển của các chương trình có ý nghĩa và khiến cho khoảng thời gian vô giá trị trước đây trở nên có lợi nhuận kinh tế.
+Mỗi giá trị một đồng tiền mang lại phụ thuộc vào nhu cầu dành ảnh hưởng trong phạm vi một cộng đồng và niềm tin của thị thường về khả năng phát triển của cộng đồng đó. Không giống như các hệ thống trước đây, bằng chứng công việc chủ quan giúp đỡ cộng đồng gây quỹ một cách chọn lọc cho sự phát triển của các chương trình có ý nghĩa và khiến cho khoảng thời gian vô giá trị trước đây trở nên có lợi nhuận kinh tế.
 
 ### Phân phối tiền tệ
 
@@ -682,7 +682,7 @@ Tự do ngôn luận là nền tảng của tất cả các quyền tự do khá
 
 ## Solving Organic Discovery via Search Engine Optimization
 
-Hầu hết các đồng tiền mã hóa thường không cung cấp nhiều giá trị cho những người dùng có ít hoạt động trên mạng lưới. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+Hầu hết mạng lưới của các đồng tiền mã hóa thường không cung cấp nhiều giá trị cho những người không tham gia hoặc ít tham gia hoạt động trên cộng đồng. Trong khi đó, cộng đồng Steem khuyến khích người dùng sáng tạo ra các nội dung bài viết và tích cực chia sẻ thông tin với những đối tượng khác. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
 
 ## Shifting Toward Blockchain-based Attribution
 
