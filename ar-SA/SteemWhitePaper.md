@@ -136,9 +136,9 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
 
 فقط لأن SMD يمكن تحويله إلى قيمة STEEM بالدولار ، بسعر عادل في فترة زمنية معقولة ، لا يعني أنه سيعتبر بديلا موثوقا للدولار. تحتاج هذه الأصول إلى سيولة في سوق تسمح بالتحويلات الفورية بين STEEM و SMD. التدابير المفروضة على سلسلة الكتل لمنع سوء الاستخدام ، في نهاية المطاف تؤدي إلى خفض جودة الدولارات القابلة للتحويل. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. في حين أن الخسائر المحتملة من التلاعب وسوء الاستخدام غير محدودة ، يمكن أن تكون تكلفة تشجيع السيولة ثابتة.
 
-موفر السيولة يشتري ويبيع SMD و STEEM. وهم يتعاملون مع أغلبية مخاطر الأسعار على المدى القصير ومخاطر الخلاصات على المدى الطويل ، مما يمنح المشاركين المتبقيين في السوق سوقاً عالية الجودة وذات سيولة يمكن التداول من خلالها.
+موفر السيولة يشتري ويبيع SMD و STEEM. وهم يأخذون الجزء الأكبر من مخاطر الأسعار على المدى القصير والمخاطر طويلة الأجل للخلاصات ويمنحون المشاركين الآخرين في السوق سوقًا عالي الجودة وعالي السيولة يتم من خلاله التداول.
 
-Steem has an on-blockchain market between SMD and STEEM. Users can earn rewards by providing liquidity to both sides of this market. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
+لدى Steem سوق على سلسلة الكتل (blockchain) بين SMD و STEEM. يمكن للمستخدمين الحصول على مكافآت بتوفير السيولة لكلا الجانبين من هذا السوق. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
 
 A user is considered a liquidity provider if they leave an open order on the books for at least 1 minute and the order is eventually filled. If the order is canceled before being filled then the user is not credited with providing liquidity.
 
