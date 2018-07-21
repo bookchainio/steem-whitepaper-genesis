@@ -419,7 +419,7 @@ Theo ước tính của chúng tôi cần đo lượng băng thông trung bình 
 
 ### Ví dụ minh họa
 
-Let B equal a user's average bandwidth at time T. Let W equal the number of seconds per week, and let N equal the size of the new transaction that occurred S seconds after T. Given this information the blockchain can calculate the new average bandwidth for a user as:
+Gọi B là băng thông trung bình của người dùng tại thời điểm T. Gọi W là số giây mỗi tuần và gọi N là lượng giao dịch diễn ra trong S giây sau thời điểm T. Với thông tin này blockchain có thể tính băng thông trung bình mới cho người dùng là:
 
     Bnew = MIN(0,B * (W - S) / W) + N * S / W
     Tnew = T + S
