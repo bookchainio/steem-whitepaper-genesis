@@ -674,7 +674,7 @@ Người tham gia giao dịch có thể tiến hành thanh lý lượng nhỏ ti
 
 ## Censorship
 
-Steem là một mạng lưới phi tập trung được vận hành bởi các thợ mỏ có quyền hạn pháp lý trên toàn thế giới. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem là một mạng lưới phi tập trung được vận hành bởi các thợ mỏ có quyền hạn pháp lý trên toàn thế giới. Mọi hoạt động của người dùng sẽ được ghi lại một cách công khai trên hệ thống blockchain và có thể được xác minh công khai. Điều này có nghĩa là việc kiểm duyệt nội dung của những người tham gia Steem không thể thực hiện đơn lẻ bởi bất kỳ một cá nhân nào.
 
 Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
 
