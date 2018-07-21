@@ -122,7 +122,7 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
 
 ### تخفيف هجمات الوقت
 
-يمكن للمشاركين في السوق الوصول إلى المعلومات بشكل أسرع من متوسط سعر التحويل الذي يمكن أن تتخده سلسلة الكتل (blockchain) لمدة أسبوع واحد. يمكن استخدام هذه المعلومات لفائدة المتداولين على حساب المجتمع. إذا كانت هناك زيادة مفاجئة في قيمة STEEM ، قد يطلب المتداولون تحويل SMDs الخاصة بهم إلى السعر القديم ، وهو السعر الأدنى ، ثم إعادة بيع STEEMs التي يتلقونها بسعر أعلى جديد بأقل خطر.
+يمكن للمشاركين في السوق الوصول إلى المعلومات بشكل أسرع من متوسط سعر التحويل الذي يمكن أن تتخذه سلسلة الكتل (blockchain) لمدة أسبوع واحد. يمكن استخدام هذه المعلومات لفائدة المتداولين على حساب المجتمع. إذا كانت هناك زيادة مفاجئة في قيمة STEEM ، قد يطلب المتداولون تحويل SMDs الخاصة بهم إلى السعر القديم ، وهو السعر الأدنى ، ثم إعادة بيع STEEMs التي يتلقونها بسعر أعلى جديد بأقل خطر.
 
 يوازن Steem ذلك بتأخير جميع طلبات التحويل لمدة أسبوع واحد. هذا يعني أنه لا المتداولين ولا سلسلة الكتل (blockchain) لديهم أي ميزة من المعلومات المتعلقة بالسعر في وقت التحويل.
 
@@ -147,11 +147,11 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
       نقاط السيولة = صافي حجم العروض x حجم الطلب
     
 
-كل ساعة يتلقى الحساب الذي لديه أكثر نقاط سيولة 1200 STEEM ، ثم يتم إعادة تعيين نقاط السيولة الخاصة به إلى 0. الحساب الذي لم يكسب أي نقطة سيولة لمدة أسبوع يتم أيضا إعادة تعيين نقاطه إلى 0. وهذا يعني أنه بغض النظر عما إذا كنت تقدم كمية كبيرة من السيولة أو كمية صغيرة على مدى فترة زمنية طويلة ، الجميع يحصل على كمية متناسبة من المكافآت. If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
+كل ساعة يتلقى الحساب الذي لديه أكثر نقاط سيولة 1200 STEEM ، ثم يتم إعادة تعيين نقاط السيولة الخاصة به إلى 0. الحساب الذي لم يكسب أي نقطة سيولة لمدة أسبوع يتم أيضا إعادة تعيين نقاطه إلى 0. وهذا يعني أنه بغض النظر عما إذا كنت تقدم كمية كبيرة من السيولة أو كمية صغيرة على مدى فترة زمنية طويلة ، الجميع يحصل على كمية متناسبة من المكافآت. إذا كانت كمية صافي حجم العرض أو حجم الطلب سالبة ، فيتم اعتبار نقاط السيولة صفرًا.
 
-### Sustainable Debt to Ownership Ratios
+### الديون المستدامة لنسب الملكية
 
-If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+إذا كان ينضر للعملة على انها ملكية في كامل مخزون العملات ، فيمكن اعتبار الدولار القابل للتحويل كدين. وإذا كانت نسبة الدين إلى الملكية مرتفعة جدا فإن العملة بأكملها يمكن أن تصبح غير مستقرة. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
 
 For every SMD Steem creates, $19.00 of STEEM is also created and converted to SP. This means that the highest possible debt-to-ownership in a stable market is 1:19 or about 5%. If Steem falls in value by 50% then the ratio could increase to 10%. An 88% fall in value of STEEM could cause the debt-to-ownership ratio to reach 40%. Assuming the value of STEEM eventually stabilizes, the debt-to-ownership ratio will naturally move back toward 5%.
 
