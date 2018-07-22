@@ -181,7 +181,7 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
 
 إذا تم تداول SMD بأقل من 1 دولار وتجاوزت نسبة الدين إلى الملكية 10٪ ، يجب رفع السعر في التحديثات ، أي يجب الحصول على المزيد من STEEM لكل SMD. سيؤدي ذلك إلى زيادة الطلب على SMD مع تخفيض نسبة الدين إلى الملكية أيضاً والعودة إلى SMD متكافئ مع الدولار الأمريكي.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SMD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+بافتراض أن قيمة STEEM تنمو بسرعة أكبر من السرعة التي تنشئ بها ستيم SMD جديد، يجب أن تظل نسبة الديون إلى الملكية أقل من المعدل المستهدف ، وسوف تفيد الفائدة المقدمة الجميع. If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
 In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
