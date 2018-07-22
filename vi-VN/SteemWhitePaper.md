@@ -490,13 +490,13 @@ Blockchain có thể cấp cho mỗi người dùng một giá trị tối thi�
 
 Duy trì số dư tối thiểu có hiệu quả tương tự như việc làm cho người dùng thanh toán phí giao dịch với số tiền lãi họ có thể kiếm được từ số dư của họ. Số dư tối thiểu đơn giản là số dư cần thiết để kiếm đủ lãi suất cho việc chi trả một khoản phí trong một khoảng thời gian tương đối ngắn.
 
-May mắn thay, số dư tối thiểu bắt buộc có thể thấp bằng một đô la và đây là điều mà người dùng có thể hiểu và trân trọng. The opportunity cost of lost interest doesn't incur the cognitive cost of a micro-fee and is far more acceptable to users.
+May mắn thay, số dư tối thiểu bắt buộc có thể thấp bằng một đô la và đây là điều mà người dùng có thể hiểu và trân trọng. Chi phí cơ hội của lãi suất bị mất sẽ không liên quan tới sự thiếu hiểu biết về một khoản phí vi mô và sẽ được người dùng chấp nhận nhiều hơn.
 
 Đồng STEEM được sử dụng để cấp vốn trước cho một tài khoản được gọi là Powered Up trong tài khoản mới (tức là, được chuyển thành Steem Power).
 
 ### Điều chỉnh tỷ lệ dự trữ
 
-Rate limiting requires that the network adjust the reserve ratio quickly enough to mitigate the impact of an attacker attempting to ood the network. Let's assume the attacker has a large balance, say 1% of the available tokens. If we also assume that the network targets 50% utilization, then a sustained attack should find this user throttled to 25% of network capacity assuming everyone else is also using 25% of the capacity. Stated another way, the largest single user should never be able to consume more than 50% of the target capacity unless they own more than 50% of the SP.
+Giới hạn tỷ suất yêu cầu mạng lưới phải điều chỉnh tỷ lệ dự trữ một cách nhanh chóng để giảm thiểu tác động của những kẻ đang cố tấn công mạng lưới. Let's assume the attacker has a large balance, say 1% of the available tokens. If we also assume that the network targets 50% utilization, then a sustained attack should find this user throttled to 25% of network capacity assuming everyone else is also using 25% of the capacity. Stated another way, the largest single user should never be able to consume more than 50% of the target capacity unless they own more than 50% of the SP.
 
 Let's use an initial reserve ratio of 200x. Due to fractional reserves, this means someone holding 1% of the tokens has the right to demand transactions totalling 2x the maximum block size. In order to bring the network usage of the attacker down to 25% the reserve ratio would have to fall to 25x. This would cause the minimum balance required to transact once per week to grow by 8x.
 
