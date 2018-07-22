@@ -557,13 +557,13 @@ Steem有能力处理超过Reddit的用户量。 在2015年，Reddit的870万用�
 
 # 分配和供应
 
-Steem网络的最初货币供应量为0，且通过工作量证明来分配STEEM，其速率是大约每分钟向矿工支付40个STEEM，同时每分钟还有另外的40个STEEM被创建，且被用于创建内容及策展的奖励池（每分钟总计80个STEEM）。 接下来Steem网络开始奖励将STEEM转换为SP的用户。 At this point, STEEM grows at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Steem网络的最初货币供应量为0，且通过工作量证明来分配STEEM，其速率是大约每分钟向矿工支付40个STEEM，同时每分钟还有另外的40个STEEM被创建，且被用于创建内容及策展的奖励池（每分钟总计80个STEEM）。 接下来Steem网络开始奖励将STEEM转换为SP的用户。 在这个时候，由于各种贡献奖励的综合效果，STEEM以大约每分钟800 STEEM的速度增长：
 
-**Contribution Rewards:**
+**贡献奖励：**
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
+- 策展奖励：每个块一个STEEM，或者每年3.875%，两者取其大。
+- 内容创作奖励：每个块一个STEEM，或者每年3.875%，两者取其大
+- 块生产奖励：每个块一个STEEM，或者每年0.750%，两者取其大
 - POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
 - POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
 - Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
