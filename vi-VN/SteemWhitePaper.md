@@ -442,7 +442,7 @@ Khi lượng khối được tạo ra không bằng nửa số lượng dự tí
 
 Tỷ lệ dự trữ tối thiểu là 1 còn tối đa sẽ được tính toán sao cho ngăn những bên tham gia sử dụng hết băng thông sẵn có. Trong trường hợp không có ai sử dụng só băng thông này thì tỷ lệ dự trữ có thể tăng lên cho đến khi người dùng chỉ cần 1 satoshi cũng có thể thực hiện giao dịch từng khối đơn lẻ.
 
-### Ví dụ thực tế: Bitcoin
+### Ví dụ thực tế: Đồng tiền điện tử được mã hóa Bitcoin
 
 Để hiểu rõ hơn cách áp dụng thuật toán này vào đồng tiền điện tử Bitcoin chúng ta sẽ tính tỷ lệ dự trữ R dựa vào mức sử dụng thực tế. Với tổng nguồn cung là 15 triệu BTC và khối lượng giao dịch hàng ngày là 400 nghìn BTC[^10], chúng ta có thể tính được tỷ lệ dự trữ R là 38. Cụ thể dựa vào công thức sau sẽ tìm ra số băng thông hàng tuần ( tính bằng Byte) được sử dụng trên mỗi BTC là:
 
@@ -458,7 +458,7 @@ Nếu R = 38 là điểm cận dưới của tỷ lệ dự trữ thì CLR /S l�
 
 Với giả định các đồng coin đều lưu thông như nhau thì những tính toán trên nhằm duy trì sự ổn định của điểm cận trên. Thực tế cho thấy đối với những người dùng tích cực, như hoạt động trao đổi, thì tỷ lệ họ sở hữu đồng coin được lưu thông sẽ cao hơn nhiều so với những người ít hoạt động, đồng nghĩa việc yêu cầu số dư tối thiểu thực tế thấp hơn nhiều.
 
-#### Sự ảnh hưởng của dung lượng lưu trữ
+#### Sự tác động của dung lượng lưu trữ đến Bitcoin
 
 Dung lượng lưu trữ trên nền tảng Blockchain là không giới hạn. Trong công nghệ lưu trữ dữ liệu của cơ sở hạ tầng mạng Internet dung lượng rất cần thiết nhằm tăng kích thước khối Bitcoin đến 10MB và nếu tính theo hệ số 10 thì kích thước này sẽ từ từ giảm xuống mức dư tối thiểu. Trong khi Bitcoin đang hỗ trợ thực hiện khoảng 3 giao dịch mỗi giây,nhờ vào dung lượng lưu trữ có khả năng xử lý hơn 1000 giao dịch mỗi giây. Điều này đã làm thay đôi điểm cận trên thành 0,0006 BTC hoặc khoảng $0,25, có nghĩa tài khoản nào có $0,25 có thể giao dịch ít nhất một lần mỗi tuần (và có thể nhiều lần hơn khi chúng tôi điểu chỉnh được sự không ổn định của điểm cận trên).
 
@@ -482,7 +482,7 @@ Do sự tấn công 'sybil' có khả năng xảy ra nên bất kỳ số dư t�
 
 ### Xác minh các số dư tối thiểu
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^11] . Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+Khái niệm bắt buộc người dùng phải duy trì một lượng số dư tối thiểu được lưu thông một cách tự nhiên từ giá trị của người dùng [^11]. Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
 
 Ripple uses a minimum balance[^12] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
 
