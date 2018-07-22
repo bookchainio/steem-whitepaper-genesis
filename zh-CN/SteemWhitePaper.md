@@ -541,7 +541,7 @@ Steem网络构建在石墨烯技术基础之上，该技术也同样被用在Bit
 
 ## Reddit的规模
 
-Steem有能力处理超过Reddit的用户量。 In 2015 Reddit's 8.7 million users generated an average of 23 comments per second[^13] , with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem有能力处理超过Reddit的用户量。 在2015年，Reddit的870万用户每秒产生23个留言[^13]，平均每个用户每年产生83个留言。 There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
 
 To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^14], which is able to process 6 million transactions per second. Among these lessons are the following key points:
 
