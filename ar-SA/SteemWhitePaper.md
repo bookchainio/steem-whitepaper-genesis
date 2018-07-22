@@ -161,7 +161,7 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
 
 ### الفائدة
 
-SMD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+يعطي SMD فائدة للمُلاَّك. يتم تحديد سعر الفائدة من قبل نفس الأشخاص الذين ينشرون تحديثات السعر بحيث يمكن أن تتكيف مع ظروف السوق المتغيرة. كل الديون تحمل مخاطر للمقرض. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
 STEEM and SP holders gain leverage when members of the community are willing to hold SMD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
