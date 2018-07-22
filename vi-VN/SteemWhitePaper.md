@@ -490,7 +490,7 @@ Blockchain có thể cấp cho mỗi người dùng một giá trị tối thi�
 
 Duy trì số dư tối thiểu có hiệu quả tương tự như việc làm cho người dùng thanh toán phí giao dịch với số tiền lãi họ có thể kiếm được từ số dư của họ. Số dư tối thiểu đơn giản là số dư cần thiết để kiếm đủ lãi suất cho việc chi trả một khoản phí trong một khoảng thời gian tương đối ngắn.
 
-Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn't incur the cognitive cost of a micro-fee and is far more acceptable to users.
+May mắn thay, số dư tối thiểu bắt buộc có thể thấp bằng một đô la và đây là điều mà người dùng có thể hiểu và trân trọng. The opportunity cost of lost interest doesn't incur the cognitive cost of a micro-fee and is far more acceptable to users.
 
 The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power).
 
