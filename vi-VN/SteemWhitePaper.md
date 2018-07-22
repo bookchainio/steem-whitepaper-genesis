@@ -444,7 +444,7 @@ Tỷ lệ dự trữ tối thiểu là 1 còn tối đa sẽ được tính toá
 
 ### Ví dụ thực tế: Bitcoin
 
-Khi tính tỷ lệ dự trữ R dựa vào mức sử dụng thực tế sẽ hiểu rõ hơn cách áp dụng thuật toán này trên Bitcoin. Với tổng nguồn cung là 15 triệu BTC và khối lượng giao dịch hàng ngày là 400 nghìn BTC[^10], chúng ta có thể tính được tỷ lệ dự trữ R là 38. Tính toán theo công thức sau sẽ tìm ra số băng thông hàng tuần ( tính bằng Byte) được sử dụng trên mỗi BTC là:
+Để hiểu rõ hơn cách áp dụng thuật toán này vào đồng tiền điện tử Bitcoin chúng ta sẽ tính tỷ lệ dự trữ R dựa vào mức sử dụng thực tế. Với tổng nguồn cung là 15 triệu BTC và khối lượng giao dịch hàng ngày là 400 nghìn BTC[^10], chúng ta có thể tính được tỷ lệ dự trữ R là 38. Cụ thể dựa vào công thức sau sẽ tìm ra số băng thông hàng tuần ( tính bằng Byte) được sử dụng trên mỗi BTC là:
 
     Cho C = 1MB = 1024 * 1024
     Cho L = 1008 (số khối mỗi tuần)
@@ -454,7 +454,7 @@ Khi tính tỷ lệ dự trữ R dựa vào mức sử dụng thực tế sẽ h
     CLR / S = 2869 byte hoặc khoảng 5 giao dịch mỗi tuần đối với một BTC
     
 
-Nếu R = 38 là điểm cận dưới của tỷ lệ dự trữ thì CLR /S là điểm cận dưới của lượng băng thông có thể sử dụng. Từ ví dụ thực tế đơn giản này cho thấy ngưởi dùng có thể đặt lệnh giao dịch tối đa là 0.20 BTC ( khoảng hơn $80 tại thời điểm viết bài này). However, this is a loose upper bound derived from the assumption that all BTC are equally mobile. This is not the case - users with dozens or hundreds of bitcoins do not necessarily transact dozens or hundreds of times a week! The "leftover" transactions that those users "should" have made will increase the reserve ratio, allowing their unused bandwidth to be "recycled" for smaller users.
+Nếu R = 38 là điểm cận dưới của tỷ lệ dự trữ thì CLR /S là điểm cận dưới của lượng băng thông có thể sử dụng. Từ ví dụ thực tế đơn giản này cho thấy ngưởi dùng có thể đặt lệnh giao dịch tối đa là 0.20 BTC ( khoảng hơn $80 tại thời điểm viết bài này). Tuy nhiên khi dựa vào giả đinh là tất cả BTC đều bằng nhau thì chưa thể xác định được điểm cận trên. Trường hợp người dùng có hằng chục thậm chí hàng trăm bitcoin không có nghĩa là họ phải thực hiện giao dịch hàng chục hoặc hàng trăm lần một tuần! The "leftover" transactions that those users "should" have made will increase the reserve ratio, allowing their unused bandwidth to be "recycled" for smaller users.
 
 All of the above estimates are conservative upper bounds assuming coins and usage are distributed in a relatively flat manner. The reality is that heavy users, such as exchanges, have a much higher coin-to-usage ratio than lighter users, which in turn means that actual minimum balance requirements are far lower.
 
