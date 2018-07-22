@@ -151,7 +151,7 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
 
 ### الديون المستدامة لنسب الملكية
 
-إذا كان ينضر للعملة على انها ملكية في كامل مخزون العملات ، فيمكن اعتبار الدولار القابل للتحويل كدين. وإذا كانت نسبة الدين إلى الملكية مرتفعة جدا فإن العملة بأكملها يمكن أن تصبح غير مستقرة. يمكن أن يؤدي تحويل الديون إلى زيادة كبيرة في مخزون العملات ، والتي بدورها سوف تباع في السوق ، وبالتالي ممارسة ضغط قوي على السعر. تتطلب التحويلات اللاحقة إصدار المزيد من العملات. متروكا بدون تصحيح يمكن للنضام الإنهيار تاركاً جملة من الديون مدعومة بملكية لا قيمة لها. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+إذا كان ينضر للعملة على انها ملكية في كامل مخزون العملات ، فيمكن اعتبار الدولار القابل للتحويل كدين. وإذا كانت نسبة الدين إلى الملكية مرتفعة جدا فإن العملة بأكملها يمكن أن تصبح غير مستقرة. ويمكن أن يؤدي تحويل الديون إلى زيادة كبيرة في مخزون العملات ، الأمر الذي سيؤدي بدوره إلى انخفاض الأسعار في السوق بمجرد بيعها. تتطلب التحويلات اللاحقة إصدار المزيد من العملات. متروكا بدون تصحيح يمكن للنضام الإنهيار تاركاً جملة من الديون مدعومة بملكية لا قيمة لها. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
 
 For every SMD Steem creates, $19.00 of STEEM is also created and converted to SP. This means that the highest possible debt-to-ownership in a stable market is 1:19 or about 5%. If Steem falls in value by 50% then the ratio could increase to 10%. An 88% fall in value of STEEM could cause the debt-to-ownership ratio to reach 40%. Assuming the value of STEEM eventually stabilizes, the debt-to-ownership ratio will naturally move back toward 5%.
 
