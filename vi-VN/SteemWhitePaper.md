@@ -492,7 +492,7 @@ Duy trì số dư tối thiểu có hiệu quả tương tự như việc làm c
 
 May mắn thay, số dư tối thiểu bắt buộc có thể thấp bằng một đô la và đây là điều mà người dùng có thể hiểu và trân trọng. The opportunity cost of lost interest doesn't incur the cognitive cost of a micro-fee and is far more acceptable to users.
 
-The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power).
+Đồng STEEM được sử dụng để cấp vốn trước cho một tài khoản được gọi là Powered Up trong tài khoản mới (tức là, được chuyển thành Steem Power).
 
 ### Adjusting the Reserve Ratio
 
