@@ -484,7 +484,7 @@ Do sự tấn công 'sybil' có khả năng xảy ra nên bất kỳ số dư t�
 
 Khái niệm bắt buộc người dùng phải duy trì một lượng số dư tối thiểu được lưu thông một cách tự nhiên từ giá trị của người dùng [^11]. Bất kỳ ai đang kinh doanh đều biết rằng mỗi người dùng đều có giá trị đáng kể. Trong việc kinh doanh, doanh nghiệp phải chi tiêu từ $30 đến $200 để có được một khách hàng. Đôi khi, họ trả tiền trực tiếp cho người dùng, những lần khác họ trả tiền cho quảng cáo và còn những thời điểm khác thì họ mua toàn bộ công ty để đáp ứng cho cơ sở người dùng của họ. Sau khi một công ty có được người dùng, họ thường cung cấp cho họ nhiều *dịch vụ miễn phí* chỉ để giữ cho họ ở lại đủ lâu để kiếm tiền từ họ thông qua một số phương tiện khác.
 
-Ripple sử dụng số dư tối thiểu [^12] kết hợp với việc sử dụng tài nguyên tài khoản và yêu cầu các tài khoản mới phải được cấp vốn ít nhất bằng số dư tối thiểu này. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
+Ripple sử dụng số dư tối thiểu [^12] kết hợp với việc sử dụng tài nguyên tài khoản và yêu cầu các tài khoản mới phải được cấp vốn ít nhất bằng số dư tối thiểu này. Hiện tại số dư tối thiểu này là vào khoảng $0.15 lớn hơn $0.10 mà chúng tôi ước tính rằng với số dư tối thiểu này sẽ cho phép một người dùng nào đó tự do giao dịch ít nhất một lần mỗi tuần.
 
 A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Any business that wishes to bring a new customer to the blockchain can pre-fund that user's account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
 
@@ -536,9 +536,9 @@ In theory a market could form where users can borrow the stake required. In prac
 
 Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
 
-# Performance and Scalability
+# Cách thức thực hiện và khả năng mở rộng
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+Hệ thống Steem được xây dựng dựa trên Graphene có cùng công nghệ với BitShares Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
 
 ## Reddit Scale
 
