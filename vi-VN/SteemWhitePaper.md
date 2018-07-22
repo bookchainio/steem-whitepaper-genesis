@@ -458,9 +458,9 @@ Nếu R = 38 là điểm cận dưới của tỷ lệ dự trữ thì CLR /S l�
 
 Với giả định các đồng coin đều lưu thông như nhau thì những tính toán trên nhằm duy trì sự ổn định của điểm cận trên. Thực tế cho thấy đối với những người dùng tích cực, như hoạt động trao đổi, thì tỷ lệ họ sở hữu đồng coin được lưu thông sẽ cao hơn nhiều so với những người ít hoạt động, đồng nghĩa việc yêu cầu số dư tối thiểu thực tế thấp hơn nhiều.
 
-#### Impact of Capacity
+#### Sự ảnh hưởng của dung lượng lưu trữ
 
-Blockchain capacity isn't necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second. This changes our conservative upper bound to 0.0006 BTC or about $0.25, meaning that an account holding $0.25 would be able to transact at least once per week on average (and likely many more times because we're dealing with a fairly loose upper bound).
+Dung lượng lưu trữ trên nền tảng Blockchain là không giới hạn. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second. This changes our conservative upper bound to 0.0006 BTC or about $0.25, meaning that an account holding $0.25 would be able to transact at least once per week on average (and likely many more times because we're dealing with a fairly loose upper bound).
 
 #### Maximum Number of Unique Users
 
