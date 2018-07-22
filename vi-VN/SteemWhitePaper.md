@@ -462,9 +462,9 @@ Với giả định các đồng coin đều lưu thông như nhau thì những 
 
 Dung lượng lưu trữ trên nền tảng Blockchain là không giới hạn. Trong công nghệ lưu trữ dữ liệu của cơ sở hạ tầng mạng Internet dung lượng rất cần thiết nhằm tăng kích thước khối Bitcoin đến 10MB và nếu tính theo hệ số 10 thì kích thước này sẽ từ từ giảm xuống mức dư tối thiểu. Trong khi Bitcoin đang hỗ trợ thực hiện khoảng 3 giao dịch mỗi giây,nhờ vào dung lượng lưu trữ có khả năng xử lý hơn 1000 giao dịch mỗi giây. Điều này đã làm thay đôi điểm cận trên thành 0,0006 BTC hoặc khoảng $0,25, có nghĩa tài khoản nào có $0,25 có thể giao dịch ít nhất một lần mỗi tuần (và có thể nhiều lần hơn khi chúng tôi điểu chỉnh được sự không ổn định của điểm cận trên).
 
-#### Maximum Number of Unique Users
+#### Cách tính số lượng tối đa người dùng truy cập duy nhất
 
-We can use similar math to calculate the maximum number of unique users that the network can allow to transact once per week as: B\*W/T. T represents the average transaction size. This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
+Mỗi tuần để tính số lượng tối đa ngưởi dùng duy nhất thực hiện giao dịch trong một lần ta áp dụng công thức: B \ * W / T. T là lượng giao dịch trung bình. This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
 
 #### Comparison to Fees
 
@@ -482,7 +482,7 @@ Do sự tấn công 'sybil' có khả năng xảy ra nên bất kỳ số dư t�
 
 ### Xác minh các số dư tối thiểu
 
-Khái niệm bắt buộc người dùng phải duy trì một lượng số dư tối thiểu được lưu thông một cách tự nhiên từ giá trị của người dùng [^11]. Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+Khái niệm bắt buộc người dùng phải duy trì một lượng số dư tối thiểu được lưu thông một cách tự nhiên từ giá trị của người dùng [^11]. Bất kỳ ai đang kinh doanh đều biết rằng mỗi người dùng đều có giá trị đáng kể. Trong việc kinh doanh, doanh nghiệp phải chi tiêu từ $30 đến $200 để có được một khách hàng. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
 
 Ripple uses a minimum balance[^12] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
 
