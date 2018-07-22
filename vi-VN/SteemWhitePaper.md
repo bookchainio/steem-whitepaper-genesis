@@ -440,7 +440,7 @@ Người dùng sử dụng số băng thông trung bình là M \ * U / S. Mức 
 
 Khi lượng khối được tạo ra không bằng nửa số lượng dự tính thì hệ thống có thể tăng tỷ lệ dự trữ nhưng khi lượng khối tăng hơn một nửa thì tỷ lệ này sẽ giảm. Thuật toán điều chỉnh R đã ra đời để xử lý nhanh chóng việc giảm tỷ lệ dự trữ khi nhu cầu sử dụng tăng cao hay tăng tỷ lệ này khi nhu cầu giảm xuống.
 
-Tỷ lệ dự trữ tối thiểu là 1 còn tối đa sẽ được tính toán sao cho ngăn những bên tham gia sử dụng hết băng thông sẵn có. Trong trường hợp không có ai sử dụng só băng thông này thì tỷ lệ dự trữ có thể tăng lên cho đến khi người dùng chỉ cần 1 satoshi cũng có thể thực hiện giao dịch từng khối đơn lẻ.
+Tỷ lệ dự trữ tối thiểu là 1 còn tối đa sẽ được tính toán sao cho ngăn những bên tham gia sử dụng hết băng thông sẵn có. Trong trường hợp không có ai sử dụng số băng thông này thì tỷ lệ dự trữ có thể tăng lên cho đến khi người dùng chỉ cần 1 satoshi cũng có thể thực hiện giao dịch từng khối đơn lẻ.
 
 ### Ví dụ thực tế: Đồng tiền điện tử được mã hóa Bitcoin
 
