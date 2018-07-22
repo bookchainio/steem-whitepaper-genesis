@@ -476,7 +476,7 @@ Dựa trên hệ thống tài khoản của Steem với số dư được công 
 
 Một tài khoản có số dư thấp được tạo trong khoảng thời gian có số lượng sử dụng thấp có thể trở nên không thể truy cập được khi việc sử dụng mạng lưới được phục hồi. Tiền quỹ có thể được hồi phục vào bất kỳ lúc nào bằng cách chuyển một số dư lớn hơn vào tài khoản.
 
-Để duy trì trải nghiệm người dùng với số tài khoản treo tối thiểu hợp lý, tất cả các tài khoản mới nên được bắt đầu với số dư gấp 10 lần số dư tối thiểu cần thiết để giao dịch hàng tuần. This way even if demand increases by a factor of 10 the account will remain viable.
+Để duy trì trải nghiệm người dùng với số tài khoản treo tối thiểu hợp lý, tất cả các tài khoản mới nên được bắt đầu với số dư gấp 10 lần số dư tối thiểu cần thiết để giao dịch hàng tuần. Bằng cách này, nếu nhu cầu tăng lên theo hệ số 10 thì tài khoản sẽ vẫn tồn tại.
 
 Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
 
