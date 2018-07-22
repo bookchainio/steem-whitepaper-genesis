@@ -325,7 +325,7 @@ Các chuỗi khối sử dụng trong bằng chứng công việc truyền thố
 
 Sau tháng đầu tiên, những người kiếm Steem sẽ được thanh toán bằng Steem Power (SP). SP sẽ có thể đổi thành tiền mặt thông qua một quá trình "powering down" kéo dài hai năm. Điều này có nghĩa rằng người dùng phải chờ một thời gian dài, có thể trong nhiều tháng, để có thể "power down" số tiền thưởng của họ để khôi phục chi phí điện và các tài nguyên tính toán. Quá trình "powering down" này nhằm ngăn chặn việc tạo ra một cái "bể khai thác" bởi vì các nhà điều hành của "bể khai thác" sẽ phải phân phối các khoản thanh toán trong vòng một vài năm.
 
-The effect of paying mining rewards in SP is to prevent miners from using today's price to determine the pro tability of mining. Few people will agree on what the future price will be. This means mining difficulty will be driven by those who place the highest estimate on future value. Miners without a long-term interest in the platform will be discouraged from competing. Ultimately this means that the proceeds of mining are less likely to be dumped on the market because they will accrue to long-term believers in the platform.
+Việc trả tiền thưởng khai thác theo hình thức SP có thể ngăn cản mọi người xác định tính khả thi của việc khai thác thông qua giá hiện tại. Few people will agree on what the future price will be. This means mining difficulty will be driven by those who place the highest estimate on future value. Miners without a long-term interest in the platform will be discouraged from competing. Ultimately this means that the proceeds of mining are less likely to be dumped on the market because they will accrue to long-term believers in the platform.
 
 ### Mining Algorithm
 
