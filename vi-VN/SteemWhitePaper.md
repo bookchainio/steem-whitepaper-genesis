@@ -478,9 +478,9 @@ Một tài khoản có số dư thấp được tạo trong khoảng thời gian
 
 Để duy trì trải nghiệm người dùng với số tài khoản treo tối thiểu hợp lý, tất cả các tài khoản mới nên được bắt đầu với số dư gấp 10 lần số dư tối thiểu cần thiết để giao dịch hàng tuần. Bằng cách này, nếu nhu cầu tăng lên theo hệ số 10 thì tài khoản sẽ vẫn tồn tại.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+Do sự tấn công 'sybil' có khả năng xảy ra nên bất kỳ số dư tài khoản ban đầu nào cũng phải đến từ việc người dùng tạo tài khoản và không phải từ việc tạo ra đồng token.
 
-### Justifying Minimum Balances
+### Xác minh các số dư tối thiểu
 
 The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^11] . Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
 
