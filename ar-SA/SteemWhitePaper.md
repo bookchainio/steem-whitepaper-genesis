@@ -151,15 +151,15 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
 
 ### الديون المستدامة لنسب الملكية
 
-إذا كان ينضر للعملة على انها ملكية في كامل مخزون العملات ، فيمكن اعتبار الدولار القابل للتحويل كدين. وإذا كانت نسبة الدين إلى الملكية مرتفعة جدا فإن العملة بأكملها يمكن أن تصبح غير مستقرة. ويمكن أن يؤدي تحويل الديون إلى زيادة كبيرة في مخزون العملات ، الأمر الذي سيؤدي بدوره إلى انخفاض الأسعار في السوق بمجرد بيعها. تتطلب التحويلات اللاحقة إصدار المزيد من العملات. متروكا بدون تصحيح يمكن للنضام الإنهيار تاركاً جملة من الديون مدعومة بملكية لا قيمة لها. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+إذا كان ينضر للعملة على انها ملكية في كامل مخزون العملات ، فيمكن اعتبار الدولار القابل للتحويل كدين. وإذا كانت نسبة الدين إلى الملكية مرتفعة جدا فإن العملة بأكملها يمكن أن تصبح غير مستقرة. ويمكن أن يؤدي تحويل الديون إلى زيادة كبيرة في مخزون العملات ، الأمر الذي سيؤدي بدوره إلى انخفاض الأسعار في السوق بمجرد بيعها. تتطلب التحويلات اللاحقة إصدار المزيد من العملات. متروكا بدون تصحيح يمكن للنضام الإنهيار تاركاً جملة من الديون مدعومة بملكية لا قيمة لها. وكلما ارتفعت نسبة الدين إلى الملكية قلت رغبة المستثمرين الجدد في استثمار رأس المال.
 
-For every SMD Steem creates, $19.00 of STEEM is also created and converted to SP. This means that the highest possible debt-to-ownership in a stable market is 1:19 or about 5%. If Steem falls in value by 50% then the ratio could increase to 10%. An 88% fall in value of STEEM could cause the debt-to-ownership ratio to reach 40%. Assuming the value of STEEM eventually stabilizes, the debt-to-ownership ratio will naturally move back toward 5%.
+لكل SMD تم إنشاؤه بواسطة Steem ، يتم إنشاء $ 19.00 من STEEM وتحويلها إلى SP. This means that the highest possible debt-to-ownership in a stable market is 1:19 or about 5%. If Steem falls in value by 50% then the ratio could increase to 10%. An 88% fall in value of STEEM could cause the debt-to-ownership ratio to reach 40%. Assuming the value of STEEM eventually stabilizes, the debt-to-ownership ratio will naturally move back toward 5%.
 
 إن الفكرة من وجود دين محافظ بنسبة 5٪ للملكية هي أنه حتى لو تم تحويل جميع الديون وبيعها ، يجب أن يكون هناك عدد كافي من المشترين ويظل التخفيف الفعلي لمالكي العملات منخفضًا نسبيًا.
 
-يمكن أن يؤدي التغير السريع في قيمة STEEM إلى تغيير كبير في نسبة الدين إلى الملكية. The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SMD and SP (as determined by the current rate / feed).
+يمكن أن يؤدي التغير السريع في قيمة STEEM إلى تغيير كبير في نسبة الدين إلى الملكية. تستند قاعدة النسبة المئوية المستخدمة لحساب إنشاء STEEM إلى إجمالي المخزون بما في ذلك سعر STEEM لجميع SMD و SP المعلق (كما هو محدد وفقًا للمعدل الحالي / التحديث).
 
-### Interest
+### الفائدة
 
 SMD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
