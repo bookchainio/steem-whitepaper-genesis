@@ -541,13 +541,13 @@ Steem网络构建在石墨烯技术基础之上，该技术也同样被用在Bit
 
 ## Reddit的规模
 
-Steem有能力处理超过Reddit的用户量。 在2015年，Reddit的870万用户每秒产生23个留言[^13]，平均每个用户每年产生83个留言。 There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem有能力处理超过Reddit的用户量。 在2015年，Reddit的870万用户每秒产生23个留言[^13]，平均每个用户每年产生83个留言。 其中共有7300万个顶级帖子，平均每秒会有两个新帖子。 于此同时，共有70亿个赞，平均每秒产生220个赞。 所有这些说明，如果Reddit在区块链上运作，它需要每秒250个交易。
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^14], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+为了达到这个业界领先的性能，Steem借鉴了LMAX交易所[^14]的经验，该交易所可以每秒处理600万笔交易。 在这些经验中，有如下要点：
 
-1. Keep everything in memory.
-2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
+1. 把所有信息放在内存中。
+2. 将核心业务逻辑运行在单一线程中。
+3. 将加密操作 (哈希和签名) 排除在核心业务逻辑之外。
 4. Divide validation into state-dependent and state-independent checks.
 5. Use an object oriented data model.
 
