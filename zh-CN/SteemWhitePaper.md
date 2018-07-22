@@ -548,8 +548,8 @@ Steem有能力处理超过Reddit的用户量。 在2015年，Reddit的870万用�
 1. 把所有信息放在内存中。
 2. 将核心业务逻辑运行在单一线程中。
 3. 将加密操作 (哈希和签名) 排除在核心业务逻辑之外。
-4. Divide validation into state-dependent and state-independent checks.
-5. Use an object oriented data model.
+4. 将验证部分细分为状态相关和状态无关的检查。
+5. 使用面向对象的数据模型。
 
 By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
 
