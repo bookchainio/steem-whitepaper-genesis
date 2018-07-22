@@ -474,7 +474,7 @@ If we assume a user with $25 dollars worth of BTC transacts once per week and pa
 
 Dựa trên hệ thống tài khoản của Steem với số dư được công khai sẽ làm đơn giản hóa việc thi hành thuật toán hạn chế tần suất băng thông. Bất kỳ tài khoản có số dư dưới mức cần thiết để có thể tham gia giao dịch một lần mỗi tuần thì sẽ không được giao dịch. Điều này có nghĩa là tất cả các tài khoản mới ít nhất nên được tài trợ một khoản số dư tối thiểu này. Điều này cũng có nghĩa là người dùng có thể giao dịch với số lượng nhỏ hơn, miễn là họ có số dư lớn hơn và sử dụng lại tài khoản.
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by transferring a larger balance into the account.
+Một tài khoản có số dư thấp được tạo trong khoảng thời gian có số lượng sử dụng thấp có thể trở nên không thể truy cập được khi việc sử dụng mạng lưới được phục hồi. Tiền quỹ có thể được hồi phục vào bất kỳ lúc nào bằng cách chuyển một số dư lớn hơn vào tài khoản.
 
 In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
 
