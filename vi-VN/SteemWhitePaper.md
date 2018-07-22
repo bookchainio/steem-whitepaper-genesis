@@ -468,7 +468,7 @@ Dung lượng lưu trữ trên nền tảng Blockchain là không giới hạn. 
 
 #### Comparison to Fees
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Giả sử một nhà đầu tư sở hữu lượng BTC trị giá $25 và thực hiện giao dịch một lần một tuần thì phải trả $0.04 lệ phí như vậy một năm người đấy phải trả hơn $2.00 tiền phí. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
 
 ### Tạo tài khoản
 
@@ -482,7 +482,7 @@ Do sự tấn công 'sybil' có khả năng xảy ra nên bất kỳ số dư t�
 
 ### Xác minh các số dư tối thiểu
 
-Khái niệm bắt buộc người dùng phải duy trì một lượng số dư tối thiểu được lưu thông một cách tự nhiên từ giá trị của người dùng [^11]. Bất kỳ ai đang kinh doanh đều biết rằng mỗi người dùng đều có giá trị đáng kể. Trong việc kinh doanh, doanh nghiệp phải chi tiêu từ $30 đến $200 để có được một khách hàng. Đôi khi, họ trả tiền trực tiếp cho người dùng, những lần khác họ trả tiền cho quảng cáo và còn những thời điểm khác thì họ mua toàn bộ công ty để đáp ứng cho cơ sở người dùng của họ. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+Khái niệm bắt buộc người dùng phải duy trì một lượng số dư tối thiểu được lưu thông một cách tự nhiên từ giá trị của người dùng [^11]. Bất kỳ ai đang kinh doanh đều biết rằng mỗi người dùng đều có giá trị đáng kể. Trong việc kinh doanh, doanh nghiệp phải chi tiêu từ $30 đến $200 để có được một khách hàng. Đôi khi, họ trả tiền trực tiếp cho người dùng, những lần khác họ trả tiền cho quảng cáo và còn những thời điểm khác thì họ mua toàn bộ công ty để đáp ứng cho cơ sở người dùng của họ. Sau khi một công ty có được người dùng, họ thường cung cấp cho họ nhiều *dịch vụ miễn phí* chỉ để giữ cho họ ở lại đủ lâu để kiếm tiền từ họ thông qua một số phương tiện khác.
 
 Ripple uses a minimum balance[^12] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
 
