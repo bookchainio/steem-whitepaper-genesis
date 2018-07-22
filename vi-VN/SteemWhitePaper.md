@@ -472,7 +472,7 @@ If we assume a user with $25 dollars worth of BTC transacts once per week and pa
 
 ### Tạo tài khoản
 
-Dựa trên hệ thống tài khoản của Steem với số dư được công khai sẽ đơn giản hóa việc thi hành thuật toán hạn chế tần suất băng thông. Bất kỳ tài khoản nào có số dư dưới mức bắt buộc tối thiểu để giao dịch một lần mỗi tuần thì sẽ không được giao dịch. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+Dựa trên hệ thống tài khoản của Steem với số dư được công khai sẽ đơn giản hóa việc thi hành thuật toán hạn chế tần suất băng thông. Bất kỳ tài khoản nào có số dư dưới mức bắt buộc tối thiểu để giao dịch một lần mỗi tuần thì sẽ không được giao dịch. Điều này có nghĩa là tất cả các tài khoản mới ít nhất nên được tài trợ một khoản số dư tối thiểu này. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
 
 It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by transferring a larger balance into the account.
 
