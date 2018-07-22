@@ -553,7 +553,7 @@ Steem有能力处理超过Reddit的用户量。 在2015年，Reddit的870万用�
 
 通过遵循以上的原则，Steem不必在性能优化上付出太大努力，就能够每秒处理10,000笔交易。
 
-由于Intel最近引入的Optane技术[^15]，使得在内存中保存所有信息变得可行。 It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+由于Intel最近引入的Optane技术[^15]，使得在内存中保存所有信息变得可行。 将该技术商品化后的硬件应该能够在单一线程中处理所有和Steem相关的业务逻辑，所有帖子的信息都保存在内存中以便能够快速进行索引。 就算是Google也把整个互联网的索引都保存在RAM中。 通过使用区块链技术，使得在多台机器间复制数据库，以防数据丢失的工作变得非常简单。 As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
 # Allocation & Supply
 
