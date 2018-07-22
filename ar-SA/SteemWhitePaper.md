@@ -181,11 +181,11 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
 
 إذا تم تداول SMD بأقل من 1 دولار وتجاوزت نسبة الدين إلى الملكية 10٪ ، يجب رفع السعر في التحديثات ، أي يجب الحصول على المزيد من STEEM لكل SMD. سيؤدي ذلك إلى زيادة الطلب على SMD مع تخفيض نسبة الدين إلى الملكية أيضاً والعودة إلى SMD متكافئ مع الدولار الأمريكي.
 
-بافتراض أن قيمة STEEM تنمو بسرعة أكبر من السرعة التي تنشئ بها ستيم SMD جديد، يجب أن تظل نسبة الديون إلى الملكية أقل من المعدل المستهدف ، وسوف تفيد الفائدة المقدمة الجميع. If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+بافتراض أن قيمة STEEM تنمو بسرعة أكبر من السرعة التي تنشئ بها ستيم SMD جديد، يجب أن تظل نسبة الديون إلى الملكية أقل من المعدل المستهدف ، وسوف تفيد الفائدة المقدمة الجميع. إذا كانت قيمة الشبكة في انحدار ، فإن أي سعر فائدة مقدم سيجعل نسبة الدين إلى الملكية أسوأ.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+في الواقع ، يعهد إلى منتجي التحديثات بمسؤولية وضع السياسة النقدية لغرض الحفاظ على ربط ثابت بالدولار الأمريكي. إن إساءة استخدام هذه القوة يمكن أن يضر بقيمة STEEM بحيث يكون من الحكمة أن يقوم حاملو SP بالتصويت للشهود الذين يمكن الاعتماد عليهم لتعديل تحديثات السعر وأسعار الفائدة وفقا للقواعد المذكورة أعلاه.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SMD.
+إذا كانت نسبة الدين إلى الملكية مرتفعة بشكل خطير وآختار المشاركون في السوق تجنب طلبات التحويل، فيجب تعديل التحديثات لزيادة المعدل الذي دفعته STEEM لتحويل SBD.
 
 Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SMD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions. The blockchain is paying liquidity providers for their service in absorbing short-term demands.
 
