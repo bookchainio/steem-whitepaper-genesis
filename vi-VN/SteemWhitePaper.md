@@ -538,7 +538,7 @@ Decentralized rate limiting of transactions can enable new types of decentralize
 
 # Tốc độ phản hồi và khả năng mở rộng của hệ thống
 
-Hệ thống Steem được xây dựng dựa trên Graphene có cùng công nghệ với BitShares Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+Giống như Bitshares, nền tảng của Steem được xây dựng dựa trên công nghệ Graphene. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
 
 ## Reddit Scale
 
