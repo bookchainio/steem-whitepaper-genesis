@@ -189,7 +189,7 @@ Nếu tỷ lệ nợ-sở hữu cao tới mức nguy hiểm và người tham gi
 
 Các sự thay đổi chính sách về lãi suất và/hoặc bất kỳ các khoản tiền thưởng/chiết khấu trên tỷ lệ chuyển đổi STEEM/SMD phải là phản hồi cần được cân nhắc kỹ càng và từ tốn về sự chênh lệch trung bình trong khoảng thời gian dài hạn hơn là cố gắng phản hồi dựa trên các điều kiện thị trường ngắn hạn. Chuỗi khối blockchain đang chi trả cho các nhà cung cấp thanh khoản về dịch vụ của họ trong việc đáp ứng các nhu cầu ngắn hạn.
 
-Chúng tôi tin rằng những quy tắc này sẽ giúp người tham gia thị trường tự tin vào khả năng mất tiền của họ khi giữ đồng SMD được mua với giá $1.00 là không thể. Chúng tôi kỳ vọng rằng sẽ có một phạm vi giao dịch hẹp vào giữa $0.99 và $1.01 cho đồng SMD trong hầu hết tất cả các điều kiện thị trường.
+Chúng tôi tin rằng những quy tắc này sẽ giúp người tham gia thị trường tin tưởng vào khả năng mất tiền của họ là không thể khi họ giữ đồng SMD được mua với giá $1.00. Chúng tôi kỳ vọng rằng sẽ có một phạm vi giao dịch hẹp vào giữa $0.99 và $1.01 cho đồng SMD trong hầu hết tất cả các điều kiện thị trường.
 
 ## Đóng góp chủ quan
 
@@ -478,7 +478,7 @@ Một tài khoản có số dư thấp được tạo trong khoảng thời gian
 
 Để duy trì trải nghiệm người dùng với số tài khoản treo tối thiểu hợp lý, tất cả các tài khoản mới nên được bắt đầu với số dư gấp 10 lần số dư tối thiểu cần thiết để giao dịch hàng tuần. Bằng cách này, nếu nhu cầu tăng lên theo hệ số 10 thì tài khoản sẽ vẫn tồn tại.
 
-Do sự tấn công 'sybil' có khả năng xảy ra nên bất kỳ số dư tài khoản ban đầu nào cũng phải đến từ việc người dùng tạo tài khoản và không phải từ việc tạo ra đồng token.
+Do sự tấn công mạo nhận có khả năng xảy ra nên bất kỳ số dư tài khoản ban đầu nào cũng phải đến từ việc người dùng tạo tài khoản và không phải từ việc tạo ra đồng token.
 
 ### Xác minh các số dư tối thiểu
 
