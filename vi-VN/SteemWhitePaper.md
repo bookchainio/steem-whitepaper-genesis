@@ -456,11 +456,11 @@ Tỷ lệ dự trữ tối thiểu là 1 còn tối đa sẽ được tính toá
 
 Nếu R = 38 là điểm cận dưới của tỷ lệ dự trữ thì CLR /S là điểm cận dưới của lượng băng thông có thể sử dụng. Từ ví dụ thực tế đơn giản này cho thấy ngưởi dùng có thể đặt lệnh giao dịch tối đa là 0.20 BTC ( khoảng hơn $80 tại thời điểm viết bài này). Tuy nhiên khi dựa vào giả đinh là tất cả BTC đều dao động bằng nhau thì điểm cận trên sẽ không ổn định. Trường hợp người dùng có hằng chục thậm chí hàng trăm bitcoin không có nghĩa là họ phải thực hiện giao dịch hàng chục hoặc hàng trăm lần một tuần! Những giao dịch còn "sót lại" đáng ra "nên" được thực hiện từ trước đó sẽ giúp tăng tỷ lệ dự trữ và số băng thông dư thừa được "tái tạo" dành cho những thành viên ít vốn hơn.
 
-Với giả định các đồng coin đều lưu thông như nhau thì những tính toán trên nhằm duy trì sự ổn định của điểm cận trên. Thực tế cho thấy đối với những người dùng tích cực, như hoạt động trao đổi, thì tỷ lệ họ sở hữu đồng coin được lưu thông sẽ cao hơn so với những người ít hoạt động, vì vậy bảng cân đối tài khoản thấp hơn nhiều.
+Với giả định các đồng coin đều lưu thông như nhau thì những tính toán trên nhằm duy trì sự ổn định của điểm cận trên. Thực tế cho thấy đối với những người dùng tích cực, như hoạt động trao đổi, thì tỷ lệ họ sở hữu đồng coin được lưu thông sẽ cao hơn so với những người ít hoạt động, vì vậy mức tối thiểu trong bảng cân đối tài khoản thấp hơn nhiều.
 
 #### Sự tác động của dung lượng lưu trữ đến Bitcoin
 
-Dung lượng lưu trữ trên nền tảng Blockchain là không giới hạn. Trong công nghệ lưu trữ dữ liệu của cơ sở hạ tầng mạng Internet dung lượng rất cần thiết nhằm tăng kích thước khối Bitcoin đến 10MB và nếu tính theo hệ số 10 thì kích thước này sẽ từ từ giảm xuống mức dư tối thiểu. Trong khi Bitcoin đang hỗ trợ thực hiện khoảng 3 giao dịch mỗi giây,nhờ vào dung lượng lưu trữ có khả năng xử lý hơn 1000 giao dịch mỗi giây. Điều này đã làm thay đôi điểm cận trên thành 0,0006 BTC hoặc khoảng $0,25, có nghĩa tài khoản nào có $0,25 có thể giao dịch ít nhất một lần mỗi tuần (và có thể nhiều lần hơn khi chúng tôi điểu chỉnh được sự không ổn định của điểm cận trên).
+Dung lượng lưu trữ trên nền tảng Blockchain là không giới hạn. Trong công nghệ lưu trữ dữ liệu của cơ sở hạ tầng mạng Internet dung lượng rất cần thiết nhằm tăng kích thước khối Bitcoin đến 10MB và nếu tính theo hệ số 10 thì kích thước này sẽ từ từ giảm xuống mức dư tối thiểu. Trong khi Bitcoin đang hỗ trợ thực hiện khoảng 3 giao dịch mỗi giây,nhờ vào dung lượng lưu trữ có khả năng xử lý hơn 1000 giao dịch mỗi giây. Điều này đã làm thay đôi điểm cận trên thành 0,0006 BTC hoặc khoảng $0,25, có nghĩa tài khoản nào có $0,25 được thể thực hiện giao dịch ít nhất một lần / tuần (và có thể nhiều lần hơn khi chúng tôi điểu chỉnh được sự không ổn định của điểm cận trên).
 
 #### Cách tính số lượng tối đa người dùng truy cập duy nhất
 
@@ -468,7 +468,7 @@ Dung lượng lưu trữ trên nền tảng Blockchain là không giới hạn. 
 
 #### So sánh các khoản phí
 
-Giả sử một nhà đầu tư sở hữu lượng BTC trị giá $25 và thực hiện giao dịch một lần một tuần thì phải trả $0.04 lệ phí như vậy một năm người đấy phải trả hơn $2.00 tiền phí. Vậy với số vốn ban đầu là $25 thì nhà đầu tư đấy phải lấy 8% lợi nhuận để trả phí. Như vậy bằng cách thực hiện giao dịch dựa vào giới hạn tỷ lệ sẽ giúp nhà đầu tư giữ được tiền của họ trên nền tảng Blockchain hơn là dựa trên lệ phí, với nhà đầu tư có số vốn 25$ BTC ở trên đã có thể tiếp kiệm được 2$ tiền phí trong một năm. Chỉ cần số vốn là $175 nhà đầu tư có thể thực hiện giao dịch hàng ngày và tiết kiệm được $14 một năm.
+Giả sử một nhà đầu tư sở hữu lượng BTC trị giá $25 và thực hiện giao dịch một lần / tuần thì phải trả $0.04 lệ phí như vậy một năm người đấy phải trả hơn $2.00 tiền phí. Vậy với số vốn ban đầu là $25 thì nhà đầu tư phải lấy 8% lợi nhuận để trả phí. Như vậy bằng cách thực hiện giao dịch dựa vào giới hạn tỷ lệ sẽ giúp nhà đầu tư giữ được tiền của họ trên nền tảng Blockchain hơn là dựa trên lệ phí, với nhà đầu tư có số vốn 25$ BTC ở trên đã có thể tiếp kiệm được 2$ tiền phí trong một năm. Chỉ cần số vốn là $175 nhà đầu tư có thể thực hiện giao dịch hàng ngày và tiết kiệm được $14 một năm.
 
 ### Tạo tài khoản
 
