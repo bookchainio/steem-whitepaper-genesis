@@ -175,9 +175,9 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
 
 إذا كان منتجو خلاصات ستيم يهدفون إلى أن يكون لهم سياسة نقدية مستقلة مما يسمح لهم بإنشاء وتدمير ستيم دولار وفي نفس الوقت إمتلاك السيطرة الكاملة على سعر الفائدة اذا سوف يواجهون مشاكل. يقول الثالوث المستحيل أن ستيم دولار إما يحتاج إلى تقييد حركة رأس المال، إمتلاك سعر صرف غير مستقر مع الدولار، أو أن يكون له سيطرة محدودة على سعر الفائدة.
 
-إن الشاغل الرئيسي لمنتجي خلاصات سعر ستيم هو الحفاظ على تحويل واحد لواحد بين SMD والدولار الأمريكي (USD). Any time SMD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+إن الشاغل الرئيسي لمنتجي خلاصات سعر ستيم هو الحفاظ على تحويل واحد لواحد بين SMD والدولار الأمريكي (USD). حينما يتم تداول SMD باستمرار فوق $ 1.00 دولار أمريكي يجب توقيف مدفوعات الفائدة. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. إذا حدث هذا ، فسيتم تقييم قيمة SMD بأكثر من 1.00 دولار ، ولا يوجد ما يمكن للمجتمع أن يفعله دون فرض أسعار فائدة سلبية.
 
-If the debt-to-ownership ratio is under 10% and SMD is trading for less than $1.00 then the interest rate should be increased. This will encourage more people to hold their SMD and support the price.
+إذا كانت نسبة الدين إلى الملكية أقل من 10٪ ويتم تبادل SMD بأقل من 1 دولار ، فيجب زيادة سعر الفائدة. هذا سوف يشجع المزيد من الناس على الاحتفاظ بـ SMD ودعم السعر.
 
 If SMD trades for less than $1.00 USD and the debt-to-ownership ratio is over 10% then the feeds should be adjusted upward give more STEEM per SMD. This will increase demand for SMD while also reducing the debt-to-ownership ratio and returning SMD to parity with USD.
 
