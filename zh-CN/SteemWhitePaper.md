@@ -531,11 +531,11 @@ Ripple使用一个最小余额[^12]，该余额会根据账户使用的资源进
 
 换句话说，交易费应当等同于每周交易一次所需的最低账户余额，且在一周结束时会被返还。 假定最小账户余额为1美元，且该余额允许用户一周至少交易一次。 如果某个持有1美元余额的个人希望一次性进行5笔交易，他们需要在交易前后，将余额增至5美元。
 
-在理论上，如果用户可以租赁他们需要的股份，则就形成了一个市场。 在实际上，用户可以通过买卖分时共享，来达到他们期待的使用率。 In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+在理论上，如果用户可以租赁他们需要的股份，则就形成了一个市场。 在实际上，用户可以通过买卖分时共享，来达到他们期待的使用率。 换句话说，谈判小额贷款的成本，高于维持一个适合每周最大使用量的帐户余额的成本。
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+去中心化的交易频率限制可以使新类型的去中心化应用成为可能，而在此之前通过微支付来使用这些应用是不可行的。 这个新的模型使得应用程序开发者能够决定是否，以及何时对用户的交易收费。
 
-# Performance and Scalability
+# 性能和可扩展性
 
 The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
 
