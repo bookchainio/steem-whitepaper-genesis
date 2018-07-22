@@ -486,7 +486,7 @@ Khái niệm bắt buộc người dùng phải duy trì một lượng số dư
 
 Ripple sử dụng số dư tối thiểu [^12] kết hợp với việc sử dụng tài nguyên tài khoản và yêu cầu các tài khoản mới phải được cấp vốn ít nhất bằng số dư tối thiểu này. Hiện tại số dư tối thiểu này là vào khoảng $0.15 lớn hơn $0.10 mà chúng tôi ước tính rằng với số dư tối thiểu này sẽ cho phép một người dùng nào đó tự do giao dịch ít nhất một lần mỗi tuần.
 
-Blockchain có thể cấp cho mỗi người dùng một giá trị tối thiểu thông qua quá trình đơn giản là yêu cầu số dư tối thiểu. Any business that wishes to bring a new customer to the blockchain can pre-fund that user's account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+Blockchain có thể cấp cho mỗi người dùng một giá trị tối thiểu thông qua quá trình đơn giản là yêu cầu số dư tối thiểu. Bất kỳ doanh nghiệp nào muốn đưa khách hàng mới vào blockchain đều có thể cấp vốn trước vào tài khoản của người dùng đó bằng với số dư tối thiểu mà sẽ cho phép họ được giao dịch. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
 
 Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
 
