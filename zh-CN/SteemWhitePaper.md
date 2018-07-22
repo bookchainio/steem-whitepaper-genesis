@@ -537,11 +537,11 @@ Ripple使用一个最小余额[^12]，该余额会根据账户使用的资源进
 
 # 性能和可扩展性
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+Steem网络构建在石墨烯技术基础之上，该技术也同样被用在BitShares上。 在一个分布式的测试网络中，石墨烯已被公开证明每秒可处理超过1000笔交易。 通过对服务器容量和通信协议的相对简单的改进，石墨烯可以被轻易的扩展为每秒处理超过10,000笔交易。
 
-## Reddit Scale
+## Reddit的规模
 
-Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit's 8.7 million users generated an average of 23 comments per second[^13] , with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem有能力处理超过Reddit的用户量。 In 2015 Reddit's 8.7 million users generated an average of 23 comments per second[^13] , with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
 
 To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^14], which is able to process 6 million transactions per second. Among these lessons are the following key points:
 
