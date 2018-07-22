@@ -329,7 +329,7 @@ Việc trả tiền thưởng khai thác theo hình thức SP có thể ngăn c�
 
 ### Thuật toán khai thác
 
-The mining algorithm adopted by Steem requires the miner to have access to the private key of the account that will receive the rewards. This requirement has several important consequences. First it encourages optimization of elliptic curve signature verification algorithms needed by Steem. Second it makes it challenging to set up mining pools because the pool operator would have to share control over the reward with all of the "anonymous" miners. Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
+Thuật toán khai thác được Steem thông qua yêu cầu người dùng phải có quyền truy cập vào khóa riêng của tài khoản mà sẽ nhận tiền thưởng trong tương lai. Yêu cầu này sẽ dẫn đến một số kết quả quan trọng. Trước hết, nó khuyến khích tối ưu hóa các thuật toán xác minh chữ ký đường cong elip theo yêu cầu của Steem. Thứ hai, nó làm cho việc thiết lập "bể khai thác" trở nên khó khăn bởi vì những người khai thác buộc phải chia sẻ quyền kiểm soát tiền thưởng với tất cả những người dùng "ẩn danh". Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
 
 The following pseudocode describes how the proof-of-work hash value is calculated:
 
