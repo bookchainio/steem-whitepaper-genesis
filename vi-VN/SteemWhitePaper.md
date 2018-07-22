@@ -494,7 +494,7 @@ May mắn thay, số dư tối thiểu bắt buộc có thể thấp bằng mộ
 
 Đồng STEEM được sử dụng để cấp vốn trước cho một tài khoản được gọi là Powered Up trong tài khoản mới (tức là, được chuyển thành Steem Power).
 
-### Adjusting the Reserve Ratio
+### Điều chỉnh tỷ lệ dự trữ
 
 Rate limiting requires that the network adjust the reserve ratio quickly enough to mitigate the impact of an attacker attempting to ood the network. Let's assume the attacker has a large balance, say 1% of the available tokens. If we also assume that the network targets 50% utilization, then a sustained attack should find this user throttled to 25% of network capacity assuming everyone else is also using 25% of the capacity. Stated another way, the largest single user should never be able to consume more than 50% of the target capacity unless they own more than 50% of the SP.
 
