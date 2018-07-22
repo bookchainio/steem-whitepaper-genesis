@@ -4,7 +4,7 @@
 
 Tháng 3 năm 2016
 
-# Những ghi chú của người dịch
+# Những ghi chú của người dịch. Mọi người ghi chú đoạn dịch của mình ở đây nha Impact of Token Creation Rate Lenancie cho đến hết
 
 Mục dành cho những ghi chú của người dịch.
 
