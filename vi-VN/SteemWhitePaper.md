@@ -440,7 +440,7 @@ Người dùng sử dụng số băng thông trung bình là M \ * U / S. Mức 
 
 Khi lượng khối được tạo ra không bằng nửa số lượng dự tính thì hệ thống có thể tăng tỷ lệ dự trữ nhưng khi lượng khối tăng hơn một nửa thì tỷ lệ này sẽ giảm. Thuật toán điều chỉnh R đã ra đời để xử lý nhanh chóng việc giảm tỷ lệ dự trữ khi nhu cầu sử dụng tăng cao hay tăng tỷ lệ này khi nhu cầu giảm xuống.
 
-Tỷ lệ dự trữ tối thiểu là 1 còn tối đa sẽ được tính toán sao cho ngăn những bên tham gia sử dụng hết băng thông sẵn có. Trong trường hợp không có ai sử dụng số băng thông này thì tỷ lệ dự trữ có thể tăng lên cho đến khi người dùng chỉ cần 1 satoshi cũng có thể thực hiện giao dịch từng khối đơn lẻ.
+Tỷ lệ dự trữ tối thiểu là 1 còn tối đa sẽ được tính toán sao cho ngăn những bên tham gia sử dụng hết băng thông sẵn có. Trong trường hợp không có ai sử dụng số băng thông này thì tỷ lệ dự trữ có thể tăng lên đến khi người dùng chỉ cần dùng 1 satoshi cũng có thể thực hiện giao dịch từng khối đơn lẻ.
 
 ### Ví dụ thực tế: Đồng tiền điện tử được mã hóa Bitcoin
 
@@ -454,7 +454,7 @@ Tỷ lệ dự trữ tối thiểu là 1 còn tối đa sẽ được tính toá
     CLR / S = 2869 byte hoặc khoảng 5 giao dịch mỗi tuần đối với một BTC
     
 
-Nếu R = 38 là điểm cận dưới của tỷ lệ dự trữ thì CLR /S là điểm cận dưới của lượng băng thông có thể sử dụng. Từ ví dụ thực tế đơn giản này cho thấy ngưởi dùng có thể đặt lệnh giao dịch tối đa là 0.20 BTC ( khoảng hơn $80 tại thời điểm viết bài này). Tuy nhiên khi dựa vào giả đinh là tất cả BTC đều bằng nhau thì chưa thể xác định được điểm cận trên. Trường hợp người dùng có hằng chục thậm chí hàng trăm bitcoin không có nghĩa là họ phải thực hiện giao dịch hàng chục hoặc hàng trăm lần một tuần! Những giao dịch còn "sót lại" do chưa được người dùng "nên" thực hiện từ trước đó sẽ giúp tăng tỷ lệ dự trữ và số băng thông dư thừa được "tái tạo" cho những thành viên nhỏ hơn.
+Nếu R = 38 là điểm cận dưới của tỷ lệ dự trữ thì CLR /S là điểm cận dưới của lượng băng thông có thể sử dụng. Từ ví dụ thực tế đơn giản này cho thấy ngưởi dùng có thể đặt lệnh giao dịch tối đa là 0.20 BTC ( khoảng hơn $80 tại thời điểm viết bài này). Tuy nhiên khi dựa vào giả đinh là tất cả BTC đều dao động bằng nhau thì điểm cận trên sẽ không ổn định. Trường hợp người dùng có hằng chục thậm chí hàng trăm bitcoin không có nghĩa là họ phải thực hiện giao dịch hàng chục hoặc hàng trăm lần một tuần! Những giao dịch còn "sót lại" đáng ra "nên" được thực hiện từ trước đó sẽ giúp tăng tỷ lệ dự trữ và số băng thông dư thừa được "tái tạo" dành cho những thành viên nhỏ hơn.
 
 Với giả định các đồng coin đều lưu thông như nhau thì những tính toán trên nhằm duy trì sự ổn định của điểm cận trên. Thực tế cho thấy đối với những người dùng tích cực, như hoạt động trao đổi, thì tỷ lệ họ sở hữu đồng coin được lưu thông sẽ cao hơn nhiều so với những người ít hoạt động, đồng nghĩa việc yêu cầu số dư tối thiểu thực tế thấp hơn nhiều.
 
