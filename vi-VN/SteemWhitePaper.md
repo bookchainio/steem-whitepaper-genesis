@@ -496,7 +496,7 @@ May mắn thay, số dư tối thiểu bắt buộc có thể thấp bằng mộ
 
 ### Điều chỉnh tỷ lệ dự trữ
 
-Giới hạn tỷ suất yêu cầu mạng lưới phải điều chỉnh tỷ lệ dự trữ một cách nhanh chóng để giảm thiểu tác động của những kẻ đang cố tấn công mạng lưới. Giả sử kẻ tấn công có số dư lớn, khoảng 1% số lượng token đang có trên thị trường. If we also assume that the network targets 50% utilization, then a sustained attack should find this user throttled to 25% of network capacity assuming everyone else is also using 25% of the capacity. Stated another way, the largest single user should never be able to consume more than 50% of the target capacity unless they own more than 50% of the SP.
+Giới hạn tỷ suất yêu cầu mạng lưới phải điều chỉnh tỷ lệ dự trữ một cách nhanh chóng để giảm thiểu tác động của những kẻ đang cố tấn công mạng lưới. Giả sử kẻ tấn công có số dư lớn, khoảng 1% số lượng token đang có trên thị trường. Nếu chúng ta cũng giả sử như rằng mục tiêu của mạng lưới là 50% cho sự sử dụng, thì một cuộc tấn công kéo dài sẽ cho thấy người tấn công điều chỉnh tới 25% dung lượng mạng cho rằng mọi người khác cũng đang sử dụng 25% dung lượng. Stated another way, the largest single user should never be able to consume more than 50% of the target capacity unless they own more than 50% of the SP.
 
 Let's use an initial reserve ratio of 200x. Due to fractional reserves, this means someone holding 1% of the tokens has the right to demand transactions totalling 2x the maximum block size. In order to bring the network usage of the attacker down to 25% the reserve ratio would have to fall to 25x. This would cause the minimum balance required to transact once per week to grow by 8x.
 
