@@ -460,7 +460,7 @@ Với giả định các đồng coin đều lưu thông như nhau thì những 
 
 #### Sự ảnh hưởng của dung lượng lưu trữ
 
-Dung lượng lưu trữ trên nền tảng Blockchain là không giới hạn. Trong công nghệ lưu trữ dữ liệu của cơ sở hạ tầng mạng Internet dung lượng rất cần thiết nhằm tăng kích thước khối Bitcoin đến 10MB và nếu tính theo hệ số 10 thì kích thước này sẽ từ từ giảm xuống mức dư tối thiểu. Trong khi Bitcoin đang hỗ trợ thực hiện khoảng 3 giao dịch mỗi giây thì với những hệ thống thay thế khác có khả năng xử lý hơn 1000 giao dịch mỗi giây. Điều này đã làm thay đôi điểm cận trên thành 0,0006 BTC hoặc khoảng $0,25, có nghĩa là tài khoản nào có $0,25 có thể giao dịch ít nhất một lần mỗi tuần (và có thể nhiều lần hơn khi chúng tôi đang giải quyết được sự không ổn định của điểm cận trên).
+Dung lượng lưu trữ trên nền tảng Blockchain là không giới hạn. Trong công nghệ lưu trữ dữ liệu của cơ sở hạ tầng mạng Internet dung lượng rất cần thiết nhằm tăng kích thước khối Bitcoin đến 10MB và nếu tính theo hệ số 10 thì kích thước này sẽ từ từ giảm xuống mức dư tối thiểu. Trong khi Bitcoin đang hỗ trợ thực hiện khoảng 3 giao dịch mỗi giây,nhờ vào dung lượng lưu trữ có khả năng xử lý hơn 1000 giao dịch mỗi giây. Điều này đã làm thay đôi điểm cận trên thành 0,0006 BTC hoặc khoảng $0,25, có nghĩa là tài khoản nào có $0,25 có thể giao dịch ít nhất một lần mỗi tuần (và có thể nhiều lần hơn khi chúng tôi đang giải quyết được sự không ổn định của điểm cận trên).
 
 #### Maximum Number of Unique Users
 
