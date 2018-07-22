@@ -454,9 +454,9 @@ Tỷ lệ dự trữ tối thiểu là 1 còn tối đa sẽ được tính toá
     CLR / S = 2869 byte hoặc khoảng 5 giao dịch mỗi tuần đối với một BTC
     
 
-Nếu R = 38 là điểm cận dưới của tỷ lệ dự trữ thì CLR /S là điểm cận dưới của lượng băng thông có thể sử dụng. Từ ví dụ thực tế đơn giản này cho thấy ngưởi dùng có thể đặt lệnh giao dịch tối đa là 0.20 BTC ( khoảng hơn $80 tại thời điểm viết bài này). Tuy nhiên khi dựa vào giả đinh là tất cả BTC đều dao động bằng nhau thì điểm cận trên sẽ không ổn định. Trường hợp người dùng có hằng chục thậm chí hàng trăm bitcoin không có nghĩa là họ phải thực hiện giao dịch hàng chục hoặc hàng trăm lần một tuần! Những giao dịch còn "sót lại" đáng ra "nên" được thực hiện từ trước đó sẽ giúp tăng tỷ lệ dự trữ và số băng thông dư thừa được "tái tạo" dành cho những thành viên nhỏ hơn.
+Nếu R = 38 là điểm cận dưới của tỷ lệ dự trữ thì CLR /S là điểm cận dưới của lượng băng thông có thể sử dụng. Từ ví dụ thực tế đơn giản này cho thấy ngưởi dùng có thể đặt lệnh giao dịch tối đa là 0.20 BTC ( khoảng hơn $80 tại thời điểm viết bài này). Tuy nhiên khi dựa vào giả đinh là tất cả BTC đều dao động bằng nhau thì điểm cận trên sẽ không ổn định. Trường hợp người dùng có hằng chục thậm chí hàng trăm bitcoin không có nghĩa là họ phải thực hiện giao dịch hàng chục hoặc hàng trăm lần một tuần! Những giao dịch còn "sót lại" đáng ra "nên" được thực hiện từ trước đó sẽ giúp tăng tỷ lệ dự trữ và số băng thông dư thừa được "tái tạo" dành cho những thành viên ít vốn hơn.
 
-Với giả định các đồng coin đều lưu thông như nhau thì những tính toán trên nhằm duy trì sự ổn định của điểm cận trên. Thực tế cho thấy đối với những người dùng tích cực, như hoạt động trao đổi, thì tỷ lệ họ sở hữu đồng coin được lưu thông sẽ cao hơn nhiều so với những người ít hoạt động, đồng nghĩa việc yêu cầu số dư tối thiểu thực tế thấp hơn nhiều.
+Với giả định các đồng coin đều lưu thông như nhau thì những tính toán trên nhằm duy trì sự ổn định của điểm cận trên. Thực tế cho thấy đối với những người dùng tích cực, như hoạt động trao đổi, thì tỷ lệ họ sở hữu đồng coin được lưu thông sẽ cao hơn so với những người ít hoạt động, vì vậy bảng cân đối tài khoản thấp hơn nhiều.
 
 #### Sự tác động của dung lượng lưu trữ đến Bitcoin
 
