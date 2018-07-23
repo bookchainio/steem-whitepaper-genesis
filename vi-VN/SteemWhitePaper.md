@@ -356,7 +356,7 @@ Tính năng cuối cùng để ngăn chặn botnet là sự phụ thuộc và đ
 
 ### Mining Pool Resistant
 
-Miners have a total of 3 seconds to receive a block, solve the proof of work, and get the transaction to the next block producer. Much of this time will consist of network latency which means that it is critical for miners to be well connected to the network to make the most effective use of their computational resources.
+Những thợ đào có ba giây để nhận một khối, xử lý thuật toán bằng chứng - công việc và gửi giao dịch đến nhà sản xuất khối tiếp theo. Much of this time will consist of network latency which means that it is critical for miners to be well connected to the network to make the most effective use of their computational resources.
 
 Because of the constantly changing head block and network latency, forwarding a template for mining a specific block to participants of a mining pool adds additional network latency and reduces efficiency of pooled mining significantly.
 
