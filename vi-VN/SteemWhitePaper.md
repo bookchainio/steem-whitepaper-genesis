@@ -342,7 +342,7 @@ Mã giả sau đây mô tả cách tính giá trị hàm băm của thuật toá
     Let POW  = SHA256(K)
     
 
-### Botnet Resistant
+### Sự ngăn chặn Botnet
 
 Nhiều đồng tiền của thuật toán bằng chứng-công việc cuối cùng được khai thác bởi các "botnet". Một botnet là một tập hợp của hàng ngàn hay hàng triệu máy bị tấn công bởi các hacker. Các tin tặc này ăn cắp tài nguyên điện toán và máy tính từ những máy tính bị xâm nhập để khai thác các "token" tiền điện tử.
 
@@ -350,9 +350,9 @@ Steem có nhiều tính năng nhằm ngăn chặn việc những kẻ trộm tí
 
 Một cách khác để ngăn chặn các nhà khai thác botnet kiếm lợi nhuận là yêu cầu phân phối khóa riêng cho tất cả các máy bị xâm phạm. Ngay cả khi chỉ có một máy tính bị xâm nhập được phát hiện, các nhà khai thác mạng botnet có thể sẽ mất những đồng tiền của họ.
 
-The last mitigation is the dependency on latency. Most botnets are comprised of computers with poor internet connections, these slow Internet connections will dramatically reduce the effectiveness of the computational resource.
+Tính năng cuối cùng để ngăn chặn botnet là sự phụ thuộc và độ trễ của mạng. Phần lớn các botnet được tạo thành từ các máy tính có kết nối Internet kém và các việc kết nối Internet chậm này sẽ làm giảm đáng kể sự hiệu quả của các tài nguyên máy tính.
 
-It should be more profitable and less risky for botnet operators to use their resources for other activities than mining STEEM.
+Đối với các nhà khai thác mạng botnet, việc sử dụng tài nguyên của họ để tham gia vào các hoạt động khác thì mang lại nhiều lợi nhuận hơn và ít rủi ro hơn so với việc khai thác STEEM.
 
 ### Mining Pool Resistant
 
