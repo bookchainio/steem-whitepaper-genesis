@@ -547,8 +547,8 @@ Steem có khả năng xử lý một cơ sở người dùng lớn hơn Reddit. 
 Để có được tốc độ phản hồi tầm cỡ công nghiệp hàng đầu này Steem đã học hỏi kinh nghiệm từ LMAX Exchange[^14] - một công ty công nghệ tài chính toàn cầu có mức xử lý 6 tỷ giao dịch mỗi giây. Kinh nghiệm rút ra gồm những điểm quan trọng như sau:
 
 1. Lưu trữ mọi thứ vào bộ nhớ.
-2. Lưu trữ Business logic quan trọng trong mỗi bước điều hành (Business logic là thuật toán có chức năng kiểm soát quá trình trao đổi thông tin giữa một cơ sở dữ liệu với một phương tiện của người truy cập).
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
+2. Lưu trữ business logic quan trọng trong mỗi bước điều hành (business logic là thuật toán có chức năng kiểm soát quá trình trao đổi thông tin giữa một cơ sở dữ liệu với một phương tiện của người truy cập).
+3. Lưu trữ các thuật hàm mã hóa (bằng mã băm và mã chữ ký) tách biệt với business logic.
 4. Divide validation into state-dependent and state-independent checks.
 5. Use an object oriented data model.
 
@@ -684,7 +684,7 @@ Tự do ngôn luận là nền tảng của tất cả các quyền tự do khá
 
 Hầu hết mạng lưới của các đồng tiền mã hóa thường không cung cấp nhiều giá trị cho những người không tham gia hoặc ít tham gia hoạt động trên cộng đồng. Trong khi đó, cộng đồng Steem khuyến khích người dùng sáng tạo ra các nội dung bài viết và tích cực chia sẻ thông tin với những đối tượng khác. Những thông tin này sẽ được các các công cụ tìm kiếm trên mạng xã hội nắm bắt và sau đấy sẽ truyền tải đến cho một lượng lớn người dùng thụ động. Cách thức tìm kiếm này sẽ giúp mạng lưới Steem tạo ra các nguồn quảng cáo tự nhiên và phát triển những hiệu ứng khác cho cộng đồng.
 
-## Dịch chuyển dần đến sự phân bổ dựa trên nền tảng Blockchain
+## Thực hiện sự chuyển dịch nội dung trên nền tảng Blockchain tiếp cận hành lang pháp lý
 
 Hiện nay cách truyền tải thông tin dễ dàng nhất trên toàn thế giới là sử dụng Internet. Điều đáng nói mạng Internet cũng là một mối lo ngại cho những nhà sáng tạo nội dung khi mà muốn sở hữu sản phẩm của họ và chỉ chia sẻ với một lượng đối tượng nhất định. Trên các trang mạng xã hội hiện tại, bất kỳ thông tin nào được đăng tải cũng có thể bị đánh cắp sau một đêm - có thể là hành động sao chép lại ảnh hoặc video, có thể là chia sẻ lại nguồn thông tin mà không cần hỏi ý kiến hoặc sự kiểm duyệt của tác giả.
 
