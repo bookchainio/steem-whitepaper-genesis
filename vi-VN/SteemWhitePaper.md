@@ -356,7 +356,7 @@ Tính năng cuối cùng để ngăn chặn botnet là sự phụ thuộc và đ
 
 ### Mining Pool Resistant
 
-Những thợ đào có ba giây để nhận một khối, xử lý thuật toán bằng chứng - công việc và gửi giao dịch đến nhà sản xuất khối tiếp theo. Much of this time will consist of network latency which means that it is critical for miners to be well connected to the network to make the most effective use of their computational resources.
+Những thợ đào có ba giây để nhận một khối, xử lý thuật toán bằng chứng - công việc và gửi giao dịch đến nhà sản xuất khối tiếp theo. Ba giây này phần lớn bao gồm độ trễ mạng, do đó, điều quan trọng là các thợ đào phải duy trì kết nối mạng tốt để tận dụng tối đa tài nguyên máy tính.
 
 Because of the constantly changing head block and network latency, forwarding a template for mining a specific block to participants of a mining pool adds additional network latency and reduces efficiency of pooled mining significantly.
 
@@ -456,11 +456,11 @@ Tỷ lệ dự trữ tối thiểu là 1 còn tối đa sẽ được tính toá
 
 Nếu R = 38 là điểm cận dưới của tỷ lệ dự trữ thì CLR /S là điểm cận dưới của lượng băng thông có thể sử dụng. Từ ví dụ thực tế đơn giản này cho thấy ngưởi dùng có thể đặt lệnh giao dịch tối đa là 0.20 BTC ( khoảng hơn $80 tại thời điểm viết bài này). Tuy nhiên khi dựa vào giả đinh là tất cả BTC đều dao động bằng nhau thì điểm cận trên sẽ không ổn định. Trường hợp người dùng có hằng chục thậm chí hàng trăm bitcoin không có nghĩa là họ phải thực hiện giao dịch hàng chục hoặc hàng trăm lần một tuần! Những giao dịch còn "sót lại" đáng ra "nên" được thực hiện từ trước đó sẽ giúp tăng tỷ lệ dự trữ và số băng thông dư thừa được "tái tạo" dành cho những thành viên ít vốn hơn.
 
-Với giả định các đồng coin đều lưu thông như nhau thì những tính toán trên nhằm duy trì sự ổn định của điểm cận trên. Thực tế cho thấy đối với những người dùng tích cực, như hoạt động trao đổi, thì tỷ lệ họ sở hữu đồng coin được lưu thông sẽ cao hơn so với những người ít hoạt động, vì vậy mức tối thiểu trong bảng cân đối tài khoản thấp hơn nhiều.
+Với giả định các đồng coin đều lưu thông như nhau thì những tính toán trên nhằm duy trì sự ổn định của điểm cận trên. Thực tế cho thấy đối với những người dùng tích cực, như hoạt động trao đổi, thì tỷ lệ họ sở hữu đồng coin được lưu thông sẽ cao hơn so với những người ít hoạt động, vì vậy mức dư tối thiểu sau khi thực hiện cân đối tài khoản thấp hơn rất nhiều.
 
 #### Sự tác động của dung lượng lưu trữ đến Bitcoin
 
-Dung lượng lưu trữ trên nền tảng Blockchain là không giới hạn. Trong công nghệ lưu trữ dữ liệu của cơ sở hạ tầng mạng Internet dung lượng rất cần thiết nhằm tăng kích thước khối Bitcoin đến 10MB và nếu tính theo hệ số 10 thì kích thước này sẽ từ từ giảm xuống mức dư tối thiểu. Trong khi Bitcoin đang hỗ trợ thực hiện khoảng 3 giao dịch mỗi giây,nhờ vào dung lượng lưu trữ có khả năng xử lý hơn 1000 giao dịch mỗi giây. Điều này đã làm thay đôi điểm cận trên thành 0,0006 BTC hoặc khoảng $0,25, có nghĩa tài khoản nào có $0,25 được thể thực hiện giao dịch ít nhất một lần / tuần (và có thể nhiều lần hơn khi chúng tôi điểu chỉnh được sự không ổn định của điểm cận trên).
+Dung lượng lưu trữ trên nền tảng Blockchain là không giới hạn. Trong công nghệ lưu trữ dữ liệu của cơ sở hạ tầng mạng Internet dung lượng rất cần thiết nhằm tăng kích thước khối Bitcoin đến 10MB và nếu tính theo hệ số 10 thì kích thước này sẽ làm giảm số dư tối thiểu sau khi thực hiện cân đối tài khoản. Trong khi Bitcoin đang hỗ trợ thực hiện khoảng 3 giao dịch mỗi giây,nhờ vào dung lượng lưu trữ có khả năng xử lý hơn 1000 giao dịch mỗi giây. Điều này đã làm thay đôi điểm cận trên thành 0,0006 BTC hoặc khoảng $0,25, có nghĩa tài khoản nào có $0,25 được thực hiện giao dịch ít nhất một lần / tuần (và có thể nhiều lần hơn khi chúng tôi điểu chỉnh được sự không ổn định của điểm cận trên).
 
 #### Cách tính số lượng tối đa người dùng truy cập duy nhất
 
