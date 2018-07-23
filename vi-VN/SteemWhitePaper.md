@@ -560,7 +560,7 @@ Từ trải nghiệm công nghệ biến đổi Optanetechnology của Intel [^1
 
 Nguồn cung ứng tiền tệ của hệ thống Steem bắt đầu là 0 và thông qua thuật toán bằng chứng công việc (Proof-of-work) đã phân phối khoảng 40 STEEM mỗi phút cộng với 40 STEEM /phút từ quỹ phần thưởng của viết bài và bầu chọn (tổng là 80 STEEM mỗi phút). Sau đó hệ thống sẽ trả thưởng cho người dùng bằng cách chuyển sang SP. Có thể tóm tắt sự phát triển của STEEM với tốc độ gần 800 STEEM mỗi phút khi kết hợp các dạng phần thưởng khác nhau như sau:
 
-**Contribution Rewards:**
+**Phần thưởng cho những đóng góp của người tham gia:**
 
 - Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
 - Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
