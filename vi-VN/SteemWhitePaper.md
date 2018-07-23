@@ -546,7 +546,7 @@ Steem có khả năng xử lý một cơ sở người dùng lớn hơn Reddit. 
 
 Để có được tốc độ phản hồi tầm cỡ công nghiệp hàng đầu này Steem đã học hỏi kinh nghiệm từ LMAX Exchange[^14] - một công ty công nghệ tài chính toàn cầu có mức xử lý 6 tỷ giao dịch mỗi giây. Kinh nghiệm rút ra gồm những điểm quan trọng như sau:
 
-1. Lưu trữ mọi thứ vào bộ nhớ.
+1. Lưu trữ mọi thông tin vào bộ nhớ.
 2. Lưu trữ business logic quan trọng trong mỗi bước điều hành (business logic là thuật toán có chức năng kiểm soát quá trình trao đổi thông tin giữa một cơ sở dữ liệu với một phương tiện của người truy cập).
 3. Lưu trữ các thuật hàm mã hóa (bằng mã băm và mã chữ ký) tách biệt với business logic.
 4. Divide validation into state-dependent and state-independent checks.
