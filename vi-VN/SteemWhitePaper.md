@@ -346,7 +346,7 @@ Mã giả sau đây mô tả cách tính giá trị hàm băm của thuật toá
 
 Nhiều đồng tiền của thuật toán bằng chứng-công việc cuối cùng được khai thác bởi các "botnet". Một botnet là một tập hợp của hàng ngàn hay hàng triệu máy bị tấn công bởi các hacker. Các tin tặc này ăn cắp tài nguyên điện toán và máy tính từ những máy tính bị xâm nhập để khai thác các "token" tiền điện tử.
 
-Steem has many properties that prevent these computational thieves from profiting. Botnet operators are profit seeking enterprises and typically sell their stolen resources to the highest bidder. This means that those who utilize a botnet pay for the computational power in the same way that someone who uses Amazon EC2 does. The vesting requirement of Steem means that the capital spent on buying the resources of the botnet will be tied up for a long period of time during which the operator is exposed to price volatility.
+Steem có nhiều tính năng nhằm ngăn chặn việc những kẻ trộm tính toán này thu lợi nhuận. Các nhà khai thác mạng botnet là các công ty tìm kiếm lợi nhuận và họ thường bán các tài nguyên bị đánh cắp này cho nhà thầu cao nhất. Điều này có nghĩa là những người thao túng botnet cần phải trả tiền cho các tài nguyên máy tính, cũng giống như những người sử dụng Amazon EC2 cần phải trả tiền. Yêu cầu đầu tư của Steem có nghĩa là số tiền chi cho việc mua tài nguyên của botnet sẽ bị ràng buộc trong một thời gian dài, và các nhà khai thác sẽ phải đối mặt với sự biến động giá cả trong giai đoạn này.
 
 Another way that botnet operators are prevented from profiting is the requirement to distribute the private key to all compromised machines. If even one compromised computer is discovered, the operator could lose their coins.
 
