@@ -700,7 +700,7 @@ Tham gia Steem, người sáng tạo nội dung có thể đăng tải thông ti
 
 # Kết luận
 
-Bằng cách tích hợp những điểm mạnh của tiền tệ điện tử vào phương tiện truyền thông xã hội, Steem ra đời như một thử nghiệm cho những thách thức mà nền công nghiệp tiền tệ kỹ thuật số trong mạng xã hội gặp phải. Steem tạo nên các cơ hội kiếm tiền cho những người sáng tạo và sử dụng nội dung trên Internet thông qua những cách thức chưa từng xuất hiện trong nền công nghiệp phát triển mạng truyền thông xã hội. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards will have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem will have more exclusive earning powers than those who do not.
+Bằng cách tích hợp những điểm mạnh của tiền tệ điện tử vào phương tiện truyền thông xã hội, Steem ra đời như một thử nghiệm cho những thách thức mà nền công nghiệp tiền tệ kỹ thuật số trong mạng xã hội gặp phải. Steem tạo nên các cơ hội kiếm tiền cho những người sáng tạo và sử dụng nội dung trên Internet thông qua những cách thức chưa từng xuất hiện trong nền công nghiệp phát triển mạng truyền thông xã hội. Tham gia cộng đồng Steem, mỗi thành viên có thể nhận về khoản thưởng thực tương đương với giá trị họ đã đầu tư trên mạng trực tuyến. Những khoản thưởng ấy sẽ được quy đổi ra giá trị đồng Đô la tương ứng với giá thị trường và tính thanh khoản của đồng Steem, và những người sở hữu nhiều đồng Steem sẽ có nhiều quyền lợi thu về lợi ích hơn những người khác.
 
 # Nguồn tham khảo
 
