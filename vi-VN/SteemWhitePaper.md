@@ -622,7 +622,7 @@ All rounding errors will be in favor of the network. Every balance may lose up t
 
 # Sức mạnh tiềm năng của Steem
 
-So với tất cả các thành phần tạo nên nền tảng, Steem nhận thấy giá trị đóng góp cao nhất thuộc về các bài viết và sự bỏ phiếu tán thành. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+So với tất cả các thành phần tạo nên nền tảng này, Steem nhận thấy giá trị đóng góp cao nhất thuộc về các bài viết và sự bỏ phiếu tán thành của độc giả. Một câu bình luận đơn thuần có thể không mang lại giá trị gì, nhưng hàng triệu các bài viết qua sự chọn lọc đánh giá chất lượng sẽ đáng giá cả triệu đô la (hoặc thậm chí lên đến hàng tỷ đô). A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
 
 Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don't.
 
