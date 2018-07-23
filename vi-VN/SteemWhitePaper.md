@@ -540,7 +540,7 @@ Decentralized rate limiting of transactions can enable new types of decentralize
 
 Giống như Bitshares, nền tảng của Steem được xây dựng dựa trên công nghệ Graphene. Công nghệ Graphene đã chứng minh công khai về tính ưu việt khi thử nghiệm thành công để xử lý hơn 1000 giao dịch mỗi giây trên mạng lưới phân tán. Nhờ vào những cải tiến khá đơn giản của dung lượng máy chủ và giao thức tương tác Graphene có thể dễ dàng xử lý hơn 10.000 giao dịch mỗi giây.
 
-## Reddit Scale
+## Quy mô của mạng xã hội Reddit
 
 Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit's 8.7 million users generated an average of 23 comments per second[^13] , with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
 
