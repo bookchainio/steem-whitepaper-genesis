@@ -558,7 +558,7 @@ Từ trải nghiệm công nghệ biến đổi Optanetechnology của Intel [^1
 
 # Quá trình phân phối và nguồn cung của Steem
 
-The Steem network starts with a currency supply of 0 and allocates STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network starts rewarding users who convert to SP. At this point, STEEM grows at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Nguồn cung ứng tiền tệ của hệ thống Steem bắt đầu là 0 và thông qua thuật toán bằng chứng công việc (Proof-of-work) đã phân phối khoảng 40 STEEM mỗi phút cộng với 40 STEEM /phút từ quỹ phần thưởng của viết bài và bầu chọn (tổng là 80 STEEM mỗi phút). Sau đó hệ thống sẽ trả thưởng cho người dùng bằng cách chuyển sang SP. At this point, STEEM grows at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
 
 **Contribution Rewards:**
 
@@ -694,7 +694,7 @@ Trong khi dịch vụ con dấu thời gian hầu như đã được áp dụng 
 
 ## Replacing Advertising with Blockchain-based Content Rewards
 
-Trong hầu hết các mô hình kiếm tiền từ nội dung bài viết thì những người kiến tạo tác phẩm đều muốn thúc đẩy quảng bá bài viết bằng nhiều cách. Mặc dù nhiều tác giả vẫn phải thường xuyên kiếm tiền dựa trên bài viết để thu lại thời gian họ bỏ ra nhưng họ cũng nhận ra rằng quảng cáo có thể làm ảnh hưởng tới giá trị nội dung sản phẩm. Quảng cáo cũng là con dao hai lưỡi: Thông qua quảng cáo, người sáng tạo nội dung có thể kiếm tiền dễ dàng nhất. Nhưng không có quảng cáo, việc kiếm tiền có thể khó khăn hơn nhưng nội dung bài viết sẽ chất lượng hơn.
+Trong hầu hết các mô hình kiếm tiền từ nội dung bài viết thì những người kiến tạo tác phẩm đều muốn thúc đẩy quảng bá bài viết bằng nhiều cách. Nhiều tác giả nhận ra rằng quảng cáo có thể ảnh hưởng tới việc đánh giá chất lượng bài viết từ phía người sử dụng, tuy nhiên họ vẫn cần thu về giá trị để cân bằng lượng thời gian họ đầu tư cho bài viết. Quảng cáo cũng là con dao hai lưỡi: Thông qua quảng cáo, người sáng tạo nội dung có thể kiếm tiền dễ dàng nhất. Nhưng không có quảng cáo, việc kiếm tiền có thể khó khăn hơn nhưng nội dung bài viết sẽ chất lượng hơn.
 
 Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or "liked") by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
 
