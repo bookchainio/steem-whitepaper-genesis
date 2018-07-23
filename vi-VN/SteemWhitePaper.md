@@ -344,7 +344,7 @@ Mã giả sau đây mô tả cách tính giá trị hàm băm của thuật toá
 
 ### Botnet Resistant
 
-Nhiều đồng tiền của thuật toán bằng chứng-công việc cuối cùng được khai thác bởi các "botnet". Một botnet là một tập hợp của hàng ngàn hay hàng triệu máy bị tấn công bởi các hacker. These hackers steal the computational and electrical resources of compromised machines to mine cryptocurrency tokens.
+Nhiều đồng tiền của thuật toán bằng chứng-công việc cuối cùng được khai thác bởi các "botnet". Một botnet là một tập hợp của hàng ngàn hay hàng triệu máy bị tấn công bởi các hacker. Các tin tặc này ăn cắp tài nguyên điện toán và máy tính từ những máy tính bị xâm nhập để khai thác các "token" tiền điện tử.
 
 Steem has many properties that prevent these computational thieves from profiting. Botnet operators are profit seeking enterprises and typically sell their stolen resources to the highest bidder. This means that those who utilize a botnet pay for the computational power in the same way that someone who uses Amazon EC2 does. The vesting requirement of Steem means that the capital spent on buying the resources of the botnet will be tied up for a long period of time during which the operator is exposed to price volatility.
 
