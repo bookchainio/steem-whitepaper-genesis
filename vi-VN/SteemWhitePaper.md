@@ -544,9 +544,9 @@ Giống như Bitshares, nền tảng của Steem được xây dựng dựa trê
 
 Steem có khả năng xử lý một cơ sở người dùng lớn hơn Reddit. Trong năm 2015 Reddit có khoảng 8,7 triệu người dùng và trung bình mỗi giây[^13] có 23 bình luận, như vậy một người dùng trung bình một năm có 83 bình luận. Có khoảng 73 triệu nội dung đạt chất lượng cao được đăng tải với trung bình 2 bài đăng mỗi giây. Khoảng 7 tỷ bầu chọn với mức trung bình là 220 bình chọn mỗi giây. Dựa vào những con số trên ta có thể tính toán Reddit sẽ xử lý lượng giao dịch trung bình mỗi giây là 250 nếu được hoạt động trên nền tảng Blockchain.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^14], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+Để có được tốc độ phản hồi tầm cỡ công nghiệp hàng đầu này Steem đã học hỏi kinh nghiệm từ LMAX Exchange[^14] - một công ty công nghệ tài chính toàn cầu có mức xử lý 6 tỷ giao dịch mỗi giây. Kinh nghiệm rút ra gồm những điểm quan trọng như sau:
 
-1. Keep everything in memory.
+1. Lưu trữ mọi thứ vào bộ nhớ.
 2. Keep the core business logic in a single thread.
 3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
 4. Divide validation into state-dependent and state-independent checks.
