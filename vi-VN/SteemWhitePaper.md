@@ -354,11 +354,11 @@ Tính năng cuối cùng để ngăn chặn botnet là sự phụ thuộc và đ
 
 Đối với các nhà khai thác mạng botnet, việc sử dụng tài nguyên của họ để tham gia vào các hoạt động khác thì mang lại nhiều lợi nhuận hơn và ít rủi ro hơn so với việc khai thác STEEM.
 
-### Mining Pool Resistant
+### Sự ngăn chặn "bể khai thác"
 
 Những thợ đào có ba giây để nhận một khối, xử lý thuật toán bằng chứng - công việc và gửi giao dịch đến nhà sản xuất khối tiếp theo. Ba giây này phần lớn bao gồm độ trễ mạng, do đó, điều quan trọng là các thợ đào phải duy trì kết nối mạng tốt để tận dụng tối đa tài nguyên máy tính.
 
-Because of the constantly changing head block and network latency, forwarding a template for mining a specific block to participants of a mining pool adds additional network latency and reduces efficiency of pooled mining significantly.
+Do sự thay đổi khối chính thường xuyên và sự chậm trễ mạng, việc gửi mẫu để khai thác một khối cụ thể cho người tham gia sẽ làm tăng thêm độ trễ mạng và giảm đáng kể hiệu quả của hoạt động khai thác.
 
 # Loại bỏ các chi phí giao dịch
 
@@ -542,7 +542,7 @@ Giống như Bitshares, nền tảng của Steem được xây dựng dựa trê
 
 ## Quy mô của mạng xã hội Reddit
 
-Steem có khả năng xử lý một cơ sở người dùng lớn hơn Reddit. Trong năm 2015 Reddit có khoảng 8,7 triệu người dùng và trung bình mỗi giây[^13] có 23 bình luận, như vậy một người dùng trung bình một năm có 83 bình luận. Có khoảng 73 triệu nội dung đạt chất lượng cao được đăng tải với trung bình 2 bài đăng mỗi giây. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem có khả năng xử lý một cơ sở người dùng lớn hơn Reddit. Trong năm 2015 Reddit có khoảng 8,7 triệu người dùng và trung bình mỗi giây[^13] có 23 bình luận, như vậy một người dùng trung bình một năm có 83 bình luận. Có khoảng 73 triệu nội dung đạt chất lượng cao được đăng tải với trung bình 2 bài đăng mỗi giây. Khoảng 7 tỷ bầu chọn với mức trung bình là 220 bình chọn được thực hiện mỗi giây. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
 
 To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^14], which is able to process 6 million transactions per second. Among these lessons are the following key points:
 
