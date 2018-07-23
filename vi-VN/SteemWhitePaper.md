@@ -547,14 +547,14 @@ Steem có khả năng xử lý một cơ sở người dùng lớn hơn Reddit. 
 Để có được tốc độ phản hồi tầm cỡ công nghiệp hàng đầu này Steem đã học hỏi kinh nghiệm từ LMAX Exchange[^14] - một công ty công nghệ tài chính toàn cầu có mức xử lý 6 tỷ giao dịch mỗi giây. Kinh nghiệm rút ra gồm những điểm quan trọng như sau:
 
 1. Lưu trữ mọi thông tin vào bộ nhớ.
-2. Lưu trữ business logic quan trọng trong mỗi bước điều hành (business logic là thuật toán có chức năng kiểm soát quá trình trao đổi thông tin giữa một cơ sở dữ liệu với một phương tiện của người truy cập).
+2. Lưu trữ business logic quan trọng trong mỗi lần hoạt động (business logic là thuật toán có chức năng kiểm soát quá trình trao đổi thông tin giữa một cơ sở dữ liệu với một phương tiện của người truy cập).
 3. Lưu trữ các thuật hàm mã hóa (bằng mã băm và mã chữ ký) tách biệt với business logic.
 4. Xác nhận tình trạng phụ thuộc và không phụ thuộc.
 5. Sử dụng mô hình dữ liệu hướng đối tượng.
 
 Chỉ cần áp dụng những quy tắc đơn giản trên, Steem có thể xử lý 10.000 giao dịch mỗi giây mà không cần đến các giải pháp tối ưu hóa nào.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optanetechnology from Intel [^15]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Từ trải nghiệm công nghệ biến đổi Optanetechnology của Intel [^15] cho thấy việc lưu trữ các thông tin vào bộ nhớ là giải pháp rất khả thi. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
 # Allocation & Supply
 
