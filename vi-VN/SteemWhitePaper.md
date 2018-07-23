@@ -554,7 +554,7 @@ Steem có khả năng xử lý một cơ sở người dùng lớn hơn Reddit. 
 
 Chỉ cần áp dụng những quy tắc đơn giản trên, Steem có thể xử lý 10.000 giao dịch mỗi giây mà không cần đến các giải pháp tối ưu hóa nào.
 
-Từ trải nghiệm công nghệ biến đổi Optanetechnology của Intel [^15] cho thấy việc lưu trữ các thông tin vào bộ nhớ là giải pháp rất khả thi. Giải pháp này được áp dụng cho các phần cứng thông thường có khả năng xử lý những bussiness logic có liên kết với Steem bằng việc lưu trữ các bài đăng vào bộ nhớ để index nội dung một cách nhanh chóng (Index là thuật ngữ dùng để chỉ quá trình con bọ tìm kiếm của bộ máy tìm kiếm Google tìm thấy dữ liệu từ 1 website sau đó lưu trữ lại, đánh giá và so sánh mức độ uy tín của dữ liệu đó). Ngay cả Google cũng lưu trữ những index của toàn bộ hệ thống internet của họ trong RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Từ trải nghiệm công nghệ biến đổi Optanetechnology của Intel [^15] cho thấy việc lưu trữ các thông tin vào bộ nhớ là giải pháp rất khả thi. Giải pháp này được áp dụng cho các phần cứng thông thường có khả năng xử lý những bussiness logic có liên kết với Steem bằng việc lưu trữ các bài đăng vào bộ nhớ để index nội dung một cách nhanh chóng (Index là thuật ngữ dùng để chỉ quá trình con bọ tìm kiếm của bộ máy tìm kiếm Google tìm thấy dữ liệu từ 1 website sau đó lưu trữ lại, đánh giá và so sánh mức độ uy tín của dữ liệu đó). Ngay cả Google cũng lưu trữ những index của toàn bộ hệ thống internet của họ trong bộ nhớ RAM. Từ khi công nghệ blockchain ra đời bộ nhớ RAM không còn được cho là giải pháp tối ưu khi nhân rộng cơ sở dữ liệu tới nhiều máy để tránh mất dữ liệu. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
 # Allocation & Supply
 
@@ -694,7 +694,7 @@ Trong khi dịch vụ con dấu thời gian hầu như đã được áp dụng 
 
 ## Replacing Advertising with Blockchain-based Content Rewards
 
-Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work's value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+Trong hầu hết các mô hình kiếm tiền từ nội dung bài viết thì những người kiến tạo tác phẩm đều muốn thúc đẩy quảng bá bài viết bằng nhiều cách. Many creators recognize how advertising may diminish their work's value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
 
 Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or "liked") by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
 
