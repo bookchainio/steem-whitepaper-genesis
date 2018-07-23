@@ -558,7 +558,7 @@ Từ trải nghiệm công nghệ biến đổi Optanetechnology của Intel [^1
 
 # Quá trình phân phối và nguồn cung của Steem
 
-Nguồn cung ứng tiền tệ của hệ thống Steem bắt đầu là 0 và thông qua thuật toán bằng chứng công việc (Proof-of-work) đã phân phối khoảng 40 STEEM mỗi phút cộng với 40 STEEM /phút từ quỹ phần thưởng của viết bài và bầu chọn (tổng là 80 STEEM mỗi phút). Sau đó hệ thống sẽ trả thưởng cho người dùng bằng cách chuyển sang SP. At this point, STEEM grows at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Nguồn cung ứng tiền tệ của hệ thống Steem bắt đầu là 0 và thông qua thuật toán bằng chứng công việc (Proof-of-work) đã phân phối khoảng 40 STEEM mỗi phút cộng với 40 STEEM /phút từ quỹ phần thưởng của viết bài và bầu chọn (tổng là 80 STEEM mỗi phút). Sau đó hệ thống sẽ trả thưởng cho người dùng bằng cách chuyển sang SP. Có thể tóm tắt sự phát triển của STEEM với tốc độ gần 800 STEEM mỗi phút khi kết hợp các dạng phần thưởng khác nhau như sau:
 
 **Contribution Rewards:**
 
@@ -692,17 +692,17 @@ Hiện nay cách truyền tải thông tin dễ dàng nhất trên toàn thế g
 
 Trong khi dịch vụ con dấu thời gian hầu như đã được áp dụng ở các hệ thống blockchain và Bitcoin cũng cố gắng triển khai hình thức này thì Steem đã tận dụng lợi thế của dịch vụ con dấu thời gian thành công vào hoạt động cộng đồng mạng Steem bởi tiêu chí của Steem là "vì lợi ích người dùng lên hàng đầu" - Steem ra đời và hoạt động xoay quanh ý tưởng về các trường hợp sử dụng dữ liệu thành viên, điều này cho phép người dùng xác minh nội dung của họ thông qua một cách thức đơn giản là dùng các công cụ tương tự của thành viên khác để tạo ra bài đăng của chính mình.
 
-## Replacing Advertising with Blockchain-based Content Rewards
+## Thay thế các hình thức quảng cáo bằng việc trả thưởng cho nội dung được đăng tải trên nền tảng Blockchain
 
 Trong hầu hết các mô hình kiếm tiền từ nội dung bài viết thì những người kiến tạo tác phẩm đều muốn thúc đẩy quảng bá bài viết bằng nhiều cách. Nhiều tác giả nhận ra rằng quảng cáo có thể ảnh hưởng tới việc đánh giá chất lượng bài viết từ phía người sử dụng, tuy nhiên họ vẫn cần thu về giá trị để cân bằng lượng thời gian họ đầu tư cho bài viết. Quảng cáo cũng là con dao hai lưỡi: Thông qua quảng cáo, người sáng tạo nội dung có thể kiếm tiền dễ dàng nhất. Nhưng không có quảng cáo, việc kiếm tiền có thể khó khăn hơn nhưng nội dung bài viết sẽ chất lượng hơn.
 
-Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or "liked") by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
+Tham gia Steem, người sáng tạo nội dung có thể đăng tải thông tin lên các kênh liên kết khác của Steem và họ sẽ nhận về khoản tiền thưởng thông qua việc ghi nhận (hoặc "bình chọn yêu thích") từ cộng đồng. Các khoản thanh toán trên nền tảng Blockchain hoàn toàn là tiền tệ kỹ thuật số và không thông qua bên trung gian. Do đó việc kiếm tiền thông qua các khoản trả thưởng trên nền tảng blockchain sẽ nhanh chóng và thuận tiện hơn việc quảng cáo sản phẩm để thu lợi nhuận.
 
-# Conclusion
+# Kết luận
 
-Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards will have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem will have more exclusive earning powers than those who do not.
+Bằng cách tích hợp những điểm mạnh của tiền tệ điện tử vào phương tiện truyền thông xã hội, Steem ra đời như một thử nghiệm cho những thách thức mà nền công nghiệp tiền tệ kỹ thuật số trong mạng xã hội gặp phải. Steem tạo nên các cơ hội kiếm tiền cho những người sáng tạo và sử dụng nội dung trên Internet thông qua những cách thức chưa từng xuất hiện trong nền công nghiệp phát triển mạng truyền thông xã hội. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards will have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem will have more exclusive earning powers than those who do not.
 
-# References
+# Nguồn tham khảo
 
 [^1]: Reddit's Cryptocurrency, Forbes, Erika Morphy, October 2014, <http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/#4e07b05332b9>
 
