@@ -550,9 +550,9 @@ Steem có khả năng xử lý một cơ sở người dùng lớn hơn Reddit. 
 2. Lưu trữ business logic quan trọng trong mỗi bước điều hành (business logic là thuật toán có chức năng kiểm soát quá trình trao đổi thông tin giữa một cơ sở dữ liệu với một phương tiện của người truy cập).
 3. Lưu trữ các thuật hàm mã hóa (bằng mã băm và mã chữ ký) tách biệt với business logic.
 4. Xác nhận tình trạng phụ thuộc và không phụ thuộc.
-5. Use an object oriented data model.
+5. Sử dụng mô hình dữ liệu hướng đối tượng.
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+Chỉ cần áp dụng những quy tắc đơn giản trên, Steem có thể xử lý 10.000 giao dịch mỗi giây mà không cần đến các giải pháp tối ưu hóa nào.
 
 Keeping everything in memory is increasingly viable given the recent introduction of Optanetechnology from Intel [^15]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
