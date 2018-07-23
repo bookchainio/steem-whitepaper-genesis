@@ -209,7 +209,7 @@ The value each currency achieves depends upon the demand for influence within a 
 
 الخطوة الأولى في مكافأة الملايين من المستخدمين هي الالتزام بتوزيع نسبة ثابتة من العملة بغض النظر عن مقدار العمل الذي تم القيام به بالفعل أو كيفية تصويت المستخدمين. This changes the question from being *"Should we pay?"* to *"Whom should we pay?"* and signals to the market that money is being distributed and is being auctioned off to whoever "bids" the most *work*. هذا مشابه لإلتزام بيتكوين بمنح 50 BTC لمن يجد التجزئات (hashes) الأكثر صعوبة. كما هو الحال مع بيتكوين (Bitcoin) ، يجب أن يتم العمل قبل الدفع ، ولا يتم دفع أي مبلغ مقدمًا على أساس الوعد بتنفيذ العمل في المستقبل.
 
-The next step is to reward everyone who does anything even remotely positive with *something*. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
+الخطوة التالية هي مكافأة أولئك الذين يفعلون أي شيء وحتى عن بعد بشكل إيجابي * بشيء ما.*. ويتم ذلك عن طريق ترتيب جميع الأعمال المنجزة وتوزيعها بالتناسب مع قيمتها. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
 
 ### Voting on Distribution of Currency
 
