@@ -536,7 +536,7 @@ In theory a market could form where users can borrow the stake required. In prac
 
 Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
 
-# Tốc độ phản hồi và khả năng mở rộng của hệ thống
+# Tốc độ phản hồi và khả năng mở rộng của Steem
 
 Giống như Bitshares, nền tảng của Steem được xây dựng dựa trên công nghệ Graphene. Công nghệ Graphene đã chứng minh công khai về tính ưu việt khi thử nghiệm thành công để xử lý hơn 1000 giao dịch mỗi giây trên mạng lưới phân tán. Nhờ vào những cải tiến khá đơn giản của dung lượng máy chủ và giao thức tương tác Graphene có thể dễ dàng xử lý hơn 10.000 giao dịch mỗi giây.
 
@@ -554,9 +554,9 @@ Steem có khả năng xử lý một cơ sở người dùng lớn hơn Reddit. 
 
 Chỉ cần áp dụng những quy tắc đơn giản trên, Steem có thể xử lý 10.000 giao dịch mỗi giây mà không cần đến các giải pháp tối ưu hóa nào.
 
-Từ trải nghiệm công nghệ biến đổi Optanetechnology của Intel [^15] cho thấy việc lưu trữ các thông tin vào bộ nhớ là giải pháp rất khả thi. Giải pháp này được áp dụng cho các phần cứng thông thường có khả năng xử lý những bussiness logic có liên kết với Steem bằng việc lưu trữ các bài đăng vào bộ nhớ để index nội dung một cách nhanh chóng (Index là thuật ngữ dùng để chỉ quá trình con bọ tìm kiếm của bộ máy tìm kiếm Google tìm thấy dữ liệu từ 1 website sau đó lưu trữ lại, đánh giá và so sánh mức độ uy tín của dữ liệu đó). Ngay cả Google cũng lưu trữ những index của toàn bộ hệ thống internet của họ trong bộ nhớ RAM. Từ khi công nghệ blockchain ra đời bộ nhớ RAM không còn được cho là giải pháp tối ưu khi nhân rộng cơ sở dữ liệu tới nhiều máy để tránh mất dữ liệu. Khi áp dụng công nghệ biến đổi Optanetechnology bộ nhớ RAM sẽ hoạt động tốc độ hơn cũng như độ bền được tăng lên. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Từ trải nghiệm công nghệ biến đổi Optanetechnology của Intel [^15] cho thấy việc lưu trữ các thông tin vào bộ nhớ là giải pháp rất khả thi. Giải pháp này được áp dụng cho các phần cứng thông thường có khả năng xử lý những bussiness logic có liên kết với Steem bằng việc lưu trữ các bài đăng vào bộ nhớ để index nội dung một cách nhanh chóng (Index là thuật ngữ dùng để chỉ quá trình con bọ tìm kiếm của bộ máy tìm kiếm Google tìm thấy dữ liệu từ 1 website sau đó lưu trữ lại, đánh giá và so sánh mức độ uy tín của dữ liệu đó). Ngay cả Google cũng lưu trữ những index của toàn bộ hệ thống internet của họ trong bộ nhớ RAM. Từ khi công nghệ blockchain ra đời bộ nhớ RAM không còn được cho là giải pháp tối ưu khi nhân rộng cơ sở dữ liệu tới nhiều máy để tránh mất dữ liệu. Khi áp dụng công nghệ biến đổi Optanetechnology bộ nhớ RAM sẽ hoạt động tốc độ hơn cũng như độ bền được tăng lên. Nói cách khác, tiềm năng phát triển về quy mô của Steem trong tương lai và rất lớn.
 
-# Allocation & Supply
+# Sự phân bổ và nguồn cung của Steem
 
 The Steem network starts with a currency supply of 0 and allocates STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network starts rewarding users who convert to SP. At this point, STEEM grows at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
 
