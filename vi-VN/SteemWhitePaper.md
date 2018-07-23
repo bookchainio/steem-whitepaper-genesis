@@ -518,9 +518,9 @@ Under the rate limiting approach, someone who holds 1% of all coins with an inte
 
 ### Renting vs. Buying vs. Time Sharing
 
-Khi ai đó sở hữu một ngôi nhà, họ hy vọng sẽ có quyền sử dụng nó miễn phí. Nếu một nhóm người mua nhà chung với nhau, thì mỗi người sẽ có quyền sử dụng căn nhà tương ứng với tỷ lệ sở hữu của nó. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Khi ai đó sở hữu một ngôi nhà, họ hy vọng sẽ có quyền sử dụng nó miễn phí. Nếu một nhóm người mua nhà chung với nhau, thì mỗi người sẽ có quyền sử dụng căn nhà tương ứng với tỷ lệ sở hữu của nó. Một nền tảng blockchain dựa trên phí giao dịch giống như việc thuê nhà từ chủ nhà, ngược lại, giới hạn tỷ lệ giống như việc chia thời gian sử dụng cho các chủ nhà.
 
-If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+Nếu một ngôi nhà thuộc sở hữu của nhiều người, thì họ phải quyết định cách họ muốn chia sẻ thời gian sử dụng ngôi nhà. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
 
 On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
 
