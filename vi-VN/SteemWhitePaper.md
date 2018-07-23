@@ -538,7 +538,7 @@ Decentralized rate limiting of transactions can enable new types of decentralize
 
 # Tốc độ phản hồi và khả năng mở rộng của Steem
 
-Giống như Bitshares, nền tảng của Steem được xây dựng dựa trên công nghệ Graphene. Công nghệ Graphene đã chứng minh công khai về tính ưu việt khi thử nghiệm thành công để xử lý hơn 1000 giao dịch mỗi giây trên mạng lưới phân tán. Nhờ vào những cải tiến khá đơn giản của dung lượng máy chủ và giao thức tương tác Graphene có thể dễ dàng xử lý hơn 10.000 giao dịch mỗi giây.
+Nền tảng của Steem được xây dựng dựa trên Graphene, cùng công nghệ với Bitshares. Công nghệ Graphene đã chứng minh công khai về tính ưu việt khi thử nghiệm thành công để xử lý hơn 1000 giao dịch mỗi giây trên mạng lưới phân tán. Nhờ vào những cải tiến khá đơn giản của dung lượng máy chủ và giao thức tương tác Graphene có thể dễ dàng xử lý hơn 10.000 giao dịch mỗi giây.
 
 ## Quy mô của mạng xã hội Reddit
 
