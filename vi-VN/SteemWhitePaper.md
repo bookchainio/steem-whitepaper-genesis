@@ -348,7 +348,7 @@ Nhiều đồng tiền của thuật toán bằng chứng-công việc cuối c�
 
 Steem có nhiều tính năng nhằm ngăn chặn việc những kẻ trộm tính toán này thu lợi nhuận. Các nhà khai thác mạng botnet là các công ty tìm kiếm lợi nhuận và họ thường bán các tài nguyên bị đánh cắp này cho nhà thầu cao nhất. Điều này có nghĩa là những người thao túng botnet cần phải trả tiền cho các tài nguyên máy tính, cũng giống như những người sử dụng Amazon EC2 cần phải trả tiền. Yêu cầu đầu tư của Steem có nghĩa là số tiền chi cho việc mua tài nguyên của botnet sẽ bị ràng buộc trong một thời gian dài, và các nhà khai thác sẽ phải đối mặt với sự biến động giá cả trong giai đoạn này.
 
-Một cách khác để ngăn chặn các nhà khai thác botnet kiếm lợi nhuận là yêu cầu phân phối khóa riêng cho tất cả các máy bị xâm phạm. If even one compromised computer is discovered, the operator could lose their coins.
+Một cách khác để ngăn chặn các nhà khai thác botnet kiếm lợi nhuận là yêu cầu phân phối khóa riêng cho tất cả các máy bị xâm phạm. Ngay cả khi chỉ có một máy tính bị xâm nhập được phát hiện, các nhà khai thác mạng botnet có thể sẽ mất những đồng tiền của họ.
 
 The last mitigation is the dependency on latency. Most botnets are comprised of computers with poor internet connections, these slow Internet connections will dramatically reduce the effectiveness of the computational resource.
 
