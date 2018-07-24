@@ -573,7 +573,7 @@ Nguồn cung ứng tiền tệ của hệ thống Steem bắt đầu là 0 và t
 
 - Phần thưởng bằng Steem Power: Với mỗi STEEM thu được từ cách tính thưởng trên, 9 STEEM được chia đều cho những cổ đông nắm giữ Steem Power.
 
-**SMD operations:**
+**Cách thức hoạt động của SMD:**
 
 - SMD rewards: A percentage of SMD value is created at an APR set by the witnesses and paid to SMD holders as SMD
 - Feed Rate following: The amount of STEEM for which the total SMD in existence can be redeemed will change based on changes in the price feed. This change is effectively destruction ("burning") of STEEM when the value of STEEM (as measured by the feed) is increasing, or creation of STEEM when the value of STEEM (as measured by the feed) is declining.
