@@ -24,15 +24,15 @@ Istnieje kilka kluczowych reguł które kierowały projektowaniem Steem. Najważ
 
 Drugą regułą jest to że wszystkie formy kapitału są tak samo wartościowe. Oznacza to że Ci którzy poświęcają swój cenny czas i uwagę produkowaniu i kuratorowaniu zawartości dla innych są tak samo wartościowi jak Ci którzy poświęcają swoje cenne pieniądze. To słodka zasada słuszności [^2] i jest konceptem który przed kryptowalutami często borykał się z problemami zaspokajania więcej niż kilku tuzinów jednostek.
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+Trzecią regułą jest to, że społeczność tworzy produkty do służenia jej członkom. Ta zasada jest ilustrowana przez unie kredytowe, kooperatywy spożywcze i grupowe plany ubezpieczeń zdrowotnych, które służą tylko swoim członkom i nie zajmują się sprzedawaniem produktów i usług osobom spoza danej społeczności.
 
-The Steem community provides the following services to its members:
+Społeczność Steem dostarcza swoim członkom następujące usługi:
 
-1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
-5. Jobs providing above services to other members.
+1. Źródło kuratorowanych wiadomości i opinii.
+2. Warunki do otrzymywania odpowiedzi wysokiej jakości na spersonalizowane pytania.
+3. Stabilną kryptowalutę powiązaną z amerykańskim dolarem.
+4. Darmowe płatności.
+5. Miejsca pracy zapewniające wyżej wymienione usługi innym użytkownikom.
 
 Steem's purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
 
