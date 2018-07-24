@@ -217,9 +217,9 @@ The value each currency achieves depends upon the demand for influence within a 
 
 تؤدي عملية التصويت الساذجة إلى ما يسمى بـ "معضلة السجين" حيث يكون لكل ناخب حوافز للتصويت لنفسه على حساب هدف المجتمع الأكبر. إذا قام كل ناخب بالتصويت لنفسه ، فلن يتم توزيع أي عملة وستفشل العملة بأكملها في التأثير على الشبكة. من ناحية أخرى ، إذا كان العيب من شخص واحد فقط ، فسوف يحصل هذا الناخب على أرباح غير مستحقة في حين يكون له تأثير ضئيل على القيمة الإجمالية للعملة.
 
-من أجل إعادة تنظيم الحوافز وردع الناس عن التصويت لأنفسهم ببساطة ، يجب توزيع الأموال بطريقة غير خطية. على سبيل المثال ، يتم استخدام وظيفة تربيعية في التصويت ، بحيث يحصل المستخدمون الذين يحصلون على ضعف عدد الأصوات التي يحصل عليها الآخرون على أربعة أضعاف المكاسب ، ويتلقى المستخدمون الذين يحصلون على ثلاثة أضعاف الأصوات أكثر من الآخرين تسع مرات. بمعنى آخر ، تتناسب المكافأة مع \\(أصوات^ {2} \\) بدلاً من *أصوات*. This mirrors the value of network effect which grows with \\(n^{2}\\) the number of participants, according to Metcalfe's Law[^5].
+من أجل إعادة تنظيم الحوافز وردع الناس عن التصويت لأنفسهم ببساطة ، يجب توزيع الأموال بطريقة غير خطية. على سبيل المثال ، يتم استخدام وظيفة تربيعية في التصويت ، بحيث يحصل المستخدمون الذين يحصلون على ضعف عدد الأصوات التي يحصل عليها الآخرون على أربعة أضعاف المكاسب ، ويتلقى المستخدمون الذين يحصلون على ثلاثة أضعاف الأصوات أكثر من الآخرين تسع مرات. بمعنى آخر ، تتناسب المكافأة مع \\(أصوات^ {2} \\) بدلاً من *أصوات*. وهذا يعكس قيمة تأثير الشبكة ، والتي تزداد مع \\(n^{2}\\) عدد المشاركين بموجب قانون Metcalfe [^5].
 
-Assuming all users have equal stake, someone who only receives their own vote will receive much less than someone who receives votes from 100 different users. This encourages users to *cooperate* to vote for the same things to maximize the payout. This system also creates financial incentive to *collude* where everyone votes on one thing and then divides the reward equally among themselves.
+بافتراض أن جميع المستخدمين لديهم حصة متساوية ، فإن الشخص الذي يتلقى تصويته الخاص فقط سيحصل على أقل بكثير من شخص يتلقى الأصوات من 100 مستخدم مختلف. هذا يشجع المستخدمين على *التعاون* للتصويت على نفس الأشياء لزيادة العائد. This system also creates financial incentive to *collude* where everyone votes on one thing and then divides the reward equally among themselves.
 
 #### Voting Collusion
 
