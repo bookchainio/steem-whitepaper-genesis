@@ -571,7 +571,7 @@ Nguồn cung ứng tiền tệ của hệ thống Steem bắt đầu là 0 và t
 
 **Power Rewards:**
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- Phần thưởng Steem Power: Với mỗi STEEM thu được từ cách tính thưởng trên, 9 STEEM được chia đều cho những những cổ đông nắm giữ Steem Power.
 
 **SMD operations:**
 
