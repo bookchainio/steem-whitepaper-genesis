@@ -569,9 +569,9 @@ Nguồn cung ứng tiền tệ của hệ thống Steem bắt đầu là 0 và t
 - Thuật toán POW áp dụng tính thưởng đối với số lượng khổi nhỏ hơn 864.000: 0.0476 STEEM mỗi khối (tương đương 1 STEEM mỗi vòng) hoặc 0.750% một năm, tùy vào mức nào lớn hơn.
 - Tính thanh khoản của tiền thưởng: 1 STEEM mỗi khối (tương đương 1200 STEEM một giờ) hoặc 0.750% một năm, tùy vào mức nào lớn hơn
 
-**Power Rewards:**
+**Phần thưởng bằng Steem Power:**
 
-- Phần thưởng Steem Power: Với mỗi STEEM thu được từ cách tính thưởng trên, 9 STEEM được chia đều cho những những cổ đông nắm giữ Steem Power.
+- Phần thưởng bằng Steem Power: Với mỗi STEEM thu được từ cách tính thưởng trên, 9 STEEM được chia đều cho những những cổ đông nắm giữ Steem Power.
 
 **SMD operations:**
 
