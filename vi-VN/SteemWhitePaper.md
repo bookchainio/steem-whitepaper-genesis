@@ -149,7 +149,7 @@ Người dùng phải tiếp tục cung cấp thanh khoản trên cả hai phía
 
 Trong mỗi tiếng, người có số điểm thanh khoản lớn nhất sẽ được thưởng 1200 STEEM và điểm thanh khoản của người đó sẽ được đặt lại về mức 0. Nếu một tài khoản trong một tuần không kiếm được bất kỳ điểm thanh khoản nào cũng sẽ được đặt lại về mức 0. Điều này có nghĩa là cho dù bạn cung cấp một lượng lớn thanh khoản tiền hoặc cung cấp thanh khoản tiền tệ dài hạn thì bạn đều sẽ nhận được một tỷ lệ phần trăm tương ứng nhất định của số tiền thưởng. Nếu một trong hai yếu tố "số lượng mua vào" hoặc "số lượng bán ra" là số âm, thì điểm thanh khoản sẽ được coi là 0.
 
-### Tỷ lệ (khoản nợ / quyền sở hữu) bền vững
+### Tỷ lệ (nợ / quyền sở hữu) bền vững
 
 Nếu một "token" có thể được xem là quyền sở hữu trong toàn bộ số "token", thì đồng đô la mà có thể được chuyển đổi từ "token" được coi như là một khoản nợ. Khi tỷ lệ nợ / quyền sở hữu quá cao, toàn bộ tiền tệ sẽ trở nên không ổn định. Việc chuyển đổi các khoản đổi nợ có thể làm tăng đáng kể số lượng "token" được tung ra trên thị trường, và điều đó sẽ làm giảm giá các đồng tiền tệ khi được bán trên các các sàn giao dịch. Các chuyển đổi tiếp theo yêu cầu phát hành thậm chí còn nhiều "token" hơn. Nếu không kiểm soát được, hệ thống sẽ sụp đổ và để lại một quyền sở hữu sẽ vô giá trị cùng với một đống nợ chồng chất. Tỷ lệ giữa khoản nợ trên vốn của chủ sở hữu càng cao thì càng ít người sẵn sàng rót vốn vào đầu tư.
 
