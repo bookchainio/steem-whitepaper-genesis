@@ -571,7 +571,7 @@ Nguồn cung ứng tiền tệ của hệ thống Steem bắt đầu là 0 và t
 
 **Phần thưởng bằng Steem Power:**
 
-- Phần thưởng bằng Steem Power: Với mỗi STEEM thu được từ cách tính thưởng trên, 9 STEEM được chia đều cho những những cổ đông nắm giữ Steem Power.
+- Phần thưởng bằng Steem Power: Với mỗi STEEM thu được từ cách tính thưởng trên, 9 STEEM được chia đều cho những cổ đông nắm giữ Steem Power.
 
 **SMD operations:**
 
