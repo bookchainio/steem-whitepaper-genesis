@@ -562,7 +562,7 @@ Nguồn cung ứng tiền tệ của hệ thống Steem bắt đầu là 0 và t
 
 **Phần thưởng cho những đóng góp của người tham gia:**
 
-- Trả thưởng dành cho người đóng góp: 1 STEEM mỗi khối hoặc 3,875% mỗi năm, tùy vào mức nào lớn hơn
+- Trả thưởng cho người đánh giá nội dung: 1 STEEM mỗi khối hoặc 3,875% mỗi năm, tùy vào mức nào lớn hơn
 - Trả thưởng cho người sáng tạo nội dung: 1 STEEM mỗi khối hoặc 3,875% mỗi năm, tùy vào mức nào lớn hơn
 - Phần thưởng khối: 1 STEEM mỗi khối hoặc 0,750% mỗi năm, tùy vào mức nào lớn hơn
 - Thuật toán bằng chứng công việc (ký hiệu POW) áp dụng tính thưởng đối với số lượng khổi lớn hơn 864.000: 1 STEEM mỗi khối (tương đương 21 STEEM mỗi vòng)
@@ -575,7 +575,7 @@ Nguồn cung ứng tiền tệ của hệ thống Steem bắt đầu là 0 và t
 
 **Cách thức hoạt động của SMD:**
 
-- SMD rewards: A percentage of SMD value is created at an APR set by the witnesses and paid to SMD holders as SMD
+- Trả thưởng bằng SMD: Lượng phần trăm SMD được trả thưởng cho những cổ đông chính là tỷ lệ phần trăm hàng năm được các nhân chứng tạo ra
 - Feed Rate following: The amount of STEEM for which the total SMD in existence can be redeemed will change based on changes in the price feed. This change is effectively destruction ("burning") of STEEM when the value of STEEM (as measured by the feed) is increasing, or creation of STEEM when the value of STEEM (as measured by the feed) is declining.
 
 The percentage constraints effectively ensure the incentives for rewards do not become meaninglessly small over time, which is intended to prevent the system from experiencing the "speed bump" in the growth pattern of many other blockchains, where an initial growth spurt fueled by high incentives for early participants is followed by prolonged stagnation as the continually falling incentives drop below the level necessary to induce newcomers to join.
