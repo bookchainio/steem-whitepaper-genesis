@@ -231,11 +231,11 @@ Fortunately, any work that is getting a large concentration of votes is also gai
 
 The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only "problem" with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
 
-> #### The Story of the Crab Bucket[^6]
+> #### قصة دلو السرطان [^6]
 > 
-> A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+> كان هناك راجل يتمشى على طول الشاطئ ورأى رجلً آخر يصطاد في الأمواج مع دلوِ طُعمٍ بجانبه. وعندما اقترب أكثر رأى أن دلوَ الطُعمِ لا يملك غطاءً وأن هناك سلطعونات حية في داخله.
 > 
-> "Why don't you cover your bait bucket so the crabs won't escape?", he said.
+> "لماذا لا تغطي دلو الطُعمِ الخاص بك حتى لا تتمكن السلطعونات من الهرب؟"، قال.
 > 
 > "You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
 > 
