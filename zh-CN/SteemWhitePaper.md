@@ -564,9 +564,9 @@ Steem网络的最初货币供应量为0，且通过工作量证明来分配STEEM
 - 策展奖励：每块一个STEEM，或者每年3.875%，两者取其大。
 - 内容创作奖励：每块一个STEEM，或者每年3.875%，两者取其大
 - 出块奖励：每块一个STEEM，或者每年0.750%，两者取其大
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- 在第864,000块之前的包括POW奖励：每块1个STEEM (每轮出块共奖励21个STEEM)
+- 在第864,000块之后的包括POW奖励：每块0.0476个STEEM (每轮出块共奖励1个STEEM)，或者每年0.750%，两者取其大。
+- 流动性奖励：每块1个STEEM (每小时奖励1200个STEEM)，或者每年0.75%，两者取其大。
 
 **能量奖励：**
 
