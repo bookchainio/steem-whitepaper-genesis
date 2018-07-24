@@ -562,7 +562,7 @@ Nguồn cung ứng tiền tệ của hệ thống Steem bắt đầu là 0 và t
 
 **Phần thưởng cho những đóng góp của người tham gia:**
 
-- Phần thưởng dành cho người đóng góp: 1 STEEM mỗi khối hoặc 3,875% mỗi năm, tùy vào mức nào lớn hơn
+- Trả thưởng dành cho người đóng góp: 1 STEEM mỗi khối hoặc 3,875% mỗi năm, tùy vào mức nào lớn hơn
 - Phần thưởng dành cho người viết bài: 1 STEEM mỗi khối hoặc 3,875% mỗi năm, tùy vào mức nào lớn hơn
 - Phần thưởng khối: 1 STEEM mỗi khối hoặc 0,750% mỗi năm, tùy vào mức nào lớn hơn
 - Thuật toán bằng chứng công việc (ký hiệu POW) áp dụng tính thưởng đối với số lượng khổi lớn hơn 864.000: 1 STEEM mỗi khối (tương đương 21 STEEM mỗi vòng)
@@ -571,7 +571,7 @@ Nguồn cung ứng tiền tệ của hệ thống Steem bắt đầu là 0 và t
 
 **Phần thưởng bằng Steem Power:**
 
-- Phần thưởng bằng Steem Power: Với mỗi STEEM thu được từ cách tính thưởng trên, 9 STEEM được chia đều cho những cổ đông nắm giữ Steem Power.
+- Trả thưởng bằng Steem Power: Với mỗi STEEM thu được từ cách tính thưởng trên, 9 STEEM được chia đều cho những cổ đông nắm giữ Steem Power.
 
 **Cách thức hoạt động của SMD:**
 
