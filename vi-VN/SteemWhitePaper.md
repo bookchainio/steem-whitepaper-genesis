@@ -576,7 +576,7 @@ Nguồn cung ứng tiền tệ của hệ thống Steem bắt đầu là 0 và t
 **Cách thức hoạt động của SMD:**
 
 - Trả thưởng bằng SMD: Lượng phần trăm SMD được trả thưởng cho những cổ đông chính là tỷ lệ phần trăm hàng năm được các nhân chứng tạo ra
-- Feed Rate following: The amount of STEEM for which the total SMD in existence can be redeemed will change based on changes in the price feed. This change is effectively destruction ("burning") of STEEM when the value of STEEM (as measured by the feed) is increasing, or creation of STEEM when the value of STEEM (as measured by the feed) is declining.
+- Tỷ lệ nguồn cấp dữ liệu được tính như sau: là số lượng STEEM do quy đổi từ tổng số SMD và có thể thay đổi dựa vào việc truyền dữ liệu giá. Sự thay đổi này là giải pháp tối ưu nhằm giảm bớt ("đốt cháy") STEEM khi giá trị (được đo bằng nguồn cấp dự liệu) tăng, hoặc gia tăng thêm STEEM khi giá trị (được đo bởi nguồn cấp dữ liệu) giảm.
 
 The percentage constraints effectively ensure the incentives for rewards do not become meaninglessly small over time, which is intended to prevent the system from experiencing the "speed bump" in the growth pattern of many other blockchains, where an initial growth spurt fueled by high incentives for early participants is followed by prolonged stagnation as the continually falling incentives drop below the level necessary to induce newcomers to join.
 
