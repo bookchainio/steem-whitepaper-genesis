@@ -568,11 +568,11 @@ Steem网络的最初货币供应量为0，且通过工作量证明来分配STEEM
 - POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
 - Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
 
-**Power Rewards:**
+**能量奖励：**
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- Steem Power奖励：对于以上的奖励中创建的每个STEEM，会有9个STEEM被分配给Steem Power持有者。
 
-**SMD operations:**
+**SMD操作：**
 
 - SMD rewards: A percentage of SMD value is created at an APR set by the witnesses and paid to SMD holders as SMD
 - Feed Rate following: The amount of STEEM for which the total SMD in existence can be redeemed will change based on changes in the price feed. This change is effectively destruction ("burning") of STEEM when the value of STEEM (as measured by the feed) is increasing, or creation of STEEM when the value of STEEM (as measured by the feed) is declining.
