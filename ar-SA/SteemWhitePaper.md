@@ -237,7 +237,7 @@ The use of *negative-voting* to keep people from abusing the system leverages th
 > 
 > "لماذا لا تغطي دلو الطُعمِ الخاص بك حتى لا تتمكن السلطعونات من الهرب؟"، قال.
 > 
-> "You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+> "أنت لا تفهم"، أجاب الرجل، "إذا كان هناك سلطعون واحد في الدلو  فمن المؤكد انه سيزحف إلى الخارج بسرعة كبيرة. ومع ذلك ، فعندما يكون هناك الكثير من السلطعونات في الدلو ، إذا حاول أحدهم الزحف إلى الأعلى ، فإن الآخرين يمسكون به ويسحبونه إلى الأسفل بحيث يتقاسم نفس المصير مثل بقيتهم. "
 > 
 > So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
 
