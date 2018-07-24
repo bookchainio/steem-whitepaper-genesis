@@ -565,9 +565,9 @@ Nguồn cung ứng tiền tệ của hệ thống Steem bắt đầu là 0 và t
 - Phần thưởng dành cho người đóng góp: 1 STEEM mỗi khối hoặc 3,875% mỗi năm, tùy vào mức nào lớn hơn
 - Phần thưởng dành cho người viết bài: 1 STEEM mỗi khối hoặc 3,875% mỗi năm, tùy vào mức nào lớn hơn
 - Phần thưởng khối: 1 STEEM mỗi khối hoặc 0,750% mỗi năm, tùy vào mức nào lớn hơn
-- Thuật toán bằng chứng công việc (ký hiệu POW) áp dụng tính thưởng đối với số lượng khổi nhỏ hơn 864.000: 1 STEEM mỗi khối (21 STEEM mỗi vòng)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- Thuật toán bằng chứng công việc (ký hiệu POW) áp dụng tính thưởng đối với số lượng khổi lớn hơn 864.000: 1 STEEM mỗi khối (tương đương 21 STEEM mỗi vòng)
+- Thuật toán POW áp dụng tính thưởng đối với số lượng khổi nhỏ hơn 864.000: 0.0476 STEEM mỗi khối (tương đương 1 STEEM mỗi vòng) hoặc 0.750% một năm, tùy vào mức nào lớn hơn.
+- Tính thanh khoản của tiền thưởng: 1 STEEM mỗi khối (tương đương 1200 STEEM một giờ) hoặc 0.750% một năm, tùy vào mức nào lớn hơn
 
 **Power Rewards:**
 
