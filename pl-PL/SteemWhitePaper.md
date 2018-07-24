@@ -10,13 +10,13 @@ Miejsce na notatki tłumacza.
 
 # Kompendium
 
-Steem to baza danych blockchain która wspiera budowanie społeczności i interekcje społeczne przy pomocy nagród w kryptowalutach. Steem łączy koncepty z mediów społecznych z lekcjami wyniesionymi z budowania kryptowalut i ich społeczności. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Steem to baza danych blockchain która wspiera budowanie społeczności i interekcje społeczne przy pomocy nagród w kryptowalutach. Steem łączy koncepty z mediów społecznych z lekcjami wyniesionymi z budowania kryptowalut i ich społeczności. Ważnym elementem inspirowania do brania udziału w społeczności, walucie lub wolno rynkowej ekonomii jest sprawiedliwy system księgowy który ciągle odzwierciedla kontrybucję każdej osoby. Steem to pierwsza kryptowaluta która próbuje trafnie i przejrzyście nagradzać nieograniczoną liczbę indywidualnych osób które wnoszą *subiektywne kontrybucje* do jej społeczności.
 
-# Table of Contents
+# Spis Treści
 
 <!-- toc -->
 
-# Introduction
+# Wprowadzenie
 
 Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
 
