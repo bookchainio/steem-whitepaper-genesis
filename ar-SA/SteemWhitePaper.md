@@ -219,9 +219,9 @@ The value each currency achieves depends upon the demand for influence within a 
 
 من أجل إعادة تنظيم الحوافز وردع الناس عن التصويت لأنفسهم ببساطة ، يجب توزيع الأموال بطريقة غير خطية. على سبيل المثال ، يتم استخدام وظيفة تربيعية في التصويت ، بحيث يحصل المستخدمون الذين يحصلون على ضعف عدد الأصوات التي يحصل عليها الآخرون على أربعة أضعاف المكاسب ، ويتلقى المستخدمون الذين يحصلون على ثلاثة أضعاف الأصوات أكثر من الآخرين تسع مرات. بمعنى آخر ، تتناسب المكافأة مع \\(أصوات^ {2} \\) بدلاً من *أصوات*. وهذا يعكس قيمة تأثير الشبكة ، والتي تزداد مع \\(n^{2}\\) عدد المشاركين بموجب قانون Metcalfe [^5].
 
-بافتراض أن جميع المستخدمين لديهم حصة متساوية ، فإن الشخص الذي يتلقى تصويته الخاص فقط سيحصل على أقل بكثير من شخص يتلقى الأصوات من 100 مستخدم مختلف. هذا يشجع المستخدمين على *التعاون* للتصويت على نفس الأشياء لزيادة العائد. This system also creates financial incentive to *collude* where everyone votes on one thing and then divides the reward equally among themselves.
+بافتراض أن جميع المستخدمين لديهم حصة متساوية ، فإن الشخص الذي يتلقى تصويته الخاص فقط سيحصل على أقل بكثير من شخص يتلقى الأصوات من 100 مستخدم مختلف. هذا يشجع المستخدمين على *التعاون* للتصويت على نفس الأشياء لزيادة العائد. هذا النظام يخلق أيضاً حافزاً مالياً لـ * من يتعاونون بينهم * حيث يصوت الجميع على شيء واحد ثم تقسم المكافآت فيما بينهم بالتساوي.
 
-#### Voting Collusion
+#### التعاون في التصويت
 
 While cooperation to distribute funds to the best work is the desired goal, *collusion* that undermines this objective should be minimized. There are two kinds of *collusion*, the most straightforward is when one user simply buys a larger stake than others, and the other involves coordinating a large number of smaller stakeholders to work together. Larger stakeholders can have the voting influence of 100 or even 1000 smaller stakeholders which means they have even greater incentive to defect by voting for themselves than they had under a linear distribution.
 
