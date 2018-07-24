@@ -616,9 +616,9 @@ Sự gia tăng trong cung cấp của STEEM chủ yếu là một tạo phẩm k
 
 Một tác dụng phụ của việc tăng nguồn cung cấp là mạng lưới sẽ yêu cầu mức độ chính xác ngày càng tăng trong việc kiểm toán của nó. Số lượng bit trung bình cần thiết để đại diện cho một tài khoản điển hình sẽ tăng 1,3 mỗi năm. Nó sẽ chỉ mất 10 năm trước khi các con số liên quan không còn phù hợp với độ chính xác 53 bit được hỗ trợ bởi JavaScript hoặc độ chính xác 64 bit được hỗ trợ bởi CPU. Theo thời gian, những con số liên quan sẽ phát triển vượt quá quy mô và hiểu biết của con người; hơn nữa, các bit kém quan trọng và giá trị kinh tế rất ít sẽ khiến cho chúng trở thành vô nghĩa.
 
-In order to compensate for the ever increasing precision, the STEEM network performs a 10:1 "reverse split" every 32,000,000 blocks (about 3 years). At this point in time all balances of STEEM are divided by 10 and all prices are multiplied by 10. Cryptocurrency exchanges will have to suspend trading around this time and update the account balances and price history to reflect the "reverse split" before resuming trading.
+Steem thực hiện sự "phân chia ngược" cho tất cả 32,000,000 khối theo tỷ lệ 10:1 (trong khoảng 3 năm) để đáp ứng yêu cầu về tính chính xác ngày càng tăng lên. Tại thời điểm này, tất cả các giá trị tài khoản Steem còn lại sau khi thực hiện cân đối sẽ được chia cho 10 trong khi đó giá được nhân thêm với 10. Trao đổi tiền điện tử sẽ phải tạm ngừng giao dịch trong khoảng thời gian này và cập nhật giá trị thực tế còn lại trong tài khoản và lịch sử giá để phản ánh "phân tách ngược" trước khi tiếp tục giao dịch.
 
-All rounding errors will be in favor of the network. Every balance may lose up to 0.009 STEEM due to rounding, but this amount of STEEM should be economically insignificant. Collectively all holders of SP will lose at most 0.009 STEEM.
+Tất cả các lỗi làm tròn giá trị sẽ đem lại lợi ích cho mạng lưới. Mọi giá trị tài khoản thực tế có thể mất tới 0.009 STEEM do làm tròn, nhưng số lượng STEEM này không đáng kể về mặt kinh tế. Tất cả các chủ sở hữu của SP sẽ mất tối đa 0.009 STEEM.
 
 # Sức mạnh tiềm năng của Steem
 
