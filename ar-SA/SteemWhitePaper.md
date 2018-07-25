@@ -243,7 +243,7 @@ The value each currency achieves depends upon the demand for influence within a 
 
 القضاء على "سوء المعاملة" ليس ممكنا ولا ينبغي أن يكون الهدف. وحتى أولئك الذين يحاولون "إساءة استخدام" النظام فهم لا يزالون يعملون. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. كل ما هو ضروري هو التأكد من أن إساءة الاستخدام ليست متفشية بحيث تقضي تدريجيا على الحافز للقيام بعمل حقيقي لدعم المجتمع وعملته.
 
-الهدف من بناء عملة المجتمع هو الحصول على المزيد من "السلطعونات في الدلو". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
+الهدف من بناء عملة المجتمع هو الحصول على المزيد من "السلطعونات في الدلو". الذهاب إلى التدابير القصوى للقضاء على جميع الإساأت هو مثل محاولة وضع غطاء على دلو لمنع بعض السلطعونات من الهروب، مما يؤدي إلى جعل إضافة سلطعونات جديدة إلى الدلو صعباً. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
 
 ### Rate Limited Voting
 
