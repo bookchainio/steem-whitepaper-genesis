@@ -684,9 +684,9 @@ Freedom of speech is the foundation of all other liberties and any infringement 
 
 Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
 
-## Shifting Toward Blockchain-based Attribution
+## التحول نحو الإحالة المستندة إلى سلسلة الكتل (Blockchain)
 
-The internet represents the easiest medium for distributing information in the world. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
+الإنترنت يمثل أسهل وسيلة لتوزيع المعلومات في العالم. ومع ذلك ، يمكن أن يكون مكانًا مخيفًا لمُنشئي المحتوى الذين يرغبون في امتلاك المحتوى الخاص بهم وأن تتم مشاركته مع إحالة مناسبة. على منصات وسائل الإعلام الاجتماعية الحالية، الإحالة هي شيء يمكن أن يضيع بين عشية وضحاها - فيديو او صورة منشورة يمكن تكرارها وإعادة مشاركتها دون موافقة أو اعتبار المالك.
 
 Under blockchain-based social media, a creator or author would always be able to point to a public record and timestamp showing proof of their content origination. In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
 
@@ -696,7 +696,7 @@ While a timestamping service can be built on almost any blockchain, and several 
 
 ضمن معظم نماذج تحقيق الدخل من المحتوى، يتأثر منشئو المحتوى بالإعلانات بشكل أو بآخر. يدرك العديد من منشئي المحتوى أن الإعلانات قد تقلل من قيمة عملهم بالنسبة للمستهلك ، إلا أن منشئي المحتوى في كثير من الأحيان يتعين عليهم البحث عن عائد مالي مقابل وقتهم من خلال تحقيق الدخل. الإعلان يمثل سيف ذو حدين: مع الإعلانات، يمكن لمنشئي المحتوى كسب المال بسهولة أكبر. وبدون إعلانات، يكون تحقيق الدخل أمرا صعبا ولكن المحتوى أكثر ثراء.
 
-يمكن لمنشئي المحتوى الذين ينشرون في الشبكات الاجتماعية المرتبطة بـ Steem تحقيق الدخل من أعمالهم من خلال جعل عملهم معروف (أو "يحصل على إعجاب") من قبل مجتمع Steem. الدفعات القائمة على سلسلة الكتل (Blockchain) هي رقمية تماما وليس لديها وسيط. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
+يمكن لمنشئي المحتوى الذين ينشرون في الشبكات الاجتماعية المرتبطة بـ Steem تحقيق الدخل من أعمالهم من خلال جعل عملهم معروف (أو "يحصل على إعجاب") من قبل مجتمع Steem. الدفعات القائمة على سلسلة الكتل (Blockchain) هي رقمية تماما وليس لديها وسيط. لذلك ، يجب أن يكون تحقيق الدخل من خلال مكافآت المحتوى المستندة إلى سلسلة الكتل أسرع وذات عوائق أقل بكثير من تحقيق الدخل من خلال الإعلانات.
 
 # استنتاج
 
