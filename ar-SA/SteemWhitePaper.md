@@ -241,9 +241,9 @@ The value each currency achieves depends upon the demand for influence within a 
 > 
 > كما هو الحال مع الناس. إذا حاول المرء أن يفعل شيئا مختلفا، الحصول على درجات أفضل، تحسين نفسه، الهروب من بيئته، أو حلم أحلام كبيرة، سيحاول الأشخاص الأخرون سحبه للأسفل ليشاركهم نفس مصيرهم.
 
-القضاء على "سوء المعاملة" ليس ممكنا ولا ينبغي أن يكون الهدف. Even those who are attempting to "abuse" the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn't so rampant that it undermines the incentive to do real work in support of the community and its currency.
+القضاء على "سوء المعاملة" ليس ممكنا ولا ينبغي أن يكون الهدف. وحتى أولئك الذين يحاولون "إساءة استخدام" النظام فهم لا يزالون يعملون. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. كل ما هو ضروري هو التأكد من أن إساءة الاستخدام ليست متفشية بحيث تقضي تدريجيا على الحافز للقيام بعمل حقيقي لدعم المجتمع وعملته.
 
-The goal of building a community currency is to get more "crabs in the bucket". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
+الهدف من بناء عملة المجتمع هو الحصول على المزيد من "السلطعونات في الدلو". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
 
 ### Rate Limited Voting
 
