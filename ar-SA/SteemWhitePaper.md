@@ -229,7 +229,7 @@ The value each currency achieves depends upon the demand for influence within a 
 
 لحسن الحظ ، فإن أي عمل يحصل على نسبة كبيرة من الأصوات يكتسب أيضًا أقصى قدر من التدقيق (الدعاية). Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. وعلاوة على ذلك، فإن أصحاب المصلحة الكبار لديهم المزيد ليخسرونه إذا انخفضت قيمة العملة بسبب سوء المعاملة مما قد يحصلون عليه من خلال التصويت لأنفسهم. في الواقع، من المرجح أن يكون أصحاب المصلحة الأكبر الصادقين أكثر فعالية من خلال ضبط سوء المعاملة واستخدام التصويت السلبي مما سيكونون عن طريق التصويت للمساهمات الأصغر.
 
-The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only "problem" with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
+استخدام *التصويت السلبي* للحفاظ على النظام من إساءة استخدام الناس إليه يعزز *عقلية السلطعون* التي تضهر لدى العديد من الناس عندما يدركون أن فرداً واحداً يتربح على حساب الجميع. في حين أن عقلية السلطعون عادة ما تشير إلى الأشخاص قصيري البصيرة الذين يحافظون على الناس الجيدين في الأسفل، فهي أيضاً ما يسمح للناس الجيدين بالحفاض على الناس السيئين في الأسفل. "المشكلة" الوحيدة مع عقلية السلطعون هي عندما * يعتقد الناس خطأً * أن شخص ما يتربح على حساب الجميع.
 
 > #### قصة دلو السرطان [^6]
 > 
@@ -239,9 +239,9 @@ The use of *negative-voting* to keep people from abusing the system leverages th
 > 
 > "أنت لا تفهم"، أجاب الرجل، "إذا كان هناك سلطعون واحد في الدلو  فمن المؤكد انه سيزحف إلى الخارج بسرعة كبيرة. ومع ذلك ، فعندما يكون هناك الكثير من السلطعونات في الدلو ، إذا حاول أحدهم الزحف إلى الأعلى ، فإن الآخرين يمسكون به ويسحبونه إلى الأسفل بحيث يتقاسم نفس المصير مثل بقيتهم. "
 > 
-> So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+> كما هو الحال مع الناس. إذا حاول المرء أن يفعل شيئا مختلفا، الحصول على درجات أفضل، تحسين نفسه، الهروب من بيئته، أو حلم أحلام كبيرة، سيحاول الأشخاص الأخرون سحبه للأسفل ليشاركهم نفس مصيرهم.
 
-Eliminating "abuse" is not possible and shouldn't be the goal. Even those who are attempting to "abuse" the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn't so rampant that it undermines the incentive to do real work in support of the community and its currency.
+القضاء على "سوء المعاملة" ليس ممكنا ولا ينبغي أن يكون الهدف. Even those who are attempting to "abuse" the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn't so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
 The goal of building a community currency is to get more "crabs in the bucket". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
 
