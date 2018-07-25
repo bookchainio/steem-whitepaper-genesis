@@ -193,7 +193,7 @@ It is our belief that these rules will give market participants confidence that 
 
 ## مساهمات شخصية
 
-يقدم الدليل الشخصي للعمل مقاربة بديلة لتوزيع عملة تتحسن على أساس * الهدف * التام لأنظمة العمل مثل التعدين. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+يقدم الدليل الشخصي للعمل مقاربة بديلة لتوزيع عملة تتحسن على أساس * الهدف * التام لأنظمة إثبات العمل مثل التعدين. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
 
 In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
 
@@ -223,7 +223,7 @@ The value each currency achieves depends upon the demand for influence within a 
 
 #### التعاون في التصويت
 
-في حين أن التعاون لتوزيع الأموال على أفضل عمل هو الهدف المنشود ، فإن * التعاون* الذي يقوض هذا الهدف يجب تقليله إلى أدنى حد ممكن. هناك نوعان من *التعاون (التواطؤ) * ، الأكثر بساطة هو عندما يشتري مستخدم واحد حصة أكبر من الآخرين ، والطريقة الأخرى تتضمن التعاون بين العديد من المستخدمين الذين يحملون حصصاً صغيرة. يمكن لأصحاب المصلحة الأكبر أن يكون لهم تأثير التصويت على 100 أو حتى 1000 من أصحاب المصلحة الأصغر ، مما يعني أنه لديهم حافز أكبر للتصويت لأنفسهم مما كان لديهم في ظل التوزيع الخطي.
+في حين أن التعاون لتوزيع الأموال على أفضل عمل هو الهدف المنشود ، فإن * التعاون* الذي يقوض هذا الهدف يجب تقليله إلى أدنى حد ممكن. هناك نوعان من *التعاون (التواطؤ) * ، الأكثر بساطة هو عندما يشتري مستخدم واحد حصة أكبر من الآخرين ، والطريقة الأخرى تتضمن التعاون بين العديد من المستخدمين الذين يحملون حصصاً صغيرة. يمكن لأصحاب المصلحة الأكبر أن يكون لهم تأثير التصويت على 100 أو حتى 1000 من أصحاب المصلحة الأصغر، مما يعني أنه لديهم حافز أكبر للتصويت لأنفسهم مما كان لديهم في ظل التوزيع الخطي.
 
 بغض النظر عن مقدار المال لكل فرد واحد، هناك دائما العديد من الأفراد الآخرين مع ثروة مماثلة. حتى أغنى الأفراد نادراً ما يكون لديه أكثر بكثير من ثروة الثنائي التالي مجموعين. بالإضافة إلى ذلك ، فإن أولئك الذين لديهم استثمار كبير في المجتمع لديهم أيضا أكبر الخسائر ،إذا حاولو التلاعب بالنظام للتصويت لأنفسهم. سيكون الأمر كما لو أن الرئيس التنفيذي لشركة ما قرر التوقف عن دفع الرواتب حتى يتمكن من جني جميع الأرباح. الجميع سوف يغادر للعمل لشركات أخرى وستصبح الشركة لا قيمة لها، تاركين الرئيس التنفيذي مفلساً بدلا من ثري.
 
