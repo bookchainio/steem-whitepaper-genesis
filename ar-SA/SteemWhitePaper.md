@@ -694,9 +694,9 @@ While a timestamping service can be built on almost any blockchain, and several 
 
 ## استبدال الإعلانات بمكافآت المحتوى المستندة إلى سلسلة الكتل (Blockchain)
 
-ضمن معظم نماذج تحقيق الدخل من المحتوى، يتأثر منشئو المحتوى بالإعلانات بشكل أو بآخر. يدرك العديد من منشئي المحتوى أن الإعلانات قد تقلل من قيمة عملهم بالنسبة للمستهلك ، إلا أن منشئي المحتوى في كثير من الأحيان يتعين عليهم البحث عن عائد مالي مقابل وقتهم من خلال تحقيق الدخل. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+ضمن معظم نماذج تحقيق الدخل من المحتوى، يتأثر منشئو المحتوى بالإعلانات بشكل أو بآخر. يدرك العديد من منشئي المحتوى أن الإعلانات قد تقلل من قيمة عملهم بالنسبة للمستهلك ، إلا أن منشئي المحتوى في كثير من الأحيان يتعين عليهم البحث عن عائد مالي مقابل وقتهم من خلال تحقيق الدخل. الإعلان يمثل سيف ذو حدين: مع الإعلانات، يمكن لمنشئي المحتوى كسب المال بسهولة أكبر. وبدون إعلانات، يكون تحقيق الدخل أمرا صعبا ولكن المحتوى أكثر ثراء.
 
-Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or "liked") by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
+يمكن لمنشئي المحتوى الذين ينشرون في الشبكات الاجتماعية المرتبطة بـ Steem تحقيق الدخل من أعمالهم من خلال جعل عملهم معروف (أو "يحصل على إعجاب") من قبل مجتمع Steem. الدفعات القائمة على سلسلة الكتل (Blockchain) هي رقمية تماما وليس لديها وسيط. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
 
 # استنتاج
 
