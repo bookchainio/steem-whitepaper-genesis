@@ -6,11 +6,11 @@ Marzec 2016
 
 # Notatki tłumacza
 
-Miejsce na notatki tłumacza.
+Egzemplifikacja notatek tłumacza.
 
 # Kompendium
 
-Steem to baza danych blockchain która wspiera budowanie społeczności i interekcje społeczne przy pomocy nagród w kryptowalutach. Steem łączy koncepty z mediów społecznych z lekcjami wyniesionymi z budowania kryptowalut i ich społeczności. Ważnym elementem inspirowania do brania udziału w społeczności, walucie lub wolno rynkowej ekonomii jest sprawiedliwy system księgowy który ciągle odzwierciedla kontrybucję każdej osoby. Steem to pierwsza kryptowaluta która próbuje trafnie i przejrzyście nagradzać nieograniczoną liczbę indywidualnych osób które wnoszą *subiektywne kontrybucje* do jej społeczności.
+Steem to baza danych blockchain, która wspiera budowanie społeczności i interakcje społeczne przy pomocy nagród w kryptowalutach. Steem łączy koncepty z mediów społecznych z lekcjami wyniesionymi z budowania kryptowalut i ich społeczności. Ważnym elementem inspirowania do brania udziału w społeczności, walucie lub wolno rynkowej ekonomii jest sprawiedliwy system księgowy który ciągle odzwierciedla kontrybucję każdej osoby. Steem to pierwsza kryptowaluta która próbuje trafnie i przejrzyście nagradzać nieograniczoną liczbę indywidualnych osób które wnoszą *subiektywne kontrybucje* do jej społeczności.
 
 # Spis Treści
 
@@ -18,9 +18,9 @@ Steem to baza danych blockchain która wspiera budowanie społeczności i intere
 
 # Wprowadzenie
 
-Zbiorczo, zawartość generowana przez użytkowników stworzyła miliardy dolarów wartości dla udziałowców spółek mediów społecznościowych, takich jak Reddit, Facebook i Twitter. **W 2014, Reddit wysunął hipotezę iż ich platforma zostałaby udoskonalona gdyby każdy kto wniósł kontrybucję do reddit.com poprzez zamieszczanie historii, dodawanie komentarzy lub głosowanie byłby nagradzany sprawiedliwym udziałem w Reddit, Inc[^1]**. Steem ma na celu wspieranie mediów społecznościowych i społeczności online przez zwracanie wiele z jego wartości ludziom którzy dostarczają wartościowych kontrybucji dzięki nagradzaniu ich kryptowalutą i poprzez ten proces stworzyć walutę która może dosięgnąć szerokiego rynku, wliczając ludzi którzy jeszcze nie mieli żadnego doczynienia z udziałem w ekonomii kryptowalut.
+Zbiorczo, zawartość generowana przez użytkowników stworzyła miliardy dolarów wartości dla udziałowców spółek mediów społecznościowych, takich jak Reddit, Facebook i Twitter. **W 2014, Reddit wysunął hipotezę iż ich platforma zostałaby udoskonalona gdyby każdy kto wniósł kontrybucję do reddit.com poprzez zamieszczanie historii, dodawanie komentarzy lub głosowanie byłby nagradzany sprawiedliwym udziałem w Reddit, Inc[^1]**. Steem ma na celu wspieranie mediów społecznościowych i społeczności online, poprzez zwracanie wielu z jego wartości ludziom którzy dostarczają wartościowych kontrybucji dzięki nagradzaniu ich kryptowalutą i poprzez ten proces stworzyć walutę, która może dosięgnąć szerokiego rynku, wliczając ludzi którzy jeszcze nie mieli żadnego doczynienia z udziałem w ekonomii kryptowalut.
 
-Istnieje kilka kluczowych reguł które kierowały projektowaniem Steem. Najważniejszą regułą jest to, że każdy kto kontrybutuje do przedwsięzięcia powinien otrzymać proporcjonalnie własność, płatność lub dług od przedwsięzięcia. Zasada ta to ta sama zasada która dotyczy wszystkich startup-ów kiedy alokują udziały przy zakładaniu i w trakcie kolejnych rund zbierania kapitału.
+Istnieje kilka kluczowych reguł które kierowały projektowaniem Steem. Najważniejszą regułą jest to, że każdy kto ma jakiś wkład do przedsięwzięcia powinien otrzymać proporcjonalnie własność, płatność lub dług od przedsięwzięcia. Zasada ta to ta sama zasada która dotyczy wszystkich startup-ów kiedy alokują udziały przy zakładaniu i w trakcie kolejnych rund zbierania kapitału.
 
 Drugą regułą jest to że wszystkie formy kapitału są tak samo wartościowe. Oznacza to że Ci którzy poświęcają swój cenny czas i uwagę produkowaniu i kuratorowaniu zawartości dla innych są tak samo wartościowi jak Ci którzy poświęcają swoje cenne pieniądze. To słodka zasada słuszności [^2] i jest konceptem który przed kryptowalutami często borykał się z problemami zaspokajania więcej niż kilku tuzinów jednostek.
 
