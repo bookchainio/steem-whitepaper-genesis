@@ -560,25 +560,25 @@ Từ trải nghiệm công nghệ biến đổi Optanetechnology của Intel [^1
 
 Nguồn cung ứng tiền tệ của hệ thống Steem bắt đầu là 0 và thông qua thuật toán bằng chứng công việc (Proof-of-work) đã phân phối khoảng 40 STEEM mỗi phút cộng với 40 STEEM /phút từ quỹ phần thưởng của viết bài và bầu chọn (tổng là 80 STEEM mỗi phút). Sau đó hệ thống sẽ trả thưởng cho người dùng bằng cách chuyển sang SP. Có thể tóm tắt sự phát triển của STEEM với tốc độ gần 800 STEEM mỗi phút khi kết hợp các dạng phần thưởng khác nhau như sau:
 
-**Phần thưởng cho những đóng góp của người tham gia:**
+**Contribution Rewards:**
 
-- Trả thưởng cho người đánh giá nội dung: 1 STEEM mỗi khối hoặc 3,875% mỗi năm, tùy vào mức nào lớn hơn
-- Trả thưởng cho người sáng tạo nội dung: 1 STEEM mỗi khối hoặc 3,875% mỗi năm, tùy vào mức nào lớn hơn
-- Phần thưởng khối: 1 STEEM mỗi khối hoặc 0,750% mỗi năm, tùy vào mức nào lớn hơn
-- Thuật toán bằng chứng công việc (ký hiệu POW) áp dụng tính thưởng đối với số lượng khổi lớn hơn 864.000: 1 STEEM mỗi khối (tương đương 21 STEEM mỗi vòng)
-- Thuật toán POW áp dụng tính thưởng đối với số lượng khổi nhỏ hơn 864.000: 0.0476 STEEM mỗi khối (tương đương 1 STEEM mỗi vòng) hoặc 0.750% một năm, tùy vào mức nào lớn hơn.
-- Tính thanh khoản của tiền thưởng: 1 STEEM mỗi khối (tương đương 1200 STEEM một giờ) hoặc 0.750% một năm, tùy vào mức nào lớn hơn
+- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
+- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
+- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
+- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
+- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
+- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
 
-**Trả thưởng bằng Steem Power:**
+**Power Rewards:**
 
-- Trả thưởng bằng Steem Power: Với mỗi STEEM thu được từ cách tính thưởng trên, 9 STEEM được chia đều cho những cổ đông nắm giữ Steem Power.
+- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
 
-**Cách thức hoạt động của SMD:**
+**SMD operations:**
 
-- Trả thưởng bằng SMD: Lượng phần trăm SMD được trả thưởng cho những cổ đông chính là tỷ lệ phần trăm hàng năm được các nhân chứng tạo ra
-- Tỷ lệ nguồn cấp được tính như sau: là số lượng STEEM do quy đổi từ tổng số SMD và có thể thay đổi dựa vào nguồn thông tin giá. Sự thay đổi này là giải pháp tối ưu nhằm giảm bớt ("đốt cháy") STEEM khi giá trị (được đo bằng nguồn cấp) tăng, hoặc gia tăng thêm STEEM khi giá trị (được đo bởi nguồn cấp) giảm.
+- SMD rewards: A percentage of SMD value is created at an APR set by the witnesses and paid to SMD holders as SMD
+- Feed Rate following: The amount of STEEM for which the total SMD in existence can be redeemed will change based on changes in the price feed. Sự thay đổi này là giải pháp tối ưu nhằm giảm bớt ("đốt cháy") STEEM khi giá trị (được đo bằng nguồn cấp) tăng, hoặc gia tăng thêm STEEM khi giá trị (được đo bởi nguồn cấp) giảm.
 
-Việc áp dụng trả thưởng bằng phần trăm không những đảm bảo giá trị của phần thưởng vẫn giữ được theo thời gian mà còn giúp hệ thống tránh gặp phải sự cố "gờ giảm tốc" do nhiều blockchains khác đã thúc đẩy sự phát triển ban đầu bằng cách thu hút người dùng tham gia với những ưu đãi đặc biệt nhưng sau đó lại rơi vào tình trạng trì trệ do các ưu đãi liên tục giảm xuống dưới mức cần thiết để kích thích sự tham gia của những thành viên mới.
+The percentage constraints effectively ensure the incentives for rewards do not become meaninglessly small over time, which is intended to prevent the system from experiencing the "speed bump" in the growth pattern of many other blockchains, where an initial growth spurt fueled by high incentives for early participants is followed by prolonged stagnation as the continually falling incentives drop below the level necessary to induce newcomers to join.
 
 Quá trình phân phối và cung ứng STEEM chịu sự tác động tổng thể của mức phần trăm này là (khoảng) 800 STEEM / phút và có hiệu lực trong một thời gian (ví dụ đơn vị là STEEM), nhưng tỷ lệ phần trăm lại giảm (có nghĩa là 800 STEEM ngày càng giảm khi tổng cung ngày càng tăng). When the various individual components of the 800 STEEM per minute rate reach their respective percentage-based floors, each floor halts the fall in its component of the rate. Điều này có nghĩa là, về lâu dài, tỷ lệ danh nghĩa sẽ tăng từ 800 STEEM / phút lên mức giá trị cần thiết (giá trị này thay đổi theo thời gian, phụ thuộc vào nguồn cung) nhằm duy trì tốc độ tăng trưởng hàng năm không đổi là 10% đối với những Ưu đãi Đóng góp, và tỷ lệ tăng trưởng hàng năm không đổi 100% khi kết hợp những Ưu đãi Đóng góp và Ưu đãi Nguồn. The overall effect is a doubling of the STEEM supply each year (but, as detailed in the next section, if most users Power Up then much of this doubling is effectively a "split" which does not transfer ownership).
 
