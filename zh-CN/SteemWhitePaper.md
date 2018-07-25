@@ -581,7 +581,7 @@ Steem网络的最初货币供应量为0，且通过工作量证明来分配STEEM
 
 这些百分比常熟对分配和供给的整体影响是，(大约)每但分钟800个STEEM的速率会保持一定的时间 (例如：STEEM单位)，但按百分比（例如：随着整体供应量越来越大，800个STEEM所占的比例会越来越小）而言是下降的。 当每分钟800个STEEM所涉及的各个组件的达到各自的基于百分比的最小值，相关的组件就会停止下降该比率。 反过来这意味这，从长远来看，STEEM的增长率会从每分钟800个STEEM，增长到(受时间和网络供应影响) 能够维持每年增长率为10%的贡献奖励，同时为了提供贡献奖励和能量奖励的做和作用结果，其年增长率为100%。 其综合效果就是STEEM的年供应量会翻倍 (但是，正如下一节所述，如果大多数用户会Power Up，这种翻倍的效果其实上是一种不转换所有权的“分割”)。
 
-整体供应情况因SMD的操作而变得复杂，正如在SMD章节讨论的，这会通过喂价率的追随和SMD奖励，导致大规模的创建或销毁STEEM。 Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), noise due to miner luck in proof-of-work production, and the effects of changes in the miner queue length due to a change in the network's total hashpower.
+整体供应情况因SMD的操作而变得复杂，正如在SMD章节讨论的，这会通过喂价率的追随和SMD奖励，导致大规模的创建或销毁STEEM。 另外，小规模的复杂效应同样存在，包括未认领的奖励 (例如：对错过区块的奖励)，在工作量证明中由于矿工的运气而产生的干扰，还有由于网络总哈希值的变化而导致的矿工队列长度变化。
 
 ## Impact of Token Creation Rate
 
