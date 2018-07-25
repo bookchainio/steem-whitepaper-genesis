@@ -690,7 +690,7 @@ Most cryptocurrencies generate little value for those who are not actively using
 
 في إطار الشبكات الاجتماعية القائمة على سلسلة الكتل، سيكون بإمكان منشئ المحتوى أو المؤلف دائمًا الإشارة إلى سجل عام وطابع زمني لإثبات مَنْشَأ المحتوى. في الظروف التي يرغب فيها منشئ المحتوى في التعامل مع الأشخاص الذين قامو بإعادة النشر بدون إذن أو إحالة ، تقدم السجلات المستندة إلى سلسلة الكتل دليلًا عامًا على أن المحتوى نشر بواسطة مستخدم معين في وقت معين. في المستقبل ، يمكن أن تعترف الحكومات بالإحالة المستندة إلى سلسلة الكتل لموثوقيتها ويمكن أن يكون لها وزن في المحكمة ، مما يمنح منشئي المحتوى صلاحيات أكبر للسيطرة على عملهم.
 
-While a timestamping service can be built on almost any blockchain, and several efforts exist to build this kind of service on the Bitcoin network, Steem has a useful advantage in this realm because content publishers are "first class citizens" - the Steem blockchain is built from the ground up around the use case of content publication, which allows content creators to have the blockchain to validate their content at a certain point in time simply by writing their post using the same authoring tools used by other Steem users.
+في حين يمكن بناء خدمة الطابع الزمني على أي سلسلة كتل تقريبًا، وهناك العديد من الجهود لبناء هذا النوع من الخدمة على شبكة بيتكوين (Bitcoin) ، فإن Steem يتمتع بميزة مفيدة في هذا المجال لأن ناشري المحتوى هم "مواطنين من الدرجة الأولى" - تم بناء سلسلة كتل ستيم (Steem blockchain) من الألف إلى الياء حول حالة استخدام نشر المحتوى ، والتي تسمح لمنشئي المحتوى أن تكون لديهم سلسلة كتل (blockchain) للتحقق من صحة محتواهم في نقطة معينة من الوقت ببساطة عن طريق كتابة مشاركتهم باستخدام نفس أدوات التأليف المستخدمة من قبل مستخدمي ستيم (Steem) الآخرين.
 
 ## استبدال الإعلانات بمكافآت المحتوى المستندة إلى سلسلة الكتل (Blockchain)
 
