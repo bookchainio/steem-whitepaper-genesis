@@ -227,7 +227,7 @@ The value each currency achieves depends upon the demand for influence within a 
 
 بغض النظر عن مقدار المال لكل فرد واحد، هناك دائما العديد من الأفراد الآخرين مع ثروة مماثلة. حتى أغنى الأفراد نادراً ما يكون لديه أكثر بكثير من ثروة الثنائي التالي مجموعين. بالإضافة إلى ذلك ، فإن أولئك الذين لديهم استثمار كبير في المجتمع لديهم أيضا أكبر الخسائر ،إذا حاولو التلاعب بالنظام للتصويت لأنفسهم. سيكون الأمر كما لو أن الرئيس التنفيذي لشركة ما قرر التوقف عن دفع الرواتب حتى يتمكن من جني جميع الأرباح. الجميع سوف يغادر للعمل لشركات أخرى وستصبح الشركة لا قيمة لها، تاركين الرئيس التنفيذي مفلساً بدلا من ثري.
 
-لحسن الحظ ، فإن أي عمل يحصل على نسبة كبيرة من الأصوات يكتسب أيضًا أقصى قدر من التدقيق (الدعاية). Through the addition of *negative-voting* it is possible for many smaller stakeholders to nullify the voting power of collusive groups or defecting large stakeholders. وعلاوة على ذلك، فإن أصحاب المصلحة الكبار لديهم المزيد ليخسرونه إذا انخفضت قيمة العملة بسبب سوء المعاملة مما قد يحصلون عليه من خلال التصويت لأنفسهم. في الواقع، من المرجح أن يكون أصحاب المصلحة الأكبر الصادقين أكثر فعالية من خلال ضبط سوء المعاملة واستخدام التصويت السلبي مما سيكونون عن طريق التصويت للمساهمات الأصغر.
+لحسن الحظ ، فإن أي عمل يحصل على نسبة كبيرة من الأصوات يكتسب أيضًا أقصى قدر من التدقيق (الدعاية). من خلال إضافة * التصويت السلبي * من الممكن للعديد من أصحاب المصلحة الأصغر أن يبطلوا قوة تصويت المجموعات المتواطئة (المتعاونة) أو مقاومة أصحاب المصلحة الكبار. وعلاوة على ذلك، فإن أصحاب المصلحة الكبار لديهم المزيد ليخسرونه إذا انخفضت قيمة العملة بسبب سوء المعاملة مما قد يحصلون عليه من خلال التصويت لأنفسهم. في الواقع، من المرجح أن يكون أصحاب المصلحة الأكبر الصادقين أكثر فعالية من خلال ضبط سوء المعاملة واستخدام التصويت السلبي مما سيكونون عن طريق التصويت للمساهمات الأصغر.
 
 استخدام *التصويت السلبي* للحفاظ على النظام من إساءة استخدام الناس إليه يعزز *عقلية السلطعون* التي تضهر لدى العديد من الناس عندما يدركون أن فرداً واحداً يتربح على حساب الجميع. في حين أن عقلية السلطعون عادة ما تشير إلى الأشخاص قصيري البصيرة الذين يحافظون على الناس الجيدين في الأسفل، فهي أيضاً ما يسمح للناس الجيدين بالحفاض على الناس السيئين في الأسفل. "المشكلة" الوحيدة مع عقلية السلطعون هي عندما * يعتقد الناس خطأً * أن شخص ما يتربح على حساب الجميع.
 
@@ -698,11 +698,11 @@ Under most content monetization models, content creators leverage advertising in
 
 Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or "liked") by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
 
-# Conclusion
+# استنتاج
 
-Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards will have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem will have more exclusive earning powers than those who do not.
+ستيم (Steem) هي تجربة مصممة للتعامل مع التحديات في العملات المشفرة والوسائط الاجتماعية عبر الجمع بين أفضل الجوانب من كليهما. يقدم Steem فرصًا للربح لمبدعي المحتوى وقراء الإنترنت بطرق لم تكن موجودة في صناعة الإعلام الاجتماعي. داخل Steem ، يحصل الأفراد على مكافآت حقيقية عبر الإنترنت ترتبط ارتباطًا مباشرًا بمساهماتهم. هذه المكافآت سيكون لها قيمة بالدولار بسبب اكتشاف سعر السوق وسيولة Steem ، والأشخاص الذين يحملون Steem سيكون لديهم صلاحيات ربح حصرية أكثر من أولئك الذين لا يملكون.
 
-# References
+# المراجع
 
 [^1]: Reddit's Cryptocurrency, Forbes, Erika Morphy, October 2014, <http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/#4e07b05332b9>
 
