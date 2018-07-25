@@ -149,7 +149,7 @@ Người dùng phải tiếp tục cung cấp thanh khoản trên cả hai phía
 
 Trong mỗi tiếng, người có số điểm thanh khoản lớn nhất sẽ được thưởng 1200 STEEM và điểm thanh khoản của người đó sẽ được đặt lại về mức 0. Nếu một tài khoản trong một tuần không kiếm được bất kỳ điểm thanh khoản nào cũng sẽ được đặt lại về mức 0. Điều này có nghĩa là cho dù bạn cung cấp một lượng lớn thanh khoản tiền hoặc cung cấp thanh khoản tiền tệ dài hạn thì bạn đều sẽ nhận được một tỷ lệ phần trăm tương ứng nhất định của số tiền thưởng. Nếu một trong hai yếu tố "số lượng mua vào" hoặc "số lượng bán ra" là số âm, thì điểm thanh khoản sẽ được coi là 0.
 
-### Tỷ lệ bền vững giữa nợ và quyền sở hữu
+### Sự bền vững của tỷ lệ nợ / quyền sở hữu
 
 Nếu một "token" có thể được xem là quyền sở hữu trong toàn bộ số "token", thì đồng đô la mà có thể được chuyển đổi từ "token" được coi như là một khoản nợ. Khi tỷ lệ nợ / quyền sở hữu quá cao, toàn bộ tiền tệ sẽ trở nên không ổn định. Việc chuyển đổi các khoản đổi nợ có thể làm tăng đáng kể số lượng "token" được tung ra trên thị trường, và điều đó sẽ làm giảm giá các đồng tiền tệ khi được bán trên các các sàn giao dịch. Các chuyển đổi tiếp theo yêu cầu phát hành thậm chí còn nhiều "token" hơn. Nếu không kiểm soát được, hệ thống sẽ sụp đổ và để lại một quyền sở hữu sẽ vô giá trị cùng với một đống nợ chồng chất. Tỷ lệ giữa khoản nợ trên vốn của chủ sở hữu càng cao thì càng ít người sẵn sàng rót vốn vào đầu tư.
 
@@ -321,7 +321,7 @@ Các chuỗi khối sử dụng trong bằng chứng công việc truyền thố
 
 Độ khó của bài toán bằng chứng công việc tăng lên gấp đôi mỗi khi độ dài của lượt xếp hàng tăng lên gấp 4 lần. Vì một thợ đào đến vòng sẽ ra khỏi hàng, mỗi vòng sẽ kéo dài 21 \* 3 = 63 giây, và nếu trong 21 \* 3 \* 4 = 252 giây mà không tìm được đáp án thì độ khó sẽ được giảm đi một nửa.
 
-### Việc kiếm tiền thưởng đòi hỏi người dùng phải có Steem Power
+### Để "đào" tiền thưởng, người dùng phải có Steem Power
 
 Sau tháng đầu tiên, những người đào Steem sẽ được thanh toán bằng Steem Power (SP). SP sẽ có thể đổi thành tiền mặt thông qua một quá trình "powering down" kéo dài hai năm. Điều này có nghĩa rằng các thợ đào phải chờ một thời gian dài, có thể trong nhiều tháng, để có thể "power down" số tiền thưởng của họ để khôi phục chi phí điện và các tài nguyên tính toán. Quá trình "powering down" này nhằm ngăn chặn việc tạo ra một cái "bể khai thác" bởi vì các nhà điều hành của "bể khai thác" sẽ phải phân phối các khoản thanh toán trong vòng một vài năm.
 
@@ -360,7 +360,7 @@ Những thợ đào có ba giây để nhận một khối, xử lý thuật to�
 
 Do sự thay đổi khối chính thường xuyên và sự chậm trễ mạng, việc gửi mẫu để khai thác một khối cụ thể cho người tham gia sẽ làm tăng thêm độ trễ mạng và giảm đáng kể hiệu quả của hoạt động khai thác.
 
-# Loại bỏ các chi phí giao dịch
+# Sự loại bỏ các chi phí giao dịch
 
 Steem đã tạo ra một tiến bộ thực sự khi thực hiện việc trả thưởng cho những người dùng đã đóng góp xây dựng cộng đồng. Phương pháp này sẽ trở nên phản tác dụng nếu như lấy phí của họ mỗi khi họ tương tác với cộng đông.
 
