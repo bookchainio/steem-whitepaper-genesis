@@ -570,7 +570,7 @@ Steem网络的最初货币供应量为0，且通过工作量证明来分配STEEM
 
 **能量奖励：**
 
-- Steem Power奖励：对于以上的奖励中创建的每个STEEM，会有9个STEEM被分配给Steem Power持有者。
+- Steem Power奖励：对于上述奖励中创建的每个STEEM，会有9个STEEM被分配给Steem Power持有者。
 
 **SMD操作：**
 
