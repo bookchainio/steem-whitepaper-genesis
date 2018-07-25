@@ -692,9 +692,9 @@ Under blockchain-based social media, a creator or author would always be able to
 
 While a timestamping service can be built on almost any blockchain, and several efforts exist to build this kind of service on the Bitcoin network, Steem has a useful advantage in this realm because content publishers are "first class citizens" - the Steem blockchain is built from the ground up around the use case of content publication, which allows content creators to have the blockchain to validate their content at a certain point in time simply by writing their post using the same authoring tools used by other Steem users.
 
-## Replacing Advertising with Blockchain-based Content Rewards
+## استبدال الإعلانات بمكافآت المحتوى المستندة إلى سلسلة الكتل (Blockchain)
 
-Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work's value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+ضمن معظم نماذج تحقيق الدخل من المحتوى، يتأثر منشئو المحتوى بالإعلانات بشكل أو بآخر. يدرك العديد من منشئي المحتوى أن الإعلانات قد تقلل من قيمة عملهم بالنسبة للمستهلك ، إلا أن منشئي المحتوى في كثير من الأحيان يتعين عليهم البحث عن عائد مالي مقابل وقتهم من خلال تحقيق الدخل. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
 
 Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or "liked") by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
 
