@@ -247,7 +247,7 @@ The value each currency achieves depends upon the demand for influence within a 
 
 ### معدل التصويت المحدود
 
-الجزء الرئيسي من تقليل سوء المعاملة هو الحد من معدل التصويت. يمكن للمستخدمين الفرديين قراءة وتقييم فقط العديد من مواد العمل في اليوم الواحد. أي محاولة للتصويت بشكل متكرر أكثر من هذا هي علامة على التلقائية وإساءة إستخدام محتملة. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+الجزء الرئيسي من تقليل سوء المعاملة هو الحد من معدل التصويت. يمكن للمستخدمين الفرديين قراءة وتقييم فقط العديد من مواد العمل في اليوم الواحد. أي محاولة للتصويت بشكل متكرر أكثر من هذا هي علامة على التلقائية وإساءة إستخدام محتملة. من خلال التقييم المحدود ، فإن أصحاب المصالح الذين يصوتون بشكل متكرر يحصلون على أصوات أقل لكل منهم من أصحاب المصلحة الذين يصوتون بشكل أقل. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
 ![](\img_voting_rate_limiting.png)
 
