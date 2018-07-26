@@ -620,7 +620,7 @@ In order to compensate for the ever increasing precision, the STEEM network perf
 
 All rounding errors will be in favor of the network. Every balance may lose up to 0.009 STEEM due to rounding, but this amount of STEEM should be economically insignificant. Collectively all holders of SP will lose at most 0.009 STEEM.
 
-# The Power of Steem
+# قوة ستيم (Steem)
 
 Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
 
