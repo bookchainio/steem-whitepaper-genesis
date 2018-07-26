@@ -662,9 +662,9 @@ It isn't easy to get into cryptocurrency[^24] . Someone who discovers Bitcoin an
 
 Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless).
 
-## Solving the Cryptocurrency Liquidation Problem
+## حل مشكلة السيولة في العملات المشفرة
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+العملة التي يصعب استخدامها أو من المستحيل بيعها لها قيمة صغيرة. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
 
 Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
 
@@ -680,9 +680,9 @@ Steem هي شبكة لا مركزية يديرها معدنين عبر سلطة 
 
 حرية التعبير هي أساس جميع الحريات الأخرى، وأي انتهاك لحرية التعبير يقوض الوسيلة السلمية الوحيدة للتوصل إلى توافق في الآراء: الحوار. وبدون نقاش حر، لا يمكن أن يكون الناخبون على اطلاع تام، والناخبين غير المطلعين يشكلون تهديدا أكبر للمجتمع من فقدان حق التصويت. الرقابة وسيلة لسرقة الأصوات من خلال الحد من الخطاب العام. Steem ملتزمة بتمكين حرية التعبير وبناء مجتمع حر.
 
-## Solving Organic Discovery via Search Engine Optimization
+## إيجاد حل لعمليات البحث الطبيعية من خلال تحسين محركات البحث
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+معظم العملات المشفرة تولد قيمة قليلة لأولئك الذين لا يستخدمون الشبكة بشكل نشط. ستيم (Steem)، على النقيض من ذلك، يولد المحتوى ويشجع المستخدمين على مشاركته. يتم فهرسة هذا المحتوى من قبل محركات البحث، وفي نهاية المطاف سوف يجلب قيمة لعدد كبير من المستخدمين الغير نشيطين. تنشئ حركة البحث هذه إعلانات طبيعية لشبكة Steem وتنمي تأثير الشبكة.
 
 ## التحول نحو الإحالة المستندة على سلسلة الكتل (Blockchain)
 
