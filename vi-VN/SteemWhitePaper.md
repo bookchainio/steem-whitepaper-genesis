@@ -532,9 +532,9 @@ Như vậy chúng ta có thể kết luận rằng blockchain là nền tảng p
 
 Nói cách khác, phí giao dịch phải bằng mức dư tối thiểu sau khi thực hiện cân đối tài khoản (balance) nhằm thực hiện giao dịch một lần / tuần và khoản tiền này sẽ được hoàn lại vào cuối tuần. Giả sử balance là $1 và có thể thực hiện giao dịch một lần /tuần. Với một khách hàng có balance $1 và muốn thực hiện 5 giao dịch cùng một lúc, thì phải tăng balance của mình lên $5 trong một tuần trước hoặc sau giao dịch.
 
-Về mặt lý thuyết, một thị trường được hình thành để tạo điều kiện cho khách hàng có thể vay cổ phần cần thiết. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+Về mặt lý thuyết, một thị trường được hình thành để tạo điều kiện cho khách hàng có thể vay cổ phần cần thiết. Nhưng thực tế, để đạt được hiệu quả tối ưu trong việc có được tốc độ sử dụng như mong muốn, người sử dụng chỉ cần mua và bán các timeshare cần thiết. Nói cách khác, để phù hợp với mức sử dụng tối đa hàng tuần của bạn, bạn nên sử dụng chi phí để thương lượng các khoản vay vi mô hơn là duy trì balance cần thiết.
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+Các loại ứng dụng phi tập trung mới có thể sẽ không khả thi khi áp dụng việc hạn chế tỷ lệ phân cấp trong các giao dịch vì mỗi lần sử dụng đều yêu cầu thanh toán vi mô. Mô hình mới này tạo điều kiện cho cho những nhà phát triển ứng dụng có khả năng đưa ra quyết định thời điểm nào sẽ tính phí người dùng khi họ thực hiện các giao dịch của mình.
 
 # Tốc độ phản hồi và khả năng mở rộng của Steem
 
