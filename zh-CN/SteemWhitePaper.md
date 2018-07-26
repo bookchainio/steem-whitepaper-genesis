@@ -595,9 +595,9 @@ Steem网络的最初货币供应量为0，且通过工作量证明来分配STEEM
 
 像STEEM这样的数字商品的价格，由供应和需求双方共同推动。 如果新的STEEM倍分配给了那些会长期持有它的人，那么供应量的增长会被长期持有的需求所抵消。 这种来自于供应量变化的影响会被推迟到一个未来的时间，也就是当那些长期持有者决定要出售STEEM的时候。 销售的压力会分布到2年内。
 
-当长期持有者决定要退出时，市场中STEEM的供应量会增加，从而导致STEEM的价格下降。 This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. We can therefore conclude that the price will mostly be impacted by a change in demand for holding STEEM long-term.
+当长期持有者决定要退出时，市场中STEEM的供应量会增加，从而导致STEEM的价格下降。 当新的长期持有者决定要购买STEEM并将其转换为SP时，这种下行压力就会倍抵消。 因此我们可以做出结论，影响价格的最主要因素是，长期持有STEEM的需求变化。
 
-Of the 100% annual increase in the virtual STEEM supply, 5% of it is in the form of Steem Dollars (SMD). SMD represents a commitment to create a dollar's worth of STEEM in the future and does not impact the amount of STEEM on the market today. The change in debt-to-ownership ratio may impact the perceived value of STEEM, but it does not map directly into a fall in the value of STEEM. If the value of Steem rises over time, then the amount of STEEM that may be created in the future will be less and the corresponding "inflation" never actually happened.
+在虚拟STEEM供应中的100%的年增长率中，其中的5%是Steem Dollars (SMD)。 SMD代表了对在未来创建价值一美元STEEM的承诺，且不会影响当前市场的STEEM总量。 The change in debt-to-ownership ratio may impact the perceived value of STEEM, but it does not map directly into a fall in the value of STEEM. If the value of Steem rises over time, then the amount of STEEM that may be created in the future will be less and the corresponding "inflation" never actually happened.
 
 All told the total "spending" Steem does to fund content, curation, mining, and liquidity rewards amounts to just 10% APR or 1.2% per month. The same wealth transfer could be implemented without any change in the STEEM supply by implementing a negative interest rate on liquid STEEM of around 10% per month. Stated another way, it could be implemented by charging a 3% fee (similar to credit cards) on every transfer and having 1% of all STEEM transferred every single day. The Bitcoin network transfers[^19] 400,000 BTC out of 15.5M (or 2.5% daily).
 
