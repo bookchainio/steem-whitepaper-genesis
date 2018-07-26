@@ -622,9 +622,9 @@ All rounding errors will be in favor of the network. Every balance may lose up t
 
 # قوة ستيم (Steem)
 
-يقر ستيم بأن قيمة جميع مساهمات المستخدمين (المشاركات والأصوات) أكبر من مجموع الأجزاء. تعليق واحد لا يساوي أي شيء، ولكن الملايين من المشاركات النشطة تساوي ملايين عديدة (أو ربما حتى المليارات) من الدولارات. تصويت واحد يوفر قيمة تفاعل ضئيلة، ولكن مليارات الأصوات توفر تفاعل ونشاط فعال جداً. المحتوى بدون تفاعل هو ذو قيمة محدودة. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+يقر ستيم بأن قيمة جميع مساهمات المستخدمين (المشاركات والأصوات) أكبر من مجموع الأجزاء. تعليق واحد لا يساوي أي شيء، ولكن الملايين من المشاركات النشطة تساوي ملايين عديدة (أو ربما حتى المليارات) من الدولارات. تصويت واحد يوفر قيمة تفاعل ضئيلة، ولكن مليارات الأصوات توفر تفاعل ونشاط فعال جداً. المحتوى بدون تفاعل هو ذو قيمة محدودة. بالنظر إلى جميع محتويات الإنترنت ناقصًا الروابط بينها ، ستكافح غوغل لإنتاج نتائج بحث مفيدة. إنها الروابط بين المعلومات التي تعطيها قيمة كبيرة.
 
-Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don't.
+لأن الجميع يستفيد، يجب على الجميع الدفع. وبعبارة أخرى، لا ينبغي أن يتوقع من أي مستخدم فردي أن يدفع ثمن أي شيء، ولكن بدلا من ذلك يجب أن يُدفع له على كل شيءٍ يفعله ويجلب قيمة لستيم. كل ما علينا القيام به هو التأكد من أيٍّ من مساهمات المستخدم تجلب قيمة للشبكة الاجتماعية وأيها لا تفعل.
 
 Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^21] and $4 billion[^22] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year's worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
 
