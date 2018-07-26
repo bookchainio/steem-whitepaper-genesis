@@ -676,9 +676,9 @@ Another way that people can liquidate the small amounts of cryptocurrency they r
 
 Steem هي شبكة لا مركزية يديرها معدنين عبر سلطة قضائية حول العالم. يتم تسجيل جميع إجراأت المستخدم علنًا على سلسلة الكتل ، ويمكن التحقق منها بشكل علني. هذا يعني أنه لا يوجد كيان واحد يمكنه مراقبة المحتوى الذي يتم تقييمه بواسطة حملة STEEM.
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+قد تقوم المواقع الإلكترونية الفردية مثل steemit.com بمراقبة المحتوى على موقعها الخاص ، ولكن المحتوى المنشور على سلسلة الكتل هو في جوهره بث لحركة المرور ومرايا في جميع أنحاء العالم مما قد يستمر في جعله متاحاً.
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+حرية التعبير هي أساس جميع الحريات الأخرى، وأي انتهاك لحرية التعبير يقوض الوسيلة السلمية الوحيدة للتوصل إلى توافق في الآراء: الحوار. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
 
 ## Solving Organic Discovery via Search Engine Optimization
 
