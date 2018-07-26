@@ -587,7 +587,7 @@ Steem网络的最初货币供应量为0，且通过工作量证明来分配STEEM
 
 乍一看，STEEM每年增发100%貌似是过度通胀且不可持续的。 那些遵循货币数量理论[^16]的人甚至会做出结论，认为STEEM的价值大约每月下降5.6%。 从无数的现实世界例子中，我们知道，尽管货币数量理论有其用武之地，但是货币的数量并不直接对其价值产生直接和即刻的影响。
 
-因为创建的STEEM中有90%会被分配给SP的持有者，其导致的结果就类似于每年2：1进行 “分裂”，而不是真正的通胀。 The total rate of expenditures used to reward contributors is about 10% of the market capitalization per year, a rate well below what Bitcoin sustained for the first 7 years after it launched.
+因为创建的STEEM中有90%会被分配给SP的持有者，其导致的结果就类似于每年2：1进行 “分裂”，而不是真正的通胀。 用于奖励贡献者的总支出大约是每年市值的10%，这个比率远远低于比特币最初发行后7年内的水平。
 
 Creating new STEEM to pay an incentive to a particular user or group has a negative effect on every other user's balance in terms of their percentage of the STEEM supply. If exactly 90% of the STEEM supply is held in SP, then the negative effect of Contribution Incentives on SP holders' balances is exactly balanced by the positive effect of Power Incentives; SP holders get more STEEM (in nominal terms) but their percentage of the chain (in terms of fraction of the total supply) is unchanged. If less (more) than 90% of the STEEM supply is held as SP, the two effects still point in opposite directions, but the positive (negative) effect becomes greater and the sum of these two effects will tend to pull the SP balance toward 90%. This "pull" does not mean that the SP value must hold at 90% over the long term, because incentive recipients will (and in some cases must) put their STEEM in SP, which means the "pull" towards 90% is not the only force on the percentage of STEEM supply held as SP.
 
