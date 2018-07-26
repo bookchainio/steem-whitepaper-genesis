@@ -646,9 +646,9 @@ Under Steem, micropayments are paid to content producer, but those who vote for 
 
 Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
 
-## Value is in the Links
+## القيمة في الروابط
 
-The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+ستفقد الإنترنت الغالبية العظمى من قيمتها إذا تمت إزالة جميع الروابط من المحتوى. إنها العلاقة بين صفحات الويب التي تسمح ل غوغل بتحديد أفضل وصفة فطيرة تفاح بين 16 مليون نتيجة. وبدون الروابط، ستكون المعلومات الوحيدة التي يوفرها غوغل هي تكرار الكلمات.
 
 Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a link between themselves and the content. This in turn links the consumer to the producer through the content. The more links a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
 
@@ -660,7 +660,7 @@ By incentivising curation the Steem network is able to use automated algorithms 
 
 ليس من السهل الوصول إلى العملات المشفرة[^24] . شخص ما يكتشف بيتكوين ويريد أن يجربه بسرعة سيجد أنه بحاجة إلى الاشتراك في منصة تبادل وتمويل حسابه ببطاقة إئتمان أو حوالة مصرفية. كيف سيكون معدل اعتماد فيسبوك اذا كان عليك التفريق بين المال ونوعين من البطائق التعريفية؟
 
-Steem يحل هذه المشكلة عن طريق إعطاء الجميع وسيلة للحصول على أموال بالقيام بمهام بسيطة، ولكنها ذات قيمة،. وهذا سيساعد على توزيع عملات ستيم (STEEM) على نطاق واسع. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless).
+Steem يحل هذه المشكلة عن طريق إعطاء الجميع وسيلة للحصول على أموال بالقيام بمهام بسيطة، ولكنها ذات قيمة،. وهذا سيساعد على توزيع عملات ستيم (STEEM) على نطاق واسع. وهذا مفيد لأن العملات المشفرة لها تأثير على الشبكة (أي أن المزيد من المستخدمين يجعلونها أكثر فائدة، على سبيل المثال، إذا إحتفض ساتوشي بـ 100٪ من بيتكوين لنفسه، بيتكوين سيكون بدون قيمة.).
 
 ## حل مشكلة السيولة في العملات المشفرة
 
