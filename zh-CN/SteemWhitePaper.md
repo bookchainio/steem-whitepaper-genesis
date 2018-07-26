@@ -591,11 +591,11 @@ Steem网络的最初货币供应量为0，且通过工作量证明来分配STEEM
 
 创建新的STEEM来支付一个特定的用户或组，会对其他所有用户的余额在STEEM总量中所占比例产生负面影响。 如果STEEM总量中正好有90%以SP方式被持有，那么贡献奖励对SP持有者余额的负面影响正好可以被能量奖励的正面效果所抵消；SP持有者获得更多的STEEM (名义上的)，但他们在链中的百分比 (按总供应量的百分比计算) 没有改变。 如果STEEM总供应量中低于90%被以SP方式持有，这两个影响会指向相反方向，但正面 (负面) 影响会变得更大，而这两种影响会趋于把STEEM中SP的百分比拉近到90%。 这个“拉动”并不意味着SP的值在长期内必须保持在90%，因为获得奖励的人会 (在有些情况下必须) 把他们的STEEM转换成SP，这就意味着 “拉动”效应并非是影响SP占STEEM供应百分比的唯一推手。
 
-从2008年8月到2009年1月期间，美国的货币供应量[^17]由8,710亿美元增长到17,370亿美元，这其实是每年100%的增长率，同时在接下来的6年中，美元每年持续增长20%。 All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index [^18] . This real-world example demonstrates that supply is only one component of price.
+从2008年8月到2009年1月期间，美国的货币供应量[^17]由8,710亿美元增长到17,370亿美元，这其实是每年100%的增长率，同时在接下来的6年中，美元每年持续增长20%。 众所周知，美国货币的供应量在7年内增长了4.59倍。 与此同时，根据政府价格指数[^18]，针对货物和服务，美元的价值下降了不到10%。 现实世界中的例子说明了，供应量只是影响价格的因素之一。
 
-The price of a digital commodity, like STEEM, is driven by both supply and demand. If new STEEM is allocated to those who are holding long-term then the increase in supply is offset by the corresponding demand to hold. The impact of this change in supply is postponed until a future date when the long-term holder decides to sell. The sell pressure is then distributed over 2 years.
+像STEEM这样的数字商品的价格，由供应和需求双方共同推动。 如果新的STEEM倍分配给了那些会长期持有它的人，那么供应量的增长会被长期持有的需求所抵消。 这种来自于供应量变化的影响会被推迟到一个未来的时间，也就是当那些长期持有者决定要出售STEEM的时候。 销售的压力会分布到2年内。
 
-When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. We can therefore conclude that the price will mostly be impacted by a change in demand for holding STEEM long-term.
+当长期持有者决定要退出时，市场中STEEM的供应量会增加，从而导致STEEM的价格下降。 This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. We can therefore conclude that the price will mostly be impacted by a change in demand for holding STEEM long-term.
 
 Of the 100% annual increase in the virtual STEEM supply, 5% of it is in the form of Steem Dollars (SMD). SMD represents a commitment to create a dollar's worth of STEEM in the future and does not impact the amount of STEEM on the market today. The change in debt-to-ownership ratio may impact the perceived value of STEEM, but it does not map directly into a fall in the value of STEEM. If the value of Steem rises over time, then the amount of STEEM that may be created in the future will be less and the corresponding "inflation" never actually happened.
 
