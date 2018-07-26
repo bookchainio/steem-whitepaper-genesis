@@ -650,11 +650,11 @@ Furthemore, Steem pays people to figure out who should be paid! This kind of thi
 
 ستفقد الإنترنت الغالبية العظمى من قيمتها إذا تمت إزالة جميع الروابط من المحتوى. إنها العلاقة بين صفحات الويب التي تسمح ل غوغل بتحديد أفضل وصفة فطيرة تفاح بين 16 مليون نتيجة. وبدون الروابط، ستكون المعلومات الوحيدة التي يوفرها غوغل هي تكرار الكلمات.
 
-Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a link between themselves and the content. This in turn links the consumer to the producer through the content. The more links a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+الروابط يمكن أن تتخذ أشكالاً عديدة، وقد تأقلمت مع مرور الوقت. في كل مرة يصوت المستخدم على المحتوى في شبكة اجتماعية يضيفون رابطاً بين أنفسهم والمحتوى. وهذا بدوره يربط المستهلك بالمنتج من خلال المحتوى. كلما كان للشبكة مزيد من الروابط ، كلما اصبحت المعلومات اكثر قيمة. إنه الترابط النسبي والمتعمد للمعلومات الذي يعطيها قيمتها.
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of links. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and link to new content.
+يمكن للشبكة الاجتماعية أن تضاعف القيمة المستخرجة من مجموعة من المحتوى عن طريق زيادة كمية الروابط وجودتها. التفاعل وتقييم المحتوى مكلف ويستغرق وقتا طويلا في حين أنه من شبه المستحيل لأجهزة الكمبيوتر العمل في غياب الروابط. تكافئ Steem المستخدمين الذين هم من بين أول من يبحث عن محتوى جديد ويقومون بربطه.
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+من خلال تحفيز التفاعل شبكة ستيم قادرة على استخدام خوارزميات ألية لاستخراج المعلومات الأكثر قيمة من كمية هائلة من المحتوى.
 
 ## حل مشكلة تأهيل العملات المشفرة
 
