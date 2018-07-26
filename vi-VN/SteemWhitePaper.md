@@ -534,7 +534,7 @@ Nói cách khác, phí giao dịch phải bằng mức dư tối thiểu sau khi
 
 Về mặt lý thuyết, một thị trường được hình thành để tạo điều kiện cho khách hàng có thể vay cổ phần cần thiết. Nhưng thực tế, để đạt được hiệu quả tối ưu trong việc có được tốc độ sử dụng như mong muốn, người sử dụng chỉ cần mua và bán các timeshare cần thiết. Nói cách khác, để phù hợp với mức sử dụng tối đa hàng tuần của bạn, bạn nên sử dụng chi phí để thương lượng các khoản vay vi mô hơn là duy trì balance cần thiết.
 
-Các loại ứng dụng phi tập trung mới có thể sẽ không khả thi khi áp dụng việc hạn chế tỷ lệ phân cấp trong các giao dịch vì mỗi lần sử dụng đều yêu cầu thanh toán vi mô. Mô hình mới này tạo điều kiện cho cho những nhà phát triển ứng dụng có khả năng đưa ra quyết định thời điểm nào sẽ tính phí người dùng khi họ thực hiện các giao dịch của mình.
+Các loại ứng dụng phi tập trung mới có thể sẽ không khả thi khi áp dụng việc hạn chế tỷ lệ phân cấp trong các giao dịch vì mỗi lần sử dụng đều yêu cầu thanh toán vi mô. Mô hình mới này tạo điều kiện cho những nhà phát triển ứng dụng có khả năng đưa ra quyết định thời điểm nào sẽ tính phí người dùng khi họ thực hiện các giao dịch của mình.
 
 # Tốc độ phản hồi và khả năng mở rộng của Steem
 
