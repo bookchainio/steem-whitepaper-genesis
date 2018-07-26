@@ -656,7 +656,7 @@ A social network can maximize the value extracted from a set of content by maxim
 
 By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
 
-## Solving the Cryptocurrency Onboarding Problem
+## حل مشكلة تأهيل العملات المشفرة
 
 It isn't easy to get into cryptocurrency[^24] . Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook's adoption rate have been like if you had to fork over money and a two forms of ID?
 
@@ -664,7 +664,7 @@ Steem solves this problem by giving everyone a way to get paid for doing simple,
 
 ## حل مشكلة السيولة في العملات المشفرة
 
-العملة التي يصعب استخدامها أو من المستحيل بيعها لها قيمة صغيرة. سوف يكتشف الشخص الذي يجد ان سعر بيتكوين هو 1 دولار، أن تكلفة بيعه ستتجاوز 1 دولار. يجب عليهم إنشاء حساب في منصة تبادل ، وإجراء عملية التحقق المُسَمَّاة ب اعرف زبونك (KYC) ، ودفع الرسوم. كميات صغيرة من العملات المشفرة هي مثل قطع نقدية صغيرة على الأرض لا يريد الناس الإنحناء لإلتقاطها.
+العملة التي يصعب استخدامها أو من المستحيل بيعها لها قيمة صغيرة. أي شخص لديه بيتكوين بقيمة 1 دولار، سيجد أنه بحاجة لأكثر من 1 دولار لبيعه. يجب عليهم إنشاء حساب في منصة تبادل ، وإجراء عملية التحقق المُسَمَّاة ب اعرف زبونك (KYC) ، ودفع الرسوم. كميات صغيرة من العملات المشفرة هي مثل قطع نقدية صغيرة على الأرض لا يريد الناس الإنحناء لإلتقاطها.
 
 يمنح التجار المستخدمين طريقة لتحويل عملاتهم المشفرة بسرعة إلى سلع وخدمات ملموسة. يحتاج التجار إلى عملة مربوطة بوحدة الحساب الخاص بهم ، والتي تكون عادةً بالدولار. قبول عملة متقلبة يؤدي إلى تكاليف محاسبة كبيرة.
 
