@@ -668,9 +668,9 @@ Steem solves this problem by giving everyone a way to get paid for doing simple,
 
 يمنح التجار المستخدمين طريقة لتحويل عملاتهم المشفرة بسرعة إلى سلع وخدمات ملموسة. يحتاج التجار إلى عملة مربوطة بوحدة الحساب الخاص بهم ، والتي تكون عادةً بالدولار. قبول عملة متقلبة يؤدي إلى تكاليف محاسبة كبيرة.
 
-سيقبل التجار أي عملة إذا كانت ستزيد من مبيعاتهم. يؤدي وجود قاعدة كبيرة من المستخدمين بعملة مستقرة مثل SMD إلى تقليل العائق أمام دخول التجار. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+سيقبل التجار أي عملة إذا كانت ستزيد من مبيعاتهم. يؤدي وجود قاعدة كبيرة من المستخدمين بعملة مستقرة مثل SMD إلى تقليل العائق أمام دخول التجار. يحسن وجود التجار النظام عن طريق إنشاء نظام خروج للمستخدمين دون الاضطرار إلى الدخول في مشاكل استخدام منصات التبادل.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through tipping others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+هناك طريقة أخرى يمكن للناس استخدامها للتخلص من الكميات الصغيرة للعملات المشفرة التي يتلقونها عبر المشاركة في منصة ستيم (Steem) وهي عبر منح بقشيش لأشخاص أخرين. هذا مثل ترك العملات الصغيرة كبقشيش للنادل. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
 
 ## الرقابة
 
