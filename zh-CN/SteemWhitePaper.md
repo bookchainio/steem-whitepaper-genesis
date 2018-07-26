@@ -583,9 +583,9 @@ Steem网络的最初货币供应量为0，且通过工作量证明来分配STEEM
 
 整体供应情况因SMD的操作而变得复杂，正如在SMD章节讨论的，这会通过喂价率的追随和SMD奖励，导致大规模的创建或销毁STEEM。 另外，小规模的复杂效应同样存在，包括未认领的奖励 (例如：对错过区块的奖励)，在工作量证明中由于矿工的运气而产生的干扰，还有由于网络总哈希值的变化而导致的矿工队列长度变化。
 
-## Impact of Token Creation Rate
+## 代币生成率的影响
 
-At first glance, 100% annual increase in the STEEM supply may appear to be hyper-inflationary and unsustainable. Those who follow the Quantity Theory of Money[^16] may even conclude that the value of STEEM must fall by approximately 5.6% per month. We know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+乍一看，STEEM每年增发100%貌似是过度通胀且不可持续的。 Those who follow the Quantity Theory of Money[^16] may even conclude that the value of STEEM must fall by approximately 5.6% per month. We know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
 
 Because 90% of all STEEM created is distributed back to holders of SP, the result is similar to having a 2:1 "split" every year rather true inflation. The total rate of expenditures used to reward contributors is about 10% of the market capitalization per year, a rate well below what Bitcoin sustained for the first 7 years after it launched.
 
