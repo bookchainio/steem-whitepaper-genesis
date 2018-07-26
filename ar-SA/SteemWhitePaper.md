@@ -674,7 +674,7 @@ Another way that people can liquidate the small amounts of cryptocurrency they r
 
 ## الرقابة
 
-Steem is a decentralized network that is operated by miners in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem هي شبكة لا مركزية يديرها معدنين عبر سلطة قضائية حول العالم. يتم تسجيل جميع إجراأت المستخدم علنًا على سلسلة الكتل ، ويمكن التحقق منها بشكل علني. هذا يعني أنه لا يوجد كيان واحد يمكنه مراقبة المحتوى الذي يتم تقييمه بواسطة حملة STEEM.
 
 Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
 
