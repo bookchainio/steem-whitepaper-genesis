@@ -666,9 +666,9 @@ Steem solves this problem by giving everyone a way to get paid for doing simple,
 
 العملة التي يصعب استخدامها أو من المستحيل بيعها لها قيمة صغيرة. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. يجب عليهم إنشاء حساب في منصة تبادل ، وإجراء عملية التحقق المُسَمَّاة ب اعرف زبونك (KYC) ، ودفع الرسوم. كميات صغيرة من العملات المشفرة هي مثل قطع نقدية صغيرة على الأرض لا يريد الناس الإنحناء لإلتقاطها.
 
-يمنح التجار المستخدمين طريقة لتحويل عملاتهم المشفرة بسرعة إلى سلع وخدمات ملموسة. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+يمنح التجار المستخدمين طريقة لتحويل عملاتهم المشفرة بسرعة إلى سلع وخدمات ملموسة. يحتاج التجار إلى عملة مربوطة بوحدة الحساب الخاص بهم ، والتي تكون عادةً بالدولار. قبول عملة متقلبة يؤدي إلى تكاليف محاسبة كبيرة.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SMD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+سيقبل التجار أي عملة إذا كانت ستزيد من مبيعاتهم. يؤدي وجود قاعدة كبيرة من المستخدمين بعملة مستقرة مثل SMD إلى تقليل العائق أمام دخول التجار. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
 
 Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through tipping others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
 
