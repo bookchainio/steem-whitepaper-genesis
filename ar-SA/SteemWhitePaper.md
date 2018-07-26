@@ -658,9 +658,9 @@ By incentivising curation the Steem network is able to use automated algorithms 
 
 ## حل مشكلة تأهيل العملات المشفرة
 
-It isn't easy to get into cryptocurrency[^24] . Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook's adoption rate have been like if you had to fork over money and a two forms of ID?
+ليس من السهل الوصول إلى العملات المشفرة[^24] . شخص ما يكتشف بيتكوين ويريد أن يجربه بسرعة سيجد أنه بحاجة إلى الاشتراك في منصة تبادل وتمويل حسابه ببطاقة إئتمان أو حوالة مصرفية. كيف سيكون معدل اعتماد فيسبوك اذا كان عليك التفريق بين المال ونوعين من البطائق التعريفية؟
 
-Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless).
+Steem يحل هذه المشكلة عن طريق إعطاء الجميع وسيلة للحصول على أموال بالقيام بمهام بسيطة، ولكنها ذات قيمة،. وهذا سيساعد على توزيع عملات ستيم (STEEM) على نطاق واسع. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless).
 
 ## حل مشكلة السيولة في العملات المشفرة
 
