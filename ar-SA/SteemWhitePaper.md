@@ -678,7 +678,7 @@ Steem هي شبكة لا مركزية يديرها معدنين عبر سلطة 
 
 قد تقوم المواقع الإلكترونية الفردية مثل steemit.com بمراقبة المحتوى على موقعها الخاص ، ولكن المحتوى المنشور على سلسلة الكتل هو في جوهره بث لحركة المرور ومرايا في جميع أنحاء العالم مما قد يستمر في جعله متاحاً.
 
-حرية التعبير هي أساس جميع الحريات الأخرى، وأي انتهاك لحرية التعبير يقوض الوسيلة السلمية الوحيدة للتوصل إلى توافق في الآراء: الحوار. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+حرية التعبير هي أساس جميع الحريات الأخرى، وأي انتهاك لحرية التعبير يقوض الوسيلة السلمية الوحيدة للتوصل إلى توافق في الآراء: الحوار. وبدون نقاش حر، لا يمكن أن يكون الناخبون على اطلاع تام، والناخبين غير المطلعين يشكلون تهديدا أكبر للمجتمع من فقدان حق التصويت. الرقابة وسيلة لسرقة الأصوات من خلال الحد من الخطاب العام. Steem ملتزمة بتمكين حرية التعبير وبناء مجتمع حر.
 
 ## Solving Organic Discovery via Search Engine Optimization
 
