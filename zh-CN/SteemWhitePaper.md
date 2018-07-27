@@ -613,7 +613,7 @@ Steem网络的最初货币供应量为0，且通过工作量证明来分配STEEM
 
 STEEM供应量的增加主要是作为一种会计因素，来避免针对可流动STEEM收取负利率。 负利率会给交易所带来麻烦，其原因在于，交易所必须针对用户持有STEEM的负利率而调整用户余额。 将区块链的逻辑原样照搬会容易出错，且将集成和应用的过程复杂化。 因此，STEEM的选择就是，从不对用户账户收费，而是增加供应量。 由此就实现了类似的经济效果，而不用强迫每个人在内部账簿中接受STEEM存款来实现负利率。
 
-增加供应量的一个负面效果就是，网络会要求其记账系统的精确度不断提高。 平均而言，来表述一个普通账户所要求的位数会每年增长1.3。 只需要10年的时间，该数字就不再适合JavaScript所支持的53位精度，或者CPU所支持的64位精度。 随着时间的推移，所涉及到的数字就会超出人类所能理解的规模和范围；此外，最低有效位在经济上变得几乎没有什么价值，以至于它们变得毫无意义。
+增加供应量的一个负面效果就是，网络会要求其记账系统的精确度不断提高。 平均而论，表述一个普通账户所要求的位数会每年增长1.3。 只需要10年的时间，该数字就超出了JavaScript所支持的53位精度，或者CPU所支持的64位精度。 随着时间的推移，所涉及到的数字就会超出人类所能理解的规模和范围；此外，最低有效位在经济上变得几乎没有什么价值，以至于它们变得毫无意义。
 
 In order to compensate for the ever increasing precision, the STEEM network performs a 10:1 "reverse split" every 32,000,000 blocks (about 3 years). At this point in time all balances of STEEM are divided by 10 and all prices are multiplied by 10. Cryptocurrency exchanges will have to suspend trading around this time and update the account balances and price history to reflect the "reverse split" before resuming trading.
 
