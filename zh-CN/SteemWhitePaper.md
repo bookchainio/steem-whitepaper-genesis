@@ -607,9 +607,9 @@ Steem网络的最初货币供应量为0，且通过工作量证明来分配STEEM
 
 截至到2016年5月1日，超过98.49%的STEEM被转换为SP。 这展示了长期持有STEEM的需求占据主导地位。 在这个环境下，流动性STEEM和SP均被稀释，来为奖励提供资金。
 
-在比特币网络的最初两年，其年通胀率[^20]超过100%。 在最初5年，其年通胀率超过30%，在最初8年，其年通胀率超过10%。 According to the tool for estimating future inflation included with the Steem source code, Steem by contrast will achieve an instantaneous annual rate of approximately 12% after just 1 year (not including the effects of SMD operations).
+在比特币网络的最初两年，其年通胀率[^20]超过100%。 在最初5年，其年通胀率超过30%，在最初8年，其年通胀率超过10%。 根据Steem源代码中包含的未来通胀的估算工具，Steem在一年之后 (不考虑SMD操作产生的影响)，就能达到12%的瞬间年利率。
 
-### Accounting In Steem
+### Steem中的记账
 
 The increase in the supply of STEEM is mostly an accounting artifact created by the desire to avoid charging negative interest rates on liquid STEEM. Negative interest rates would complicate the lives of exchanges which would have to adjust user balances to account for the negative rate of return of STEEM held on deposit. Mirroring the blockchain logic exactly would be error prone and complicate integration and adoption. Therefore, STEEM has chosen to never charge someone's account, but instead to increase supply. This achieves a similar economic result without forcing everyone accepting STEEM deposits to implement negative interest rates on their internal ledger.
 
