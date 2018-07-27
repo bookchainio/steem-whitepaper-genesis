@@ -628,11 +628,11 @@ All rounding errors will be in favor of the network. Every balance may lose up t
 
 جماعيا مستخدمي رديت يصوتون 220 مرة في الثانية الواحدة وينشؤون 23 مشاركة في الثانية الواحدة. وتقدر قيمة رديت بين 500 مليون دولار [^21] و 4 مليارات دولار [^22] مما يعني أن كل من التصويت والمشاركات يستحقان ما بين 0.06 و 0.50 دولار على افتراض أن قيمة رديت كانت غالباً في الماضي هي قيمة النشاط. ويمكن للمرء أن يجادل بأن معظم قيمة رديت هي النقاشات شبه الحقيقية التي وقعت خلال الأسبوع الماضي والتي من شأنها أن تزيد بشكل كبير من قيمة النشاط الجديد. يذهب الناس إلى الأماكن اللتي يوجد فيها الناس اليوم، وليس إلى الأماكن اللتي كان فيها الناس السنة الماضية.
 
-## No Micropayments, Tips Optional
+## لا دفعات صغيرة، إكراميات اختيارية
 
 وقد ركزت المحاولات الحالية لدمج أي عملة مشفرة في منصات التواصل الاجتماعي على تمكين المستخدمين من الدفع لبعضهم البعض. حاولت العديد من الخدمات تقديم إمكانية إعطاء الإكراميات (البقشيش). النظرية هي أنه إذا جعلنا الإكراميات أكثر بساطة ، فسيقوم المزيد من الناس باستخدامها. تحاول خدمات أخرى دَفْعَ الناس إلى الدَّفع للترويج أو تعزيز تصنيف محتوياتهم. ولا يزال البعض يحاولون بناء أسواق صغيرة للتنبؤ بعدد الإكراميات التي ستتلقاها المقالة.
 
-All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone's actions so everyone should pay or no one should pay, depending on how you look at it.
+كل هذه الأساليب تقتصر على المدفوعات الصغيرة. هم يختلفون فقط في الجهة التي تقوم بالدفع. كلهم يعانون من عدم التفاعل الكافي من قبل الناس الذين يقومون باستخدام الدفعات الصغيرة (micropayments). In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone's actions so everyone should pay or no one should pay, depending on how you look at it.
 
 Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
 
