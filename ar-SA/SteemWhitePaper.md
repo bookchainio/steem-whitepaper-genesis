@@ -462,9 +462,9 @@ All of the above estimates are conservative upper bounds assuming coins and usag
 
 Blockchain capacity isn't necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second. This changes our conservative upper bound to 0.0006 BTC or about $0.25, meaning that an account holding $0.25 would be able to transact at least once per week on average (and likely many more times because we're dealing with a fairly loose upper bound).
 
-#### Maximum Number of Unique Users
+#### الحد الأقصى لعدد المستخدمين الفريدين
 
-We can use similar math to calculate the maximum number of unique users that the network can allow to transact once per week as: B\*W/T. T represents the average transaction size. This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
+يمكننا استخدام رياضيات مشابهة لحساب الحد الأقصى لعدد المستخدمين الفريدين الذين يمكن ان تسمح لهم الشبكة بإجراء معاملات مرة واحدة في الأسبوع على النحو التالي: B\*W/T. T تمثل متوسط حجم المعاملة. This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
 
 #### Comparison to Fees
 
@@ -612,7 +612,7 @@ For the first 2 years of Bitcoin's life the network sustained an annual inflatio
 
 ### المحاسبة في ستيم (Steem)
 
-الزيادة في احتياطي ستيم (STEEM) هي في الغالب قطعة حسابية تم إنشاؤها بواسطة الرغبة في تجنب فرض أسعار فائدة سلبية على STEEM المتاح. ومن شأن أسعار الفائدة السلبية أن تعقد حياة منصات التبادل التي يتعين عليها تعديل أرصدة المستخدمين لمراعاة المعدل السلبي لعائد STEEM المحتفظ به كوديعة. Mirroring the blockchain logic exactly would be error prone and complicate integration and adoption. Therefore, STEEM has chosen to never charge someone's account, but instead to increase supply. This achieves a similar economic result without forcing everyone accepting STEEM deposits to implement negative interest rates on their internal ledger.
+الزيادة في احتياطي ستيم (STEEM) هي في الغالب قطعة حسابية تم إنشاؤها بواسطة الرغبة في تجنب فرض أسعار فائدة سلبية على STEEM المتاح. ومن شأن أسعار الفائدة السلبية أن تعقد حياة منصات التبادل التي يتعين عليها تعديل أرصدة المستخدمين لمراعاة المعدل السلبي لعائد STEEM المحتفظ به كوديعة. نسخ منطق سلسلة الكتل سيكون عرضة للخطأ ويعقد عملية الدمج والتبني. Therefore, STEEM has chosen to never charge someone's account, but instead to increase supply. This achieves a similar economic result without forcing everyone accepting STEEM deposits to implement negative interest rates on their internal ledger.
 
 A side effect of increasing the supply is that the network will require ever increasing levels of precision in its accounting. On average the number of bits required to represent a typical account will grow by 1.3 per year. It will only take 10 years before numbers involved no longer fit within the 53 bit precision supported by JavaScript or the 64 bit precision supported by CPUs. Over time the magnitude of the numbers involved grows beyond human scale and comprehension; furthermore, the least significant bits have so little economic value as to render them meaningless.
 
@@ -624,7 +624,7 @@ All rounding errors will be in favor of the network. Every balance may lose up t
 
 يقر ستيم بأن قيمة جميع مساهمات المستخدمين (المشاركات والأصوات) أكبر من مجموع الأجزاء. تعليق واحد لا يساوي أي شيء، ولكن الملايين من المشاركات النشطة تساوي ملايين عديدة (أو ربما حتى المليارات) من الدولارات. تصويت واحد يوفر قيمة تفاعل ضئيلة، ولكن مليارات الأصوات توفر تفاعل ونشاط فعال جداً. المحتوى بدون تفاعل هو ذو قيمة محدودة. بالنظر إلى جميع محتويات الإنترنت ناقصًا الروابط بينها ، ستكافح غوغل لإنتاج نتائج بحث مفيدة. إنها الروابط بين المعلومات التي تعطيها قيمة كبيرة.
 
-لأن الجميع يستفيد، يجب على الجميع الدفع. وبعبارة أخرى، لا ينبغي أن يتوقع من أي مستخدم فردي أن يدفع ثمن أي شيء، ولكن بدلا من ذلك يجب أن يُدفع له على كل شيءٍ يفعله ويجلب قيمة لستيم. كل ما علينا القيام به هو التأكد من مساهمات المستخدم التي تجلب قيمة للشبكة الاجتماعية وأيها لا تفعل.
+لأن الجميع يستفيد، يجب على الجميع الدفع. وبعبارة أخرى، لا ينبغي أن يتوقع من أي مستخدم أن يدفع ثمن أي شيء، ولكن بدلا من ذلك يجب أن يُدفع له على كل شيءٍ يفعله ويجلب قيمة لستيم. كل ما علينا القيام به هو التأكد من مساهمات المستخدم التي تجلب قيمة للشبكة الاجتماعية والمساهمات التي لا تفعل ذلك.
 
 جماعيا مستخدمي رديت يصوتون 220 مرة في الثانية الواحدة وينشؤون 23 مشاركة في الثانية الواحدة. وتقدر قيمة رديت بين 500 مليون دولار [^21] و 4 مليارات دولار [^22] مما يعني أن كل من التصويت والمشاركات يستحقان ما بين 0.06 و 0.50 دولار على افتراض أن قيمة رديت كانت غالباً في الماضي هي قيمة النشاط. ويمكن للمرء أن يجادل بأن معظم قيمة رديت هي النقاشات شبه الحقيقية التي وقعت خلال الأسبوع الماضي والتي من شأنها أن تزيد بشكل كبير من قيمة النشاط الجديد. يذهب الناس إلى الأماكن اللتي يوجد فيها الناس اليوم، وليس إلى الأماكن اللتي كان فيها الناس السنة الماضية.
 
