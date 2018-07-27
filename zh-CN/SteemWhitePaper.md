@@ -599,7 +599,7 @@ Steem网络的最初货币供应量为0，且通过工作量证明来分配STEEM
 
 在虚拟STEEM供应中的100%的年增长率中，其中的5%是Steem Dollars (SMD)。 SMD代表了对在未来创建价值一美元STEEM的承诺，且不会影响当前市场的STEEM总量。 债务和所有权比例的变化会影响STEEM的价值，但这并不会直接导致STEEM价值的下跌。 如果Steem的价值随着时间而上升，那么在将来创建的STEEM会更少，同时相应的“通胀”亦不会发生。
 
-众所周知，用于奖励内容、策展、挖矿，和流动性的“消耗性”的Steem只有10% APR，或者每月1.2%。 通过对可流通的STEEM上实施约每月10%的负利率，可以在不改变STEEM供应量的情况下，进行同样的财富转移。 Stated another way, it could be implemented by charging a 3% fee (similar to credit cards) on every transfer and having 1% of all STEEM transferred every single day. The Bitcoin network transfers[^19] 400,000 BTC out of 15.5M (or 2.5% daily).
+众所周知，用于奖励内容、策展、挖矿，和流动性的“消耗性”的Steem只有10% APR，或者每月1.2%。 通过对可流通的STEEM上实施约每月10%的负利率，可以在不改变STEEM供应量的情况下，进行同样的财富转移。 换种方式来说，这也可以通过对每笔转账收取3%手续费 (类似于信用卡)，以及对每天STEEM转账收取1%的费用。 比特币网络转账金额[^19]为1550万比特币中的40万 (或每天2.5%)。
 
 The purpose of liquid STEEM is to facilitate changes in ownership between long-term holders. It is this change in ownership that the network "taxes" to fund growth. This transfer tax can be avoided almost completely by automatically selling STEEM for SMD every week as the network converts SP back to STEEM. The total time spent holding STEEM will be so small that any impact of changing STEEM supply will be insigni cant next to volatility and other market fees.
 
