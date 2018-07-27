@@ -607,7 +607,7 @@ Steem网络的最初货币供应量为0，且通过工作量证明来分配STEEM
 
 截至到2016年5月1日，超过98.49%的STEEM被转换为SP。 这展示了长期持有STEEM的需求占据主导地位。 在这个环境下，流动性STEEM和SP均被稀释，来为奖励提供资金。
 
-For the first 2 years of Bitcoin's life the network sustained an annual inflation rate[^20] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. According to the tool for estimating future inflation included with the Steem source code, Steem by contrast will achieve an instantaneous annual rate of approximately 12% after just 1 year (not including the effects of SMD operations).
+在比特币网络的最初两年，其年通胀率[^20]超过100%。 在最初5年，其年通胀率超过30%，在最初8年，其年通胀率超过10%。 According to the tool for estimating future inflation included with the Steem source code, Steem by contrast will achieve an instantaneous annual rate of approximately 12% after just 1 year (not including the effects of SMD operations).
 
 ### Accounting In Steem
 
