@@ -601,7 +601,7 @@ Steem网络的最初货币供应量为0，且通过工作量证明来分配STEEM
 
 众所周知，用于奖励内容、策展、挖矿，和流动性的“消耗性”的Steem只有10% APR，或者每月1.2%。 通过对可流通的STEEM上实施约每月10%的负利率，可以在不改变STEEM供应量的情况下，进行同样的财富转移。 换种方式来说，这也可以通过对每笔转账收取3%手续费 (类似于信用卡)，以及对每天STEEM转账收取1%的费用。 比特币网络转账金额[^19]为1550万比特币中的40万 (或每天2.5%)。
 
-The purpose of liquid STEEM is to facilitate changes in ownership between long-term holders. It is this change in ownership that the network "taxes" to fund growth. This transfer tax can be avoided almost completely by automatically selling STEEM for SMD every week as the network converts SP back to STEEM. The total time spent holding STEEM will be so small that any impact of changing STEEM supply will be insigni cant next to volatility and other market fees.
+流动性STEEM的目标是促进STEEM在长期持有者之间的所有权变更。 正是这种所有权的变更，网络才得以“征税”，从而为进一步的发展注资。 由于网络会把SP转换回STEEM，通过每周自动卖出STEEM，买进SMD，这种转账税几乎可被完全避免。 The total time spent holding STEEM will be so small that any impact of changing STEEM supply will be insigni cant next to volatility and other market fees.
 
 ### Impact of Token Creation Rate Greater than Ninety-Percent
 
