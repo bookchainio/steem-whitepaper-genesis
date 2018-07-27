@@ -584,7 +584,7 @@ The overall effect of these percentage constants on allocation and supply is tha
 
 The overall supply picture is complicated by the effect of SMD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SMD rewards, as discussed in the SMD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), noise due to miner luck in proof-of-work production, and the effects of changes in the miner queue length due to a change in the network's total hashpower.
 
-## Impact of Token Creation Rate
+## تأثير معدل إنشاء العملات
 
 At first glance, 100% annual increase in the STEEM supply may appear to be hyper-inflationary and unsustainable. Those who follow the Quantity Theory of Money[^16] may even conclude that the value of STEEM must fall by approximately 5.6% per month. We know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
 
@@ -610,7 +610,7 @@ As of May 1, 2016, over 98.49% of all STEEM has been converted to SP. This demon
 
 For the first 2 years of Bitcoin's life the network sustained an annual inflation rate[^20] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. According to the tool for estimating future inflation included with the Steem source code, Steem by contrast will achieve an instantaneous annual rate of approximately 12% after just 1 year (not including the effects of SMD operations).
 
-### Accounting In Steem
+### المحاسبة في ستيم (Steem)
 
 The increase in the supply of STEEM is mostly an accounting artifact created by the desire to avoid charging negative interest rates on liquid STEEM. Negative interest rates would complicate the lives of exchanges which would have to adjust user balances to account for the negative rate of return of STEEM held on deposit. Mirroring the blockchain logic exactly would be error prone and complicate integration and adoption. Therefore, STEEM has chosen to never charge someone's account, but instead to increase supply. This achieves a similar economic result without forcing everyone accepting STEEM deposits to implement negative interest rates on their internal ledger.
 
@@ -642,9 +642,9 @@ All rounding errors will be in favor of the network. Every balance may lose up t
 > 
 > *- الدفعات المصغرة: نموذج أعمال قابل للتطبيق [^23]*
 
-ضمن ستيم (Steem)، يتم دفع الدفعات المصغرة إلى منتج المحتوى، ولكن أولئك الذين يصوتون للمحتوى لا يدفعون. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+ضمن ستيم (Steem)، يتم دفع الدفعات المصغرة إلى منتج المحتوى، ولكن أولئك الذين يصوتون للمحتوى لا يدفعون. بدلاً من ذلك، تدفع تكلفة المكافأة عن طريق العملات الجديدة. يمكن لشخص ما الانضمام إلى النظام، والتصويت للدفع لشخص ما، ومن ثم الخروج من النظام مع المزيد من المال مما كان لديه عندما بدأ (على افتراض أن تقييم السوق لنظام ستيم (Steem) ظل ثابتًا). وبعبارات أخرى، فإن حل الدفع المصغر الذي توفره ستيم (Steem) يوفر تجربة مستخدم مماثلة للعديد من المواقع التي تستخدم على نطاق واسع والتي لديها محتوى يديره المستخدم.
 
-Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+علاوة على ذلك.، ستيم (Steem) تدفع للناس لمعرفة من الذي ينبغي أن يدفع له! هذا النوع من التفكير ثوري.
 
 ## القيمة في الروابط
 
