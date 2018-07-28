@@ -602,7 +602,7 @@ The overall supply picture is complicated by the effect of SMD operations, which
 
 قال الجميع أن إجمالي "النفقات" التي تدعمها Steem لتمويل المحتوى، التفاعل، التعدين، وسيولة المكافآت تبلغ 10٪ فقط من معدل النسبة السنوية أو 1.2٪ في الشهر. من خلال تطبيق معدل فائدة سالب يبلغ حوالي 10٪ في الشهر على ستيم (STEEM) السائل (المتاح)، يمكن إجراء نفس عملية تحويل الثروة دون أي تغيير في إحتياطي ستيم (STEEM). وبطريقة أخرى، يمكن تنفيذها عن طريق فرض رسوم بنسبة 3٪ (مماثلة لبطاقات الائتمان) على كل عملية تحويل، مع وجود نسبة 1٪ من إجمالي STEEM يتم نقلها كل يوم. تقوم شبكة بيتكوين (Bitcoin) بنقل [^19] 400،000 بيتكوين (BTC) من 15.5 مليون (أو 2.5٪ يوميًا).
 
-الغرض من STEEM السائل هو تسهيل التغييرات في الملكية بين الحاملين على المدى الطويل. It is this change in ownership that the network "taxes" to fund growth. This transfer tax can be avoided almost completely by automatically selling STEEM for SMD every week as the network converts SP back to STEEM. The total time spent holding STEEM will be so small that any impact of changing STEEM supply will be insigni cant next to volatility and other market fees.
+الغرض من STEEM السائل هو تسهيل التغييرات في الملكية بين الحاملين على المدى الطويل. هذا هو التغيير في الملكية التي تقوم الشبكة بفرض "ضريبة" عليه لتمويل النمو. يمكن تجنب ضريبة النقل هذه بشكل كامل تقريبًا عن طريق بيع وتحويل STEEM لدولارات ستيم (SMD) تلقائيًا كل أسبوع حيث تقوم الشبكة بإعادة تحويل طاقة ستيم (SP) إلى STEEM. سيكون إجمالي الوقت المستغرق في حمل STEEM صغيراً للغاية بحيث أن أي تأثير لتغيير إحتياطي STEEM سيكون ضئيلاً إلى جانب التقلبات ورسوم السوق الأخرى.
 
 ### تأثير إنشاء عملات بمعدل أكبر من 90٪
 
