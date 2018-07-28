@@ -594,7 +594,7 @@ The overall supply picture is complicated by the effect of SMD operations, which
 
 في الفترة من أغسطس 2008 إلى يناير 2009 ، ارتفع الإحتياطي النقدي الأمريكي [^17] من 871 مليار دولار إلى 1،737 مليار دولار ، وهو معدل يزيد على 100٪ سنوياً ، ثم استمر في النمو بنحو 20٪ سنويًا خلال السنوات الست التي تلت ذلك. وقال الجميع أن الإحتياطي النقدي في الولايات المتحدة قد نما بنسبة x4.59 ضعفًا في أقل من 7 سنوات. وخلال ذلك الوقت ، انخفضت قيمة الدولار بالنسبة للسلع والخدمات بنسبة أقل من 10٪ وفقًا لمؤشر الأسعار الحكومي [^18]. يوضح مثال العالم الحقيقي هذا أن الإحتياطي هو مكون واحد فقط للأسعار.
 
-سعر السلع الرقمية ، مثل STEEM ، مدفوعة بكل من العرض والطلب. If new STEEM is allocated to those who are holding long-term then the increase in supply is offset by the corresponding demand to hold. يتم تأجيل تأثير هذا التغيير في الإحتياطي إلى تاريخ مستقبلي عندما يقرر الحاملون على المدى الطويل البيع. The sell pressure is then distributed over 2 years.
+سعر السلع الرقمية ، مثل STEEM ، مدفوعة بكل من العرض والطلب. If new STEEM is allocated to those who are holding long-term then the increase in supply is offset by the corresponding demand to hold. يتم تأجيل تأثير هذا التغيير في الإحتياطي إلى تاريخ مستقبلي عندما يقرر الحاملون على المدى الطويل البيع. ثم يتم توزيع ضغط البيع على مدى عامين.
 
 When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. We can therefore conclude that the price will mostly be impacted by a change in demand for holding STEEM long-term.
 
