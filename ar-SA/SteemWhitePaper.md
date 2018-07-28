@@ -618,7 +618,7 @@ For the first 2 years of Bitcoin's life the network sustained an annual inflatio
 
 من أجل التعويض عن الدقة المتزايدة ، تقوم شبكة STEEM بعمل "انقسام عكسي" 10:1 لكل 32،000،000 كتلة (حوالي 3 سنوات). في هذا الوقت يتم تقسيم جميع أرصدة STEEM على 10 وتضرب جميع الأسعار في 10. ستضطر منصات التبادل الخاصة بالعملات المشفرة إلى تعليق التداول في هذا الوقت وتحديث أرصدة الحسابات وسجلات السعر لتعكس "الانقسام العكسي" قبل استئناف التداول.
 
-All rounding errors will be in favor of the network. Every balance may lose up to 0.009 STEEM due to rounding, but this amount of STEEM should be economically insignificant. Collectively all holders of SP will lose at most 0.009 STEEM.
+جميع أخطاء التدوير (rounding) ستكون لصالح الشبكة. قد يفقد كل حساب ما يصل إلى 0.0009 STEEM بسبب التدوير ، ولكن هذا المبلغ يجب أن يكون غير مهم اقتصاديًا. Collectively all holders of SP will lose at most 0.009 STEEM.
 
 # قوة ستيم (Steem)
 
