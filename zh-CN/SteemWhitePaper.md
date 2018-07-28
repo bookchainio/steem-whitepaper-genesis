@@ -627,9 +627,9 @@ Steem认为所有用户贡献 (帖子和投票) 的价值大于其各个部分�
 
 所有Reddit用户每秒投票220次，同时每秒创造23个帖子。 Reddit被估价在5亿[^21]到40亿[^22]美元之间，这就意味着假设Reddit的价值来自于上一年中的各种用户活动，那么每个赞和帖子价值在0.06到0.50美元之间。 有人可能会质疑说Reddit的大部分价值来在于上周中类似实时的讨论，这种说的话将会大大增加新活动的价值。 人们会走到今天人们所在的位置，而不是去年人们曾经的位置。
 
-## No Micropayments, Tips Optional
+## 无微支付，可选性小费
 
-Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Many services have attempted to introduce tipping. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content's ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
+在现有的试图将加密货币和社交媒体集成到一起的尝试中，其主要关注点在于如何让用户彼此支付。 很多服务试图引入小费。 其理论依据就是，如果我们使得支付消费足够简单的话，将会有更多人使用它。 其他的服务尝试让人们通过支付费用来推广和提高他们内容的排名。 Still others attempt to build small prediction markets on how many tips an article will receive.
 
 All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone's actions so everyone should pay or no one should pay, depending on how you look at it.
 
