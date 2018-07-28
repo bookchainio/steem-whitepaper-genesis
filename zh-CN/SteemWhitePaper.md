@@ -615,7 +615,7 @@ STEEM供应量的增加主要是作为一种会计因素，来避免针对可流
 
 增加供应量的一个负面效果就是，网络会要求其记账系统的精确度不断提高。 平均而论，表述一个普通账户所要求的位数会每年增长1.3。 只需要10年的时间，该数字就超出了JavaScript所支持的53位精度，或者CPU所支持的64位精度。 随着时间的推移，所涉及到的数字就会超出人类所能理解的规模和范围；此外，最低有效位在经济上变得几乎没有什么价值，以至于它们变得毫无意义。
 
-In order to compensate for the ever increasing precision, the STEEM network performs a 10:1 "reverse split" every 32,000,000 blocks (about 3 years). At this point in time all balances of STEEM are divided by 10 and all prices are multiplied by 10. Cryptocurrency exchanges will have to suspend trading around this time and update the account balances and price history to reflect the "reverse split" before resuming trading.
+为了满足不断提高的精确度，STEEM网络对每32,000,000块 (大约3年)实施一个10:1的“反向拆分”。 在这个时候，所有STEEM余额除以10，所有价格乘以10。 Cryptocurrency exchanges will have to suspend trading around this time and update the account balances and price history to reflect the "reverse split" before resuming trading.
 
 All rounding errors will be in favor of the network. Every balance may lose up to 0.009 STEEM due to rounding, but this amount of STEEM should be economically insignificant. Collectively all holders of SP will lose at most 0.009 STEEM.
 
