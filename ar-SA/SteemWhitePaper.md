@@ -594,7 +594,7 @@ The overall supply picture is complicated by the effect of SMD operations, which
 
 في الفترة من أغسطس 2008 إلى يناير 2009 ، ارتفع الإحتياطي النقدي الأمريكي [^17] من 871 مليار دولار إلى 1،737 مليار دولار ، وهو معدل يزيد على 100٪ سنوياً ، ثم استمر في النمو بنحو 20٪ سنويًا خلال السنوات الست التي تلت ذلك. وقال الجميع أن الإحتياطي النقدي في الولايات المتحدة قد نما بنسبة x4.59 ضعفًا في أقل من 7 سنوات. وخلال ذلك الوقت ، انخفضت قيمة الدولار بالنسبة للسلع والخدمات بنسبة أقل من 10٪ وفقًا لمؤشر الأسعار الحكومي [^18]. يوضح مثال العالم الحقيقي هذا أن الإحتياطي هو مكون واحد فقط للأسعار.
 
-سعر السلع الرقمية ، مثل STEEM ، مدفوعة بكل من العرض والطلب. If new STEEM is allocated to those who are holding long-term then the increase in supply is offset by the corresponding demand to hold. The impact of this change in supply is postponed until a future date when the long-term holder decides to sell. The sell pressure is then distributed over 2 years.
+سعر السلع الرقمية ، مثل STEEM ، مدفوعة بكل من العرض والطلب. If new STEEM is allocated to those who are holding long-term then the increase in supply is offset by the corresponding demand to hold. يتم تأجيل تأثير هذا التغيير في الإحتياطي إلى تاريخ مستقبلي عندما يقرر الحاملون على المدى الطويل البيع. The sell pressure is then distributed over 2 years.
 
 When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. We can therefore conclude that the price will mostly be impacted by a change in demand for holding STEEM long-term.
 
@@ -606,9 +606,9 @@ The purpose of liquid STEEM is to facilitate changes in ownership between long-t
 
 ### تأثير إنشاء عملات بمعدل أكبر من 90٪
 
-اعتبارًا من 1 مايو 2016 ، تم تحويل أكثر من 98.49٪ من مجموع STEEM إلى طاقة ستيم (SP). This demonstrates that demand to hold long term dominates. In this environment both liquid STEEM and SP are diluted to fund rewards.
+اعتبارًا من 1 مايو 2016 ، تم تحويل أكثر من 98.49٪ من مجموع STEEM إلى طاقة ستيم (SP). هذا يدل على هيمنة طلب الإحتفاض على المدى الطويل. في هذه البيئة، يتم التخفيف من كل من STEEM السائل ( المتوفر) و طاقة ستيم (SP) لتمويل المكافآت.
 
-For the first 2 years of Bitcoin's life the network sustained an annual inflation rate[^20] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. According to the tool for estimating future inflation included with the Steem source code, Steem by contrast will achieve an instantaneous annual rate of approximately 12% after just 1 year (not including the effects of SMD operations).
+خلال السنتين الأوليين من حياة بيتكوين (Bitcoin)، حافظت الشبكة على معدل تضخم سنوي[^20] يزيد عن 100٪. في السنوات الخمس الأولى كان أكثر من 30٪، وبالنسبة للسنوات الثماني الأولى كان أكثر من 10٪. وفقا لأداة تقدير التضخم المستقبلي المدرجة مع شفرة مصدر Steem ، فإن Steem على النقيض من ذلك سيحقق معدل سنوي لحظي يبلغ حوالي 12٪ بعد عام واحد فقط (لا يشمل تأثيرات عمليات SMD).
 
 ### المحاسبة في ستيم (Steem)
 
