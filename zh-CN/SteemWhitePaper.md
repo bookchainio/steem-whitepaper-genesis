@@ -623,7 +623,7 @@ STEEM供应量的增加主要是作为一种会计因素，来避免针对可流
 
 Steem认为所有用户贡献 (帖子和投票) 的价值大于其各个部分的总和。 一个单一的评论并没有什么价值，但上百万经过策展的帖子的价值超过上百万 (甚至可能数十亿) 美元。 一个单一的赞几乎没有什么策展价值，但数十亿的赞却是非常有效的策展。 没有策展的内容价值非常有限。 设想如果把互联网上的内容的链接全部出去，Google很难产生有用的搜索结果。 正是信息之间的链接为其赋予了重要的价值。
 
-Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don't.
+由于所有人都受益，因此所有人都应付出。 换句话说，任何某个单一用户都不应期待为什么东西买单，反之，却应为他们为Steem增加价值的行为而获益。 所有我们需要做的就是探明哪个用户的贡献为社交网络带来了价值，同时哪些用户没有。
 
 Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^21] and $4 billion[^22] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year's worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
 
