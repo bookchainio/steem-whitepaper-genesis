@@ -604,9 +604,9 @@ All told the total "spending" Steem does to fund content, curation, mining, and 
 
 The purpose of liquid STEEM is to facilitate changes in ownership between long-term holders. It is this change in ownership that the network "taxes" to fund growth. This transfer tax can be avoided almost completely by automatically selling STEEM for SMD every week as the network converts SP back to STEEM. The total time spent holding STEEM will be so small that any impact of changing STEEM supply will be insigni cant next to volatility and other market fees.
 
-### Impact of Token Creation Rate Greater than Ninety-Percent
+### تأثير إنشاء عملات بمعدل أكبر من 90٪
 
-As of May 1, 2016, over 98.49% of all STEEM has been converted to SP. This demonstrates that demand to hold long term dominates. In this environment both liquid STEEM and SP are diluted to fund rewards.
+اعتبارًا من 1 مايو 2016 ، تم تحويل أكثر من 98.49٪ من مجموع STEEM إلى طاقة ستيم (SP). This demonstrates that demand to hold long term dominates. In this environment both liquid STEEM and SP are diluted to fund rewards.
 
 For the first 2 years of Bitcoin's life the network sustained an annual inflation rate[^20] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. According to the tool for estimating future inflation included with the Steem source code, Steem by contrast will achieve an instantaneous annual rate of approximately 12% after just 1 year (not including the effects of SMD operations).
 
@@ -618,7 +618,7 @@ For the first 2 years of Bitcoin's life the network sustained an annual inflatio
 
 من أجل التعويض عن الدقة المتزايدة ، تقوم شبكة STEEM بعمل "انقسام عكسي" 10:1 لكل 32،000،000 كتلة (حوالي 3 سنوات). في هذا الوقت يتم تقسيم جميع أرصدة STEEM على 10 وتضرب جميع الأسعار في 10. ستضطر منصات التبادل الخاصة بالعملات المشفرة إلى تعليق التداول في هذا الوقت وتحديث أرصدة الحسابات وسجلات السعر لتعكس "الانقسام العكسي" قبل استئناف التداول.
 
-جميع أخطاء التدوير (rounding) ستكون لصالح الشبكة. قد يفقد كل حساب ما يصل إلى 0.0009 STEEM بسبب التدوير ، ولكن هذا المبلغ يجب أن يكون غير مهم اقتصاديًا. Collectively all holders of SP will lose at most 0.009 STEEM.
+جميع أخطاء التدوير (rounding) ستكون لصالح الشبكة. قد يفقد كل حساب ما يصل إلى 0.0009 STEEM بسبب التدوير ، ولكن هذا المبلغ يجب أن يكون غير مهم اقتصاديًا. جماعيا كل من يحمل طاقة ستيم (SP) سوف يفقد في الغالب 0.009 STEEM.
 
 # قوة ستيم (Steem)
 
