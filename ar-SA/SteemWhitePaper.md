@@ -596,7 +596,7 @@ The overall supply picture is complicated by the effect of SMD operations, which
 
 سعر السلع الرقمية ، مثل STEEM ، مدفوعة بكل من العرض والطلب. If new STEEM is allocated to those who are holding long-term then the increase in supply is offset by the corresponding demand to hold. يتم تأجيل تأثير هذا التغيير في الإحتياطي إلى تاريخ مستقبلي عندما يقرر الحاملون على المدى الطويل البيع. ثم يتم توزيع ضغط البيع على مدى عامين.
 
-When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. We can therefore conclude that the price will mostly be impacted by a change in demand for holding STEEM long-term.
+عندما يقرر حامل على المدى الطويل الخروج، سيزداد عرض STEEM في السوق ويدفع السعر للأسفل. يتم مواجهة هذا الضغط التنازلي عندما يقرر حامل جديد على المدى الطويل شراء STEEM وتحويله مرة أخرى إلى SP. وبالتالي ، يمكننا أن نستنتج أن السعر سوف يتأثر في الغالب بتغيير في الطلب على حمل STEEM على المدى الطويل.
 
 Of the 100% annual increase in the virtual STEEM supply, 5% of it is in the form of Steem Dollars (SMD). SMD represents a commitment to create a dollar's worth of STEEM in the future and does not impact the amount of STEEM on the market today. The change in debt-to-ownership ratio may impact the perceived value of STEEM, but it does not map directly into a fall in the value of STEEM. If the value of Steem rises over time, then the amount of STEEM that may be created in the future will be less and the corresponding "inflation" never actually happened.
 
