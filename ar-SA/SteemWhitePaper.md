@@ -616,7 +616,7 @@ For the first 2 years of Bitcoin's life the network sustained an annual inflatio
 
 أحد الآثار الجانبية للرفع من الإحتياطي هي أن الشبكة ستحتاج إلى مستويات متزايدة من الدقة في حساباتها. في المتوسط ، سيزيد عدد البتات المطلوبة لتمثيل حساب نموذجي بمقدار 1.3 في السنة. لن يستغرق الأمر سوى 10 سنوات قبل أن تصبح الأرقام المعنية غير ملائمة ضمن الدقة ذات الـ 53 بت التي تدعمها JavaScript أو دقة 64 بت التي تدعمها وحدات المعالجة المركزية (CPUs). بمرور الوقت يتزايد حجم الأرقام المعنية إلى ما هو أبعد من النطاق والفهم البشري ؛ وعلاوة على ذلك ، فإن البتات الأقل أهمية لها قيمة اقتصادية ضئيلة للغاية تجعلها بلا معنى.
 
-In order to compensate for the ever increasing precision, the STEEM network performs a 10:1 "reverse split" every 32,000,000 blocks (about 3 years). At this point in time all balances of STEEM are divided by 10 and all prices are multiplied by 10. Cryptocurrency exchanges will have to suspend trading around this time and update the account balances and price history to reflect the "reverse split" before resuming trading.
+من أجل التعويض عن الدقة المتزايدة ، تقوم شبكة STEEM بعمل "انقسام عكسي" 10:1 لكل 32،000،000 كتلة (حوالي 3 سنوات). في هذا الوقت يتم تقسيم جميع أرصدة STEEM على 10 وتضرب جميع الأسعار في 10. ستضطر منصات التبادل الخاصة بالعملات المشفرة إلى تعليق التداول في هذا الوقت وتحديث أرصدة الحسابات وسجلات السعر لتعكس "الانقسام العكسي" قبل استئناف التداول.
 
 All rounding errors will be in favor of the network. Every balance may lose up to 0.009 STEEM due to rounding, but this amount of STEEM should be economically insignificant. Collectively all holders of SP will lose at most 0.009 STEEM.
 
