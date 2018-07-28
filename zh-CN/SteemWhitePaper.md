@@ -621,7 +621,7 @@ STEEM供应量的增加主要是作为一种会计因素，来避免针对可流
 
 # Steem的能量
 
-Steem认为所有用户贡献 (帖子和投票) 的价值大于其各个部分的总和。 一个单一的评论并没有什么价值，但上百万经过策展的帖子的价值超过上百万 (甚至可能数十亿) 美元。 A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+Steem认为所有用户贡献 (帖子和投票) 的价值大于其各个部分的总和。 一个单一的评论并没有什么价值，但上百万经过策展的帖子的价值超过上百万 (甚至可能数十亿) 美元。 一个单一的赞几乎没有什么策展价值，但数十亿的赞却是非常有效的策展。 没有策展的内容价值非常有限。 设想如果把互联网上的内容的链接全部出去，Google很难产生有用的搜索结果。 正是信息之间的链接为其赋予了重要的价值。
 
 Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don't.
 
