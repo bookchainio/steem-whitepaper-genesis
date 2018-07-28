@@ -617,11 +617,11 @@ STEEM供应量的增加主要是作为一种会计因素，来避免针对可流
 
 为了满足不断提高的精确度，STEEM网络对每32,000,000块 (大约3年)实施一个10:1的“反向拆分”。 在这个时候，所有STEEM余额除以10，所有价格乘以10。 加密货币交易所在此期间被迫暂停交易，且在重新恢复交易之前更新账户余额和价格历史，以体现“反向剥离”。
 
-所有舍入错误都将由网络来承担。 由于舍入，每项余额会最多损失0.009 STEEM，但这点STEEM余额在经济上是微不足道的。 Collectively all holders of SP will lose at most 0.009 STEEM.
+所有舍入错误都将由网络来承担。 由于舍入，每项余额会最多损失0.009 STEEM，但这点STEEM余额在经济上是微不足道的。 所有SP持有者将会损失最多0.009 STEEM。
 
-# The Power of Steem
+# Steem的能量
 
-Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+Steem认为所有用户贡献 (帖子和投票) 的价值大于其各个部分的总和。 一个单一的评论并没有什么价值，但上百万经过策展的帖子的价值超过上百万 (甚至可能数十亿) 美元。 A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
 
 Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don't.
 
