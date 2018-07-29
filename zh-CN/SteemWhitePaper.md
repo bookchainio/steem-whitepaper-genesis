@@ -641,13 +641,13 @@ Steem彻底跳过了微支付，其原因在于，当一个用户为一个帖子
 > 
 > *微支付：一个可行的商业模式 [^23]*
 
-在Steem系统中，微支付是付给内容创造者的，但那些对内容点赞的人并不需要付费。 实际上，那些奖励需要的花费都来自于新的代币。 有些人可以加入系统，通过点赞来支付一些人，然后离开系统，这时会拥有比加入时更多的钱 (假定Steem系统的市场价值保持恒定)。 In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+在Steem系统中，微支付是付给内容创造者的，但那些对内容点赞的人并不需要付费。 实际上，那些奖励需要的花费都来自于新的代币。 有些人可以加入系统，通过点赞来支付一些人，然后离开系统，这时会拥有比加入时更多的钱 (假定Steem系统的市场价值保持恒定)。 换句话说，由Steem提供的微支付解决方案提供了一种用户体验，它非常类似于很多被广泛使用的，基于用户管理内容的网站。
 
-Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+此外，Steem付钱给那些能够找到谁应该被支付的人！这是具有革命性的想法。
 
-## Value is in the Links
+## 价值存在于链接之中
 
-The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+如果删除内容中的所有链接，那么互联网会失去其主要价值。 正是页面之间的关系，能让Google在1600万个搜索结果中确定那个是最好的苹果派菜谱。 Without the links the only information Google would have is word frequency.
 
 Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a link between themselves and the content. This in turn links the consumer to the producer through the content. The more links a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
 
