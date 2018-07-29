@@ -536,9 +536,9 @@ In theory a market could form where users can borrow the stake required. In prac
 
 Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
 
-# Performance and Scalability
+# الأداء وقابلية التطوير
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+تم بناء شبكة ستيم (Steem) على الجرافين (Graphene)، نفس التكنولوجيا التي تعمل بها BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
 
 ## مقياس Reddit
 
@@ -556,7 +556,7 @@ Steem قادرة على التعامل مع قاعدة مستخدمين أكبر
 
 إن الحفاظ على كل شيء في الذاكرة أمر قابل للتطبيق بشكل متزايد نظرًا للإدخال الحديث لتقنية Optane من Intel [^15]. يجب أن يكون من الممكن لمعدات السلع التعامل مع كل منطق الأعمال المرتبط بستيم (Steem) في سلسلة واحدة مع جميع المشاركات المحفوظة في الذاكرة للفهرسة السريعة. حتى جوجل تحافظ على فهرس الإنترنت بأكمله في ذاكرة الوصول العشوائي. استخدام تكنولوجيا سلسلة الكتل يجعل من السهل نسخ قاعدة البيانات ووضعها في العديد من الآلات لمنع فقدان البيانات. عند بدء استخدام تقنية أوبتان (Optane)، سوف تصبح ذاكرة الوصول العشوائي أسرع مع اكتساب الثبات. بعبارة أخرى، تم تصميم Steem لمعماريات المستقبل وهي مصممة للتوسع.
 
-# Allocation & Supply
+# التوزيع والإحتياطي
 
 بدأت شبكة ستيم (Steem) بٱحتياطي عملة قدره 0 ووزعت ستيم عن طريق إثبات العمل بمعدل 40 ستيم في الدقيقة للمُعدنين، بالإضافة إلى 40 ستيم في الدقيقة يتم إنشاؤها لتوزيع المحتوى ومجمعات مكافأة التفاعل (المجموع هو 80 STEEM في الدقيقة). ثم بدأت الشبكة بمكافأة المستخدمين الذين يقومون بالتحويل إلى طاقة ستيم (SP). في هذه المرحلة، نمت ستيم (STEEM) بمعدل حوالي 800 ستيم في الدقيقة الواحدة بسبب التأثيرات المجمعة لمختلف مكافآت المساهمات الملخصة أدناه:
 
@@ -580,7 +580,7 @@ Steem قادرة على التعامل مع قاعدة مستخدمين أكبر
 
 تضمن القيود النسبية بشكل فعّال أن لا تصبح حوافز المكافآت صغيرة ولا معنى لها بمرور الوقت، وهي مصممة لمنع النظام من مواجهة "التباطؤ" في نمط النمو للعديد من الكتل الأخرى، حيث يتبع النمو الأولي الذي تغذيه الحوافز العالية للمشاركين الأوائل ركودًا مطولًا، حيث تنخفض الحوافز المتساقطة باستمرار إلى ما دون المستوى الضروري لتحفيز الوافدين الجدد على الانضمام.
 
-The overall effect of these percentage constants on allocation and supply is that the (approximately) 800 STEEM per minute rate remains in effect for some time (i.e. units of STEEM), but drops in percentage terms (i.e., 800 STEEM is a smaller and smaller fraction of the total supply as the total supply grows larger and larger). When the various individual components of the 800 STEEM per minute rate reach their respective percentage-based floors, each floor halts the fall in its component of the rate. This in turn means that, over the long term, the nominal rate will rise from 800 STEEM per minute to the (time-varying, supply-dependent) value needed to maintain a constant annualized growth rate of 10% for the Contribution Incentives, and a constant annualized growth rate of 100% for the combined effect of the Contribution Incentives and the Power Incentives. The overall effect is a doubling of the STEEM supply each year (but, as detailed in the next section, if most users Power Up then much of this doubling is effectively a "split" which does not transfer ownership).
+إن التأثير الكلي لهذه النسب المئوية الثابتة على التوزيع والإحتياطي هو أن معدل 800 STEEM في كل دقيقة (تقريبًا) يبقى ساري المفعول لبعض الوقت (كمثال: وحدات ستيم)، ولكنه ينخفض في النسبة المئوية (كمثال: 800 STEEM هو جزء أصغر وأصغر من إجمالي الإحتياطي حيث ينمو إجمالي الإحتياطي أكثر وأكثر). When the various individual components of the 800 STEEM per minute rate reach their respective percentage-based floors, each floor halts the fall in its component of the rate. This in turn means that, over the long term, the nominal rate will rise from 800 STEEM per minute to the (time-varying, supply-dependent) value needed to maintain a constant annualized growth rate of 10% for the Contribution Incentives, and a constant annualized growth rate of 100% for the combined effect of the Contribution Incentives and the Power Incentives. The overall effect is a doubling of the STEEM supply each year (but, as detailed in the next section, if most users Power Up then much of this doubling is effectively a "split" which does not transfer ownership).
 
 The overall supply picture is complicated by the effect of SMD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SMD rewards, as discussed in the SMD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), noise due to miner luck in proof-of-work production, and the effects of changes in the miner queue length due to a change in the network's total hashpower.
 
