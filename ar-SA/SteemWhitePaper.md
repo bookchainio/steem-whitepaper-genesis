@@ -576,7 +576,7 @@ Steem قادرة على التعامل مع قاعدة مستخدمين أكبر
 **عمليات دولارات ستيم (SMD):**
 
 - مكافآت دولارات ستيم (SMD): يتم إنشاء نسبة مئوية من قيمة دولارات ستيم (SMD) في معدل العائد السنوي المحدد من قبل الشهود وتدفع لحاملي دولارات ستيم (SMD) كدولارات ستيم (SMD)
-- Feed Rate following: The amount of STEEM for which the total SMD in existence can be redeemed will change based on changes in the price feed. This change is effectively destruction ("burning") of STEEM when the value of STEEM (as measured by the feed) is increasing, or creation of STEEM when the value of STEEM (as measured by the feed) is declining.
+- متابعة معدل التحديثات: سوف تتغير كمية STEEM التي يمكن استبدال إجمالي دولارات ستيم (SMD) الموجودة بها بناءً على التغييرات في تحديثات السعر. هذا التغيير هو تدمير فعال ("حرق") لـ STEEM عندما تتزايد قيمته (وفقًا لمقياس التحديثات) أو إنشاء STEEM عندما تنخفض قيمته (وفقًا لمقياس التحديثات).
 
 The percentage constraints effectively ensure the incentives for rewards do not become meaninglessly small over time, which is intended to prevent the system from experiencing the "speed bump" in the growth pattern of many other blockchains, where an initial growth spurt fueled by high incentives for early participants is followed by prolonged stagnation as the continually falling incentives drop below the level necessary to induce newcomers to join.
 
