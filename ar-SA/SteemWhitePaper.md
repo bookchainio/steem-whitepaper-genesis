@@ -542,11 +542,11 @@ The Steem network is built upon Graphene, the same technology that powers BitSha
 
 ## مقياس Reddit
 
-Steem قادر على التعامل مع قاعدة مستخدمين أكبر من Reddit. في عام 2015، ولّد مستخدمو Reddit البالغ عددهم 8.7 مليون مستخدم متوسط 23 تعليقًا في الثانية [^13]، بمعدل 83 تعليقًا سنويًا لكل مستخدم. وكانت هناك 73 مليون مشاركة على مستوى عالي، بمتوسط مشاركتين جديدتين في الثانية. وكان هناك نحو 7 مليارات صوت، مما يجعل متوسط معدل التصويت 220 صوتا في الثانية. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem قادرة على التعامل مع قاعدة مستخدمين أكبر من Reddit. في عام 2015، ولّد مستخدمو Reddit البالغ عددهم 8.7 مليون مستخدم متوسط 23 تعليقًا في الثانية [^13]، بمعدل 83 تعليقًا سنويًا لكل مستخدم. وكانت هناك 73 مليون مشاركة على مستوى عالي، بمتوسط مشاركتين جديدتين في الثانية. وكان هناك نحو 7 مليارات صوت، مما يجعل متوسط معدل التصويت 220 صوتا في الثانية. إجمالاً، إذا كانت Reddit تعمل على سلسلة الكتل (blockchain) فإنها ستتطلب ما متوسطه 250 معاملة في الثانية الواحدة.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^14], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+لتحقيق هذا الأداء الرائد في هذا المجال، إقتبست Steem الدروس المستفادة من LMAX Exchange [^14]، والتي هي قادرة على معالجة 6 ملايين معاملة في الثانية. ومن بين هذه الدروس النقاط الرئيسية التالية:
 
-1. Keep everything in memory.
+1. إبقاء كل شيء في الذاكرة.
 2. Keep the core business logic in a single thread.
 3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
 4. Divide validation into state-dependent and state-independent checks.
