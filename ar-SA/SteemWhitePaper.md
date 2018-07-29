@@ -538,7 +538,7 @@ Decentralized rate limiting of transactions can enable new types of decentralize
 
 # الأداء وقابلية التطوير
 
-تم بناء شبكة ستيم (Steem) على الجرافين (Graphene)، نفس التكنولوجيا التي تعمل بها BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+تم بناء شبكة ستيم (Steem) على الجرافين (Graphene)، نفس التكنولوجيا التي تعمل بها BitShares. وقد أظهرت الجرافين بشكل علني قدرتها في الحفاظ على أكثر من 1000 معاملة في الثانية على شبكة اختبار موزعة. يمكن للجرافين (Graphene) قياس 10،000 أو أكثر من المعاملات في الثانية الواحدة مع تحسينات مباشرة نسبيا على قدرة الخادم وبروتوكولات الاتصال.
 
 ## مقياس Reddit
 
