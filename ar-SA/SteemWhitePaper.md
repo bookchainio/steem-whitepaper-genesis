@@ -554,7 +554,7 @@ Steem قادرة على التعامل مع قاعدة مستخدمين أكبر
 
 من خلال اتباع هذه القواعد البسيطة، تستطيع ستيم (Steem) معالجة 10،000 معاملة في الثانية دون أي جهد كبير مخصص للتحسين.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optanetechnology from Intel [^15]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+إن الحفاظ على كل شيء في الذاكرة أمر قابل للتطبيق بشكل متزايد نظرًا للإدخال الحديث لتقنية Optane من Intel [^15]. يجب أن يكون من الممكن لمعدات السلع التعامل مع كل منطق الأعمال المرتبط بستيم (Steem) في سلسلة واحدة مع جميع المشاركات المحفوظة في الذاكرة للفهرسة السريعة. حتى جوجل تحافظ على فهرس الإنترنت بأكمله في ذاكرة الوصول العشوائي. استخدام تكنولوجيا سلسلة الكتل يجعل من السهل نسخ قاعدة البيانات ووضعها في العديد من الآلات لمنع فقدان البيانات. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
 # Allocation & Supply
 
