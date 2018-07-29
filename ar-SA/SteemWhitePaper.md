@@ -547,8 +547,8 @@ Steem قادرة على التعامل مع قاعدة مستخدمين أكبر
 لتحقيق هذا الأداء الرائد في هذا المجال، إقتبست Steem الدروس المستفادة من LMAX Exchange [^14]، والتي هي قادرة على معالجة 6 ملايين معاملة في الثانية. ومن بين هذه الدروس النقاط الرئيسية التالية:
 
 1. إبقاء كل شيء في الذاكرة.
-2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
+2. الحفاظ على منطق الأعمال الأساسية في سلسلة واحدة.
+3. الاحتفاظ بعمليات التشفير (التجزئة والتوقيعات) خارج منطق الأعمال الأساسية.
 4. Divide validation into state-dependent and state-independent checks.
 5. Use an object oriented data model.
 
