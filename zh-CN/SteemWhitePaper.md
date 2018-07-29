@@ -655,9 +655,9 @@ Steem彻底跳过了微支付，其原因在于，当一个用户为一个帖子
 
 通过激励策展，Steem网络可以通过自动算法从海量内容中汲取最有价值的信息。
 
-## Solving the Cryptocurrency Onboarding Problem
+## 解决加密货币中的门槛问题
 
-It isn't easy to get into cryptocurrency[^24] . Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook's adoption rate have been like if you had to fork over money and a two forms of ID?
+进入加密货币领域不是一件容易的事情[^24]。 有些人 发现了比特币并且想要尝试一下，很快他们就会发现他们需要注册一个交易所，且需要通过信用卡或电汇来为账户充值。 设想如果前提条件是你需要对钱进行分叉，且需要两种形式的ID，Facebook的大众接受度会如何？
 
 Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless).
 
