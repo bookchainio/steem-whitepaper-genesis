@@ -647,7 +647,7 @@ Steem彻底跳过了微支付，其原因在于，当一个用户为一个帖子
 
 ## 价值存在于链接之中
 
-如果删除内容中的所有链接，那么互联网会失去其主要价值。 正是页面之间的关系，能让Google在1600万个搜索结果中确定那个是最好的苹果派菜谱。 Without the links the only information Google would have is word frequency.
+如果删除内容中的所有链接，那么互联网会失去其主要价值。 正是页面之间的关系，能让Google在1600万个搜索结果中确定那个是最好的苹果派菜谱。 如果没有链接的话，Google唯一能够使用的信息就是文字出现的频率。
 
 Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a link between themselves and the content. This in turn links the consumer to the producer through the content. The more links a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
 
