@@ -558,9 +558,9 @@ Steem قادرة على التعامل مع قاعدة مستخدمين أكبر
 
 # Allocation & Supply
 
-بدأت شبكة ستيم (Steem) بٱحتياطي عملة قدره 0 ووزعت ستيم عن طريق إثبات العمل بمعدل 40 ستيم في الدقيقة للمُعدنين، بالإضافة إلى 40 ستيم في الدقيقة يتم إنشاؤها لتوزيع المحتوى ومجمعات مكافأة التفاعل (المجموع هو 80 STEEM في الدقيقة). ثم بدأت الشبكة بمكافأة المستخدمين الذين يقومون بالتحويل إلى طاقة ستيم (SP). At this point, STEEM grows at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+بدأت شبكة ستيم (Steem) بٱحتياطي عملة قدره 0 ووزعت ستيم عن طريق إثبات العمل بمعدل 40 ستيم في الدقيقة للمُعدنين، بالإضافة إلى 40 ستيم في الدقيقة يتم إنشاؤها لتوزيع المحتوى ومجمعات مكافأة التفاعل (المجموع هو 80 STEEM في الدقيقة). ثم بدأت الشبكة بمكافأة المستخدمين الذين يقومون بالتحويل إلى طاقة ستيم (SP). في هذه المرحلة، نمت ستيم (STEEM) بمعدل حوالي 800 ستيم في الدقيقة الواحدة بسبب التأثيرات المجمعة لمختلف مكافآت المساهمات الملخصة أدناه:
 
-**Contribution Rewards:**
+**مكافآت المساهمات:**
 
 - Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
 - Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
