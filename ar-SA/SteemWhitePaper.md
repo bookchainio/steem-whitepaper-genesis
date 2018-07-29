@@ -549,10 +549,10 @@ Steem قادرة على التعامل مع قاعدة مستخدمين أكبر
 1. إبقاء كل شيء في الذاكرة.
 2. الحفاظ على منطق الأعمال الأساسية في سلسلة واحدة.
 3. الاحتفاظ بعمليات التشفير (التجزئة والتوقيعات) خارج منطق الأعمال الأساسية.
-4. Divide validation into state-dependent and state-independent checks.
-5. Use an object oriented data model.
+4. قسّم عملية التحقق من الصحة إلى تبعية وغير تبعية.
+5. استخدم نموذج بيانات كائن موجه.
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+من خلال اتباع هذه القواعد البسيطة، تستطيع ستيم (Steem) معالجة 10،000 معاملة في الثانية دون أي جهد كبير مخصص للتحسين.
 
 Keeping everything in memory is increasingly viable given the recent introduction of Optanetechnology from Intel [^15]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
