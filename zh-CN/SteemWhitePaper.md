@@ -641,7 +641,7 @@ Steem彻底跳过了微支付，其原因在于，当一个用户为一个帖子
 > 
 > *微支付：一个可行的商业模式 [^23]*
 
-Under Steem, micropayments are paid to content producer, but those who vote for the content do not pay. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+在Steem系统中，微支付是付给内容创造者的，但那些对内容点赞的人并不需要付费。 实际上，那些奖励需要的花费都来自于新的代币。 有些人可以加入系统，通过点赞来支付一些人，然后离开系统，这时会拥有比加入时更多的钱 (假定Steem系统的市场价值保持恒定)。 In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
 
 Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
 
