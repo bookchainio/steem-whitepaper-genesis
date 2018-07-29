@@ -637,9 +637,9 @@ Steem彻底跳过了微支付，其原因在于，当一个用户为一个帖子
 
 对于大多数人而言，在做出经济上决策时消耗的精力是他们进行参与的障碍。
 
-> *在这个信息爆炸的时代，关于在线访问什么的问题，我们每天都要做出很多决定，对于每一个我们必须做出的决定，它都会增加我们面临的不确定性和焦虑。 微支付的支持者相信，一个简单化的实现能够最小化微支付的侵入性并改善用户体验，但他们的观点只是在进行决策\[2\] 时创造了一个双重标准。 交易本身并不能同时具备足够的价值来保证决策，实际上其价值很小，以至于决策是自动的。 **用户们唯一无需做出思考就可以批准的交易就是那些免费的**，因此那些具有正值的微支付由于需要做决定，会需要额外的心理成本。 Furthermore, mental transaction costs actually rise below a certain threshold value, a phenomenon that places micropayments at an even greater disadvantage. For instance, it is easy to think that a copy of today's newspapers costs $1, but readers face much more difficulty and anxiety in deciding on the value of each article or word. Such a dilemma will only be replicated and exacerbated if all online content were to be broken down into their components and individually valued within a micropayment system.*
+> *在这个信息爆炸的时代，关于在线访问什么的问题，我们每天都要做出很多决定，对于每一个我们必须做出的决定，它都会增加我们面临的不确定性和焦虑。 微支付的支持者相信，一个简单化的实现能够最小化微支付的侵入性并改善用户体验，但他们的观点只是在进行决策\[2\] 时创造了一个双重标准。 交易本身并不能同时具备足够的价值来保证决策，实际上其价值很小，以至于决策是自动的。 **用户们唯一无需做出思考就可以批准的交易就是那些免费的**，因此那些具有正值的微支付由于需要做决定，会需要额外的心理成本。 此外，心里交易成本实际上是有上限的，这就使得微支付处于更不利的地位。 例如，很容易想象一份今日的报纸值1美元，但如果让读者决定其中每篇文章甚至是每个字的价值，会让他们陷入到更加困难和焦虑的状态。 如果所有在线内容能够被划分成不同的组件，而每个组件通过微支付系统来估价，前面所述的两难境地就会被复制且加剧。*
 > 
-> *- Micropayments: A Viable Business Model [^23]*
+> *微支付：一个可行的商业模式 [^23]*
 
 Under Steem, micropayments are paid to content producer, but those who vote for the content do not pay. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
 
