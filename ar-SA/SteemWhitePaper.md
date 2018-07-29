@@ -558,7 +558,7 @@ Steem قادرة على التعامل مع قاعدة مستخدمين أكبر
 
 # Allocation & Supply
 
-The Steem network starts with a currency supply of 0 and allocates STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network starts rewarding users who convert to SP. At this point, STEEM grows at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+بدأت شبكة ستيم (Steem) بٱحتياطي عملة قدره 0 ووزعت ستيم عن طريق إثبات العمل بمعدل 40 ستيم في الدقيقة للمُعدنين، بالإضافة إلى 40 ستيم في الدقيقة يتم إنشاؤها لتوزيع المحتوى ومجمعات مكافأة التفاعل (المجموع هو 80 STEEM في الدقيقة). ثم بدأت الشبكة بمكافأة المستخدمين الذين يقومون بالتحويل إلى طاقة ستيم (SP). At this point, STEEM grows at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
 
 **Contribution Rewards:**
 
