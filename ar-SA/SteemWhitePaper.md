@@ -520,9 +520,9 @@ Under the rate limiting approach, someone who holds 1% of all coins with an inte
 
 عندما يملك شخص ما منزلاً فإنه يتوقع حق استخدام المنزل مجانا. إذا اشترت مجموعة من الناس منزلا معا، فكل منهم يتوقع الحق في استخدام المنزل بما يتناسب مع نسبة ملكيته في المنزل. تشبه سلسلة الكتل القائمة على الرسوم استئجار المنزل من مالكيه، في حين أن الحد من المعدل يشبه تقاسم البيت بمدد زمنية بين أصحابه.
 
-If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+إذا كان المنزل مملوكًا لأكثر من شخص واحد، فيجب أن يقرروا كيف يريدون مشاركة وقت استخدام المنزل. شخص يملك 50٪ من المنزل ولكن يستخدمه فقط لأسبوع واحد كل سنة قد يتوقع أن يتم الدفع له من قبل الأفراد الذين يأخذون وقته غير المستخدم في المنزل. هذه عقلية نظام قائم على الرسوم.
 
-On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
+من ناحية أخرى، يتوقع شخص يملك 50٪ من المنزل أن الطلب على المنزل سوف يزداد في المستقبل، وسوف يتمكن من بيع حصته في المنزل مقابل المزيد. أي مالك يملك أكثر من منزل من ما يستخدم يصبح مضارب عقاري. مع هذه العقلية بدلاً من جمع الإيجار، يجمعون التقدير.
 
 The value of a share is derived from how much time it can potentially grant its owner. Owning 1% of a house and getting it 1 weekend per year is the lowest value of a share. However, if half of the shareholders never use their weekend, then the value per timeshare rises to 2 weekends per year. If those inactive users instead opt to rent their unused time, then it falls back to 1 weekend per year. If those unused timeshares were sold to people who would use them then the value of a timeshare would fall by 50%. Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
 
