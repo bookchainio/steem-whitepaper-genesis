@@ -528,9 +528,9 @@ Under the rate limiting approach, someone who holds 1% of all coins with an inte
 
 وباستخدام هذا الأساس المنطقي، يمكننا أن نفترض أن النظام القائم على الرسوم إما أن يكون أكثر تكلفة بالنسبة لمستخدميه أو أن يكون أقل ربحية لأصحابه الجماعيين. يمكن للمالك الصغير الفردي أن يستفيد من تأجير شريحته الزمنية الصغيرة، ولكن فقط على حساب جميع أصحاب المشاركة بالوقت الآخرين. في الواقع، يتم تقاسم تكلفة سقوط قيمة المشاركة بالوقت بين جميع المالكين بينما تتركز الأرباح على المالك الوحيد الذي قرر تأجير حصته.
 
-يمكننا أن نستنتج من هذا أن سلسلة الكتل (blockchain) هي أفضل وسيلة لعدم إستعمال رسوم الاستخدام على الإطلاق. If a usage fee were to be charged as an alternative to rate limiting, then it should be the equivalent of buying enough timeshares and committing to hold them long enough to gain the right use it once.
+يمكننا أن نستنتج من هذا أن سلسلة الكتل (blockchain) هي أفضل وسيلة لعدم إستعمال رسوم الاستخدام على الإطلاق. إذا كان سيتم فرض رسوم الاستخدام كبديل للحد من المعدل، فينبغي لها أن تكون مساوية لشراء ما يكفي من المشاركة بالوقت والالتزام بالإحتفاظ بها لفترة طويلة بما يكفي للحصول على حق استخدامها مرة واحدة.
 
-Stated another way, a transaction fee should be equal to the minimum account balance necessary to transact once per week and it should be refunded at the end of the week. Assume the minimum account balance is $1 and allows someone to transact once per week. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
+وبعبارة أخرى، ينبغي أن يكون رسم المعاملة مساويا للحد الأدنى لرصيد الحساب اللازم للقيام بمعاملة مرة واحدة في الأسبوع، وينبغي رده في نهاية الأسبوع. افترض أن الحد الأدنى لرصيد الحساب هو دولار واحد ويسمح لشخص ما بإجراء معاملة لمرة واحدة في الأسبوع. إذا كان شخص ما لديه دولار واحد في رصيده ويرغب في إجراء 5 معاملات في وقت واحد سوف يضطر إلى زيادة رصيده إلى 5 دولارات لمدة أسبوع إما قبل أو بعد معاملاته.
 
 In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
 
