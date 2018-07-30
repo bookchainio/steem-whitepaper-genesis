@@ -518,7 +518,7 @@ Under the rate limiting approach, someone who holds 1% of all coins with an inte
 
 ### التأجير ضد. الشراء ضد. تقاسم الوقت
 
-عندما يملك شخص ما منزلاً فإنه يتوقع حق استخدام المنزل مجانا. إذا اشترت مجموعة من الناس منزلا معا، فكل منهم يتوقع الحق في استخدام المنزل بما يتناسب مع نسبة ملكيته في المنزل. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+عندما يملك شخص ما منزلاً فإنه يتوقع حق استخدام المنزل مجانا. إذا اشترت مجموعة من الناس منزلا معا، فكل منهم يتوقع الحق في استخدام المنزل بما يتناسب مع نسبة ملكيته في المنزل. تشبه سلسلة الكتل القائمة على الرسوم استئجار المنزل من مالكيه، في حين أن الحد من المعدل يشبه تقاسم البيت بمدد زمنية بين أصحابه.
 
 If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
 
