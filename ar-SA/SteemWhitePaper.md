@@ -510,9 +510,9 @@ Any user with fewer than TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) will be unable to
 
 ### الفعالية النسبية للرسوم
 
-To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. في بيتكوين (Bitcoin) مهاجم مع $10،000 دولار يمكن أن يعطل الخدمة ليوم كامل عن طريق ملء كل كتلة. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. في بيتكوين (Bitcoin) مهاجم مع $10،000 دولار يمكن أن يعطل الخدمة ليوم كامل عن طريق ملء كل كتلة. لن يتمكن المهاجم نفسه من تعطيل الخدمة حتى ولو لكتلة واحدة بموجب نهج الحد من معدل الاحتياط الكسري الديناميكي.
 
-If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+إذا ذهبنا إلى حالة أكثر تطرفًا وٱفترضنا أن المهاجم يحمل 1٪ من جميع العملات، إذن فإننا نفترض مهاجمًا بمبلغ 60 مليون دولار. مثل هذا المهاجم يمكن أن يمنع خدمة سلسلة كتل بيتكوين (Bitcoin blockchain) لمدة 16 عاما إلا إذا قام المعدنون بزيادة الرسوم أو السعة. حتى لو تم رفع الرسوم إلى 15 دولارا لكل معاملة، فإن المهاجم لا يزال بإمكانه اغراق الشبكة لمدة 16 يوما.
 
 Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
 
