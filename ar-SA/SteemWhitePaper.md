@@ -516,9 +516,9 @@ If we go to a more extreme case and assume the attacker holds 1% of all coins th
 
 Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
 
-### Renting vs. Buying vs. Time Sharing
+### التأجير ضد. الشراء ضد. تقاسم الوقت
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+عندما يملك شخص ما منزلاً فإنه يتوقع حق استخدام المنزل مجانا. إذا اشترت مجموعة من الناس منزلا معا، فكل منهم يتوقع الحق في استخدام المنزل بما يتناسب مع نسبة ملكيته في المنزل. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
 
 If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
 
