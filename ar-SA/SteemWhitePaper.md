@@ -458,9 +458,9 @@ Since R = 38 is a lower bound on the reserve ratio, CLR/S is a lower bound on th
 
 All of the above estimates are conservative upper bounds assuming coins and usage are distributed in a relatively flat manner. The reality is that heavy users, such as exchanges, have a much higher coin-to-usage ratio than lighter users, which in turn means that actual minimum balance requirements are far lower.
 
-#### Impact of Capacity
+#### تأثير السعة
 
-Blockchain capacity isn't necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second. This changes our conservative upper bound to 0.0006 BTC or about $0.25, meaning that an account holding $0.25 would be able to transact at least once per week on average (and likely many more times because we're dealing with a fairly loose upper bound).
+سعة سلسلة الكتل (Blockchain) ليست بالضرورة محدودة. إنها جيدة ضمن القدرة التكنولوجية للبنية التحتية للإنترنت لزيادة حجم كتلة البيتكوين (Bitcoin) إلى 10MB والتي بدورها سوف تقلل من الحد الأدنى للتوازن المطلوب بعامل قدره 10. في حين ان البتكوين (Bitcoin) يدعم حاليا حوالي 3 معاملات في الثانية الواحدة، التطبيقات البديلة قادرة على أكثر من 1000 معاملة في الثانية الواحدة. This changes our conservative upper bound to 0.0006 BTC or about $0.25, meaning that an account holding $0.25 would be able to transact at least once per week on average (and likely many more times because we're dealing with a fairly loose upper bound).
 
 #### الحد الأقصى لعدد المستخدمين الفريدين
 
