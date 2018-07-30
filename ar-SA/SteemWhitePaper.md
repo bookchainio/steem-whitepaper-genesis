@@ -508,7 +508,7 @@ There must be a slow constant upward pressure on the reserve ratio any time netw
 
 Any user with fewer than TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) will be unable to produce enough transactions to fill even a single block. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
 
-### Effectiveness Relative to Fees
+### الفعالية النسبية للرسوم
 
 To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
 
@@ -532,9 +532,9 @@ Under the rate limiting approach, someone who holds 1% of all coins with an inte
 
 وبعبارة أخرى، ينبغي أن يكون رسم المعاملة مساويا للحد الأدنى لرصيد الحساب اللازم للقيام بمعاملة مرة واحدة في الأسبوع، وينبغي رده في نهاية الأسبوع. افترض أن الحد الأدنى لرصيد الحساب هو دولار واحد ويسمح لشخص ما بإجراء معاملة لمرة واحدة في الأسبوع. إذا كان شخص ما لديه دولار واحد في رصيده ويرغب في إجراء 5 معاملات في وقت واحد سوف يضطر إلى زيادة رصيده إلى 5 دولارات لمدة أسبوع إما قبل أو بعد معاملاته.
 
-من الناحية النظرية يمكن أن تُشَكّل السوق حيث يمكن للمستخدمين اقتراض الحصة المطلوبة. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+من الناحية النظرية يمكن أن تُشَكّل السوق حيث يمكن للمستخدمين اقتراض الحصة المطلوبة. من الناحية العملية، من الأكثر فاعلية للمستخدمين ببساطة شراء وبيع المشاركة بالوقت اللازم لتلبية معدل الاستخدام المطلوب. وبعبارة أخرى، تكلفة التفاوض بشأن القروض الصغيرة أكبر من تكلفة المحافظة على توازن مناسب للاستخدام الخاص بك أسبوعيا كحد أقصى.
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+يمكن أن يؤدي تحديد معدل اللامركزية في المعاملات إلى تمكين أنواع جديدة من التطبيقات اللامركزية التي لا تكون قابلة للتطبيق عندما يتطلب كل استخدام للتطبيق دفعا مصغراً. يمنح هذا النموذج الجديد مطوري التطبيقات القدرة على اتخاذ قرار بشأن ما إذا كان سيتم تحصيل رسوم من المستخدمين مقابل المعاملات ومتى سيتم ذلك.
 
 # الأداء وقابلية التطوير
 
