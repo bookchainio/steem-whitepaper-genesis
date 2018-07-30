@@ -532,7 +532,7 @@ Under the rate limiting approach, someone who holds 1% of all coins with an inte
 
 وبعبارة أخرى، ينبغي أن يكون رسم المعاملة مساويا للحد الأدنى لرصيد الحساب اللازم للقيام بمعاملة مرة واحدة في الأسبوع، وينبغي رده في نهاية الأسبوع. افترض أن الحد الأدنى لرصيد الحساب هو دولار واحد ويسمح لشخص ما بإجراء معاملة لمرة واحدة في الأسبوع. إذا كان شخص ما لديه دولار واحد في رصيده ويرغب في إجراء 5 معاملات في وقت واحد سوف يضطر إلى زيادة رصيده إلى 5 دولارات لمدة أسبوع إما قبل أو بعد معاملاته.
 
-In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+من الناحية النظرية يمكن أن تُشَكّل السوق حيث يمكن للمستخدمين اقتراض الحصة المطلوبة. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
 
 Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
 
