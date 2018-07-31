@@ -409,9 +409,9 @@ The ISP has two choices, run a "full reserve" or "fractional reserve" system. Un
 
 Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
 
-## Bandwidth Instead of Micropayment Channels
+## النطاق الترددي بدلا من قنوات الدفع المصغر
 
-The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
+إن الحل لمشاكل الدفع المصغر هو في تنفيذ *احتياطات الكسور الديناميكية*. وبموجب هذا النموذج، تقوم سلسلة الكتل (blockchain) تلقائيًا بضبط نسبة الإحتياطي للشبكة أثناء أوقات الإزدحام. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
 
 Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
 
@@ -492,7 +492,7 @@ All of the above estimates are conservative upper bounds assuming coins and usag
 
 لحسن الحظ، الحد الأدنى من الرصيد المطلوب يمكن أن يكون منخفضًا كدولار واحد وهذا شيء يقدره ويتفهمه المستخدمون. تكلفة فرصة الفائدة المفقودة لا تتكبد التكلفة المعرفية للرسوم الصغرى وهي أكثر قبولا بكثير للمستخدمين.
 
-The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power).
+ستيم (STEEM) المستخدمة لتمويل حساب مسبقاً تحول لطاقة في الحساب الجديد (أي تحويلها إلى طاقة ستيم).
 
 ### Adjusting the Reserve Ratio
 
