@@ -486,11 +486,11 @@ All of the above estimates are conservative upper bounds assuming coins and usag
 
 يستخدم رِيبَّل (Ripple) الحد الأدنى من الرصيد [^12] والذي يتم قياسه باستخدام موارد الحساب وتتطلب الحسابات الجديدة تمويل بهذا الحد الأدنى من الرصيد على الأقل. في الوقت الحالي، يبلغ هذا الرصيد الأدنى حوالي 0.15 دولارًا، وهو أكبر من 0.10 دولار أمريكي، التي قدرنا أن تسمح لشخص ما بالتعامل بحرية مرة واحدة على الأقل في الأسبوع.
 
-يمكن أن تفرض سلسلة الكتل (blockchain) قيمة الحد الأدنى لكل مستخدم من خلال عملية طلب الحد الأدنى من الرصيد البسيطة. أي نشاط تجاري يرغب في جلب عميل جديد إلى سلسلة الكتل (blockchain) يمكن أن يمول مسبقا حساب ذلك المستخدم مع الحد الأدنى للرصيد الذي سيسمح له بالتعامل. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+يمكن أن تفرض سلسلة الكتل (blockchain) قيمة الحد الأدنى لكل مستخدم من خلال عملية طلب الحد الأدنى من الرصيد البسيطة. أي نشاط تجاري يرغب في جلب عميل جديد إلى سلسلة الكتل (blockchain) يمكن أن يمول مسبقا حساب ذلك المستخدم مع الحد الأدنى للرصيد الذي سيسمح له بالتعامل. فرض رسوم كبيرة نسبياً (1.00 دولار) على تسجيل مستخدمين جدد سوف يجبر بشكل طبيعي أي شخص يقدم حسابات مجانية على فحص جودة وتفرد كل حساب قبل تسجيله في سلسلة الكتل.
 
-Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
+إن الحفاظ على الحد الأدنى من الرصيد هو فعليا مثل جعل المستخدمين يدفعون رسوم المعاملات مع الفوائد التي كان بإمكانهم الحصول عليها من رصيدهم. الحد الأدنى للرصيد هو ببساطة الرصيد المطلوب لكسب ما يكفي من الفائدة لدفع الرسوم في فترة قصيرة نسبيا من الزمن.
 
-Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn't incur the cognitive cost of a micro-fee and is far more acceptable to users.
+لحسن الحظ، الحد الأدنى من الرصيد المطلوب يمكن أن يكون منخفضًا كدولار واحد وهذا شيء يقدره ويتفهمه المستخدمون. تكلفة فرصة الفائدة المفقودة لا تتكبد التكلفة المعرفية للرسوم الصغرى وهي أكثر قبولا بكثير للمستخدمين.
 
 The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power).
 
