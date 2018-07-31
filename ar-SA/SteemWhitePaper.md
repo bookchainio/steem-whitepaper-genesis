@@ -472,7 +472,7 @@ All of the above estimates are conservative upper bounds assuming coins and usag
 
 ### إنشاء الحساب
 
-يعمل نظام ستيم (Steem) القائم على الحساب مع الأرصدة المعروفة بشكل عام على تبسيط تنفيذ خوارزمية تحديد المعدل القائم على النطاق الترددي. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+يعمل نظام ستيم (Steem) القائم على حساب مع أرصدة معروفة بشكل عام على تبسيط تنفيذ خوارزمية الحد من المعدل القائم على النطاق الترددي. أي حساب برصيد أقل من الحد الأدنى المطلوب للمعاملة مرة واحدة في الأسبوع لن يكون قادرا على التعامل. وهذا يعني أنه ينبغي تمويل جميع الحسابات الجديدة على الأقل بهذا الحد الأدنى من الرصيد. هذا يعني أيضًا أن المستخدمين الراغبين في التعامل بمبالغ أصغر يمكنهم ذالك، طالما لديهم رصيد أكبر ويقومون بإعادة استخدام الحساب.
 
 It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by transferring a larger balance into the account.
 
