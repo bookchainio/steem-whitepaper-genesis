@@ -476,13 +476,13 @@ All of the above estimates are conservative upper bounds assuming coins and usag
 
 من الممكن أن يصبح الحساب منخفض الرصيد الذي تم إنشاؤه خلال وقت الاستخدام المنخفض غير قابل للوصول في حالة ارتفاع نسبة استخدام الشبكة. يمكن استرداد الأموال في أي وقت عن طريق تحويل رصيد أكبر إلى الحساب.
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+من أجل الحفاظ على تجربة مستخدم معقولة مع الحد الأدنى من الحسابات المعلقة، يجب أن تبدأ جميع الحسابات الجديدة مع رصيد 10 أضعاف الحد الأدنى المطلوب للتعامل أسبوعيا. بهذه الطريقة حتى لو كان الطلب يزيد بمقدار 10 سوف تظل الحسابات قابلة للعمل.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+أي رصيد حساب أولي يجب أن يأتي من المستخدم الذي يقوم بإنشاء الحساب وليس من إنشاء العملات بسبب احتمالية هجمات Sybil.
 
-### Justifying Minimum Balances
+### تبرير الحد الأدنى للأرصدة
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^11] . Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+مفهوم إجبار المستخدمين على الحفاظ على الحد الأدنى للرصيد المستمد بشكل طبيعي من قيمة المستخدم[^11]. يعرف أي شخص يدير نشاطا تجاريا أن كل مستخدم لديه قيمة كبيرة. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
 
 Ripple uses a minimum balance[^12] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
 
