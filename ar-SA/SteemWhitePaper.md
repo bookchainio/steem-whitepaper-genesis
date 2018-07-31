@@ -474,7 +474,7 @@ All of the above estimates are conservative upper bounds assuming coins and usag
 
 يعمل نظام ستيم (Steem) القائم على حساب مع أرصدة معروفة بشكل عام على تبسيط تنفيذ خوارزمية الحد من المعدل القائم على النطاق الترددي. أي حساب برصيد أقل من الحد الأدنى المطلوب للمعاملة مرة واحدة في الأسبوع لن يكون قادرا على التعامل. وهذا يعني أنه ينبغي تمويل جميع الحسابات الجديدة على الأقل بهذا الحد الأدنى من الرصيد. هذا يعني أيضًا أن المستخدمين الراغبين في التعامل بمبالغ أصغر يمكنهم ذالك، طالما لديهم رصيد أكبر ويقومون بإعادة استخدام الحساب.
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by transferring a larger balance into the account.
+من الممكن أن يصبح الحساب منخفض الرصيد الذي تم إنشاؤه خلال وقت الاستخدام المنخفض غير قابل للوصول في حالة ارتفاع نسبة استخدام الشبكة. يمكن استرداد الأموال في أي وقت عن طريق تحويل رصيد أكبر إلى الحساب.
 
 In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
 
