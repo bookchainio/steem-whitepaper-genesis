@@ -642,7 +642,7 @@ Rào cản cho hầu hết mọi người khi quyết định tham gia vào mộ
 > 
 > *- Thanh toán vi mô: Một mô hình kinh doanh khả thi [^23]*</blockquote> 
 > 
-> Trong hệ thống Steem, phương thức thanh toán vi mô được sử dụng để trả thưởng cho những người sáng tạo nội dung, nhưng đối với những người bình chọn nội dung thì không thực hiện trả thưởng. Thay vào đó, chi phí cho việc chi trả thưởng sẽ được thực hiện thông qua những token mới. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+> Trong hệ thống Steem, phương thức thanh toán vi mô được sử dụng để trả thưởng cho những người sáng tạo nội dung, nhưng đối với những người bình chọn nội dung thì không thực hiện trả thưởng. Thay vào đó, chi phí cho việc chi trả thưởng sẽ được thực hiện thông qua những token mới. (Giả sử việc định giá thị trường của hệ thống Steem không thay đổi) thành viên tham gia vào hệ thống sẽ bình chọn nội dung để trao thưởng cho người viết, và sau đấy họ sẽ rời khỏi hệ thống với lượng tiền lớn hơn nhiều thời điểm bắt đầu gia nhập. Nói một cách khác, trong hệ thống Steem, giải pháp thanh toán vi mô đã cung cấp cho người tham gia những trải nghiệm tương tự với nhiều trang mạng phổ biến khác đang áp dụng mô hình người dùng kiểm duyệt nội dung.
 > 
 > Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
 > 
