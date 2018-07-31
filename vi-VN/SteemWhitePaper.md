@@ -638,73 +638,73 @@ Steem hoàn toàn bỏ qua hình thức thanh toán vi mô bởi vì một khi n
 
 Rào cản cho hầu hết mọi người khi quyết định tham gia vào một cộng đồng nào đó là việc đưa ra lựa chọn có tính kinh tế trên cơ sở tương thích với những nhu cầu về tinh thần.
 
-> *Trong kỷ nguyên kỹ thuật số với sự bùng nổ thông tin này, hàng ngày chúng ta đã phải đối mặt với vô số những lựa chọn khác nhau khi tiếp cận nguồn thông tin trực tuyến, và mọi quyết định tham gia thêm mạng lưới nào cũng đơn giản là gia tăng thêm sự lo lắng và không chắc chắn mà chúng ta đang phải đối mặt. Những người ủng hộ phương thức thanh toán vi mô tin rằng đơn giản hóa việc áp dụng phương thức thanh toán vi mô có thể giảm bớt sự lệ thuộc vào phương thức và đồng thời tăng sự trải nghiệm cho người dùng, tuy nhiên những tranh luận của họ chỉ làm cho việc đưa ra quyết định khó hơn bội phần. A transaction cannot simultaneously be worth enough to warrant a decision and worth so little that the decision is automatic. **The only transactions that users can approve without thought are ones that cost them nothing**, thus any micro-transaction of positive value will incur mental costs through its requiring a decision. Furthermore, mental transaction costs actually rise below a certain threshold value, a phenomenon that places micropayments at an even greater disadvantage. For instance, it is easy to think that a copy of today's newspapers costs $1, but readers face much more difficulty and anxiety in deciding on the value of each article or word. Such a dilemma will only be replicated and exacerbated if all online content were to be broken down into their components and individually valued within a micropayment system.*
+> *Trong kỷ nguyên kỹ thuật số với sự bùng nổ thông tin này, hàng ngày chúng ta đã phải đối mặt với vô số những lựa chọn khác nhau khi tiếp cận nguồn thông tin trực tuyến, và mọi quyết định tham gia thêm mạng lưới nào cũng đơn giản là gia tăng thêm sự lo lắng và không chắc chắn mà chúng ta đang phải đối mặt. Những người ủng hộ phương thức thanh toán vi mô tin rằng đơn giản hóa việc áp dụng phương thức thanh toán vi mô có thể giảm bớt sự lệ thuộc vào phương thức và đồng thời tăng sự trải nghiệm cho người dùng, tuy nhiên những tranh luận của họ chỉ làm cho việc đưa ra quyết định khó hơn bội phần. Một giao dịch không thể đồng thời vừa đủ để đảm bảo cho việc ra quyết định và cũng không thể quá ít để quyết định được thực hiện tự động. ** Giao dịch duy nhất mà người dùng có thể chấp nhận không cần tính toán là những giao dịch không mất phí</ 0>, vì vậy người dùng sẽ xuất hiện những lăn tăn còn gọi là phí tổn tinh thần khi đưa ra quyết định thực hiện bất kỳ một giao dịch vi mô nào có phát sinh chi phí. Furthermore, mental transaction costs actually rise below a certain threshold value, a phenomenon that places micropayments at an even greater disadvantage. For instance, it is easy to think that a copy of today's newspapers costs $1, but readers face much more difficulty and anxiety in deciding on the value of each article or word. Such a dilemma will only be replicated and exacerbated if all online content were to be broken down into their components and individually valued within a micropayment system.</em></p> 
 > 
-> *- Micropayments: A Viable Business Model [^23]*
-
-Under Steem, micropayments are paid to content producer, but those who vote for the content do not pay. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
-
-Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
-
-## Value is in the Links
-
-The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
-
-Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a link between themselves and the content. This in turn links the consumer to the producer through the content. The more links a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
-
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of links. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and link to new content.
-
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
-
-## Solving the Cryptocurrency Onboarding Problem
-
-It isn't easy to get into cryptocurrency[^24] . Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook's adoption rate have been like if you had to fork over money and a two forms of ID?
-
-Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless).
-
-## Giải pháp cho những vấn đề về tính thanh khoản của tiền tệ điện tử
-
-Giá trị của đồng tiền phụ thuộc vào tính thanh khoản của đồng tiền đó. Bất kỳ ai nắm giữ đồng Bitcoin trị giá $1.00 cũng hiểu rằng giá trị giao dịch của nó cao hơn nhiều so với thực giá. Để tham gia thực hiện giao dịch, người dùng phải tạo một tài khoản, tiến hành xác minh danh tính khách hàng (KYC) và trả phí khởi tạo. Đối với tiền tệ mã hóa, sự thay đổi về lượng không làm thay đổi nhiều về giá trị để có thể thu hút sự quan tâm của người tham gia giao dịch.
-
-Các đại lý giao dịch thường cung cấp cho người dùng cách nhanh nhất để thực hiện chuyển đổi từ tiền tệ điện tử sang các loại hình dịch vụ và hàng hóa hữu hình khác. Thay vì định giá tiền tệ mã hóa theo đồng Đô la như thông thường, các đại lý giao dịch muốn neo giá đồng tiền điện tử theo đơn vị tính của tài khoản họ hiện có. Để chấp nhận một loại tiền tệ không ổn định đòi hỏi phải có sự cân đối kỹ càng trong hệ thống kế toán.
-
-Các đại lý giao dịch sẽ chấp nhận bất kỳ loại tiền tệ nào làm tăng doanh thu cho họ. Do đó, việc họ sở hữu một đồng tiền ổn định với lượng người sử dụng lớn như SMD sẽ giúp các đại lý giao dịch bớt đi nhiều rào cản khi tham gia thị trường. Bằng cách tạo ra một lối tắt cho người tham gia thoát ra khỏi hệ thống mà không gặp bất kỳ khó khăn nào, các đại lý giao dịch đã góp phần cải tiến hệ thống tốt hơn.
-
-Người tham gia giao dịch có thể tiến hành thanh lý lượng nhỏ tiền điện tử họ nhận được theo một cách khác là dưới dạng tiền thưởng nhỏ (tips). Điều này giống cách thức bạn để lại tiền thưởng cho bồi bàn tại các nhà hàng. Khi khoản tiền thưởng nhỏ dành cho nhiều người nó sẽ gộp lại thành một khoản tiền có giá trị. Cả người trao và người nhận các tiền thưởng nhỏ đều có lợi thông qua hoạt động này.
-
-## Hoạt động kiểm duyệt nội dung khi đăng tải
-
-Steem là một mạng lưới phi tập trung được vận hành bởi các thợ mỏ có quyền hạn pháp lý trên toàn thế giới. Mọi hoạt động của người dùng sẽ được ghi lại một cách công khai trên hệ thống blockchain và có thể được xác minh công khai. Điều này có nghĩa là việc kiểm duyệt nội dung của những người tham gia Steem không thể thực hiện đơn lẻ bởi bất kỳ một cá nhân nào.
-
-Các trang mạng như Steemit.com đều cho phép người dùng có thể sửa đổi, kiểm duyệt nội dung trên trang cá nhân của họ, tuy nhiên một khi thông tin được phát hành trên hệ thống blockchain và vốn đã được truy cập, sao chép trên toàn thế giới thì nó sẽ tiếp tục tồn tại.
-
-Tự do ngôn luận là nền tảng của tất cả các quyền tự do khác và bất kỳ hoạt động nào vi phạm về quyền tự do ngôn luận cũng cần thông qua phương pháp hòa bình duy nhất là trao đổi thảo luận để đi đến sự đồng thuận. Những người sử dụng trang mạng sẽ bị thiếu hụt thông tin khi mà họ không được tham gia các cuộc thảo luận tự do và nếu so sánh với việc một người bị mất quyền bình chọn nội dung thì hành động bỏ phiếu với nguồn thông tin không đầy đủ sẽ thực sự là mối đe dọa lớn cho cộng đồng. Thông qua hoạt động giới hạn các bài tham luận công khai thì việc kiểm duyệt nội dung trước khi đăng tải là một hình thức tước đoạt quyền được bình chọn của người tham gia vào mạng lưới. Steem cam kết đem lại cho người dùng một cộng đồng được tự do ngôn luận và bình đẳng.
-
-## Tối đa hóa công cụ tìm kiếm để tạo ra các nguồn quảng cáo tự nhiên cho Steem
-
-Hầu hết mạng lưới của các đồng tiền mã hóa thường không cung cấp nhiều giá trị cho những người không tham gia hoặc ít tham gia hoạt động trên cộng đồng. Trong khi đó, cộng đồng Steem khuyến khích người dùng sáng tạo ra các nội dung bài viết và tích cực chia sẻ thông tin với những đối tượng khác. Những thông tin này sẽ được các các công cụ tìm kiếm trên mạng xã hội nắm bắt và sau đấy sẽ truyền tải đến cho một lượng lớn người dùng thụ động. Cách thức tìm kiếm này sẽ giúp mạng lưới Steem tạo ra các nguồn quảng cáo tự nhiên và phát triển những hiệu ứng khác cho cộng đồng.
-
-## Thực hiện sự chuyển dịch tạo tính pháp lý cho nội dung chia sẻ trên nền tảng Blockchain
-
-Hiện nay cách truyền tải thông tin dễ dàng nhất trên toàn thế giới là sử dụng Internet. Điều đáng nói, mạng Internet cũng là một mối lo ngại cho những nhà sáng tạo nội dung khi mà muốn sở hữu sản phẩm của họ và chỉ chia sẻ với một lượng đối tượng nhất định. Trên các trang mạng xã hội hiện tại, bất kỳ thông tin nào được đăng tải cũng có thể bị đánh cắp sau một đêm - có thể là hành động sao chép lại ảnh hoặc video, có thể là chia sẻ lại nguồn thông tin mà không cần hỏi ý kiến hoặc sự kiểm duyệt của tác giả.
-
-Đối với các mạng xã hội dựa trên nền tảng blockchain, những người kiến tạo nội dung luôn luôn có thể tìm lại các ghi chép công khai và dấu mốc thời gian để minh chứng cho sự sở hữu sản phẩm. Trong trường hợp tác giả muốn tìm lại đối tượng thực hiện hoạt động chia sẻ mà không có sự cho phép thì các ghi chép trên hệ thống blockchain sẽ cung cấp bằng chứng minh bạch về thời gian và danh tính người dùng đấy. Trong tương lai, Chính phủ có thể xác thực những đóng góp, sáng tạo của các thành viên trên hệ thống blockchain, tạo tính pháp lý cho các sản phẩm khi tham gia kiện tụng trước tòa, điều này góp phần làm tăng quyền và trách nhiệm của người dùng đối với tác phẩm của họ.
-
-Trong khi dịch vụ con dấu thời gian hầu như đã được áp dụng ở các hệ thống blockchain và Bitcoin cũng cố gắng triển khai hình thức này thì Steem đã tận dụng lợi thế của dịch vụ con dấu thời gian thành công vào hoạt động cộng đồng mạng Steem bởi tiêu chí của Steem là "vì lợi ích người dùng lên hàng đầu" - Steem ra đời và hoạt động xoay quanh ý tưởng về các trường hợp sử dụng dữ liệu thành viên, điều này cho phép người dùng xác minh nội dung của họ thông qua một cách thức đơn giản là dùng các công cụ tương tự của thành viên khác để tạo ra bài đăng của chính mình.
-
-## Thay thế các hình thức quảng cáo bằng việc trả thưởng cho nội dung được đăng tải trên nền tảng Blockchain
-
-Trong hầu hết các mô hình kiếm tiền từ nội dung bài viết thì những người kiến tạo tác phẩm đều muốn thúc đẩy quảng bá bài viết bằng nhiều cách. Nhiều tác giả nhận ra rằng quảng cáo có thể ảnh hưởng tới việc đánh giá chất lượng bài viết từ phía người sử dụng, tuy nhiên họ vẫn cần thu về giá trị để cân bằng lượng thời gian họ đầu tư cho bài viết. Quảng cáo cũng là con dao hai lưỡi: Thông qua quảng cáo, người sáng tạo nội dung có thể kiếm tiền dễ dàng nhất. Nhưng không có quảng cáo, việc kiếm tiền có thể khó khăn hơn nhưng nội dung bài viết sẽ chất lượng hơn.
-
-Tham gia Steem, người sáng tạo nội dung có thể đăng tải thông tin lên các kênh liên kết khác của Steem và họ sẽ nhận về khoản tiền thưởng thông qua việc ghi nhận (hoặc "bình chọn yêu thích") từ cộng đồng. Các khoản thanh toán trên nền tảng Blockchain hoàn toàn là tiền tệ kỹ thuật số và không thông qua bên trung gian. Do đó việc kiếm tiền thông qua các khoản trả thưởng trên nền tảng blockchain sẽ nhanh chóng và thuận tiện hơn việc quảng cáo sản phẩm để thu lợi nhuận.
-
-# Kết luận
-
-Bằng cách tích hợp những điểm mạnh của tiền tệ điện tử vào phương tiện truyền thông xã hội, Steem ra đời như một thử nghiệm cho những thách thức mà nền công nghiệp tiền tệ kỹ thuật số trong mạng xã hội gặp phải. Steem tạo nên các cơ hội kiếm tiền cho những người sáng tạo và sử dụng nội dung trên Internet thông qua những cách thức chưa từng xuất hiện trong nền công nghiệp phát triển mạng truyền thông xã hội. Tham gia cộng đồng Steem, mỗi thành viên có thể nhận về khoản thưởng thực tương đương với giá trị họ đã đầu tư trên mạng trực tuyến. Những khoản thưởng ấy sẽ được quy đổi ra giá trị đồng Đô la tương ứng với giá thị trường và tính thanh khoản của đồng Steem, và những người sở hữu nhiều đồng Steem sẽ có nhiều quyền lợi thu về lợi ích hơn những người khác.
-
-# Nguồn tham khảo
-
-[^1]: Reddit's Cryptocurrency, Forbes, Erika Morphy, October 2014, <http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/#4e07b05332b9>
+> *- Micropayments: A Viable Business Model [^23]*</blockquote> 
+> 
+> Under Steem, micropayments are paid to content producer, but those who vote for the content do not pay. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+> 
+> Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+> 
+> ## Value is in the Links
+> 
+> The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+> 
+> Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a link between themselves and the content. This in turn links the consumer to the producer through the content. The more links a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+> 
+> A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of links. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and link to new content.
+> 
+> By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+> 
+> ## Solving the Cryptocurrency Onboarding Problem
+> 
+> It isn't easy to get into cryptocurrency[^24] . Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook's adoption rate have been like if you had to fork over money and a two forms of ID?
+> 
+> Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless).
+> 
+> ## Giải pháp cho những vấn đề về tính thanh khoản của tiền tệ điện tử
+> 
+> Giá trị của đồng tiền phụ thuộc vào tính thanh khoản của đồng tiền đó. Bất kỳ ai nắm giữ đồng Bitcoin trị giá $1.00 cũng hiểu rằng giá trị giao dịch của nó cao hơn nhiều so với thực giá. Để tham gia thực hiện giao dịch, người dùng phải tạo một tài khoản, tiến hành xác minh danh tính khách hàng (KYC) và trả phí khởi tạo. Đối với tiền tệ mã hóa, sự thay đổi về lượng không làm thay đổi nhiều về giá trị để có thể thu hút sự quan tâm của người tham gia giao dịch.
+> 
+> Các đại lý giao dịch thường cung cấp cho người dùng cách nhanh nhất để thực hiện chuyển đổi từ tiền tệ điện tử sang các loại hình dịch vụ và hàng hóa hữu hình khác. Thay vì định giá tiền tệ mã hóa theo đồng Đô la như thông thường, các đại lý giao dịch muốn neo giá đồng tiền điện tử theo đơn vị tính của tài khoản họ hiện có. Để chấp nhận một loại tiền tệ không ổn định đòi hỏi phải có sự cân đối kỹ càng trong hệ thống kế toán.
+> 
+> Các đại lý giao dịch sẽ chấp nhận bất kỳ loại tiền tệ nào làm tăng doanh thu cho họ. Do đó, việc họ sở hữu một đồng tiền ổn định với lượng người sử dụng lớn như SMD sẽ giúp các đại lý giao dịch bớt đi nhiều rào cản khi tham gia thị trường. Bằng cách tạo ra một lối tắt cho người tham gia thoát ra khỏi hệ thống mà không gặp bất kỳ khó khăn nào, các đại lý giao dịch đã góp phần cải tiến hệ thống tốt hơn.
+> 
+> Người tham gia giao dịch có thể tiến hành thanh lý lượng nhỏ tiền điện tử họ nhận được theo một cách khác là dưới dạng tiền thưởng nhỏ (tips). Điều này giống cách thức bạn để lại tiền thưởng cho bồi bàn tại các nhà hàng. Khi khoản tiền thưởng nhỏ dành cho nhiều người nó sẽ gộp lại thành một khoản tiền có giá trị. Cả người trao và người nhận các tiền thưởng nhỏ đều có lợi thông qua hoạt động này.
+> 
+> ## Hoạt động kiểm duyệt nội dung khi đăng tải
+> 
+> Steem là một mạng lưới phi tập trung được vận hành bởi các thợ mỏ có quyền hạn pháp lý trên toàn thế giới. Mọi hoạt động của người dùng sẽ được ghi lại một cách công khai trên hệ thống blockchain và có thể được xác minh công khai. Điều này có nghĩa là việc kiểm duyệt nội dung của những người tham gia Steem không thể thực hiện đơn lẻ bởi bất kỳ một cá nhân nào.
+> 
+> Các trang mạng như Steemit.com đều cho phép người dùng có thể sửa đổi, kiểm duyệt nội dung trên trang cá nhân của họ, tuy nhiên một khi thông tin được phát hành trên hệ thống blockchain và vốn đã được truy cập, sao chép trên toàn thế giới thì nó sẽ tiếp tục tồn tại.
+> 
+> Tự do ngôn luận là nền tảng của tất cả các quyền tự do khác và bất kỳ hoạt động nào vi phạm về quyền tự do ngôn luận cũng cần thông qua phương pháp hòa bình duy nhất là trao đổi thảo luận để đi đến sự đồng thuận. Những người sử dụng trang mạng sẽ bị thiếu hụt thông tin khi mà họ không được tham gia các cuộc thảo luận tự do và nếu so sánh với việc một người bị mất quyền bình chọn nội dung thì hành động bỏ phiếu với nguồn thông tin không đầy đủ sẽ thực sự là mối đe dọa lớn cho cộng đồng. Thông qua hoạt động giới hạn các bài tham luận công khai thì việc kiểm duyệt nội dung trước khi đăng tải là một hình thức tước đoạt quyền được bình chọn của người tham gia vào mạng lưới. Steem cam kết đem lại cho người dùng một cộng đồng được tự do ngôn luận và bình đẳng.
+> 
+> ## Tối đa hóa công cụ tìm kiếm để tạo ra các nguồn quảng cáo tự nhiên cho Steem
+> 
+> Hầu hết mạng lưới của các đồng tiền mã hóa thường không cung cấp nhiều giá trị cho những người không tham gia hoặc ít tham gia hoạt động trên cộng đồng. Trong khi đó, cộng đồng Steem khuyến khích người dùng sáng tạo ra các nội dung bài viết và tích cực chia sẻ thông tin với những đối tượng khác. Những thông tin này sẽ được các các công cụ tìm kiếm trên mạng xã hội nắm bắt và sau đấy sẽ truyền tải đến cho một lượng lớn người dùng thụ động. Cách thức tìm kiếm này sẽ giúp mạng lưới Steem tạo ra các nguồn quảng cáo tự nhiên và phát triển những hiệu ứng khác cho cộng đồng.
+> 
+> ## Thực hiện sự chuyển dịch tạo tính pháp lý cho nội dung chia sẻ trên nền tảng Blockchain
+> 
+> Hiện nay cách truyền tải thông tin dễ dàng nhất trên toàn thế giới là sử dụng Internet. Điều đáng nói, mạng Internet cũng là một mối lo ngại cho những nhà sáng tạo nội dung khi mà muốn sở hữu sản phẩm của họ và chỉ chia sẻ với một lượng đối tượng nhất định. Trên các trang mạng xã hội hiện tại, bất kỳ thông tin nào được đăng tải cũng có thể bị đánh cắp sau một đêm - có thể là hành động sao chép lại ảnh hoặc video, có thể là chia sẻ lại nguồn thông tin mà không cần hỏi ý kiến hoặc sự kiểm duyệt của tác giả.
+> 
+> Đối với các mạng xã hội dựa trên nền tảng blockchain, những người kiến tạo nội dung luôn luôn có thể tìm lại các ghi chép công khai và dấu mốc thời gian để minh chứng cho sự sở hữu sản phẩm. Trong trường hợp tác giả muốn tìm lại đối tượng thực hiện hoạt động chia sẻ mà không có sự cho phép thì các ghi chép trên hệ thống blockchain sẽ cung cấp bằng chứng minh bạch về thời gian và danh tính người dùng đấy. Trong tương lai, Chính phủ có thể xác thực những đóng góp, sáng tạo của các thành viên trên hệ thống blockchain, tạo tính pháp lý cho các sản phẩm khi tham gia kiện tụng trước tòa, điều này góp phần làm tăng quyền và trách nhiệm của người dùng đối với tác phẩm của họ.
+> 
+> Trong khi dịch vụ con dấu thời gian hầu như đã được áp dụng ở các hệ thống blockchain và Bitcoin cũng cố gắng triển khai hình thức này thì Steem đã tận dụng lợi thế của dịch vụ con dấu thời gian thành công vào hoạt động cộng đồng mạng Steem bởi tiêu chí của Steem là "vì lợi ích người dùng lên hàng đầu" - Steem ra đời và hoạt động xoay quanh ý tưởng về các trường hợp sử dụng dữ liệu thành viên, điều này cho phép người dùng xác minh nội dung của họ thông qua một cách thức đơn giản là dùng các công cụ tương tự của thành viên khác để tạo ra bài đăng của chính mình.
+> 
+> ## Thay thế các hình thức quảng cáo bằng việc trả thưởng cho nội dung được đăng tải trên nền tảng Blockchain
+> 
+> Trong hầu hết các mô hình kiếm tiền từ nội dung bài viết thì những người kiến tạo tác phẩm đều muốn thúc đẩy quảng bá bài viết bằng nhiều cách. Nhiều tác giả nhận ra rằng quảng cáo có thể ảnh hưởng tới việc đánh giá chất lượng bài viết từ phía người sử dụng, tuy nhiên họ vẫn cần thu về giá trị để cân bằng lượng thời gian họ đầu tư cho bài viết. Quảng cáo cũng là con dao hai lưỡi: Thông qua quảng cáo, người sáng tạo nội dung có thể kiếm tiền dễ dàng nhất. Nhưng không có quảng cáo, việc kiếm tiền có thể khó khăn hơn nhưng nội dung bài viết sẽ chất lượng hơn.
+> 
+> Tham gia Steem, người sáng tạo nội dung có thể đăng tải thông tin lên các kênh liên kết khác của Steem và họ sẽ nhận về khoản tiền thưởng thông qua việc ghi nhận (hoặc "bình chọn yêu thích") từ cộng đồng. Các khoản thanh toán trên nền tảng Blockchain hoàn toàn là tiền tệ kỹ thuật số và không thông qua bên trung gian. Do đó việc kiếm tiền thông qua các khoản trả thưởng trên nền tảng blockchain sẽ nhanh chóng và thuận tiện hơn việc quảng cáo sản phẩm để thu lợi nhuận.
+> 
+> # Kết luận
+> 
+> Bằng cách tích hợp những điểm mạnh của tiền tệ điện tử vào phương tiện truyền thông xã hội, Steem ra đời như một thử nghiệm cho những thách thức mà nền công nghiệp tiền tệ kỹ thuật số trong mạng xã hội gặp phải. Steem tạo nên các cơ hội kiếm tiền cho những người sáng tạo và sử dụng nội dung trên Internet thông qua những cách thức chưa từng xuất hiện trong nền công nghiệp phát triển mạng truyền thông xã hội. Tham gia cộng đồng Steem, mỗi thành viên có thể nhận về khoản thưởng thực tương đương với giá trị họ đã đầu tư trên mạng trực tuyến. Những khoản thưởng ấy sẽ được quy đổi ra giá trị đồng Đô la tương ứng với giá thị trường và tính thanh khoản của đồng Steem, và những người sở hữu nhiều đồng Steem sẽ có nhiều quyền lợi thu về lợi ích hơn những người khác.
+> 
+> # Nguồn tham khảo
+> 
+> [^1]: Reddit's Cryptocurrency, Forbes, Erika Morphy, October 2014, <http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/#4e07b05332b9>
 
 [^2]: Sweat Equity, Investopedia, <http://www.investopedia.com/terms/s/sweatequity.asp>
 
