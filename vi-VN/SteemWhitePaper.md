@@ -652,9 +652,9 @@ Rào cản cho hầu hết mọi người khi quyết định tham gia vào mộ
 > 
 > Các đường dẫn có thể xuất hiện dưới nhiều hình thức và đã thực hiện điều chỉnh để thích ứng theo thời gian. Bất kỳ lúc nào người dùng đánh giá cho một nội dung nào đó trên mạng xã hội, họ sẽ bổ sung thêm đường dẫn về nội dung đấy trong đánh giá của mình. Do vậy, điều này lại tạo mối liên kết giữa người sử dụng nội dung và người sáng tạo nội dung. Một mạng lưới càng có nhiều đường dẫn liên kết thì lượng thông tin mà trang mạng đấy mang lại càng có giá trị. Sự kết nối thông tin có chủ ý này đã mang lại giá trị cho trang mạng.
 > 
-> Một trang mạng xã hội có thể tối đa hóa giá trị thông tin được trích dẫn từ nội dung nào đó trên trang mạng đó bằng cách tối ưu số lượng và chất lượng của các đường dẫn liên kết. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and link to new content.
+> Một trang mạng xã hội có thể tối đa hóa giá trị thông tin được trích dẫn từ nội dung nào đó trên trang mạng bằng cách tối ưu số lượng và chất lượng của các đường dẫn liên kết. Thực hiện đánh giá nội dung rất tốn kém và mất nhiều thời gian trong khi đó gần như không thể thực hiện nếu thiếu các đường liên kết. Steem tiến hành trả thưởng cho những thành viên đầu tiên tìm ra và liên kết tới những nội dung mới.
 > 
-> By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+> Thông qua việc trả thưởng cho hoạt động đánh giá bài viết, mạng Steem có thể sử dụng các thuật toán đã được tự động hóa để trích xuất những thông tin giá trị nhất từ một nguồn nội dung khổng lồ.
 > 
 > ## Solving the Cryptocurrency Onboarding Problem
 > 
