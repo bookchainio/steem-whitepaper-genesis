@@ -498,7 +498,7 @@ All of the above estimates are conservative upper bounds assuming coins and usag
 
 يتطلب الحد من المعدل أن تقوم الشبكة بضبط نسبة الاحتياطي بسرعة كافية للتخفيف من تأثير مهاجم يحاول إغراق الشبكة. لنفترض أن المهاجم لديه رصيد كبير، لنقل 1٪ من العملات المتاحة. إذا افترضنا أيضًا أن الشبكة تستهدف استخدام 50٪، فعندئذ سيعثر الهجوم المستدام على هذا المستخدم مخنوقًا بـ 25٪ من سعة الشبكة على افتراض أن كل شخص يستخدم 25٪ من السعة أيضًا. وبطريقة أخرى، يجب ألا يتمكن أكبر مستخدم منفرد من استهلاك أكثر من 50٪ من السعة المستهدفة ما لم يكن لديه أكثر من 50٪ من طاقة ستيم (SP).
 
-دعونا نستخدم نسبة احتياطي أولي بـ 200x. Due to fractional reserves, this means someone holding 1% of the tokens has the right to demand transactions totalling 2x the maximum block size. In order to bring the network usage of the attacker down to 25% the reserve ratio would have to fall to 25x. This would cause the minimum balance required to transact once per week to grow by 8x.
+دعونا نستخدم نسبة احتياطي أولي بـ 200 ضعف. بسبب الاحتياطات الجزئية، لدى شخص يمتلك 1٪ من العملات الحق في المطالبة بمعاملات يبلغ مجموعها ضعفي (2x) الحد الأقصى لحجم الكتلة. لكي تصل نسبة استخدام المهاجم للشبكة إلى 25٪، يجب أن تنخفض نسبة الاحتياطي إلى 25 ضعفًا (25x). This would cause the minimum balance required to transact once per week to grow by 8x.
 
 The blockchain can establish a response rate that says any sustained increase in usage should be brought down to the target capacity in within a short period of time (say 30 seconds). An attacker attempting to spam the network shouldn't be able to disrupt service for normal users for more than a minute.
 
