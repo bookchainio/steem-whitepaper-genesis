@@ -650,9 +650,9 @@ Rào cản cho hầu hết mọi người khi quyết định tham gia vào mộ
 > 
 > Internet sẽ mất phần lớn giá trị của nó nếu tất cả các liên kết giữa các nội dung bị xóa. Các trang mạng có mối quan hệ với nhau, điều này cho phép Google xác định được công thức làm bánh táo ngon nhất trong số 16 triệu kết quả tìm kiếm. Nếu không có các đường dẫn liên kết thì thông tin duy nhất mà Google sẽ nhận về chỉ là số lần xuất hiện của các từ tìm kiếm.
 > 
-> Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a link between themselves and the content. This in turn links the consumer to the producer through the content. The more links a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+> Các đường dẫn có thể xuất hiện dưới nhiều hình thức và đã thực hiện điều chỉnh để thích ứng theo thời gian. Bất kỳ lúc nào người dùng đánh giá cho một nội dung nào đó trên mạng xã hội, họ sẽ bổ sung thêm đường dẫn về nội dung đấy trong đánh giá của mình. Do vậy, điều này lại tạo mối liên kết giữa người sử dụng nội dung và người sáng tạo nội dung. Một mạng lưới càng có nhiều đường dẫn liên kết thì lượng thông tin mà trang mạng đấy mang lại càng có giá trị. Sự kết nối thông tin có chủ ý này đã mang lại giá trị cho trang mạng.
 > 
-> A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of links. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and link to new content.
+> Một trang mạng xã hội có thể tối đa hóa giá trị thông tin được trích dẫn từ nội dung nào đó trên trang mạng đó bằng cách tối ưu số lượng và chất lượng của các đường dẫn liên kết. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and link to new content.
 > 
 > By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
 > 
