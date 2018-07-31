@@ -628,7 +628,7 @@ Trên thực tế, để nhận dược nhưng lợi ích mong muốn, mọi ng�
 
 Trên mạng xã hội Reddit, người dùng của họ bình chọn 220 lần và tạo ra 23 bài viết trong mỗi giây. Reddit được trị giá khoảng giữa 500 triệu đô la[^21] và 4 tỷ đô la[^22] tức là mỗi upvote và bài viết đáng giá 0.06 đô la và 0.05 đô la, với giả định giá trị của Reddit tương tự so với năm trước. Người ta có thể lập luận cho rằng giá trị của Reddit thuộc về những thảo luận gần như trong thời gian thực xảy ra trong tuần trước đó và có khả năng gia tăng đáng kể giá trị của hoạt động mới. Và mọi người thường đi theo xu hướng của đám đông hiện tại chứ không phải theo lối cũ người ta đi từ hôm qua.
 
-## No Micropayments, Tips Optional
+## Không thực hiện thanh toán vi mô, Steem thực hiện các phương án trả thưởng tùy chọn
 
 Hiện tại, các nhà sáng lập đang hết sức nỗ lực trong việc tích hợp xây dựng tiền tệ mã hóa trong cộng đồng với phương tiện truyền thông xã hội nhằm mục đích tạo cơ hội cho chính những người tham gia tự trao thưởng cho nhau. Cũng có rất nhiều dịch vụ xuất hiện để thực hiện hình thức trao thưởng. Theo lý thuyết thì các phương thức trao thưởng càng đơn giản thì càng thu hút nhiều người tham gia. Có một số dịch vụ khác lại yêu cầu người tham gia trả tiền để quảng bá hoặc tăng thứ hạng trong bảng đánh giá xếp loại nội dung. Và có không ít người cố gắng xây dựng một bảng dự đoán thị trường nhỏ để tính toán giá trị thưởng mà mỗi một bài viết có thể nhận về.
 
@@ -644,11 +644,11 @@ Rào cản cho hầu hết mọi người khi quyết định tham gia vào mộ
 > 
 > Trong hệ thống Steem, phương thức thanh toán vi mô được sử dụng để trả thưởng cho những người sáng tạo nội dung, nhưng đối với những người bình chọn nội dung thì không thực hiện trả thưởng. Thay vào đó, chi phí cho việc chi trả thưởng sẽ được thực hiện thông qua những token mới. (Giả sử việc định giá thị trường của hệ thống Steem không thay đổi) thành viên tham gia vào hệ thống sẽ bình chọn nội dung để trao thưởng cho người viết, và sau đấy họ sẽ rời khỏi hệ thống với lượng tiền lớn hơn nhiều thời điểm bắt đầu gia nhập. Nói một cách khác, trong hệ thống Steem, giải pháp thanh toán vi mô đã cung cấp cho người tham gia những trải nghiệm tương tự với nhiều trang mạng phổ biến khác đang áp dụng mô hình người dùng kiểm duyệt nội dung.
 > 
-> Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+> Hơn thế nữa, Steem thực hiện thanh toán cho những đối tượng tìm ra tác giả xứng đáng được trả thưởng! Đây là một tư duy mang tính cách mạng.
 > 
 > ## Value is in the Links
 > 
-> The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+> Internet sẽ mất phần lớn giá trị của nó nếu tất cả các liên kết giữa các nội dung bị xóa. Các trang mạng có mối quan hệ với nhau, điều này cho phép Google xác định được công thức làm bánh táo ngon nhất trong số 16 triệu kết quả tìm kiếm. Nếu không có các đường dẫn liên kết thì thông tin duy nhất mà Google sẽ nhận về chỉ là số lần xuất hiện của các từ tìm kiếm.
 > 
 > Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a link between themselves and the content. This in turn links the consumer to the producer through the content. The more links a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
 > 
