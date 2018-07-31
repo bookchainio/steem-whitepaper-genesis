@@ -468,11 +468,11 @@ All of the above estimates are conservative upper bounds assuming coins and usag
 
 #### مقارنة للرسوم
 
-إذا افترضنا أن مستخدم يملك ما قيمته 25 دولارا أمريكيا من بتكوين يقوم بمعاملة واحدة في كل اسبوع ويدفع رسوما قدرها $0.04 سنتاً في كل مرة، فإنه سيدفع أكثر من 2 دولار في الرسوم سنويا. سيضطر المستخدم إلى كسب معدل عائد بنسبة 8٪ من 25 دولارًا التي يملكها فقط للتساوي مع رسوم الدفع. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+إذا افترضنا أن مستخدم يملك ما قيمته 25 دولارا أمريكيا من بتكوين يقوم بمعاملة واحدة في كل اسبوع ويدفع رسوما قدرها $0.04 سنتاً في كل مرة، فإنه سيدفع أكثر من 2 دولار في الرسوم سنويا. سيضطر المستخدم إلى كسب معدل عائد بنسبة 8٪ من 25 دولارًا التي يملكها فقط للتساوي مع رسوم الدفع. هناك احتمالات بأن المستخدمين سيحتفظون بأموالهم على سلسلة الكتل (blockchain) على أي حال، لذلك هذا المستخدم الذي يملك بتكوين بقيمة 25 دولار قد حافظ على 2 دولار على مدار السنة باعتماد نهج الحد من المعدل بدلاً من المقاربة المستندة إلى الرسوم. مع 175 دولارًا فقط يمكن إجراء معاملات كل يوم وتوفير 14 دولارًا سنويًا.
 
-### Account Creation
+### إنشاء الحساب
 
-Steem's account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+يعمل نظام ستيم (Steem) القائم على الحساب مع الأرصدة المعروفة بشكل عام على تبسيط تنفيذ خوارزمية تحديد المعدل القائم على النطاق الترددي. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
 
 It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by transferring a larger balance into the account.
 
