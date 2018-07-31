@@ -482,7 +482,7 @@ All of the above estimates are conservative upper bounds assuming coins and usag
 
 ### تبرير الحد الأدنى للأرصدة
 
-مفهوم إجبار المستخدمين على الحفاظ على الحد الأدنى للرصيد المستمد بشكل طبيعي من قيمة المستخدم[^11]. يعرف أي شخص يدير نشاطا تجاريا أن كل مستخدم لديه قيمة كبيرة. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+مفهوم إجبار المستخدمين على الحفاظ على الحد الأدنى للرصيد المستمد بشكل طبيعي من قيمة المستخدم[^11]. يعرف أي شخص يدير نشاطا تجاريا أن كل مستخدم لديه قيمة كبيرة. الأنشطة التجارية في كل مكان تنفق ما بين 30 دولارًا إلى 200 دولار للحصول على مستخدم واحد. في بعض الأحيان تدفع للمستخدمين مباشرة، وأحيانا أخرى تدفع للإعلان، ومرات أخرى يتم شراء الشركات بأكملها فقط من أجل قاعدة المستخدمين الخاصة بهم. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
 
 Ripple uses a minimum balance[^12] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
 
