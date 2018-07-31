@@ -646,7 +646,7 @@ Rào cản cho hầu hết mọi người khi quyết định tham gia vào mộ
 > 
 > Hơn thế nữa, Steem thực hiện thanh toán cho những đối tượng tìm ra tác giả xứng đáng được trả thưởng! Đây là một tư duy mang tính cách mạng.
 > 
-> ## Value is in the Links
+> ## Các đường dẫn liên kết mang lại nhiều giá trị
 > 
 > Internet sẽ mất phần lớn giá trị của nó nếu tất cả các liên kết giữa các nội dung bị xóa. Các trang mạng có mối quan hệ với nhau, điều này cho phép Google xác định được công thức làm bánh táo ngon nhất trong số 16 triệu kết quả tìm kiếm. Nếu không có các đường dẫn liên kết thì thông tin duy nhất mà Google sẽ nhận về chỉ là số lần xuất hiện của các từ tìm kiếm.
 > 
@@ -658,7 +658,7 @@ Rào cản cho hầu hết mọi người khi quyết định tham gia vào mộ
 > 
 > ## Solving the Cryptocurrency Onboarding Problem
 > 
-> It isn't easy to get into cryptocurrency[^24] . Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook's adoption rate have been like if you had to fork over money and a two forms of ID?
+> Gia nhập thị trường tiền tệ mã hóa không hề dễ dàng[^24]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook's adoption rate have been like if you had to fork over money and a two forms of ID?
 > 
 > Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless).
 > 
