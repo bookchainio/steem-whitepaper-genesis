@@ -677,11 +677,11 @@ Steem是一个由世界各地的矿工们运营的一个区中心化网络。 �
 
 单独的网站例如steemit.com可以审核它网站上的内容，但在区块链上发布的内容被广播和镜像到世界各地，因此无论审核与否该内容都可访问。
 
-言论自由是所有其他自由的基础，任何侵犯言论自由的行为都会破坏为达成共识的唯一的和平手段：讨论。 没有这些自由的讨论，选民就可能不完全知情，而不知情的选民对社会的危害比失去投票权更大。 审查其实就是通过限制公共话语权来偷取选票。 Steem is committed to enabling free speech and building a free society.
+言论自由是所有其他自由的基础，任何侵犯言论自由的行为都会破坏为达成共识的唯一的和平手段：讨论。 没有这些自由的讨论，选民就可能不完全知情，而不知情的选民对社会的危害比失去投票权更大。 审查其实就是通过限制公共话语权来偷取选票。 Steem致力于实现言论自由并创建一个自由社会。
 
-## Solving Organic Discovery via Search Engine Optimization
+## 通过搜索引擎优化来解决原生发现问题
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+大多数的加密货币对那些并没有积极使用网络的人产生很小的价值。 于此相反，Steem生成内容并鼓励用户来分享内容。 这些内容会被搜索引擎收录，并将给大量被动用户带来价值。 这些搜索流量会对Steem网络产生原生的广告效果，且会增长网络效应。
 
 ## Shifting Toward Blockchain-based Attribution
 
