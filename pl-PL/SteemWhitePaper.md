@@ -56,11 +56,11 @@ Skoro wolny rynek jest sprawdzonym systemem, kuszącym jest próbować stworzyć
 
 Steem jest zaprojektowany tak aby umożliwić efektywne mikropłatności dla wszystkich rodzajów kontrybucji poprzez zmianę w równaniu ekonomicznym. Czytelnicy nie muszą już decydować czy chcą płacić komuś z własnej kieszeni, zamiast tego mogą głosować w górę lub w dół na zawartość, a Steem użyje ich głosów by zdeterminować indywidualne nagrody. Oznacza to że ludzie otrzymują znajomy i powszechnie używany interfejs i nie muszą się już kłopotać z kosztami kongitywnymi finansowymi oraz kosztami szansy powiązanymi z tradycyjnymi platformami mikropłatnościowymi i napiwkowymi.
 
-Wkład głosowania od członków społeczności jest krytycznie ważny dla Steem w celu celnego alokowania płatności dla kontrybutorów. Voting can therefore be viewed as a crucial contribution and worthy of rewards on its own. Some platforms, such as Slashdot, use meta-moderation [^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+Wkład głosowania od członków społeczności jest krytycznie ważny dla Steem w celu celnego alokowania płatności dla kontrybutorów. Głosowanie może być w takim razie postrzegane jako ważna kontrybucja, warta nagród sama w sobie. Niektóre platformy, takie jak Slashdot, używają meta-moderacji [^3] jako sposobu rankingowania i nagradzania szczerych moderatorów. Steem wybiera by nagrodzić tych, którzy kontrybutują najwięcej do całkowitej promocji kawałka zawartości i nagrodzić głosujących proporcjonalnie do finalnej nagrody wypłaconej autorowi zawartości.
 
-There are other forms of contribution that Steem recognizes and rewards using objective metrics. Among these are: transaction validation, proof of work mining, liquidity rewards, and reporting of misbehaving block producers.
+Istnieją również inne formy kontrybucji które Steem rozpoznaje i nagradza używając obiektywnych metryk. Wśród nich są: walidacja transakcji, dowód pracy kopania, nagrody płynności oraz zgłaszanie źle zachowujących się producentów bloków.
 
-# Ways to Contribute
+# Sposoby na kontrybutowanie
 
 This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
 
