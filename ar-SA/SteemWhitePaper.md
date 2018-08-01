@@ -391,7 +391,7 @@ Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users t
 
 Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
 
-### Changing Fees
+### الرسوم المتغيرة
 
 Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
 
@@ -454,9 +454,9 @@ In a decentralized system there is no direct way to ban users nor centralized pr
     CLR/S = 2869 bytes per week, or about 5 transactions/week per BTC
     
 
-بما أن R = 38 هو الحد الأدنى لنسبة الاحتياطي، فإن CLR/S هو الحد الأدنى لعرض النطاق المسموح به. تقترح دراسة الحالة البسيطة هذه أن المستخدم سيحتاج على الأقل لـ 0.20 بيتكوين (BTC) (أكثر من 80 دولار حتى كتابة هذه السطور) للقيام بمعاملة واحدة في الأسبوع. However, this is a loose upper bound derived from the assumption that all BTC are equally mobile. هذا ليس هو الحال - المستخدمين الذين لديهم عشرات أو مئات البيتكوين لا يجرون بالضرورة عشرات أو مئات المعاملات في الأسبوع! ستؤدي "بقايا" المعاملات التي قام بها هؤلاء المستخدمون "يجب" إلى زيادة نسبة الاحتياطي، مما يسمح "بإعادة تدوير" عرض النطاق الترددي غير المستخدم من أجل المستخدمين الصغار.
+بما أن R = 38 هو الحد الأدنى لنسبة الاحتياطي، فإن CLR/S هو الحد الأدنى لعرض النطاق المسموح به. تقترح دراسة الحالة البسيطة هذه أن المستخدم سيحتاج على الأقل لـ 0.20 بيتكوين (BTC) (أكثر من 80 دولار حتى كتابة هذه السطور) للقيام بمعاملة واحدة في الأسبوع. ومع ذلك، استناداً إلى افتراض أن كل البيتكوين (BTC) متساوي، سيكون الحد الأعلى غير مستقر. هذا ليس هو الحال - المستخدمين الذين لديهم عشرات أو مئات البيتكوين لا يجرون بالضرورة عشرات أو مئات المعاملات في الأسبوع! ستؤدي "بقايا" المعاملات التي قام بها هؤلاء المستخدمون "يجب" إلى زيادة نسبة الاحتياطي، مما يسمح "بإعادة تدوير" عرض النطاق الترددي غير المستخدم من أجل المستخدمين الصغار.
 
-All of the above estimates are conservative upper bounds assuming coins and usage are distributed in a relatively flat manner. The reality is that heavy users, such as exchanges, have a much higher coin-to-usage ratio than lighter users, which in turn means that actual minimum balance requirements are far lower.
+جميع التقديرات المذكورة أعلاه هي حدود علوية محافظة، على افتراض أن العملات والإستخدام يتم توزيعهم بشكل متساوٍ نسبيًا. الحقيقة هي أن المستخدمين الأثقل وزناً، مثل منصات التبادل، لديهم نسبة عملة إلى الاستخدام أعلى بكثير من المستخدمين الأخف وزناً، وهذا بدوره يعني أن الحد الأدنى الفعلي لمتطلبات الرصيد أقل بكثير.
 
 #### تأثير السعة
 
