@@ -500,7 +500,7 @@ All of the above estimates are conservative upper bounds assuming coins and usag
 
 دعونا نستخدم نسبة احتياطي أولي بـ 200 ضعف. بسبب الاحتياطات الجزئية، لدى شخص يمتلك 1٪ من العملات الحق في المطالبة بمعاملات يبلغ مجموعها ضعفي (2x) الحد الأقصى لحجم الكتلة. لكي تصل نسبة استخدام المهاجم للشبكة إلى 25٪، يجب أن تنخفض نسبة الاحتياطي إلى 25 ضعفًا (25x). سيؤدي هذا إلى نمو الحد الأدنى للرصيد المطلوب للقيام بمعاملة مرة واحدة في الأسبوع بمعدل 8 أضعاف (8x).
 
-The blockchain can establish a response rate that says any sustained increase in usage should be brought down to the target capacity in within a short period of time (say 30 seconds). An attacker attempting to spam the network shouldn't be able to disrupt service for normal users for more than a minute.
+يمكن لسلسة الكتل إنشاء معدل استجابة يفيد بأنه يجب خفض أي زيادة مستمرة في الاستخدام إلى السعة المستهدفة في غضون فترة زمنية قصيرة (مثلاً 30 ثانية). An attacker attempting to spam the network shouldn't be able to disrupt service for normal users for more than a minute.
 
 While reductions in the reserve ratio must be quick and non-linear to counter abuse, increases in the reserve ratio should be slow and linear. If the network adjusted in both directions in just 30 seconds then an attacker could pulse the network. A flood of transactions should be corrected in 30 seconds and then take a hour to return to their pre-attack levels. Under this model the attacker could flood the network for 30 seconds per hour or less than 1% of the time.
 
