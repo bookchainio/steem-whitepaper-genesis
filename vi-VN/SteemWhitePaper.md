@@ -510,7 +510,7 @@ Any user with fewer than TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) will be unable to
 
 ### Effectiveness Relative to Fees
 
-To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+Để so sánh tính hiệu quả của việc giới hạn tỷ lệ đối với phí chúng ta phải xem xét cách thức hai hệ thống này xử lý khi xảy ra các cuộc tấn công mạng có chủ đích. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
 
 If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
 
