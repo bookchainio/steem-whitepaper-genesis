@@ -658,7 +658,7 @@ Rào cản cho hầu hết mọi người khi quyết định tham gia vào mộ
 > 
 > ## Solving the Cryptocurrency Onboarding Problem
 > 
-> Gia nhập thị trường tiền tệ mã hóa không hề dễ dàng[^24]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook's adoption rate have been like if you had to fork over money and a two forms of ID?
+> Gia nhập thị trường tiền tệ mã hóa không hề dễ dàng[^24]. Bất kỳ ai khám phá ra Bitcoin và muốn nhanh chóng thử nghiệm cách sử dụng cũng phải đăng ký tài khoản trên một sàn giao dịch và chuyển vào tài khoản một lượng giá trị thông qua thẻ tín dụng hoặc Điện chuyển khoản ngân hàng. Hoạt động thâm nhập Facebook sẽ trở nên như thế nào nếu người tham gia phải đóng phí và thực hiện xác nhận danh tính trên hai hình thức?
 > 
 > Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless).
 > 
