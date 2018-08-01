@@ -508,7 +508,7 @@ There must be a slow constant upward pressure on the reserve ratio any time netw
 
 Any user with fewer than TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) will be unable to produce enough transactions to fill even a single block. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
 
-### الفعالية النسبية للرسوم
+### الكفاءة مقابل الرسوم
 
 لمقارنة فعالية معدل الحد من الرسوم يجب أن ننظر في كيفية استجابة النظامين لشبكة تتعرض بشكل مقصود لهجوم الإغراق من قبل مهاجم. في بيتكوين (Bitcoin) مهاجم مع $10،000 دولار يمكن أن يعطل الخدمة ليوم كامل عن طريق ملء جميع الكتل. لن يتمكن المهاجم نفسه من تعطيل الخدمة حتى ولو لكتلة واحدة بموجب نهج الحد من معدل الاحتياط الكسري الديناميكي.
 
