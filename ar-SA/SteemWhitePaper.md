@@ -438,7 +438,7 @@ In a decentralized system there is no direct way to ban users nor centralized pr
 
 يحق للمستخدم الحصول على متوسط عرض نطاق على النحو التالي M \* U / S. وفي أي وقت تتسبب فيه إحدى المعاملات في أن يتجاوز المستخدم متوسط هذا الحد، لن يكون في مقدوره إجراء أي معاملات حتى يمر الوقت الكافي لخفض المتوسط.
 
-The network can increase the reserve ratio, anytime blocks are less than half the target capacity and decrease it anytime they are more than half. The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
+يمكن للشبكة زيادة نسبة الاحتياطي، في أي وقت تكون الكتل أقل من نصف السعة المستهدفة وتقليلها في أي وقت تزيد فيها عن النصف. تم تصميم الخوارزمية المستخدمة لضبط R للتفاعل بسرعة لخفض نسبة الاحتياطي عندما يكون هناك زيادة في الطلب، بينما تعمل ببطء لزيادة نسبة الاحتياطي في فترة انخفاض الطلب.
 
 The minimum reserve ratio is 1, and the maximum reserve ratio should be calculated to prevent small stakeholders from consuming all of the available bandwidth. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
 
