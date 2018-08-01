@@ -675,9 +675,9 @@ Another way that people can liquidate the small amounts of cryptocurrency they r
 
 Steem是一个由世界各地的矿工们运营的一个区中心化网络。 所有用户的操作都会以公开的方式记录在区块链上，同时可以被公开验证。 这意味着没有一个单一实体可以审核那些STEEM持有者认为有价值的内容。
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+单独的网站例如steemit.com可以审核它网站上的内容，但在区块链上发布的内容被广播和镜像到世界各地，因此无论审核与否该内容都可访问。
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+言论自由是所有其他自由的基础，任何侵犯言论自由的行为都会破坏为达成共识的唯一的和平手段：讨论。 没有这些自由的讨论，选民就可能不完全知情，而不知情的选民对社会的危害比失去投票权更大。 审查其实就是通过限制公共话语权来偷取选票。 Steem is committed to enabling free speech and building a free society.
 
 ## Solving Organic Discovery via Search Engine Optimization
 
