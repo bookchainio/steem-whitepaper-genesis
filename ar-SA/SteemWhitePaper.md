@@ -440,11 +440,11 @@ In a decentralized system there is no direct way to ban users nor centralized pr
 
 يمكن للشبكة زيادة نسبة الاحتياطي، في أي وقت تكون الكتل أقل من نصف السعة المستهدفة وتقليلها في أي وقت تزيد فيها عن النصف. تم تصميم الخوارزمية المستخدمة لضبط R للتفاعل بسرعة لخفض نسبة الاحتياطي عندما يكون هناك زيادة في الطلب، بينما تعمل ببطء لزيادة نسبة الاحتياطي في فترة انخفاض الطلب.
 
-The minimum reserve ratio is 1, and the maximum reserve ratio should be calculated to prevent small stakeholders from consuming all of the available bandwidth. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
+الحد الأدنى لنسبة الاحتياطي هو 1، ويجب حساب نسبة الاحتياطي القصوى لمنع حاملي الحصص الصغيرة من استهلاك كل عرض النطاق الترددي المتوفر. إذا لم يكن أي أحد يستخدم عرض النطاق الترددي المتوفر، فيمكن أن تنمو نسبة الإحتياطي إلى أن يتمكن مستخدم لديه 1 ساتوشي (satoshi) فقط من العملة من القيام بمعاملة في كل كتلة.
 
-### Case Study: Bitcoin
+### دراسة حالة: بيتكوين (Bitcoin)
 
-To understand how this algorithm would work on Bitcoin it is necessary to estimate a reasonable value for the reserve ratio, R, based on actual usage. Based upon the total supply of 15M BTC and a daily transaction volume of 400K BTC[^10], we can derive a minimum reserve ratio of 38 for Bitcoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
+لفهم كيفية عمل هذه الخوارزمية على بيتكوين (Bitcoin)، من الضروري تقدير قيمة معقولة لنسبة الاحتياطي، R، بناءً على الاستخدام الفعلي. إستناداً إلى إجمالي إحتياطي بيتكوين الذي يساوي 15 مليون بيتكوين(BTC) وحجم المعاملة اليومي الذي يساوي 400 ألف بيتكوين[^10] ، يمكننا أن نحصل على معدل احتياطي أدنى يبلغ 38 للبيتكوين. باستخدام المعادلات يمكننا حساب النطاق الترددي الأسبوعي (بالبايت) المسموح به في بيتكوين (BTC) ليكون:
 
     Let C = 1MB = 1024 * 1024
     Let L = 1008 (blocks per week)
@@ -454,7 +454,7 @@ To understand how this algorithm would work on Bitcoin it is necessary to estima
     CLR/S = 2869 bytes per week, or about 5 transactions/week per BTC
     
 
-Since R = 38 is a lower bound on the reserve ratio, CLR/S is a lower bound on the permitted bandwidth. This simple case study suggests a user will require at most 0.20 BTC (over $80 as of this writing) to transact once per week. However, this is a loose upper bound derived from the assumption that all BTC are equally mobile. This is not the case - users with dozens or hundreds of bitcoins do not necessarily transact dozens or hundreds of times a week! The "leftover" transactions that those users "should" have made will increase the reserve ratio, allowing their unused bandwidth to be "recycled" for smaller users.
+بما أن R = 38 هو الحد الأدنى لنسبة الاحتياطي، فإن CLR/S هو الحد الأدنى لعرض النطاق المسموح به. This simple case study suggests a user will require at most 0.20 BTC (over $80 as of this writing) to transact once per week. However, this is a loose upper bound derived from the assumption that all BTC are equally mobile. This is not the case - users with dozens or hundreds of bitcoins do not necessarily transact dozens or hundreds of times a week! The "leftover" transactions that those users "should" have made will increase the reserve ratio, allowing their unused bandwidth to be "recycled" for smaller users.
 
 All of the above estimates are conservative upper bounds assuming coins and usage are distributed in a relatively flat manner. The reality is that heavy users, such as exchanges, have a much higher coin-to-usage ratio than lighter users, which in turn means that actual minimum balance requirements are far lower.
 
