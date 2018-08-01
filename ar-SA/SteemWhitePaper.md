@@ -504,7 +504,7 @@ All of the above estimates are conservative upper bounds assuming coins and usag
 
 في حين يجب أن تكون التخفيضات في نسبة الاحتياطي سريعة وغير خطية لمواجهة سوء الاستخدام، يجب أن تكون الزيادة في نسبة الاحتياطي بطيئة وخطية. إذا تم ضبط الشبكة في كلا الاتجاهين خلال 30 ثانية فقط، فقد يتمكن أحد المهاجمين من ذبذبة الشبكة. يجب تصحيح سَيْل (فيضان) من المعاملات في 30 ثانية، ثم أخد ساعة من الوقت للعودة إلى مستويات ما قبل الهجوم. في إطار هذا النموذج، يمكن للمهاجم إغراق الشبكة لمدة 30 ثانية في الساعة أو أقل من 1٪ من الوقت.
 
-There must be a slow constant upward pressure on the reserve ratio any time network usage is below 50% until the network hits the maximum reserve ratio. The maximum reserve ratio determines the minimum required stake to flood the network in short bursts.
+يجب أن يكون هناك ضغط تصاعدي بطيء ثابت على نسبة الاحتياطي في أي وقت يكون استخدام الشبكة أقل من 50٪ حتى تصل الشبكة إلى الحد الأقصى لنسبة الاحتياطي. The maximum reserve ratio determines the minimum required stake to flood the network in short bursts.
 
 Any user with fewer than TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) will be unable to produce enough transactions to fill even a single block. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
 
