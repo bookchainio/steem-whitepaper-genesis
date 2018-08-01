@@ -419,7 +419,7 @@ In a decentralized system there is no direct way to ban users nor centralized pr
 
 ### مثال توضيحي
 
-Let B equal a user's average bandwidth at time T. Let W equal the number of seconds per week, and let N equal the size of the new transaction that occurred S seconds after T. Given this information the blockchain can calculate the new average bandwidth for a user as:
+لنقل أن B تساوي متوسط عرض النطاق الترددي للمستخدم في الوقت T. و W تساوي عدد الثواني في الأسبوع، و N تساوي حجم المعاملة الجديدة التي حدثت بعد S ثانية من T. في ضوء هذه المعلومات، يمكن لسلسلة الكتل (blockchain) أن تحسب متوسط النطاق الترددي الجديد للمستخدم على النحو التالي:
 
     Bnew = MIN(0,B * (W - S) / W) + N * S / W
     Tnew = T + S
@@ -436,7 +436,7 @@ Let B equal a user's average bandwidth at time T. Let W equal the number of seco
     Allocation = M * U / S
     
 
-A user would be entitled to an average bandwidth of M \* U / S. Any time a transaction would cause the user's average to go above this threshold they would be unable to transact until enough time passes to lower the average.
+يحق للمستخدم الحصول على متوسط عرض نطاق على النحو التالي M \* U / S. وفي أي وقت تتسبب فيه إحدى المعاملات في أن يتجاوز المستخدم متوسط هذا الحد، لن يكون في مقدوره إجراء أي معاملات حتى يمر الوقت الكافي لخفض المتوسط.
 
 The network can increase the reserve ratio, anytime blocks are less than half the target capacity and decrease it anytime they are more than half. The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
 
