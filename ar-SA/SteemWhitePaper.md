@@ -405,9 +405,9 @@ In a decentralized system there is no direct way to ban users nor centralized pr
 
 دعونا ننضر إلى سلسلة الكتل (blockchain) وكأنها موزع لخدمة الإنترنت (ISP) والتي تملك جميع الكابلات في البلدة وتلك الكابلات لديها عرض نطاق ترددي أقصى يمكن ان توفره في أي وقت. يمكن للناس الذين يعيشون في البلدة شراء أسهم في موزع خدمة الإنترنت (ISP) وفي المقابل يحق لهم الاستفادة من جزء من عرض النطاق الترددي المتوفر.
 
-لدى موزع خدمة الإنترنت خياران، تشغيل نظام "احتياطي كامل" أو "احتياطي جزئي". Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town's network would be significantly underutilized.
+لدى موزع خدمة الإنترنت خياران، تشغيل نظام "احتياطي كامل" أو "احتياطي جزئي". بموجب النظام الاحتياطي الكامل، يُسمح لكل مستخدم فقط باستخدام جزء من الحد الأقصى لعرض النطاق الترددي، والذي يتناسب مع الحصص (الأسهم) التي يحملها. ونظرا لإن الجميع لا يستخدمون الانترنت في الوقت نفسه، فإن شبكة البلدة سوف تكون غير مستغلّة بشكل كبير.
 
-Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+وبموجب نظام إحتياطي جزئي، يمكن للمستخدمين الفرديين استخدام المزيد من عرض النطاق الترددي أكثر مما يحق لهم في أي وقت من الأوقات طالما أن الجميع لا يستخدمون الإنترنت في نفس الوقت. تتمثل المشكلة في تشغيل إحتياطي جزئي في أن الازدحام يحدث في أي وقت يرغب فيه الكثير من الأشخاص استخدام الشبكة في نفس الوقت. يحتاج موزع خدمة الإنترنت إلى طريقة لتحديد أولوية عرض النطاق الترددي أثناء فترات الإزدحام. في الحالة الأكثر تطرفًا، يجب أن تعود الشبكة المزدحمة بالكامل إلى نظام احتياطي كامل. يتمثل التحدي في تحديد نسبة إحتياطي جزئي مناسبة.
 
 ## النطاق الترددي بدلا من قنوات الدفع المصغر
 
