@@ -417,7 +417,7 @@ In a decentralized system there is no direct way to ban users nor centralized pr
 
 في تقديرنا، يجب أن يكون كافياً لقياس متوسط استخدام النطاق الترددي الأسبوعي للمستخدمين. في كل مرة يقوم فيها المستخدم بالتوقيع على معاملة، يتم احتساب تلك المعاملة في المتوسط المتحرك الفردي الخاص به. في أي وقت يتجاوز المتوسط المتحرك للمستخدم الحد الحالي للشبكة، يتم تأخير معاملته إلى أن ينخفض متوسطه عن الحد المسموح به.
 
-### Example Implementation
+### مثال توضيحي
 
 Let B equal a user's average bandwidth at time T. Let W equal the number of seconds per week, and let N equal the size of the new transaction that occurred S seconds after T. Given this information the blockchain can calculate the new average bandwidth for a user as:
 
@@ -425,7 +425,7 @@ Let B equal a user's average bandwidth at time T. Let W equal the number of seco
     Tnew = T + S
     
 
-Each user is entitled to an average weekly bandwidth of:
+لكل مستخدم الحق في إستخدام متوسط عرض نطاق ترددي أسبوعي:
 
     Let U = the user's SP
     Let S = the total number of SP
