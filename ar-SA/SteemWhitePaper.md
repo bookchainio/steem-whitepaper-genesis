@@ -454,7 +454,7 @@ In a decentralized system there is no direct way to ban users nor centralized pr
     CLR/S = 2869 bytes per week, or about 5 transactions/week per BTC
     
 
-بما أن R = 38 هو الحد الأدنى لنسبة الاحتياطي، فإن CLR/S هو الحد الأدنى لعرض النطاق المسموح به. This simple case study suggests a user will require at most 0.20 BTC (over $80 as of this writing) to transact once per week. However, this is a loose upper bound derived from the assumption that all BTC are equally mobile. This is not the case - users with dozens or hundreds of bitcoins do not necessarily transact dozens or hundreds of times a week! The "leftover" transactions that those users "should" have made will increase the reserve ratio, allowing their unused bandwidth to be "recycled" for smaller users.
+بما أن R = 38 هو الحد الأدنى لنسبة الاحتياطي، فإن CLR/S هو الحد الأدنى لعرض النطاق المسموح به. تقترح دراسة الحالة البسيطة هذه أن المستخدم سيحتاج على الأقل لـ 0.20 بيتكوين (BTC) (أكثر من 80 دولار حتى كتابة هذه السطور) للقيام بمعاملة واحدة في الأسبوع. However, this is a loose upper bound derived from the assumption that all BTC are equally mobile. هذا ليس هو الحال - المستخدمين الذين لديهم عشرات أو مئات البيتكوين لا يجرون بالضرورة عشرات أو مئات المعاملات في الأسبوع! ستؤدي "بقايا" المعاملات التي قام بها هؤلاء المستخدمون "يجب" إلى زيادة نسبة الاحتياطي، مما يسمح "بإعادة تدوير" عرض النطاق الترددي غير المستخدم من أجل المستخدمين الصغار.
 
 All of the above estimates are conservative upper bounds assuming coins and usage are distributed in a relatively flat manner. The reality is that heavy users, such as exchanges, have a much higher coin-to-usage ratio than lighter users, which in turn means that actual minimum balance requirements are far lower.
 
