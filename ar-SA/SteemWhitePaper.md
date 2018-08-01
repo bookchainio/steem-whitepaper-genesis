@@ -397,9 +397,9 @@ Any fee creates a barrier to entry for new users. Before someone can experiment 
 
 ### هجمات سيبيل (Sybil)
 
-تمنع مواقع الويب المركزية المحتوى غير المرغوب فيه من خلال تقييد المعدل وبعض أشكال التحقق من الهوية. حتى شيء بسيط مثل الكابتشا [^9] (reCAPTCHA) يكفي للحد من إنشاء حسابات وهمية. If someone abuses their account then centralized websites are free to block the account.
+تمنع مواقع الويب المركزية المحتوى غير المرغوب فيه من خلال تقييد المعدل وبعض أشكال التحقق من الهوية. حتى شيء بسيط مثل الكابتشا [^9] (reCAPTCHA) يكفي للحد من إنشاء حسابات وهمية. إذا قام شخص ما بإساءة استخدام حسابه، فستكون للمواقع الإلكترونية المركزية الحرية في حظر الحساب.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+في النظام اللامركزي، لا توجد طريقة مباشرة لحظر المستخدمين أو المزود المركزي القادر على استضافة الكابتشا (reCAPTCHA) وفرض معدل الحد من الحسابات. في الواقع، عدم القدرة على فرض الرقابة على المستخدمين هي واحدة من نقاط البيع الرئيسية لتكنولوجيا سلسلة الكتل (blockchain).
 
 ### الإحتياطي الكامل ضد الإحتياطي الجزئي
 
