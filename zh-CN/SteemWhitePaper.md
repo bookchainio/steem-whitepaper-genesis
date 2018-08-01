@@ -671,9 +671,9 @@ Merchants will accept any currency if it increases their sales. Having a large u
 
 Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through tipping others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
 
-## Censorship
+## 审查
 
-Steem is a decentralized network that is operated by miners in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem是一个由世界各地的矿工们运营的一个区中心化网络。 所有用户的操作都会以公开的方式记录在区块链上，同时可以被公开验证。 这意味着没有一个单一实体可以审核那些STEEM持有者认为有价值的内容。
 
 Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
 
