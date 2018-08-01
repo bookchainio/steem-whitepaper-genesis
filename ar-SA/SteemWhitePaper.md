@@ -401,7 +401,7 @@ Centralized websites prevent spam through rate limiting and some form of ID veri
 
 In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
 
-### Full Reserve vs Fractional Reserve
+### الإحتياطي الكامل ضد الإحتياطي الجزئي
 
 Let's view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
 
@@ -504,9 +504,9 @@ All of the above estimates are conservative upper bounds assuming coins and usag
 
 في حين يجب أن تكون التخفيضات في نسبة الاحتياطي سريعة وغير خطية لمواجهة سوء الاستخدام، يجب أن تكون الزيادة في نسبة الاحتياطي بطيئة وخطية. إذا تم ضبط الشبكة في كلا الاتجاهين خلال 30 ثانية فقط، فقد يتمكن أحد المهاجمين من ذبذبة الشبكة. يجب تصحيح سَيْل (فيضان) من المعاملات في 30 ثانية، ثم أخد ساعة من الوقت للعودة إلى مستويات ما قبل الهجوم. في إطار هذا النموذج، يمكن للمهاجم إغراق الشبكة لمدة 30 ثانية في الساعة أو أقل من 1٪ من الوقت.
 
-يجب أن يكون هناك ضغط تصاعدي بطيء ثابت على نسبة الاحتياطي في أي وقت يكون استخدام الشبكة أقل من 50٪ حتى تصل الشبكة إلى الحد الأقصى لنسبة الاحتياطي. The maximum reserve ratio determines the minimum required stake to flood the network in short bursts.
+يجب أن يكون هناك ضغط تصاعدي بطيء ثابت على نسبة الاحتياطي في أي وقت يكون استخدام الشبكة أقل من 50٪ حتى تصل الشبكة إلى الحد الأقصى لنسبة الاحتياطي. يحدد الحد الأقصى للاحتياطي الحد الأدنى للحصص المطلوبة لإغراق الشبكة في فترات زمنية قصيرة.
 
-Any user with fewer than TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) will be unable to produce enough transactions to fill even a single block. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
+لن يتمكن أي مستخدم لديه أقل من TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) من إنتاج عدد كافٍ من المعاملات لملء حتى كتلة واحدة. هذا يعني أنه بمعدل احتياطي يبلغ 200، لن يتمكن أي شخص لديه أقل من 0.25٪ من العملة إنشاء معاملات كافية لتأخير خدمة أي شخص أخر.
 
 ### الفعالية النسبية للرسوم
 
