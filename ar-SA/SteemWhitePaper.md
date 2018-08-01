@@ -500,9 +500,9 @@ All of the above estimates are conservative upper bounds assuming coins and usag
 
 دعونا نستخدم نسبة احتياطي أولي بـ 200 ضعف. بسبب الاحتياطات الجزئية، لدى شخص يمتلك 1٪ من العملات الحق في المطالبة بمعاملات يبلغ مجموعها ضعفي (2x) الحد الأقصى لحجم الكتلة. لكي تصل نسبة استخدام المهاجم للشبكة إلى 25٪، يجب أن تنخفض نسبة الاحتياطي إلى 25 ضعفًا (25x). سيؤدي هذا إلى نمو الحد الأدنى للرصيد المطلوب للقيام بمعاملة مرة واحدة في الأسبوع بمعدل 8 أضعاف (8x).
 
-يمكن لسلسة الكتل إنشاء معدل استجابة يفيد بأنه يجب خفض أي زيادة مستمرة في الاستخدام إلى السعة المستهدفة في غضون فترة زمنية قصيرة (مثلاً 30 ثانية). An attacker attempting to spam the network shouldn't be able to disrupt service for normal users for more than a minute.
+يمكن لسلسة الكتل إنشاء معدل استجابة يفيد بأنه يجب خفض أي زيادة مستمرة في الاستخدام إلى السعة المستهدفة في غضون فترة زمنية قصيرة (مثلاً 30 ثانية). لا يجب أن يتمكن مهاجم يحاول إرسال رسائل غير مرغوب فيها بتعطيل الخدمة للمستخدمين العاديين لأكثر من دقيقة.
 
-While reductions in the reserve ratio must be quick and non-linear to counter abuse, increases in the reserve ratio should be slow and linear. If the network adjusted in both directions in just 30 seconds then an attacker could pulse the network. A flood of transactions should be corrected in 30 seconds and then take a hour to return to their pre-attack levels. Under this model the attacker could flood the network for 30 seconds per hour or less than 1% of the time.
+في حين يجب أن تكون التخفيضات في نسبة الاحتياطي سريعة وغير خطية لمواجهة سوء الاستخدام، يجب أن تكون الزيادة في نسبة الاحتياطي بطيئة وخطية. إذا تم ضبط الشبكة في كلا الاتجاهين خلال 30 ثانية فقط، فقد يتمكن أحد المهاجمين من ذبذبة الشبكة. يجب تصحيح سَيْل (فيضان) من المعاملات في 30 ثانية، ثم أخد ساعة من الوقت للعودة إلى مستويات ما قبل الهجوم. في إطار هذا النموذج، يمكن للمهاجم إغراق الشبكة لمدة 30 ثانية في الساعة أو أقل من 1٪ من الوقت.
 
 There must be a slow constant upward pressure on the reserve ratio any time network usage is below 50% until the network hits the maximum reserve ratio. The maximum reserve ratio determines the minimum required stake to flood the network in short bursts.
 
