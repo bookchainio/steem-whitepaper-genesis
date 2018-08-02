@@ -490,9 +490,9 @@ Một hệ thống blockchain có thể gây áp lực về giá trị tài kho�
 
 Hình thức duy trì số dư tài khoản thực tế tối thiểu đem lại hiệu quả tương đương với việc yêu cầu người dùng trả phí giao dịch bằng với khoản lãi suất họ nhận lại từ giá trị tài khoản. Giá trị tài khoản tối thiểu thực tế là khoản mục yêu cầu để đáp ứng khả năng người tham gia thu lại đủ mức lãi suất có thể chi trả phí trong khoảng thời gian tương đối ngắn.
 
-Điều may mắn là giá trị số dư tài khoản thực tế tối thiểu bắt buộc nêu trên có thể thấp chỉ bằng một đô la và đây là điều mà người tham gia có thể hiểu và trân trọng. Chi phí cơ hội của lãi suất bị mất sẽ không liên quan tới sự thiếu hiểu biết về một khoản phí vi mô và sẽ được người dùng chấp nhận nhiều hơn.
+Điều may mắn là giá trị số dư tài khoản thực tế tối thiểu bắt buộc nêu trên có thể thấp chỉ bằng một đô la và đây là điều mà người tham gia có thể hiểu và trân trọng. Chi phí cơ hội của lãi suất bị mất sẽ không liên quan tới những phí tổn cần để nhận thức về chi phí vi mô và sẽ dễ dàng được người dùng đón nhận hơn.
 
-Đồng STEEM được sử dụng để cấp vốn trước cho một tài khoản được gọi là Powered Up trong tài khoản mới (tức là, được chuyển thành Steem Power).
+Power Up trong tài khoản mới (hay nói cách khác, chuyển sang Steem Power) là một hình thức hệ thống Steem sử dụng để cấp vốn trước cho một tài khoản mới.
 
 ### Điều chỉnh tỷ lệ dự trữ
 
