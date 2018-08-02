@@ -364,7 +364,7 @@ Because of the constantly changing head block and network latency, forwarding a 
 
 تبذل ستيم (Steem) جهذاً كبيراً لمكافأة الأشخاص الذين يساهمون في الشبكة. إذا تم فرض رسوم على الأشخاص في كل مرة يتفاعلون فيها مع المجتمع، سيؤدي ذالك إلى نتائج عكسية.
 
-تعتمد تقنية سلسلة الكتل (Blockchain) حاليا على رسوم المعاملات لمنع السبام (البريد المزعج). These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+تعتمد تقنية سلسلة الكتل (Blockchain) حاليا على رسوم المعاملات لمنع السبام (البريد المزعج). هذه الرسوم تعاني من جميع المشاكل المعروفة في المعاملات المصغرة وتمنع استخدام سلاسل الكتل (blockchains) في المعاملات ذات القيمة المنخفضة. في الحقيقة يجب أن تقدم التطبيقات اللامركزية للمستخدمين مظهر المعاملات المجانية إذا كانت ترغب في التنافس مع التطبيقات البديلة المركزية. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
 
 ## مشكلة الرسوم
 
