@@ -385,9 +385,9 @@ The solution adopted by most blockchains thus far is to charge a minimum transac
 
 في عالم المدفوعات المالية، تكون الرسوم الصغيرة مقبولة نظرًا لأن قيمة المعاملة مرتفعة للغاية بالنسبة إلى الرسوم المفروضة، وقد اتخذ المشتري بالفعل قرارًا بالشراء. إن عالم تطبيقات سلسلة الكتل المحتملة أكبر بكثير من مجرد مدفوعات مالية، ويتضمن العديد من المعاملات الضرورية التي تعتبر الرسوم غير مقبولة للمستخدمين.
 
-Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. إذا رغب المستخدم في وقت لاحق إلغاء الطلب، يتم فرض رسوم أخرى. الأنظمة مثل إثريوم (Ethereum) تأخذ الدفعات المصغرة إلى مستوى جديد كليا: فرض رسوم على كل عملية حسابية. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn't matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
+Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. إذا رغب المستخدم في وقت لاحق إلغاء الطلب، يتم فرض رسوم أخرى. الأنظمة مثل إثريوم (Ethereum) تأخذ الدفعات المصغرة إلى مستوى جديد كليا: فرض رسوم على كل عملية حسابية. كل هذه الأنظمة تكافح من أجل جذب مستخدمين رئيسيين جدد للأسباب نفسها التي ستجعل محرك بحث لامركزي، يكافح لجذب المستخدمين من غوغل إذا فرض رسومًا بسيطة مقابل كل عملية بحث. لا يهم مدى جودة الخدمة، الناس يتوقعون أن تكون أشياء معينة مجانية. وهذا صحيح حتى إذا كان المستخدم سينتهي بدفع قيمة أكبر في إطار هيكل رسوم مختلف.
 
-### Fees are a Barrier to Entry
+### الرسوم هي حاجز للدخول
 
 Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
 
