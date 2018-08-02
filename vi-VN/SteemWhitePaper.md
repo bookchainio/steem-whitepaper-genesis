@@ -161,7 +161,7 @@ Nếu giá trị của đồng STEEM biến động quá nhiều, nó sẽ có �
 
 ### Lãi suất
 
-SMD trả lãi suất cho chủ sở hữu. Lãi suất được đặt bởi người cùng xuất bản nguồn cung cấp dữ liệu giá để nó có thể thích ứng với sự thay đổi điều kiện thị trường. Tất cả các khoản nợ đều chứa rủi ro cho người cho vay. Người nào nắm giữ đồng SMD mà không rút tiền nó ra đồng nghĩa là họ đang cho cộng đồng vay với giá trị của một đồng đô la. Họ tin tưởng rằng tại một thời điểm nào đó trong tương lai ai đó sẽ sẵn sàng mua SMD từ họ với một đồng đô la hoặc sẽ có các nhà đầu cơ và các nhà đầu tư sẵn sàng mua STEEM mà họ đã chuyển đổi nó thành.
+SMD trả lãi suất cho chủ sở hữu. Lãi suất được đặt bởi người cùng xuất bản nguồn cung cấp dữ liệu giá để nó có thể thích ứng với sự thay đổi điều kiện thị trường. Tất cả các khoản nợ đều chứa rủi ro cho người cho vay. Người sở hữu đồng SMD nhưng không thực hiện giao dịch chuyển đổi sẽ đồng nghĩa với việc tạo cơ hội cho cộng đồng vay giá trị một đô la. Họ tin tưởng rằng tại một thời điểm nào đó trong tương lai ai đó sẽ sẵn sàng mua SMD từ họ với một đồng đô la hoặc sẽ có các nhà đầu cơ và các nhà đầu tư sẵn sàng mua STEEM mà họ đã chuyển đổi nó thành.
 
 Những người nắm giữ STEEM và SP có được lợi thế đòn bẩy khi các thành viên trong cộng đồng sẵn sàng nắm giữ SMD. Đòn bẩy này khuếch đại lợi nhuận từ sự tăng trưởng trong khi đó nó sẽ cũng góp phần vào sự phát triển. Chủ sở hữu đồng STEEM sẽ phải chịu đựng việc loãng giá nếu giá giảm. Các dự án tiền điện tử đã cho thấy lợi ích từ việc tăng cơ sở người dùng tin tưởng vào mạng lưới với vốn đầu tư của họ sẽ giúp tăng thêm giá trị cho mạng lưới so với bất kỳ sự mất giá nào có thể xảy ra trong thời gian suy thoái.
 
@@ -508,13 +508,13 @@ There must be a slow constant upward pressure on the reserve ratio any time netw
 
 Any user with fewer than TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) will be unable to produce enough transactions to fill even a single block. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
 
-### Effectiveness Relative to Fees
+### Tính hiệu quả của việc giới hạn tỷ lệ đối với phí
 
 Để so sánh tính hiệu quả của việc giới hạn tỷ lệ đối với phí chúng ta phải xem xét cách thức hai hệ thống này xử lý khi xảy ra các cuộc tấn công mạng có chủ đích. Trong hệ thống Bitcoin, chỉ cần dùng $10,000 đô la để lấp đầy từng khối riêng lẻ, tin tặc đã có thể làm gián đoạn các dịch vụ diễn ra trong một ngày. Thông qua cách tiếp cận phương thức giới hạn mức độ dự trữ theo tỷ lệ động, một tin tặc có cùng cách thức tấn công sẽ không thể làm xáo trộn các dịch vụ thậm chí chỉ trong một khối đơn lẻ.
 
 Trong trường hợp tồi tệ hơn, giả sử kẻ tấn công nắm giữ 1% các đồng coin và chúng ta giả định trị giá tương ứng là 60 triệu đô la. Như vậy kẻ tấn công ấy có thể làm tê liệt các dịch vụ của hệ thống blockchain Bitcoin trong vòng 16 năm nếu không có sự tăng phí hoặc tăng công suất đào của các thợ đào coin. Thậm chí nếu mức phí được tăng lên tới 15& trên một giao dịch, kẻ tấn công vẫn có khả năng làm vô hiệu hóa mạng lưới trong 16 ngày.
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+Với cách thức tiếp cập mô hình giới hạn tỷ lệ, bất kỳ người nào nắm giữ 1% tất cả các đồng coin và có mục đích tấn công vào mạng lưới thì sẽ chỉ thực hiện được ý đồ trong vòng chưa đến 30 giây.
 
 ### Các hoạt động thuê, mua và chia sẻ thời gian sử dụng
 
