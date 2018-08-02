@@ -329,7 +329,7 @@ The effect of paying mining rewards in SP is to prevent miners from using today'
 
 ### خوارزمية التعدين
 
-The mining algorithm adopted by Steem requires the miner to have access to the private key of the account that will receive the rewards. This requirement has several important consequences. First it encourages optimization of elliptic curve signature verification algorithms needed by Steem. Second it makes it challenging to set up mining pools because the pool operator would have to share control over the reward with all of the "anonymous" miners. Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
+تتطلب خوارزمية التعدين التي اعتمدتها ستيم (Steem) أن يكون لدى المعدن حق الوصول إلى المفتاح الخاص للحساب الذي سيحصل على المكافآت. هذا الشرط له عدة عواقب مهمة. أولا، أنها تشجع على تحسين خوارزمية التحقق من المنحنى البيضاوي التي تحتاجها ستيم (Steem). ثانياً، أنها تجعل من الصعب إنشاء برك التعدين لأن مشغل البركة يجب أن يشارك السيطرة على المكافآت مع جميع المعدنين "المجهولين". Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
 
 The following pseudocode describes how the proof-of-work hash value is calculated:
 
