@@ -370,7 +370,7 @@ Blockchain technology currently depends upon transaction fees to prevent spam. T
 
 سلاسل الكتل (Blockchains) هي شبكات لامركزية حيث يتم بث جميع المعاملات لجميع الأقران. بين الحين والآخر يتم إنتاج كتلة تتضمن بعض أو كل من المعاملات قيد الانتظار. يجب على كافة سلاسل الكتل (blockchains) العثور على حل لمنع المستخدمين الضارين من استهلاك كافة سعة الشبكة المتوفرة عبر المعاملات التي لا قيمة لها. يمكن لهذه المعاملات التي لا قيمة لها أن تمنع المعاملات القيّمة الأخرى من أن يتم معالجتها وفي النهاية تدمر الشبكة.
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn't use email.
+الحل الذي اعتمدته معضم سلاسل الكتل (blockchains) حتى الآن هو فرض رسوم الحد الأدنى للمعاملات. تكفي رسوم بقيمة بضعة سنتات فقط لجعل الهجوم على الشبكة مكلفًا وغير مربح. في حين أن هذا النهج يحل مشكلة البريد المزعج، فإنه يقدم مشاكل جديدة. تخيل حل مشكلة البريد المزعج من خلال فرض رسوم رمزية على كل بريد إلكتروني: لن يستخدم الأشخاص البريد الإلكتروني.
 
 ### الدفع المصغر لا يعمل
 
