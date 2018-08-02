@@ -488,9 +488,9 @@ Ripple sử dụng giá trị số dư thực tế nhỏ nhất là [^12] tươn
 
 Một hệ thống blockchain có thể gây áp lực về giá trị tài khoản tối thiểu trên mỗi đối tượng người dùng bằng cách đơn giản là yêu cầu chuyển tạo giá trị nêu trên vào tài khoản. Bất kỳ doanh nghiệp nào muốn khuyến khích khách hàng mới tham gia vào hệ thống blockchain đều có thể cấp vốn trước vào tài khoản người dùng một lượng giá trị thực tế nhỏ nhất để đảm bảo khả năng thực hiện giao dịch. Việc yêu cầu một khoản phí tương đối lớn ($1.00) để đăng ký tài khoản cho người dùng mới sẽ bắt buộc những người cung cấp tài khoản miễn phí phải xem xét chặt chẽ về chất lượng và tính duy nhất của từng tài khoản trước khi đăng ký chúng vào blockchain.
 
-Duy trì số dư tối thiểu có hiệu quả tương tự như việc làm cho người dùng thanh toán phí giao dịch với số tiền lãi họ có thể kiếm được từ số dư của họ. Số dư tối thiểu đơn giản là số dư cần thiết để kiếm đủ lãi suất cho việc chi trả một khoản phí trong một khoảng thời gian tương đối ngắn.
+Hình thức duy trì số dư tài khoản thực tế tối thiểu đem lại hiệu quả tương đương với việc yêu cầu người dùng trả phí giao dịch bằng với khoản lãi suất họ nhận lại từ giá trị tài khoản. Giá trị tài khoản tối thiểu thực tế là khoản mục yêu cầu để đáp ứng khả năng người tham gia thu lại đủ mức lãi suất có thể chi trả phí trong khoảng thời gian tương đối ngắn.
 
-May mắn thay, số dư tối thiểu bắt buộc có thể thấp bằng một đô la và đây là điều mà người dùng có thể hiểu và trân trọng. Chi phí cơ hội của lãi suất bị mất sẽ không liên quan tới sự thiếu hiểu biết về một khoản phí vi mô và sẽ được người dùng chấp nhận nhiều hơn.
+Điều may mắn là giá trị số dư tài khoản thực tế tối thiểu bắt buộc nêu trên có thể thấp chỉ bằng một đô la và đây là điều mà người tham gia có thể hiểu và trân trọng. Chi phí cơ hội của lãi suất bị mất sẽ không liên quan tới sự thiếu hiểu biết về một khoản phí vi mô và sẽ được người dùng chấp nhận nhiều hơn.
 
 Đồng STEEM được sử dụng để cấp vốn trước cho một tài khoản được gọi là Powered Up trong tài khoản mới (tức là, được chuyển thành Steem Power).
 
