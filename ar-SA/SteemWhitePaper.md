@@ -366,9 +366,9 @@ Steem goes to great lengths to reward people for contributing to the network. It
 
 Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
 
-## The Problem With Fees
+## المشكلة مع الرسوم
 
-Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+سلاسل الكتل (Blockchains) هي شبكات لامركزية حيث يتم بث جميع المعاملات لجميع الأقران. بين الحين والآخر يتم إنتاج كتلة تتضمن بعض أو كل من المعاملات قيد الانتظار. يجب على كافة سلاسل الكتل (blockchains) العثور على حل لمنع المستخدمين الضارين من استهلاك كافة سعة الشبكة المتوفرة عبر المعاملات التي لا قيمة لها. يمكن لهذه المعاملات التي لا قيمة لها أن تمنع المعاملات القيّمة الأخرى من أن يتم معالجتها وفي النهاية تدمر الشبكة.
 
 The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn't use email.
 
