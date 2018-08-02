@@ -185,7 +185,7 @@ Giả sử rằng giá trị của đồng STEEM phát triển nhanh hơn việc
 
 Trên thực tế, các nhà cung cấp dữ liệu được giao phó trách nhiệm thiết lập chính sách tiền tệ với mục đích duy trì giá trị ổn định với USD. Lạm dụng quyền lực này có thể gây tổn hại đến giá trị của STEEM cho nên những người nắm giữ SP phải khôn ngoan khi bỏ phiếu cho các nhân chứng mà chúng ta có thể tin tưởng cho việc điều chỉnh dữ liệu giá và lãi suất theo các quy tắc được nêu trên.
 
-Nếu tỷ lệ nợ-sở hữu cao tới mức nguy hiểm và người tham gia thị trường chọn việc tránh các yêu cầu chuyển đổi, thì nguồn cung cấp dữ liệu phải được điều chỉnh để tăng giá mà STEEM đã trả để chuyển đổi sang SMD.
+Nếu tỷ lệ nợ - quyền sở hữu tăng lên tới mức nguy hiểm và những người tham gia vào thị trường tránh không thực hiện các yêu cầu chuyển đổi thì phải tiến hành điều chỉnh nguồn cung cấp dữ liệu để tăng mức phí lên ngang bằng mức chênh lệch khi chuyển đổi từ Steem sang SMD.
 
 Các sự thay đổi chính sách về lãi suất và/hoặc bất kỳ các khoản tiền thưởng/chiết khấu trên tỷ lệ chuyển đổi STEEM/SMD phải là phản hồi cần được cân nhắc kỹ càng và từ tốn về sự chênh lệch trung bình trong khoảng thời gian dài hạn hơn là cố gắng phản hồi dựa trên các điều kiện thị trường ngắn hạn. Chuỗi khối blockchain đang chi trả cho các nhà cung cấp thanh khoản về dịch vụ của họ trong việc đáp ứng các nhu cầu ngắn hạn.
 
