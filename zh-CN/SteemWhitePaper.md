@@ -695,13 +695,13 @@ Steem是一个由世界各地的矿工们运营的一个区中心化网络。 �
 
 在主要的内容盈利模式中，内容创造者通过各种方式在做广告。 很多创作者认识到广告会降低他们作品在消费者心中的价值，但创作者却又必须通过货币方式来寻求他们付出时间的回报。 广告是一把双刃剑：通过广告，内容创造者可轻松获利。 没有广告，就无法盈利，但内容会更加丰富。
 
-内容创造者在和Steem关联的社交媒体上发布内容，该内容会被Steem社区所认可 (或“喜欢”)，从而实现盈利。 Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
+内容创造者在和Steem关联的社交媒体上发布内容，该内容会被Steem社区所认可 (或“喜欢”)，从而实现盈利。 基于区块链的受益是完全数字化的，且没有任何中间人。 因此基于区块链的内容奖励会更快，且和广告相比，使用门槛更低。
 
-# Conclusion
+# 结论
 
-Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards will have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem will have more exclusive earning powers than those who do not.
+Steem是一种解决在加密货币和社交媒体领域所面临挑战的尝试，它通过将两个领域的优势互补来实现这一目标。 Steem为内容创造者和互联网用户提供了赚钱的机会，而这种机会在社交媒体领域是不存在的。 在Steem中，个人获得与他们做出贡献相应的真实奖励。 这些奖励具有对应的美元价值，Steem持有者将会比那些没有Steeem的人具备更多的独立盈利能力。
 
-# References
+# 参考
 
 [^1]: Reddit's Cryptocurrency, Forbes, Erika Morphy, October 2014, <http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/#4e07b05332b9>
 
