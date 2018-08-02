@@ -665,9 +665,9 @@ Steem解决这个问题的方式就是给每个人提供一种方法，可以通
 
 一种难以使用或者无法卖掉的货币几乎没有什么价值。 有人如果有价值1美元的比特币，会发现卖掉这点比特币的费用会高出1美元。 他们必须创建一个交易所账号，完成KYC验证，同时支付交易费。 小额的加密货币就像小额的零钱一样，人们甚至不愿弯腰去捡。
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+商家为用户们提供了一种可以快速把加密货币转换为有形商品和服务的方式。 商家们需要一种能够和他们账户绑定的货币，通常是美元。 接受一种波动性大的货币或导致大量额外的会计问题。
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SMD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+无论那种货币，只要能够增加商家的销售额，他们就会接受。 拥有基于一种像SMD这样的稳定货币的庞大用户群，会降低商户的进入门槛。 商家的存在，为用户提供了一种退出系统的方式，而不用担心和交易所打交道，进而改进了系统本身。
 
 Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through tipping others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
 
