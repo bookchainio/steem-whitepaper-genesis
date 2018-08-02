@@ -383,9 +383,9 @@ The solution adopted by most blockchains thus far is to charge a minimum transac
 > 
 > *- كلاي شيركي[^8] (Clay Shirky)*
 
-في عالم المدفوعات المالية، تكون الرسوم الصغيرة مقبولة نظرًا لأن قيمة المعاملة مرتفعة للغاية بالنسبة إلى الرسوم المفروضة، وقد اتخذ المشتري بالفعل قرارًا بالشراء. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+في عالم المدفوعات المالية، تكون الرسوم الصغيرة مقبولة نظرًا لأن قيمة المعاملة مرتفعة للغاية بالنسبة إلى الرسوم المفروضة، وقد اتخذ المشتري بالفعل قرارًا بالشراء. إن عالم تطبيقات سلسلة الكتل المحتملة أكبر بكثير من مجرد مدفوعات مالية، ويتضمن العديد من المعاملات الضرورية التي تعتبر الرسوم غير مقبولة للمستخدمين.
 
-Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn't matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
+Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. إذا رغب المستخدم في وقت لاحق إلغاء الطلب، يتم فرض رسوم أخرى. الأنظمة مثل إثريوم (Ethereum) تأخذ الدفعات المصغرة إلى مستوى جديد كليا: فرض رسوم على كل عملية حسابية. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn't matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
 
 ### Fees are a Barrier to Entry
 
