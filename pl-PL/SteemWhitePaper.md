@@ -62,11 +62,11 @@ Istnieją również inne formy kontrybucji które Steem rozpoznaje i nagradza u�
 
 # Sposoby na kontrybutowanie
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+Ta sekcja omawia idee stojące za Steem oraz jego nagrody dla ludzi dostarczających znaczących i wymiernych kontrybucji dla społeczności Steem.
 
-## Capital Contributions
+## Kontrybucje Kapitałowe
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Istnieją dwa elementy które społeczność może zaoferować by zachęcić kapitał: dług i własność. Ci, którzy wykupują własność bogacą się kiedy społeczność rośnie, ale tracą kiedy społeczność się zmniejsza. Ci, którzy wykupują dług, mają zapewnioną pewną ilość udziału, ale nie uczestniczą w żadnych dochodach wynikających z rozrostu społeczności. Oba rodzaje kontrybucji kapitałowych są wartościowe dla rozwoju społeczności i wartości jej waluty. Dodatkowo, istnieją dwa typy własności które mogą być posiadane: płynne oraz zamrożone. Zamrożona własność jest długotrwałym zobowiązaniem i nie może być odsprzedana przez minimalny okres czasu.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SMD).
 
