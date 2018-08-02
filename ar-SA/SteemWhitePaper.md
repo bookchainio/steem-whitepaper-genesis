@@ -378,7 +378,7 @@ The solution adopted by most blockchains thus far is to charge a minimum transac
 
 تخيل لو أن المواقع الإلكترونية التي نستخدمها كل يوم تفرض رسومًا علينا في كل مرة نقوم بتعديل حساباتنا من خلال تغيير كلمة المرور. يتوقع المستخدمون أن تكون أشياء معينة مجانية. إن مطالبة المستخدمين باتخاذ قرار حول ما إذا كان إجراء ما يستحق رسومًا صغيرة أم لا، يخلق قلق لدى المستخدمين ويجعلهم يغادرون.
 
-> A transaction can't be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
+> لا يمكن أن تكون المعاملة ذات قيمة كبيرة بقدر ما يتطلبه اتخاذ قرار، وتكون ذات قيمة صغيرة جداً بحيث يكون هذا القرار تلقائياً. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
 > Micropayments, like all payments, require a comparison: "Is this much of X worth that much of Y?" There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
 > 
 > *- Clay Shirky[^8]*
