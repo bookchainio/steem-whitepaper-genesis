@@ -354,7 +354,7 @@ The last mitigation is the dependency on latency. Most botnets are comprised of 
 
 It should be more profitable and less risky for botnet operators to use their resources for other activities than mining STEEM.
 
-### Mining Pool Resistant
+### مقاومة بِرَك التعدين
 
 Miners have a total of 3 seconds to receive a block, solve the proof of work, and get the transaction to the next block producer. Much of this time will consist of network latency which means that it is critical for miners to be well connected to the network to make the most effective use of their computational resources.
 
@@ -364,7 +364,7 @@ Because of the constantly changing head block and network latency, forwarding a 
 
 تبذل ستيم (Steem) جهذاً كبيراً لمكافأة الأشخاص الذين يساهمون في الشبكة. إذا تم فرض رسوم على الأشخاص في كل مرة يتفاعلون فيها مع المجتمع، سيؤدي ذالك إلى نتائج عكسية.
 
-تعتمد تقنية سلسلة الكتل (Blockchain) حاليا على رسوم المعاملات لمنع السبام (البريد المزعج). هذه الرسوم تعاني من جميع المشاكل المعروفة في المعاملات المصغرة وتمنع استخدام سلاسل الكتل (blockchains) في المعاملات ذات القيمة المنخفضة. في الحقيقة يجب أن تقدم التطبيقات اللامركزية للمستخدمين مظهر المعاملات المجانية إذا كانت ترغب في التنافس مع التطبيقات البديلة المركزية. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+تعتمد تقنية سلسلة الكتل (Blockchain) حاليا على رسوم المعاملات لمنع السبام (البريد المزعج). هذه الرسوم تعاني من جميع المشاكل المعروفة في المعاملات المصغرة وتمنع استخدام سلاسل الكتل (blockchains) في المعاملات ذات القيمة المنخفضة. في الحقيقة يجب أن تقدم التطبيقات اللامركزية للمستخدمين مظهر المعاملات المجانية إذا كانت ترغب في التنافس مع التطبيقات البديلة المركزية. توضح هذه الورقة النهج الذي إستخدمته ستيم (Steem) للقضاء على الحاجة إلى الرسوم، وبالتالي تمكين مجموعة واسعة من التطبيقات اللامركزية التي لم تكن منيعة سابقاً.
 
 ## مشكلة الرسوم
 
