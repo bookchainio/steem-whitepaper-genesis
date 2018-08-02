@@ -68,13 +68,13 @@ Ta sekcja omawia idee stojące za Steem oraz jego nagrody dla ludzi dostarczają
 
 Istnieją dwa elementy które społeczność może zaoferować by zachęcić kapitał: dług i własność. Ci, którzy wykupują własność bogacą się kiedy społeczność rośnie, ale tracą kiedy społeczność się zmniejsza. Ci, którzy wykupują dług, mają zapewnioną pewną ilość udziału, ale nie uczestniczą w żadnych dochodach wynikających z rozrostu społeczności. Oba rodzaje kontrybucji kapitałowych są wartościowe dla rozwoju społeczności i wartości jej waluty. Dodatkowo, istnieją dwa typy własności które mogą być posiadane: płynne oraz zamrożone. Zamrożona własność jest długotrwałym zobowiązaniem i nie może być odsprzedana przez minimalny okres czasu.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SMD).
+Sieć Steem nazywa te różne klasy aktywów Steem (STEEM), Steem Power (SP) oraz Steem Dollards (SBD).
 
 ## Steem (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. Generally speaking STEEM should be held for short periods of time when liquidity is needed. Someone looking to enter or exit the Steem platform will have to buy or sell STEEM. Once STEEM has been purchased it should be converted into SP or SMD to mitigate the impact of dilution over the long-term.
+Steem jest fundamentalną jednostką każdego konta opartego o blockchain platformy Steem. Wszystkie inne tokeny wyprowadzają swoją wartość od wartości STEEM. Ogólnie rzecz biorąc, STEEM powinien być trzymany przez krótkie okresy czasu kiedy płynność jest potrzebna. Ktoś starający się wejść lub wyjść z platformy Steem będzie musiał kupić lub sprzedać STEEM. Kiedy STEEM zostanie kupiony powinien zostać przekonwertowany na SP lub SBD by zmitygować impakt rozwodnienia w dłuższym okresie czasu.
 
-STEEM is constantly increasing in supply by 100% per year due to non-SMD incentives. Someone who holds STEEM without converting it to SP is diluted by approximately 0.19% per day. While the rate may appear high, for transactions that take less than 10 days, it is still cheaper than credit card processing fees. Furthermore, the daily token creation is insignificant next to the daily volatility.
+Podaż STEEM ciągle rośnie w tempie 100% na rok ze względu na impulsy nie będące SBD. Ktoś kto trzyma STEEM bez konwertowania go na SP traci dziennie około 0.19%. Podczas gdy kurs może wydawać się wysoki, dla transakcji które zajmują mniej niż 10 dni, jest to ciągle tańsze niż opłaty procesowe kart kredytowych. Furthermore, the daily token creation is insignificant next to the daily volatility.
 
 Someone who buys Bitcoin or any other cryptocurrency and sells it 10 days later could easily lose 3% or more due to price fluctuations. Someone who buys Bitcoin and then sells it the same day will usually pay more than 0.4% in market fees alone. In other words, the inflation rate is effectively insignificant during the period of time the typical individual will hold STEEM.
 
