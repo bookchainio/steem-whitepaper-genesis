@@ -327,7 +327,7 @@ After the first month, Steem miners are paid in Steem Power (SP). SP is liquidat
 
 The effect of paying mining rewards in SP is to prevent miners from using today's price to determine the pro tability of mining. Few people will agree on what the future price will be. This means mining difficulty will be driven by those who place the highest estimate on future value. Miners without a long-term interest in the platform will be discouraged from competing. Ultimately this means that the proceeds of mining are less likely to be dumped on the market because they will accrue to long-term believers in the platform.
 
-### Mining Algorithm
+### خوارزمية التعدين
 
 The mining algorithm adopted by Steem requires the miner to have access to the private key of the account that will receive the rewards. This requirement has several important consequences. First it encourages optimization of elliptic curve signature verification algorithms needed by Steem. Second it makes it challenging to set up mining pools because the pool operator would have to share control over the reward with all of the "anonymous" miners. Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
 
@@ -358,7 +358,7 @@ It should be more profitable and less risky for botnet operators to use their re
 
 لدى المعدن ثلاث ثوانٍ للحصول على كتلة، وحل إثبات العمل، وإرسال المعاملة إلى منتج الكتلة التالي. تشتمل هذه الثواني الثلاث على وقت استجابة الشبكة، لذا من المهم جدًا أن يحافظ المعدنون على اتصال جيد بالشبكة للحصول على أقصى استفادة من موارد الحوسبة.
 
-Because of the constantly changing head block and network latency, forwarding a template for mining a specific block to participants of a mining pool adds additional network latency and reduces efficiency of pooled mining significantly.
+نظرًا لتغير الكتلة الرئيسية ووقت استجابة الشبكة باستمرار، فإن إعادة توجيه قالب لتعدين كتلة محددة للمشاركين في بركة التعدين يزيد من وقت استجابة الشبكة، ويقلل من كفاءة بركة التعدين بشكل كبير.
 
 # إلغاء رسوم المعاملات
 
