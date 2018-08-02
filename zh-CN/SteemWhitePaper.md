@@ -683,11 +683,11 @@ Steem是一个由世界各地的矿工们运营的一个区中心化网络。 �
 
 大多数的加密货币对那些并没有积极使用网络的人产生很小的价值。 于此相反，Steem生成内容并鼓励用户来分享内容。 这些内容会被搜索引擎收录，并将给大量被动用户带来价值。 这些搜索流量会对Steem网络产生原生的广告效果，且会增长网络效应。
 
-## 转到基于区块链的归属
+## 转到基于区块链的归属权
 
 互联网可以说是在世界上传播信息的最简单媒体。 与此同时，对于一些内容创造者而言，互联网可能也是一个可怕的地方，其原因在于他们想要拥有自己的内容，同时通过正确的归属来进行分享。 在当前的社交媒体平台，归属权可能会在一夜之间失去 － 发布的视频或图片可能会被复制，同时在未经创建者许可的情况下被分享。
 
-Under blockchain-based social media, a creator or author would always be able to point to a public record and timestamp showing proof of their content origination. In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
+在基于区块链的社交媒体，一个创建者或作者总是可以定位一条公共记录，在记录中的时间戳能够证明内容的源头。 当内容创建者想要解决那些未经许可就分享的问题，基于区块链的记录会提供公开证据来证明该内容是由特定用户在特定时间发布的。 在将来，基于区块链归属权的真实性会被政府所承认，同时会在法庭上举足轻重，由此会给内容创造者足够的权力来掌控他们的作品。
 
 While a timestamping service can be built on almost any blockchain, and several efforts exist to build this kind of service on the Bitcoin network, Steem has a useful advantage in this realm because content publishers are "first class citizens" - the Steem blockchain is built from the ground up around the use case of content publication, which allows content creators to have the blockchain to validate their content at a certain point in time simply by writing their post using the same authoring tools used by other Steem users.
 
