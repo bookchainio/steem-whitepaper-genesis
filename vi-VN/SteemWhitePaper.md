@@ -512,7 +512,7 @@ Any user with fewer than TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) will be unable to
 
 Để so sánh tính hiệu quả của việc giới hạn tỷ lệ đối với phí chúng ta phải xem xét cách thức hai hệ thống này xử lý khi xảy ra các cuộc tấn công mạng có chủ đích. Trong hệ thống Bitcoin, chỉ cần dùng $10,000 đô la để lấp đầy từng khối riêng lẻ, tin tặc đã có thể làm gián đoạn các dịch vụ diễn ra trong một ngày. Thông qua cách tiếp cận phương thức giới hạn mức độ dự trữ theo tỷ lệ động, một tin tặc có cùng cách thức tấn công sẽ không thể làm xáo trộn các dịch vụ thậm chí chỉ trong một khối đơn lẻ.
 
-If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+Trong trường hợp tồi tệ hơn, giả sử kẻ tấn công nắm giữ 1% các đồng coin và chúng ta giả định trị giá tương ứng là 60 triệu đô la. Như vậy kẻ tấn công ấy có thể làm tê liệt các dịch vụ của hệ thống blockchain Bitcoin trong vòng 16 năm nếu không có sự tăng phí hoặc tăng công suất đào của các thợ đào coin. Thậm chí nếu mức phí được tăng lên tới 15& trên một giao dịch, kẻ tấn công vẫn có khả năng làm vô hiệu hóa mạng lưới trong 16 ngày.
 
 Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
 
