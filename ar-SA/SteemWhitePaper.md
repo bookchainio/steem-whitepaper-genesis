@@ -387,9 +387,9 @@ The solution adopted by most blockchains thus far is to charge a minimum transac
 
 Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. إذا رغب المستخدم في وقت لاحق إلغاء الطلب، يتم فرض رسوم أخرى. الأنظمة مثل إثريوم (Ethereum) تأخذ الدفعات المصغرة إلى مستوى جديد كليا: فرض رسوم على كل عملية حسابية. كل هذه الأنظمة تكافح من أجل جذب مستخدمين رئيسيين جدد للأسباب نفسها التي ستجعل محرك بحث لامركزي، يكافح لجذب المستخدمين من غوغل إذا فرض رسومًا بسيطة مقابل كل عملية بحث. لا يهم مدى جودة الخدمة، الناس يتوقعون أن تكون أشياء معينة مجانية. وهذا صحيح حتى إذا كان المستخدم سينتهي بدفع قيمة أكبر في إطار هيكل رسوم مختلف.
 
-### الرسوم هي حاجز للدخول
+### الرسوم هي حواجز تحول دون الوصول
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+جميع الرسوم تخلق حواجز لوصول المستخدمين الجدد. قبل أن يتمكن أي شخص من تجربة إيثريوم (Ethereum)، يجب عليه الحصول على بعض عملات إيثريوم أولاً (ETH). يجب على أي شخص يرغب في بناء تطبيق لامركزي على إيثريوم (Ethereum) أن يقوم بتحويل التكلفة إلى عملائه. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
 
 ### الرسوم المتغيرة
 
