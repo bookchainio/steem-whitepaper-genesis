@@ -378,12 +378,12 @@ The solution adopted by most blockchains thus far is to charge a minimum transac
 
 تخيل لو أن المواقع الإلكترونية التي نستخدمها كل يوم تفرض رسومًا علينا في كل مرة نقوم بتعديل حساباتنا من خلال تغيير كلمة المرور. يتوقع المستخدمون أن تكون أشياء معينة مجانية. إن مطالبة المستخدمين باتخاذ قرار حول ما إذا كان إجراء ما يستحق رسومًا صغيرة أم لا، يخلق قلق لدى المستخدمين ويجعلهم يغادرون.
 
-> لا يمكن أن تكون المعاملة ذات قيمة كبيرة بقدر ما يتطلبه اتخاذ قرار، وتكون ذات قيمة صغيرة جداً بحيث يكون هذا القرار تلقائياً. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
-> Micropayments, like all payments, require a comparison: "Is this much of X worth that much of Y?" There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
+> لا يمكن أن تكون المعاملة ذات قيمة كبيرة بقدر ما يتطلبه اتخاذ قرار، وتكون ذات قيمة صغيرة جداً بحيث يكون هذا القرار تلقائياً. هناك قدر معين من القلق الذي يدخل في أي قرار للشراء، مهما كان صغيراً، ولا يأتي هذا القلق من الواجهة المستخدمة أو الوقت المطلوب، ولكن من فعل إتخاد القرار نفسه.  
+> مثل جميع الدفعات تتطلب عمليات الدفع المصغر، مقارنة: "هل هذا القدر من X يستحق هذا القدر من Y؟" هناك حد أدنى لتكلفة المعاملات العقلية الناتجة عن هذه الحقيقة التي لا يمكن تحسينها، لأن المعاملة الوحيدة التي سيكون المستخدم على استعداد للموافقة عليها بدون أي تفكير هي تلك التي لا تكلفهم شيئًا، وهي ليست معاملة على الإطلاق.
 > 
-> *- Clay Shirky[^8]*
+> *- كلاي شيركي[^8] (Clay Shirky)*
 
-In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+في عالم المدفوعات المالية، تكون الرسوم الصغيرة مقبولة نظرًا لأن قيمة المعاملة مرتفعة للغاية بالنسبة إلى الرسوم المفروضة، وقد اتخذ المشتري بالفعل قرارًا بالشراء. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
 
 Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn't matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
 
