@@ -374,9 +374,9 @@ The solution adopted by most blockchains thus far is to charge a minimum transac
 
 ### الدفع المصغر لا يعمل
 
-المشكلة الأساسية في فرض رسوم على المعاملات هي أن الدفع المصغر لا يعمل، خاصة بالنسبة لإجراءات المستخدم ذات القيمة المنخفضة. عندما يتم فرض رسوم على كل معاملة، فإن هذا يحد من أنواع المعاملات التي يمكن لشبكة لامركزية معالجتها. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+المشكلة الأساسية في فرض رسوم على المعاملات هي أن الدفع المصغر لا يعمل، خاصة بالنسبة لإجراءات المستخدم ذات القيمة المنخفضة. عندما يتم فرض رسوم على كل معاملة، فإن هذا يحد من أنواع المعاملات التي يمكن لشبكة لامركزية معالجتها. وبغض النظر عن مدى عقلانية الحجج المتعلقة بضرورة الرسوم، فإن المستخدمين لا يزالون يكرهون تجربة تحميلهم رسوم على كل ما يقومون به.
 
-Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave.
+تخيل لو أن المواقع الإلكترونية التي نستخدمها كل يوم تفرض رسومًا علينا في كل مرة نقوم بتعديل حساباتنا من خلال تغيير كلمة المرور. يتوقع المستخدمون أن تكون أشياء معينة مجانية. إن مطالبة المستخدمين باتخاذ قرار حول ما إذا كان إجراء ما يستحق رسومًا صغيرة أم لا، يخلق قلق لدى المستخدمين ويجعلهم يغادرون.
 
 > A transaction can't be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
 > Micropayments, like all payments, require a comparison: "Is this much of X worth that much of Y?" There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
