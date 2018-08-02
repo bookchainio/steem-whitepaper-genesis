@@ -356,7 +356,7 @@ It should be more profitable and less risky for botnet operators to use their re
 
 ### مقاومة بِرَك التعدين
 
-Miners have a total of 3 seconds to receive a block, solve the proof of work, and get the transaction to the next block producer. Much of this time will consist of network latency which means that it is critical for miners to be well connected to the network to make the most effective use of their computational resources.
+لدى المعدن ثلاث ثوانٍ للحصول على كتلة، وحل إثبات العمل، وإرسال المعاملة إلى منتج الكتلة التالي. تشتمل هذه الثواني الثلاث على وقت استجابة الشبكة، لذا من المهم جدًا أن يحافظ المعدنون على اتصال جيد بالشبكة للحصول على أقصى استفادة من موارد الحوسبة.
 
 Because of the constantly changing head block and network latency, forwarding a template for mining a specific block to participants of a mining pool adds additional network latency and reduces efficiency of pooled mining significantly.
 
