@@ -374,7 +374,7 @@ The solution adopted by most blockchains thus far is to charge a minimum transac
 
 ### الدفع المصغر لا يعمل
 
-المشكلة الأساسية في فرض رسوم على المعاملات هي أن الدفع المصغر لا يعمل، خاصة بالنسبة لإجراءات المستخدم ذات القيمة المنخفضة. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+المشكلة الأساسية في فرض رسوم على المعاملات هي أن الدفع المصغر لا يعمل، خاصة بالنسبة لإجراءات المستخدم ذات القيمة المنخفضة. عندما يتم فرض رسوم على كل معاملة، فإن هذا يحد من أنواع المعاملات التي يمكن لشبكة لامركزية معالجتها. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
 
 Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave.
 
