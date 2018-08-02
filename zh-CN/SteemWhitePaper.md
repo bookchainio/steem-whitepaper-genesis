@@ -669,7 +669,7 @@ Steem解决这个问题的方式就是给每个人提供一种方法，可以通
 
 无论那种货币，只要能够增加商家的销售额，他们就会接受。 拥有基于一种像SMD这样的稳定货币的庞大用户群，会降低商户的进入门槛。 商家的存在，为用户提供了一种退出系统的方式，而不用担心和交易所打交道，进而改进了系统本身。
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through tipping others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+另外一种用户可以用来清算他们通过参与Steem平台而获取的小额加密货币的方式就是，为彼此支付小费。 这就像为服务生留下零钱作为小费一样。 当足够多的人留下小费时，其总和就比较可观了。 你和服务生都从小费中受益。
 
 ## 审查
 
@@ -683,9 +683,9 @@ Steem是一个由世界各地的矿工们运营的一个区中心化网络。 �
 
 大多数的加密货币对那些并没有积极使用网络的人产生很小的价值。 于此相反，Steem生成内容并鼓励用户来分享内容。 这些内容会被搜索引擎收录，并将给大量被动用户带来价值。 这些搜索流量会对Steem网络产生原生的广告效果，且会增长网络效应。
 
-## Shifting Toward Blockchain-based Attribution
+## 转到基于区块链的归属
 
-The internet represents the easiest medium for distributing information in the world. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
+互联网可以说是在世界上传播信息的最简单媒体。 与此同时，对于一些内容创造者而言，互联网可能也是一个可怕的地方，其原因在于他们想要拥有自己的内容，同时通过正确的归属来进行分享。 在当前的社交媒体平台，归属权可能会在一夜之间失去 － 发布的视频或图片可能会被复制，同时在未经创建者许可的情况下被分享。
 
 Under blockchain-based social media, a creator or author would always be able to point to a public record and timestamp showing proof of their content origination. In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
 
