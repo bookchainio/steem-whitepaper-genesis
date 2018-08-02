@@ -689,13 +689,13 @@ Steem是一个由世界各地的矿工们运营的一个区中心化网络。 �
 
 在基于区块链的社交媒体，一个创建者或作者总是可以定位一条公共记录，在记录中的时间戳能够证明内容的源头。 当内容创建者想要解决那些未经许可就分享的问题，基于区块链的记录会提供公开证据来证明该内容是由特定用户在特定时间发布的。 在将来，基于区块链归属权的真实性会被政府所承认，同时会在法庭上举足轻重，由此会给内容创造者足够的权力来掌控他们的作品。
 
-While a timestamping service can be built on almost any blockchain, and several efforts exist to build this kind of service on the Bitcoin network, Steem has a useful advantage in this realm because content publishers are "first class citizens" - the Steem blockchain is built from the ground up around the use case of content publication, which allows content creators to have the blockchain to validate their content at a certain point in time simply by writing their post using the same authoring tools used by other Steem users.
+虽然一个时间戳服务几乎能够在几乎任何的区块链上提供，也有一个基于比特币网络的这种服务，但在这个问题上，Steem有其优势，因为内容发布者是“首席公民” － Steem区块链就是从内容发布的用例上逐步构建的，这就允许内容创建者在某个特定阶段，通过使用和其他Steem用户相同的创作工具，能够通过区块链在特定时间来验证他们的内容。
 
-## Replacing Advertising with Blockchain-based Content Rewards
+## 以基于区块链的内容奖励来替代广告
 
-Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work's value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+在主要的内容盈利模式中，内容创造者通过各种方式在做广告。 很多创作者认识到广告会降低他们作品在消费者心中的价值，但创作者却又必须通过货币方式来寻求他们付出时间的回报。 广告是一把双刃剑：通过广告，内容创造者可轻松获利。 没有广告，就无法盈利，但内容会更加丰富。
 
-Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or "liked") by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
+内容创造者在和Steem关联的社交媒体上发布内容，该内容会被Steem社区所认可 (或“喜欢”)，从而实现盈利。 Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
 
 # Conclusion
 
