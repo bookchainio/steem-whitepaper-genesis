@@ -315,9 +315,9 @@ The primary consideration is determining what testimony is allowed to enter the 
 
 ## التعدين في ستيم (Steem)
 
-يجمع إثبات العمل لسلسلة الكتل إنتاج الكتل مع حل إثبات العمل. نظرًا لأن عملية حل إثبات العمل تستغرق وقتًا غير متوقع، فإن النتيجة هي أوقات إنتاج كتل غير متوقعة. Steem aims to have consistent and reliable block production every 3 seconds with almost no potential for forks.
+يجمع إثبات العمل لسلسلة الكتل إنتاج الكتل مع حل إثبات العمل. نظرًا لأن عملية حل إثبات العمل تستغرق وقتًا غير متوقع، فإن النتيجة هي أوقات إنتاج كتل غير متوقعة. تهدف ستيم (Steem) إلى إنتاج كتلة متناسقة وموثوقة كل 3 ثوان مع عدم وجود إمكانية للتفرع (إستنساخ).
 
-To achieve this Steem separates block production from solving of proof of work. When a miner solves a proof of work for Steem, they broadcast a transaction containing the work. The next scheduled witness includes the transaction into the blockchain. When the transaction is included the miner is added to the queue of miners scheduled to produce blocks. Each round one miner is popped from the queue and included in the active set of witnesses. The miner gets paid when they produce a block at the time they are scheduled.
+لتحقيق هذا تفصل ستيم (Steem) إنتاج الكتل عن حل إثبات العمل. عندما يحل معدن ما إثبات عمل لستيم (Steem)، فإنه يبث معاملة تحتوي على العمل. The next scheduled witness includes the transaction into the blockchain. When the transaction is included the miner is added to the queue of miners scheduled to produce blocks. Each round one miner is popped from the queue and included in the active set of witnesses. The miner gets paid when they produce a block at the time they are scheduled.
 
 The difficulty of the proof of work doubles every time the queue length grows by 4. Because one miner is popped from the queue every round, and each round takes 21 \* 3 = 63 seconds, the difficulty automatically halves if no proof of work is found in no more than 21 \* 3 \* 4 = 252 seconds.
 
