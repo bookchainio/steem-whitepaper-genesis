@@ -247,11 +247,11 @@ The value each currency achieves depends upon the demand for influence within a 
 
 ### معدل التصويت المحدود
 
-الجزء الرئيسي من تقليل سوء المعاملة هو الحد من معدل التصويت. يمكن للمستخدمين الفرادى قراءة وتقييم العديد من مواد العمل في اليوم الواحد فقط. أي محاولة للتصويت بشكل متكرر أكثر من هذا هي علامة على التلقائية وإساءة إستخدام محتملة. من خلال التقييم المحدود، فإن أصحاب المصالح الذين يصوتون بشكل متكرر يحصلون على أصوات أقل لكل منهم من أصحاب المصلحة الذين يصوتون بشكل أقل. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+الجزء الرئيسي من تقليل سوء المعاملة هو الحد من معدل التصويت. يمكن للمستخدمين الفرادى قراءة وتقييم العديد من مواد العمل في اليوم الواحد فقط. أي محاولة للتصويت بشكل متكرر أكثر من هذا هي علامة على التلقائية وإساءة إستخدام محتملة. من خلال التقييم المحدود، فإن أصحاب المصالح الذين يصوتون بشكل متكرر يحصلون على أصوات أقل لكل منهم من أصحاب المصلحة الذين يصوتون بشكل أقل. إن محاولات تقسيم العملات بين الحسابات المتعددة تقسم أيضًا التأثير، وبالتالي لا تؤدي إلى زيادة صافية في التأثير أو تجاوز الحد الأقصى المفروض على التصويت.
 
 ![](\img_voting_rate_limiting.png)
 
-The charts above shows how a user's voting power decreases every time they vote and then regenerates as time passes without voting. These charts use nominal time unit and could be made to scale to any targeted voting rate. Note that voting power rapidly drops off during periods of continuous voting, and then slowly recovers.
+توضح المخططات أعلاه كيف تقل قدرة التصويت لدى المستخدم في كل مرة يصوت فيها ثم يتم تجديدها مع مرور الوقت بدون التصويت. These charts use nominal time unit and could be made to scale to any targeted voting rate. Note that voting power rapidly drops off during periods of continuous voting, and then slowly recovers.
 
 Voting power is multiplied by a user's vesting tokens to determine how much share in the reward pool should be allocated to a given work item.
 
@@ -291,7 +291,7 @@ This incentive structure motivates people to contribute in a way that motivates 
 
 ### الدفعات
 
-عندما يتلقى المنشور دفعات فهي تأخد شكل 50% طاقة ستيم (SP) و 50% دولارات ستيم (SMD). The Steem Power give the user increased voting and transaction power while the SMD gives the user an immediate benefit in a stable currency. As we've already discussed at length, both SP and SMD are designed to encourage long-term holding rather than short-term selling.
+عندما يتلقى المنشور دفعات فهي تأخد شكل 50% طاقة ستيم (SP) و 50% دولارات ستيم (SMD). طاقة ستيم (Steem Power) تعطي المستخدم زيادة في التصويت وقوة للمعاملات في حين أن دولارات ستيم (SMD) تعطي المستخدم فائدة فورية في عملة مستقرة. كما سبق أن ناقشنا بشكل مطول، تم تصميم طاقة ستيم (SP) لتشجيع الإمتلاك على المدى الطويل بدلا من البيع على المدى القصير.
 
 # Consensus Algorithm
 
