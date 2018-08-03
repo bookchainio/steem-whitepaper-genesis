@@ -323,7 +323,7 @@ The primary consideration is determining what testimony is allowed to enter the 
 
 ### مكافآت التعدين تتطلب طاقة ستيم (Steem Power)
 
-بعد الشهر الأول، يتم الدفع لمعدني ستيم عبر (SP). SP is liquidated through the two-year process of "powering down". This means that miners must wait for a long time, likely many months, before sufficient mining rewards have been powered down to allow them to recover the cost of electricity and computational resources. The powering down process discourages creation of mining pools because the pool operator would have to spread payouts over years.
+بعد الشهر الأول، يتم الدفع لمعدني ستيم عبر (SP). تصبح طاقة ستيم متاحة للتداول عبر تحويلها لستيم في عملية تستغرق سنتين. وهذا يعني أن المعدنين يجب أن ينتظروا لفترة طويلة، على الأرجح عدة أشهر، قبل أن يتم تحويل مكافآت التعدين الكافية للسماح لهم باسترداد تكلفة الكهرباء والموارد الحاسوبية. إن عملية التحويل لا تشجع إنشاء برك (أحواض) التعدين، لأن مشغل البركة (الحوض) يجب أن يوزع المدفوعات على مدار سنوات.
 
 The effect of paying mining rewards in SP is to prevent miners from using today's price to determine the pro tability of mining. Few people will agree on what the future price will be. This means mining difficulty will be driven by those who place the highest estimate on future value. Miners without a long-term interest in the platform will be discouraged from competing. Ultimately this means that the proceeds of mining are less likely to be dumped on the market because they will accrue to long-term believers in the platform.
 
