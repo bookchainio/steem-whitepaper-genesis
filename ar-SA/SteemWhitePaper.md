@@ -309,9 +309,9 @@ The primary consideration is determining what testimony is allowed to enter the 
 
 مع ستيم (Steem)، يتم إنتاج الكتل في جولات. يتم اختيار 21 شاهد في كل دورة لإنشاء وتوقيع كتل من المعاملات. يتم اختيار تسعة عشر (19) من هؤلاء الشهود بالتصويت على الموافقة، وواحد يتم اختياره من خلال إثبات العمل الحاسوبي، وأخر يتم تقاسمه عبر الوقت بما يتناسب مع مجموع أصوات الشهود الذين لم يصلو إلى القائمة الأولية التي تحتوي على 19 شاهد. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before.
 
-تم تصميم هذه العملية لتوفير أفضل موثوقية مع ضمان أن كل شخص لديه القدرة على المشاركة في إنتاج الكتل، بغض النظر عما إذا كان يتمتع بشعبية كافية للحصول على تصويت ليصل إلى المقدمة. لدى الناس ثلاثة خيارات للتغلب على الرقابة من قبل أكبر 19 شاهد منتخب: الانتظار بصبر مع أي شخص آخر ليس ضمن الشهود 19 المنتخبين، أو شراء ما يكفي من القوة الحسابية لحل إثبات العمل بشكل أسرع من الآخرين، أو شراء المزيد من طاقة ستيم (SP) لتحسين قوة التصويت. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
+تم تصميم هذه العملية لتوفير أفضل موثوقية مع ضمان أن كل شخص لديه القدرة على المشاركة في إنتاج الكتل، بغض النظر عما إذا كان يتمتع بشعبية كافية للحصول على تصويت ليصل إلى المقدمة. لدى الناس ثلاثة خيارات للتغلب على الرقابة من قبل أكبر 19 شاهد منتخب: الانتظار بصبر مع أي شخص آخر ليس ضمن الشهود 19 المنتخبين، أو شراء ما يكفي من القوة الحسابية لحل إثبات العمل بشكل أسرع من الآخرين، أو شراء المزيد من طاقة ستيم (SP) لتحسين قوة التصويت. بصفة عامة، إن تطبيق الرقابة هو وسيلة جيدة للشهود المنتخبين لفقدان وظيفتهم، وبالتالي لايبدو أنها ستكون مشكلة حقيقية على شبكة ستيم (Steem).
 
-Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
+نظرًا لأن الشهود النشطين معروفون مسبقًا، فإن ستيم (Steem) قادرة على جدولة الشهود لإنتاج الكتل كل 3 ثوانٍ. الشهود يزامنون انتاج كتلهم عبر بروتوكول وقت الشبكة (NTP). تم استخدام متغير من هذه الخوارزمية بواسطة شبكة BitShares لأكثر من سنة، حيث ثبت أنه موثوق به.
 
 ## Mining in Steem
 
