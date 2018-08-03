@@ -348,11 +348,11 @@ The effect of paying mining rewards in SP is to prevent miners from using today'
 
 لدى ستيم (Steem) العديد من الخصائص التي تمنع هؤلاء اللصوص الحاسوبيين من الاستفادة. مشغلي شبكات البوتات (Botnet) هم شركات تسعى إلى الربح، ويبيعون عادة مواردهم المسروقة إلى أعلى مزايد. هذا يعني أن أولئك الذين يستخدمون البوتات يدفعون مقابل الطاقة الحاسوبية بنفس الطريقة التي يدفع بها شخص يستخدم حلول تخزين أمازون السحابية (Amazon EC2). متطلبات الإستحقاق من ستيم (Steem) تعني أن رأس المال الذي ينفق على شراء موارد البوتات سيكون مقيد لفترة طويلة من الوقت أثناء تعرض المشغل لتقلب الأسعار.
 
-هناك طريقة أخرى لمنع مشغلي البوتات من جني الأرباح، وهي المطالبة بتوزيع المفتاح الخاص على جميع أجهزة الكمبيوتر المخترقة. If even one compromised computer is discovered, the operator could lose their coins.
+هناك طريقة أخرى لمنع مشغلي البوتات من جني الأرباح، وهي المطالبة بتوزيع المفتاح الخاص على جميع أجهزة الكمبيوتر المخترقة. إذا تم اكتشاف جهاز كمبيوتر واحد مخترق، فمن الممكن أن يفقد المشغل عملاته.
 
-The last mitigation is the dependency on latency. Most botnets are comprised of computers with poor internet connections, these slow Internet connections will dramatically reduce the effectiveness of the computational resource.
+الميزة الأخيرة التي تمنع شبكات البوتات هي الاعتماد على وقت استجابة الشبكة. تتألف معظم شبكات البوتات (botnets) من أجهزة كمبيوتر ذات اتصالات ضعيفة بالإنترنت، وستقلل هذه الاتصالات البطيئة للإنترنت من فعالية الموارد الحاسوبية.
 
-It should be more profitable and less risky for botnet operators to use their resources for other activities than mining STEEM.
+يجب ان يكون استخدام موارد مشغلي البوتات في أنشطة اخرى اكثر ربحية وأقل خطورة من تعدين ستيم (STEEM).
 
 ### مقاومة بِرَك التعدين
 
