@@ -301,9 +301,9 @@ The algorithms used by cryptocurrencies provide a better way to reach consensus.
 
 The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
 
-## Consensus in Steem
+## الإجماع في ستيم (Steem)
 
-Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+من الناحية النظرية، تشبه خوارزمية الإجماع التي اعتمدتها ستيم (Steem) خوارزمية الإجماع التي تتبناها الشركات في جميع أنحاء العالم. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
 
 In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
 
@@ -329,7 +329,7 @@ The effect of paying mining rewards in SP is to prevent miners from using today'
 
 ### خوارزمية التعدين
 
-تتطلب خوارزمية التعدين التي اعتمدتها ستيم (Steem) أن يكون لدى المعدن حق الوصول إلى المفتاح الخاص للحساب الذي سيحصل على المكافآت. هذا الشرط له عدة عواقب مهمة. أولا، أنها تشجع على تحسين خوارزمية التحقق من المنحنى البيضاوي التي تحتاجها ستيم (Steem). ثانياً، أنها تجعل من الصعب إنشاء برك التعدين لأن مشغل البركة يجب أن يشارك السيطرة على المكافآت مع جميع المعدنين "المجهولين". ثالثًا، إنها تجعل استخدام برامج botnets أمرًا صعبًا للغاية، والسبب هو أن مشغلي botnet يجب أن ينشروا مفاتيحهم الخاصة عبر جميع الأجهزة المخترقة.
+تتطلب خوارزمية التعدين التي اعتمدتها ستيم (Steem) أن يكون لدى المعدن حق الوصول إلى المفتاح الخاص للحساب الذي سيحصل على المكافآت. هذا الشرط له عدة عواقب مهمة. أولا، أنها تشجع على تحسين خوارزمية التحقق من المنحنى البيضاوي التي تحتاجها ستيم (Steem). ثانياً، أنها تجعل من الصعب إنشاء برك التعدين لأن مشغل البركة يجب أن يشارك السيطرة على المكافآت مع جميع المعدنين "المجهولين". ثالثًا، إنها تجعل استخدام شبكات البوتات (botnets) أمرًا صعبًا للغاية، والسبب هو أن مشغلي شبكات البوت (botnet) يجب أن ينشروا مفاتيحهم الخاصة عبر جميع الأجهزة المخترقة.
 
 تصف الشفرة التالية كيفية حساب قيمة تجزئة إثبات العمل:
 
