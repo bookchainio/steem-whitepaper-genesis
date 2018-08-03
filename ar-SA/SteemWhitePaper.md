@@ -307,15 +307,15 @@ The primary consideration is determining what testimony is allowed to enter the 
 
 في عالم العملات المشفرة، يشار إلى السجل العام عادة باسم *سلسلة الكتل*، *الكتلة* هي مجموعة من المعاملات الموقعة.
 
-مع ستيم (Steem)، يتم إنتاج الكتل في جولات. يتم اختيار 21 شاهد في كل دورة لإنشاء وتوقيع كتل من المعاملات. يتم اختيار تسعة عشر (19) من هؤلاء الشهود بالتصويت على الموافقة، وواحد يتم اختياره من خلال إثبات العمل الحاسوبي، وأخر يتم تقاسمه عبر الوقت بما يتناسب مع مجموع أصوات الشهود الذين لم يصلو إلى القائمة الأولية التي تحتوي على 19 شاهد. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before.
+مع ستيم (Steem)، يتم إنتاج الكتل في جولات. يتم اختيار 21 شاهد في كل دورة لإنشاء وتوقيع كتل من المعاملات. يتم اختيار تسعة عشر (19) من هؤلاء الشهود بالتصويت على الموافقة، وواحد يتم اختياره من خلال إثبات العمل الحاسوبي، وأخر يتم تقاسمه عبر الوقت بما يتناسب مع مجموع أصوات الشهود الذين لم يصلو إلى القائمة الأولية التي تحتوي على 19 شاهد. ويتم خلط الشهود النشطين البالغ عددهم 21 شاهدا في كل جولة لمنع أي من الشهود من تجاهل الكتل التي ينتجها الشاهد نفسه الموضوع من قبل.
 
 تم تصميم هذه العملية لتوفير أفضل موثوقية مع ضمان أن كل شخص لديه القدرة على المشاركة في إنتاج الكتل، بغض النظر عما إذا كان يتمتع بشعبية كافية للحصول على تصويت ليصل إلى المقدمة. لدى الناس ثلاثة خيارات للتغلب على الرقابة من قبل أكبر 19 شاهد منتخب: الانتظار بصبر مع أي شخص آخر ليس ضمن الشهود 19 المنتخبين، أو شراء ما يكفي من القوة الحسابية لحل إثبات العمل بشكل أسرع من الآخرين، أو شراء المزيد من طاقة ستيم (SP) لتحسين قوة التصويت. بصفة عامة، إن تطبيق الرقابة هو وسيلة جيدة للشهود المنتخبين لفقدان وظيفتهم، وبالتالي لايبدو أنها ستكون مشكلة حقيقية على شبكة ستيم (Steem).
 
 نظرًا لأن الشهود النشطين معروفون مسبقًا، فإن ستيم (Steem) قادرة على جدولة الشهود لإنتاج الكتل كل 3 ثوانٍ. الشهود يزامنون انتاج كتلهم عبر بروتوكول وقت الشبكة (NTP). تم استخدام متغير من هذه الخوارزمية بواسطة شبكة BitShares لأكثر من سنة، حيث ثبت أنه موثوق به.
 
-## Mining in Steem
+## التعدين في ستيم (Steem)
 
-Traditional proof of work blockchains combine block production with the solving of a proof of work. Because the process of solving a proof of work takes an unpredictable amount of time, the result is unpredictable block production times. Steem aims to have consistent and reliable block production every 3 seconds with almost no potential for forks.
+يجمع إثبات العمل لسلسلة الكتل إنتاج الكتل مع حل إثبات العمل. نظرًا لأن عملية حل إثبات العمل تستغرق وقتًا غير متوقع، فإن النتيجة هي أوقات إنتاج كتل غير متوقعة. Steem aims to have consistent and reliable block production every 3 seconds with almost no potential for forks.
 
 To achieve this Steem separates block production from solving of proof of work. When a miner solves a proof of work for Steem, they broadcast a transaction containing the work. The next scheduled witness includes the transaction into the blockchain. When the transaction is included the miner is added to the queue of miners scheduled to produce blocks. Each round one miner is popped from the queue and included in the active set of witnesses. The miner gets paid when they produce a block at the time they are scheduled.
 
