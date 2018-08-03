@@ -289,9 +289,9 @@ Failure to properly nest your posts in the discussion is a good way to get down 
 
 This incentive structure motivates people to contribute in a way that motivates others to get involved. It encourages people to ask good questions so that others can provide valuable answers.
 
-### Payouts
+### الدفعات
 
-When a post receives a payout it takes the form of 50% SMD and 50% SP. The Steem Power give the user increased voting and transaction power while the SMD gives the user an immediate benefit in a stable currency. As we've already discussed at length, both SP and SMD are designed to encourage long-term holding rather than short-term selling.
+عندما يتلقى المنشور دفعات فهي تأخد شكل 50% طاقة ستيم (SP) و 50% دولارات ستيم (SMD). The Steem Power give the user increased voting and transaction power while the SMD gives the user an immediate benefit in a stable currency. As we've already discussed at length, both SP and SMD are designed to encourage long-term holding rather than short-term selling.
 
 # Consensus Algorithm
 
@@ -325,7 +325,7 @@ The primary consideration is determining what testimony is allowed to enter the 
 
 بعد الشهر الأول، يتم الدفع لمعدني ستيم عبر (SP). تصبح طاقة ستيم متاحة للتداول عبر تحويلها لستيم في عملية تستغرق سنتين. وهذا يعني أن المعدنين يجب أن ينتظروا لفترة طويلة، على الأرجح عدة أشهر، قبل أن يتم تحويل مكافآت التعدين الكافية للسماح لهم باسترداد تكلفة الكهرباء والموارد الحاسوبية. إن عملية التحويل لا تشجع إنشاء برك (أحواض) التعدين، لأن مشغل البركة (الحوض) يجب أن يوزع المدفوعات على مدار سنوات.
 
-تأثير دفع مكافآت التعدين على شكل طاقة ستيم (SP)، هو لمنع المعدنين من استخدام أسعار اليوم لتحديد ربحية التعدين. قليل من الأشخاص سيتفقون على ما سيكون عليه السعر المستقبلي. وهذا يعني أن الصعوبة في التعدين ستكون مدفوعة من قبل أولئك الذين يضعون أعلى تقدير للقيمة المستقبلية. المعدنين من دون مصلحة على المدى الطويل في المنصة لن يتم تشجيعهم للمنافسة. Ultimately this means that the proceeds of mining are less likely to be dumped on the market because they will accrue to long-term believers in the platform.
+تأثير دفع مكافآت التعدين على شكل طاقة ستيم (SP)، هو لمنع المعدنين من استخدام أسعار اليوم لتحديد ربحية التعدين. قليل من الأشخاص سيتفقون على ما سيكون عليه السعر المستقبلي. وهذا يعني أن الصعوبة في التعدين ستكون مدفوعة من قبل أولئك الذين يضعون أعلى تقدير للقيمة المستقبلية. المعدنين من دون مصلحة على المدى الطويل في المنصة لن يتم تشجيعهم للمنافسة. وهذا يعني في نهاية المطاف، أن هناك احتمالية صغيرة للتخلّص من عائدات التعدين في السوق، لأنها ستعود إلى المؤمنين بالمنصة على المدى الطويل.
 
 ### خوارزمية التعدين
 
