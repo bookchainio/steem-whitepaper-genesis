@@ -303,11 +303,11 @@ The primary consideration is determining what testimony is allowed to enter the 
 
 ## الإجماع في ستيم (Steem)
 
-من الناحية النظرية، تشبه خوارزمية الإجماع التي اعتمدتها ستيم (Steem) خوارزمية الإجماع التي تتبناها الشركات في جميع أنحاء العالم. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+من الناحية النظرية، تشبه خوارزمية الإجماع التي اعتمدتها ستيم (Steem) خوارزمية الإجماع التي تتبناها الشركات في جميع أنحاء العالم. الأشخاص الذين لديهم مصلحة في القيمة المستقبلية لستيم (Steem) يصوتون لاختيار الأفراد المسؤولين عن إدراج الشهادة في السجل العام. يتم وزن التصويت بما يتناسب مع مصلحة كل فرد.
 
-In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
+في عالم العملات المشفرة، يشار إلى السجل العام عادة باسم *سلسلة الكتل*، *الكتلة* هي مجموعة من المعاملات الموقعة.
 
-With Steem, block production is done in rounds. Each round 21 witnesses are selected to create and sign blocks of transactions. Nineteen (19) of these witnesses are selected by approval voting, one is selected by a computational proof-of-work, and one is timeshared by every witness that didn't make it into the top 19 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before.
+مع ستيم (Steem)، يتم إنتاج الكتل في جولات. يتم اختيار 21 شاهد في كل دورة لإنشاء وتوقيع كتل من المعاملات. Nineteen (19) of these witnesses are selected by approval voting, one is selected by a computational proof-of-work, and one is timeshared by every witness that didn't make it into the top 19 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before.
 
 This process is designed to provide the best reliability while ensuring that everyone has the potential to participate in block production regardless of whether they are popular enough to get voted to the top. People have three options to overcome censorship by the top 19 elected witnesses: patiently wait in line with everyone else not in the top 19, purchase enough computational power to solve a proof of work faster than others, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
 
