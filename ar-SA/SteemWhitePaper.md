@@ -317,7 +317,7 @@ The primary consideration is determining what testimony is allowed to enter the 
 
 يجمع إثبات العمل لسلسلة الكتل إنتاج الكتل مع حل إثبات العمل. نظرًا لأن عملية حل إثبات العمل تستغرق وقتًا غير متوقع، فإن النتيجة هي أوقات إنتاج كتل غير متوقعة. تهدف ستيم (Steem) إلى إنتاج كتلة متناسقة وموثوقة كل 3 ثوان مع عدم وجود إمكانية للتفرع (إستنساخ).
 
-لتحقيق هذا تفصل ستيم (Steem) إنتاج الكتل عن حل إثبات العمل. عندما يحل معدن ما إثبات عمل لستيم (Steem)، فإنه يبث معاملة تحتوي على العمل. The next scheduled witness includes the transaction into the blockchain. When the transaction is included the miner is added to the queue of miners scheduled to produce blocks. Each round one miner is popped from the queue and included in the active set of witnesses. The miner gets paid when they produce a block at the time they are scheduled.
+لتحقيق هذا تفصل ستيم (Steem) إنتاج الكتل عن حل إثبات العمل. عندما يحل معدن ما إثبات عمل لستيم (Steem)، فإنه يبث معاملة تحتوي على العمل. الشاهد المجدول التالي، يدرج المعاملة في سلسلة الكتل (blockchain). عندما يتم تضمين المعاملة يتم إضافة المعدن إلى قائمة انتظار المعدنين المقرر أن ينتجو الكتل. Each round one miner is popped from the queue and included in the active set of witnesses. The miner gets paid when they produce a block at the time they are scheduled.
 
 The difficulty of the proof of work doubles every time the queue length grows by 4. Because one miner is popped from the queue every round, and each round takes 21 \* 3 = 63 seconds, the difficulty automatically halves if no proof of work is found in no more than 21 \* 3 \* 4 = 252 seconds.
 
