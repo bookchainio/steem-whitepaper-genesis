@@ -317,13 +317,13 @@ The primary consideration is determining what testimony is allowed to enter the 
 
 يجمع إثبات العمل لسلسلة الكتل إنتاج الكتل مع حل إثبات العمل. نظرًا لأن عملية حل إثبات العمل تستغرق وقتًا غير متوقع، فإن النتيجة هي أوقات إنتاج كتل غير متوقعة. تهدف ستيم (Steem) إلى إنتاج كتلة متناسقة وموثوقة كل 3 ثوان مع عدم وجود إمكانية للتفرع (إستنساخ).
 
-لتحقيق هذا تفصل ستيم (Steem) إنتاج الكتل عن حل إثبات العمل. عندما يحل معدن ما إثبات عمل لستيم (Steem)، فإنه يبث معاملة تحتوي على العمل. الشاهد المجدول التالي، يدرج المعاملة في سلسلة الكتل (blockchain). عندما يتم تضمين المعاملة يتم إضافة المعدن إلى قائمة انتظار المعدنين المقرر أن ينتجو الكتل. Each round one miner is popped from the queue and included in the active set of witnesses. The miner gets paid when they produce a block at the time they are scheduled.
+لتحقيق هذا تفصل ستيم (Steem) إنتاج الكتل عن حل إثبات العمل. عندما يحل معدن ما إثبات عمل لستيم (Steem)، فإنه يبث معاملة تحتوي على العمل. الشاهد المجدول التالي، يدرج المعاملة في سلسلة الكتل (blockchain). عندما يتم تضمين المعاملة يتم إضافة المعدن إلى قائمة انتظار المعدنين المقرر أن ينتجو الكتل. في كل جولة ينقل معدن من قائمة الانتظار ويدرج ضمن مجموعة الشهود النشيطين. يتم الدفع للمعدن عندما ينتج كتلة في الوقت المحدد لها.
 
-The difficulty of the proof of work doubles every time the queue length grows by 4. Because one miner is popped from the queue every round, and each round takes 21 \* 3 = 63 seconds, the difficulty automatically halves if no proof of work is found in no more than 21 \* 3 \* 4 = 252 seconds.
+تتضاعف صعوبة إثبات العمل كلما ارتفع طول قائمة الانتظار بمقدار 4 مرات. نظرًا لنقل أحد المعدنين من قائمة الانتظار في كل جولة، واستغراق كل جولة 21 \* 3 = 63 ثانية، تنخفض الصعوبة تلقائيًا إلى النصف إذا لم يتم العثور على إثبات العمل في مدة لا تزيد عن 21 \* 3 \* 4 = 252 ثانية.
 
-### Mining Rewards require Steem Power
+### مكافآت التعدين تتطلب طاقة ستيم (Steem Power)
 
-After the first month, Steem miners are paid in Steem Power (SP). SP is liquidated through the two-year process of "powering down". This means that miners must wait for a long time, likely many months, before sufficient mining rewards have been powered down to allow them to recover the cost of electricity and computational resources. The powering down process discourages creation of mining pools because the pool operator would have to spread payouts over years.
+بعد الشهر الأول، يتم الدفع لمعدني ستيم عبر (SP). SP is liquidated through the two-year process of "powering down". This means that miners must wait for a long time, likely many months, before sufficient mining rewards have been powered down to allow them to recover the cost of electricity and computational resources. The powering down process discourages creation of mining pools because the pool operator would have to spread payouts over years.
 
 The effect of paying mining rewards in SP is to prevent miners from using today's price to determine the pro tability of mining. Few people will agree on what the future price will be. This means mining difficulty will be driven by those who place the highest estimate on future value. Miners without a long-term interest in the platform will be discouraged from competing. Ultimately this means that the proceeds of mining are less likely to be dumped on the market because they will accrue to long-term believers in the platform.
 
