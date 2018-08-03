@@ -251,7 +251,7 @@ The value each currency achieves depends upon the demand for influence within a 
 
 ![](\img_voting_rate_limiting.png)
 
-توضح المخططات أعلاه كيف تقل قدرة التصويت لدى المستخدم في كل مرة يصوت فيها ثم يتم تجديدها مع مرور الوقت بدون التصويت. These charts use nominal time unit and could be made to scale to any targeted voting rate. Note that voting power rapidly drops off during periods of continuous voting, and then slowly recovers.
+توضح المخططات أعلاه كيف تقل قدرة التصويت لدى المستخدم في كل مرة يصوت فيها ثم يتم تجديدها مع مرور الوقت بدون التصويت. تستخدم هذه المخططات وحدة زمنية رمزية ويمكن جعلها تقيس أي معدل تصويت مستهدف. Note that voting power rapidly drops off during periods of continuous voting, and then slowly recovers.
 
 Voting power is multiplied by a user's vesting tokens to determine how much share in the reward pool should be allocated to a given work item.
 
