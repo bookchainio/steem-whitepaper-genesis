@@ -94,11 +94,11 @@ SP może jedynie zostać przekonwertowane z powrotem na STEEM na przestrzeni 2 l
 
 Balanse SP nie mogą być transferowane i są niepodzielne, z wyjątkiem automatycznych, cyklicznych żądań konwersji. Oznacz to że SP nie może być łatwo wymieniane na giełdach kryptowalut.
 
-SP is a requirement for voting for or against content. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+SP jest wymogiem do głosowania za lub przeciwko zawartości. Oznacza to że SP to token dostępu, który udziela jego posiadaczowi ekskluzywnych uprawnień w ramach platformy Steem.
 
-Transferring from STEEM to SP is referred to as powering up while transferring from SP to Steem is referred to as "powering down". For example, one can power down their STEEM over a period of two years, yet one can power up their STEEM instantly.
+Transferowanie ze STEEM do SP jest określane jako "zwiększanie mocy", podczas gdy transferowanie z SP do STEEM jest określane jako "zmniejszanie mocy". Na przykład, osoba może zmniejszyć moc ich STEEM na przestrzeni dwóch lat, jednakże osoba może również zwiększyć moc ich STEEM natychmiastowo.
 
-## Steem Dollars (SMD)
+## Dolary Steem (SBD)
 
 Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
 
