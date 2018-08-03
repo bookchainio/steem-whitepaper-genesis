@@ -346,7 +346,7 @@ The effect of paying mining rewards in SP is to prevent miners from using today'
 
 في نهاية المطاف، يتم تعدين العديد من عملات إثبات العمل بواسطة شبكات البوتات (botnets). شبكة البوتات هي عبارة عن مجموعة من آلاف أو ملايين من الأجهزة التي تم اختراقها من قبل المتسللين (قراصنة). يسرق هؤلاء القراصنة الموارد الحاسوبية والكهربائية للآلات المخترقة من أجل تعدين العملات المشفرة.
 
-لدى ستيم (Steem) العديد من الخصائص التي تمنع هؤلاء اللصوص الحاسوبيين من الاستفادة. مشغلي شبكات البوتات (Botnet) هم شركات تسعى إلى الربح، ويبيعون عادة مواردهم المسروقة إلى أعلى مزايد. This means that those who utilize a botnet pay for the computational power in the same way that someone who uses Amazon EC2 does. The vesting requirement of Steem means that the capital spent on buying the resources of the botnet will be tied up for a long period of time during which the operator is exposed to price volatility.
+لدى ستيم (Steem) العديد من الخصائص التي تمنع هؤلاء اللصوص الحاسوبيين من الاستفادة. مشغلي شبكات البوتات (Botnet) هم شركات تسعى إلى الربح، ويبيعون عادة مواردهم المسروقة إلى أعلى مزايد. هذا يعني أن أولئك الذين يستخدمون البوتات يدفعون مقابل الطاقة الحاسوبية بنفس الطريقة التي يدفع بها شخص يستخدم حلول تخزين أمازون السحابية (Amazon EC2). The vesting requirement of Steem means that the capital spent on buying the resources of the botnet will be tied up for a long period of time during which the operator is exposed to price volatility.
 
 Another way that botnet operators are prevented from profiting is the requirement to distribute the private key to all compromised machines. If even one compromised computer is discovered, the operator could lose their coins.
 
