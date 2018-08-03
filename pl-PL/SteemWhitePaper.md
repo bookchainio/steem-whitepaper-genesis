@@ -92,7 +92,7 @@ Ponieważ Steem chce zachęcać do długoterminowego rozwoju, jest to twardo ust
 
 SP może jedynie zostać przekonwertowane z powrotem na STEEM na przestrzeni 2 lat w 104 równych, tygodniowych ratach. '1 SP' może być postrzegane jako udział w puli STEEM. Sieć automatycznie dodaje STEEM do puli co każdy blok. W dowolnym momencie użytkownicy mogą przekonwertować ich STEEM na SP przy tym samym kursie jaki ma STEEM w zamrożonej puli do całości SP. Konwertowanie STEEM na SP nie powoduje rozwodnienia u istniejących posiadaczy SP. Podobnie, za każdym razem kiedy SP jest konwertowane z powrotem na STEEM jest to robione przy obecnym kursie. Indywidualne osoby są gwarantowane iż będą posiadały więcej STEEM w przyszłości niż mahą gdy pierwszy raz konwertują STEEM na SP.
 
-SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Balanse SP nie mogą być transferowane i są niepodzielne, z wyjątkiem automatycznych, cyklicznych żądań konwersji. Oznacz to że SP nie może być łatwo wymieniane na giełdach kryptowalut.
 
 SP is a requirement for voting for or against content. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
