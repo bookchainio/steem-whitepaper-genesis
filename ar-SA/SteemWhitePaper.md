@@ -283,17 +283,17 @@ Voting power is multiplied by a user's vesting tokens to determine how much shar
 
 #### مكافأة المشاركات الرئيسية
 
-مناقشة جيدة تتطلب النشر ذهابًا وإيابًا. عند الرد على شخص آخر، يحصلون على 50٪ من أي دفعات تتلقاها في ذاك الموضوع. تنطبق هذه القاعدة على 6 طبقات كحد أقصى من العمق. Starting a big discussion greatly rewards the parent poster.
+مناقشة جيدة تتطلب النشر ذهابًا وإيابًا. عند الرد على شخص آخر، يحصلون على 50٪ من أي دفعات تتلقاها في ذاك الموضوع. تنطبق هذه القاعدة على 6 طبقات كحد أقصى من العمق. بدء نقاش كبير يكافئ بشكل كبير الناشر الرئيسي.
 
-Failure to properly nest your posts in the discussion is a good way to get down voted.
+الفشل في تهيئة مشاركاتك بشكل مناسب في المناقشة هي طريقة جيدة للتصويت لك بلا.
 
-This incentive structure motivates people to contribute in a way that motivates others to get involved. It encourages people to ask good questions so that others can provide valuable answers.
+هذا الهيكل التحفيزي يحفز الناس على المساهمة بطريقة تحفز الآخرين على المشاركة، وهو يشجع الناس على طرح أسئلة جيدة حتى يتمكن الآخرون من تقديم إجابات قيمة.
 
 ### الدفعات
 
 عندما يتلقى المنشور دفعات فهي تأخد شكل 50% طاقة ستيم (SP) و 50% دولارات ستيم (SMD). طاقة ستيم (Steem Power) تعطي المستخدم زيادة في التصويت وقوة للمعاملات في حين أن دولارات ستيم (SMD) تعطي المستخدم فائدة فورية في عملة مستقرة. كما سبق أن ناقشنا بشكل مطول، تم تصميم طاقة ستيم (SP) لتشجيع الإمتلاك على المدى الطويل بدلا من البيع على المدى القصير.
 
-# Consensus Algorithm
+# خوارزمية الإجماع (التوافق)
 
 Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
 
