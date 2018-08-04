@@ -259,9 +259,9 @@ Voting power is multiplied by a user's vesting tokens to determine how much shar
 
 ![](\img_change_voting_period_eg.png)
 
-لمنع المزيد من إساءة الاستخدام، يتم تأجيل جميع الدفعات بمتوسط مرجح ثابت يبلغ 24 ساعة من وقت إجراء كل تصويت. وهذا يضمن أن أصحاب المصلحة الكبار لا يستطيعون قنص المدفوعات (المكافأت) عن طريق التصويت في آخر لحظة، قبل أن تتاح الفرصة للناخبين الآخرين (المعروفين بسرطان البحر) لإبطال إساءة الاستخدام المحتملة. بمجرد أن يتم الدفع للمستخدم يتم إعادة تعيين جميع الأصوات إلى 0. If votes come in after the payout then the process begins again.
+لمنع المزيد من إساءة الاستخدام، يتم تأجيل جميع الدفعات بمتوسط مرجح ثابت يبلغ 24 ساعة من وقت إجراء كل تصويت. وهذا يضمن أن أصحاب المصلحة الكبار لا يستطيعون قنص المدفوعات (المكافأت) عن طريق التصويت في آخر لحظة، قبل أن تتاح الفرصة للناخبين الآخرين (المعروفين بسرطان البحر) لإبطال إساءة الاستخدام المحتملة. بمجرد أن يتم الدفع للمستخدم يتم إعادة تعيين جميع الأصوات إلى 0. إذا جاءت الأصوات بعد عملية الدفع، فستبدأ العملية مرة أخرى.
 
-This chart shows how the voting period expiration changes in response to new positive and negative votes being applied. New votes extend the payout period in proportion to how large they are relative to all votes that have gone before. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
+يوضح هذا الرسم البياني كيف تتغير صلاحية فترة التصويت كاستجابة للأصوات الإيجابية والسلبية الجديدة التي يتم تطبيقها. تُمَدِّد الأصوات الجديدة فترة الدفع بما يتناسب مع حجمها بالنسبة إلى جميع الأصوات التي سبقت. تمت إضافة حوالي 40 من الأصوات الجديدة، والتي مددت فترة التصويت بـ 12 ساعة، وأصغر الأصوات اللاحقة كان تأثيرها أقل بكثير على فترة التصويت.
 
 ### Payout Distribution
 
