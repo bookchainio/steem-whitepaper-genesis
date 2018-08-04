@@ -187,7 +187,7 @@ Transferring from STEEM to SP is referred to as powering up while transferring f
 
 إذا كانت نسبة الدين إلى الملكية مرتفعة بشكل خطير وآختار المشاركون في السوق تجنب طلبات التحويل، فيجب تعديل التحديثات لزيادة المعدل الذي دفعته STEEM لتحويل SBD.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SMD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions. The blockchain is paying liquidity providers for their service in absorbing short-term demands.
+يجب أن تكون التعديلات على سياسة سعر الفائدة والأقساط / الخصومات على معدل تحويل ستيم/ دولارات ستيم (STEEM/SMD)، ذات استجابة بطيئة ومحددة لمتوسط الانحرافات على المدى الطويل، بدلاً من محاولة الاستجابة لظروف السوق على المدى القصير. The blockchain is paying liquidity providers for their service in absorbing short-term demands.
 
 It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SMD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.99 and $1.01 for SMD under most market conditions.
 
