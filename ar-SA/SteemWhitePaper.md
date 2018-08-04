@@ -295,9 +295,9 @@ Voting power is multiplied by a user's vesting tokens to determine how much shar
 
 # خوارزمية الإجماع (التوافق)
 
-الإجماع هو العملية التي يأتي بها المجتمع باتفاق خالي من الغموض ومعترف به عالمياً على جزء من المعلومات. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+الإجماع هو العملية التي يأتي بها المجتمع باتفاق خالي من الغموض ومعترف به عالمياً على جزء من المعلومات. هناك العديد من الخوارزميات التي طورها المجتمع للتوصل إلى إجماع حول من يملك ماذا. كل حكومة على الأرض هي خوارزمية إجماع بدائية يتفق بموجبها السكان على الالتزام بمجموعة معينة من القواعد المنصوص عليها في الدستور. تنشئ الحكومات المحاكم، والقضاة، والمحلفين لتفسير الحقائق الشخصية وإصدار قرار نهائي. في معظم الوقت يلتزم الناس بالقرار حتى ولو كان خطأ.
 
-The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+توفر الخوارزميات المستخدمة من قبل العملات المشفرة طريقة أفضل للتوصل إلى إجماع (توافق) في الآراء. يتم تسجيل شهادة توقيع مشفرة من الأفراد في سجل عام يحدد النظام العالمي المطلق للأحداث. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
 
 The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
 
