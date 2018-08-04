@@ -253,7 +253,7 @@ The value each currency achieves depends upon the demand for influence within a 
 
 توضح المخططات أعلاه كيف تقل قدرة التصويت لدى المستخدم في كل مرة يصوت فيها ثم يتم تجديدها مع مرور الوقت بدون التصويت. تستخدم هذه المخططات وحدة زمنية رمزية ويمكن جعلها تقيس أي معدل تصويت مستهدف. لاحظ أن قوة التصويت تنخفض بسرعة خلال فترات التصويت المستمر، ثم تتعافى ببطء.
 
-Voting power is multiplied by a user's vesting tokens to determine how much share in the reward pool should be allocated to a given work item.
+من أجل تحديد حصة المكافآت المخصصة للمساهمة، يتم ضرب قوة التصويت في العملات المملوكة للمستخدم.
 
 ### الدفعات المتأخرة
 
