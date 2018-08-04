@@ -267,13 +267,13 @@ Voting power is multiplied by a user's vesting tokens to determine how much shar
 
 ![](\img_the_new_marketplace.png)
 
-أحد الأهداف الرئيسية لنظام مكافأة ستيم (Steem) هو إنتاج أفضل المناقشات على شبكة الإنترنت. في كل عام، يتم توزيع 10٪ من القيمة السوقية لستيم (Steem) للمستخدمين الذين يرسلون المحتوى ويصوتون ويناقشون. محسوبًا وفقًا لحجم بيتكوين، يمكن أن يصل هذا إلى 1.75 مليون دولار في اليوم يتم منحها لأفضل المساهمين.
+أحد الأهداف الرئيسية لنظام مكافأة ستيم (Steem) هو إنتاج أفضل المناقشات على شبكة الإنترنت. في كل عام، يتم توزيع 10٪ من القيمة السوقية لستيم (Steem) للمستخدمين الذين يرسلون المحتوى ويصوتون ويناقشون. إذا حسبناها وفقًا لحجم بيتكوين، يمكن أن يصل هذا إلى 1.75 مليون دولار في اليوم يتم منحها لأفضل المساهمين.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
+سيعتمد التوزيع الحالي على أنماط تصويت المستخدمين، ولكننا نشك في أن الغالبية العظمى من المكافآت ستوزع على المحتوى الأكثر شعبية. يقيّم Steem دفعات تتناسب مع \\(n^{2}\\) مقدار تصويت طاقة ستيم (Steem Power) لمشاركة ما. بمعنى آخر، ستحصل المشاركة x على عائد يتناسب مع:
 
 \\(votes[x]^{2} / sum(votes[0...n]^{2})\\)
 
-Zipf's Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the \\(k^{th}\\)-ranked item will measure about 1/k of the first one.
+قانون Zipf [^7] هو واحد من تلك القواعد التجريبية التي تميز مجموعة مدهشة من ظواهر العالم الحقيقي بشكل ملحوظ. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the \\(k^{th}\\)-ranked item will measure about 1/k of the first one.
 
 Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf's Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
 
