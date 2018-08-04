@@ -255,19 +255,19 @@ The value each currency achieves depends upon the demand for influence within a 
 
 Voting power is multiplied by a user's vesting tokens to determine how much share in the reward pool should be allocated to a given work item.
 
-### المدفوعات المتأخرة
+### الدفعات المتأخرة
 
 ![](\img_change_voting_period_eg.png)
 
-لمنع المزيد من إساءة الاستخدام، يتم تأجيل جميع الدفعات بمتوسط مرجح ثابت يبلغ 24 ساعة من وقت إجراء كل تصويت. وهذا يضمن أن أصحاب المصلحة الكبار لا يستطيعون قنص المدفوعات (المكافأت) عن طريق التصويت في آخر لحظة، قبل أن تتاح الفرصة للناخبين الآخرين (المعروفين بسرطان البحر) لإبطال إساءة الاستخدام المحتملة. بمجرد أن يتم الدفع للمستخدم يتم إعادة تعيين جميع الأصوات إلى 0. إذا جاءت الأصوات بعد عملية الدفع، فستبدأ العملية مرة أخرى.
+لمنع المزيد من إساءة الاستخدام، يتم تأجيل جميع الدفعات بمتوسط مرجح ثابت يبلغ 24 ساعة من وقت إجراء كل تصويت. وهذا يضمن أن أصحاب المصلحة الكبار لا يستطيعون قنص الدفعات (المكافأت) عن طريق التصويت في آخر لحظة، قبل أن تتاح الفرصة للناخبين الآخرين (المعروفين بسرطان البحر) لإبطال إساءة الاستخدام المحتملة. بمجرد أن يتم الدفع للمستخدم يتم إعادة تعيين جميع الأصوات إلى 0. إذا جاءت الأصوات بعد عملية الدفع، فستبدأ العملية مرة أخرى.
 
-يوضح هذا الرسم البياني كيف تتغير صلاحية فترة التصويت كاستجابة للأصوات الإيجابية والسلبية الجديدة التي يتم تطبيقها. تُمَدِّد الأصوات الجديدة فترة الدفع بما يتناسب مع حجمها بالنسبة إلى جميع الأصوات التي سبقت. تمت إضافة حوالي 40 من الأصوات الجديدة، والتي مددت فترة التصويت بـ 12 ساعة، وأصغر الأصوات اللاحقة كان تأثيرها أقل بكثير على فترة التصويت.
+يوضح هذا الرسم البياني كيف تتغير صلاحية فترة التصويت كاستجابة للأصوات الإيجابية والسلبية الجديدة التي يتم تطبيقها. تُمَدِّد الأصوات الجديدة فترة الدفع بما يتناسب مع حجمها بالنسبة إلى جميع الأصوات التي سبقت. في حوالي الساعة 40 تمت إضافة عدد كبير من الأصوات الجديدة والتي مددت فترة التصويت بـ 12 ساعة، والأصوات الأصغر اللاحقة كان تأثيرها أقل بكثير على فترة التصويت.
 
-### Payout Distribution
+### توزيع الدفعات
 
 ![](\img_the_new_marketplace.png)
 
-One of the primary goals of Steem's reward system is to produce the best discussions on the internet. Each and every year 10% of the market capitalization of Steem is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be as much as $1.75 million dollars per day being given to top contributors.
+أحد الأهداف الرئيسية لنظام مكافأة ستيم (Steem) هو إنتاج أفضل المناقشات على شبكة الإنترنت. في كل عام، يتم توزيع 10٪ من القيمة السوقية لستيم (Steem) للمستخدمين الذين يرسلون المحتوى ويصوتون ويناقشون. محسوبًا وفقًا لحجم بيتكوين، يمكن أن يصل هذا إلى 1.75 مليون دولار في اليوم يتم منحها لأفضل المساهمين.
 
 The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
 
