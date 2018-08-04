@@ -273,9 +273,9 @@ Voting power is multiplied by a user's vesting tokens to determine how much shar
 
 \\(votes[x]^{2} / sum(votes[0...n]^{2})\\)
 
-قانون Zipf [^7] هو واحد من تلك القواعد التجريبية التي تميز مجموعة مدهشة من ظواهر العالم الحقيقي بشكل ملحوظ. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the \\(k^{th}\\)-ranked item will measure about 1/k of the first one.
+قانون Zipf [^7] هو واحد من تلك القواعد التجريبية التي تميز مجموعة مدهشة من ظواهر العالم الحقيقي بشكل ملحوظ. يقول القانون أنه إذا طلبنا مجموعة كبيرة من حيث الحجم أو الشعبية، فإن العنصر الثاني في المجموعة سيكون نصف قياس العنصر الأول، والثالث سيكون حوالي ثلث قياس العنصر الأول، وما إلى ذلك. بشكل عام، فإن العنصر \\(k^{th}\\)- في المرتبة سوف يقيس حوالي 1/k من أول واحد.
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf's Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+أخذ الشعبية كمقياس تقريبي للقيمة، ثم إعطاء قيمة لكل عنصر فردي من قبل قانون Zipf's. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
 
 The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
 
