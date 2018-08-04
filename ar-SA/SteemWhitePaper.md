@@ -259,7 +259,7 @@ Voting power is multiplied by a user's vesting tokens to determine how much shar
 
 ![](\img_change_voting_period_eg.png)
 
-To further prevent abuse, all payouts are delayed a stake-weighted average of 24 hours from the time each vote was cast. This ensures that large stakeholders cannot snipe payouts by voting at the last second before other voters (aka crabs) have a chance to negate the potential abuse. Once a payout is made to the user all votes are reset to 0. If votes come in after the payout then the process begins again.
+لمنع المزيد من إساءة الاستخدام، يتم تأجيل جميع الدفعات بمتوسط مرجح ثابت يبلغ 24 ساعة من وقت إجراء كل تصويت. وهذا يضمن أن أصحاب المصلحة الكبار لا يستطيعون قنص المدفوعات (المكافأت) عن طريق التصويت في آخر لحظة، قبل أن تتاح الفرصة للناخبين الآخرين (المعروفين بسرطان البحر) لإبطال إساءة الاستخدام المحتملة. بمجرد أن يتم الدفع للمستخدم يتم إعادة تعيين جميع الأصوات إلى 0. If votes come in after the payout then the process begins again.
 
 This chart shows how the voting period expiration changes in response to new positive and negative votes being applied. New votes extend the payout period in proportion to how large they are relative to all votes that have gone before. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
 
