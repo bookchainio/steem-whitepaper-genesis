@@ -279,11 +279,11 @@ Voting power is multiplied by a user's vesting tokens to determine how much shar
 
 يتمثل تأثير هذا التصويت وتوزيع العوائد في تقديم مكافآت كبيرة للمحتوى الجيد بينما لا يزال يكافئ اللاعبين الأصغر على مساهمات الذيل الطويل (long-tail) الخاصة بهم.
 
-يتشابه الأثر الاقتصادي لذلك مع اليانصيب، حيث يفرط الناس في تقدير احتمالية حصولهم على الأصوات، وبالتالي يقومون بعمل أكثر من القيمة المتوقعة لمكافأتهم، وهذا يؤدي إلى زيادة حجم مجموع العمل المنجز في خدمة المجتمع. The fact that everyone "wins something" plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+يتشابه الأثر الاقتصادي لذلك مع اليانصيب، حيث يفرط الناس في تقدير احتمالية حصولهم على الأصوات، وبالتالي يقومون بعمل أكثر من القيمة المتوقعة لمكافأتهم، وهذا يؤدي إلى زيادة حجم مجموع العمل المنجز في خدمة المجتمع. حقيقة أن كل شخص "يفوز بشيء ما" تلعب على نفس علم النفس الذي تستخدمه الكازينوهات لإبقاء الناس يقامرون. وبعبارات أخرى، تساعد المكافآت الصغيرة على تعزيز فكرة أنه من الممكن كسب مكافآت أكبر.
 
-#### Rewarding Parent Posts
+#### مكافأة المشاركات الرئيسية
 
-Good discussion requires back and forth posting. When you reply to someone else, they get 50% of any payout you receive in that thread. This rule applies up to 6 levels deep. Starting a big discussion greatly rewards the parent poster.
+مناقشة جيدة تتطلب النشر ذهابًا وإيابًا. عند الرد على شخص آخر، يحصلون على 50٪ من أي دفعات تتلقاها في ذاك الموضوع. تنطبق هذه القاعدة على 6 طبقات كحد أقصى من العمق. Starting a big discussion greatly rewards the parent poster.
 
 Failure to properly nest your posts in the discussion is a good way to get down voted.
 
