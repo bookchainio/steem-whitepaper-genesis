@@ -279,7 +279,7 @@ Voting power is multiplied by a user's vesting tokens to determine how much shar
 
 يتمثل تأثير هذا التصويت وتوزيع العوائد في تقديم مكافآت كبيرة للمحتوى الجيد بينما لا يزال يكافئ اللاعبين الأصغر على مساهمات الذيل الطويل (long-tail) الخاصة بهم.
 
-The economic effect of this is similar to a lottery where people over-estimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone "wins something" plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+يتشابه الأثر الاقتصادي لذلك مع اليانصيب، حيث يفرط الناس في تقدير احتمالية حصولهم على الأصوات، وبالتالي يقومون بعمل أكثر من القيمة المتوقعة لمكافأتهم، وهذا يؤدي إلى زيادة حجم مجموع العمل المنجز في خدمة المجتمع. The fact that everyone "wins something" plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
 #### Rewarding Parent Posts
 
