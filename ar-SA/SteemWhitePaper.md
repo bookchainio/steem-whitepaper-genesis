@@ -297,9 +297,9 @@ Voting power is multiplied by a user's vesting tokens to determine how much shar
 
 الإجماع هو العملية التي يأتي بها المجتمع باتفاق خالي من الغموض ومعترف به عالمياً على جزء من المعلومات. هناك العديد من الخوارزميات التي طورها المجتمع للتوصل إلى إجماع حول من يملك ماذا. كل حكومة على الأرض هي خوارزمية إجماع بدائية يتفق بموجبها السكان على الالتزام بمجموعة معينة من القواعد المنصوص عليها في الدستور. تنشئ الحكومات المحاكم، والقضاة، والمحلفين لتفسير الحقائق الشخصية وإصدار قرار نهائي. في معظم الوقت يلتزم الناس بالقرار حتى ولو كان خطأ.
 
-توفر الخوارزميات المستخدمة من قبل العملات المشفرة طريقة أفضل للتوصل إلى إجماع (توافق) في الآراء. يتم تسجيل شهادة توقيع مشفرة من الأفراد في سجل عام يحدد النظام العالمي المطلق للأحداث. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+توفر الخوارزميات المستخدمة من قبل العملات المشفرة طريقة أفضل للتوصل إلى إجماع (توافق) في الآراء. يتم تسجيل شهادة توقيع مشفرة من الأفراد في سجل عام يحدد النظام العالمي المطلق للأحداث. يمكن بعد ذلك أن تقوم خوارزمية حاسوبية حاسمة بمعالجة هذا السجل لاستخلاص استنتاج مقبول عالميًا. طالما يتفق أعضاء المجتمع على خوارزمية المعالجة، فإن نتيجة الخوارزمية موثوقة.
 
-The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+الاعتبار الأساسي هو تحديد الشهادة المسموح بإدخالها في السجل العام. ينبغي تصميم الانظمة للتقليل من إمكانية الرقابة. المراقبة على السجل العام تشبه منع شخص من التصويت في الانتخابات. في كلتا الحالتين، يتم منع الفرد من التأثير على الإجماع (التوافق) العالمي.
 
 ## الإجماع في ستيم (Steem)
 
