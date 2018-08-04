@@ -275,9 +275,9 @@ Voting power is multiplied by a user's vesting tokens to determine how much shar
 
 قانون Zipf [^7] هو واحد من تلك القواعد التجريبية التي تميز مجموعة مدهشة من ظواهر العالم الحقيقي بشكل ملحوظ. يقول القانون أنه إذا طلبنا مجموعة كبيرة من حيث الحجم أو الشعبية، فإن العنصر الثاني في المجموعة سيكون نصف قياس العنصر الأول، والثالث سيكون حوالي ثلث قياس العنصر الأول، وما إلى ذلك. بشكل عام، فإن العنصر \\(k^{th}\\)- في المرتبة سوف يقيس حوالي 1/k من أول واحد.
 
-أخذ الشعبية كمقياس تقريبي للقيمة، ثم إعطاء قيمة لكل عنصر فردي من قبل قانون Zipf's. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+أخذ الشعبية كمقياس تقريبي للقيمة، ثم إعطاء قيمة لكل عنصر فردي من قبل قانون Zipf's. وهذا يعني أنه إذا كان لدينا مليون عنصر، فسيساهم أكثر من 100 عنصر في ثلث القيمة الإجمالية، والعدد التالي من العناصر البالغ عددها 10000 ستساهم في ثلث أخر، والعناصر الباقية البالغ عددها 989,900 ستساهم في الثلث الأخير. تتناسب قيمة مجموعة عناصر n مع السجل (n).
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+يتمثل تأثير هذا التصويت وتوزيع العوائد في تقديم مكافآت كبيرة للمحتوى الجيد بينما لا يزال يكافئ اللاعبين الأصغر على مساهمات الذيل الطويل (long-tail) الخاصة بهم.
 
 The economic effect of this is similar to a lottery where people over-estimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone "wins something" plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
