@@ -92,9 +92,9 @@ Because Steem wants to encourage long-term growth, it is hardwired to allocate 9
 
 يمكن تحويل طاقة ستيم (SP) مرة أخرى إلى STEEM خلال عامين عبر 104 دفعة أسبوعية متساوية. '1 SP' can be viewed as a share in a pool of STEEM. The network automatically adds STEEM to the pool every block. At any time users can convert their STEEM into SP at the same ratio as STEEM in the vesting pool to total SP. Converting STEEM to SP does not dilute existing holders of SP. Likewise, every time SP is converted back to STEEM it is done at the current ratio. ويضمن للأفراد الحصول على المزيد من STEEM في المستقبل أكثر مما كان لديهم عند تحويلهم STEEM إلى SP لأول مرة.
 
-SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+أرصدة طاقة ستيم (SP) غير قابلة للتحويل وغير قابلة للقسمة إلا عبر طلبات التحويل المتكررة تلقائيًا، وهذا يعني أنه لا يمكن تداول طاقة ستيم (SP) بسهولة عبر منصات تداول العملات المشفرة.
 
-SP is a requirement for voting for or against content. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+طاقة ستيم (SP) هي شرط للتصويت للمحتوى أو ضد المحتوى، وهذا يعني أن طاقة ستيم (SP) هي عملة وصول تمنح حامليها صلاحيات حصرية داخل منصة ستيم.
 
 Transferring from STEEM to SP is referred to as powering up while transferring from SP to Steem is referred to as "powering down". For example, one can power down their STEEM over a period of two years, yet one can power up their STEEM instantly.
 
