@@ -96,7 +96,7 @@ Because Steem wants to encourage long-term growth, it is hardwired to allocate 9
 
 طاقة ستيم (SP) هي شرط للتصويت للمحتوى أو ضد المحتوى، وهذا يعني أن طاقة ستيم (SP) هي عملة وصول تمنح حامليها صلاحيات حصرية داخل منصة ستيم.
 
-يسمى التحويل من ستيم (STEEM) لطاقة ستيم (SP) بتحويل الطاقة/الرفع من الطاقة (powering up)، بينما يشار لتحويل طاقة ستيم (SP) إلى ستيم (STEEM) بإيقاف الطاقة/تخفيض الطاقة (powering down). For example, one can power down their STEEM over a period of two years, yet one can power up their STEEM instantly.
+يسمى التحويل من ستيم (STEEM) لطاقة ستيم (SP) بتحويل الطاقة/الرفع من الطاقة (powering up)، بينما يشار لتحويل طاقة ستيم (SP) إلى ستيم (STEEM) بإيقاف الطاقة/تخفيض الطاقة (powering down). على سبيل المثال، يمكن للمرء أن يقلل/يحول (power down) طاقة ستيم الخاصة به خلال فترة سنتين، بينما يمكن رفع الطاقة (power up) على الفور.
 
 ## ستيم دولار (SMD)
 
