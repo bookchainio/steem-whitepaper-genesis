@@ -104,11 +104,11 @@ Stabilność jest ważnym elementem każdej udanej globalnej gospodarki. Bez sta
 
 Dolary Steem są tworzone poprzez mechanizm podobny w działaniu do obligacji zamiennych, które często są używane do fundowania start-upów. W świecie start-upów, obligacje zamienne to instrumenty pożyczek krótkoterminowych które mogą zostać przekonwertowane na udziały w tempie określonym w przyszłości, zazwyczaj w trakcie przyszłej rundy finansowania. Token oparty na technologii blockchain może być postrzegany jako udział w społeczności, podczas gdy obligacje zamienne mogą być postrzegane jako dług denominowany w każdym innym towarze lub walucie. Warunki obligacji zamiennej pozwalają właścicielowi na przekonwertowanie ich na token wspierający przy minimalnym koście po uczciwej cenie rynkowej tokenu. Tworzenie konwertowalnych na tokeny dolarów pozwala blockchain-om na rozwój efektu ich sieci, jednocześnie maksymalizując zyski dla posiadaczy tokenów.
 
-Steem Dollars are referred to with the symbol SMD, an acronym for Steem Dollars. Creating SMD requires a combination of a reliable price feed, rules to prevent abuse, and liquidity. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+Do Dolarów Steem odwołujemy się symbolem SBD, akronimem Steem Dollars. Tworzenie SBD wymaga kombinacji niezawodnych notowań ceny, zasad w celu unikania nadużyć oraz płynności. Zapewnienie niezawodnych notowań ceny wymaga 3 czynników: minimalizacji impaktu niepoprawnych notowań, maksymalizacji kosztów produkcji niepoprawnych notowań i minimalizowania ważności zgrania w czasie.
 
-### Minimizing Fraudulent Feeds
+### Minimalizowanie Fałszywych Notowań
 
-SP holders elect individuals to publish price feeds. These elected individuals are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+Posiadacze SP wybierają osoby indywidualne do publikowania notowań ceny. Te wybrane osoby są, jak zakładamy, zaufane przez tych którzy mają interes w jakości notowań. Poprzez płacenie tym, którzy są wybrani, Steem tworzy konkurencję rynkową do zdobycia prawa do produkcji notowań. Im więcej producenci notowań otrzymują, tym więcej mają do stracenia poprzez opublicznianie fałszywych informacji.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
