@@ -110,7 +110,7 @@ Do Dolarów Steem odwołujemy się symbolem SBD, akronimem Steem Dollars. Tworze
 
 Posiadacze SP wybierają osoby indywidualne do publikowania notowań ceny. Te wybrane osoby są, jak zakładamy, zaufane przez tych którzy mają interes w jakości notowań. Poprzez płacenie tym, którzy są wybrani, Steem tworzy konkurencję rynkową do zdobycia prawa do produkcji notowań. Im więcej producenci notowań otrzymują, tym więcej mają do stracenia poprzez opublicznianie fałszywych informacji.
 
-Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+Posiadając grupę zaufanych i wybranych producentów notowań, właściwa cena używana do konwersji może zostać otrzymana z mediany notowań. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
 Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
 
