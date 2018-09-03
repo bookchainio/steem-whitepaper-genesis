@@ -124,9 +124,9 @@ W przeciągu jednego tygodnia, członkowie społeczność mają trzy i pół dni
 
 Uczestnicy rynku mają szybszy dostęp do informacji niż jednotygodniowa poruszająca się mediana ceny konwersji blockchain-u może zareagować. Informacja może zostać użyta przez spekulantów, którzy chcą wzbogacić się kosztem społeczności. W przypadku nagłego wzrostu wartości STEEM, kupcy mogliby zażądać konwersji ich SBD po starej, niższej cenie, a następnie sprzedać otrzymany STEEM po wyższej cenie przy minimalnym ryzyku.
 
-Steem wyrównuje szanse, wymagając by wszystkie żądania wymiany były opóźnione o jeden tydzień. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steem wyrównuje szanse, wymagając by wszystkie żądania wymiany były opóźnione o jeden tydzień. Oznacza to iż ani kupcy ani blockchain nie ma żadnej przewagi informacji dotyczącej ceny w momencie kiedy egzekwowana jest konwersja.
 
-### Minimizing Abuse of Conversions
+### Minimalizowanie Nadużyć Systemu Konwersji
 
 If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SMD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SMD to STEEM and not the other way around.
 
