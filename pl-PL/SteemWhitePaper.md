@@ -122,9 +122,9 @@ W przeciągu jednego tygodnia, członkowie społeczność mają trzy i pół dni
 
 ### Łagodzenie Ataków Czasowych
 
-Uczestnicy rynku mają szybszy dostęp do informacji niż jednotygodniowa poruszająca się mediana ceny konwersji blockchain-u może zareagować. Informacja może zostać użyta przez spekulantów, którzy chcą wzbogacić się kosztem społeczności. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Uczestnicy rynku mają szybszy dostęp do informacji niż jednotygodniowa poruszająca się mediana ceny konwersji blockchain-u może zareagować. Informacja może zostać użyta przez spekulantów, którzy chcą wzbogacić się kosztem społeczności. W przypadku nagłego wzrostu wartości STEEM, kupcy mogliby zażądać konwersji ich SBD po starej, niższej cenie, a następnie sprzedać otrzymany STEEM po wyższej cenie przy minimalnym ryzyku.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for one week. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steem wyrównuje szanse, wymagając by wszystkie żądania wymiany były opóźnione o jeden tydzień. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
 ### Minimizing Abuse of Conversions
 
