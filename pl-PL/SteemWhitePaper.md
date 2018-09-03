@@ -134,7 +134,7 @@ Blockchain decyduje jak i kiedy tworzyć SBD i kto powinien je otrzymać. To utr
 
 ### Płynność
 
-Tylko dlatego że SBD może być konwertowana na wartość STEEM w dolarach po uczciwej cenie i w rozsądnych ilościach, nie oznacza że będzie ono postrzegane jako niezawodne zastępstwo dolara. Ten majątek wymaga płynności na rynku, który umożliwia natychmiastowe konwersje pomiędzy STEEM i SBD. Środki które blockchain jest zmuszony podjąć aby zapobieć nadużyciom końcowo obniża jakość konwertowalnych dolarów. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
+Tylko dlatego że SBD może być konwertowana na wartość STEEM w dolarach po uczciwej cenie i w rozsądnych ilościach, nie oznacza że będzie ono postrzegane jako niezawodne zastępstwo dolara. Ten majątek wymaga płynności na rynku, który umożliwia natychmiastowe konwersje pomiędzy STEEM i SBD. Środki które blockchain jest zmuszony podjąć aby zapobieć nadużyciom końcowo obniża jakość konwertowalnych dolarów. Aby zrekompensować tą stratę na jakości, blockchain może oferować nagrodę stałym koszcie do dostawców płynności. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
 
 A liquidity provider buys and sells SMD and STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
 
