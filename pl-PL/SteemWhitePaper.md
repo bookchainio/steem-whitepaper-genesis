@@ -116,13 +116,13 @@ Nawet jeśli wszyscy producenci notowań są szczerzy, możliwe jest by na więk
 
 Steem wyklucza krótkoterminowe fluktuacje cen poprzez używanie mediany ceny z okresu jednego tygodnia. Mediana publikowanych notowań jest próbkowana punktualnie co godzinę.
 
-Tak długo jak korupcja notowań ceny trwa krócej niż połowa okna czasowego przesuwania mediany, będzie miała ona minimalny wpływ na cenę konwersji. W przypadku korupcji notowań, uczestnicy sieci będą mieli szansę na głosowanie za oddaleniem zkoruptowanych producentów notowań zanim korupcja notowań będzie mogła wpłynąć na rzeczywistą cenę konwersji. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Tak długo jak korupcja notowań ceny trwa krócej niż połowa okna czasowego przesuwania mediany, będzie miała ona minimalny wpływ na cenę konwersji. W przypadku korupcji notowań, uczestnicy sieci będą mieli szansę na głosowanie za oddaleniem zkoruptowanych producentów notowań zanim korupcja notowań będzie mogła wpłynąć na rzeczywistą cenę konwersji. Być może co ważniejsze, daje to producentom notowań szansę na detekcję i naprawę błędów zanim ich notowanie zaczną wpływać na cenę.
 
-With a one week window, community members have three and a half days to respond to any issues that come up.
+W przeciągu jednego tygodnia, członkowie społeczność mają trzy i pół dnia na zareagowanie na jakiekolwiek pojawiające się problemy.
 
-### Mitigating Timing Attacks
+### Łagodzenie Ataków Czasowych
 
-Market participants have access to information faster than the blockchain's one week moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Uczestnicy rynku mają szybszy dostęp do informacji niż jednotygodniowa poruszająca się mediana ceny konwersji blockchain-u może zareagować. Informacja może zostać użyta przez spekulantów, którzy chcą wzbogacić się kosztem społeczności. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
 
 Steem levels the playing field by requiring all conversion requests to be delayed for one week. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
