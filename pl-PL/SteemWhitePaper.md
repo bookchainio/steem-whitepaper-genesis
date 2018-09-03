@@ -114,9 +114,9 @@ Posiadając grupę zaufanych i wybranych producentów notowań, właściwa cena 
 
 Nawet jeśli wszyscy producenci notowań są szczerzy, możliwe jest by na większość z nich wpłynęły wydarzenia poza ich kontrolą. Sieć Steem jest zaprojektowana by tolerować krótkoterminową korupcję mediany notowań ceny, kiedy społeczność aktywnie pracuje by naprawić problem. Jednym z przykładów problemów, które mogą wymagać trochę czasu na naprawę jest krótkoterminowa manipulacja rynku. Manipulacja rynku jest trudna i kosztowna do utrzymania na dłuższe okresy czasu. Innym przykładem byłby krach zcentralizowanej giełdy lub korupcja danych publikowanych przez giełdę.
 
-Steem factors out short-term price fluctuations by using the median price over a period of one week. The median published feed is sampled every hour on the hour.
+Steem wyklucza krótkoterminowe fluktuacje cen poprzez używanie mediany ceny z okresu jednego tygodnia. Mediana publikowanych notowań jest próbkowana punktualnie co godzinę.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Tak długo jak korupcja notowań ceny trwa krócej niż połowa okna czasowego przesuwania mediany, będzie miała ona minimalny wpływ na cenę konwersji. W przypadku korupcji notowań, uczestnicy sieci będą mieli szansę na głosowanie za oddaleniem zkoruptowanych producentów notowań zanim korupcja notowań będzie mogła wpłynąć na rzeczywistą cenę konwersji. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
 With a one week window, community members have three and a half days to respond to any issues that come up.
 
