@@ -128,13 +128,13 @@ Steem wyrównuje szanse, wymagając by wszystkie żądania wymiany były opóźn
 
 ### Minimalizowanie Nadużyć Systemu Konwersji
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SMD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SMD to STEEM and not the other way around.
+Jeśli ludzie mogliby swobodnie konwertować w obu kierunkach, to spekulanci mogliby wykorzystać kurs wymiany blockchain-u by wymieniać duże ilości bez zmieniania ceny. Kupcy którzy widzą masywny wzrost cen mogliby przekonwertować na SBD po wyższej cenie (kiedy to najbardziej ryzykowne) i przekonwertować z powrotem po wystąpieniu korekcji. Protokół Steem chroni społeczność przed tym rodzajem nadużyć poprzez pozwalanie ludzie jedynie na konwertowanie z SBD na STEEM i nie w drugą stronę.
 
-The blockchain decides how and when to create SMD and who should get it. This keeps the rate of SMD creation stable and removes most avenues of abuse.
+Blockchain decyduje jak i kiedy tworzyć SBD i kto powinien je otrzymać. To utrzymuje tempo kreacji SBD stabilne i usuwa większość ścieżek nadużyć.
 
-### Liquidity
+### Płynność
 
-Just because SMD can be converted to a dollars worth of STEEM at a fair price in a reasonable amount of time doesn't mean it will be viewed as a reliable dollar replacement. These assets require liquidity in a market that enables instantaneous conversion between STEEM and SMD. The measures a blockchain is forced to take to prevent abuse end up lowering the quality of the convertible dollars. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
+Tylko dlatego że SBD może być konwertowana na wartość STEEM w dolarach po uczciwej cenie i w rozsądnych ilościach, nie oznacza że będzie ono postrzegane jako niezawodne zastępstwo dolara. Ten majątek wymaga płynności na rynku, który umożliwia natychmiastowe konwersje pomiędzy STEEM i SBD. Środki które blockchain jest zmuszony podjąć aby zapobieć nadużyciom końcowo obniża jakość konwertowalnych dolarów. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
 
 A liquidity provider buys and sells SMD and STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
 
