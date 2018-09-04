@@ -108,11 +108,11 @@ Do Dolarów Steem odwołujemy się symbolem SBD, akronimem Steem Dollars. Tworze
 
 ### Minimalizowanie Fałszywych Notowań
 
-Posiadacze SP wybierają osoby indywidualne do publikowania notowań ceny. Te wybrane osoby są, jak zakładamy, zaufane przez tych którzy mają interes w jakości notowań. Poprzez płacenie tym, którzy są wybrani, Steem tworzy konkurencję rynkową do zdobycia prawa do produkcji notowań. Im więcej producenci notowań otrzymują, tym więcej mają do stracenia poprzez opublicznianie fałszywych informacji.
+Posiadacze SP wybierają osoby indywidualne do publikowania notowań ceny. Te wybrane osoby są, jak zakładamy, zaufane przez tych którzy mają interes w jakości notowań. Poprzez płacenie tym, którzy są wybrani, Steem tworzy konkurencję rynkową do zdobycia prawa do produkcji notowań. Im więcej producenci notowań otrzymują, tym więcej mają do stracenia poprzez upublicznianie fałszywych informacji.
 
-Posiadając grupę zaufanych i wybranych producentów notowań, właściwa cena używana do konwersji może zostać otrzymana z mediany notowań. W ten sposób, jeśli jakaś mniejszość lub indywidualnych producentów notowań produkują odstające wyniki, mają oni minimalny impakt na właściwą medianę, jednocześnie ciągle posiadając możliwość wpływu na ich reputację.
+Posiadając grupę zaufanych i wybranych producentów notowań, właściwa cena używana do konwersji może zostać otrzymana z mediany notowań. W ten sposób, jeśli jakaś mniejszość lub indywidualni producenci notowań produkują odstające wyniki, mają oni minimalny impakt na właściwą medianę, jednocześnie ciągle posiadając możliwość wpływu na ich reputację.
 
-Nawet jeśli wszyscy producenci notowań są szczerzy, możliwe jest by na większość z nich wpłynęły wydarzenia poza ich kontrolą. Sieć Steem jest zaprojektowana by tolerować krótkoterminową korupcję mediany notowań ceny, kiedy społeczność aktywnie pracuje by naprawić problem. Jednym z przykładów problemów, które mogą wymagać trochę czasu na naprawę jest krótkoterminowa manipulacja rynku. Manipulacja rynku jest trudna i kosztowna do utrzymania na dłuższe okresy czasu. Innym przykładem byłby krach zcentralizowanej giełdy lub korupcja danych publikowanych przez giełdę.
+Nawet jeśli wszyscy producenci notowań są szczerzy, możliwe jest by na większość z nich wpłynęły wydarzenia poza ich kontrolą. Sieć Steem jest zaprojektowana by tolerować krótkoterminową korupcję mediany notowań ceny, kiedy społeczność aktywnie pracuje by naprawić problem. Jednym z przykładów problemów, które mogą wymagać trochę czasu na naprawę jest krótkoterminowa manipulacja rynku. Manipulacja rynku jest trudna i kosztowna do utrzymania na dłuższe okresy czasu. Innym przykładem byłby krach scentralizowanej giełdy lub korupcja danych publikowanych przez giełdę.
 
 Steem wyklucza krótkoterminowe fluktuacje cen poprzez używanie mediany ceny z okresu jednego tygodnia. Mediana publikowanych notowań jest próbkowana punktualnie co godzinę.
 
