@@ -149,7 +149,7 @@ Użytkownicy muszą zapewnić płynność obu stronom aby kwalifikować się do 
 
 Co godzinę, konto z największą ilością PunktówPłynności otrzymuje 1200 STEEM, a następnie jego punkty płynności są resetowane do 0. Konto które nie zdobędzie żadnych punktów płynności przez tydzień, również będzie miało swoje punkty zresetowane do 0. Oznacza to iż jeśli zapewniasz duże ilości płynności lub małe ilości w długim okresie czasu, to każdy otrzymuje proporcjonalną ilość nagród. Jeśli WolumenCenyKupnaSieci albo WolumenCenySprzedażySieci jest ujemny, to przyjmujemy że PunktyPłynności to 0.
 
-### Sustainable Debt to Ownership Ratios
+### Współczynniki Podtrzymywalnego Długu do Własności
 
 If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
 
