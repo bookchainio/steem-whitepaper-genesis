@@ -144,10 +144,10 @@ Użytkownik jest uważany za dostawcę płynności, jeżeli pozostawi on otwarte
 
 Użytkownicy muszą zapewnić płynność obu stronom aby kwalifikować się do nagród i muszą ją zapewniać konsekwentni, wraz z upływem czasu. Algorytm punktujący to:
 
-      LiquidityPoints = NetBidVolume x NetAskVolume
+      PunktyPłynności = WolumenCenyKupnaSieci x WolumenCenySprzedażySieci
     
 
-Every hour the account with the most LiquidityPoints receives 1200 STEEM and then has its LiquidityPoints reset to 0. An account that goes a week without earning any LiquidityPoints also has its points reset to 0. This means that whether you provide a large amount of liquidity or a small amount over a long period of time everyone gets a proportional amount of the rewards. If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
+Co godzinę, konto z największą ilością PunktówPłynności otrzymuje 1200 STEEM, a następnie jego punkty płynności są resetowane do 0. Konto które nie zdobędzie żadnych punktów płynności przez tydzień, również będzie miało swoje punkty zresetowane do 0. Oznacza to iż jeśli zapewniasz duże ilości płynności lub małe ilości w długim okresie czasu, to każdy otrzymuje proporcjonalną ilość nagród. Jeśli WolumenCenyKupnaSieci albo WolumenCenySprzedażySieci jest ujemny, to przyjmujemy że PunktyPłynności to 0.
 
 ### Sustainable Debt to Ownership Ratios
 
