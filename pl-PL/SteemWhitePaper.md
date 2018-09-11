@@ -142,7 +142,7 @@ Steem posiada wbudowany w blockchain rynek pomiędzy SBD i STEEM. Użytkownicy m
 
 Użytkownik jest uważany za dostawcę płynności, jeżeli pozostawi on otwarte zamówienie na liście na co najmniej 1 minutę i ewentualnie zostanie ono wypełnione. Jeśli zamówienie zostanie anulowane przed wypełnieniem, to temu użytkownikowi nie jest przypisane dostarczanie płynności.
 
-Users must provide liquidity on both sides of the book to qualify for rewards and they must provide liquidity consistently over time. The scoring algorithm is:
+Użytkownicy muszą zapewnić płynność obu stronom aby kwalifikować się do nagród i muszą ją zapewniać konsekwentni, wraz z upływem czasu. Algorytm punktujący to:
 
       LiquidityPoints = NetBidVolume x NetAskVolume
     
