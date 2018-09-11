@@ -134,9 +134,9 @@ Blockchain decyduje jak i kiedy tworzyć SBD i kto powinien je otrzymać. To utr
 
 ### Płynność
 
-Tylko dlatego że SBD może być konwertowana na wartość STEEM w dolarach po uczciwej cenie i w rozsądnych ilościach, nie oznacza że będzie ono postrzegane jako niezawodne zastępstwo dolara. Ten majątek wymaga płynności na rynku, który umożliwia natychmiastowe konwersje pomiędzy STEEM i SBD. Środki które blockchain jest zmuszony podjąć aby zapobiec nadużyciom docelowo obniża jakość konwertowalnych dolarów. Aby zrekompensować tą stratę na jakości, blockchain może oferować nagrodę o stałym koszcie do dostawców płynności. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
+Tylko dlatego że SBD może być konwertowana na wartość STEEM w dolarach po uczciwej cenie i w rozsądnych ilościach, nie oznacza że będzie ono postrzegane jako niezawodne zastępstwo dolara. Ten majątek wymaga płynności na rynku, który umożliwia natychmiastowe konwersje pomiędzy STEEM i SBD. Środki które blockchain jest zmuszony podjąć aby zapobiec nadużyciom docelowo obniża jakość konwertowalnych dolarów. Aby zrekompensować tą stratę na jakości, blockchain może oferować nagrodę o stałym koszcie do dostawców płynności. W sytuacjach gdzie potencjalne straty z powodu manipulacji i nadużycia są nieograniczone, koszt wspierania upłynniania może być stały.
 
-A liquidity provider buys and sells SMD and STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
+Dostawca płynności kupuje i sprzedaje SBD i STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
 
 Steem has an on-blockchain market between SMD and STEEM. Users can earn rewards by providing liquidity to both sides of this market. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
 
