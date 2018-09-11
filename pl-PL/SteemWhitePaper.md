@@ -138,9 +138,9 @@ Tylko dlatego że SBD może być konwertowana na wartość STEEM w dolarach po u
 
 Dostawca płynności kupuje i sprzedaje SBD i STEEM. Przyjmują oni na siebie większość krótkoterminowego ryzyka cenowego i długoterminowego ryzyka notowań zapewniając reszcie rynku wysokiej jakości, ekstremalnie płynny rynek na którym mogą handlować.
 
-Steem has an on-blockchain market between SMD and STEEM. Users can earn rewards by providing liquidity to both sides of this market. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
+Steem posiada wbudowany w blockchain rynek pomiędzy SBD i STEEM. Użytkownicy mogą zdobywać nagrody poprzez zapewnianie płynności obu stronom tego rynku. Blockchain używa prostego algorytmu by ocenić dostarczanie i konsumpcję płynności każdego użytkownika.
 
-A user is considered a liquidity provider if they leave an open order on the books for at least 1 minute and the order is eventually filled. If the order is canceled before being filled then the user is not credited with providing liquidity.
+Użytkownik jest uważany za dostawcę płynności, jeżeli pozostawi on otwarte zamówienie na liście na co najmniej 1 minutę i ewentualnie zostanie ono wypełnione. Jeśli zamówienie zostanie anulowane przed wypełnieniem, to temu użytkownikowi nie jest przypisane dostarczanie płynności.
 
 Users must provide liquidity on both sides of the book to qualify for rewards and they must provide liquidity consistently over time. The scoring algorithm is:
 
