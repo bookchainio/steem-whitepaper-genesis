@@ -163,7 +163,7 @@ Szybka zmiana wartości STEEM może znacząco zmienić stosunek długu do własn
 
 SMD wypłaca udziały posiadaczy. Oprocentowanie ustalają ci sami ludzie, którzy publikują dane o cenach, aby mogły się one dostosować do zmieniających się warunków rynkowych. Każdy dług niesie za sobą ryzyko dla wierzyciela. Ktoś, kto przechowuje SBD bez jego wypłacenia czy zamiany, tak naprawdę pożycza społeczności wartość dolara. Ufają, że w przyszłości ktoś będzie skłonny kupić SMD od nich za dolara lub że będą spekulanci i inwestorzy gotowi kupić STEEM, na który go zamienili.
 
-Posiadacze STEEM i SP zyskują siłę, gdy członkowie społeczności są skłonni przechowywać SMD. To właśnie dzięki temu przekonaniu można ciągnąć coraz większe zyski z platformy. Jest to zarazem podstawa jej rozwoju. Posiadacze STEEM ponoszą stratę w momencie, kiedy ceny waluty spadają. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+Posiadacze STEEM i SP zyskują siłę, gdy członkowie społeczności są skłonni przechowywać SMD. To właśnie dzięki temu przekonaniu można ciągnąć coraz większe zyski z platformy. Jest to zarazem podstawa jej rozwoju. Posiadacze STEEM ponoszą stratę w momencie, kiedy ceny waluty spadają. Projekty kryptowalut pokazały, że zyski z powiększania bazy użytkowników chcących zaufać sieci kapitałem, ostatecznie dodają więcej wartości do sieci niż jakiekolwiek rozcieńczenie, które może wystąpić w czasie spowolnienia.
 
 ### Setting Price Feeds
 
