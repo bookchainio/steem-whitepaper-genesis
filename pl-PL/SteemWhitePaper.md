@@ -155,13 +155,13 @@ Jeżeli token jest postrzegany jako własność w całej podaży tokenów, wtedy
 
 Dla każdego SMD tworzonego prze Steem, 19,00 $ STEEM jest również tworzone i konwertowane na SP. Oznacza to, że najwyższy możliwy stosunek długu do własności na stabilnym rynku wynosi 1:19 lub około 5%. Jeśli wartość Steem spadnie o 50%, wtedy wskaźnik może wzrosnąć do 10%. Spadek wartości STEEM o 88% może spowodować, że stosunek długu do własności osiągnie 40%. Zakładając, że wartość STEEM ostatecznie się ustabilizuje, stosunek długu do własności wróci spowrotem do 5%.
 
-The idea behind having a conservative 5% debt to ownership ratio is that even if all debt were converted and sold there should be ample buyers and the effective dilution of the token holders remains relatively small.
+Pomysł posiadania konserwatywnego 5% stosunku zadłużenia do własności jest taki, że nawet jeśli wszystkie długi zostały skonwertowane i sprzedane, powinno być wielu nabywców, a faktyczne osłabienie właścicieli tokenów pozostaje stosunkowo niewielkie.
 
-A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SMD and SP (as determined by the current rate / feed).
+Szybka zmiana wartości STEEM może znacząco zmienić stosunek długu do własności. Stawki procentowe używane do obliczenia STEEM są oparte na podaży z uwzględnieniem wartości STEEM wszystkich wyróżniających się SMD i SP (zgodnie z bieżącą stawką / danymi).
 
-### Interest
+### Udział
 
-SMD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SMD wypłaca udziały posiadaczy. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
 STEEM and SP holders gain leverage when members of the community are willing to hold SMD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
