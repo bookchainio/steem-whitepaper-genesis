@@ -161,9 +161,9 @@ Szybka zmiana wartości STEEM może znacząco zmienić stosunek długu do własn
 
 ### Udział
 
-SMD wypłaca udziały posiadaczy. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SMD wypłaca udziały posiadaczy. Oprocentowanie ustalają ci sami ludzie, którzy publikują dane o cenach, aby mogły się one dostosować do zmieniających się warunków rynkowych. Każdy dług niesie za sobą ryzyko dla wierzyciela. Ktoś, kto przechowuje SBD bez jego wypłacenia czy zamiany, tak naprawdę pożycza społeczności wartość dolara. Ufają, że w przyszłości ktoś będzie skłonny kupić SMD od nich za dolara lub że będą spekulanci i inwestorzy gotowi kupić STEEM, na który go zamienili.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SMD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+Posiadacze STEEM i SP zyskują siłę, gdy członkowie społeczności są skłonni przechowywać SMD. To właśnie dzięki temu przekonaniu można ciągnąć coraz większe zyski z platformy. Jest to zarazem podstawa jej rozwoju. Posiadacze STEEM ponoszą stratę w momencie, kiedy ceny waluty spadają. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
 ### Setting Price Feeds
 
