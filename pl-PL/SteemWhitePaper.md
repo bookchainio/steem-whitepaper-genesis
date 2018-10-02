@@ -173,15 +173,15 @@ Astute readers will recognize that an interest bearing asset of limited supply m
 2. Swobodny przepływ kapitału
 3. Niezależna polityka pieniężna
 
-Jeżeli producenci Steem próbowaliby prowadzić niezależną politykę monetarną, która pozwoliłaby im tworzyć i niszczyć Dolary Steem przy jednoczesnym zachowaniu pełnej kontroli nad kursem wymiany, napotkaliby problemy. "The Impossible Trinity" twierdzi, że Dolary Steem albo muszą ograniczać ruch kapitału, mieć niestabilny kurs wymiany z dolarem, albo mieć ograniczoną kontrolę nad stopą procentową.
+Jeżeli producenci kursu wymiany Steem próbowaliby prowadzić niezależną politykę monetarną, która pozwoliłaby im tworzyć i niszczyć Dolary Steem przy jednoczesnym zachowaniu pełnej kontroli nad kursem wymiany, napotkaliby problemy. "The Impossible Trinity" twierdzi, że Dolary Steem albo muszą ograniczać ruch kapitału, mieć niestabilny kurs wymiany z dolarem, albo mieć ograniczoną kontrolę nad stopą procentową.
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SMD and the U.S. Dollar (USD). Any time SMD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+Pierwszorzędnym celem producentów kursu wymiany jest utrzymywanie stabilnej relacji SBD do Dolara Amerykańskiego (USD) w stosunku jeden do jednego. Za każdym razem, kiedy SBD jest wymieniane po kursie wyższym niż 1.00$ USD, wypłata udziałów musi zostać zatrzymana. Na rynku, gdzie 0% udziałów w długu dalej pozostaje pożądanym produktem, rynek jest gotowy za płacić za ten dług więcej niż społeczność może sobie na to pozwolić. W takiej sytuacji SBD będzie warte więcej niż 1.00$ oraz oznacza to, że społeczność nie będzie mogła zbyt wiele zrobić bez wprowadzenia ujemnej stopy procentowej.
 
-If the debt-to-ownership ratio is under 10% and SMD is trading for less than $1.00 then the interest rate should be increased. This will encourage more people to hold their SMD and support the price.
+Jeżeli współczynnik długu do własności jest mały, a SBD jest wymieniane po kursie niższym niż 1.00$, wtedy kurs SBD powinien zostać podwyższony. Zachęci to większą ilość osób do trzymania SBD i wspierania ceny.
 
-If SMD trades for less than $1.00 USD and the debt-to-ownership ratio is over 10% then the feeds should be adjusted upward give more STEEM per SMD. This will increase demand for SMD while also reducing the debt-to-ownership ratio and returning SMD to parity with USD.
+Jeżeli kurs SBD stoi na poziomie niższym niż 1.00$ USD, a współczynnik długu do własności jest wysoki, kursy powinny zostać dostosowane w ten sposób, by 1 SBD był poparty większą ilością STEEM. Zwiększy to popyt na SBD, a tym samym obniży stosunek długu do własności oraz przywróci parytet SBD i USD.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SMD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Zakładając, że wartość STEEM rośnie szybciej niż platforma Steem tworzy nowe SBD, stosunek długu do własności powinien pozostać poniżej docelowego wskaźnika - wtedy oferowane udziały będą przynosić korzyściu każdemu. Jeżeli wartość sieci pozostaje na tym samym poziomie lub spada, każde oferowane udziały będą pogarszać współczynnik długu do własności.
 
 In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
