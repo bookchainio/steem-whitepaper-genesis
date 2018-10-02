@@ -167,13 +167,13 @@ Posiadacze STEEM i SP zyskują siłę, gdy członkowie społeczności są skłon
 
 ### Setting Price Feeds
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. Przy wysokim oprocentowaniu płaconym od aktywów powiązanych z dolarem amerykańskim wiele osób licytuje ograniczoną podaż Steem Dollarów, dopóki nie będą już wyceniane na 1$. W ekonomii istnieje zasada znana jako "Impossible Trinity"[^4], która twierdzi, że niemożliwe jest posiadanie wszystkich trzech następujących cech w tym samym czasie:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. Stabilny kurs walutowy
+2. Swobodny przepływ kapitału
+3. Niezależna polityka pieniężna
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+Jeżeli producenci Steem próbowaliby prowadzić niezależną politykę monetarną, która pozwoliłaby im tworzyć i niszczyć Dolary Steem przy jednoczesnym zachowaniu pełnej kontroli nad kursem wymiany, napotkaliby problemy. "The Impossible Trinity" twierdzi, że Dolary Steem albo muszą ograniczać ruch kapitału, mieć niestabilny kurs wymiany z dolarem, albo mieć ograniczoną kontrolę nad stopą procentową.
 
 The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SMD and the U.S. Dollar (USD). Any time SMD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
