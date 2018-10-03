@@ -165,7 +165,7 @@ SMD wypłaca udziały posiadaczy. Oprocentowanie ustalają ci sami ludzie, któr
 
 Posiadacze STEEM i SP zyskują siłę, gdy członkowie społeczności są skłonni przechowywać SMD. To właśnie dzięki temu przekonaniu można ciągnąć coraz większe zyski z platformy. Jest to zarazem podstawa jej rozwoju. Posiadacze STEEM ponoszą stratę w momencie, kiedy ceny waluty spadają. Projekty kryptowalut pokazały, że zyski z powiększania bazy użytkowników chcących zaufać sieci kapitałem, ostatecznie dodają więcej wartości do sieci niż jakiekolwiek rozcieńczenie, które może wystąpić w czasie spowolnienia.
 
-### Setting Price Feeds
+### Ustawianie kanałów cenowych
 
 Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. Przy wysokim oprocentowaniu płaconym od aktywów powiązanych z dolarem amerykańskim wiele osób licytuje ograniczoną podaż Steem Dollarów, dopóki nie będą już wyceniane na 1$. W ekonomii istnieje zasada znana jako "Impossible Trinity"[^4], która twierdzi, że niemożliwe jest posiadanie wszystkich trzech następujących cech w tym samym czasie:
 
