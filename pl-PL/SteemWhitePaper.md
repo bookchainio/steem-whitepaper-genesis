@@ -165,7 +165,7 @@ SMD wypłaca udziały posiadaczy. Oprocentowanie ustalają ci sami ludzie, któr
 
 Posiadacze STEEM i SP zyskują siłę, gdy członkowie społeczności są skłonni przechowywać SMD. To właśnie dzięki temu przekonaniu można ciągnąć coraz większe zyski z platformy. Jest to zarazem podstawa jej rozwoju. Posiadacze STEEM ponoszą stratę w momencie, kiedy ceny waluty spadają. Projekty kryptowalut pokazały, że zyski z powiększania bazy użytkowników chcących zaufać sieci kapitałem, ostatecznie dodają więcej wartości do sieci niż jakiekolwiek rozcieńczenie, które może wystąpić w czasie spowolnienia.
 
-### Ustawianie kanałów cenowych
+### Ustawianie Wartości Kursów
 
 Wnikliwi czytelnicy rozpoznają, że kapitał o ograniczonej podaży, przynoszący odsetki, może kosztować więcej lub mniej niż kapitał zasadniczy w zależności od innych możliwości uzyskania odsetek od tego samego kapitału. Przy wysokim oprocentowaniu płaconym od aktywów powiązanych z dolarem amerykańskim wiele osób licytuje ograniczoną podaż Steem Dollarów, dopóki nie będą już wyceniane na 1$. W ekonomii istnieje zasada znana jako "Impossible Trinity"[^4], która twierdzi, że niemożliwe jest posiadanie wszystkich trzech następujących cech w tym samym czasie:
 
@@ -183,7 +183,7 @@ Jeżeli kurs SBD stoi na poziomie niższym niż 1.00$ USD, a współczynnik dłu
 
 Zakładając, że wartość STEEM rośnie szybciej niż platforma Steem tworzy nowe SBD, stosunek długu do własności powinien pozostać poniżej docelowego wskaźnika - wtedy oferowane udziały będą przynosić korzyściu każdemu. Jeżeli wartość sieci pozostaje na tym samym poziomie lub spada, każde oferowane udziały będą pogarszać współczynnik długu do własności.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+W efekcie twórcom wartości kursu powierza się odpowiedzialność ustalenia polityki pieniężnej w celu utrzymania stabilnego stosunku do USD. Nadużycie tej mocy może zaszkodzić wartości STEEM, więc posiadacze SP powinni głosować na świadków, na których można liczyć w kwestii dostosowania wartości kursu i stóp procentowych zgodnie z zasadami opisanymi powyżej.
 
 If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SMD.
 
