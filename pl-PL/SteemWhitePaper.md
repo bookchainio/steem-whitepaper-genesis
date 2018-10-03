@@ -167,7 +167,7 @@ Posiadacze STEEM i SP zyskują siłę, gdy członkowie społeczności są skłon
 
 ### Ustawianie kanałów cenowych
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. Przy wysokim oprocentowaniu płaconym od aktywów powiązanych z dolarem amerykańskim wiele osób licytuje ograniczoną podaż Steem Dollarów, dopóki nie będą już wyceniane na 1$. W ekonomii istnieje zasada znana jako "Impossible Trinity"[^4], która twierdzi, że niemożliwe jest posiadanie wszystkich trzech następujących cech w tym samym czasie:
+Wnikliwi czytelnicy rozpoznają, że kapitał o ograniczonej podaży, przynoszący odsetki, może kosztować więcej lub mniej niż kapitał zasadniczy w zależności od innych możliwości uzyskania odsetek od tego samego kapitału. Przy wysokim oprocentowaniu płaconym od aktywów powiązanych z dolarem amerykańskim wiele osób licytuje ograniczoną podaż Steem Dollarów, dopóki nie będą już wyceniane na 1$. W ekonomii istnieje zasada znana jako "Impossible Trinity"[^4], która twierdzi, że niemożliwe jest posiadanie wszystkich trzech następujących cech w tym samym czasie:
 
 1. Stabilny kurs walutowy
 2. Swobodny przepływ kapitału
