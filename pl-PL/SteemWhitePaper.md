@@ -193,9 +193,9 @@ Wierzymy, że zasady te zapewnią uczestników rynku, iż utrata przez nich pien
 
 ## Subiektywne Wkłady
 
-Subiektywny Dowód Pracy przedstawia alternatywne podejście do dystrybucji waluty, która poprawia się pod w pełni *obiektywnymi* systemami Dowodu Pracy, takich jak górnictwo. Wnioski waluty wprowadzającej *subiektywny* dowód pracy są znacznie szersze niż jakikolwiek *obiektywny*system dowodu pracy, ponieważ mogą być stosowane do budowania społeczności wokół każdej koncepcji, która ma wystarczająco określony cel. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+Subiektywny Dowód Pracy przedstawia alternatywne podejście do dystrybucji waluty, która poprawia się pod w pełni *obiektywnymi* systemami Dowodu Pracy, takich jak górnictwo. Wnioski waluty wprowadzającej *subiektywny* dowód pracy są znacznie szersze niż jakikolwiek *obiektywny*system dowodu pracy, ponieważ mogą być stosowane do budowania społeczności wokół każdej koncepcji, która ma wystarczająco określony cel. Kiedy jednostki dołączają do danej społeczności, przekonują się do pewnego zestawu przekonań i mogą głosować, żeby wzmocnić wartości lub cel tej społeczności.
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+W efekcie, kryteria według których praca jest oceniana, są kompletnie subiektywne, a ich definicja żyje własnym życiem, kompletnie poza kodem źródłowym platformy. Jedna społeczność może zechcieć nagrodzić artystów, inna poetów, jeszcze inna komików. Other communities may choose to reward charitable causes or help advance political agendas.
 
 The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
