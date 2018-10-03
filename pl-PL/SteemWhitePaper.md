@@ -195,9 +195,9 @@ Wierzymy, że zasady te zapewnią uczestników rynku, iż utrata przez nich pien
 
 Subiektywny Dowód Pracy przedstawia alternatywne podejście do dystrybucji waluty, która poprawia się pod w pełni *obiektywnymi* systemami Dowodu Pracy, takich jak górnictwo. Wnioski waluty wprowadzającej *subiektywny* dowód pracy są znacznie szersze niż jakikolwiek *obiektywny*system dowodu pracy, ponieważ mogą być stosowane do budowania społeczności wokół każdej koncepcji, która ma wystarczająco określony cel. Kiedy jednostki dołączają do danej społeczności, przekonują się do pewnego zestawu przekonań i mogą głosować, żeby wzmocnić wartości lub cel tej społeczności.
 
-W efekcie, kryteria według których praca jest oceniana, są kompletnie subiektywne, a ich definicja żyje własnym życiem, kompletnie poza kodem źródłowym platformy. Jedna społeczność może zechcieć nagrodzić artystów, inna poetów, jeszcze inna komików. Other communities may choose to reward charitable causes or help advance political agendas.
+W efekcie, kryteria według których praca jest oceniana, są kompletnie subiektywne, a ich definicja żyje własnym życiem, kompletnie poza kodem źródłowym platformy. Jedna społeczność może zechcieć nagrodzić artystów, inna poetów, jeszcze inna komików. Inne społeczności mogą zdecydować o nagrodzeniu działań charytatywnych lub wsparciu programów politycznych.
 
-The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+Wartość, jaką dana waluta osiąga, zależy od tego, jak duży jest na nią popyt w ramach danej społeczności, a także od tego, jak bardzo - zdaniem rynku - ta społeczność może urosnąć. W przeciwieństwie do poprzednich systemów, subiektywny dowód pracy pozwala społeczności na wspólne finansowawnie rozwoju czegokolwiek co uzna za wartościowe, a także pozwala na monetyzację wcześniej niespieniężalnego czasu.
 
 ### Distributing Currency
 
