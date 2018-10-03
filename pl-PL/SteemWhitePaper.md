@@ -185,11 +185,11 @@ Zakładając, że wartość STEEM rośnie szybciej niż platforma Steem tworzy n
 
 W efekcie twórcom wartości kursu powierza się odpowiedzialność ustalenia polityki pieniężnej w celu utrzymania stabilnego stosunku do USD. Nadużycie tej mocy może zaszkodzić wartości STEEM, więc posiadacze SP powinni głosować na świadków, na których można liczyć w kwestii dostosowania wartości kursu i stóp procentowych zgodnie z zasadami opisanymi powyżej.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SMD.
+Jeżeli współczynnik długu do własności zaczyna osiągać niebezpiecznie wysoki poziom a członkowie rynku unikają wymian, kurs powinien zostać dostosowany, by zwiększyć stawkę, według której STEEM jest wypłacany za wymianę SMD.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SMD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions. The blockchain is paying liquidity providers for their service in absorbing short-term demands.
+Zmiany w polityce stóp procentowych i / lub wszelkie premie/rabaty dotyczące stawki konwersji STEEM/SMD powinny być powolną i mierzoną odpowiedzią na długoterminowe średnie odchylenia, a nie próbą zareagowania na krótkoterminowe warunki rynkowe. Blockchain płaci dostawcom płynności za ich usługi w zakresie zaspokajania krótkoterminowych wymagań.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SMD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.99 and $1.01 for SMD under most market conditions.
+Wierzymy, że zasady te zapewnią uczestników rynku, iż utrata przez nich pieniędzy przez przetrzymywanie SMD zakupionego po cenie 1$ jest mało prawdopodobna. We fully expect there to be a narrow trading range between $0.99 and $1.01 for SMD under most market conditions.
 
 ## Subjective Contributions
 
