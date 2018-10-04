@@ -6,7 +6,7 @@ Marec 2016
 
 # Opombe prevajalca
 
-None.
+-
 
 # Povzetek
 
@@ -22,15 +22,15 @@ Vsebine, ki jih prispevajo uporabniki po vsem svetu, ustvarjajo na milijarde evr
 
 Pri oblikovanju Steema so nas vodila nekatera ključna načela. Najpomembnejše načelo je, da bi moral vsak, ki prispeva k naložbi podjeta, od tega prejeti sorazmerni lastniški delež, plačilo ali dolg. Gre za isto načelo, kot velja za vsa novoustanovljena podjetja, ki razdelijo deleže ob ustanovitvi in ob poznejših investicijah.
 
-Drugo načelo je, da so vse oblike kapitala enako dragocene. To pomeni, da so tisti, ki prispevajo svoj dragoceni čas in pozornost za to, da ustvarjajo in vrednotijo vsebino za druge, prav tako cenjeni kakor tisti, ki prispevajo svoj dragoceni denar. To je načelo finančno neovrednotenega dela (t. i. sweat equity)[^2] in je zamisel, ki pred obdobjem kriptovalut pogosto ni uspela zagotoviti uspeha več kot nekaj ducat posameznikom.
+Drugo načelo je, da so vse oblike kapitala enako dragocene. To pomeni, da so tisti, ki prispevajo svoj dragoceni čas in pozornost za to, da ustvarjajo in kurirajo vsebino za druge, prav tako cenjeni kakor tisti, ki prispevajo svoj dragoceni denar. To je načelo finančno neovrednotenega dela (t. i. sweat equity)[^2] in je zamisel, ki pred obdobjem kriptovalut pogosto ni uspela zagotoviti uspeha več kot nekaj ducat posameznikom.
 
 Tretje načelo pa je to, da skupnost ustvarja izdelke za potrebe svojih članov. Dober primer tega načela so kreditne zadruge, prehranske zadruge in načrti za izmenjavo zdravstvenih storitev, ki se zavzemajo za dobrobit članov svoje skupnosti, ne pa za prodajo izdelkov ali storitev ljudem zunaj skupnosti.
 
 Steem skupnost omogoča svojim članom naslednje storitve:
 
-1. Vir ovrednotenih novic in komentarjev.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
+1. Vir kuriranih novic in komentarjev.
+2. Sredstvo, da dobijo visokokakovostne odgovore na osebna vprašanja.
+3. Stabilno kriptovaluto, vezano na ameriški dolar.
 4. Free payments.
 5. Jobs providing above services to other members.
 
