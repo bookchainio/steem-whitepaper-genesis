@@ -24,7 +24,7 @@ Pri oblikovanju Steema so nas vodila nekatera ključna načela. Najpomembnejše 
 
 Drugo načelo je, da so vse oblike kapitala enako dragocene. To pomeni, da so tisti, ki prispevajo svoj dragoceni čas in pozornost za to, da ustvarjajo in vrednotijo vsebino za druge, prav tako cenjeni kakor tisti, ki prispevajo svoj dragoceni denar. To je načelo finančno neovrednotenega dela (t. i. sweat equity)[^2] in je zamisel, ki pred obdobjem kriptovalut pogosto ni uspela zagotoviti uspeha več kot nekaj ducat posameznikom.
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+Tretje načelo pa je to, da skupnost ustvarja izdelke za potrebe svojih članov. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
 
 The Steem community provides the following services to its members:
 
