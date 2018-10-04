@@ -22,7 +22,7 @@ Vsebine, ki jih prispevajo uporabniki po vsem svetu, ustvarjajo na milijarde evr
 
 Pri oblikovanju Steema so nas vodila nekatera ključna načela. Najpomembnejše načelo je, da bi moral vsak, ki prispeva k naložbi podjeta, od tega prejeti sorazmerni lastniški delež, plačilo ali dolg. Gre za isto načelo, kot velja za vsa novoustanovljena podjetja, ki razdelijo deleže ob ustanovitvi in ob poznejših investicijah.
 
-Drugo načelo je, da so vse oblike kapitala enako dragocene. To pomeni, da so tisti, ki prispevajo svoj dragoceni čas in pozornost za to, da ustvarjajo in kurirajo vsebino za druge, prav tako cenjeni kakor tisti, ki prispevajo svoj dragoceni denar. To načelo finančno neovrednotenega dela (t. i. sweat equity)[^2] je zamisel, ki pred obdobjem kriptovalut pogosto ni uspela zagotoviti uspeha več kot nekaj ducat posameznikom.
+Drugo načelo je, da so vse oblike kapitala enako dragocene. To pomeni, da so tisti, ki prispevajo svoj dragoceni čas in pozornost za to, da ustvarjajo in kurirajo vsebino za druge, prav tako cenjeni kakor tisti, ki prispevajo svoj dragoceni denar. Pri tem gre za načelo finančno neovrednotenega dela (t. i. sweat equity)[^2] in je zamisel, ki pred obdobjem kriptovalut pogosto ni uspela zagotoviti uspeha več kot nekaj ducat posameznikom.
 
 Tretje načelo pa je to, da skupnost ustvarja izdelke za potrebe svojih članov. Zgled tega načela so kreditne zadruge, prehranske zadruge in načrti za izmenjavo zdravstvenih storitev, ki se zavzemajo za dobro članov svoje skupnosti, ne pa za prodajo izdelkov ali storitev ljudem zunaj skupnosti.
 
