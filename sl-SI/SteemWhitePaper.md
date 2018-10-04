@@ -22,7 +22,7 @@ Vsebine, ki jih prispevajo uporabniki po vsem svetu, ustvarjajo na milijarde evr
 
 Pri oblikovanju Steema so nas vodila nekatera ključna načela. Najpomembnejše načelo je, da bi moral vsak, ki prispeva k naložbi podjeta, od tega prejeti sorazmerni lastniški delež, plačilo ali dolg. Gre za isto načelo, kot velja za vsa novoustanovljena podjetja, ki razdelijo deleže ob ustanovitvi in ob poznejših investicijah.
 
-Drugo načelo je, da so vse oblike kapitala enako dragocene. To pomeni, da so tisti, ki prispevajo svoj dragoceni čas in pozornost za to, da ustvarjajo in kurirajo vsebino za druge, prav tako cenjeni kakor tisti, ki prispevajo svoj dragoceni denar. To je načelo finančno neovrednotenega dela (t. i. sweat equity)[^2] in je zamisel, ki pred obdobjem kriptovalut pogosto ni uspela zagotoviti uspeha več kot nekaj ducat posameznikom.
+Drugo načelo je, da so vse oblike kapitala enako dragocene. To pomeni, da so tisti, ki prispevajo svoj dragoceni čas in pozornost za to, da ustvarjajo in kurirajo vsebino za druge, prav tako cenjeni kakor tisti, ki prispevajo svoj dragoceni denar. To načelo finančno neovrednotenega dela (t. i. sweat equity)[^2] je zamisel, ki pred obdobjem kriptovalut pogosto ni uspela zagotoviti uspeha več kot nekaj ducat posameznikom.
 
 Tretje načelo pa je to, da skupnost ustvarja izdelke za potrebe svojih članov. Zgled tega načela so kreditne zadruge, prehranske zadruge in načrti za izmenjavo zdravstvenih storitev, ki se zavzemajo za dobro članov svoje skupnosti, ne pa za prodajo izdelkov ali storitev ljudem zunaj skupnosti.
 
@@ -34,11 +34,11 @@ Steem skupnost omogoča svojim članom naslednje storitve:
 4. Prosta plačila.
 5. Službe, ki priskrbijo zgoraj omenjene storitve drugim članom.
 
-To Steemovo namensko preoblikovanje ekonomskih pobud ima potencial, da priskrbi pravičnejše in bolj vključujoče rezultate za vse vpletene kakor obstoječe družbenomedijske in kriptovalutne platforme. Ta bela knjiga bo pregledala obstoječe ekonomske pobude in prikazala, kako pobude Steema utegnejo prinesti boljše rezultate za večino udeležencev.
+To Steemovo namensko preoblikovanje ekonomskih pobud ima potencial, da priskrbi pravičnejše in bolj vključujoče rezultate za vse vpletene kakor obstoječe družbenoomrežne in kriptovalutne platforme. Ta bela knjiga bo pregledala obstoječe ekonomske pobude in prikazala, kako pobude Steema utegnejo prinesti boljše rezultate za večino udeležencev.
 
 ## Priznavanje prispevkov
 
-Steem je že v osnovi zasnovan tako, da premaguje glavne ovire za sprejetje in monetizacijo ekonomije, ki temelji na kakšnem družbenem omrežju. Naša teza je, da se lahko isti pristopi, ki so uporabljeni za rast glavnih družbenomedijskih platform, uporabijo tudi za zagon uspešne kriptovalute. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+Steem je že v osnovi zasnovan tako, da premaguje glavne ovire za sprejetje in monetizacijo ekonomije, ki temelji na kakšnem družbenem omrežju. Naša teza je, da se lahko isti pristopi, ki so uporabljeni za rast glavnih družbenoomrežnih platform, uporabijo tudi za zagon uspešne kriptovalute. Ekonomske pobude, ki jih omogoča kriptovaluta, lahko dramatično spodbudijo rast nove družbenoomrežne platforme. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
 The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
 
