@@ -31,10 +31,10 @@ Steem skupnost omogoča svojim članom naslednje storitve:
 1. Vir kuriranih novic in komentarjev.
 2. Sredstvo, da dobijo visokokakovostne odgovore na osebna vprašanja.
 3. Stabilno kriptovaluto, vezano na ameriški dolar.
-4. Free payments.
-5. Jobs providing above services to other members.
+4. Prosta plačila.
+5. Službe, ki priskrbijo zgoraj omenjene storitve drugim članom.
 
-Steem's purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
+To Steemovo namensko preoblikovanje ekonomskih interesov ima potencial, da priskrbi pravičnejše in bolj vključujoče rezultate za vse vpletene kakor obstoječe družbenomedijske in kriptovalutne platforme. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
 
 ## Recognizing Contribution
 
