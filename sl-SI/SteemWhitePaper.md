@@ -24,7 +24,7 @@ Pri oblikovanju Steema so nas vodila nekatera ključna načela. Najpomembnejše 
 
 Drugo načelo je, da so vse oblike kapitala enako dragocene. To pomeni, da so tisti, ki prispevajo svoj dragoceni čas in pozornost za to, da ustvarjajo in kurirajo vsebino za druge, prav tako cenjeni kakor tisti, ki prispevajo svoj dragoceni denar. To je načelo finančno neovrednotenega dela (t. i. sweat equity)[^2] in je zamisel, ki pred obdobjem kriptovalut pogosto ni uspela zagotoviti uspeha več kot nekaj ducat posameznikom.
 
-Tretje načelo pa je to, da skupnost ustvarja izdelke za potrebe svojih članov. Dober primer tega načela so kreditne zadruge, prehranske zadruge in načrti za izmenjavo zdravstvenih storitev, ki se zavzemajo za dobrobit članov svoje skupnosti, ne pa za prodajo izdelkov ali storitev ljudem zunaj skupnosti.
+Tretje načelo pa je to, da skupnost ustvarja izdelke za potrebe svojih članov. Zgled tega načela so kreditne zadruge, prehranske zadruge in načrti za izmenjavo zdravstvenih storitev, ki se zavzemajo za dobro članov svoje skupnosti, ne pa za prodajo izdelkov ali storitev ljudem zunaj skupnosti.
 
 Steem skupnost omogoča svojim članom naslednje storitve:
 
@@ -34,9 +34,9 @@ Steem skupnost omogoča svojim članom naslednje storitve:
 4. Prosta plačila.
 5. Službe, ki priskrbijo zgoraj omenjene storitve drugim članom.
 
-To Steemovo namensko preoblikovanje ekonomskih interesov ima potencial, da priskrbi pravičnejše in bolj vključujoče rezultate za vse vpletene kakor obstoječe družbenomedijske in kriptovalutne platforme. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
+To Steemovo namensko preoblikovanje ekonomskih pobud ima potencial, da priskrbi pravičnejše in bolj vključujoče rezultate za vse vpletene kakor obstoječe družbenomedijske in kriptovalutne platforme. Ta bela knjiga bo pregledala obstoječe ekonomske pobude in prikazala, kako pobude Steema utegnejo prinesti boljše rezultate za večino udeležencev.
 
-## Recognizing Contribution
+## Priznavanje prispevkov
 
 Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
