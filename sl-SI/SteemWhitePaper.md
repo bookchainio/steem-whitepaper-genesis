@@ -46,7 +46,7 @@ Obstoječe platforme delujejo na sistemu en uporabnik, en glas (vote). To ustvar
 
 Temeljna enota računa na Steem platformi je STEEM, kriptovalutni žeton. Steem deluje na načelu en STEEM, en glas (vote). Po tem modelu imajo posamezniki, ki največ prispevajo na platformi in se to odraža na njihovem stanju na računu, največji vpliv glede tega, kako so prispevki ocenjeni. Poleg tega Steem dovoljuje članom le glasovanje s STEEM-om, ki je vezan na večletni naložbeni urnik. S tem modelom imajo člani finančni motiv, da glasujejo na način, ki bo karseda povečal dolgoročno vrednost njihovega STEEM-a.
 
-Steem is designed around a relatively simple concept: *everyone's meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
+Steem temelji na razmeroma preprosti zamisli: *vsak smiseln prispevek k skupnosti bi moral biti priznan za vrednost, ki jo doda.* Ko so ljudje priznani za svoje smiselne prispevke, še naprej prispevajo, in tako skupnost raste. Vsako neravnovesje v dajanju in prejemanju v skupnosti se ne obnese. Navsezadnje se tisti, ki dajejo, utrudijo podpirati tiste, ki jemljejo, in se umaknejo iz skupnosti.
 
 The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
 
