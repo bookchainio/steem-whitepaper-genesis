@@ -161,13 +161,13 @@ Szybka zmiana wartości STEEM może znacząco zmienić stosunek długu do własn
 
 ### Udział
 
-SBD wypłaca posiadaczom udziały. Wysokość udziałów jest determinowana przez tych samych ludzi, który publikują cenę kursu. W ten sposób są one dostosowane do kondycji rynku. Każdy dług niesie za sobą ryzyko dla wierzyciela. Ktoś, kto trzyma SBD bez jego wypłacenia czy zamiany, tak naprawdę pożycza społeczności sumę, której wartość odpowiada jednemu dolarowi. Ufają, że w przyszłości ktoś będzie skłonny kupić SMD od nich za dolara lub że będą spekulanci i inwestorzy gotowi kupić STEEM, na który go zamienili.
+SBD wypłaca posiadaczom udziały. Wysokość udziałów jest determinowana przez tych samych ludzi, który publikują cenę kursu. W ten sposób są one dostosowane do kondycji rynku. Każdy dług niesie za sobą ryzyko dla wierzyciela. Ktoś, kto trzyma SBD bez jego wypłacenia czy zamiany, tak naprawdę pożycza społeczności sumę, której wartość odpowiada jednemu dolarowi. Właściciele SBD wierzą w to, że zawsze znajdzie się ktoś, kto będzie chciał od nich kupić SBD za dolara. Wierzą też w to, że pojawią się spekulanci i inwestorzy, którzy zechcą odkupić od nich STEEM, na który zamienili swoje SBD.
 
-Posiadacze STEEM i SP zyskują siłę, gdy członkowie społeczności są skłonni przechowywać SMD. To właśnie dzięki temu przekonaniu można ciągnąć coraz większe zyski z platformy. Jest to zarazem podstawa jej rozwoju. Posiadacze STEEM ponoszą stratę w momencie, kiedy ceny waluty spadają. Projekty kryptowalut pokazały, że zyski z powiększania bazy użytkowników chcących zaufać sieci kapitałem, ostatecznie dodają więcej wartości do sieci niż jakiekolwiek rozcieńczenie, które może wystąpić w czasie spowolnienia.
+Posiadacze STEEM oraz SP zdobywają przewagę, kiedy członkowie społeczności wolą trzymać SBD w portfelu niż je sprzedawać. To właśnie dzięki temu przekonaniu można ciągnąć coraz większe zyski z platformy. Jest to zarazem podstawa jej rozwoju. Posiadacze STEEM ponoszą stratę w momencie, kiedy ceny waluty spadają. Projekty kryptowalut pokazały, że zyski z powiększania bazy użytkowników chcących zaufać sieci kapitałem, ostatecznie dodają więcej wartości do sieci niż jakiekolwiek rozcieńczenie, które może wystąpić w czasie spowolnienia.
 
 ### Ustawianie Wartości Kursów
 
-Wnikliwi czytelnicy rozpoznają, że kapitał o ograniczonej podaży, przynoszący odsetki, może kosztować więcej lub mniej niż kapitał zasadniczy w zależności od innych możliwości uzyskania odsetek od tego samego kapitału. Przy wysokim oprocentowaniu płaconym od aktywów powiązanych z dolarem amerykańskim wiele osób licytuje ograniczoną podaż Steem Dollarów, dopóki nie będą już wyceniane na 1$. W ekonomii istnieje zasada znana jako "Impossible Trinity"[^4], która twierdzi, że niemożliwe jest posiadanie wszystkich trzech następujących cech w tym samym czasie:
+Bystrzy czytelnicy pewnie zdali sobie sprawę z tego, że produkty, które przynoszą odsetki, mogą kosztować więcej lub mniej od towaru, na którym bazują. Ta cena zależy w dużej mierze od tego, czy dany produkt może przynieść dodatkowe możliwości zarobku. Przy wysokim oprocentowaniu płaconym od aktywów powiązanych z dolarem amerykańskim wiele osób licytuje ograniczoną podaż Steem Dollarów, dopóki nie będą już wyceniane na 1$. W ekonomii istnieje zasada znana jako "Impossible Trinity"[^4], która twierdzi, że niemożliwe jest posiadanie wszystkich trzech następujących cech w tym samym czasie:
 
 1. Stabilny kurs walutowy
 2. Swobodny przepływ kapitału
@@ -183,15 +183,15 @@ Jeżeli kurs SBD stoi na poziomie niższym niż 1.00$ USD, a współczynnik dłu
 
 Zakładając, że wartość STEEM rośnie szybciej niż platforma Steem tworzy nowe SBD, stosunek długu do własności powinien pozostać poniżej docelowego wskaźnika - wtedy oferowane udziały będą przynosić korzyściu każdemu. Jeżeli wartość sieci pozostaje na tym samym poziomie lub spada, każde oferowane udziały będą pogarszać współczynnik długu do własności.
 
-W efekcie twórcom wartości kursu powierza się odpowiedzialność ustalenia polityki pieniężnej w celu utrzymania stabilnego stosunku do USD. Nadużycie tej mocy może zaszkodzić wartości STEEM, więc posiadacze SP powinni głosować na świadków, na których można liczyć w kwestii dostosowania wartości kursu i stóp procentowych zgodnie z zasadami opisanymi powyżej.
+W efekcie, wytwórcom kursu powierzona jest odpowiedzialność za ustalenie polityki monetarnej mającej na celu utrzymania stabilnego kursu SBD w stosunku do USD. Nadużycie tej mocy może zaszkodzić wartości STEEM, więc posiadacze SP powinni głosować na świadków, na których można liczyć w kwestii dostosowania wartości kursu i stóp procentowych zgodnie z zasadami opisanymi powyżej.
 
-Jeżeli współczynnik długu do własności zaczyna osiągać niebezpiecznie wysoki poziom a członkowie rynku unikają wymian, kurs powinien zostać dostosowany, by zwiększyć stawkę, według której STEEM jest wypłacany za wymianę SMD.
+Jeżeli współczynnik długu do własności zaczyna osiągać niebezpiecznie wysoki poziom a członkowie rynku unikają wymian, kurs po którym STEEM jest wypłacany za wymianę SBD powinien zostać zwiększony.
 
-Zmiany w polityce stóp procentowych i / lub wszelkie premie/rabaty dotyczące stawki konwersji STEEM/SMD powinny być powolną i mierzoną odpowiedzią na długoterminowe średnie odchylenia, a nie próbą zareagowania na krótkoterminowe warunki rynkowe. Blockchain płaci dostawcom płynności za ich usługi w zakresie zaspokajania krótkoterminowych wymagań.
+Zmiana polityki wydawania udziałów i/lub jakiekolwiek inne premie/przeceny na rynku STEEM/SBD powinny być powolne i mierzone pod kątem możliwych długoterminowych zysków lub długofalowych przeobrażeń sytuacji. Nie powinny one być reakcją na krótkoterminowe zmiany warunków rynku. Blockchain płaci tym, którzy zapewniają płynność, za ich usługi w zakresie zaspokajania krótkoterminowych wymagań.
 
-Wierzymy, że zasady te zapewnią uczestników rynku, iż utrata przez nich pieniędzy przez przetrzymywanie SMD zakupionego po cenie 1$ jest mało prawdopodobna. Oczekujemy wąskiego zakresu transakcji od 0,99 $ do 1,01 $ za SMD w przypadku większości warunków rynkowych.
+Wierzymy, że te zasady dadzą członkom gospodarki pewność, że nie stracą pieniędzy, jeśli zatrzymają w swoim potfelu SBD, które kupili po kursie 1.00$. Jesteśmy przekonani, że w normalnych warunkach rynkowych kurs wymiany SBD będzie oscylował pomiędzy 0.99$ a 1.01$.
 
-## Subiektywne Wkłady
+## Subiektywne Kontrybucje
 
 Subiektywny Dowód Pracy przedstawia alternatywne podejście do dystrybucji waluty, która poprawia się pod w pełni *obiektywnymi* systemami Dowodu Pracy, takich jak górnictwo. Wnioski waluty wprowadzającej *subiektywny* dowód pracy są znacznie szersze niż jakikolwiek *obiektywny*system dowodu pracy, ponieważ mogą być stosowane do budowania społeczności wokół każdej koncepcji, która ma wystarczająco określony cel. Kiedy jednostki dołączają do danej społeczności, przekonują się do pewnego zestawu przekonań i mogą głosować, żeby wzmocnić wartości lub cel tej społeczności.
 
