@@ -209,11 +209,11 @@ Aby każdy miał równą szansę zaangażowania się w tworzenie danej waluty or
 
 Piewszym krokiem jest nagrodzenie ludzi poprzez rozdysponowanie określonej ilości waluty pomiędzy użytkowników, niezależnie od ilości głosów które otrzymali, lub pracy którą wykonali. Zmienia to pytanie z *“Czy powinniśmy płacić?”* na *“Komu powinniśmy płacić?”* i daje rynkowi znać, że pieniądze są w dystrybucji i zostaną przekazane temu, który “wylicytuje” najwięcej *pracy*. Jest to w pewnym sensie podobne do przekazywania nagrody w wysokości 50 BTC temu, kto znajdzie najtrudniejszy hasz (z ang. hash). Podobnie jak przy Bitcoinie, cała praca musi zostać wykonana przed odebraniem nagrody. Nikt nie powinien otrzymać wypłaty tylko dlatego, że obieca wykonać pracę w przyszłości.
 
-The next step is to reward everyone who does anything even remotely positive with *something*. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
+The next step is to reward everyone who does anything even remotely positive with *something*. Osiąga się to poprzez ocenę wykonanej pracy, a następnie rozdawanie nagród, których wartość jest proporcjonalna do wniesionego wkładu. Im bardziej rynek staje się konkurencyjny, tym trudniej (przez większą jakość lub ilość) zarobić tak samo wysoką nagrodę.
 
-### Voting on Distribution of Currency
+### Głosowanie nad podziałem wynagrodzenia
 
-Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
+Załóżmy, że istnieje określona ilość pieniędzy do podziału i to właśnie te osoby, które posiadają interes w tym, aby dana waluta zyskiwała w przyszłości na wartości i użyteczności są tymi, którzy decydują, jak je rozdzielić. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
 
 The naive voting process creates a Prisoner's Dilemma whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
 
