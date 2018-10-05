@@ -58,7 +58,7 @@ Steem je oblikovan tako, da omogoča učinkovita mikroplačila za raznovrsne pri
 
 Prejeti glasovi članov skupnosti so ključnega pomena za Steem, da lahko točno razporedi plačila za avtorje. Na glasovanje se lahko torej gleda kot na bistven prispevek, ki si že sam po sebi zasluži nagrado. Nekatere platforme, kot je Slashdot, uporabljajo meta moderiranje [^3] kot osnovo za ocenjevanje in nagrajevanje poštenih moderatorjev. Steem se je odločil nagrajevati tiste, ki največ prispevajo za skupno oglaševanje določene vsebine, in tiste, ki glasujejo, nagradi sorazmerno z višino končne nagrade, ki je izplačana avtorju vsebine.
 
-Obstajajo pa še druge oblike prispevkov, ki jih Steem priznava in nagrajuje na podlagi objektivne metrike. Among these are: transaction validation, proof of work mining, liquidity rewards, and reporting of misbehaving block producers.
+Obstajajo pa še druge oblike prispevkov, ki jih Steem priznava in nagrajuje na podlagi objektivne metrike. Mednje spadajo: potrjevanje transakcij, rudarjenje z dokazilom o delu (proof of work), likvidnostne nagrade in poročanje zlorab izdelovalcev blokov.
 
 # Ways to Contribute
 
