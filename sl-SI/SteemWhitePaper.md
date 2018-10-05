@@ -56,9 +56,9 @@ Ker je svobodni trg preverjen sistem, se zdi mikavno poskusiti ustvariti svobode
 
 Steem je oblikovan tako, da omogoča učinkovita mikroplačila za raznovrsne prispevke, to pa dosega z drugačno ekonomijo. Bralcem se ni treba več odločati, ali želijo komu plačati iz lastnega žepa, ampak lahko pozitivno oziroma negativno glasujejo za vsebino, Steem pa na podlagi njihovih glasov določi posamezne nagrade. To pomeni, da imajo ljudje na razpolago znan in splošno uporabljen uporabniški vmesnik in se jim ni treba več ukvarjati z umskimi, finančnimi in priložnostnimi stroški, povezanimi s tradicionalnimi mikroplačili ter platformami, ki delujejo na principu napitnin.
 
-Prejeti glasovi članov skupnosti so ključnega pomena za Steem, da lahko točno razporedi plačila za avtorje. Na glasovanje se lahko torej gleda kot na bistven prispevek, ki si že sam po sebi zasluži nagrado. Some platforms, such as Slashdot, use meta-moderation [^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+Prejeti glasovi članov skupnosti so ključnega pomena za Steem, da lahko točno razporedi plačila za avtorje. Na glasovanje se lahko torej gleda kot na bistven prispevek, ki si že sam po sebi zasluži nagrado. Nekatere platforme, kot je Slashdot, uporabljajo meta moderiranje [^3] kot osnovo za ocenjevanje in nagrajevanje poštenih moderatorjev. Steem se je odločil nagrajevati tiste, ki največ prispevajo za skupno oglaševanje določene vsebine, in tiste, ki glasujejo, nagradi sorazmerno z višino končne nagrade, ki je izplačana avtorju vsebine.
 
-There are other forms of contribution that Steem recognizes and rewards using objective metrics. Among these are: transaction validation, proof of work mining, liquidity rewards, and reporting of misbehaving block producers.
+Obstajajo pa še druge oblike prispevkov, ki jih Steem priznava in nagrajuje na podlagi objektivne metrike. Among these are: transaction validation, proof of work mining, liquidity rewards, and reporting of misbehaving block producers.
 
 # Ways to Contribute
 
