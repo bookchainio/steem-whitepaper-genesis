@@ -209,7 +209,7 @@ Aby każdy miał równą szansę zaangażowania się w tworzenie danej waluty or
 
 Piewszym krokiem jest nagrodzenie ludzi poprzez rozdysponowanie określonej ilości waluty pomiędzy użytkowników, niezależnie od ilości głosów które otrzymali, lub pracy którą wykonali. Zmienia to pytanie z *“Czy powinniśmy płacić?”* na *“Komu powinniśmy płacić?”* i daje rynkowi znać, że pieniądze są w dystrybucji i zostaną przekazane temu, który “wylicytuje” najwięcej *pracy*. Jest to w pewnym sensie podobne do przekazywania nagrody w wysokości 50 BTC temu, kto znajdzie najtrudniejszy hasz (z ang. hash). Podobnie jak przy Bitcoinie, cała praca musi zostać wykonana przed odebraniem nagrody. Nikt nie powinien otrzymać wypłaty tylko dlatego, że obieca wykonać pracę w przyszłości.
 
-The next step is to reward everyone who does anything even remotely positive with *something*. Osiąga się to poprzez ocenę wykonanej pracy, a następnie rozdawanie nagród, których wartość jest proporcjonalna do wniesionego wkładu. Im bardziej rynek staje się konkurencyjny, tym trudniej (przez większą jakość lub ilość) zarobić tak samo wysoką nagrodę.
+Kolejnym krokiem jest nagradzanie każdego, kto robi cokolwiek, choćby nawet zdalnie pozytywnego, z *czymś*. Osiąga się to poprzez ocenę wykonanej pracy, a następnie rozdawanie nagród, których wartość jest proporcjonalna do wniesionego wkładu. Im bardziej rynek staje się konkurencyjny, tym trudniej (przez większą jakość lub ilość) zarobić tak samo wysoką nagrodę.
 
 ### Głosowanie nad podziałem wynagrodzenia
 
