@@ -1,6 +1,6 @@
 # Steem
 
-## Motivirajoča družbenomedijska platforma, ki temelji na blockchain tehnologiji.
+## Motivirajoča družbenoomrežna platforma, ki temelji na blockchain tehnologiji.
 
 Marec 2016
 
@@ -10,7 +10,7 @@ Marec 2016
 
 # Povzetek
 
-Steem je blockchain podatkovna baza, ki s kriptovalutnimi nagradami podpira razvoj skupnosti in družbeno interakcijo. Steem združuje koncepte iz družbenih medijev z izkušnjami, pridobljenimi z razvojem kriptovalut in njihovih skupnosti. Pomemben dejavnik za ustvarjalno sodelovanje v kateri koli skupnosti, valuti ali svobodnem tržnem gospodarstvu je pravičen računovodski sistem, ki vselej upošteva prispevke vsakega posameznika. Steem je prva kriptovaluta, ki si prizadeva točno in transparentno nagrajevati neomejeno število posameznikov, ki v njegovi skupnosti ustvarjajo *subjektivne prispevke*.
+Steem je blockchain podatkovna baza, ki s kriptovalutnimi nagradami podpira razvoj skupnosti in družbeno interakcijo. Steem združuje koncepte iz družbenih omrežij z izkušnjami, pridobljenimi z razvojem kriptovalut in njihovih skupnosti. Pomemben dejavnik za ustvarjalno sodelovanje v kateri koli skupnosti, valuti ali svobodnem tržnem gospodarstvu je pravičen računovodski sistem, ki vselej upošteva prispevke vsakega posameznika. Steem je prva kriptovaluta, ki si prizadeva točno in transparentno nagrajevati neomejeno število posameznikov, ki v njegovi skupnosti ustvarjajo *subjektivne prispevke*.
 
 # Vsebina
 
@@ -18,7 +18,7 @@ Steem je blockchain podatkovna baza, ki s kriptovalutnimi nagradami podpira razv
 
 # Uvod
 
-Vsebine, ki jih prispevajo uporabniki po vsem svetu, ustvarjajo na milijarde evrov dobička za delničarje družbenomedijskih podjetij, kot so Reddit, Facebook in Twitter. **Leta 2014 je Reddit postavil hipotezo, da bi se njihova platforma izboljšala, če bi bil vsakdo, ki prispeva na reddit.com z objavljanjem zgodb, komentiranjem ali glasovanjem nagrajen s pravičnim deležem v družbi Reddit[^1]**. Steem si prizadeva podpirati družbenomedijske in internetne skupnosti, s tem da znaten del svojih sredstev vrne ljudem, ki skrbijo za dragocene prispevke, tako da jih nagradi s kriptovaluto; s tem postopkom ustvarja valuto, ki ima potencial doseči širok trg, med drugim tudi ljudi, ki še niso sodelovali v nobeni kriptovalutni ekonomiji.
+Vsebine, ki jih prispevajo uporabniki po vsem svetu, ustvarjajo na milijarde evrov dobička za delničarje družbenoomrežnih podjetij, kot so Reddit, Facebook in Twitter. **Leta 2014 je Reddit postavil hipotezo, da bi se njihova platforma izboljšala, če bi bil vsakdo, ki prispeva na reddit.com z objavljanjem zgodb, komentiranjem ali glasovanjem nagrajen s pravičnim deležem v družbi Reddit[^1]**. Steem si prizadeva podpirati družbenoomrežne in internetne skupnosti, s tem da znaten del svojih sredstev vrne ljudem, ki skrbijo za dragocene prispevke, tako da jih nagradi s kriptovaluto; s tem postopkom ustvarja valuto, ki ima potencial doseči širok trg, med drugim tudi ljudi, ki še niso sodelovali v nobeni kriptovalutni ekonomiji.
 
 Pri oblikovanju Steema so nas vodila nekatera ključna načela. Najpomembnejše načelo je, da bi moral vsak, ki prispeva k naložbi podjeta, od tega prejeti sorazmerni lastniški delež, plačilo ali dolg. Gre za isto načelo, kot velja za vsa novoustanovljena podjetja, ki razdelijo deleže ob ustanovitvi in ob poznejših investicijah.
 
