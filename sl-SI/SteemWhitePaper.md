@@ -68,11 +68,11 @@ V tem delu bodo predstavljene zamisli, ki stojijo za Steemom in njegovimi nagrad
 
 Skupnost lahko za to, da bi privabila kapital, ponudi dvoje: dolg in lastništvo. Tisti, ki kupijo lastništvo, so deležni dobička, ko skupnost raste, vendar so na izgubi, če se skupnost zmanjša. Tisti, ki kupijo dolg, imajo zagotovljen določen znesek obresti, vendar nimajo deleža pri kakršnem koli ustvarjenem dobičku zaradi rasti skupnosti. Obe vrsti denarnih prispevkov sta pomembni za rast skupnosti in vrednost njene valute. Poleg tega se lahko lastništvo odraža na dva načina: z likvidnimi sredstvi in naložbami. Pri naložbenem lastništvu gre za dolgoročno obvezo in se ga ne more prodati v kratkem času. 
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SMD).
+Omrežje Steem imenuje te različne vrste sredstev Steem (STEEM), Steem moč (SP oz. Steem Power) in Steem dolarji (SMD).
 
 ## Steem (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. Generally speaking STEEM should be held for short periods of time when liquidity is needed. Someone looking to enter or exit the Steem platform will have to buy or sell STEEM. Once STEEM has been purchased it should be converted into SP or SMD to mitigate the impact of dilution over the long-term.
+Steem je temeljna enota računa na Steem blockchainu. Vrednosti vseh drugih žetonov temeljijo na vrednosti STEEM-a. Na splošno naj bi imeli STEEM v lasti le kratek čas, ko je potrebna likvidnost. Nekdo, ki želi vstopiti v Steem platformo ali izstopiti iz nje, mora kupiti oziroma prodati STEEM. Potem ko je STEEM kupljen, ga je potrebno pretvoriti v SP ali SMD, da bi se zmanjšal vpliv razvodenitve na dolgi rok.
 
 STEEM is constantly increasing in supply by 100% per year due to non-SMD incentives. Someone who holds STEEM without converting it to SP is diluted by approximately 0.19% per day. While the rate may appear high, for transactions that take less than 10 days, it is still cheaper than credit card processing fees. Furthermore, the daily token creation is insignificant next to the daily volatility.
 
