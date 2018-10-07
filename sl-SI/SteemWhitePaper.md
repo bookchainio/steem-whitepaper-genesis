@@ -60,7 +60,7 @@ Prejeti glasovi članov skupnosti so ključnega pomena za Steem, da lahko točno
 
 Obstajajo pa še druge oblike prispevkov, ki jih Steem priznava in nagrajuje na podlagi objektivne metrike. Mednje spadajo: potrjevanje transakcij, rudarjenje z dokazilom o delu (proof of work), likvidnostne nagrade in poročanje zlorab izdelovalcev blokov.
 
-# Ways to Contribute
+# Kako vse se lahko prispeva
 
 This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
 
