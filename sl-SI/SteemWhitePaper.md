@@ -66,7 +66,7 @@ V tem delu bodo predstavljene zamisli, ki stojijo za Steemom in njegovimi nagrad
 
 ## Denarni prispevki
 
-Skupnost lahko za to, da bi privabila kapital, ponudi dvoje: dolg in lastništvo. Tisti, ki kupijo lastništvo, so deležni dobička, ko skupnost raste, vendar so na izgubi, če se skupnost zmanjša. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Skupnost lahko za to, da bi privabila kapital, ponudi dvoje: dolg in lastništvo. Tisti, ki kupijo lastništvo, so deležni dobička, ko skupnost raste, vendar so na izgubi, če se skupnost zmanjša. Tisti, ki kupijo dolg, imajo zagotovljen določen znesek obresti, vendar nimajo deleža pri kakršnem koli ustvarjenem dobičku zaradi rasti skupnosti. Obe vrsti denarnih prispevkov sta pomembni za rast skupnosti in vrednost njene valute. Poleg tega se lahko lastništvo odraža na dva načina: z likvidnimi sredstvi in naložbami. Pri naložbenem lastništvu gre za dolgoročno obvezo in se ga ne more prodati v kratkem času. 
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SMD).
 
