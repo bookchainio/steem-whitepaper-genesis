@@ -229,9 +229,9 @@ Bez względu na to, ile pieniędzy ma dana osoba, zawsze jest wiele innych osób
 
 Na szczęście wszelkie prace, które uzyskują dużą koncentrację głosów, zyskują również największą kontrolę (rozgłos). Poprzez dodanie *negatywnego głosowania*możliwe jest, aby wielu mniejszych interesariuszy unieważniło moc głosującą grup zmawiających się lub dużych interesariuszy popełniających tenże błąd. Co więcej, więksi interesariusze mają więcej do stracenia, jeśli waluta straci na wartości z powodu nadużyć, niż mogliby uzyskać, głosując na siebie. W rzeczywistości, uczciwi interesariusze mogą być skuteczniejsi poprzez nadzorowanie nadużyć i stosowanie negatywnego głosowania niż w przypadku głosowaniu na mniejsze wkłady.
 
-The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only "problem" with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
+Użycie *negatywnego głosowania *, aby powstrzymać ludzi od nadużywania systemu, wykorzystuje *krabią mentalność*, którą posiada wielu ludzi, gdy obserwuje się, że jedna osoba zarabia kosztem wszystkich innych. O ile krabia mentalność zwykle odnosi się do ludzi krótkowzrocznych, którzy działają na niekorzyść dobrych ludzi, pozwala ona podobnie dobrym ludziom powstrzymywać złych ludzi. Jedynym "problemem" krabiej mentalności jest, gdy ludzie * niesłusznie wierzą *, że ktoś zyskuje kosztem innych.
 
-> #### The Story of the Crab Bucket[^6]
+> #### Opowieść o Koszu Krabów[^6]
 > 
 > A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
 > 
