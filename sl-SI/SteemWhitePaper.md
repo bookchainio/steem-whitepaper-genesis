@@ -68,7 +68,7 @@ V tem delu bodo predstavljene zamisli, ki stojijo za Steemom in njegovimi nagrad
 
 Skupnost lahko za to, da bi privabila kapital, ponudi dvoje: dolg in lastništvo. Tisti, ki kupijo lastništvo, so deležni dobička, ko skupnost raste, vendar so na izgubi, če se skupnost zmanjša. Tisti, ki kupijo dolg, imajo zagotovljen določen znesek obresti, vendar nimajo deleža pri kakršnem koli ustvarjenem dobičku zaradi rasti skupnosti. Obe vrsti denarnih prispevkov sta pomembni za rast skupnosti in vrednost njene valute. Poleg tega se lahko lastništvo odraža na dva načina: z likvidnimi sredstvi in naložbami. Pri naložbenem lastništvu gre za dolgoročno obvezo in se ga ne more prodati v kratkem času. 
 
-Omrežje Steem imenuje te različne vrste sredstev Steem (STEEM), Steem moč (SP oz. Steem Power) in Steem dolarji (SMD).
+Omrežje Steem imenuje te različne vrste sredstev Steem (STEEM), Steem Power (SP) in Steem dolarji (SMD).
 
 ## Steem (STEEM)
 
@@ -78,11 +78,11 @@ STEEM nenehno povečuje svojo zalogo, in sicer 100% na leto zaradi pobud, ki nis
 
 Kdor kupi Bitcoin ali katero koli drugo kriptovaluto in jo proda čez 10 dni, zlahka izgubi 3% ali več zaradi nihanj cene. Kdor kupi Bitcoin in ga proda še isti dan, ponavadi plača več kot 0,4% samo za trgovalne provizije. Z drugimi besedami, stopnja inflacije je v obdobju, ko ima tipičen posameznik v lasti STEEM, dejansko zanemarljiva.
 
-Večji del inflacije je pravzaprav posledica računovodskih posegov kakor resnične prerazporeditve premoženja. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
+Večji del inflacije je pravzaprav posledica računovodskih posegov kakor resnične prerazporeditve premoženja. 90% inflacije, ki se ne nanaša na SMD, se razdeli nazaj obstoječim imetnikom STEEM-a sorazmerno s STEEM vrednostjo njihovega SP-ja, zaradi česar inflacija bolj spominja na razdelitev dobička. Samo okoli 10% inflacije, ki se ne nanaša na SMD, se prerazporedi v omrežju.
 
 ## Steem Power (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Novonastala podjetja potrebujejo denarna sredstva na dolgi rok. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
 There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
