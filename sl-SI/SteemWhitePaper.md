@@ -72,7 +72,7 @@ Omrežje Steem imenuje te različne vrste sredstev Steem (STEEM), Steem moč (SP
 
 ## Steem (STEEM)
 
-Steem je temeljna enota računa na Steem blockchainu. Vrednosti vseh drugih žetonov temeljijo na vrednosti STEEM-a. Na splošno naj bi imeli STEEM v lasti le kratek čas, ko je potrebna likvidnost. Nekdo, ki želi vstopiti v Steem platformo ali izstopiti iz nje, mora kupiti oziroma prodati STEEM. Potem ko je STEEM kupljen, ga je potrebno pretvoriti v SP ali SMD, da bi se zmanjšal vpliv razvodenitve na dolgi rok.
+Steem je temeljna enota računa na Steem blockchainu. Vrednosti vseh drugih žetonov temeljijo na vrednosti STEEM-a. Na splošno naj bi imeli takrat, ko je potrebna likvidnost, STEEM v lasti le kratek čas. Nekdo, ki želi vstopiti v Steem platformo ali izstopiti iz nje, mora kupiti oziroma prodati STEEM. Potem ko je STEEM kupljen, ga je potrebno pretvoriti v SP ali SMD, da bi se na dolgi rok zmanjšal vpliv razvodenitve.
 
 STEEM nenehno povečuje svojo zalogo, in sicer 100% na leto zaradi pobud, ki niso povezane s SMD-jem. Vrednost STEEM-a, ki ga ima nekdo na računu, pa ga ne pretvori v SP, se razvodeni za približno 0,19% na dan. While the rate may appear high, for transactions that take less than 10 days, it is still cheaper than credit card processing fees. Furthermore, the daily token creation is insignificant next to the daily volatility.
 
