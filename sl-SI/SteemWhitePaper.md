@@ -82,7 +82,7 @@ Večji del inflacije je pravzaprav posledica računovodskih posegov kakor resni�
 
 ## Steem Power (SP)
 
-Novonastala podjetja potrebujejo denarna sredstva na dolgi rok. Tisti, ki vložijo svoja sredstva v kakšno novo podjetje, so pripravljeni čakati leta, preden lahko prodajo svoje delnice in unovčijo dobiček. Brez dolgoročne obveze bi podjetje, ki bi hotelo pridobiti dodatna sredstva s prodajo dodatnih delnic, tekmovalo z obstoječimi delničarji, ki bi se odločili za izstop. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Novonastala podjetja potrebujejo denarna sredstva na dolgi rok. Tisti, ki vložijo svoja sredstva v kakšno novo podjetje, so pripravljeni čakati leta, preden lahko prodajo svoje delnice in unovčijo dobiček. Brez dolgoročne obveze bi podjetje, ki bi hotelo pridobiti dodatna sredstva s prodajo dodatnih delnic, tekmovalo z obstoječimi delničarji, ki bi se odločili za izstop. Preudarni investitorji želijo, da njihov vloženi kapital prispeva k rasti podjetja, toda do rasti ne more priti, če novi kapital preide v roke tistih, ki želijo izstopiti.
 
 There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
