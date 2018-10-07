@@ -231,17 +231,17 @@ Na szczęście wszelkie prace, które uzyskują dużą koncentrację głosów, z
 
 Użycie *negatywnego głosowania *, aby powstrzymać ludzi od nadużywania systemu, wykorzystuje *krabią mentalność*, którą posiada wielu ludzi, gdy obserwuje się, że jedna osoba zarabia kosztem wszystkich innych. O ile krabia mentalność zwykle odnosi się do ludzi krótkowzrocznych, którzy działają na niekorzyść dobrych ludzi, pozwala ona podobnie dobrym ludziom powstrzymywać złych ludzi. Jedynym "problemem" krabiej mentalności jest, gdy ludzie * niesłusznie wierzą *, że ktoś zyskuje kosztem innych.
 
-> #### Opowieść o Koszu Krabów[^6]
+> #### Opowieść o Wiadrze Krabów[^6]
 > 
-> A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+> Mężczyzna spacerował po plaży i zobaczył innego mężczyznę łowiącego w morzu z wiadrem z przynętą obok niego. Kiedy podszedł bliżej, zobaczył, że wiadro z przynętą nie ma pokrywy a w środku są żywe kraby.
 > 
-> "Why don't you cover your bait bucket so the crabs won't escape?", he said.
+> "Dlaczego nie przykrywasz swojego wiadra z przynętą, aby kraby nie uciekły?", zapytał.
 > 
-> "You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+> "Nie rozumiesz.", odpowiedział mężczyzna: "Jeśli w wiadrze jest jeden krab, z pewnością wypełza bardzo szybko. Kiedy jednak w wiaderku jest wiele krabów, jeśli któryś spróbuje wypełzać, inne schwytają go i ściągną go spowrotem, tak aby podzielił los z resztą."
 > 
-> So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+> Podobnie jest z ludźmi. Gdy jeden z nich próbuje zrobić coś innego, uzyskać lepsze wyniki, uciec ze swego otoczenia, marzyć o wielkich rzeczach, inne osoby spróbują go sprowadzić do swojego poziomu tak, aby ten podzielił ich los.
 
-Eliminating "abuse" is not possible and shouldn't be the goal. Even those who are attempting to "abuse" the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn't so rampant that it undermines the incentive to do real work in support of the community and its currency.
+Eliminowanie “nadużyć" nie jest możliwe i nie powinno być celem. Nawet Ci, którzy próbują “nadużyć” system wciąż wykonują pracę. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn't so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
 The goal of building a community currency is to get more "crabs in the bucket". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
 
