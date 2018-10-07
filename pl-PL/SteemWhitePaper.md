@@ -241,9 +241,9 @@ Użycie *negatywnego głosowania *, aby powstrzymać ludzi od nadużywania syste
 > 
 > Podobnie jest z ludźmi. Gdy jeden z nich próbuje zrobić coś innego, uzyskać lepsze wyniki, uciec ze swego otoczenia, marzyć o wielkich rzeczach, inne osoby spróbują go sprowadzić do swojego poziomu tak, aby ten podzielił ich los.
 
-Eliminowanie “nadużyć" nie jest możliwe i nie powinno być celem. Nawet Ci, którzy próbują “nadużyć” system wciąż wykonują pracę. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn't so rampant that it undermines the incentive to do real work in support of the community and its currency.
+Eliminowanie “nadużyć" nie jest możliwe i nie powinno być celem. Nawet Ci, którzy próbują “nadużyć” system wciąż wykonują pracę. Wszelkie rekompensaty za udane próby nadużycia lub zmowy są co najmniej tak samo cenne dla celów rozprowadzania waluty, jak system robót wykonywanych przez tradycyjne wydobywanie Bitcoinów lub zmowne wydobywanie dokonywane za pośrednictwem pul wydobywczych. Co jest konieczne, to zapewnienie, że nadużycia nie są tak powszechne, że podważają motywację do prawdziwej pracy na rzecz społeczności i jej waluty.
 
-The goal of building a community currency is to get more "crabs in the bucket". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
+Celem budowy waluty społecznościowej jest zdobycie większej ilości "krabów w wiaderku". Podejście ekstremalne celem wyeliminowania wszelkich nadużyć jest jak próba przykrycie wiadra pokrywą, aby zapobiec ucieczce kilku krabów, co tym smaym utrudniania dodawanie nowych krabów do wiadra. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
 
 ### Rate Limited Voting
 
