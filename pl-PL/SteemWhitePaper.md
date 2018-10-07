@@ -225,7 +225,7 @@ Zakładając, że wszyscy użytkownicy mają równą stawkę, osoba, która otrz
 
 Podczas gdy współpraca w celu rozprowadzenia funduszy za najlepszą pracę jest pożądanym celem, *zmowa*, która podważa ten cel, powinna być zminimalizowana. Istnieją dwa rodzaje *zmowy*, najbardziej bezpośrednią jest, gdy jeden użytkownik po prostu kupuje większy udział niż inni, a drugi obejmuje koordynację dużej liczby mniejszych interesariuszy, aby współpracować. Więksi interesariusze mogą mieć moc głosującą 100, a nawet 1000 mniejszych interesariuszy, co oznacza, że mają jeszcze silniejszą motywację do popełnienia błędu przez głosowanie na siebie, niż milei oni w ramach linearnej dystrybucji.
 
-Bez względu na to, ile pieniędzy ma dana osoba, zawsze jest wiele innych osób z podobną zasobnością. Nawet najbogatsza osoba rzadko ma o wiele więcej niż kilku najbogatszych razem wziętych. Co więcej, posiadacze dużych inwestycji w społeczność mają też najwięcej do stracenia przez usiłowanie gry systemem głosowania dla własnych korzyści. Analogiczną sytuacja a miejsce, kiedy prezes przestaje płacić pracownikom, zagarniając wszystkie pieniądze dla siebie. Wszyscy odeszliby do pracy w innych firmach, a firma stałaby się bezwartościowa, prowadząc CEO raczej do bankructwa niż zamożności.
+Bez względu na to, ile pieniędzy ma dana osoba, zawsze jest wiele innych osób z podobną zasobnością. Nawet najbogatsza osoba rzadko ma o wiele więcej niż kilku najbogatszych razem wziętych. Co więcej, posiadacze dużych inwestycji w społeczność mają też najwięcej do stracenia przez usiłowanie gry systemem głosowania dla własnych korzyści. Analogiczna sytuacja ma miejsce, kiedy prezes przestaje płacić pracownikom, zagarniając wszystkie pieniądze dla siebie. Wszyscy odeszliby do pracy w innych firmach, a firma stałaby się bezwartościowa, prowadząc CEO raczej do bankructwa niż zamożności.
 
 Na szczęście wszelkie prace, które uzyskują dużą koncentrację głosów, zyskują również największą kontrolę (rozgłos). Poprzez dodanie *negatywnego głosowania*możliwe jest, aby wielu mniejszych interesariuszy unieważniło moc głosującą grup zmawiających się lub dużych interesariuszy popełniających tenże błąd. Co więcej, więksi interesariusze mają więcej do stracenia, jeśli waluta straci na wartości z powodu nadużyć, niż mogliby uzyskać, głosując na siebie. W rzeczywistości, uczciwi interesariusze mogą być skuteczniejsi poprzez nadzorowanie nadużyć i stosowanie negatywnego głosowania niż w przypadku głosowaniu na mniejsze wkłady.
 
@@ -233,11 +233,11 @@ Użycie *negatywnego głosowania *, aby powstrzymać ludzi od nadużywania syste
 
 > #### Opowieść o Wiadrze Krabów[^6]
 > 
-> Mężczyzna spacerował po plaży i zobaczył innego mężczyznę łowiącego w morzu z wiadrem z przynętą obok niego. Kiedy podszedł bliżej, zobaczył, że wiadro z przynętą nie ma pokrywy a w środku są żywe kraby.
+> Pewien mężczyzna spacerując po plaży spotkał człowieka łowiącego ryby w morzu. Tuż za nim stało wiadro z przynętą. Kiedy się zbliżył, zobaczył, że kosz na przynętę nie miał przykrycia, zaś w środku znajdowały się żywe kraby.
 > 
 > "Dlaczego nie przykrywasz swojego wiadra z przynętą, aby kraby nie uciekły?", zapytał.
 > 
-> "Nie rozumiesz.", odpowiedział mężczyzna: "Jeśli w wiadrze jest jeden krab, z pewnością wypełza bardzo szybko. Kiedy jednak w wiaderku jest wiele krabów, jeśli któryś spróbuje wypełzać, inne schwytają go i ściągną go spowrotem, tak aby podzielił los z resztą."
+> "Nie rozumiesz.", odpowiedział wędkarz. "Jeśli byłby tam tylko jeden krab, z pewnością szybko by stamtąd uciekł. Jednak gdy w koszu jest wiele krabów, kiedy jeden z nich zacznie wspinać się ku górze, inny krab złapie go i zacznie ciągnąć w dół, tak, by podzielił on los pozostałych."
 > 
 > Podobnie jest z ludźmi. Gdy jeden z nich próbuje zrobić coś innego, uzyskać lepsze wyniki, uciec ze swego otoczenia, marzyć o wielkich rzeczach, inne osoby spróbują go sprowadzić do swojego poziomu tak, aby ten podzielił ich los.
 
