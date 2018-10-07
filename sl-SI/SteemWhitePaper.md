@@ -78,7 +78,7 @@ STEEM nenehno povečuje svojo zalogo, in sicer 100% na leto zaradi pobud, ki nis
 
 Kdor kupi Bitcoin ali katero koli drugo kriptovaluto in jo proda čez 10 dni, zlahka izgubi 3% ali več zaradi nihanj cene. Kdor kupi Bitcoin in ga proda še isti dan, ponavadi plača več kot 0,4% samo za trgovalne provizije. Z drugimi besedami, stopnja inflacije je v obdobju, ko ima tipičen posameznik v lasti STEEM, dejansko zanemarljiva.
 
-The majority of inflation is actually an accounting artifact rather than true reallocation of wealth. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
+Večji del inflacije je pravzaprav posledica računovodskih posegov kakor resnične prerazporeditve premoženja. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
 
 ## Steem Power (SP)
 
