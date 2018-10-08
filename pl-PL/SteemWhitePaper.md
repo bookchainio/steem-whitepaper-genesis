@@ -223,7 +223,7 @@ Zakładając, że wszyscy użytkownicy mają równą stawkę, osoba, która otrz
 
 #### Zmowa Głosowania
 
-Podczas gdy współpraca w celu rozprowadzenia funduszy za najlepszą pracę jest pożądanym celem, *zmowa*, która podważa ten cel, powinna być zminimalizowana. Istnieją dwa rodzaje *zmowy*, najbardziej bezpośrednią jest, gdy jeden użytkownik po prostu kupuje większy udział niż inni, a drugi obejmuje koordynację dużej liczby mniejszych interesariuszy, aby współpracować. Więksi interesariusze mogą mieć moc głosującą 100, a nawet 1000 mniejszych interesariuszy, co oznacza, że mają jeszcze silniejszą motywację do popełnienia błędu przez głosowanie na siebie, niż milei oni w ramach linearnej dystrybucji.
+Podczas gdy współpraca w celu dystrybucji funduszy za najlepszą pracę jest pożądanym celem, *zmowa*, która podważa ten cel, powinna być zminimalizowana. Istnieją dwa rodzaje *zmowy*, najbardziej bezpośrednią jest, gdy jeden użytkownik po prostu kupuje większy udział niż inni, a drugi obejmuje koordynację dużej liczby mniejszych interesariuszy, aby współpracować. Więksi interesariusze mogą mieć moc głosującą 100, a nawet 1000 mniejszych interesariuszy, co oznacza, że mają jeszcze silniejszą motywację do popełnienia błędu przez głosowanie na siebie, niż milei oni w ramach linearnej dystrybucji.
 
 Bez względu na to, ile pieniędzy ma dana osoba, zawsze jest wiele innych osób z podobną zasobnością. Nawet najbogatsza osoba rzadko ma o wiele więcej niż kilku najbogatszych razem wziętych. Co więcej, posiadacze dużych inwestycji w społeczność mają też najwięcej do stracenia przez usiłowanie gry systemem głosowania dla własnych korzyści. Analogiczna sytuacja ma miejsce, kiedy prezes przestaje płacić pracownikom, zagarniając wszystkie pieniądze dla siebie. Wszyscy odeszliby do pracy w innych firmach, a firma stałaby się bezwartościowa, prowadząc CEO raczej do bankructwa niż zamożności.
 
@@ -241,7 +241,7 @@ Użycie *negatywnego głosowania *, aby powstrzymać ludzi od nadużywania syste
 > 
 > Podobnie jest z ludźmi. Gdy jeden z nich próbuje zrobić coś innego, uzyskać lepsze wyniki, uciec ze swego otoczenia, marzyć o wielkich rzeczach, inne osoby spróbują go sprowadzić do swojego poziomu tak, aby ten podzielił ich los.
 
-Eliminowanie “nadużyć" nie jest możliwe i nie powinno być celem. Nawet Ci, którzy próbują “nadużyć” system wciąż wykonują pracę. Wszelkie rekompensaty za udane próby nadużycia lub zmowy są co najmniej tak samo cenne dla celów rozprowadzania waluty, jak system robót wykonywanych przez tradycyjne wydobywanie Bitcoinów lub zmowne wydobywanie dokonywane za pośrednictwem pul wydobywczych. Co jest konieczne, to zapewnienie, że nadużycia nie są tak powszechne, że podważają motywację do prawdziwej pracy na rzecz społeczności i jej waluty.
+Eliminowanie “nadużyć" nie jest możliwe i nie powinno być celem. Nawet Ci, którzy próbują “nadużyć” system wciąż wykonują pracę. Wszelkie rekompensaty za udane próby nadużycia lub zmowy są co najmniej tak samo cenne dla celów dystrybucji waluty, jak system robót wykonywanych przez tradycyjne wydobywanie Bitcoinów lub zmowne wydobywanie dokonywane za pośrednictwem pul wydobywczych. Co jest konieczne, to zapewnienie, że nadużycia nie są tak powszechne, że podważają motywację do prawdziwej pracy na rzecz społeczności i jej waluty.
 
 Celem budowy waluty społecznościowej jest zdobycie większej ilości "krabów w wiaderku". Podejście ekstremalne celem wyeliminowania wszelkich nadużyć jest jak próba przykrycie wiadra pokrywą, aby zapobiec ucieczce kilku krabów, co tym smaym utrudniania dodawanie nowych krabów do wiadra. Wystarczy, zapewnić śliskie ściany i dać innym krabom wystarczającą moc, aby uniemożliwić ucieczkę innym.
 
@@ -263,11 +263,11 @@ Aby dalej zapobiegać nadużyciom, wszystkie wypłaty są opóźnione o średni�
 
 Ten wykres pokazuje, jak zmienia się okres ważności głosowania w odpowiedzi na pojawiające się nowe pozytywne i negatywne głosy. Nowe głosy przedłużają okres wypłaty proporcjonalnie do ich wielkości względem wszystkich wcześniejszych głosów. Około czasu 40 została dodana duża liczba nowych głosów, co wydłużyło okres głosowania o 12 godzin, kolejne mniejsze głosy miały znacznie mniejszy wpływ na okres głosowania.
 
-### Payout Distribution
+### Dystrybucja Wypłat
 
 ![](\img_the_new_marketplace.png)
 
-One of the primary goals of Steem's reward system is to produce the best discussions on the internet. Each and every year 10% of the market capitalization of Steem is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be as much as $1.75 million dollars per day being given to top contributors.
+Jednym z głównych celów systemu wynagrodzeń platformy Steem jest inspirowanie do prowadzenia wysokiej jakości dyskusji w Internecie. Każdego roku 10% kapitalizacji rynkowej Steem jest dystrybuowane do użytkowników tworzących, głosujących i dyskutujących nad treścią. At the size of Bitcoin this could be as much as $1.75 million dollars per day being given to top contributors.
 
 The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
 
