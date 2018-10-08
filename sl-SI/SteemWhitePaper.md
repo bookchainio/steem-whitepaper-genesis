@@ -82,9 +82,9 @@ Večji del inflacije je pravzaprav posledica računovodskih posegov kakor resni�
 
 ## Steem Power (SP)
 
-Novonastala podjetja potrebujejo denarna sredstva na dolgi rok. Tisti, ki vložijo svoja sredstva v kakšno novo podjetje, so pripravljeni čakati leta, preden lahko prodajo svoje delnice in unovčijo dobiček. Brez dolgoročne obveze bi podjetje, ki bi hotelo pridobiti dodatna sredstva s prodajo dodatnih delnic, tekmovalo z obstoječimi delničarji, ki bi se odločili za izstop. Preudarni investitorji želijo, da njihov vloženi kapital prispeva k rasti podjetja, toda do rasti ne more priti, če novi kapital preide v roke tistih, ki želijo izstopiti.
+Novonastala podjetja potrebujejo denarna sredstva na dolgi rok. Tisti, ki vložijo svoja sredstva v kakšno novo podjetje, so pripravljeni čakati leta, preden lahko prodajo svoje delnice in realizirajo dobiček. Brez dolgoročne zavezanost bi podjetje, ki bi hotelo pridobiti dodatna sredstva s prodajo dodatnih delnic, tekmovalo z obstoječimi delničarji, ki bi se odločili za izstop. Preudarni investitorji želijo, da njihov vloženi kapital prispeva k rasti podjetja, toda do rasti ne more priti, če novi kapital preide v roke tistih, ki želijo izstopiti.
 
-Dolgoročna obveza je zelo koristna, saj omogoča skupnostim, da ustvarijo dolgoročne načrte. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+Dolgoročna zavezanost je zelo koristna, saj omogoča skupnostim, da ustvarijo dolgoročne načrte. Dolgoročna zavezanost lastnike deležev prav tako spodbudi, da glasujejo za dolgoročno rast, ne pa za kratkoročno napihovanje vrednosti.
 
 In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
