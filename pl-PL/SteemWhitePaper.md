@@ -259,9 +259,9 @@ Moc głosu jest mnożona przez żetony uprawniające użytkownika, aby określi�
 
 ![](\img_change_voting_period_eg.png)
 
-Aby dalej zapobiegać nadużyciom, wszystkie wypłaty są opóźnione o średnią ważoną przez 24 godziny od momentu oddania każdego głosu. This ensures that large stakeholders cannot snipe payouts by voting at the last second before other voters (aka crabs) have a chance to negate the potential abuse. Once a payout is made to the user all votes are reset to 0. If votes come in after the payout then the process begins again.
+Aby dalej zapobiegać nadużyciom, wszystkie wypłaty są opóźnione o średnią ważoną przez 24 godziny od momentu oddania każdego głosu. Gwarantuje to, że duzi interesariusze nie mogą zgarnąć wypłat przez głosowanie w ostatniej chwili, zanim inni głosujący (znani też jako kraby) będą mieli szansę zniwelowania potencjalnego nadużycia. Po dokonaniu wypłaty użytkownikowi wszystkie głosy są zresetowane do 0. Jeśli głosy pojawią się po wypłacie, proces zaczyna się od nowa.
 
-This chart shows how the voting period expiration changes in response to new positive and negative votes being applied. New votes extend the payout period in proportion to how large they are relative to all votes that have gone before. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
+Ten wykres pokazuje, jak zmienia się okres ważności głosowania w odpowiedzi na pojawiające się nowe pozytywne i negatywne głosy. Nowe głosy przedłużają okres wypłaty proporcjonalnie do ich wielkości względem wszystkich wcześniejszych głosów. Około czasu 40 została dodana duża liczba nowych głosów, co wydłużyło okres głosowania o 12 godzin, kolejne mniejsze głosy miały znacznie mniejszy wpływ na okres głosowania.
 
 ### Payout Distribution
 
