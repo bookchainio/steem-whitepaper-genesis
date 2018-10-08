@@ -243,11 +243,11 @@ Użycie *negatywnego głosowania *, aby powstrzymać ludzi od nadużywania syste
 
 Eliminowanie “nadużyć" nie jest możliwe i nie powinno być celem. Nawet Ci, którzy próbują “nadużyć” system wciąż wykonują pracę. Wszelkie rekompensaty za udane próby nadużycia lub zmowy są co najmniej tak samo cenne dla celów rozprowadzania waluty, jak system robót wykonywanych przez tradycyjne wydobywanie Bitcoinów lub zmowne wydobywanie dokonywane za pośrednictwem pul wydobywczych. Co jest konieczne, to zapewnienie, że nadużycia nie są tak powszechne, że podważają motywację do prawdziwej pracy na rzecz społeczności i jej waluty.
 
-Celem budowy waluty społecznościowej jest zdobycie większej ilości "krabów w wiaderku". Podejście ekstremalne celem wyeliminowania wszelkich nadużyć jest jak próba przykrycie wiadra pokrywą, aby zapobiec ucieczce kilku krabów, co tym smaym utrudniania dodawanie nowych krabów do wiadra. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
+Celem budowy waluty społecznościowej jest zdobycie większej ilości "krabów w wiaderku". Podejście ekstremalne celem wyeliminowania wszelkich nadużyć jest jak próba przykrycie wiadra pokrywą, aby zapobiec ucieczce kilku krabów, co tym smaym utrudniania dodawanie nowych krabów do wiadra. Wystarczy, zapewnić śliskie ściany i dać innym krabom wystarczającą moc, aby uniemożliwić ucieczkę innym.
 
-### Rate Limited Voting
+### Głosowanie Limitowane Kursem
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Główną częścią minimalizując nadużycia jest limitowane kursem głosowanie. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
 ![](\img_voting_rate_limiting.png)
 
