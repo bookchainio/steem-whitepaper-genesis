@@ -267,11 +267,11 @@ Ten wykres pokazuje, jak zmienia się okres ważności głosowania w odpowiedzi 
 
 ![](\img_the_new_marketplace.png)
 
-Jednym z głównych celów systemu wynagrodzeń platformy Steem jest inspirowanie do prowadzenia wysokiej jakości dyskusji w Internecie. Każdego roku 10% kapitalizacji rynkowej Steem jest dystrybuowane do użytkowników tworzących, głosujących i dyskutujących nad treścią. At the size of Bitcoin this could be as much as $1.75 million dollars per day being given to top contributors.
+Jednym z głównych celów systemu wynagrodzeń platformy Steem jest inspirowanie do prowadzenia wysokiej jakości dyskusji w Internecie. Każdego roku 10% kapitalizacji rynkowej Steem jest dystrybuowane do użytkowników tworzących, głosujących i dyskutujących nad treścią. Przy wielkości Bitcoin to mogłoby wynieść nawet 1,75 miliona dolarów dziennie dla najlepszych współtwórców.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
+Aktualna dystrybucja będzie zależeć od wzorów głosowania użytkowników, podejrzewamy jednak, że większość nagród będzie dzielona między najbardziej popularne wpisy. Steem waży wypłaty proporcjonalne do \\ (n^{2}\\) wysokości głosującej Mocy Steem dla postu. Innymi słowy, post x otrzymałby wypłatę proporcjonalną do:
 
-\\(votes[x]^{2} / sum(votes[0...n]^{2})\\)
+\\(głosy[x]^{2} / suma(głosy[0...n]^{2})\\)
 
 Zipf's Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the \\(k^{th}\\)-ranked item will measure about 1/k of the first one.
 
