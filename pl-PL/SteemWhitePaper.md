@@ -247,7 +247,7 @@ Celem budowy waluty społecznościowej jest zdobycie większej ilości "krabów 
 
 ### Głosowanie Limitowane Kursem
 
-Główną częścią minimalizując nadużycia jest limitowane kursem głosowanie. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Główną częścią minimalizując nadużycia jest limitowane kursem głosowanie. Indywidualni użytkownicy mogą w ciągu dnia przeczytać i ocenić tyle wpisów dziennie. Każda próba głosowania częściej jest oznaką automatyzacji i potencjalnych nadużyć. Poprzez limitowanie stawki, interesariusze głosujący częściej, mają mniejszą liczbę głosów niż ci, którzy głosują rzadziej. Próby podziału żetonów pomiędzy wieloma kontami również dzielą wpływ i dlatego nie powodują wzrostu wpływów netto ani nie pomijają limitu stawki nałożonego na głosowanie.
 
 ![](\img_voting_rate_limiting.png)
 
