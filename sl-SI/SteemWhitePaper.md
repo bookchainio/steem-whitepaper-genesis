@@ -86,7 +86,7 @@ Novonastala podjetja potrebujejo denarna sredstva na dolgi rok. Tisti, ki vloži
 
 Dolgoročna zavezanost je zelo koristna, saj omogoča skupnostim, da ustvarijo dolgoročne načrte. Dolgoročna zavezanost lastnike deležev prav tako spodbudi, da glasujejo za dolgoročno rast, ne pa za kratkoročno napihovanje vrednosti.
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+V svetu kriptovalut špekulanti skačejo od ene kriptovalute do druge predvsem na temelju tega, pri kateri je pričakovana kratkoročna rast. Steem si prizadeva zgraditi skupnost, ki bo v večinski lasti in popolnem nadzoru tistih, ki se jim gre za dolgoročno rast.
 
 Because Steem wants to encourage long-term growth, it is hardwired to allocate 9 STEEM to Steem Power (SP) stakeholders for every 1 STEEM it creates to fund growth through contribution incentives. Over time this drives the ratio of the total STEEM value of Steem Power balances to the total of STEEM balances toward 9:1 . (It seems likely that the ratio will be somewhat greater than 9:1 due to continued net Powering Up of the newly printed STEEM.) It also means that long-term holders are almost completely protected from the dilution used to fund growth.
 
