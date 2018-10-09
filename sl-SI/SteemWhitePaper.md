@@ -94,13 +94,13 @@ SP se lahko pretvori nazaj v STEEM v razdobju dveh let v 104 enakih tedenskih zn
 
 Zneski SP-ja niso prenosljivi in deljivi razen ob zahtevanih samodejnih pretvorbah, ki se zgodijo v rednih intervalih. To pomeni, da s SP-jem ni možno enostavno trgovati na kriptovalutnih menjalnicah.
 
-SP is a requirement for voting for or against content. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+SP je zahteva za pozitivno ali negativno glasovanje v zvezi z vsebino. To pomeni, da je SP nekakšen dostopni žeton, ki daje njegovim lastnikom ekskluzivni vpliv znotraj Steem platforme.
 
-Transferring from STEEM to SP is referred to as powering up while transferring from SP to Steem is referred to as "powering down". For example, one can power down their STEEM over a period of two years, yet one can power up their STEEM instantly.
+Prenos iz STEEM-a v SP se imenuje Power Up (pridobitev moči), medtem ko se prenos iz SP-ja v STEEM imenuje Power Down (izguba moči). Na primer, posameznik lahko opravi Power Down svojega STEEM-a v razdobju dveh let, vendar pa lahko opravi Power Up STEEM-a v trenutku.
 
-## Steem Dollars (SMD)
+## Steem dolarji (SMD)
 
-Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
+Stabilnost je pomembna značilnost uspešne globalne ekonomije. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
 
 Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
 
