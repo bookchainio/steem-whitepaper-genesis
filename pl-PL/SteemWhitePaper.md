@@ -273,9 +273,9 @@ Aktualna dystrybucja będzie zależeć od wzorów głosowania użytkowników, po
 
 \\(głosy[x]^{2} / suma(głosy[0...n]^{2})\\)
 
-Prawo Zipfa [^7] jest jedną z zasad empirycznych, która zadziwiająco dobrze charakteryzuje zaskakujący zakres rzeczywistych zjawisk. Mówi on, że jeśli uporządkujemy dużą kolekcję według wielkości lub popularności, drugi element w kolekcji będzie liczył około połowę tego, co pierwszy element, trzeci będzie lczył około jedną trzecią pierwszego, i tak dalej. In general, the \\(k^{th}\\)-ranked item will measure about 1/k of the first one.
+Prawo Zipfa [^7] jest jedną z zasad empirycznych, która zadziwiająco dobrze charakteryzuje zaskakujący zakres rzeczywistych zjawisk. Mówi on, że jeśli uporządkujemy dużą kolekcję według wielkości lub popularności, drugi element w kolekcji będzie liczył około połowę tego, co pierwszy element, trzeci będzie lczył około jedną trzecią pierwszego, i tak dalej. Ogólnie rzecz biorąc, \\(k^{th}\\)-pozycja z nadaną rangą będzie mierzyć około 1/k pierwszego.
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf's Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Przyjmując popularność jako przybliżoną jednostkę wartości, wartość każdej indywidualnej pozycji można obliczyć w oparciu o Prawo Zipfa. Oznacza to, że jeśli mamy milion pozycji, najpopularniejsze 100 będzie stanowić jedną trzecią całkowitej wartości, kolejne 10 000 kolejną trzecią, a pozostałe 989,900 ostatnią trzecią. The value of the collection of n items is proportional to log(n).
 
 The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
 
