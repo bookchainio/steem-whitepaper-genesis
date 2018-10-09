@@ -291,11 +291,11 @@ Ta struktura motywująca zachęca ludzi do wnoszenia wkładu w sposób, który m
 
 ### Wypłaty
 
-Gdy post otrzymuje wypłatę przyjmuje ona formę 50% SMD i 50% SP. Steem Power daje użytkownikowi zwiększoną siłę głosu oraz transakcji, podczas gdy SMD natychmiastowy zysk pod postacią stabilnej waluty. As we've already discussed at length, both SP and SMD are designed to encourage long-term holding rather than short-term selling.
+Gdy post otrzymuje wypłatę przyjmuje ona formę 50% SMD i 50% SP. Steem Power daje użytkownikowi zwiększoną siłę głosu oraz transakcji, podczas gdy SMD natychmiastowy zysk pod postacią stabilnej waluty. Zgodnie z tym, o czym już dyskutowaliśmy wcześniej, zarówno SP, jak i SMD mają na celu zachęcanie do długoterminowego przetrzymywania, aniżeli do krótkoterminowej sprzedaży.
 
-# Consensus Algorithm
+# Algorytm Konsensusu
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+Konsensus jest procesem, dzięki któremu społeczność dochodzi do ogólnie przyjętego, jednoznacznego porozumienia na temat jakiejś konkretnej informacji. Istnieje wiele algorytmów stworzonych przez społeczeństwo w celu osiągnięcia konsensusu odnośnie tego, kto jest właścicielem czego. Każdy rząd na Ziemi jest prymitywnym algorytmem konsensusu, zgodnie z którym populacja zgadza się przestrzegać określonego zbioru zasad zawartych w konstytucji. Rządy ustanawiają sądy, sędziów oraz przysięgłych celem interpretacji subiektywnych faktów oraz podejmowania ostatecznych decyzji. Most of the time people abide by the decision even if it was wrong.
 
 The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
 
