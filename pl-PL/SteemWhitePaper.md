@@ -283,15 +283,15 @@ Efekt ekonomiczny tych działań jest podobny do loterii, gdzie ludzie przecenia
 
 #### Nagradzanie Postów Źródłowych
 
-Dobra dyskusja wymaga wymiany pomiędzy stronami publikacji. Gdy odpowiadasz komuś innemu, otrzymują oni 50% wszelkich wypłat otrzymanych w tym wątku. This rule applies up to 6 levels deep. Starting a big discussion greatly rewards the parent poster.
+Dobra dyskusja wymaga wymiany pomiędzy stronami publikacji. Gdy odpowiadasz komuś innemu, otrzymują oni 50% wszelkich wypłat otrzymanych w tym wątku. Ta reguła ma zastosowanie do maksymalnie 6 poziomów. Rozpoczęcie dużej dyskusji znacznie nagradza publicystę źródłowego.
 
-Failure to properly nest your posts in the discussion is a good way to get down voted.
+Niewłaściwe umieszczenie Twoich postów w dyskusji jest dobrym sposobem na otrzymanie negatywnych głosów.
 
-This incentive structure motivates people to contribute in a way that motivates others to get involved. It encourages people to ask good questions so that others can provide valuable answers.
+Ta struktura motywująca zachęca ludzi do wnoszenia wkładu w sposób, który motywuje innych do angażowania się. Zachęca to ludzi do zadawania dobrych pytań, aby inni mogli udzielić cennych odpowiedzi.
 
-### Payouts
+### Wypłaty
 
-When a post receives a payout it takes the form of 50% SMD and 50% SP. The Steem Power give the user increased voting and transaction power while the SMD gives the user an immediate benefit in a stable currency. As we've already discussed at length, both SP and SMD are designed to encourage long-term holding rather than short-term selling.
+Gdy post otrzymuje wypłatę przyjmuje ona formę 50% SMD i 50% SP. Steem Power daje użytkownikowi zwiększoną siłę głosu oraz transakcji, podczas gdy SMD natychmiastowy zysk pod postacią stabilnej waluty. As we've already discussed at length, both SP and SMD are designed to encourage long-term holding rather than short-term selling.
 
 # Consensus Algorithm
 
