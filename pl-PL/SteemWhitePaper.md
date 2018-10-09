@@ -157,7 +157,7 @@ Dla każdego SBD tworzonego przez Steem, 19.00$ STEEM jest również tworzone i 
 
 Pomysł posiadania konserwatywnego 5% stosunku zadłużenia do własności jest taki, że nawet jeśli wszystkie długi zostały skonwertowane i sprzedane, powinno być wielu nabywców, a faktyczne osłabienie właścicieli tokenów pozostaje stosunkowo niewielkie.
 
-Szybka zmiana wartości STEEM może znacząco zmienić stosunek długu do własności. Dolne limity trudności używane do obliczenia procesu wytwarzania STEEM bazują na aktualnej podaży, wliczając w to wartość rynku SBD i SP obliczaną w STEEM na podstawie aktualnego współczynnika wysokości kursu walut.
+Szybka zmiana wartości STEEM może znacząco zmienić stosunek długu do własności. Dolne limity trudności używane do obliczenia procesu wytwarzania STEEM bazują na aktualnej podaży, wliczając w to wartość rynku SBD i SP obliczaną w STEEM na podstawie aktualnego współczynnik wysokości kursu walut.
 
 ### Udział
 
@@ -229,7 +229,7 @@ Bez względu na to, ile pieniędzy ma dana osoba, zawsze jest wiele innych osób
 
 Na szczęście wszelkie prace, które uzyskują dużą koncentrację głosów, zyskują również największą kontrolę (rozgłos). Poprzez dodanie *negatywnego głosowania*możliwe jest, aby wielu mniejszych interesariuszy unieważniło moc głosującą grup zmawiających się lub dużych interesariuszy popełniających tenże błąd. Co więcej, więksi interesariusze mają więcej do stracenia, jeśli waluta straci na wartości z powodu nadużyć, niż mogliby uzyskać, głosując na siebie. W rzeczywistości, uczciwi interesariusze mogą być skuteczniejsi poprzez nadzorowanie nadużyć i stosowanie negatywnego głosowania niż w przypadku głosowaniu na mniejsze wkłady.
 
-Użycie *negatywnego głosowania *, aby powstrzymać ludzi od nadużywania systemu, wykorzystuje *krabią mentalność*, którą posiada wielu ludzi, gdy obserwuje się, że jedna osoba zarabia kosztem wszystkich innych. O ile krabia mentalność zwykle odnosi się do ludzi krótkowzrocznych, którzy działają na niekorzyść dobrych ludzi, pozwala ona podobnie dobrym ludziom powstrzymywać złych ludzi. Jedynym "problemem" krabiej mentalności jest, gdy ludzie * niesłusznie wierzą *, że ktoś zyskuje kosztem innych.
+Użycie *negatywnego głosowania *, aby powstrzymać ludzi od nadużywania systemu, wykorzystuje *krabią mentalność*, którą posiada wielu ludzi, gdy obserwuje się, że jedna osoba zarabia kosztem wszystkich innych. O ile krabia mentalność zwykle odnosi się do ludzi krótkowzrocznych, którzy działają na niekorzyść dobrych ludzi, pozwala ona podobnie dobrym ludziom powstrzymywać złych ludzi. Jedynym "problemem" krabiej mentalności jest, gdy ludzie *niesłusznie wierzą*, że ktoś zyskuje kosztem innych.
 
 > #### Opowieść o Wiadrze Krabów[^6]
 > 
@@ -243,19 +243,19 @@ Użycie *negatywnego głosowania *, aby powstrzymać ludzi od nadużywania syste
 
 Eliminowanie “nadużyć" nie jest możliwe i nie powinno być celem. Nawet Ci, którzy próbują “nadużyć” system wciąż wykonują pracę. Wszelkie rekompensaty za udane próby nadużycia lub zmowy są co najmniej tak samo cenne dla celów dystrybucji waluty, jak system robót wykonywanych przez tradycyjne wydobywanie Bitcoinów lub zmowne wydobywanie dokonywane za pośrednictwem pul wydobywczych. Co jest konieczne, to zapewnienie, że nadużycia nie są tak powszechne, że podważają motywację do prawdziwej pracy na rzecz społeczności i jej waluty.
 
-Celem budowy waluty społecznościowej jest zdobycie większej ilości "krabów w wiaderku". Podejście ekstremalne celem wyeliminowania wszelkich nadużyć jest jak próba przykrycie wiadra pokrywą, aby zapobiec ucieczce kilku krabów, co tym smaym utrudniania dodawanie nowych krabów do wiadra. Wystarczy, zapewnić śliskie ściany i dać innym krabom wystarczającą moc, aby uniemożliwić ucieczkę innym.
+Celem budowy waluty społecznościowej jest zdobycie większej ilości "krabów w wiaderku". Podejście ekstremalne celem wyeliminowania wszelkich nadużyć jest jak próba przykrycie wiadra pokrywą, aby zapobiec ucieczce kilku krabów, co tym smaym utrudniania dodawanie nowych krabów do wiadra. Wystarczy stworzyć śliskie ściany i dać innym krabom możliwość przeciwdziałania ucieczce pozostałym.
 
 ### Głosowanie Limitowane Kursem
 
-Główną częścią minimalizując nadużycia jest limitowane kursem głosowanie. Indywidualni użytkownicy mogą w ciągu dnia przeczytać i ocenić tyle wpisów dziennie. Każda próba głosowania częściej jest oznaką automatyzacji i potencjalnych nadużyć. Poprzez limitowanie stawki, interesariusze głosujący częściej, mają mniejszą liczbę głosów niż ci, którzy głosują rzadziej. Próby podziału żetonów pomiędzy wieloma kontami również dzielą wpływ i dlatego nie powodują wzrostu wpływów netto ani nie pomijają limitu stawki nałożonego na głosowanie.
+Główną częścią minimalizującą nadużycia, jest limitowane kursem głosowanie. Indywidualni użytkownicy mogą w ciągu dnia przeczytać i ocenić tylko ograniczoną ilość wpisów. Próba głosowania częściej jest oznaką automatyzacji i potencjalnego nadużycia. Poprzez limitowanie stawki interesariusze głosujący częściej mają mniejszą liczbę głosów niż ci, którzy głosują rzadziej. Próby podziału żetonów pomiędzy wieloma kontami również dzielą wpływ i dlatego nie powodują wzrostu wpływów netto ani nie pomijają limitu stawki nałożonego na głosowanie.
 
 ![](\img_voting_rate_limiting.png)
 
-Powyższe wykresy pokazują, jak moc głosu użytkownika zmniejsza się za każdym razem, gdy głosują, a następnie regeneruje się z upływem czasu bez głosowania. Wykresy te wykorzystują nominalną jednostkę czasu i mogą być skalowane do dowolnej docelowej stawki głosowania. Zauważ, że siła głosu spada szybko w okresach ciągłego głosowania, a następnie powoli wraca do normy.
+Powyższe wykresy pokazują, jak moc głosu użytkownika zmniejsza się za każdym razem, gdy oddaje on głos, a następnie regeneruje się z upływem czasu w którym użytkownik ten nie głosował. Wykresy te wykorzystują nominalną jednostkę czasu i mogą być skalowane do dowolnej docelowej stawki głosowania. Zauważ, że siła głosu spada szybko w okresach ciągłego głosowania, a następnie powoli wraca do normy.
 
-Moc głosu jest mnożona przez żetony uprawniające użytkownika, aby określić, jaki udział w puli nagród należy przypisać do danego wpisu.
+Siła głosu jest mnożona przez ilość tokenów, które dany użytkownik posiada w formie SP. Determinują one, ile udziałów w puli nagród powinno zostać przydzielone do danego elementu.
 
-### Opóźnienie Wypłaty
+### Opóźnione Wypłaty
 
 ![](\img_change_voting_period_eg.png)
 
