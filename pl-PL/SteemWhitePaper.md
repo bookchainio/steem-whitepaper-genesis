@@ -279,11 +279,11 @@ Przyjmując popularność jako przybliżoną jednostkę wartości, wartość ka�
 
 Wpływ tego głosowania i dystrybucji wypłat ma na celu oferowanie dużych nagród za dobre treści, a jednocześnie nagradzanie mniejszych graczy za ich długoterminowy wkład.
 
-The economic effect of this is similar to a lottery where people over-estimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone "wins something" plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+Efekt ekonomiczny tych działań jest podobny do loterii, gdzie ludzie przeceniają swoje prawdopodobieństwo zdobycia głosów, tym samym wykonują więcej pracy niż oczekiwana wartość nagrody, a tym samym maksymalizują całkowitą ilość pracy wykonywanej w służbie społeczności. Fakt, że każdy "coś wygrywa", stosuje tę samą psychologię, której używają kasyna w celu zachęcenia ludzi do uprawiania hazardu. Innymi słowy, małe nagrody pomagają zaszczepić ideę, iż możliwym jest otrzymanie większych nagród.
 
-#### Rewarding Parent Posts
+#### Nagradzanie Postów Źródłowych
 
-Good discussion requires back and forth posting. When you reply to someone else, they get 50% of any payout you receive in that thread. This rule applies up to 6 levels deep. Starting a big discussion greatly rewards the parent poster.
+Dobra dyskusja wymaga wymiany pomiędzy stronami publikacji. Gdy odpowiadasz komuś innemu, otrzymują oni 50% wszelkich wypłat otrzymanych w tym wątku. This rule applies up to 6 levels deep. Starting a big discussion greatly rewards the parent poster.
 
 Failure to properly nest your posts in the discussion is a good way to get down voted.
 
