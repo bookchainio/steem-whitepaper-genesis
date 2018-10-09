@@ -157,7 +157,7 @@ Dla każdego SBD tworzonego przez Steem, 19.00$ STEEM jest również tworzone i 
 
 Pomysł posiadania konserwatywnego 5% stosunku zadłużenia do własności jest taki, że nawet jeśli wszystkie długi zostały skonwertowane i sprzedane, powinno być wielu nabywców, a faktyczne osłabienie właścicieli tokenów pozostaje stosunkowo niewielkie.
 
-Szybka zmiana wartości STEEM może znacząco zmienić stosunek długu do własności. Dolne limity trudności używane do obliczenia procesu wytwarzania STEEM bazują na aktualnej podaży, wliczając w to wartość rynku SBD i SP obliczaną w STEEM na podstawie aktualnego współczynnik wysokości kursu walut.
+Szybka zmiana wartości STEEM może znacząco zmienić stosunek długu do własności. Dolne limity trudności używane do obliczenia procesu wytwarzania STEEM bazują na aktualnej podaży, wliczając w to wartość rynku SBD i SP obliczaną w STEEM na podstawie aktualnego współczynnika wysokości kursu walut.
 
 ### Udział
 
