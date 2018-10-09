@@ -291,7 +291,7 @@ Ta struktura motywująca zachęca ludzi do wnoszenia wkładu w sposób, który m
 
 ### Wypłaty
 
-Gdy post otrzymuje wypłatę przyjmuje ona formę 50% SMD i 50% SP. Steem Power daje użytkownikowi zwiększoną siłę głosu oraz transakcji, podczas gdy SMD natychmiastowy zysk pod postacią stabilnej waluty. Zgodnie z tym, o czym już dyskutowaliśmy wcześniej, zarówno SP, jak i SMD mają na celu zachęcanie do długoterminowego przetrzymywania, aniżeli do krótkoterminowej sprzedaży.
+Nagroda za post przyjmuje formę wypłaty 50% wynagrodzenia w SBD oraz drugich 50% w SP. Steem Power daje użytkownikowi zwiększoną siłę głosu oraz transakcji, podczas gdy SBD natychmiastowy zysk pod postacią stabilnej waluty. Zgodnie z tym, o czym dyskutowaliśmy wcześniej, SP zostało tak zaprojektowane, aby zachęcać do długofalowego posiadania, a nie do szybkiej odsprzedaży.
 
 # Algorytm Konsensusu
 
