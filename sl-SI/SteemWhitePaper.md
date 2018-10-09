@@ -92,7 +92,7 @@ Ker želi Steem spodbuditi dolgoročno rast, je zasnovan tako, da dodeli 9 STEEM
 
 SP se lahko pretvori nazaj v STEEM v razdobju dveh let v 104 enakih tedenskih zneskih. Na "1 SP" se lahko gleda kot na delež v bazenu STEEM-a. Omrežje ob ustvaritvi vsakega bloka samodejno doda STEEM v bazen. Uporabniki lahko kadar koli pretvorijo svoj STEEM v SP v istem razmerju kot STEEM v naložbenem bazenu proti skupnem SP-ju. Pretvorba STEEM-a v SP ne razvodeni obstoječih lastnikov SP-ja. In ko se SP pretvori nazaj v STEEM, se to prav tako opravi po trenutnem razmerju. Posameznikom je zagotovljeno, da bodo imeli v prihodnosti več STEEM-a, kot ga imajo takrat, ko prvič pretvorijo STEEM v SP.
 
-SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Zneski SP-ja niso prenosljivi in deljivi razen ob zahtevanih samodejnih pretvorbah, ki se zgodijo v rednih intervalih. To pomeni, da s SP-jem ni možno enostavno trgovati na kriptovalutnih menjalnicah.
 
 SP is a requirement for voting for or against content. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
