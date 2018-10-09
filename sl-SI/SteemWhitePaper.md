@@ -104,7 +104,7 @@ Stabilnost je pomembna značilnost uspešne globalne ekonomije. Brez stabilnosti
 
 Steem dolarji so ustvarjeni z mehanizmom, podobnim konvertibilnim posojilom, ki so velikokrat uporabljeni za financiranje novoustavnovljenih podjetij. Pri novoustanovljenih podjetjih so konvertibilna posojila kratkoročni dolžniški instrumenti, ki se jih lahko pretvori v lastništvo po stopnji, določeni v prihodnosti, običajno med poznejšo investicijo. Na žeton, ki temelji na blockchain tehnologiji, se lahko gleda kot na lastništvo v skupnosti, na konvertibilna posojila pa kot na dolg, izražen s katerim koli drugim sredstvom ali valuto. Pogoji konvertibilnega posojila omogočajo lastniku, da ga pretvori v žeton z minimalno napovedjo po pravični tržni ceni žetona. Ustvarjanje dolarjev, ki se pretvorijo v žetone, omogoča blockchainom, da povečajo svoj vpliv na omrežju, hkrati pa karseda povečajo dobiček za lastnike.
 
-Steem dolarji so označeni s simbolom SMD, kar je kratica za Steem dolarje. Creating SMD requires a combination of a reliable price feed, rules to prevent abuse, and liquidity. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+Steem dolarji so označeni s simbolom SMD, kar je kratica za Steem dolarje. Ustvarjanje SMD-jev zahteva kombinacijo zanesljivega vira cen, pravil za preprečitev zlorab in likvidnost. Zagotovitev zanesljivega vira cen zajema tri dejavnike: zmanjšanje učinka nepravilnega vira, povečanje stroška v povezavi z napačnim virom in zmanjšanje pomembnosti uporabe pravega trenutka.
 
 ### Minimizing Fraudulent Feeds
 
