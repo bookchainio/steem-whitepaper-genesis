@@ -267,19 +267,19 @@ Ten wykres pokazuje, jak zmienia się okres ważności głosowania w odpowiedzi 
 
 ![](\img_the_new_marketplace.png)
 
-Jednym z głównych celów systemu wynagrodzeń platformy Steem jest inspirowanie do prowadzenia wysokiej jakości dyskusji w Internecie. Każdego roku 10% kapitalizacji rynkowej Steem jest dystrybuowane do użytkowników tworzących, głosujących i dyskutujących nad treścią. Przy wielkości Bitcoin to mogłoby wynieść nawet 1,75 miliona dolarów dziennie dla najlepszych współtwórców.
+Jednym z głównych celów systemu wynagrodzeń platformy Steem jest inspirowanie do prowadzenia wysokiej jakości dyskusji w Internecie. Każdego roku 10% kapitalizacji rynkowej Steem jest dystrybuowane do użytkowników tworzących, głosujących i dyskutujących nad treścią. Gdyby sieć osiągnęła wielkość porównywalną do Bitcoina, mogłyby to doprowadzić do wypłaty wynagrodzeń w kwocie kilku milionów dolarów. Pieniądze te otrzymywałyby osoby, które wnoszą największy wkład w rozwój platformy.
 
-Aktualna dystrybucja będzie zależeć od wzorów głosowania użytkowników, podejrzewamy jednak, że większość nagród będzie dzielona między najbardziej popularne wpisy. Steem waży wypłaty proporcjonalne do \\ (n^{2}\\) wysokości głosującej Mocy Steem dla postu. Innymi słowy, post x otrzymałby wypłatę proporcjonalną do:
+Aktualna dystrybucja będzie zależeć od schematu głosowania użytkowników. Wydaje nam się jednak, że większość nagród będzie dzielona między najbardziej popularne wpisy. Steem waży wypłaty proporcjonalne do \\(n^{2}\\) wysokości głosującej Mocy Steem dla postu. Innymi słowy, post x otrzymałby wypłatę proporcjonalną do:
 
 \\(głosy[x]^{2} / suma(głosy[0...n]^{2})\\)
 
-Prawo Zipfa [^7] jest jedną z zasad empirycznych, która zadziwiająco dobrze charakteryzuje zaskakujący zakres rzeczywistych zjawisk. Mówi on, że jeśli uporządkujemy dużą kolekcję według wielkości lub popularności, drugi element w kolekcji będzie liczył około połowę tego, co pierwszy element, trzeci będzie lczył około jedną trzecią pierwszego, i tak dalej. Ogólnie rzecz biorąc, \\(k^{th}\\)-pozycja z nadaną rangą będzie mierzyć około 1/k pierwszego.
+Prawo Zipfa [^7] jest jedną z zasad empirycznych, która zadziwiająco dobrze charakteryzuje zaskakujący zakres rzeczywistych zjawisk. Mówi ono o tym, iż jeśli zbierzemy dużą grupę podmiotów, kierując się ich wielkością lub popularnością, drugi element kolekcji będzie liczył około połowę tego, co pierwszy element. Trzeci będzie liczyć około jedną trzecią tego, co pierwszy i tak dalej. Ogólnie rzecz biorąc, \\(k^{th}\\)-pozycja z nadaną rangą będzie mierzyć około 1/k pierwszego.
 
-Przyjmując popularność jako przybliżoną jednostkę wartości, wartość każdej indywidualnej pozycji można obliczyć w oparciu o Prawo Zipfa. Oznacza to, że jeśli mamy milion pozycji, najpopularniejsze 100 będzie stanowić jedną trzecią całkowitej wartości, kolejne 10 000 kolejną trzecią, a pozostałe 989,900 ostatnią trzecią. Wartość zbioru pozycji n jest proporcjonalna do logarytmu (n).
+Przyjmując popularność jako przybliżoną jednostkę wartości, wartość każdej indywidualnej pozycji można obliczyć w oparciu o Prawo Zipfa. Podążając tą myślą, jeśli mamy milion podmiotów, 100 najbardziej popularnych przyczyni się do powstania jednej trzeciej wartości nagród. Następne 10,000 kolejnej jednej trzeciej, a pozostałe 989,900 - ostatniej jednej trzeciej. Wartość zbioru pozycji n jest proporcjonalna do logarytmu (n).
 
 Wpływ tego głosowania i dystrybucji wypłat ma na celu oferowanie dużych nagród za dobre treści, a jednocześnie nagradzanie mniejszych graczy za ich długoterminowy wkład.
 
-Efekt ekonomiczny tych działań jest podobny do loterii, gdzie ludzie przeceniają swoje prawdopodobieństwo zdobycia głosów, tym samym wykonują więcej pracy niż oczekiwana wartość nagrody, a tym samym maksymalizują całkowitą ilość pracy wykonywanej w służbie społeczności. Fakt, że każdy "coś wygrywa", stosuje tę samą psychologię, której używają kasyna w celu zachęcenia ludzi do uprawiania hazardu. Innymi słowy, małe nagrody pomagają zaszczepić ideę, iż możliwym jest otrzymanie większych nagród.
+Ekonomiczny efekt wyżej wymienionych działań jest podobny do loterii, w której ludzie przeceniają prawdopodobieństwo otrzymania głosów. W rezultacie wykonują oni więcej pracy niż muszą, maksymalizując tym samym całkowitą ilość pracy wykonaną na rzecz społeczności. Fakt, że każdy "coś wygrywa", stosuje tę samą psychologię, której używają kasyna w celu zachęcenia ludzi do uprawiania hazardu. Innymi słowy, małe nagrody pomagają zaszczepić ideę, iż możliwym jest otrzymanie większych nagród.
 
 #### Nagradzanie Postów Źródłowych
 
