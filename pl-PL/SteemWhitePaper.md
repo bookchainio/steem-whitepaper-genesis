@@ -275,9 +275,9 @@ Aktualna dystrybucja będzie zależeć od wzorów głosowania użytkowników, po
 
 Prawo Zipfa [^7] jest jedną z zasad empirycznych, która zadziwiająco dobrze charakteryzuje zaskakujący zakres rzeczywistych zjawisk. Mówi on, że jeśli uporządkujemy dużą kolekcję według wielkości lub popularności, drugi element w kolekcji będzie liczył około połowę tego, co pierwszy element, trzeci będzie lczył około jedną trzecią pierwszego, i tak dalej. Ogólnie rzecz biorąc, \\(k^{th}\\)-pozycja z nadaną rangą będzie mierzyć około 1/k pierwszego.
 
-Przyjmując popularność jako przybliżoną jednostkę wartości, wartość każdej indywidualnej pozycji można obliczyć w oparciu o Prawo Zipfa. Oznacza to, że jeśli mamy milion pozycji, najpopularniejsze 100 będzie stanowić jedną trzecią całkowitej wartości, kolejne 10 000 kolejną trzecią, a pozostałe 989,900 ostatnią trzecią. The value of the collection of n items is proportional to log(n).
+Przyjmując popularność jako przybliżoną jednostkę wartości, wartość każdej indywidualnej pozycji można obliczyć w oparciu o Prawo Zipfa. Oznacza to, że jeśli mamy milion pozycji, najpopularniejsze 100 będzie stanowić jedną trzecią całkowitej wartości, kolejne 10 000 kolejną trzecią, a pozostałe 989,900 ostatnią trzecią. Wartość zbioru pozycji n jest proporcjonalna do logarytmu (n).
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+Wpływ tego głosowania i dystrybucji wypłat ma na celu oferowanie dużych nagród za dobre treści, a jednocześnie nagradzanie mniejszych graczy za ich długoterminowy wkład.
 
 The economic effect of this is similar to a lottery where people over-estimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone "wins something" plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
