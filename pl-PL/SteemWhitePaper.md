@@ -299,7 +299,7 @@ Konsensus jest procesem, dzięki któremu społeczność dochodzi do ogólnie pr
 
 Algorytmy używane przez kryptowaluty dostarczają lepszych sposobów na osiągnięcie konsensusu. Kryptograficznie podpisane świadectwo jednostek jest zapisywane w publicznym rejestrze, który ustala bezwzględny globalny porządek wydarzeń. Deterministyczny algorytm komputerowy może następnie przetworzyć ów rejestr, by wyciągnąć z niego ogólnie akceptowany wniosek. Dopóki członkowie danej społeczności zgadzają względem algorytmu przetwarzającego, rezultat tego algorytmu można uznać za miarodajny.
 
-The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+Pierwszorzędnym znaczenie ma ustalenie, jakie świadectwo może zostać wprowadzone do publicznego rejestru. Systemy powinny być zaprojektowane z myślą o minimalizowaniu potencjalnej cenzury. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
 
 ## Consensus in Steem
 
