@@ -364,17 +364,17 @@ Because of the constantly changing head block and network latency, forwarding a 
 
 Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. Ten dokument nakreśla podejście platformy Steem do wyeliminowania opłat za transakcje. Zlikwidowanie opłat umożliwia z kolei tworzenie aplikacji, które wcześniej były nierentowne.
 
-## The Problem With Fees
+## Problem z opłatami
 
-Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+Blockchain to zdecentralizowana sieć, w której wszystkie transakcje są udostępniane wszystkim użytkownikom. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn't use email.
+Metodą stosowaną przez większość rozwiązań opartych o technologię blockchain, jest naliczanie minimalnych opłat transakcyjnych. Opłata transakcyjna już w wysokości kilka centów sprawia, że ataki na sieć stają się drogie oraz nieopłacalne. Mimo, że ten sposób jest skuteczny, powoduje on, że powstają inne kłopoty. Wyobraź sobie, że ktoś usiłowałby rozwiązać problem spamu wprowadzając małą opłatę naliczaną od każdego wysłanego e-maila. Rezultat byłby taki, że nikt nie korzystałby z poczty elektronicznej.
 
-### Micropayments Don't Work
+### Mikropłatności nie są praktyczne
 
-The fundamental problem with charging transaction fees is that micropayments don't work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+Fundamentalnym problemem naliczania opłat transakcyjnych jest to, że mikropłatności się nie sprawdzają, szczególnie dla czynności o małym znaczeniu. Gdy za każdą transakcję naliczana jest opłata, ogranicza to różnorodność rodzajów transakcji, które mogą zostać rentownie przetworzone przez zdecentralizowaną sieć. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
 
 Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave.
 
