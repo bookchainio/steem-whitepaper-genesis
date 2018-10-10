@@ -299,13 +299,13 @@ Konsensus jest procesem, dzięki któremu społeczność dochodzi do ogólnie pr
 
 Algorytmy używane przez kryptowaluty dostarczają lepszych sposobów na osiągnięcie konsensusu. Kryptograficznie podpisane świadectwo jednostek jest zapisywane w publicznym rejestrze, który ustala bezwzględny globalny porządek wydarzeń. Deterministyczny algorytm komputerowy może następnie przetworzyć ów rejestr, by wyciągnąć z niego ogólnie akceptowany wniosek. Dopóki członkowie danej społeczności zgadzają względem algorytmu przetwarzającego, rezultat tego algorytmu można uznać za miarodajny.
 
-Pierwszorzędnym znaczenie ma ustalenie, jakie świadectwo może zostać wprowadzone do publicznego rejestru. Systemy powinny być zaprojektowane z myślą o minimalizowaniu potencjalnej cenzury. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+Pierwszorzędnym znaczenie ma ustalenie, jakie świadectwo może zostać wprowadzone do publicznego rejestru. Systemy powinny być zaprojektowane z myślą o minimalizowaniu potencjalnej cenzury. Cenzura publicznego rejestru przypomina uniemożliwianie komuś wzięcia udziału w wyborach. W obu przypadkach jednostce uniemożliwia się wpływanie na globalny konsensus.
 
-## Consensus in Steem
+## Konsensus w Steem
 
-Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+Koncepcyjnie, algorytm konsensusu zaadoptowany przez platformę Steem jest podobny do algorytmu wdrożonego przez różne firmy z całego świata. Osoby, które posiadają udziały w platformie Steem głosują, aby wybrać jednostki, które będą odpowiedzialne za włączanie treści do rejestru publicznego. W głosowaniu liczy się waga głosu, która jest proporcjonalna do udziałów nabytych przez daną osobę.
 
-In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
+W świecie kryptowalut ów publiczny rejestr znany jako *blockhain*, czyli łańcuch bloków. *Blokiem* określa się wtedy grupę zatwierdzonych transakcji.
 
 With Steem, block production is done in rounds. Each round 21 witnesses are selected to create and sign blocks of transactions. Nineteen (19) of these witnesses are selected by approval voting, one is selected by a computational proof-of-work, and one is timeshared by every witness that didn't make it into the top 19 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before.
 
