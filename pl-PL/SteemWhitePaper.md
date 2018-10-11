@@ -344,7 +344,7 @@ Poniższy pseudokod opisuje sposób obliczania wartości dowodu pracy:
 
 ### Odporny na Botnet
 
-Many proof of work coins end up being mined by botnets. A botnet is a collection of thousands or millions of machines that have been compromised by hackers. These hackers steal the computational and electrical resources of compromised machines to mine cryptocurrency tokens.
+Wiele monet udowadniających pracę jest ostatecznie wydobywanych przez botnety. Botnet to zbiór tysięcy lub milionów komputerów, które zostały zaatakowane przez hakerów. Ci hakerzy kradną zasoby obliczeniowe i elektryczne zainfekowanych komputerów, aby wydobywać tokeny kryptowaluty.
 
 Steem has many properties that prevent these computational thieves from profiting. Botnet operators are profit seeking enterprises and typically sell their stolen resources to the highest bidder. This means that those who utilize a botnet pay for the computational power in the same way that someone who uses Amazon EC2 does. The vesting requirement of Steem means that the capital spent on buying the resources of the botnet will be tied up for a long period of time during which the operator is exposed to price volatility.
 
