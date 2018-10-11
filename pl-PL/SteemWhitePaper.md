@@ -323,9 +323,9 @@ Trudność dowodu pracy podwaja się za każdym razem, gdy długość kolejki ro
 
 ### Nagrody Wydobywcze wymagają Steem Power
 
-Po pierwszym miesiącu wydobywający Steem otrzymują wynagrodzenie w Steem Power (SP). SP zostaje zlikwidowany przez dwuletni proces "wyłączania". This means that miners must wait for a long time, likely many months, before sufficient mining rewards have been powered down to allow them to recover the cost of electricity and computational resources. The powering down process discourages creation of mining pools because the pool operator would have to spread payouts over years.
+Po pierwszym miesiącu wydobywający Steem otrzymują wynagrodzenie w Steem Power (SP). SP zostaje zlikwidowany przez dwuletni proces "wyłączania". Oznacza to, że wydobywający muszą czekać długo, prawdopodobnie wiele miesięcy, zanim wystarczające nagrody wydobywcze zostaną wyłączone, aby umożliwić im odzyskanie kosztów energii elektrycznej i zasobów obliczeniowych. Proces wyłączania zniechęca do tworzenia pul wydobywczych, ponieważ operator puli musiałby rozłożyć wypłaty na wiele lat.
 
-The effect of paying mining rewards in SP is to prevent miners from using today's price to determine the pro tability of mining. Few people will agree on what the future price will be. This means mining difficulty will be driven by those who place the highest estimate on future value. Miners without a long-term interest in the platform will be discouraged from competing. Ultimately this means that the proceeds of mining are less likely to be dumped on the market because they will accrue to long-term believers in the platform.
+Efektem wypłacania nagród wydobywczych w SP jest zapobieganie wykorzystywaniu przez wydobywających ceny z danego dnia do określenia zdolności wydobywczych. Niewiele osób zgodzi się co do przyszłej ceny. Oznacza to, że trudności z wydobyciem będą napędzane przez tych, którzy szacują najwyższą wartość na przyszłość. Miners without a long-term interest in the platform will be discouraged from competing. Ultimately this means that the proceeds of mining are less likely to be dumped on the market because they will accrue to long-term believers in the platform.
 
 ### Mining Algorithm
 
