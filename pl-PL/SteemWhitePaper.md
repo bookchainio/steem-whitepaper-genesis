@@ -329,20 +329,20 @@ Efektem wypłacania nagród wydobywczych w SP jest zapobieganie wykorzystywaniu 
 
 ### Algorytm Wydobywczy
 
-Algorytm wydobywczy przyjęty przez Steema wymaga od górnika dostępu do prywatnego klucza konta, które otrzyma nagrody. This requirement has several important consequences. First it encourages optimization of elliptic curve signature verification algorithms needed by Steem. Second it makes it challenging to set up mining pools because the pool operator would have to share control over the reward with all of the "anonymous" miners. Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
+Algorytm wydobywczy przyjęty przez Steema wymaga od górnika dostępu do prywatnego klucza konta, które otrzyma nagrody. Wymóg ten ma kilka ważnych konsekwencji. Po pierwsze zachęca do optymalizacji algorytmów weryfikacji podpisu krzywej eliptycznej, wymaganych przez Steema. Po drugie utrudnia to tworzenie puli wydobywczych, ponieważ operator puli musiałby współdzielić kontrolę nad nagrodą ze wszystkimi "anonimowymi" wydobywającymi. Po trzecie, utrudnia korzystanie z botnetów, ponieważ operator botnetu musiałby rozdać swój klucz prywatny wszystkim zagrożonym komputerom.
 
-The following pseudocode describes how the proof-of-work hash value is calculated:
+Poniższy pseudokod opisuje sposób obliczania wartości dowodu pracy:
 
-    Let H    = Head Block ID
+    Let H    = IDENTYFIKATOR Nadrzędnego Bloku
     Let H2   = SHA256(H + NONCE)
-    Let PRI  = Producer Private Key
-    Let PUB  = Producer Public Key
-    Let S    = SIGN(PRI, SHA256(H))
-    Let K    = RECOVER_PUBLIC_KEY(H2, S)
+    Let PRI  = Wytwórca Klucz Prywatny
+    Let PUB  = Wytwórca Klucz Publiczny
+    Let S    = PODPIS (PRI, SHA256(H))
+    Let K    = ODZYSKAJ_KLUCZ_PUBLICZNY(H2, S)
     Let POW  = SHA256(K)
     
 
-### Botnet Resistant
+### Odporny na Botnet
 
 Many proof of work coins end up being mined by botnets. A botnet is a collection of thousands or millions of machines that have been compromised by hackers. These hackers steal the computational and electrical resources of compromised machines to mine cryptocurrency tokens.
 
