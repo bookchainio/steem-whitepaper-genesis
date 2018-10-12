@@ -378,22 +378,22 @@ Fundamentalnym problemem naliczania opłat transakcyjnych jest to, że mikropła
 
 Wyobraźcie sobie sytuację, w której serwisy, z których codziennie korzystamy, naliczałyby opłaty za każdym razem, gdy podejmujemy jakąś akcję, np. zmieniamy hasło. Użytkownicy oczekują, że pewne rzeczy pozostaną darmowe. Jeśli użytkownik musi za każdym razem zastanawiać się, czy podjęcie danego działania jest warte poniesienia kosztu, szybko opuści platformę.
 
-> A transaction can't be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
+> Transakcja nie może być równocześnie warta tak wiele, by użytkownik musiał się zastanawiać, czy warto ją podjąć, a zarazem na tyle mało, aby mogła być ona podejmowana automatycznie. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
 > Micropayments, like all payments, require a comparison: "Is this much of X worth that much of Y?" There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
 > 
-> *- Clay Shirky[^8]*
+> *– Clay Shirky[^8]*
 
-W świecie płatności finansowych wprowadzenie opłat o niskiej wysokości jest akceptowane przez kupujących, ponieważ wartość transakcji jest bardzo wysoka w stosunku do naliczanej opłaty, a oni sami podjęli już decyzję kupna. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+W świecie płatności finansowych wprowadzenie opłat o niskiej wysokości jest akceptowane przez kupujących, ponieważ wartość transakcji jest bardzo wysoka w stosunku do naliczanej opłaty, a oni sami podjęli już decyzję kupna. Technologia blockchain może być wykorzystywana do wielu celów poza prostymi płatnościami finansowymi, wliczając w to wiele niezbędnych transakcji, za które opłaty są po prostu nie do zaakceptowania dla użytkowników.
 
-Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn't matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
+Systemy takie jak BitShares, Nxt, Ripple, Counter Party, czy Stellar pozwalają użytkownikom na umieszczenie limitu zamówień w blockchainie. Wszystkie z tych serwisów obciążają użytkowników opłatą za dokonanie tych akcji. Jeśli użytkownik później chce anulować swoje zamówienie, opłata jest pobierana ponownie. Systemy takie jak Ethereum wprowadzają mikropłatności na zupełnie nowy poziom: naliczanie opłat transakcyjnych w oparciu o liczbę kalkulacji. Wszystkie te systemy mają kłopot, aby przyciągnąć nowych użytkowników z innych środowisk. Aby unaocznić sobie źródła tego problemu, możemy wyobrazić sobie sytuację, w której małe, zdecentralizowane wyszukiwarki, usiłują jednocześnie ukraść użytkowników Google'a i wprowadzić opłaty za wyszukiwanie. Nieważne jak dobry jest serwis, ludzie oczekują, że pewne rzeczy pozostaną darmowe. This is true even if a user ends up paying more overall under a different fee structure.
 
-### Fees are a Barrier to Entry
+### Opłaty są progiem wejścia
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Każda opłata tworzy próg wejścia dla nowych użytkowników. Zanim dana osoba zacznie eksperymentować z Ethereum, musi najpierw nabyć trochę tokenów ETH. Osoba, która chce zbudować zdecentralizowaną aplikację opartą na Ethereum, musi ponieść koszty związane z prowadzeniem platformy na użytkowników. Kupno kryptowalut nie jest relatywnie łatwym zadaniem i rzadko kiedy ma sens dla kwot poniżej 10$. Oznacza to, że świeży użytkownicy, chcący wypróbować nową zdecentralizowaną aplikację, muszą najpierw zostać przekonani, że warto ją wesprzeć kwotą 10$.
 
-### Changing Fees
+### Zmiana wysokości opłat
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Z biegiem czasu sieci muszą dostosować wysokość opłat. Taka konieczność może zaistnieć z powodu wzrostu wartości żetonu lub ze względu powiększenia pojemności sieci. Użytkownicy lubią, kiedy opłaty są przewidywalne, zaś usługi świadczone przez dany serwis mają charakter stały. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
 
 ### Sybil Attacks
 
