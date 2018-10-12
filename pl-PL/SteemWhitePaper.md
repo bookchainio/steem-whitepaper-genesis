@@ -161,7 +161,7 @@ Szybka zmiana wartości STEEM może znacząco zmienić stosunek długu do własn
 
 ### Udział
 
-SBD wypłaca posiadaczom udziały. Wysokość udziałów jest determinowana przez tych samych ludzi, który publikują cenę kursu. W ten sposób są one dostosowane do kondycji rynku. Każdy dług niesie za sobą ryzyko dla wierzyciela. Ktoś, kto trzyma SBD bez jego wypłacenia czy zamiany, tak naprawdę pożycza społeczności sumę, której wartość odpowiada jednemu dolarowi. Właściciele SBD wierzą w to, że zawsze znajdzie się ktoś, kto będzie chciał od nich kupić SBD za dolara. Wierzą też w to, że pojawią się spekulanci i inwestorzy, którzy zechcą odkupić od nich STEEM, na który zamienili swoje SBD.
+SMD wypłaca udziały posiadaczy. Wysokość udziałów jest determinowana przez tych samych ludzi, który publikują cenę kursu. W ten sposób są one dostosowane do kondycji rynku. Każdy dług niesie za sobą ryzyko dla wierzyciela. Ktoś, kto trzyma SBD bez jego wypłacenia czy zamiany, tak naprawdę pożycza społeczności sumę, której wartość odpowiada jednemu dolarowi. Właściciele SBD wierzą w to, że zawsze znajdzie się ktoś, kto będzie chciał od nich kupić SBD za dolara. Wierzą też w to, że pojawią się spekulanci i inwestorzy, którzy zechcą odkupić od nich STEEM, na który zamienili swoje SBD.
 
 Posiadacze STEEM oraz SP zdobywają przewagę, kiedy członkowie społeczności wolą trzymać SBD w portfelu niż je sprzedawać. To właśnie dzięki temu przekonaniu można ciągnąć coraz większe zyski z platformy. Jest to zarazem podstawa jej rozwoju. Posiadacze STEEM ponoszą stratę w momencie, kiedy ceny waluty spadają. Projekty kryptowalut pokazały, że zyski z powiększania bazy użytkowników chcących zaufać sieci kapitałem, ostatecznie dodają więcej wartości do sieci niż jakiekolwiek rozcieńczenie, które może wystąpić w czasie spowolnienia.
 
@@ -185,7 +185,7 @@ Zakładając, że wartość STEEM rośnie szybciej niż platforma Steem tworzy n
 
 W efekcie, wytwórcom kursu powierzona jest odpowiedzialność za ustalenie polityki monetarnej mającej na celu utrzymania stabilnego kursu SBD w stosunku do USD. Nadużycie tej mocy może zaszkodzić wartości STEEM, więc posiadacze SP powinni głosować na świadków, na których można liczyć w kwestii dostosowania wartości kursu i stóp procentowych zgodnie z zasadami opisanymi powyżej.
 
-Jeżeli współczynnik długu do własności zaczyna osiągać niebezpiecznie wysoki poziom a członkowie rynku unikają wymian, kurs po którym STEEM jest wypłacany za wymianę SBD powinien zostać zwiększony.
+Jeżeli współczynnik długu do własności zaczyna osiągać niebezpiecznie wysoki poziom a członkowie rynku unikają wymian, kurs powinien zostać dostosowany, by zwiększyć stawkę, według której STEEM jest wypłacany za wymianę SMD.
 
 Zmiana polityki wydawania udziałów i/lub jakiekolwiek inne premie/przeceny na rynku STEEM/SBD powinny być powolne i mierzone pod kątem możliwych długoterminowych zysków lub długofalowych przeobrażeń sytuacji. Nie powinny one być reakcją na krótkoterminowe zmiany warunków rynku. Blockchain płaci tym, którzy zapewniają płynność, za ich usługi w zakresie zaspokajania krótkoterminowych wymagań.
 
