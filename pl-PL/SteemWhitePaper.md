@@ -329,7 +329,7 @@ Efektem wypłacania nagród wydobywczych w SP jest zapobieganie wykorzystywaniu 
 
 ### Algorytm Wydobywczy
 
-Algorytm wydobywczy przyjęty przez Steema wymaga od kopającego walutę dostępu do prywatnego klucza konta, które otrzyma nagrody. Wymóg ten ma kilka ważnych konsekwencji. Po pierwsze, zachęca do optymalizacji algorytmów weryfikacji podpisu krzywej eliptycznej, wymaganych przez Steema. Po drugie, utrudnia to tworzenie puli wydobywczych, ponieważ operator puli musiałby współdzielić kontrolę nad nagrodą ze wszystkimi "anonimowymi" wydobywającymi. Po trzecie, utrudnia korzystanie z botnetów, ponieważ operator botnetu musiałby rozdać swój klucz prywatny wszystkim zagrożonym komputerom.
+Algorytm wydobywczy przyjęty przez Steema wymaga od górnika dostępu do prywatnego klucza konta, które otrzyma nagrody. Wymóg ten ma kilka ważnych konsekwencji. Po pierwsze, zachęca do optymalizacji algorytmów weryfikacji podpisu krzywej eliptycznej, wymaganych przez Steema. Po drugie, utrudnia to tworzenie puli wydobywczych, ponieważ operator puli musiałby współdzielić kontrolę nad nagrodą ze wszystkimi "anonimowymi" wydobywającymi. Po trzecie, utrudnia korzystanie z botnetów, ponieważ operator botnetu musiałby rozdać swój klucz prywatny wszystkim zagrożonym komputerom.
 
 Poniższy pseudokod opisuje sposób obliczania wartości dowodu pracy:
 
@@ -356,7 +356,7 @@ Bardziej opłacalnym i mniej ryzykownym dla operatorów botnetów powinno być w
 
 ### Odporny na pule wydobywcze
 
-Wydobywający mają łącznie 3 sekundy na otrzymanie bloku, rozwiązanie dowodu pracy i przekazanie transakcji do następnego wytwórcy bloku. Znaczna część tego czasu będzie składać się z opóźnień sieciowych, kluczowym jest więc, aby wydobywający byli dobrze połączeni z siecią w celu jak najlefektywniejszego wykorzystania swoich zasobów obliczeniowych.
+Wydobywający mają łącznie 3 sekundy na otrzymanie bloku, rozwiązanie dowodu pracy i przekazanie transakcji do następnego wytwórcy bloku. Znaczna część tego czasu będzie składać się z opóźnień sieciowych, kluczowym jest więc, aby wydobywający byli dobrze połączeni z siecią w celu jak najefektywniejszego wykorzystania swoich zasobów obliczeniowych.
 
 Ze względu na ciągle zmieniający się blok nadrzędny i opóźnienie sieci, przekazywanie szablonu do wydobywania określonego bloku do uczestników puli wydobywczej powoduje dodatkowe opóźnienia i znacząco zmniejsza efektywność wydobycia.
 
