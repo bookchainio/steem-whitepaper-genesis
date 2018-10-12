@@ -267,7 +267,7 @@ Ten wykres pokazuje, jak zmienia się okres ważności głosowania w odpowiedzi 
 
 ![](\img_the_new_marketplace.png)
 
-Jednym z głównych celów systemu wynagrodzeń platformy Steem jest inspirowanie do prowadzenia wysokiej jakości dyskusji w Internecie. Każdego roku 10% kapitalizacji rynkowej Steem jest dystrybuowane do użytkowników tworzących, głosujących i dyskutujących nad treścią. Gdyby sieć osiągnęła wielkość porównywalną do Bitcoina, mogłoby to doprowadzić do wypła wynagrodzeń w kwocie opiewającej na 1.75 mln$ na dzień. Pieniądze te otrzymywałyby osoby, które wnoszą największy wkład w rozwój platformy.
+Jednym z głównych celów systemu wynagrodzeń platformy Steem jest inspirowanie do prowadzenia wysokiej jakości dyskusji w Internecie. Każdego roku 10% kapitalizacji rynkowej Steem jest dystrybuowane do użytkowników tworzących, głosujących i dyskutujących nad treścią. Gdyby sieć osiągnęła wielkość porównywalną do Bitcoina, mogłoby to doprowadzić do wypłat wynagrodzeń w kwocie opiewającej na 1.75 mln$ na dzień. Pieniądze te otrzymywałyby osoby, które wnoszą największy wkład w rozwój platformy.
 
 Aktualna dystrybucja będzie zależeć od schematu głosowania użytkowników. Wydaje nam się jednak, że większość nagród będzie dzielona między najbardziej popularne wpisy. Steem waży wypłaty proporcjonalne do \\(n^{2}\\) wysokości głosującej Mocy Steem dla postu. Innymi słowy, post x otrzymałby wypłatę proporcjonalną do:
 
@@ -291,7 +291,7 @@ Ta struktura motywująca zachęca ludzi do wnoszenia wkładu w sposób, który m
 
 ### Wypłaty
 
-Nagroda za post przyjmuje formę wypłaty 50% wynagrodzenia w SBD oraz drugich 50% w SP. Steem Power daje użytkownikowi zwiększoną siłę głosu oraz transakcji, podczas gdy SBD natychmiastowy zysk pod postacią stabilnej waluty. Zgodnie z tym, o czym dyskutowaliśmy wcześniej, SP zostało tak zaprojektowane, aby zachęcać do długofalowego posiadania, a nie do szybkiej odsprzedaży.
+Nagroda za post przyjmuje formę wypłaty 50% wynagrodzenia w SBD oraz drugich 50% w SP. Steem Power daje użytkownikowi zwiększoną siłę głosu oraz transakcji, podczas gdy SBD natychmiastowy zysk pod postacią stabilnej waluty. Zgodnie z tym, o czym dyskutowaliśmy wcześniej, SP zostało zaprojektowane tak, aby zachęcać do jego długofalowego posiadania, a nie do szybkiej odsprzedaży.
 
 # Algorytm Konsensusu
 
@@ -319,7 +319,7 @@ Tradycyjny dowód pracy blokchains łączy wytwarzanie bloków z rozwiązywaniem
 
 W tym celu Steem oddziela wytwarzanie bloków od rozwiązywania dowodu pracy. Kiedy wydobywający rozwiązuje dowód pracy dla Steema, transakcja zawierająca tę pracę zostaje nagłośniona. Następny wyznaczony świadek włącza transakcję w strumień blockchain. Po uwzględnieniu transakcji wydobywający jest dodawany do kolejki wydobywających wyznaczonych do wytwarzania bloków. W każdej rundzie jeden wydobywający jest wybierany z kolejki i włączony do aktywnego zespołu świadków. Wydobywający otrzymuje zapłatę, gdy wytworzy blok w momencie, gdy jest on zaplanowany.
 
-Trudność dowodu pracy podwaja się za każdym razem, gdy długość kolejki rośnie o 4. Ponieważ jeden wydobywający jest wybierany z kolejki w każdej rundzie, a każda runda trwa 21 \ * 3 = 63 sekundy, trudność automatycznie zmniejsza się o połowę, jeśli nie znaleziono żadnego dowodu pracy w nie więcej niż 21 \ * 3 \ * 4 = 252 sekundy.
+Trudność dowodu pracy podwaja się za każdym razem, gdy długość kolejki rośnie o 4. Ponieważ jeden wydobywający jest wybierany (z kolejki) w każdej rundzie automatycznie, a każda runda trwa 21 \* 3 = 63 sekundy, trudność automatycznie zmniejsza się o połowę, jeśli nie znaleziono żadnego dowodu pracy w nie więcej niż 21 \* 3 \* 4 = 252 sekundy.
 
 ### Nagrody Wydobywcze wymagają Steem Power
 
@@ -329,7 +329,7 @@ Efektem wypłacania nagród wydobywczych w SP jest zapobieganie wykorzystywaniu 
 
 ### Algorytm Wydobywczy
 
-Algorytm wydobywczy przyjęty przez Steema wymaga od górnika dostępu do prywatnego klucza konta, które otrzyma nagrody. Wymóg ten ma kilka ważnych konsekwencji. Po pierwsze zachęca do optymalizacji algorytmów weryfikacji podpisu krzywej eliptycznej, wymaganych przez Steema. Po drugie utrudnia to tworzenie puli wydobywczych, ponieważ operator puli musiałby współdzielić kontrolę nad nagrodą ze wszystkimi "anonimowymi" wydobywającymi. Po trzecie, utrudnia korzystanie z botnetów, ponieważ operator botnetu musiałby rozdać swój klucz prywatny wszystkim zagrożonym komputerom.
+Algorytm wydobywczy przyjęty przez Steema wymaga od kopającego walutę dostępu do prywatnego klucza konta, które otrzyma nagrody. Wymóg ten ma kilka ważnych konsekwencji. Po pierwsze, zachęca do optymalizacji algorytmów weryfikacji podpisu krzywej eliptycznej, wymaganych przez Steema. Po drugie, utrudnia to tworzenie puli wydobywczych, ponieważ operator puli musiałby współdzielić kontrolę nad nagrodą ze wszystkimi "anonimowymi" wydobywającymi. Po trzecie, utrudnia korzystanie z botnetów, ponieważ operator botnetu musiałby rozdać swój klucz prywatny wszystkim zagrożonym komputerom.
 
 Poniższy pseudokod opisuje sposób obliczania wartości dowodu pracy:
 
