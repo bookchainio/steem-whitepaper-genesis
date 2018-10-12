@@ -346,15 +346,15 @@ Poniższy pseudokod opisuje sposób obliczania wartości dowodu pracy:
 
 Wiele monet udowadniających pracę jest ostatecznie wydobywanych przez botnety. Botnet to zbiór tysięcy lub milionów komputerów, które zostały zaatakowane przez hakerów. Ci hakerzy kradną zasoby obliczeniowe i elektryczne zainfekowanych komputerów, aby wydobywać tokeny kryptowaluty.
 
-Steem ma wiele funkcji, które uniemożliwiają czerpanie zysków przez tych hakerów. Operatorzy botnetu są przedsiębiorstwami nastawionymi na zysk i zazwyczaj sprzedają skradzione zasoby oferującemu najwyższą cenę. Oznacza to, że korzystający z botnetu płacą za moc obliczeniową w taki sam sposób jak ci, którzy używają Amazon EC2. The vesting requirement of Steem means that the capital spent on buying the resources of the botnet will be tied up for a long period of time during which the operator is exposed to price volatility.
+Steem ma wiele funkcji, które uniemożliwiają czerpanie zysków przez tych hakerów. Operatorzy botnetu są przedsiębiorstwami nastawionymi na zysk i zazwyczaj sprzedają skradzione zasoby oferującemu najwyższą cenę. Oznacza to, że korzystający z botnetu płacą za moc obliczeniową w taki sam sposób jak ci, którzy używają Amazon EC2. Wymóg nabycia uprawnień Steem oznacza, że kapitał wydany na zakup zasobów botnetu będzie zamrożony przez długi okres, w którym operator będzie narażony na wahania cen.
 
-Another way that botnet operators are prevented from profiting is the requirement to distribute the private key to all compromised machines. If even one compromised computer is discovered, the operator could lose their coins.
+Innym sposobem na powstrzymanie operatorów botnetu przed czerpaniem zysków jest wymóg dystrybucji klucza prywatnego na wszystkie zaatakowane komputery. Jeśli wykryje się nawet jeden zaatakowany komputer, operator może stracić swoje monety.
 
-The last mitigation is the dependency on latency. Most botnets are comprised of computers with poor internet connections, these slow Internet connections will dramatically reduce the effectiveness of the computational resource.
+Ostatnim osłabieniem jest zależność od opóźnienia. Większość botnetów składa się z komputerów o słabych łączach internetowych, a wolne łącza internetowe radykalnie zmniejszają wydajność zasobów obliczeniowych.
 
-It should be more profitable and less risky for botnet operators to use their resources for other activities than mining STEEM.
+Bardziej opłacalnym i mniej ryzykownym dla operatorów botnetów powinno być wykorzystywanie swoich zasobów do innych działań niż wydobywanie STEEM.
 
-### Mining Pool Resistant
+### Odporny na pule wydobywcze
 
 Miners have a total of 3 seconds to receive a block, solve the proof of work, and get the transaction to the next block producer. Much of this time will consist of network latency which means that it is critical for miners to be well connected to the network to make the most effective use of their computational resources.
 
