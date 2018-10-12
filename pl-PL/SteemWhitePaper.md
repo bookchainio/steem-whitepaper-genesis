@@ -185,7 +185,7 @@ Zakładając, że wartość STEEM rośnie szybciej niż platforma Steem tworzy n
 
 W efekcie, wytwórcom kursu powierzona jest odpowiedzialność za ustalenie polityki monetarnej mającej na celu utrzymania stabilnego kursu SBD w stosunku do USD. Nadużycie tej mocy może zaszkodzić wartości STEEM, więc posiadacze SP powinni głosować na świadków, na których można liczyć w kwestii dostosowania wartości kursu i stóp procentowych zgodnie z zasadami opisanymi powyżej.
 
-Jeżeli współczynnik długu do własności zaczyna osiągać niebezpiecznie wysoki poziom a członkowie rynku unikają wymian, kurs powinien zostać dostosowany, by zwiększyć stawkę, według której STEEM jest wypłacany za wymianę SMD.
+Jeżeli współczynnik długu do własności zaczyna osiągać niebezpiecznie wysoki poziom, a członkowie rynku unikają wymian, kurs po którym STEEM jest wypłacany za wymianę SBD powinien zostać zwiększony.
 
 Zmiana polityki wydawania udziałów i/lub jakiekolwiek inne premie/przeceny na rynku STEEM/SBD powinny być powolne i mierzone pod kątem możliwych długoterminowych zysków lub długofalowych przeobrażeń sytuacji. Nie powinny one być reakcją na krótkoterminowe zmiany warunków rynku. Blockchain płaci tym, którzy zapewniają płynność, za ich usługi w zakresie zaspokajania krótkoterminowych wymagań.
 
@@ -209,15 +209,15 @@ Aby każdy miał równą szansę zaangażowania się w tworzenie danej waluty or
 
 Piewszym krokiem jest nagrodzenie ludzi poprzez rozdysponowanie określonej ilości waluty pomiędzy użytkowników, niezależnie od ilości głosów które otrzymali, lub pracy którą wykonali. Zmienia to pytanie z *“Czy powinniśmy płacić?”* na *“Komu powinniśmy płacić?”* i daje rynkowi znać, że pieniądze są w dystrybucji i zostaną przekazane temu, który “wylicytuje” najwięcej *pracy*. Jest to w pewnym sensie podobne do przekazywania nagrody w wysokości 50 BTC temu, kto znajdzie najtrudniejszy hasz (z ang. hash). Podobnie jak przy Bitcoinie, cała praca musi zostać wykonana przed odebraniem nagrody. Nikt nie powinien otrzymać wypłaty tylko dlatego, że obieca wykonać pracę w przyszłości.
 
-Kolejnym krokiem jest nagradzanie każdego, kto robi cokolwiek, choćby nawet zdalnie pozytywnego, z *czymś*. Osiąga się to poprzez ocenę wykonanej pracy, a następnie rozdawanie nagród, których wartość jest proporcjonalna do wniesionego wkładu. Im bardziej rynek staje się konkurencyjny, tym trudniej (przez większą jakość lub ilość) zarobić tak samo wysoką nagrodę.
+Kolejnym krokiem jest nagradzanie każdego, kto robi cokolwiek *pozytywnego*. Osiąga się to poprzez ocenę wykonanej pracy, a następnie rozdawanie nagród, których wartość jest proporcjonalna do wniesionego wkładu. Im bardziej rynek staje się konkurencyjny, tym trudniej (przez większą jakość lub ilość) zarobić tak samo wysoką nagrodę.
 
 ### Głosowanie nad podziałem wynagrodzenia
 
-Załóżmy, że istnieje określona ilość pieniędzy do podziału i to właśnie te osoby, które posiadają interes w tym, aby dana waluta zyskiwała w przyszłości na wartości i użyteczności są tymi, którzy decydują, jak je rozdzielić. Każdy użytkownik z uprawnieniami oddaje głos na to, kto wykonał najlepszą pracę, a na koniec dnia dostępne pieniądze za ten dzień są podzielone proporcjonalnie do głosów, tak, że każdy, kto ma choćby jeden głos pozytywny, otrzymuje coś.
+Załóżmy, że istnieje określona ilość pieniędzy do podziału i to właśnie te osoby, które posiadają interes w tym, aby dana waluta zyskiwała w przyszłości na wartości i użyteczności są tymi, którzy decydują, jak je rozdzielić. Każdy użytkownik z uprawnieniami oddaje głos na to, kto wykonał najlepszą pracę, a na koniec dnia dostępne pieniądze za ten dzień są podzielone proporcjonalnie do głosów w taki sposób, że każdy kto ma choćby jeden pozytywny głos coś otrzymuje.
 
-Naiwny proces głosowania tworzy Dylemat Więźnia, w którym każdy indywidualny głosujący ma motywację do głosowania na siebie kosztem większego celu społeczności. Jeśli każdy głosujący popełni błąd, głosując na siebie, wtedy żadna waluta nie zostanie rozdzielona, a waluta w całości nie uzyska efektu sieci. Z drugiej strony, jeśli tylko jeden głosujący popełni błąd, wówczas ten głosujący wygrałby niezasłużone zyski, przy minimalnym wpływie na ogólną wartość waluty.
+Naiwny proces głosowania tworzy Dylemat Więźnia, w którym każdy indywidualny głosujący ma motywację do głosowania na siebie kosztem większego celu społeczności. Jeśli każdy głosujący popełni błąd, głosując na siebie, wtedy żadna waluta nie zostanie rozdzielona, a waluta w całości nie uzyska efektu sieci. Z drugiej strony, jeśli tylko jeden głosujący popełni błąd, wówczas ten głosujący dostałby niezasłużony zysk, przy minimalnym wpływie na ogólną wartość waluty.
 
-Aby wyrównać poziom motywacji i zniechęcić osoby do głosowania na siebie, pieniądze muszą być rozdzielane w sposób nieliniowy. Na przykład funkcja kwadratowa w głosowaniach, tj. osoba, która ma dwa razy więcej głosów niż ktoś inny, powinna otrzymać czterokrotność wypłaty, a osoba, która ma trzy razy więcej głosów, powinna otrzymać dziewięciokrotność wypłaty. Innymi słowy, nagroda jest proporcjonalna do \\ (głosów^{2}\\), a nie do *głosów*. Odzwierciedla to wartość efektu sieciowego, która rośnie wraz z liczbą \\(n^{2}\\) uczestników, zgodnie z prawem Metcalfe'a [^5].
+Aby wyrównać poziom motywacji i zniechęcić osoby do głosowania na siebie, pieniądze muszą być rozdzielane w sposób nieliniowy. Na przykład funkcja kwadratowa w głosowaniach, tj. osoba, która ma dwa razy więcej głosów niż ktoś inny, powinna otrzymać czterokrotność wypłaty, a osoba, która ma trzy razy więcej głosów, powinna otrzymać dziewięciokrotność wypłaty. Innymi słowy, nagroda jest proporcjonalna do \\(głosów^{2}\\), a nie do *głosów*. Odzwierciedla to wartość efektu sieciowego, który rośnie wraz z liczbą \\(n^{2}\\) uczestników, zgodnie z prawem Metcalfe'a [^5].
 
 Zakładając, że wszyscy użytkownicy mają równą stawkę, osoba, która otrzymuje tylko swój głos, otrzyma znacznie mniej, niż osoba która otrzyma głosy od 100 różnych użytkowników. Zachęca to użytkowników do *współpracy*, oraz do tego, aby głosować na te same sprawy, dzięki temu maksymalizując swoje wypłaty. System ten tworzy również motywację finansową w celu *zmowy*, gdzie wszyscy głosują na jedną sprawę, a następnie dzielą nagrodę równo między siebie.
 
@@ -229,7 +229,7 @@ Bez względu na to, ile pieniędzy ma dana osoba, zawsze jest wiele innych osób
 
 Na szczęście wszelkie prace, które uzyskują dużą koncentrację głosów, zyskują również największą kontrolę (rozgłos). Poprzez dodanie *negatywnego głosowania*możliwe jest, aby wielu mniejszych interesariuszy unieważniło moc głosującą grup zmawiających się lub dużych interesariuszy popełniających tenże błąd. Co więcej, więksi interesariusze mają więcej do stracenia, jeśli waluta straci na wartości z powodu nadużyć, niż mogliby uzyskać, głosując na siebie. W rzeczywistości, uczciwi interesariusze mogą być skuteczniejsi poprzez nadzorowanie nadużyć i stosowanie negatywnego głosowania niż w przypadku głosowaniu na mniejsze wkłady.
 
-Użycie *negatywnego głosowania *, aby powstrzymać ludzi od nadużywania systemu, wykorzystuje *krabią mentalność*, którą posiada wielu ludzi, gdy obserwuje się, że jedna osoba zarabia kosztem wszystkich innych. O ile krabia mentalność zwykle odnosi się do ludzi krótkowzrocznych, którzy działają na niekorzyść dobrych ludzi, pozwala ona podobnie dobrym ludziom powstrzymywać złych ludzi. Jedynym "problemem" krabiej mentalności jest, gdy ludzie *niesłusznie wierzą*, że ktoś zyskuje kosztem innych.
+Użycie *negatywnego głosowania *, aby powstrzymać ludzi od nadużywania systemu, wykorzystuje *krabią mentalność*, którą posiada wielu ludzi, gdy obserwuje się, że jedna osoba zarabia kosztem wszystkich innych. O ile krabia mentalność zwykle odnosi się do ludzi krótkowzrocznych, którzy działają na niekorzyść dobrych ludzi, pozwala ona podobnie dobrym ludziom powstrzymywać złych ludzi. Jedynym "problemem" krabiej mentalności jest gdy ludzie *niesłusznie wierzą*, że ktoś zyskuje kosztem innych.
 
 > #### Opowieść o Wiadrze Krabów[^6]
 > 
@@ -247,7 +247,7 @@ Celem budowy waluty społecznościowej jest zdobycie większej ilości "krabów 
 
 ### Głosowanie Limitowane Kursem
 
-Główną częścią minimalizującą nadużycia, jest limitowane kursem głosowanie. Indywidualni użytkownicy mogą w ciągu dnia przeczytać i ocenić tylko ograniczoną ilość wpisów. Próba głosowania częściej jest oznaką automatyzacji i potencjalnego nadużycia. Poprzez limitowanie stawki interesariusze głosujący częściej mają mniejszą liczbę głosów niż ci, którzy głosują rzadziej. Próby podziału żetonów pomiędzy wieloma kontami również dzielą wpływ i dlatego nie powodują wzrostu wpływów netto ani nie pomijają limitu stawki nałożonego na głosowanie.
+Głównym sposobem minimalizowania nadużyć jest limitowanie możliwości głosowania. Indywidualni użytkownicy mogą w ciągu dnia przeczytać i ocenić tylko ograniczoną ilość wpisów. Próba głosowania częściej jest oznaką automatyzacji i potencjalnego nadużycia. Poprzez limitowanie stawki interesariusze głosujący częściej mają mniejszą liczbę głosów niż ci, którzy głosują rzadziej. Próby podziału żetonów pomiędzy wieloma kontami również dzielą wpływ i dlatego nie powodują wzrostu wpływów netto ani nie pomijają limitu stawki nałożonego na głosowanie.
 
 ![](\img_voting_rate_limiting.png)
 
@@ -267,7 +267,7 @@ Ten wykres pokazuje, jak zmienia się okres ważności głosowania w odpowiedzi 
 
 ![](\img_the_new_marketplace.png)
 
-Jednym z głównych celów systemu wynagrodzeń platformy Steem jest inspirowanie do prowadzenia wysokiej jakości dyskusji w Internecie. Każdego roku 10% kapitalizacji rynkowej Steem jest dystrybuowane do użytkowników tworzących, głosujących i dyskutujących nad treścią. Gdyby sieć osiągnęła wielkość porównywalną do Bitcoina, mogłyby to doprowadzić do wypłaty wynagrodzeń w kwocie kilku milionów dolarów. Pieniądze te otrzymywałyby osoby, które wnoszą największy wkład w rozwój platformy.
+Jednym z głównych celów systemu wynagrodzeń platformy Steem jest inspirowanie do prowadzenia wysokiej jakości dyskusji w Internecie. Każdego roku 10% kapitalizacji rynkowej Steem jest dystrybuowane do użytkowników tworzących, głosujących i dyskutujących nad treścią. Gdyby sieć osiągnęła wielkość porównywalną do Bitcoina, mogłoby to doprowadzić do wypła wynagrodzeń w kwocie opiewającej na 1.75 mln$ na dzień. Pieniądze te otrzymywałyby osoby, które wnoszą największy wkład w rozwój platformy.
 
 Aktualna dystrybucja będzie zależeć od schematu głosowania użytkowników. Wydaje nam się jednak, że większość nagród będzie dzielona między najbardziej popularne wpisy. Steem waży wypłaty proporcjonalne do \\(n^{2}\\) wysokości głosującej Mocy Steem dla postu. Innymi słowy, post x otrzymałby wypłatę proporcjonalną do:
 
