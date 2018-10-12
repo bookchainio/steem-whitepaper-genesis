@@ -356,15 +356,15 @@ Bardziej opłacalnym i mniej ryzykownym dla operatorów botnetów powinno być w
 
 ### Odporny na pule wydobywcze
 
-Miners have a total of 3 seconds to receive a block, solve the proof of work, and get the transaction to the next block producer. Much of this time will consist of network latency which means that it is critical for miners to be well connected to the network to make the most effective use of their computational resources.
+Wydobywający mają łącznie 3 sekundy na otrzymanie bloku, rozwiązanie dowodu pracy i przekazanie transakcji do następnego wytwórcy bloku. Znaczna część tego czasu będzie składać się z opóźnień sieciowych, kluczowym jest więc, aby wydobywający byli dobrze połączeni z siecią w celu jak najlefektywniejszego wykorzystania swoich zasobów obliczeniowych.
 
-Because of the constantly changing head block and network latency, forwarding a template for mining a specific block to participants of a mining pool adds additional network latency and reduces efficiency of pooled mining significantly.
+Ze względu na ciągle zmieniający się blok nadrzędny i opóźnienie sieci, przekazywanie szablonu do wydobywania określonego bloku do uczestników puli wydobywczej powoduje dodatkowe opóźnienia i znacząco zmniejsza efektywność wydobycia.
 
-# Eliminating Transaction Fees
+# Eliminowanie Opłat Transakcyjnych
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Plaforma Steem dokłada wszelkich starań, by nagradzać ludzi przyczniających się do rozwoju platformy. Nakładanie opłat za każdym razem, kiedy ci chcieliby wejść w interakcję z innymi użytkownikami, byłoby nieefektywne.
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. Ten dokument nakreśla podejście platformy Steem do wyeliminowania opłat za transakcje. Zlikwidowanie opłat umożliwia z kolei tworzenie aplikacji, które wcześniej były nierentowne.
+W celu zapobieżenia spamowi, technologia blockchain oparta jest obecnie na opłatach transakcyjnych. Opłaty te powodują powstanie typowych problemów związanych z mikropłatnościami. To właśnie z ich powodu nie da się używać technologii blockchain do przeprowadzania transakcji, których wartość jest zbyt niska. Prawdziwie zdecentralizowane aplikacje muszą oferować użytkownikom możliwość darmowych transakcji, jeśli chcą one konkurować ze swoimi scentralizowanymi odpowiednikami. Ten dokument nakreśla podejście platformy Steem do wyeliminowania opłat za transakcje. Zlikwidowanie opłat umożliwia z kolei tworzenie aplikacji, które wcześniej były nierentowne.
 
 ## Problem z opłatami
 
