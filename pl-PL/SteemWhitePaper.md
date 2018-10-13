@@ -401,9 +401,9 @@ Scentralizowane strony internetowe zapobiegają nadużyciom znanym jako spam pop
 
 W zdecentralizowanym systemie nie ma bezpośredniej możliwości, aby zablokować użytkownika. Nie istnieje też scentralizowany dostawca, który mógłby wdrożyć system zabezpieczeń taki jak reCAPTCHA i ograniczyć ilość tworzonych kont. Tak naprawdę to właśnie brak cenzury jest jedną z głównych przyczyn popularności technologii blochain.
 
-### Full Reserve vs Fractional Reserve
+### Rezerwa Pełna kontra Rezerwa Ułamkowa
 
-Let's view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+Wyobraźmy sobie, że blockchain jest kooperatywnym dostawcą internetowym (ISP), który posiada wszystkie łącza w mieście i posiada maksymalną przepustowość, którą może udostępnić w każdej chwili. Mieszkańcy miasta mogą kupić udziały u dostawcy w zamian za prawo do użytkowania części tej przepustowości.
 
 The ISP has two choices, run a "full reserve" or "fractional reserve" system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town's network would be significantly underutilized.
 
