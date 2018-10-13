@@ -401,13 +401,13 @@ Scentralizowane strony internetowe zapobiegają nadużyciom znanym jako spam pop
 
 W zdecentralizowanym systemie nie ma bezpośredniej możliwości, aby zablokować użytkownika. Nie istnieje też scentralizowany dostawca, który mógłby wdrożyć system zabezpieczeń taki jak reCAPTCHA i ograniczyć ilość tworzonych kont. Tak naprawdę to właśnie brak cenzury jest jedną z głównych przyczyn popularności technologii blochain.
 
-### Rezerwa Pełna kontra Rezerwa Ułamkowa
+### Podział Pełny kontra Podział Ułamkowy
 
 Wyobraźmy sobie, że blockchain jest kooperatywnym dostawcą internetowym (ISP), który posiada wszystkie łącza w mieście i posiada maksymalną przepustowość, którą może udostępnić w każdej chwili. Mieszkańcy miasta mogą kupić udziały u dostawcy w zamian za prawo do użytkowania części tej przepustowości.
 
-The ISP has two choices, run a "full reserve" or "fractional reserve" system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town's network would be significantly underutilized.
+Dostawca może wprowadzić system “pełnego podziału” lub “częściowego podziału”. W systemie pełnego podziału każdy użytkownik jest tylko uprawniony do części maksymalnej przepustowości łacza, proporcjonalnie do posiadanej wielkości udziałów. Ponieważ nie każdy używa internetu w tym samym czasie, sieć miasta będzie znacząco marnować swój potencjał.
 
-Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+W systemie częściowego podziału, indywidualni użytkownicy mogliby wykorzystywać więcej przepustowości sieci - niż wynikałoby to z ich uprawnień na dany moment - tak długo, jak sieć nie jest wykorzystywana przez wszystkich użytkowników jednocześnie. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
 
 ## Bandwidth Instead of Micropayment Channels
 
