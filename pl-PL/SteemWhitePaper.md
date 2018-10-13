@@ -393,13 +393,13 @@ Każda opłata tworzy próg wejścia dla nowych użytkowników. Zanim dana osoba
 
 ### Zmiana wysokości opłat
 
-Z biegiem czasu sieci muszą dostosować wysokość opłat. Taka konieczność może zaistnieć z powodu wzrostu wartości żetonu lub ze względu powiększenia pojemności sieci. Użytkownicy lubią, kiedy opłaty są przewidywalne, zaś usługi świadczone przez dany serwis mają charakter stały. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Z biegiem czasu sieci muszą dostosować wysokość opłat. Taka konieczność może zaistnieć z powodu wzrostu wartości żetonu lub ze względu powiększenia pojemności sieci. Użytkownicy lubią, kiedy opłaty są przewidywalne, zaś usługi świadczone przez dany serwis mają charakter stały. Podczas gdy istnieje możliwość dynamicznego dostosowywania wysokości opłat podczas dużego obciążenia, rezultatem takiego rozwiązania jest niska jakość doświadczenia użytkownika.
 
-### Sybil Attacks
+### Atak Sybil
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA [^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+Scentralizowane strony internetowe zapobiegają nadużyciom znanym jako spam poprzez ograniczanie ilości zapytań oraz zastosowanie jakiejś formy identyfikacji. Nawet coś tak prostego jak reCAPTCHA [^9] jest wystarczającym środkiem do znacznego ograniczenia rejestracji fałszywych kont. Jeśli ktoś nadużywa system, scentralizowane strony internetowe mogą zablokować jego konto.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+W zdecentralizowanym systemie nie ma bezpośredniej możliwości, aby zablokować użytkownika. Nie istnieje też scentralizowany dostawca, który mógłby wdrożyć system zabezpieczeń taki jak reCAPTCHA i ograniczyć ilość tworzonych kont. Tak naprawdę to właśnie brak cenzury jest jedną z głównych przyczyn popularności technologii blochain.
 
 ### Full Reserve vs Fractional Reserve
 
