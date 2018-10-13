@@ -407,7 +407,7 @@ Wyobraźmy sobie, że blockchain jest kooperatywnym dostawcą internetowym (ISP)
 
 Dostawca może wprowadzić system “pełnego podziału” lub “częściowego podziału”. W systemie pełnego podziału każdy użytkownik jest tylko uprawniony do części maksymalnej przepustowości łacza, proporcjonalnie do posiadanej wielkości udziałów. Ponieważ nie każdy używa internetu w tym samym czasie, sieć miasta będzie znacząco marnować swój potencjał.
 
-W systemie częściowego podziału, indywidualni użytkownicy mogliby wykorzystywać więcej przepustowości sieci - niż wynikałoby to z ich uprawnień na dany moment - tak długo, jak sieć nie jest wykorzystywana przez wszystkich użytkowników jednocześnie. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+W systemie częściowego podziału, indywidualni użytkownicy mogliby wykorzystywać więcej przepustowości sieci - niż wynikałoby to z ich uprawnień na dany moment - tak długo, jak sieć nie jest wykorzystywana przez wszystkich użytkowników jednocześnie. Problemem w funkcjonowaniu podziału częściowego jest to, gdy zbyt wielu ludzi używa sieci w tym samym czasie, za każdym razem prowadzi to do przeciążenia. Dostawca internetowy (ISP) musi znaleźć sposób na dostosowanie przepustowości w momentach przeciążenia. W najgorszym przypadku, przeciążona sieć musi powrócić do systemu pełnego podziału. The challenge is setting the proper fractional reserve ratio.
 
 ## Bandwidth Instead of Micropayment Channels
 
