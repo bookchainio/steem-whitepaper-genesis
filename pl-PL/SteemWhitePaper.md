@@ -419,21 +419,21 @@ Sądzimy, że pomiar średniego tygodniowego wykorzystania przepustowości przez
 
 ### Wdrożenie Przykładu
 
-Let B equal a user's average bandwidth at time T. Let W equal the number of seconds per week, and let N equal the size of the new transaction that occurred S seconds after T. Given this information the blockchain can calculate the new average bandwidth for a user as:
+Niech B będzie równe średniej przepustowości użytkownika w czasie T. Niech W jest równe liczbie sekund na tydzień, i niech N równa się wielkości nowej transakcji, która wystąpiła S sekund po T. Biorąc pod uwagę tę informację, blockchain może obliczyć nową średnią szerokość pasma dla użytkownik jako:
 
-    Bnew = MIN(0,B * (W - S) / W) + N * S / W
-    Tnew = T + S
+    Bnowa = MIN (0, B * (W - S) / W) + N * S / W
+    Tnowy = T + S
     
 
-Each user is entitled to an average weekly bandwidth of:
+Każdy użytkownik ma prawo do następującej średniej tygodniowej przepustowości:
 
-    Let U = the user's SP
-    Let S = the total number of SP
-    Let R = the current reserve ratio between 1 and Rmax
-    Let C = the maximum block size capacity set by witnesses
-    Let L = the total blocks per week
-    Let M = C * L * R
-    Allocation = M * U / S
+    Niech U = SP użytkownika
+    Niech S = całkowita liczba SP
+    Niech R = aktualny współczynnik pomiędzy 1 a Rmax
+    Niech C = maksymalna przepustowość bloku ustanowiona przez świadków
+    Niech L = całkowita liczba bloków na tydzień
+    Niech M = C * L * R
+    Przydział = M * U / S
     
 
 A user would be entitled to an average bandwidth of M \* U / S. Any time a transaction would cause the user's average to go above this threshold they would be unable to transact until enough time passes to lower the average.
