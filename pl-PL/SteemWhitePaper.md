@@ -444,17 +444,17 @@ Minimalny współczynnik podziału wynosi 1, a maksymalny współczynnik podzia�
 
 ### Studium Przypadku: Bitcoin
 
-Aby zrozumieć, w jaki sposób algorytm ten zadziała na Bitcoinie, należy oszacować rozsądną wartość współczynnika podziału, R, w oparciu o rzeczywiste użycie. W oparciu o całkowitą podaż 15M BTC i dzienną wielkość transakcji wynoszącą 400K BTC [^10], możemy uzyskać współczynnik podziału minimalnego w wysokości 38 dla Bitcoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
+Aby zrozumieć, w jaki sposób algorytm ten zadziała na Bitcoinie, należy oszacować rozsądną wartość współczynnika podziału, R, w oparciu o rzeczywiste użycie. W oparciu o całkowitą podaż 15M BTC i dzienną wielkość transakcji wynoszącą 400K BTC [^10], możemy uzyskać współczynnik podziału minimalnego w wysokości 38 dla Bitcoin. Używając równań możemy obliczyć tygodniową przepustowość (w bajtach) dozwoloną na BTC wynoszącą:
 
-    Let C = 1MB = 1024 * 1024
-    Let L = 1008 (blocks per week)
-    Let R = 38
-    Let S = 14000000 BTC (supply minus Satoshi's unmoving coins)
-    Let U = 1 BTC
-    CLR/S = 2869 bytes per week, or about 5 transactions/week per BTC
+    Niech C = 1MB = 1024 * 1024 
+    Niech L = 1008 (bloków przez tydzień)
+    Niech R = 38
+    Niech S = 14000000 BTC (zaopatrzenie minus nieruchome monety Satoshiego)
+    Niech U = 1 BTC
+    CLR/S = 2869 bajtów przez tydzień lub około 5 transakcji/tydzień na BTC
     
 
-Since R = 38 is a lower bound on the reserve ratio, CLR/S is a lower bound on the permitted bandwidth. This simple case study suggests a user will require at most 0.20 BTC (over $80 as of this writing) to transact once per week. However, this is a loose upper bound derived from the assumption that all BTC are equally mobile. This is not the case - users with dozens or hundreds of bitcoins do not necessarily transact dozens or hundreds of times a week! The "leftover" transactions that those users "should" have made will increase the reserve ratio, allowing their unused bandwidth to be "recycled" for smaller users.
+Ponieważ R = 38 jest dolną granicą współczynnika podziału, CLR/S stanowi dolną granicę dla dozwolonej przepustowości. To proste studium przypadku sugeruje, że użytkownik będzie potrzebował co najwyżej 0,20 BTC (obecnie ponad 80 USD), aby przeprowadzać transakcje raz na tydzień. Jest to jednak luźna górna granica wynikająca z założenia, że wszystkie BTC są jednakowo mobilne. This is not the case - users with dozens or hundreds of bitcoins do not necessarily transact dozens or hundreds of times a week! The "leftover" transactions that those users "should" have made will increase the reserve ratio, allowing their unused bandwidth to be "recycled" for smaller users.
 
 All of the above estimates are conservative upper bounds assuming coins and usage are distributed in a relatively flat manner. The reality is that heavy users, such as exchanges, have a much higher coin-to-usage ratio than lighter users, which in turn means that actual minimum balance requirements are far lower.
 
