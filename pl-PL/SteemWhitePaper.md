@@ -438,13 +438,13 @@ Każdy użytkownik ma prawo do następującej średniej tygodniowej przepustowo�
 
 Użytkownik byłby uprawniony do średniej przepustowości M \ * U / S. Za każdym razem, gdy transakcja spowodowałaby, że średnia użytkownika przekroczyłaby ten próg, nie byłby on w stanie dokonywać transakcji, dopóki ta średnia nie zostanie obniżona w wystarczającym czasie.
 
-Sieć może zwiększyć wskaźnik podziału za każdym razem, gdy bloki są mniejsze niż połowa docelowej pojemności i zmniejszyć, gdy są większe niż połowa tej pojemności. The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
+Sieć może zwiększyć wskaźnik podziału za każdym razem, gdy bloki są mniejsze niż połowa docelowej pojemności i zmniejszyć, gdy są większe niż połowa tej pojemności. Algorytm służący do regulacji R ma na celu szybkie reagowanie w celu zmniejszenia współczynnika podziału w przypadku gwałtownego wzrostu popytu, przy jednoczesnym powolnym działaniu w celu zwiększenia współczynnika podziału w okresie niskiego popytu.
 
-The minimum reserve ratio is 1, and the maximum reserve ratio should be calculated to prevent small stakeholders from consuming all of the available bandwidth. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
+Minimalny współczynnik podziału wynosi 1, a maksymalny współczynnik podziału powinien zostać obliczony, aby uniemożliwić małym interesariuszom wykorzystanie całej dostępnej przepustowości. Jeśli nikt nie korzysta z dostępnej przepustowości, wtedy współczynnik podziału może rosnąć, dopóki użytkownik z tylko 1 satoshi waluty będzie w stanie przeprowadzać transakcje w każdym bloku.
 
-### Case Study: Bitcoin
+### Studium Przypadku: Bitcoin
 
-To understand how this algorithm would work on Bitcoin it is necessary to estimate a reasonable value for the reserve ratio, R, based on actual usage. Based upon the total supply of 15M BTC and a daily transaction volume of 400K BTC[^10], we can derive a minimum reserve ratio of 38 for Bitcoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
+Aby zrozumieć, w jaki sposób algorytm ten zadziała na Bitcoinie, należy oszacować rozsądną wartość współczynnika podziału, R, w oparciu o rzeczywiste użycie. W oparciu o całkowitą podaż 15M BTC i dzienną wielkość transakcji wynoszącą 400K BTC [^10], możemy uzyskać współczynnik podziału minimalnego w wysokości 38 dla Bitcoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
 
     Let C = 1MB = 1024 * 1024
     Let L = 1008 (blocks per week)
