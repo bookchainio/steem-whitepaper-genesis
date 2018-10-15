@@ -454,9 +454,9 @@ Aby zrozumieć, w jaki sposób algorytm ten zadziała na Bitcoinie, należy osza
     CLR/S = 2869 bajtów przez tydzień lub około 5 transakcji/tydzień na BTC
     
 
-Ponieważ R = 38 jest dolną granicą współczynnika podziału, CLR/S stanowi dolną granicę dla dozwolonej przepustowości. To proste studium przypadku sugeruje, że użytkownik będzie potrzebował co najwyżej 0,20 BTC (obecnie ponad 80 USD), aby przeprowadzać transakcje raz na tydzień. Jest to jednak luźna górna granica wynikająca z założenia, że wszystkie BTC są jednakowo mobilne. This is not the case - users with dozens or hundreds of bitcoins do not necessarily transact dozens or hundreds of times a week! The "leftover" transactions that those users "should" have made will increase the reserve ratio, allowing their unused bandwidth to be "recycled" for smaller users.
+Ponieważ R = 38 jest dolną granicą współczynnika podziału, CLR/S stanowi dolną granicę dla dozwolonej przepustowości. To proste studium przypadku sugeruje, że użytkownik będzie potrzebował co najwyżej 0,20 BTC (obecnie ponad 80 USD), aby przeprowadzać transakcje raz na tydzień. Jest to jednak luźna górna granica wynikająca z założenia, że wszystkie BTC są jednakowo mobilne. Tak nie jest w rzeczywistości - użytkownicy z dziesiątkami lub setkami bitcoinów niekoniecznie dokonują transakcji dziesiątki lub setki razy w tygodniu! "Niedokończone" transakcje, które użytkownicy "powinni" wykonać, zwiększy współczynnik podziału, pozwalając, aby ich niewykorzystana przepustowość została "poddana recyklingowi" dla mniejszych użytkowników.
 
-All of the above estimates are conservative upper bounds assuming coins and usage are distributed in a relatively flat manner. The reality is that heavy users, such as exchanges, have a much higher coin-to-usage ratio than lighter users, which in turn means that actual minimum balance requirements are far lower.
+Wszystkie powyższe szacunki są zachowawczymi górnymi granicami przy założeniu, że monety i użytkowanie są dystrybuowane w stosunkowo równy sposób. The reality is that heavy users, such as exchanges, have a much higher coin-to-usage ratio than lighter users, which in turn means that actual minimum balance requirements are far lower.
 
 #### Impact of Capacity
 
