@@ -456,11 +456,11 @@ Aby zrozumieć, w jaki sposób algorytm ten zadziała na Bitcoinie, należy osza
 
 Ponieważ R = 38 jest dolną granicą współczynnika podziału, CLR/S stanowi dolną granicę dla dozwolonej przepustowości. To proste studium przypadku sugeruje, że użytkownik będzie potrzebował co najwyżej 0,20 BTC (obecnie ponad 80 USD), aby przeprowadzać transakcje raz na tydzień. Jest to jednak luźna górna granica wynikająca z założenia, że wszystkie BTC są jednakowo mobilne. Tak nie jest w rzeczywistości - użytkownicy z dziesiątkami lub setkami bitcoinów niekoniecznie dokonują transakcji dziesiątki lub setki razy w tygodniu! "Niedokończone" transakcje, które użytkownicy "powinni" wykonać, zwiększy współczynnik podziału, pozwalając, aby ich niewykorzystana przepustowość została "poddana recyklingowi" dla mniejszych użytkowników.
 
-Wszystkie powyższe szacunki są zachowawczymi górnymi granicami przy założeniu, że monety i użytkowanie są dystrybuowane w stosunkowo równy sposób. The reality is that heavy users, such as exchanges, have a much higher coin-to-usage ratio than lighter users, which in turn means that actual minimum balance requirements are far lower.
+Wszystkie powyższe szacunki są zachowawczymi górnymi granicami przy założeniu, że monety i użytkowanie są dystrybuowane w stosunkowo równy sposób. Rzeczywistość jest taka, że poważniejsi użytkownicy, tacy jak giełdy, mają znacznie wyższy współczynnik wykorzystania gotówki niż użytkownicy mniej poważni, co z kolei oznacza, że faktyczne minimalne wymagania dotyczące równowagi są znacznie niższe.
 
-#### Impact of Capacity
+#### Wpływ Pojemności
 
-Blockchain capacity isn't necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second. This changes our conservative upper bound to 0.0006 BTC or about $0.25, meaning that an account holding $0.25 would be able to transact at least once per week on average (and likely many more times because we're dealing with a fairly loose upper bound).
+Pojemność technologii blockchain niekoniecznie musi być ograniczona. Infrastruktura Internetu jest technologicznie zdolna do zwiększenia wielkości bloku Bitcoin do wielkości 10MB, co będzie skutkowało 10-krotnym zmniejszeniem minimalnego wymagania dotyczącego równowagi. Podczas gdy Bitcoin wspiera obecnie około 3 transakcji na sekundę, jego alternatywne implementacje są zdolne obsługiwać ich ponad 1000. This changes our conservative upper bound to 0.0006 BTC or about $0.25, meaning that an account holding $0.25 would be able to transact at least once per week on average (and likely many more times because we're dealing with a fairly loose upper bound).
 
 #### Maximum Number of Unique Users
 
