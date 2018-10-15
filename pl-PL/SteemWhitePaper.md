@@ -468,11 +468,11 @@ Możemy użyć podobnych wyliczeń do ustalenia maksymalnej liczby unikalnych u�
 
 #### Porównanie z Opłatami
 
-Jeśli założymy, że użytkownik posiadający BTC o wartości 25 USD, dokonuje transakcji raz na tydzień i ponosi za każdym razem koszt w wysokości 0,04 centa, wówczas płaciliby ponad 2,00 USD rocznie. Wówczas, aby wyjść na zero, użytkownik musiałby zarobić 8% stopy zwrotu z tychże 25$. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Jeśli założymy, że użytkownik posiadający BTC o wartości 25 USD, dokonuje transakcji raz na tydzień i ponosi za każdym razem koszt w wysokości 0,04 centa, wówczas płaciliby ponad 2,00 USD rocznie. Wówczas, aby wyjść na zero, użytkownik musiałby zarobić 8% stopy zwrotu z tychże 25$. Istnieje szansa, że użytkownicy i tak zamierzali trzymać swoje środki wewnątrz blockchain, tak więc użytkownik posiadający BTC o wartości 25$ zaoszczędził 2$ w ciągu roku przez zaadoptowanie opcji ograniczenia stawki aniżeli opcji wolnej od opłat. Z kapitałem 175$ mogliby dokonywać transakcji codziennie i w ten sposób zaoszczędzić 14$ rocznie.
 
-### Account Creation
+### Tworzenie Konta
 
-Steem's account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+Oparty na kontach system Steem z upublicznionymi saldami upraszcza implementację algorytmu ograniczania przepustowości opartego na przepustowości. Każde konto z portfelem poniżej określonego minimum wymaganego do przeprowadzenia transakcji raz na tydzień będzie niezdolne do jakiegokolwiek działania. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
 
 It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by transferring a larger balance into the account.
 
