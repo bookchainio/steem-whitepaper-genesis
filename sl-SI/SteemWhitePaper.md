@@ -106,9 +106,9 @@ Steem dolarji so ustvarjeni z mehanizmom, podobnim konvertibilnim posojilom, ki 
 
 Steem dolarji so označeni s simbolom SMD, kar je kratica za Steem dolarje. Ustvarjanje SMD-jev zahteva kombinacijo zanesljivega vira cen, pravil za preprečitev zlorab in likvidnost. Zagotovitev zanesljivega vira cen zajema tri dejavnike: zmanjšanje učinka nepravilnega vira, povečanje stroška v povezavi z napačnim virom in zmanjšanje pomembnosti uporabe pravega trenutka.
 
-### Minimizing Fraudulent Feeds
+### Zmanjšanje lažnih virov
 
-SP holders elect individuals to publish price feeds. These elected individuals are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+Imetniki SP-ja izvolijo posameznike za objavljanje virov cen. Tem izvoljenim posameznikom domnevno zaupajo tisti, ki imajo večje naložbe in se zanimajo za kakovost vira. Steem s tem, da plačuje tistim, ki so izvoljeni, ustvarja tržno konkurenco - boj za pridobitev pravic za zagotavljanje virov. The more the feed producers are paid the more they have to lose by publishing false information.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
