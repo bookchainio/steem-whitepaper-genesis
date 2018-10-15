@@ -114,7 +114,7 @@ Ker obstaja večje število zanesljivih in izvoljenih zagotovljevalcev virov, se
 
 Tudi če so vsi zagotovljevalci virov pošteni, vseeno obstaja možnost, da na večino teh vplivajo dogodki, na katere ne morejo vplivati. Steem omrežje je oblikovano tako, da tolerira kratkoročne napake glede povprečne cene virov, medtem ko si skupnost aktivno prizadeva odpraviti težavo. Primer težave, ki utegne zahtevati nekaj časa za odpravo, je kratkoročna manipulacija trga. Manipulacijo trga je težko vzdževati in tudi veliko stane, če traja daljše obdobje. Drug primer bi bil odpoved centralizirane trgovalne platforme ali pa okvarjeni podatki, ki jih trgovalna platforma objavlja.
 
-Steem factors out short-term price fluctuations by using the median price over a period of one week. The median published feed is sampled every hour on the hour.
+Steem zgladi kratkotrajna nihanja cene, s tem da uporablja povprečno vrednost cene v razdobju enega tedna. Objavljena povprečna vrednost virov se osvežuje vsako uro točno ob polni uri.
 
 As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
