@@ -492,11 +492,11 @@ Utrzymywanie minimalnego salda jest faktycznie takie samo, jak pobieranie opłat
 
 Na szczęście wymagane minimalne saldo może wynosić nawet jednego dolara i jest to coś, co użytkownicy mogą zrozumieć i docenić. Możliwy koszt utraconych korzyści nie pociąga za sobą kosztów poznawczych mikroopłat i jest znacznie bardziej akceptowalny dla użytkowników.
 
-The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power).
+STEEM używany do prefinansowania konta jest włączony na nowym koncie (tj. konwertowany na Steem Power).
 
-### Adjusting the Reserve Ratio
+### Dostosowanie Współczynnika Podziału
 
-Rate limiting requires that the network adjust the reserve ratio quickly enough to mitigate the impact of an attacker attempting to ood the network. Let's assume the attacker has a large balance, say 1% of the available tokens. If we also assume that the network targets 50% utilization, then a sustained attack should find this user throttled to 25% of network capacity assuming everyone else is also using 25% of the capacity. Stated another way, the largest single user should never be able to consume more than 50% of the target capacity unless they own more than 50% of the SP.
+Ograniczanie stawki wymaga, aby sieć wystarczająco szybko dostosowała współczynnik podziału celem złagodzenia wpływ atakującego, próbującego przejąć sieć. Załóżmy, że atakujący ma duży balans, powiedzmy 1% dostępnych żetonów. Jeśli założymy również, że sieć ma na celu 50% wykorzystanie, to ciągły atak powinien zdusić użytkownika do 25% przepustowości sieci, zakładając zużycie na poziomie 25% pojemności również przez pozostałych użytkowników. Innymi słowy, największy pojedynczy użytkownik nie powinien nigdy mieć możliwości wykorzystania ponad 50% docelowej wydajności, chyba że posiada ponad 50% SP.
 
 Let's use an initial reserve ratio of 200x. Due to fractional reserves, this means someone holding 1% of the tokens has the right to demand transactions totalling 2x the maximum block size. In order to bring the network usage of the attacker down to 25% the reserve ratio would have to fall to 25x. This would cause the minimum balance required to transact once per week to grow by 8x.
 
