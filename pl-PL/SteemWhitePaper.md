@@ -464,9 +464,9 @@ Pojemność technologii blockchain niekoniecznie musi być ograniczona. Infrastr
 
 #### Maksymalna Liczba Unikalnych Użytkowników
 
-Możemy użyć podobnych wyliczeń do ustalenia maksymalnej liczby unikalnych użytkowników, z którymi sieć może przeprowadzać transakcje raz na tydzień, czyli: B \ * W / T. T reprezentuje średni rozmiar transakcji. This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
+Możemy użyć podobnych wyliczeń do ustalenia maksymalnej liczby unikalnych użytkowników, z którymi sieć może przeprowadzać transakcje raz na tydzień, czyli: B \ * W / T. T reprezentuje średni rozmiar transakcji. Oznacza to, że Bitcoin może obsługiwać około 2 milionów użytkowników przeprowadzających transakcje raz na tydzień, zakładając, że każdy użytkownik posiadałby równowagę.
 
-#### Comparison to Fees
+#### Porównanie z Opłatami
 
 If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
 
