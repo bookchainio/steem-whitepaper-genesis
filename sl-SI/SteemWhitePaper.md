@@ -116,7 +116,7 @@ Tudi če so vsi zagotovljevalci virov pošteni, vseeno obstaja možnost, da na v
 
 Steem zgladi kratkotrajna nihanja cene, s tem da uporablja povprečno vrednost cene v razdobju enega tedna. Objavljena povprečna vrednost virov se osvežuje vsako uro točno ob polni uri.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Vse dokler napaka v virih cene traja manj kot polovico časa, ki je potreben za določitev novega povprečja, bo to minimalno vplivalo na ceno pretvorbe. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
 With a one week window, community members have three and a half days to respond to any issues that come up.
 
