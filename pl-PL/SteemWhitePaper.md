@@ -486,11 +486,11 @@ Zmuszanie użytkownika do zachowania minimalnego salda na platformie wywodzi si�
 
 Ripple wykorzystuje minimalne saldo [^12], które skaluje się z wykorzystaniem zasobów kont i wymaga, aby nowe konta były posiadały przynajmniej takie minimalne saldo. Obecnie to minimalne saldo wynosi około 0,15 Usd, czyli jest wyższe niż 0,10 Usd, które według naszych oszacowań pozwalałoby komuś na swobodną transakcję przynajmniej raz w tygodniu.
 
-Technologia blockchain wymaga zachowania minimalnej wartości konta użytkownika poprzez wymaganie utrzymania minimalnego salda. Any business that wishes to bring a new customer to the blockchain can pre-fund that user's account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+Technologia blockchain wymaga zachowania minimalnej wartości konta użytkownika poprzez wymaganie utrzymania minimalnego salda. Każda firma, która chce wprowadzić nowego klienta do blockchain, może wstępnie asygnować konto tego użytkownika minimalnym saldem, co umożliwiłoby mu zawieranie transakcji. Wymaganie stosunkowo dużej opłaty (1,00 Usd) w celu rejestracji nowych użytkowników, w naturalny sposób zmusi oferujących bezpłatne konta do sprawdzenia jakości i unikalności każdego konta przed zarejestrowaniem go w blockchain.
 
-Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
+Utrzymywanie minimalnego salda jest faktycznie takie samo, jak pobieranie opłat za transakcje od odsetek, które mogliby zarobić na swoim saldzie. Minimalne saldo to po prostu równowaga wymagana do uzyskania wystarczającego oprocentowania, aby uiścić opłatę w stosunkowo krótkim czasie.
 
-Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn't incur the cognitive cost of a micro-fee and is far more acceptable to users.
+Na szczęście wymagane minimalne saldo może wynosić nawet jednego dolara i jest to coś, co użytkownicy mogą zrozumieć i docenić. Możliwy koszt utraconych korzyści nie pociąga za sobą kosztów poznawczych mikroopłat i jest znacznie bardziej akceptowalny dla użytkowników.
 
 The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power).
 
