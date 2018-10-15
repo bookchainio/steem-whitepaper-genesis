@@ -116,9 +116,9 @@ Tudi če so vsi zagotovljevalci virov pošteni, vseeno obstaja možnost, da na v
 
 Steem zgladi kratkotrajna nihanja cene, s tem da uporablja povprečno vrednost cene v razdobju enega tedna. Objavljena povprečna vrednost virov se osvežuje vsako uro točno ob polni uri.
 
-Vse dokler napaka v virih cene traja manj kot polovico časa, ki je potreben za določitev novega povprečja, bo to minimalno vplivalo na ceno pretvorbe. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Vse dokler napaka v virih cene traja manj kot polovico časa, ki je potreben za določitev novega povprečja, bo to minimalno vplivalo na ceno pretvorbe. V primeru, da se vir zares okvari, bodo udeleženci omrežja imeli priložnost izglasovati odstranitev zagotovljevalcev lažnih virov, še preden bi okvarjeni vir lahko vplival na dejansko ceno pretvorbe. Morda pa je še bolj pomembno to, da to daje zagotovljevalcem virov priložnost, da zaznajo in odstranijo težave, preden bi njihovi viri vplivali na ceno.
 
-With a one week window, community members have three and a half days to respond to any issues that come up.
+Enotedensko časovno okno pomeni, da imajo člani skupnosti tri dni in pol časa, da se odzovejo na katere koli nastale težave.
 
 ### Mitigating Timing Attacks
 
