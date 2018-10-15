@@ -472,17 +472,17 @@ Jeśli założymy, że użytkownik posiadający BTC o wartości 25 USD, dokonuje
 
 ### Tworzenie Konta
 
-Oparty na kontach system Steem z upublicznionymi saldami upraszcza implementację algorytmu ograniczania przepustowości opartego na przepustowości. Każde konto z portfelem poniżej określonego minimum wymaganego do przeprowadzenia transakcji raz na tydzień będzie niezdolne do jakiegokolwiek działania. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+Oparty na kontach system Steem z upublicznionymi saldami upraszcza implementację algorytmu ograniczania przepustowości opartego na przepustowości. Każde konto z portfelem poniżej określonego minimum wymaganego do przeprowadzenia transakcji raz na tydzień będzie niezdolne do jakiegokolwiek działania. Powoduje to, że wszystkie nowe konta powinny posiadać co najmniej ten minimalny balans. Oznacza to również, że użytkownicy, którzy chcą dokonywać transakcji w mniejszych ilościach, mogą to zrobić tak długo, jak używają konta, zaś stan ich portfela jest wyższy niż minimalny.
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by transferring a larger balance into the account.
+Można też wyobrazić sobie sytuację, w której konto o niskim saldzie założone podczas czasu niskiego obciążenia, stało się niezdatne do użytku w momencie wzrostu obciążenia sieci. Fundusze można odzyskać w dowolnym momencie, przenosząc większe saldo na konto.
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+Aby dać użytkownikowi czas na nabycie doświadczenia na platformie, jednocześnie minimalizując ilość martwych kont, wszyscy nowy użytkownicy powinni zaczynać z saldem dziesięciokrotnie większym niż minimum transakcyjne. Tym sposobem, nawet jeśli popyt wzrośnie dziesięciokrotnie, konto nadal będzie rentowne.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+Owe początkowe saldo musi wynikać z samego faktu założenia nowego konta. Nie może ono wymagać tworzenia nowych tokenów, ponieważ w innym wypadku skłaniałoby to do prób nadużywania platformy poprzez tworzenie dużych ilości fałszywych kont.
 
-### Justifying Minimum Balances
+### Uzasadnianie minimalnych sald
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^11] . Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+Zmuszanie użytkownika do zachowania minimalnego salda na platformie wywodzi się z konceptu wartości użytkownika[^11]. Każdy, kto ma styczność z biznesem, zdaje sobie sprawę, że każdy pojedynczy użytkownik ma znaczącą wartość. Firmy potrafią wydać od 30 do 200 Usd, by przyciągnąć do siebie użytkownika. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
 
 Ripple uses a minimum balance[^12] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
 
