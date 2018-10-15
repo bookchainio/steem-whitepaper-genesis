@@ -108,9 +108,9 @@ Steem dolarji so označeni s simbolom SMD, kar je kratica za Steem dolarje. Ustv
 
 ### Zmanjšanje lažnih virov
 
-Imetniki SP-ja izvolijo posameznike za objavljanje virov cen. Tem izvoljenim posameznikom domnevno zaupajo tisti, ki imajo večje naložbe in se zanimajo za kakovost vira. Steem s tem, da plačuje tistim, ki so izvoljeni, ustvarja tržno konkurenco - boj za pridobitev pravic za zagotavljanje virov. The more the feed producers are paid the more they have to lose by publishing false information.
+Imetniki SP-ja izvolijo posameznike za objavljanje virov cen. Tem izvoljenim posameznikom domnevno zaupajo tisti, ki imajo večje naložbe in se zanimajo za kakovost vira. Steem s tem, da plačuje tistim, ki so izvoljeni, ustvarja tržno konkurenco - boj za pridobitev pravic za zagotavljanje virov. Več ko so tisti, ki zagotavljajo vire, plačani, več izgubijo v primeru objavljanja lažnih informacij.
 
-Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+Ker obstaja večje število zanesljivih in izvoljenih zagotovljevalcev virov, se lahko dejanska cena, ki je v uporabi za pretvorbe, izpelje kot povprečna vrednost virov. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
 Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
 
