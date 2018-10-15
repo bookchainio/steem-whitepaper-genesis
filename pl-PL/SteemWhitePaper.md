@@ -460,11 +460,11 @@ Wszystkie powyższe szacunki są zachowawczymi górnymi granicami przy założen
 
 #### Wpływ Pojemności
 
-Pojemność technologii blockchain niekoniecznie musi być ograniczona. Infrastruktura Internetu jest technologicznie zdolna do zwiększenia wielkości bloku Bitcoin do wielkości 10MB, co będzie skutkowało 10-krotnym zmniejszeniem minimalnego wymagania dotyczącego równowagi. Podczas gdy Bitcoin wspiera obecnie około 3 transakcji na sekundę, jego alternatywne implementacje są zdolne obsługiwać ich ponad 1000. This changes our conservative upper bound to 0.0006 BTC or about $0.25, meaning that an account holding $0.25 would be able to transact at least once per week on average (and likely many more times because we're dealing with a fairly loose upper bound).
+Pojemność technologii blockchain niekoniecznie musi być ograniczona. Infrastruktura Internetu jest technologicznie zdolna do zwiększenia wielkości bloku Bitcoin do wielkości 10MB, co będzie skutkowało 10-krotnym zmniejszeniem minimalnego wymagania dotyczącego równowagi. Podczas gdy Bitcoin wspiera obecnie około 3 transakcji na sekundę, jego alternatywne implementacje są zdolne obsługiwać ich ponad 1000. To zmienia naszą zachowawczą górną granicę na 0,0006 BTC lub około 0,25 USD, a zatem konto o wartości 0,25 USD będzie mogło przeprowadzać transakcje średnio raz na tydzień (i prawdopodobnie więcej, ponieważ mamy do czynienia z dość luźną górną granicą).
 
-#### Maximum Number of Unique Users
+#### Maksymalna Liczba Unikalnych Użytkowników
 
-We can use similar math to calculate the maximum number of unique users that the network can allow to transact once per week as: B\*W/T. T represents the average transaction size. This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
+Możemy użyć podobnych wyliczeń do ustalenia maksymalnej liczby unikalnych użytkowników, z którymi sieć może przeprowadzać transakcje raz na tydzień, czyli: B \ * W / T. T reprezentuje średni rozmiar transakcji. This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
 
 #### Comparison to Fees
 
