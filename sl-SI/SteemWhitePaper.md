@@ -149,7 +149,7 @@ Uporabniki morajo zagotavljati likvidnost na obeh straneh naročil, da bi lahko 
 
 Vsako uro račun z največ likvidnostnimi točkami prejme 1200 STEEM-ov, nakar se njegove likvidnostne točke ponastavijo na 0. Računu, ki v enem tednu ne pridobi nobene likvidnostne točke, se te prav tako ponastavijo na 0. Torej, ne glede na to, ali v dolgem časovnem obdobju zagotavljate veliko količino likvidnosti ali pa majhno, vsakdo prejme sorazmerni del nagrad. Če je bodisi NetoKoličinaPonudbe bodisi NetoKoličinaPovpraševanja negativna, potem je vrednost LikvidnostnihTočk enaka 0.
 
-### Sustainable Debt to Ownership Ratios
+### Obstojna razmerja med dolgom in lastništvom
 
 If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
 
