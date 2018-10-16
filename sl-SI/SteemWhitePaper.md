@@ -130,11 +130,11 @@ Steem izniči takšno početje s tem, da zahteva, da se vse zahteve za pretvorbo
 
 Če bi lahko ljudje neomejeno trgovali v obe smeri, potem bi trgovalci lahko izkoristili menjalne tečaje blockchaina in izmenjevali velike količine brez spremembe cene. Trgovalci, ki bi zaznali velik porast cene, bi naredili pretvorbo v SMD pri visoki ceni (ko je tveganje največje) in potem pretvorili nazaj v STEEM po korekciji. Steem protokol ščiti skupnost pred tovrstno zlorabo, saj omogoča le pretvorbo iz SMD v STEEM, ne pa obratno.
 
-The blockchain decides how and when to create SMD and who should get it. This keeps the rate of SMD creation stable and removes most avenues of abuse.
+Blockchain se odloči, kako in kdaj bo ustvaril SMD-je in kdo bi jih moral prejeti. To ohranja stabilno stopnjo ustvarjanja SMD-jev in preprečuje večino možnosti zlorab.
 
-### Liquidity
+### Likvidnost
 
-Just because SMD can be converted to a dollars worth of STEEM at a fair price in a reasonable amount of time doesn't mean it will be viewed as a reliable dollar replacement. These assets require liquidity in a market that enables instantaneous conversion between STEEM and SMD. The measures a blockchain is forced to take to prevent abuse end up lowering the quality of the convertible dollars. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
+To, da se lahko SMD-je pretvori v STEEM glede na vrednost dolarja po ugodni ceni in v razumnem času, še ne pomeni, da se bo nanje gledalo kot na zanesljivo nadomestilo za dolar. These assets require liquidity in a market that enables instantaneous conversion between STEEM and SMD. The measures a blockchain is forced to take to prevent abuse end up lowering the quality of the convertible dollars. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
 
 A liquidity provider buys and sells SMD and STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
 
