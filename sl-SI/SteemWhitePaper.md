@@ -147,7 +147,7 @@ Uporabniki morajo zagotavljati likvidnost na obeh straneh naročil, da bi lahko 
       LikvidnostneTočke = NetoKoličinaPonudbe x NetoKoličinaPovpraševanja
     
 
-Vsako uro račun z največ likvidnostnimi točkami prejme 1200 STEEM-ov, nakar se njegove likvidnostne točke ponastavijo na 0. An account that goes a week without earning any LiquidityPoints also has its points reset to 0. This means that whether you provide a large amount of liquidity or a small amount over a long period of time everyone gets a proportional amount of the rewards. If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
+Vsako uro račun z največ likvidnostnimi točkami prejme 1200 STEEM-ov, nakar se njegove likvidnostne točke ponastavijo na 0. Računu, ki v enem tednu ne pridobi nobene likvidnostne točke, se te prav tako ponastavijo na 0. Torej, ne glede na to, ali v dolgem časovnem obdobju zagotavljate veliko količino likvidnosti ali pa majhno, vsakdo prejme sorazmerni del nagrad. Če je bodisi NetoKoličinaPonudbe bodisi NetoKoličinaPovpraševanja negativna, potem je vrednost LikvidnostnihTočk enaka 0.
 
 ### Sustainable Debt to Ownership Ratios
 
