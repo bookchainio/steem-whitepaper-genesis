@@ -140,14 +140,14 @@ Tisti, ki zagotavljajo likvidnost, kupujejo in prodajajo SMD in STEEM. Ti so pri
 
 Steem ima svojo blockchain trgovalno platformo za trgovanje med SMD in STEEM. Uporabniki so lahko nagrajeni za zagotavljanje likvidnosti na obeh straneh tega trga. Blockchain uporablja preprost algoritem za ocenjevanje vsakega uporabnika glede zagotavljanja in zmanjševanja likvidnosti.
 
-A user is considered a liquidity provider if they leave an open order on the books for at least 1 minute and the order is eventually filled. If the order is canceled before being filled then the user is not credited with providing liquidity.
+Uporabnik velja za takšnega, ki zagotavlja likvidnost, če pusti naročilo za menjavo odprto vsaj 1 minuto, in je naročilo naposled tudi izpolnjeno. Če uporabnik svoje naročilo prekliče, preden se to izpolni, potem ni nagrajen za zagotavljanje likvidnosti.
 
-Users must provide liquidity on both sides of the book to qualify for rewards and they must provide liquidity consistently over time. The scoring algorithm is:
+Uporabniki morajo zagotavljati likvidnost na obeh straneh naročil, da bi lahko ustrezali pogojem za nagrado, poleg tega morajo likvidnost zagotavljati dosledno skozi čas. Ocenjevalni algoritem je:
 
-      LiquidityPoints = NetBidVolume x NetAskVolume
+      LikvidnostneTočke = NetoKoličinaPonudbe x NetoKoličinaPovpraševanja
     
 
-Every hour the account with the most LiquidityPoints receives 1200 STEEM and then has its LiquidityPoints reset to 0. An account that goes a week without earning any LiquidityPoints also has its points reset to 0. This means that whether you provide a large amount of liquidity or a small amount over a long period of time everyone gets a proportional amount of the rewards. If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
+Vsako uro račun z največ likvidnostnimi točkami prejme 1200 STEEM-ov, nakar se njegove likvidnostne točke ponastavijo na 0. An account that goes a week without earning any LiquidityPoints also has its points reset to 0. This means that whether you provide a large amount of liquidity or a small amount over a long period of time everyone gets a proportional amount of the rewards. If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
 
 ### Sustainable Debt to Ownership Ratios
 
