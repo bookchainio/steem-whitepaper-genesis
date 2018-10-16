@@ -378,8 +378,8 @@ Fundamentalnym problemem naliczania opłat transakcyjnych jest to, że mikropła
 
 Wyobraźcie sobie sytuację, w której serwisy, z których codziennie korzystamy, naliczałyby opłaty za każdym razem, gdy podejmujemy jakąś akcję, np. zmieniamy hasło. Użytkownicy oczekują, że pewne rzeczy pozostaną darmowe. Jeśli użytkownik musi za każdym razem zastanawiać się, czy podjęcie danego działania jest warte poniesienia kosztu, szybko opuści platformę.
 
-> Transakcja nie może być równocześnie warta tak wiele, by użytkownik musiał się zastanawiać, czy warto ją podjąć, a zarazem na tyle mało, aby mogła być ona podejmowana automatycznie. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
-> Micropayments, like all payments, require a comparison: "Is this much of X worth that much of Y?" There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
+> Transakcja nie może być równocześnie warta tak wiele, by użytkownik musiał się zastanawiać, czy warto ją podjąć, a zarazem na tyle mało, aby mogła być ona podejmowana automatycznie. Decyzje zakupowe niosą ze sobą pewien lęk, bez względu na to, jak małe. Nie wynika to z zastosowanego interfejsu ani z wymaganego czasu, ale z samego aktu podejmowania decyzji.  
+> Mikropłatności, podobnie jak wszystkie płatności, wymagają porównania: "Czy obiekt X jest wart taką sumę Y?" Powoduje to minimalny mentalny koszt transakcji, którego nie można zoptymalizować, ponieważ jedyną transakcją akceptowalną przez użytkownika będzie ta, która nie kosztuje nic, co nie jest żadną transakcją.
 > 
 > *– Clay Shirky[^8]*
 
