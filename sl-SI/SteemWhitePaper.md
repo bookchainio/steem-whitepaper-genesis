@@ -124,11 +124,11 @@ Enotedensko časovno okno pomeni, da imajo člani skupnosti tri dni in pol časa
 
 Udeleženci trga imajo hitrejši dostop do informacij, kakor se lahko blockchainova enotedenska gibljiva povprečna cena pretvorbe odzove. Te informacije bi lahko trgovalci izkoristili v svoj prid na račun skupnosti. Če pride do nenadnega povečanja vrednosti STEEM-a, bi lahko trgovalci zahtevali pretvorbo njihovih SMD-jev po stari, nižji ceni in nato prodali prejeti STEEM po novi, višji ceni z minimalnim tveganjem.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for one week. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steem izniči takšno početje s tem, da zahteva, da se vse zahteve za pretvorbo odložijo za en teden. To pomeni, da niti trgovalci niti blockchain nimajo nobenih informacijskih prednosti glede cene v trenutku, ko se izvede pretvorba.
 
-### Minimizing Abuse of Conversions
+### Zmanjšanje zlorab v zvezi s pretvorbami
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SMD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SMD to STEEM and not the other way around.
+Če bi lahko ljudje neomejeno trgovali v obe smeri, potem bi trgovalci lahko izkoristili menjalne tečaje blockchaina in izmenjevali velike količine brez spremembe cene. Trgovalci, ki bi zaznali velik porast cene, bi naredili pretvorbo v SMD pri visoki ceni (ko je tveganje največje) in potem pretvorili nazaj v STEEM po korekciji. Steem protokol ščiti skupnost pred tovrstno zlorabo, saj omogoča le pretvorbo iz SMD v STEEM, ne pa obratno.
 
 The blockchain decides how and when to create SMD and who should get it. This keeps the rate of SMD creation stable and removes most avenues of abuse.
 
