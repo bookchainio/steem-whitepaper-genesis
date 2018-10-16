@@ -159,7 +159,7 @@ Zamisel, ki stoji za konzervativnim 5% razmerjem dolga proti lastništvu, je ta,
 
 Hitra sprememba vrednosti STEEM-a lahko dramatično spremeni razmerje dolga proti lastništvu. Procentualno območje, ki je uporabljeno pri ustvaritvi STEEM-a, je odvisno od zaloge, med drugim tudi od STEEM vrednosti vseh neporavnanih SMD-jev in SP-ja (kot je določeno po trenutnem razmerju / viru).
 
-### Interest
+### Obresti
 
 SMD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
