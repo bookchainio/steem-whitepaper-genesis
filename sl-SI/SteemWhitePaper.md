@@ -155,9 +155,9 @@ Vsako uro račun z največ likvidnostnimi točkami prejme 1200 STEEM-ov, nakar s
 
 Za vsak SMD, ki ga Steem ustvari, se ustvari tudi STEEM v vrednosti 19,00 USD, ki se nato pretvori v SP. To pomeni, da je na na stabilnem trgu najvišje možno razmerje dolga proti lastništvu 1:19 oziroma približno 5%. Če bi se vrednost Steema zmanjšala za 50%, potem bi se to razmerje lahko dvignilo na 10%. Padec steema za 88% bi lahko povzročil, da bi razmerje dolga proti lastništvu doseglo 40%. Ob predpostavki, da se bo vrednost STEEM-a sčasoma stabilizirala, se bo razmerje dolga proti lastništvu seveda zmanjšalo proti 5%.
 
-The idea behind having a conservative 5% debt to ownership ratio is that even if all debt were converted and sold there should be ample buyers and the effective dilution of the token holders remains relatively small.
+Zamisel, ki stoji za konzervativnim 5% razmerjem dolga proti lastništvu, je ta, da bi bilo tudi v primeru, da bi se ves dolg pretvoril in prodal, še vedno dovolj kupcev in bi tako bila dejanska razvodenitev pri lastnikih žetonov sorazmerno majhna.
 
-A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SMD and SP (as determined by the current rate / feed).
+Hitra sprememba vrednosti STEEM-a lahko dramatično spremeni razmerje dolga proti lastništvu. Procentualno območje, ki je uporabljeno pri ustvaritvi STEEM-a, je odvisno od zaloge, med drugim tudi od STEEM vrednosti vseh neporavnanih SMD-jev in SP-ja (kot je določeno po trenutnem razmerju / viru).
 
 ### Interest
 
