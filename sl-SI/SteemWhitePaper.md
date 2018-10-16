@@ -136,9 +136,9 @@ Blockchain se odloči, kako in kdaj bo ustvaril SMD-je in kdo bi jih moral preje
 
 To, da se lahko SMD-je pretvori v STEEM glede na vrednost dolarja po ugodni ceni in v razumnem času, še ne pomeni, da se bo nanje gledalo kot na zanesljivo nadomestilo za dolar. Ta sredstva zahtevajo likvidnost na trgu, ki omogoča takojšnjo pretvorbo med STEEM in SMD. Zaradi ukrepov, ki jih je blockchain prisiljen narediti, da bi se preprečila zloraba, se zmanjša kakovost zamenljivih dolarjev. Vendar lahko blockchain to izgubo kakovosti nadomesti s fiksno vrednostjo stroškov tistim, ki zagotavljajo likvidnost. Medtem ko so morebitne izgube zaradi manipulacij in zlorab neomejene, pa so stroški, povezani s spodbujanjem likvidnosti, lahko fiksni.
 
-Tisti, ki zagotavljajo likvidnost, kupujejo in prodajajo SMD in STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
+Tisti, ki zagotavljajo likvidnost, kupujejo in prodajajo SMD in STEEM. Ti so pripravljeni prevzeti večino kratkoročnih cenovnih tveganj in dolgoročnih tveganj, povezanih z viri, da lahko drugi udeleženci uživajo v trgovanju na visokokakovostnem in izjemno likvidnem trgu.
 
-Steem has an on-blockchain market between SMD and STEEM. Users can earn rewards by providing liquidity to both sides of this market. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
+Steem ima svojo blockchain trgovalno platformo za trgovanje med SMD in STEEM. Uporabniki so lahko nagrajeni za zagotavljanje likvidnosti na obeh straneh tega trga. Blockchain uporablja preprost algoritem za ocenjevanje vsakega uporabnika glede zagotavljanja in zmanjševanja likvidnosti.
 
 A user is considered a liquidity provider if they leave an open order on the books for at least 1 minute and the order is eventually filled. If the order is canceled before being filled then the user is not credited with providing liquidity.
 
