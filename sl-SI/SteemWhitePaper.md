@@ -134,9 +134,9 @@ Blockchain se odloči, kako in kdaj bo ustvaril SMD-je in kdo bi jih moral preje
 
 ### Likvidnost
 
-To, da se lahko SMD-je pretvori v STEEM glede na vrednost dolarja po ugodni ceni in v razumnem času, še ne pomeni, da se bo nanje gledalo kot na zanesljivo nadomestilo za dolar. These assets require liquidity in a market that enables instantaneous conversion between STEEM and SMD. The measures a blockchain is forced to take to prevent abuse end up lowering the quality of the convertible dollars. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
+To, da se lahko SMD-je pretvori v STEEM glede na vrednost dolarja po ugodni ceni in v razumnem času, še ne pomeni, da se bo nanje gledalo kot na zanesljivo nadomestilo za dolar. Ta sredstva zahtevajo likvidnost na trgu, ki omogoča takojšnjo pretvorbo med STEEM in SMD. Zaradi ukrepov, ki jih je blockchain prisiljen narediti, da bi se preprečila zloraba, se zmanjša kakovost zamenljivih dolarjev. Vendar lahko blockchain to izgubo kakovosti nadomesti s fiksno vrednostjo stroškov tistim, ki zagotavljajo likvidnost. Medtem ko so morebitne izgube zaradi manipulacij in zlorab neomejene, pa so stroški, povezani s spodbujanjem likvidnosti, lahko fiksni.
 
-A liquidity provider buys and sells SMD and STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
+Tisti, ki zagotavljajo likvidnost, kupujejo in prodajajo SMD in STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
 
 Steem has an on-blockchain market between SMD and STEEM. Users can earn rewards by providing liquidity to both sides of this market. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
 
