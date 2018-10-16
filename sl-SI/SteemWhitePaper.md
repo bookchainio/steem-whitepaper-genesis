@@ -120,9 +120,9 @@ Vse dokler napaka v virih cene traja manj kot polovico časa, ki je potreben za 
 
 Enotedensko časovno okno pomeni, da imajo člani skupnosti tri dni in pol časa, da se odzovejo na katere koli nastale težave.
 
-### Mitigating Timing Attacks
+### Ublažitev časovnih napadov
 
-Market participants have access to information faster than the blockchain's one week moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Udeleženci trga imajo hitrejši dostop do informacij, kakor se lahko blockchainova enotedenska gibljiva povprečna cena pretvorbe odzove. Te informacije bi lahko trgovalci izkoristili v svoj prid na račun skupnosti. Če pride do nenadnega povečanja vrednosti STEEM-a, bi lahko trgovalci zahtevali pretvorbo njihovih SMD-jev po stari, nižji ceni in nato prodali prejeti STEEM po novi, višji ceni z minimalnim tveganjem.
 
 Steem levels the playing field by requiring all conversion requests to be delayed for one week. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
