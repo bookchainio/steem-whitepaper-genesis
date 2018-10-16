@@ -161,7 +161,7 @@ Hitra sprememba vrednosti STEEM-a lahko dramatično spremeni razmerje dolga prot
 
 ### Obresti
 
-Lastniki SMD-ja prejemajo obresti. Obrestno mero določajo isti ljudje, ki objavljajo vir cen, tako da se lahko ta mera prilagaja spreminjajočim se tržnim razmeram. All debt carries risk to the lender. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+Lastniki SMD-ja prejemajo obresti. Obrestno mero določajo isti ljudje, ki objavljajo vir cen, tako da se lahko ta mera prilagaja spreminjajočim se tržnim razmeram. Ves dolg predstavlja tveganje za posojilodajalca. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
 STEEM and SP holders gain leverage when members of the community are willing to hold SMD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
