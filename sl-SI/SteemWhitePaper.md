@@ -163,9 +163,9 @@ Hitra sprememba vrednosti STEEM-a lahko dramatično spremeni razmerje dolga prot
 
 Lastniki SMD-ja prejemajo obresti. Obrestno mero določajo isti ljudje, ki objavljajo vir cen, tako da se lahko ta mera prilagaja spreminjajočim se tržnim razmeram. Ves dolg predstavlja tveganje za posojilodajalca. Tisti, ki ima v lasti SMD, ne da bi ga pretvoril, dejansko posoja skupnosti vrednost dolarja. Prepričani so, da bo v nekem trenutku v prihodnosti nekdo pripravljen kupiti SMD od njih za en dolar oziroma da bodo obstajali špekulanti in vlagatelji, ki bodo pripravljeni kupiti STEEM, v katerega bodo SMD pretvorili.
 
-Imetniki STEEM-a in SP-ja pridobijo vzvod, ko so člani skupnosti pripravljeni imeti v lasti SMD. Ta vzvod poveča dobičke iz rasti, hkrati pa tudi prispeva k rasti. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+Imetniki STEEM-a in SP-ja pridobijo vzvod, ko so člani skupnosti pripravljeni imeti v lasti SMD. Ta vzvod poveča dobičke iz rasti, hkrati pa tudi prispeva k rasti. Res je tudi, da Imetniki STEEM-a utrpijo škodo v obliki povečane razvodenitve, če cena pade. Vendar kriptovalutni projekti dokazujejo, da dobički zaradi povečanja števila uporabnikov, ki so pripravljeni zaupati omrežju s kapitalom, navsezadnje dodajo več vrednosti omrežju kakor kakršna koli razvodenitev, do katere lahko pride v času recesije.
 
-### Setting Price Feeds
+### Določitev virov cen
 
 Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
