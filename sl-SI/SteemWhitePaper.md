@@ -189,11 +189,11 @@ V bistvu je zagotovljevalem virov zaupana odgovornost, da določajo denarno poli
 
 Spremembe v politiki obrestnih mer in/ali kakršne koli premije/popusti glede pretvorb STEEM/SMD bi morale biti počasen in premišljen odziv na dolgoročna povprečna odstopanja, ne pa poskus odziva na kratkoročne razmere na trgu. Blockchain plačuje tistim, ki zagotavljajo likvidnost, za njihove storitve v zvezi z absorbiranjem kratkoročnega povpraševanja.
 
-Verjamemo, da bodo ta pravila udeležencem trga vlila zaupanje, da je zelo malo verjetno, da bi izgubili denar, če bodo imeli v lasti SMD, kupljen po ceni 1,00 USD. We fully expect there to be a narrow trading range between $0.99 and $1.01 for SMD under most market conditions.
+Verjamemo, da bodo ta pravila udeležencem trga vlila zaupanje, da je zelo malo verjetno, da bi izgubili denar, če bodo imeli v lasti SMD, kupljen po ceni 1,00 USD. Pričakujemo, da se bo v večini tržnih razmer trgovalo s SMD-jem v zelo ozkem razponu med 0,99 USD in 1,01 USD.
 
-## Subjective Contributions
+## Subjektivni prispevki
 
-Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+Subjektivno dokazilo o delu (proof of work) predstavlja alternativni pristop k razdelitvi valute, ki je izboljšava povsem *objektivnih* sistemov dokazila o delu, kot je rudarjenje. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
 
 In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
 
