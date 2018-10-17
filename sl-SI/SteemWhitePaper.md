@@ -183,7 +183,7 @@ Glavna skrb za Steem zagotovljevalce virov je ohranjanje stabilne pretvorbe v ra
 
 Če predpostavimo, da vrednost STEEM-a raste hitreje, kakor Steem uspe proizvajati nove SMD-je, potem mora razmerje dolga proti lastništvu ostati pod ciljnim razmerjem, in tako ponujene obresti koristijo vsakomur. Če pa je vrednost omrežja enaka ali pa pada, potem bodo vsakršne ponujene obresti razmerje med dolgom in lastništvom samo še poslabšale.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+V bistvu je zagotovljevalem virov zaupana odgovornost, da določajo denarno politiko z namenom zagotavljanja stabilne vezave na USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
 If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SMD.
 
