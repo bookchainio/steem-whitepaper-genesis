@@ -464,11 +464,11 @@ Pojemność technologii blockchain niekoniecznie musi być ograniczona. Infrastr
 
 #### Maksymalna Liczba Unikalnych Użytkowników
 
-Możemy użyć podobnych wyliczeń do ustalenia maksymalnej liczby unikalnych użytkowników, z którymi sieć może przeprowadzać transakcje raz na tydzień, czyli: B\*W/T. T reprezentuje średni rozmiar transakcji. Oznacza to, że Bitcoin może obsługiwać około 2 milionów użytkowników przeprowadzających transakcje raz na tydzień, zakładając, że każdy użytkownik posiadałby równowagę.
+Możemy użyć podobnych wyliczeń do ustalenia maksymalnej liczby unikalnych użytkowników, z którymi sieć może przeprowadzać transakcje raz na tydzień, czyli: B\*W/T. T reprezentuje średni rozmiar transakcji. Oznacza to, że Bitcoin może obsługiwać około 2 milionów użytkowników przeprowadzających transakcje raz na tydzień, zakładając, że każdy użytkownik posiadałby równe saldo.
 
 #### Porównanie z Opłatami
 
-Jeśli założymy, że użytkownik posiadający BTC o wartości 25 USD, dokonuje transakcji raz na tydzień i ponosi za każdym razem koszt w wysokości 0,04 centa, wówczas płaciliby ponad 2,00 USD rocznie. Wówczas, aby wyjść na zero, użytkownik musiałby zarobić 8% stopy zwrotu z tychże 25$. Istnieje szansa, że użytkownicy i tak zamierzali trzymać swoje środki wewnątrz blockchain, tak więc użytkownik posiadający BTC o wartości 25$ zaoszczędził 2$ w ciągu roku przez zaadoptowanie opcji ograniczenia stawki aniżeli opcji wolnej od opłat. Z kapitałem 175$ mogliby dokonywać transakcji codziennie i w ten sposób zaoszczędzić 14$ rocznie.
+If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. Wówczas, aby wyjść na zero, użytkownik musiałby zarobić 8% stopy zwrotu z tychże 25$. Istnieje szansa, że użytkownicy i tak zamierzali trzymać swoje środki wewnątrz blockchain, tak więc użytkownik posiadający BTC o wartości 25$ zaoszczędził 2$ w ciągu roku przez zaadoptowanie opcji ograniczenia stawki aniżeli opcji wolnej od opłat. Z kapitałem 175$ mogliby dokonywać transakcji codziennie i w ten sposób zaoszczędzić 14$ rocznie.
 
 ### Tworzenie Konta
 
@@ -476,17 +476,17 @@ Oparty na kontach system Steem z upublicznionymi saldami upraszcza implementacj�
 
 Można też wyobrazić sobie sytuację, w której konto o niskim saldzie założone podczas czasu niskiego obciążenia, stało się niezdatne do użytku w momencie wzrostu obciążenia sieci. Fundusze można odzyskać w dowolnym momencie, przenosząc większe saldo na konto.
 
-Aby dać użytkownikowi czas na nabycie doświadczenia na platformie, jednocześnie minimalizując ilość martwych kont, wszyscy nowy użytkownicy powinni zaczynać z saldem dziesięciokrotnie większym niż minimum transakcyjne. Tym sposobem, nawet jeśli popyt wzrośnie dziesięciokrotnie, konto nadal będzie rentowne.
+Aby dać użytkownikowi czas na nabycie doświadczenia na platformie, jednocześnie minimalizując ilość martwych kont, wszyscy nowi użytkownicy powinni zaczynać z saldem dziesięciokrotnie większym niż minimum transakcyjne. Tym sposobem, nawet jeśli popyt wzrośnie dziesięciokrotnie, konto nadal będzie rentowne.
 
 Owe początkowe saldo musi wynikać z samego faktu założenia nowego konta. Nie może ono wymagać tworzenia nowych tokenów, ponieważ w innym wypadku skłaniałoby to do prób nadużywania platformy poprzez tworzenie dużych ilości fałszywych kont.
 
-### Uzasadnianie minimalnych sald
+### Justifying Minimum Balances
 
-Zmuszanie użytkownika do zachowania minimalnego salda na platformie wywodzi się z konceptu wartości użytkownika[^11]. Każdy, kto ma styczność z biznesem, zdaje sobie sprawę, że każdy pojedynczy użytkownik ma znaczącą wartość. Firmy potrafią wydać od 30 do 200 Usd, by przyciągnąć do siebie użytkownika. Czasem płacą im one bezpośrednio, czasem w formie reklamy, a czasami całe firmy są kupowane jedynie dla posiadanej bazy użytkowników. Po tym, jak firma zdobywa użytkownika, często oferuje mu wiele *darmowych usług* by zatrzymać go wystarczająco długo celem spieniężenia go w inny sposób.
+Zmuszanie użytkownika do zachowania minimalnego salda na platformie wywodzi się z konceptu wartości użytkownika[^11]. Każdy, kto ma styczność z biznesem, wie, że użytkownicy mają znaczącą wartość. Firmy potrafią wydać od 30$ do 200$, by przyciągnąć do siebie użytkownika. Czasem płacą im one bezpośrednio, czasem w formie reklamy, a czasami całe firmy są kupowane jedynie dla posiadanej bazy użytkowników. Po tym, jak firma zdobywa użytkownika, często oferuje mu wiele *darmowych usług* tylko po to, by zatrzymać go wystarczająco długo, żeby zmonetyzować go w inny sposób.
 
-Ripple wykorzystuje minimalne saldo [^12], które skaluje się z wykorzystaniem zasobów kont i wymaga, aby nowe konta były posiadały przynajmniej takie minimalne saldo. Obecnie to minimalne saldo wynosi około 0,15 Usd, czyli jest wyższe niż 0,10 Usd, które według naszych oszacowań pozwalałoby komuś na swobodną transakcję przynajmniej raz w tygodniu.
+Ripple uses a minimum balance[^12] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Obecnie to minimalne saldo wynosi około 0,15$, czyli jest wyższe niż 0,10$, które według naszych oszacowań pozwalałoby komuś na swobodną transakcję przynajmniej raz w tygodniu.
 
-Technologia blockchain wymaga zachowania minimalnej wartości konta użytkownika poprzez wymaganie utrzymania minimalnego salda. Każda firma, która chce wprowadzić nowego klienta do blockchain, może wstępnie asygnować konto tego użytkownika minimalnym saldem, co umożliwiłoby mu zawieranie transakcji. Wymaganie stosunkowo dużej opłaty (1,00 Usd) w celu rejestracji nowych użytkowników, w naturalny sposób zmusi oferujących bezpłatne konta do sprawdzenia jakości i unikalności każdego konta przed zarejestrowaniem go w blockchain.
+Technologia blockchain wymaga zachowania minimalnej wartości konta użytkownika, co wiąże się z wymuszeniem na nim zachowania minimalnej wysokości salda. Każda firma, która chce wprowadzić nowego klienta do blockchain, może wstępnie asygnować konto tego użytkownika minimalnym saldem, co umożliwiłoby mu zawieranie transakcji. Wymaganie stosunkowo dużej opłaty (1,00 Usd) w celu rejestracji nowych użytkowników, w naturalny sposób zmusi oferujących bezpłatne konta do sprawdzenia jakości i unikalności każdego konta przed zarejestrowaniem go w blockchain.
 
 Utrzymywanie minimalnego salda jest faktycznie takie samo, jak pobieranie opłat za transakcje od odsetek, które mogliby zarobić na swoim saldzie. Minimalne saldo to po prostu równowaga wymagana do uzyskania wystarczającego oprocentowania, aby uiścić opłatę w stosunkowo krótkim czasie.
 
