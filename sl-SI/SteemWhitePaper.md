@@ -167,11 +167,11 @@ Imetniki STEEM-a in SP-ja pridobijo vzvod, ko so člani skupnosti pripravljeni i
 
 ### Določitev virov cen
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Premeteni bralci bodo hitro ugotovili, da se lahko s sredstvom, ki prinaša obresti in ima omejeno zalogo, trguje po višji ali nižji ceni od osnovnega sredstva, odvisno od drugih priložnosti za pridobitev obresti na istem sredstvu. Zaradi visokih izplačil obresti pri sredstvu, ki je vezan na ameriški dolar, bodo mnogi ljudje ponujali omejeno zalogo Steem dolarjev po višji ceni, dokler ti ne bodo več vredni 1 USD. V ekonomiji obstaja načelo, znano kot nemogoča Trojica[^4], ki navaja, da ni mogoče, da bi hkrati obstajalo to troje:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. Stabilen menjalni tečaj
+2. Prost pretok kapitala
+3. Neodvisna monetarna politika
 
 If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
