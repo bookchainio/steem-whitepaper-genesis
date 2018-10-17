@@ -189,7 +189,7 @@ V bistvu je zagotovljevalem virov zaupana odgovornost, da določajo denarno poli
 
 Spremembe v politiki obrestnih mer in/ali kakršne koli premije/popusti glede pretvorb STEEM/SMD bi morale biti počasen in premišljen odziv na dolgoročna povprečna odstopanja, ne pa poskus odziva na kratkoročne razmere na trgu. Blockchain plačuje tistim, ki zagotavljajo likvidnost, za njihove storitve v zvezi z absorbiranjem kratkoročnega povpraševanja.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SMD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.99 and $1.01 for SMD under most market conditions.
+Verjamemo, da bodo ta pravila udeležencem trga vlila zaupanje, da je zelo malo verjetno, da bi izgubili denar, če bodo imeli v lasti SMD, kupljen po ceni 1,00 USD. We fully expect there to be a narrow trading range between $0.99 and $1.01 for SMD under most market conditions.
 
 ## Subjective Contributions
 
