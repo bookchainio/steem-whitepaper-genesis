@@ -177,7 +177,7 @@ Premeteni bralci bodo hitro ugotovili, da se lahko s sredstvom, ki prinaša obre
 
 Glavna skrb za Steem zagotovljevalce virov je ohranjanje stabilne pretvorbe v razmerju ena proti ena med SMD-ji in ameriškim dolarjem (USD). Kadar koli se dosledno trguje s SMD-ji nad 1,00 USD, je treba izplačevanje obresti ustaviti. Na trgu, na katerem 0% obrestna mera na dolg še vedno zahteva premijo, je varno reči, da je trg pripravljen ponuditi več kredita kakor dolga skupnosti, ki je to pripravljena sprejeti. Če se to zgodi, potem bo SMD imel višjo vrednost kot 1,00 USD in skupnost ne bo mogla narediti nič drugega, kakor da zaračuna negativno obrestno mero.
 
-If the debt-to-ownership ratio is under 10% and SMD is trading for less than $1.00 then the interest rate should be increased. This will encourage more people to hold their SMD and support the price.
+Če je razmerje dolg proti lastništvu nižje od 10% in se s SMD-jem trguje pod 1,00 USD, potem je treba obrestno mero povečati. To bo spodbudilo več ljudi, da bodo obdržali svoje SMD-je in tako podprli ceno.
 
 If SMD trades for less than $1.00 USD and the debt-to-ownership ratio is over 10% then the feeds should be adjusted upward give more STEEM per SMD. This will increase demand for SMD while also reducing the debt-to-ownership ratio and returning SMD to parity with USD.
 
