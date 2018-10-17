@@ -173,9 +173,9 @@ Premeteni bralci bodo hitro ugotovili, da se lahko s sredstvom, ki prinaša obre
 2. Prost pretok kapitala
 3. Neodvisna monetarna politika
 
-Če bi Steem zagotovljevalci virov hoteli imeti neodvisno monetarno politiko, ki bi omogočala ustvaritev in uničevanje Steem dolarjev ter obenem imela popoln nadzor na obrestno mero, bi zabredli v težave. Nemogoča Trojica pravi, da morajo Steem dolarji bodisi omejevati pretok kapitala, imeti nestabilen menjalni tečaj z dolarjem ali imeti omejen nadzor nad obrestno mero.
+Če bi Steem zagotovljevalci virov hoteli imeti neodvisno monetarno politiko, ki bi omogočala ustvaritev in uničevanje Steem dolarjev ter obenem imela popoln nadzor nad obrestno mero, bi zabredli v težave. Nemogoča Trojica pravi, da morajo Steem dolarji bodisi omejevati pretok kapitala, imeti nestabilen menjalni tečaj z dolarjem ali imeti omejen nadzor nad obrestno mero.
 
-Glavna skrb za Steem zagotovljevalce virov je ohranjanje stabilne pretvorbe v razmerju ena proti ena med SMD-ji in ameriškim dolarjem (USD). Kadar koli se dosledno trguje s SMD-ji nad 1,00 USD, je treba izplačevanje obresti ustaviti. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+Glavna skrb za Steem zagotovljevalce virov je ohranjanje stabilne pretvorbe v razmerju ena proti ena med SMD-ji in ameriškim dolarjem (USD). Kadar koli se dosledno trguje s SMD-ji nad 1,00 USD, je treba izplačevanje obresti ustaviti. Na trgu, na katerem 0% obrestna mera na dolg še vedno zahteva premijo, je varno reči, da je trg pripravljen ponuditi več kredita kakor dolga skupnosti, ki je to pripravljena sprejeti. Če se to zgodi, potem bo SMD imel višjo vrednost kot 1,00 USD in skupnost ne bo mogla narediti nič drugega, kakor da zaračuna negativno obrestno mero.
 
 If the debt-to-ownership ratio is under 10% and SMD is trading for less than $1.00 then the interest rate should be increased. This will encourage more people to hold their SMD and support the price.
 
