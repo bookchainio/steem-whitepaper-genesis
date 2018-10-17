@@ -421,8 +421,8 @@ Sądzimy, że pomiar średniego tygodniowego wykorzystania przepustowości przez
 
 Niech B będzie równe średniej przepustowości użytkownika w czasie T. Niech W jest równe liczbie sekund na tydzień, i niech N równa się wielkości nowej transakcji, która wystąpiła S sekund po T. Biorąc pod uwagę tę informację, blockchain może obliczyć nową średnią szerokość pasma dla użytkownik jako:
 
-    Bnowa = MIN (0, B * (W - S) / W) + N * S / W
-    Tnowy = T + S
+    Bnew = MIN(0,B * (W - S) / W) + N * S / W
+    Tnew = T + S
     
 
 Każdy użytkownik ma prawo do następującej średniej tygodniowej przepustowości:
@@ -454,17 +454,17 @@ Aby zrozumieć, w jaki sposób algorytm ten zadziała na Bitcoinie, należy osza
     CLR/S = 2869 bytes per week, or about 5 transactions/week per BTC
     
 
-Ponieważ R = 38 jest dolną granicą współczynnika podziału, CLR/S stanowi dolną granicę dla dozwolonej przepustowości. This simple case study suggests a user will require at most 0.20 BTC (over $80 as of this writing) to transact once per week. Jest to jednak luźna górna granica wynikająca z założenia, że wszystkie BTC są jednakowo mobilne. Tak nie jest w rzeczywistości - użytkownicy z dziesiątkami lub setkami bitcoinów niekoniecznie dokonują transakcji dziesiątki lub setki razy w tygodniu! "Niedokończone" transakcje, które użytkownicy "powinni" wykonać, zwiększy współczynnik podziału, pozwalając, aby ich niewykorzystana przepustowość została "poddana recyklingowi" dla mniejszych użytkowników.
+Ponieważ R = 38 jest dolną granicą współczynnika podziału, CLR/S stanowi dolną granicę dla dozwolonej przepustowości. This simple case study suggests a user will require at most 0.20 BTC (over $80 as of this writing) to transact once per week. Jest to jednak luźna górna granica wynikająca z założenia, że wszystkie BTC są jednakowo mobilne. Nie jest tak w rzeczywistości - użytkownicy z dziesiątkami lub setkami bitcoinów niekoniecznie wykonują dziesiątki lub setki transakcji w tygodniu! The "leftover" transactions that those users "should" have made will increase the reserve ratio, allowing their unused bandwidth to be "recycled" for smaller users.
 
-Wszystkie powyższe szacunki są zachowawczymi górnymi granicami przy założeniu, że monety i użytkowanie są dystrybuowane w stosunkowo równy sposób. Rzeczywistość jest taka, że poważniejsi użytkownicy, tacy jak giełdy, mają znacznie wyższy współczynnik wykorzystania gotówki niż użytkownicy mniej poważni, co z kolei oznacza, że faktyczne minimalne wymagania dotyczące równowagi są znacznie niższe.
+All of the above estimates are conservative upper bounds assuming coins and usage are distributed in a relatively flat manner. Rzeczywistość jest taka, że poważniejsi użytkownicy, tacy jak giełdy, mają znacznie wyższy współczynnik wykorzystania gotówki niż użytkownicy mniej poważni, co z kolei oznacza, że faktyczne minimalne wymagania dotyczące równowagi są znacznie niższe.
 
 #### Wpływ Pojemności
 
-Pojemność technologii blockchain niekoniecznie musi być ograniczona. Infrastruktura Internetu jest technologicznie zdolna do zwiększenia wielkości bloku Bitcoin do wielkości 10MB, co będzie skutkowało 10-krotnym zmniejszeniem minimalnego wymagania dotyczącego równowagi. Podczas gdy Bitcoin wspiera obecnie około 3 transakcji na sekundę, jego alternatywne implementacje są zdolne obsługiwać ich ponad 1000. To zmienia naszą zachowawczą górną granicę na 0,0006 BTC lub około 0,25 USD, a zatem konto o wartości 0,25 USD będzie mogło przeprowadzać transakcje średnio raz na tydzień (i prawdopodobnie więcej, ponieważ mamy do czynienia z dość luźną górną granicą).
+Pojemność technologii blockchain niekoniecznie musi być ograniczona. Infrastruktura Internetu jest technologicznie zdolna do zwiększenia wielkości bloku Bitcoin do wielkości 10MB, co będzie skutkowało 10-krotnym zmniejszeniem minimalnego wymagania dotyczącego równowagi. Podczas gdy Bitcoin wspiera obecnie około 3 transakcji na sekundę, jego alternatywne implementacje są zdolne obsługiwać ich ponad 1000. To zmienia naszą zachowawczą górną granicę na 0,0006 BTC lub około 0,25$, a zatem konto o wartości 0,25 USD będzie mogło przeprowadzać transakcje średnio raz na tydzień (i prawdopodobnie więcej, ponieważ mamy do czynienia z dość luźną górną granicą).
 
 #### Maksymalna Liczba Unikalnych Użytkowników
 
-Możemy użyć podobnych wyliczeń do ustalenia maksymalnej liczby unikalnych użytkowników, z którymi sieć może przeprowadzać transakcje raz na tydzień, czyli: B \ * W / T. T reprezentuje średni rozmiar transakcji. Oznacza to, że Bitcoin może obsługiwać około 2 milionów użytkowników przeprowadzających transakcje raz na tydzień, zakładając, że każdy użytkownik posiadałby równowagę.
+Możemy użyć podobnych wyliczeń do ustalenia maksymalnej liczby unikalnych użytkowników, z którymi sieć może przeprowadzać transakcje raz na tydzień, czyli: B\*W/T. T reprezentuje średni rozmiar transakcji. Oznacza to, że Bitcoin może obsługiwać około 2 milionów użytkowników przeprowadzających transakcje raz na tydzień, zakładając, że każdy użytkownik posiadałby równowagę.
 
 #### Porównanie z Opłatami
 
