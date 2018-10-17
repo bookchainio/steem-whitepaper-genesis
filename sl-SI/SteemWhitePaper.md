@@ -183,9 +183,9 @@ Glavna skrb za Steem zagotovljevalce virov je ohranjanje stabilne pretvorbe v ra
 
 Če predpostavimo, da vrednost STEEM-a raste hitreje, kakor Steem uspe proizvajati nove SMD-je, potem mora razmerje dolga proti lastništvu ostati pod ciljnim razmerjem, in tako ponujene obresti koristijo vsakomur. Če pa je vrednost omrežja enaka ali pa pada, potem bodo vsakršne ponujene obresti razmerje med dolgom in lastništvom samo še poslabšale.
 
-V bistvu je zagotovljevalem virov zaupana odgovornost, da določajo denarno politiko z namenom zagotavljanja stabilne vezave na USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+V bistvu je zagotovljevalem virov zaupana odgovornost, da določajo denarno politiko z namenom zagotavljanja stabilne vezave na USD. Zloraba te moči lahko škoduje vrednosti STEEM-a, zato je modro, če lastniki SP-ja glasujejo za priče, na katere se je mogoče zanesti, da bodo nastavili ceno vira in obrestne mere glede na pravila, omenjena zgoraj.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SMD.
+Če razmerje med dolgom in lastništvom postane nevarno visoko in se udeleženci trga odločijo ogibati se zahtevam po pretvorbah, potem bi se moralo vir prilagoditi tako, da se bo povečala stopnja, po kateri se izplača STEEM za pretvorbe iz SMD-ja.
 
 Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SMD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions. The blockchain is paying liquidity providers for their service in absorbing short-term demands.
 
