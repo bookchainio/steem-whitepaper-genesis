@@ -173,7 +173,7 @@ Premeteni bralci bodo hitro ugotovili, da se lahko s sredstvom, ki prinaša obre
 2. Prost pretok kapitala
 3. Neodvisna monetarna politika
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+Če bi Steem zagotovljevalci virov hoteli imeti neodvisno monetarno politiko, ki bi omogočala ustvaritev in uničevanje Steem dolarjev ter obenem imela popoln nadzor na obrestno mero, bi zabredli v težave. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
 The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SMD and the U.S. Dollar (USD). Any time SMD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
