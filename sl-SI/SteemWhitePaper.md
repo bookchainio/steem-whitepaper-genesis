@@ -187,7 +187,7 @@ V bistvu je zagotovljevalem virov zaupana odgovornost, da določajo denarno poli
 
 Če razmerje med dolgom in lastništvom postane nevarno visoko in se udeleženci trga odločijo ogibati se zahtevam po pretvorbah, potem bi se moralo vir prilagoditi tako, da se bo povečala stopnja, po kateri se izplača STEEM za pretvorbe iz SMD-ja.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SMD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions. The blockchain is paying liquidity providers for their service in absorbing short-term demands.
+Spremembe v politiki obrestnih mer in/ali kakršne koli premije/popusti glede pretvorb STEEM/SMD bi morale biti počasen in premišljen odziv na dolgoročna povprečna odstopanja, ne pa poskus odziva na kratkoročne razmere na trgu. Blockchain plačuje tistim, ki zagotavljajo likvidnost, za njihove storitve v zvezi z absorbiranjem kratkoročnega povpraševanja.
 
 It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SMD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.99 and $1.01 for SMD under most market conditions.
 
