@@ -197,7 +197,7 @@ Subjektivno dokazilo o delu (proof of work) predstavlja alternativni pristop k r
 
 Pravzaprav so merila glede ocenjevanja dela povsem subjektivna in jih ni mogoče opredeliti v sami izvorni kodi. Ena skupnost morda želi nagraditi umetnike, druga pesnike, zopet druga pa komedijante. Spet druge skupnosti se lahko odločijo nagrajevati dobrodolne pobude ali pa pomagati širiti politične zamisli.
 
-The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+Vrednost, ki jo vsaka valuta doseže, je odvisna od povpraševanja po vplivu znotraj določene skupnosti in od prepričanja trga glede tega, kako obsežna lahko vsaka skupnost postane. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
 ### Distributing Currency
 
