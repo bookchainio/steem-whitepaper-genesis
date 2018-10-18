@@ -480,7 +480,7 @@ Aby dać użytkownikowi czas na nabycie doświadczenia na platformie, jednocześ
 
 Owe początkowe saldo musi wynikać z samego faktu założenia nowego konta. Nie może ono wymagać tworzenia nowych tokenów, ponieważ w innym wypadku skłaniałoby to do prób nadużywania platformy poprzez tworzenie dużych ilości fałszywych kont.
 
-### Justifying Minimum Balances
+### Uzasadnienie Minimalnych Sald
 
 Zmuszanie użytkownika do zachowania minimalnego salda na platformie wywodzi się z konceptu wartości użytkownika[^11]. Każdy, kto ma styczność z biznesem, wie, że użytkownicy mają znaczącą wartość. Firmy potrafią wydać od 30$ do 200$, by przyciągnąć do siebie użytkownika. Czasem płacą im one bezpośrednio, czasem w formie reklamy, a czasami całe firmy są kupowane jedynie dla posiadanej bazy użytkowników. Po tym, jak firma zdobywa użytkownika, często oferuje mu wiele *darmowych usług* tylko po to, by zatrzymać go wystarczająco długo, żeby zmonetyzować go w inny sposób.
 
