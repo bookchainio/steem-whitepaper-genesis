@@ -508,19 +508,19 @@ There must be a slow constant upward pressure on the reserve ratio any time netw
 
 Any user with fewer than TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) will be unable to produce enough transactions to fill even a single block. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
 
-### Effectiveness Relative to Fees
+### Efektywność relatywna do wysokości opłat
 
-To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. W sieci Bitcoin atakujący z saldem 10.000$ byłby w stanie zakłócić działanie serwisu przez cały dzień, wypełniając każdy blok sieci. Ten sam atakujący nie byłby jednak w stanie zakłócić działania serwisu, wspieranego ograniczeniem opartym na mechanizmie częściowego podziału.
 
-If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+Jeśli weźmiemy pod uwagę bardziej skrajne przypadki i założymy, że atakujący posiada 1% wartości całej gospodarki, wtedy musimy uznać, że dysponuje on kwotą 60 milionów dolarów. Wspomniany atakujący mógłby zablokować łańcuch bloków systemu Bitcoin na 16 lat, chyba że wydobywający walutę podwyższyliby opłaty lub przepustowość sieci. Nawet jeśli opłaty zostałyby podwyższone do 15$ za transakcję, atakujący mógłby wciąż blokować sieć przez ponad 16 dni.
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+Przy podejściu opartym o stopę ograniczającą osoba, która nabyła 1% wszystkich coinów tylko po to, żeby zablokować sieć, byłaby w stanie osiągnąć to w czasie mniejszym niż 30 sekund.
 
-### Renting vs. Buying vs. Time Sharing
+### Wynajem vs. Kupno vs. Dzielenie Czasu
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Gdy ktoś posiada dom, oczekuje, że będzie mu wolno używać go za darmo. Jeśli zaś jakaś grupa ludzi kupi dom wspólnie, spodziewają się oni, że będą mogli korzystać z budynku proporcjonalnie do kwoty, którą wyłożyli na zakup. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
 
-If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+Jeżeli dom należy do wielu ludzi, wtedy muszą oni zgodnie zdecydować, w jakim zakresie każdy z nich może korzystać z budynku. Ktoś, kto posiada 50% udziałów w domu, lecz mieszka w nim tylko przez jeden weekend w roku, może oczekiwać, że osoby, które korzystają pod jego nieobecność z tej nieruchomości, zapłacą mu za to. This is the mindset of a fee based system.
 
 On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
 
