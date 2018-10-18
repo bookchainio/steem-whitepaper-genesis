@@ -484,11 +484,11 @@ Owe początkowe saldo musi wynikać z samego faktu założenia nowego konta. Nie
 
 Zmuszanie użytkownika do zachowania minimalnego salda na platformie wywodzi się z konceptu wartości użytkownika[^11]. Każdy, kto ma styczność z biznesem, wie, że użytkownicy mają znaczącą wartość. Firmy potrafią wydać od 30$ do 200$, by przyciągnąć do siebie użytkownika. Czasem płacą im one bezpośrednio, czasem w formie reklamy, a czasami całe firmy są kupowane jedynie dla posiadanej bazy użytkowników. Po tym, jak firma zdobywa użytkownika, często oferuje mu wiele *darmowych usług* tylko po to, by zatrzymać go wystarczająco długo, żeby zmonetyzować go w inny sposób.
 
-Ripple uses a minimum balance[^12] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Obecnie to minimalne saldo wynosi około 0,15$, czyli jest wyższe niż 0,10$, które według naszych oszacowań pozwalałoby komuś na swobodną transakcję przynajmniej raz w tygodniu.
+Ripple używanego minimalnego salda [^12] które skaluje się z użytkowaniem zasobów przez konto i wymaga by nowe konta były fundowane z przynajmniej tym minimalnym saldem. Obecnie to minimalne saldo wynosi około 0,15$, czyli jest wyższe niż 0,10$, które według naszych oszacowań pozwalałoby komuś na swobodną transakcję przynajmniej raz w tygodniu.
 
 Technologia blockchain wymaga zachowania minimalnej wartości konta użytkownika, co wiąże się z wymuszeniem na nim zachowania minimalnej wysokości salda. Jeśli jakaś firma chce sprowadzić nowego użytkownika do ekosystemu, może ufundować mu założenie konta, finansując minimalną wysokość salda, która pozwoli mu na dokonywanie transakcji. Wymaganie stosunkowo dużej opłaty (1.00$) w celu rejestracji zmusi serwisy oferujące założenie darmowego konta do nadzorowania jakości oraz weryfikacji użytkowników.
 
-Utrzymywanie minimalnego salda jest koniec końców tym samym mechanizmem, co wprowadzanie opłat transakcyjnych, które użytkownicy muszą płacić od zarobionego dochodu. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
+Utrzymywanie minimalnego salda jest koniec końców tym samym mechanizmem, co wprowadzanie opłat transakcyjnych, które użytkownicy muszą płacić od zarobionego dochodu. Minimalne saldo jest po prostu saldem wymaganym do zarabiania wystarczająco dużo prowizji by zapłacić opłatę w stosunkowo krótkim czasie.
 
 Na szczęście wymagane minimalne saldo może wynosić nawet jednego dolara i jest to coś, co użytkownicy mogą zrozumieć i docenić. Możliwy koszt utraconych korzyści nie pociąga za sobą kosztów poznawczych mikroopłat i jest znacznie bardziej akceptowalny dla użytkowników.
 
