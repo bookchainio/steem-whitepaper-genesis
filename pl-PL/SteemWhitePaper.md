@@ -468,7 +468,7 @@ Możemy użyć podobnych wyliczeń do ustalenia maksymalnej liczby unikalnych u�
 
 #### Porównanie z Opłatami
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. Wówczas, aby wyjść na zero, użytkownik musiałby zarobić 8% stopy zwrotu z tychże 25$. Istnieje szansa, że użytkownicy i tak zamierzali trzymać swoje środki wewnątrz blockchain, tak więc użytkownik posiadający BTC o wartości 25$ zaoszczędził 2$ w ciągu roku przez zaadoptowanie opcji ograniczenia stawki aniżeli opcji wolnej od opłat. Z kapitałem 175$ mogliby dokonywać transakcji codziennie i w ten sposób zaoszczędzić 14$ rocznie.
+Jeśli założymy że użytkownik z BTC wartym 25$ dokonuje transakcji raz na tydzień i za każdym razem płaci opłatę w wysokości 0.04$, oznacza to że zapłacą ponad 2.00$ w opłatach rocznie. Wówczas, aby wyjść na zero, użytkownik musiałby zarobić 8% stopy zwrotu z tychże 25$. Istnieje szansa, że użytkownicy i tak zamierzali trzymać swoje środki wewnątrz blockchain, tak więc użytkownik posiadający BTC o wartości 25$ zaoszczędził 2$ w ciągu roku przez zaadoptowanie opcji ograniczenia stawki aniżeli opcji wolnej od opłat. Z kapitałem 175$ mogliby dokonywać transakcji codziennie i w ten sposób zaoszczędzić 14$ rocznie.
 
 ### Tworzenie Konta
 
