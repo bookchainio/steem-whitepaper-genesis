@@ -393,7 +393,7 @@ Każda opłata tworzy próg wejścia dla nowych użytkowników. Zanim dana osoba
 
 ### Zmiana wysokości opłat
 
-Z biegiem czasu sieci muszą dostosować wysokość opłat. Taka konieczność może zaistnieć z powodu wzrostu wartości żetonu lub ze względu powiększenia pojemności sieci. Użytkownicy lubią, kiedy opłaty są przewidywalne, zaś usługi świadczone przez dany serwis mają charakter stały. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Z biegiem czasu sieci muszą dostosować wysokość opłat. Taka konieczność może zaistnieć z powodu wzrostu wartości żetonu lub ze względu powiększenia pojemności sieci. Użytkownicy lubią, kiedy opłaty są przewidywalne, zaś usługi świadczone przez dany serwis mają charakter stały. Podczas gdy istnieje możliwość dynamicznego dostosowywania wysokości opłat podczas dużego obciążenia, rezultatem takiego rozwiązania jest niski poziom doświadczenia użytkownika.
 
 ### Atak Sybil
 
@@ -405,13 +405,13 @@ W zdecentralizowanym systemie nie ma bezpośredniej możliwości, aby zablokowa�
 
 Wyobraźmy sobie, że blockchain jest kooperatywnym dostawcą internetowym (ISP), który posiada wszystkie łącza w mieście i posiada maksymalną przepustowość, którą może udostępnić w każdej chwili. Mieszkańcy miasta mogą kupić udziały u dostawcy w zamian za prawo do użytkowania części tej przepustowości.
 
-Dostawca może wprowadzić system “pełnego podziału” lub “częściowego podziału”. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Ponieważ nie każdy używa internetu w tym samym czasie, sieć miasta będzie znacząco marnować swój potencjał.
+Dostawca może wprowadzić system “pełnego podziału” lub “częściowego podziału”. W systemie pełnego podziału każdy użytkownik jest uprawniony do używania ułamku przepustowości łacza, którī odpowiada wielkości jego udziałów. Ponieważ nie każdy używa internetu w tym samym czasie, sieć miasta będzie znacząco marnować swój potencjał.
 
 W systemie częściowego podziału, indywidualni użytkownicy mogliby wykorzystywać więcej przepustowości sieci - niż wynikałoby to z ich uprawnień na dany moment - tak długo, jak sieć nie jest wykorzystywana przez wszystkich użytkowników jednocześnie. Problemem w funkcjonowaniu podziału częściowego jest to, gdy zbyt wielu ludzi używa sieci w tym samym czasie, za każdym razem prowadzi to do przeciążenia. Dostawca internetowy (ISP) musi znaleźć sposób na dostosowanie przepustowości w momentach przeciążenia. W najgorszym przypadku, przeciążona sieć musi powrócić do systemu pełnego podziału. Ustawienie odpowiedniego współczynnika częściowego podziału niesie za sobą wezwanie.
 
 ## Szerokopasmowość zamiast Kanałów Mikropłatności
 
-Rozwiązaniem wyżej wymieniowych problemów z mikropłatnościami jest implementacja *dynamicznych podziałów częściowych*. Wykorzystując taki model, blockchain będzie w momentach większego obciążenia automatycznie dostosowywać współczynnik podziału sieci. Blockchain ustanowi wykorzystanie celu, co pozwoli na krótkoterminowe wzrosty popytu. W trakcie wzrostów przepływu, blockchain automatycznie redukuje maksymalną przepustowość dla każdego z użytkowników. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
+Rozwiązaniem wyżej wymieniowych problemów z mikropłatnościami jest implementacja *dynamicznych podziałów częściowych*. Wykorzystując taki model, blockchain będzie w momentach większego obciążenia automatycznie dostosowywać współczynnik podziału sieci. Blockchain ustanowi wykorzystanie celu, co pozwoli na krótkoterminowe wzrosty popytu. W trakcie wzrostów przepływu, blockchain automatycznie redukuje maksymalną przepustowość dla każdego z użytkowników. Kiedy skok się skończy i pojawia się nadwyżka pojemności, blockchain może powoli zwiększać przepustowość od udziału.
 
 Przepustowość używana przez pojedynczego użytkownika powinna być mierzona przez odpowiednio długi okres czasu tak, aby umożliwić im zmianę intensywności wykorzystania sieci. Użytkownicy z reguły logują się, robią wiele rzeczy na raz, a na koniec wylogowują się. Oznacza to, że w danym momencie przydzielona im przepustowość może wydawać się dużo większa niż jej średnia wyliczana na podstawie danych z dłuższego okresu czasu. Jeśli odstęp czasu pomiędzy kolejnymi dostosowaniami przepustowości będzie zbyt duży, łącze nie zdąży zareagować wystarczająco szybko w przypadku krótkoterminowych przeciążeń, jeśli zaś odstęp będzie zbyt mały, nie przyniesie on potencjalnego zysku normalnym użytkownikom.
 
@@ -440,9 +440,9 @@ Użytkownik byłby uprawniony do średniej przepustowości M \ * U / S. Za każd
 
 Sieć może zwiększyć wskaźnik podziału za każdym razem, gdy bloki są mniejsze niż połowa docelowej pojemności i zmniejszyć, gdy są większe niż połowa tej pojemności. Algorytm służący do regulacji R ma na celu szybkie reagowanie w celu zmniejszenia współczynnika podziału w przypadku gwałtownego wzrostu popytu, przy jednoczesnym powolnym działaniu w celu zwiększenia współczynnika podziału w okresie niskiego popytu.
 
-Minimalny współczynnik podziału wynosi 1, a maksymalny współczynnik podziału powinien zostać obliczony, aby uniemożliwić małym interesariuszom wykorzystanie całej dostępnej przepustowości. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
+Minimalny współczynnik podziału wynosi 1, a maksymalny współczynnik podziału powinien zostać obliczony, aby uniemożliwić małym interesariuszom wykorzystanie całej dostępnej przepustowości. Jeśli nikt nie używa dostępnej przepustowości, to wtedy współczynnik rezerwy może rosnąć dopóki użytkownik z zaledwie 1 satoshi waluty jest w stanie dokonać transakcji każdego, pojedyńczego bloku.
 
-### Case Study: Bitcoin
+### Studium przypadku: Bitcoin
 
 Aby zrozumieć, w jaki sposób algorytm ten zadziała na Bitcoinie, należy oszacować rozsądną wartość współczynnika podziału, R, w oparciu o rzeczywiste użycie. W oparciu o całkowitą podaż 15M BTC i dzienną wielkość transakcji wynoszącą 400K BTC [^10], możemy uzyskać współczynnik podziału minimalnego w wysokości 38 dla Bitcoin. Używając równań możemy obliczyć tygodniową przepustowość (w bajtach) dozwoloną na BTC wynoszącą:
 
@@ -454,9 +454,9 @@ Aby zrozumieć, w jaki sposób algorytm ten zadziała na Bitcoinie, należy osza
     CLR/S = 2869 bytes per week, or about 5 transactions/week per BTC
     
 
-Ponieważ R = 38 jest dolną granicą współczynnika podziału, CLR/S stanowi dolną granicę dla dozwolonej przepustowości. This simple case study suggests a user will require at most 0.20 BTC (over $80 as of this writing) to transact once per week. Jest to jednak luźna górna granica wynikająca z założenia, że wszystkie BTC są jednakowo mobilne. Nie jest tak w rzeczywistości - użytkownicy z dziesiątkami lub setkami bitcoinów niekoniecznie wykonują dziesiątki lub setki transakcji w tygodniu! The "leftover" transactions that those users "should" have made will increase the reserve ratio, allowing their unused bandwidth to be "recycled" for smaller users.
+Ponieważ R = 38 jest dolną granicą współczynnika podziału, CLR/S stanowi dolną granicę dla dozwolonej przepustowości. Ten prosty przykład sugeruje iż użytkownik będzie potrzebował co najwyżej 0.20 BTC (ponad 80$ w chwili pisania) by dokonywać transakcji raz na tydzień. Jest to jednak luźna górna granica wynikająca z założenia, że wszystkie BTC są jednakowo mobilne. Nie jest tak w rzeczywistości - użytkownicy z dziesiątkami lub setkami bitcoinów niekoniecznie wykonują dziesiątki lub setki transakcji w tygodniu! "Resztki" transakcji które Ci użytkownicy "powinni" pozostawić, powiększą wskaźnik rezerwy, pozwalając by ich niezużyta przepustowość była "zrecyklingowana" dla mniejszych użytkowników.
 
-All of the above estimates are conservative upper bounds assuming coins and usage are distributed in a relatively flat manner. Rzeczywistość jest taka, że poważniejsi użytkownicy, tacy jak giełdy, mają znacznie wyższy współczynnik wykorzystania gotówki niż użytkownicy mniej poważni, co z kolei oznacza, że faktyczne minimalne wymagania dotyczące równowagi są znacznie niższe.
+Wszystkie z powyższych oszacowań są konserwatywnymi, górnymi granicami, zakładająć że żetony oraz użytkowanie są dystrybutowane w stosunkowo płaski sposób. Rzeczywistość jest taka, że poważniejsi użytkownicy, tacy jak giełdy, mają znacznie wyższy współczynnik wykorzystania gotówki niż użytkownicy mniej poważni, co z kolei oznacza, że faktyczne minimalne wymagania dotyczące równowagi są znacznie niższe.
 
 #### Wpływ Pojemności
 
