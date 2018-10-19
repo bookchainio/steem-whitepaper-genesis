@@ -500,13 +500,13 @@ Ograniczanie stawki wymaga, aby sieć wystarczająco szybko dostosowała współ
 
 Weźmy na przykład początkowy współczynnik podziału 200x. Według rezerw cząstkowych oznacza to, że osoba posiadająca 1% tokenów ma prawo żądać transakcji o łącznej wartości 2x większej od maksymalnej wielkości bloku. W celu sprowadzenia użycia sieci atakującego do 25%, współczynnik rezerwy musiałby spaść do 25x. To wywołałoby co tygodniowy, ośmiokrotny wzrost wymaganego do transakcji minimalnego salda.
 
-Blockchain może ustanowić częstotliwość odpowiedzi która mówi, że jakikolwiek trwały wzrost w użyciu powinien zostać sprowadzony do docelowej pojemności w krótkim okresie czasu (powiedzmy 30 sekund). An attacker attempting to spam the network shouldn't be able to disrupt service for normal users for more than a minute.
+Blockchain może ustanowić częstotliwość odpowiedzi która mówi, że jakikolwiek trwały wzrost w użyciu powinien zostać sprowadzony do docelowej pojemności w krótkim okresie czasu (powiedzmy 30 sekund). Napastnik próbujący spamować sieć nie powinien być w stanie przerwać ciągłości usługi dla normalnych użytkowników na dłużej niż minutę.
 
-While reductions in the reserve ratio must be quick and non-linear to counter abuse, increases in the reserve ratio should be slow and linear. If the network adjusted in both directions in just 30 seconds then an attacker could pulse the network. A flood of transactions should be corrected in 30 seconds and then take a hour to return to their pre-attack levels. Under this model the attacker could flood the network for 30 seconds per hour or less than 1% of the time.
+Podczas gdy redukcje we współczynniku rezerwy muszą być szybkie i nielinearne by przeciwdziałać nadużyciom, wzrosty we współczynniku rezerwy powinny być powolne i linearne. Jeśli sieć jest dostosowywana w obu kierunkach w zaledwie 30 sekund, to napastnik może "pulsować" sieć. Zalew transakcji może zostać poddany korekcji w 30 sekund, a potem i tak zająć godzinę by wrócić do poziomów sprzed ataku. W tym modelu napastnik może zalać sieć na 30 sekund każdej godziny lub na mniej niż 1% ogółu czasu.
 
-There must be a slow constant upward pressure on the reserve ratio any time network usage is below 50% until the network hits the maximum reserve ratio. The maximum reserve ratio determines the minimum required stake to flood the network in short bursts.
+Musi istnieć stały, powolny wzrost presji na wspołczynnik rezerwy w dowolnym momencie zużycie sieci jest poniżej 50% dopóki sieć nie osiągnie maksymalnego współczynnika rezerwy. Maksymalny współczynnik rezerwy określa minimalny, wymagany udział do zalania sieci w krótkich seriach.
 
-Any user with fewer than TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) will be unable to produce enough transactions to fill even a single block. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
+Każdy użytkownik z mniej niż TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) nie będzie mógł produkować wystarczająco transakcji by wypełnić nawet pojedyńczy blok. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
 
 ### Efektywność relatywna do wysokości opłat
 
