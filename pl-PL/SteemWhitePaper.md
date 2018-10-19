@@ -421,8 +421,8 @@ Sądzimy, że pomiar średniego tygodniowego wykorzystania przepustowości przez
 
 Niech B będzie równe średniej przepustowości użytkownika w czasie T. Niech W jest równe liczbie sekund na tydzień, i niech N równa się wielkości nowej transakcji, która wystąpiła S sekund po T. Biorąc pod uwagę tę informację, blockchain może obliczyć nową średnią szerokość pasma dla użytkownik jako:
 
-    Bnew = MIN(0,B * (W - S) / W) + N * S / W
-    Tnew = T + S
+    Bnowy = MIN(0,B * (W - S) / W) + N * S / W
+    Tnowy = T + S
     
 
 Każdy użytkownik ma prawo do następującej średniej tygodniowej przepustowości:
