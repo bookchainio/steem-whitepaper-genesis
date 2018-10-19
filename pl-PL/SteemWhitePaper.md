@@ -427,13 +427,13 @@ Niech B będzie równe średniej przepustowości użytkownika w czasie T. Niech 
 
 Każdy użytkownik ma prawo do następującej średniej tygodniowej przepustowości:
 
-    Let U = the user's SP
-    Let S = the total number of SP
-    Let R = the current reserve ratio between 1 and Rmax
-    Let C = the maximum block size capacity set by witnesses
-    Let L = the total blocks per week
-    Let M = C * L * R
-    Allocation = M * U / S
+    Niech U = SP użytkownika
+    Niech S = całkowita liczba SP
+    Niech R = obecny współczynnik podziału pomiędzy 1 a Rmax
+    Niech C = maksymalna pojemność bloku ustalona przez świadków
+    Niech L = całkowita liczba bloków przez tydzień
+    Niech M = C * L * R
+    Przydział = M * U / S
     
 
 Użytkownik byłby uprawniony do średniej przepustowości M \ * U / S. Za każdym razem, gdy transakcja spowodowałaby, że średnia użytkownika przekroczyłaby ten próg, nie byłby on w stanie dokonywać transakcji, dopóki ta średnia nie zostanie obniżona w wystarczającym czasie.
@@ -446,12 +446,12 @@ Minimalny współczynnik podziału wynosi 1, a maksymalny współczynnik podzia�
 
 Aby zrozumieć, w jaki sposób algorytm ten zadziała na Bitcoinie, należy oszacować rozsądną wartość współczynnika podziału, R, w oparciu o rzeczywiste użycie. W oparciu o całkowitą podaż 15M BTC i dzienną wielkość transakcji wynoszącą 400K BTC [^10], możemy uzyskać współczynnik podziału minimalnego w wysokości 38 dla Bitcoin. Używając równań możemy obliczyć tygodniową przepustowość (w bajtach) dozwoloną na BTC wynoszącą:
 
-    Let C = 1MB = 1024 * 1024
-    Let L = 1008 (blocks per week)
-    Let R = 38
-    Let S = 14000000 BTC (supply minus Satoshi's unmoving coins)
-    Let U = 1 BTC
-    CLR/S = 2869 bytes per week, or about 5 transactions/week per BTC
+    Niech C = 1MB = 1024 * 1024
+    Niech L = 1008 (bloków przez tydzień)
+    Niech R = 38
+    Niech S = 14000000 BTC (zasób minus nieruchome monety Satoshi)
+    Niech U = 1 BTC
+    CLR/S = 2869 bajtów przez tydzień lub około 5 transakcji/tydzień na BTC
     
 
 Ponieważ R = 38 jest dolną granicą współczynnika podziału, CLR/S stanowi dolną granicę dla dozwolonej przepustowości. Ten prosty przykład sugeruje iż użytkownik będzie potrzebował co najwyżej 0.20 BTC (ponad 80$ w chwili pisania) by dokonywać transakcji raz na tydzień. Jest to jednak luźna górna granica wynikająca z założenia, że wszystkie BTC są jednakowo mobilne. Nie jest tak w rzeczywistości - użytkownicy z dziesiątkami lub setkami bitcoinów niekoniecznie wykonują dziesiątki lub setki transakcji w tygodniu! "Resztki" transakcji które Ci użytkownicy "powinni" pozostawić, powiększą wskaźnik rezerwy, pozwalając by ich niezużyta przepustowość była "zrecyklingowana" dla mniejszych użytkowników.
