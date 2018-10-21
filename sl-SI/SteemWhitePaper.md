@@ -211,9 +211,9 @@ Prvi korak pri nagrajevanju milijonov uporabnikov je odločitev, da se razdeljuj
 
 Naslednji korak pa je ta, da se nagradi z *nečim* vsakogar, ki naredi že nekaj pozitivnega. To se izvede z rangiranjem vsega opravljenega dela in sorazmernim razdeljevanjem glede na njegovo vrednost. Bolj ko trg postane konkurenčen (višja kakovost ali količina), bolj težko je zaslužiti enako izplačilo.
 
-### Glasovanje za razdelitev valute
+### Glasovanje za razdeljevanje valute
 
-Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
+Predpostavimo, da imamo fiksen znesek denarja, ki ga je treba razdeliti, in da so tisti, ki morajo odločiti, kako se bo sredstva razdelilo, posamezniki, ki imajo dolgoročne interese glede prihodnje vrednosti in uporabe kriptovalute. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
 
 The naive voting process creates a Prisoner's Dilemma whereby each individual voter has incentive to vote for themselves at the expense of the larger community goal. If every voter defects by voting for themselves then no currency will end up distributed and the currency as a whole will fail to gain network effect. On the other hand, if only one voter defects then that voter would win undeserved profits while having minimal effect on the overall value of the currency.
 
