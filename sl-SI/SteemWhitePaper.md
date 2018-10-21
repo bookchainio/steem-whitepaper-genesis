@@ -207,11 +207,11 @@ Razdelitev valute čim več ljudem na način, ki na splošno velja za pravično,
 
 Da bi lahko vsi imeli enake možnosti glede zaslužka kriptovalute, morajo ljudje dobiti priložnost za delo. Izziv je presojati relativno kakovost in količino dela, ki ga ljudje opravijo, in pri tem učinkovito razdeljevati nagrade milijonom uporabnikov. To zahteva uvedbo razširljivega glasovalnega postopka. To še zlasti zahteva, da je avtoriteta za razdeljevanje sredstev karseda razpršena in decentralizirana.
 
-The first step in rewarding millions of users is to commit to distributing a fixed amount of currency regardless of how much work is actually done or how users vote. This changes the question from being *"Should we pay?"* to *"Whom should we pay?"* and signals to the market that money is being distributed and is being auctioned off to whoever "bids" the most *work*. This is similar to Bitcoin committing to award 50 BTC to whoever finds the most difficult hashes. Like Bitcoin, all work must be done prior-to payout and nothing should be paid speculatively on the promise to do work in the future.
+Prvi korak pri nagrajevanju milijonov uporabnikov je odločitev, da se razdeljuje fiksen znesek valute ne glede na to, koliko dela je dejansko opravljenega oziroma kako uporabniki glasujejo. To spremeni vprašanje *"Ali naj bi plačali?"* v *"Komu naj bi plačali?"* in pošlje trgu signal, da se denar razdeljuje in se zanj lahko poteguje tisti, ki "ponudi" največ *dela*. To je podobno odločitvi Bitcoina, da s 50 BTC-ji nagradi vsakega, ki najde najzahtevnejše ključe (hash). Podobno kot pri Bitcoinu mora biti vse delo že opravljeno pred izplačilom in noben znesek se ne more izplačati zgolj na podlagi obljube o opravljanju dela v prihodnosti.
 
-The next step is to reward everyone who does anything even remotely positive with *something*. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
+Naslednji korak pa je ta, da se nagradi z *nečim* vsakogar, ki naredi že nekaj pozitivnega. To se izvede z rangiranjem vsega opravljenega dela in sorazmernim razdeljevanjem glede na njegovo vrednost. Bolj ko trg postane konkurenčen (višja kakovost ali količina), bolj težko je zaslužiti enako izplačilo.
 
-### Voting on Distribution of Currency
+### Glasovanje za razdelitev valute
 
 Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
 
