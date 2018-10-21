@@ -229,7 +229,7 @@ Ne glede na to, koliko denarja ima v lasti en posameznik, vedno obstaja veliko d
 
 Na srečo je tako, da je vsako delo, ki prejme veliko število glasov, deležno največje publicitete. Z dodatno možnostjo *negativnega glasovanja* je mogoče, da veliko število manjših vlagateljev izniči glasovalno moč dogovorjenih glasovalnih skupin oziroma sebičnih velikih vlagateljev. Poleg tega veliki vlagatelji izgubijo več, če valuta izgubi vrednost zaradi zlorab, kakor bi pridobili z glasovanjem zase. Dejstvo je, da bodo pošteni veliki vlagatelji verjetno bolj učinkoviti, če bodo preiskovali zlorabe in uporabili negativno glasovanje, kot če bi glasovali za manjše prispevke.
 
-The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only "problem" with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
+Uporaba *negativnega glasovanja* z namenom, da se ljudi odvrne od zlorabljanja sistema, zmanjšuje *rivalsko miselnost*, ki jo imajo mnogi ljudje, ko dobijo občutek, da se nekdo okorišča na račun vseh drugih. Takšna rivalska miselnost običajno velja za kratkovidne ljudi, ki zavirajo dobre ljudi, vendar pa lahko velja tudi za dobre ljudi, ki zavirajo slabe. Edina "težava" s to miselnostjo je, kadar ljudje *zmotno verjamejo*, da ima nekdo denarno korist na račun vseh drugih.
 
 > #### The Story of the Crab Bucket[^6]
 > 
