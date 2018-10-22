@@ -10,13 +10,13 @@ Oluṣeto ibi fun awon akosile onitumo.
 
 # Akopo
 
-Steem je ibi ipamọ data blockchain tohun se atileyin kiko agbegbe ati ibaraenisepo awujo pelu awon ère cryptocurrency. Steem da awon imoran lati oun igberohinjade awujo pelu awon eko ti a ti ko lati kiko awon cryptocurrency ati awon agbegbe won po. Kokoro pataki kan lati se iwuri fun kikopa ni agbegbe eyikeyi, owo tabi oṣuwọn ọja aje ọfẹ je ilana iṣeduro iṣowo ti oun tan ojiji iṣojuuṣe ti olukuluku nigbagbogbo. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Steem je ibi ipamọ data blockchain tohun se atileyin kiko agbegbe ati ibaraenisepo awujo pelu awon ère cryptocurrency. Steem da awon imoran lati oun igberohinjade awujo pelu awon eko ti a ti ko lati kiko awon cryptocurrency ati awon agbegbe won po. Kokoro pataki kan lati se iwuri fun kikopa ni agbegbe eyikeyi, owo tabi oṣuwọn ọja aje ọfẹ je ilana iṣeduro iṣowo ti oun tan ojiji iṣojuuṣe ti olukuluku nigbagbogbo. Steem je cryptocurrency akoko to gbiyanju lati ni pipe ati ni atinuriwa fi ere fun ainiye awon eniyan to se *awon ilowosi itẹriba* si agbegbe won.
 
-# Table of Contents
+# Tabili awon Akoonu
 
 <!-- toc -->
 
-# Introduction
+# Ifihan
 
 Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
 
