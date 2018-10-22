@@ -233,13 +233,13 @@ Uporaba *negativnega glasovanja* z namenom, da se ljudi odvrne od zlorabljanja s
 
 > #### Zgodba o Vedru z raki[^6]
 > 
-> A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+> Neki moški se je sprehajal po plaži, ko je zagledal drugega moškega, ki je lovil ribe, poleg njega pa je bilo vedro z vabami. Ko se mu je približal, je opazil, da vedro z vabami nima pokrova in da so v njem živi raki.
 > 
-> "Why don't you cover your bait bucket so the crabs won't escape?", he said.
+> "Zakaj vedra z vabami ne pokrijete, da vam raki ne pobegnejo?" je vprašal.
 > 
-> "You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+> "Ne razumete," je odgovoril moški. "Če bi bil v vedru en rak, bi zagotovo zelo hitro splezal ven. Toda ko je v vedru veliko rakov in eden od njih poskuša splezati po stranici, ga drugi zagrabijo in potegnejo nazaj, tako da ga doleti ista usoda kot vse ostale."
 > 
-> So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+> Enako je z ljudmi. Če nekdo poskuša narediti kaj drugačnega, dobi boljše ocene, se izboljša, pobegne iz svojega okolja ali sanja velike sanje, ga bodo drugi ljudje poskušali potegniti nazaj, da bi doživel enako usodo kot drugi.
 
 Eliminating "abuse" is not possible and shouldn't be the goal. Even those who are attempting to "abuse" the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn't so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
