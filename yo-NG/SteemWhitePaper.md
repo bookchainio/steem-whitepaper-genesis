@@ -24,9 +24,9 @@ Oni awon kokoro pataki kan ti won ti lo lati tona fun isapere ti Steem. Koko ila
 
 Ilana keji ni wipe gbogbo owo idokoowo ni iye kanna. Eliyi tunmo si pe awon to se ilowosi pelu akoko won to showon ati ifojusi si sise olootu ati sise ayewo akoonu fun awon elomiran je iyebiye bi ti awon tohun se ilowosi owo won to showon. Eleyi je ipinle oye ti isiro aagun[^2] o si je ero kan to ti fun awon cryptocurrency to siwaju ni nigbagbogbo ni wahala nipa pipese fun opo ju awon eniyan bi mejila lo.
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+Ipinle oye iketa ni pe agbegbe n pese awon oja lati sin awon egbe re. Ipinle oye yi ni apeere nipa awon aladani gbese, igbimo ounje, ati awon eto ilera pinpin, tohun sin awon egbe ti agbegbe naa yaala tita awon oja na tabi ise fun awon eyan to wan nita agbegbe na.
 
-The Steem community provides the following services to its members:
+Agbegbe ti Steem npese awon ise wonyi fun awon egbe re:
 
 1. A source of curated news and commentary.
 2. A means to get high quality answers to personalized questions.
