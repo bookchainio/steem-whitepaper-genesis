@@ -231,7 +231,7 @@ Na srečo je tako, da je vsako delo, ki prejme veliko število glasov, deležno 
 
 Uporaba *negativnega glasovanja* z namenom, da se ljudi odvrne od zlorabljanja sistema, zmanjšuje *rivalsko miselnost*, ki jo imajo mnogi ljudje, ko dobijo občutek, da se nekdo okorišča na račun vseh drugih. Takšna rivalska miselnost običajno velja za kratkovidne ljudi, ki zavirajo dobre ljudi, vendar pa lahko velja tudi za dobre ljudi, ki zavirajo slabe. Edina "težava" s to miselnostjo je, kadar ljudje *zmotno verjamejo*, da ima nekdo denarno korist na račun vseh drugih.
 
-> #### The Story of the Crab Bucket[^6]
+> #### Zgodba o Vedru z raki[^6]
 > 
 > A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
 > 
