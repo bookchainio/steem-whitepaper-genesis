@@ -1,6 +1,6 @@
 # Steemu
 
-## An incentivized, blockchain-based social media platform.
+## Ohun Ajeseku, orisun-blockchain irufe awujo.
 
 March 2016
 
