@@ -22,7 +22,7 @@ Lapapo, akooni ti awon olumulo ti pilẹṣẹ ti seda owo iye ẹgbaagbeje aw�
 
 Oni awon kokoro pataki kan ti won ti lo lati tona fun isapere ti Steem. Koko ilana to je pato ni pe gbogbo eniyen to ba nilowosi afowopaowo ye ko gba pro-rata nini, sisan owo tabi gbese lati afowopaowo. Ilana yi ni ilana kan na ti a lofun gbogbo awon ibere nkan bi won ti se pinpin ipinle ni igbekale ati nigba awon isanwo nigbami.
 
-Ilana keji ni wipe gbogbo owo idokoowo ni iye kanna. Eliyi tunmo si pe awon to se ilowosi pelu akoko won to showon ati ifojusi si sise olootu ati sise ayewo akoonu fun awon elomiran je iyebiye bi ti awon tohun se ilowosi owo won to showon. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+Ilana keji ni wipe gbogbo owo idokoowo ni iye kanna. Eliyi tunmo si pe awon to se ilowosi pelu akoko won to showon ati ifojusi si sise olootu ati sise ayewo akoonu fun awon elomiran je iyebiye bi ti awon tohun se ilowosi owo won to showon. Eleyi je ipinle oye ti isiro aagun[^2] o si je ero kan to ti fun awon cryptocurrency to siwaju ni nigbagbogbo ni wahala nipa pipese fun opo ju awon eniyan bi mejila lo.
 
 The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
 
