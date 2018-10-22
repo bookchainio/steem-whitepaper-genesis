@@ -32,7 +32,7 @@ Agbegbe ti Steem npese awon ise wonyi fun awon egbe re:
 2. Ona lati ri awon idahun to darajulo fun awon ibeere tara eni.
 3. Cryptocurrency kan to durosinsin pelu dola orilede Amerika.
 4. Awon isanwo Ofe.
-5. Jobs providing above services to other members.
+5. Awon ise pipese awon ise to wa loke si awon egbe miran.
 
 Steem's purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
 
