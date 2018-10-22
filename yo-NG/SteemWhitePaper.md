@@ -34,7 +34,7 @@ Agbegbe ti Steem npese awon ise wonyi fun awon egbe re:
 4. Awon isanwo Ofe.
 5. Awon ise pipese awon ise to wa loke si awon egbe miran.
 
-Steem's purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
+Atunse gidi to leto ti oro aje Steem ni agbara lati pese dida ati awon abayori tio ni isoto fun gbogbo eniyan to kopa ju oun igberohinjade ati awon papa cryptocurrency to ti lo saaju re. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
 
 ## Recognizing Contribution
 
