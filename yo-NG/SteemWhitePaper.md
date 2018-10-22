@@ -10,7 +10,7 @@ Oluṣeto ibi fun awon akosile onitumo.
 
 # Akopo
 
-Steem je ibi ipamọ data blockchain tohun se atileyin kiko agbegbe ati ibaraenisepo awujo pelu awon ère cryptocurrency. Steem da awon imoran lati oun igberohinjade awujo pelu awon eko ti a ti ko lati kiko awon cryptocurrency ati awon agbegbe won po. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Steem je ibi ipamọ data blockchain tohun se atileyin kiko agbegbe ati ibaraenisepo awujo pelu awon ère cryptocurrency. Steem da awon imoran lati oun igberohinjade awujo pelu awon eko ti a ti ko lati kiko awon cryptocurrency ati awon agbegbe won po. Kokoro pataki kan lati se iwuri fun kikopa ni agbegbe eyikeyi, owo tabi oṣuwọn ọja aje ọfẹ je ilana iṣeduro iṣowo ti oun tan ojiji iṣojuuṣe ti olukuluku nigbagbogbo. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
 
 # Table of Contents
 
