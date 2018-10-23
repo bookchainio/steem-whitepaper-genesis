@@ -532,9 +532,9 @@ Możemy z tego wywnioskować, że blockchain jest najlepiej obsługiwany poprzez
 
 Innymi słowy, opłaty transakcyjne powinny być równe minimalnemu saldu konta potrzebnemu do transakcji raz na tydzień i powinny być zwracane na koniec tygodnia. Zakładając że minimalny balans konta to 1$ i pozwala ono użytkownikowi dokonywać transakcji raz na tydzień. Jeśli ktoś z saldem 1$ życzy sobie by dokonać 5 transakcji na raz, będzie musiał zwiększyć swój balans do 5$ na tydzień przed, lub po transakcji.
 
-W teorii, mógłby uformować się rynek gdzie użytkownicy mogą pożyczyć potrzebne udziały. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+W teorii, mógłby uformować się rynek gdzie użytkownicy mogą pożyczyć potrzebne udziały. W praktyce bardziej efektywne dla użytkowników jest sprzedawanie i kupowanie potrzebnych udziałów w celu osiągnięcia ich pożądanego wskaźnika wykorzystania. Mówiąc inaczej, koszt negocjowania mikro pożyczek jest większy niż koszt utrzymania balansu odpowiedniego dla Twojego maksymalnego tygodniowego wykorzystania.
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+Decentralizacja stopy ograniczeń transakcji może dać szansę nowym typom zdecentralizowanych aplikacji, które nie były opłacalne kiedy każde użycie aplikacji wymagało mikro płatności. This new model gives application developers the ability to decide if and when to charge their users for transactions.
 
 # Performance and Scalability
 
