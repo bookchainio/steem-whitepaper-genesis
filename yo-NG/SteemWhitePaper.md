@@ -46,7 +46,7 @@ Awon irufe to ti wa man sise lori olumulo kan, ipinle oye kan. Eleyi seda ayika 
 
 Ipinle eyokan ti akopamo lori pepe Steem ni STEEM, aami crypto currency kan. Steem n sise lori ipile STEEM-kan, ibo-kan. Labe awose yi, awon eniyan to ni ilowosi ju si ipile naa, ti a won nipa n to seku ninu akopamo won, je gaba lori bi atin se igbeluwon awon iluwosi. Ni itesiwaju sii, Steem gba ki awon egbe re dibo pelu STEEM nikan ti o ba farajin si iseto sise aso ti opo-odun. Labe awose yi, awon egbe ni imoriya owo kan lati dibo lona to mu iwọn pọ iwe awon STEEM won ni igba gigun.
 
-Steem is designed around a relatively simple concept: *everyone's meaningful contribution to the community should be recognized for the value it adds.* When people are recognized for their meaningful contributions, they continue contributing and the community grows. Any imbalance in the give and take within a community is unsustainable. Eventually the givers grow tired of supporting the takers and disengage from the community.
+A se apeere Steem layika ibatan atinuda to rorun: * ilowosi tonitumo ti gbogbo eniyan si agbegbe gbudo ri akiyesi fun iye tohun fikun. * Gbati awon eniyan ba ri akiyesi fun awon iluwosi won to nitumo, won a tesiwaju ninu iluwosi ati pe agbegbe a gbooro. Aidurodede eiyiowu ninu fifun ati gbigba ninu agbegbe kan koni iloyemo. Eventually the givers grow tired of supporting the takers and disengage from the community.
 
 The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
 
