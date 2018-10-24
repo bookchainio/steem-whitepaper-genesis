@@ -259,7 +259,7 @@ Glasovalna moč se pomnoži z uporabnikovimi investiranimi žetoni, da bi se dol
 
 ![](\img_change_voting_period_eg.png)
 
-To further prevent abuse, all payouts are delayed a stake-weighted average of 24 hours from the time each vote was cast. This ensures that large stakeholders cannot snipe payouts by voting at the last second before other voters (aka crabs) have a chance to negate the potential abuse. Once a payout is made to the user all votes are reset to 0. If votes come in after the payout then the process begins again.
+Da bi se dodatno preprečile zlorabe, so vsa izplačila v povprečju odložena za 24 ur od časa, ko je bil glas oddan. To zagotavlja, da veliki vlagatelji ne morejo izmakniti izplačil, s tem da bi glasovali zadnjo sekundo, preden bi drugi glasovalci (oziroma raki) dobili priložnost, da izničijo morebitno zlorabo. Potem ko uporabniki prejmejo izplačilo, se vsi glasovi ponastavijo na 0. Če so glasovi oddani po izplačilu, se ves postopek začne znova.
 
 This chart shows how the voting period expiration changes in response to new positive and negative votes being applied. New votes extend the payout period in proportion to how large they are relative to all votes that have gone before. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
 
