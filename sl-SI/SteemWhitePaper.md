@@ -251,7 +251,7 @@ K zmanjšanju zlorab najbolj prispeva omejitev glede količine glasovanja. Posam
 
 ![](\img_voting_rate_limiting.png)
 
-The charts above shows how a user's voting power decreases every time they vote and then regenerates as time passes without voting. These charts use nominal time unit and could be made to scale to any targeted voting rate. Note that voting power rapidly drops off during periods of continuous voting, and then slowly recovers.
+Zgornja diagrama prikazujeta, kako se glasovalna moč uporabnikov zmanjša vsakič, ko glasujejo, in potem obnovi v obdobju brez glasovanja. These charts use nominal time unit and could be made to scale to any targeted voting rate. Note that voting power rapidly drops off during periods of continuous voting, and then slowly recovers.
 
 Voting power is multiplied by a user's vesting tokens to determine how much share in the reward pool should be allocated to a given work item.
 
