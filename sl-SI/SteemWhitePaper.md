@@ -255,7 +255,7 @@ Zgornja diagrama prikazujeta, kako se glasovalna moč uporabnikov zmanjša vsaki
 
 Glasovalna moč se pomnoži z uporabnikovimi investiranimi žetoni, da bi se določilo, kolikšen delež nagradnega bazena se bo dodelil nekemu prispevku.
 
-### Delayed Payouts
+### Odložena izplačila
 
 ![](\img_change_voting_period_eg.png)
 
