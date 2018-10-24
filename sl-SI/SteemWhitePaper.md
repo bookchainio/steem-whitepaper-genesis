@@ -241,9 +241,9 @@ Uporaba *negativnega glasovanja* z namenom, da se ljudi odvrne od zlorabljanja s
 > 
 > Enako je z ljudmi. Če nekdo poskuša narediti kaj drugačnega, dobi boljše ocene, se izboljša, pobegne iz svojega okolja ali sanja velike sanje, ga bodo drugi ljudje poskušali potegniti nazaj, da bi doživel enako usodo kot drugi.
 
-Odprava "zlorab" ni mogoča in to naj tudi ne bi bil cilj. Celo tisti, ki skušajo "zlorabiti" sistem, vseeno opravljajo delo. Kakršna koli kompenzacija, ki jo prejmejo za uspešno izvedbo zlorabe ali skrivni dogovor, je vsaj toliko dragocena za namen razdelitve valute kakor obstoječi sistem, ki je v uporabi pri klasičnem rudarjenju Bitcoina ali dogovorjenem rudarjenju, ki se opravlja prek rudarskih skupin (mining pools). All that is necessary is to ensure that abuse isn't so rampant that it undermines the incentive to do real work in support of the community and its currency.
+Odprava "zlorab" ni mogoča in to naj tudi ne bi bil cilj. Celo tisti, ki skušajo "zlorabiti" sistem, vseeno opravljajo delo. Kakršna koli kompenzacija, ki jo prejmejo za uspešno izvedbo zlorabe ali skrivni dogovor, je vsaj toliko dragocena za namen razdelitve valute kakor obstoječi sistem, ki je v uporabi pri klasičnem rudarjenju Bitcoina ali dogovorjenem rudarjenju, ki se opravlja prek rudarskih skupin (mining pools). Potrebno je le zagotoviti, da zloraba ni tako obširna, da bi spodkopavala pobudo za opravljanje resničnega dela v podporo skupnosti in njene valute.
 
-The goal of building a community currency is to get more "crabs in the bucket". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
+Cilj gradnje valute skupnosti je spraviti več "rakov v vedro". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
 
 ### Rate Limited Voting
 
