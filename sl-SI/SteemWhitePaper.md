@@ -259,9 +259,9 @@ Glasovalna moč se pomnoži z uporabnikovimi investiranimi žetoni, da bi se dol
 
 ![](\img_change_voting_period_eg.png)
 
-Da bi se dodatno preprečile zlorabe, so vsa izplačila v povprečju odložena za 24 ur od časa, ko je bil glas oddan. To zagotavlja, da veliki vlagatelji ne morejo izmakniti izplačil, s tem da bi glasovali zadnjo sekundo, preden bi drugi glasovalci (oziroma raki) dobili priložnost, da izničijo morebitno zlorabo. Potem ko uporabniki prejmejo izplačilo, se vsi glasovi ponastavijo na 0. Če so glasovi oddani po izplačilu, se ves postopek začne znova.
+Da bi se dodatno preprečile zlorabe, so vsa izplačila, odvisno od velikosti deleža, v povprečju odložena za 24 ur od časa, ko je bil vsak glas oddan. To zagotavlja, da veliki vlagatelji ne morejo izmakniti izplačil, s tem da bi glasovali zadnjo sekundo, preden bi drugi glasovalci (tako imenovani raki) dobili priložnost, da izničijo morebitno zlorabo. Potem ko uporabniki prejmejo izplačilo, se vsi glasovi ponastavijo na 0. Če so glasovi oddani po izplačilu, se ves postopek začne znova.
 
-This chart shows how the voting period expiration changes in response to new positive and negative votes being applied. New votes extend the payout period in proportion to how large they are relative to all votes that have gone before. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
+Ta diagram prikazuje, kako se čas poteka izplačila spreminja glede na nove pozitivne in negativne glasove. Novi glasovi podaljšajo čas izplačila sorazmerno s tem, kako veliki so v primerjavi z vsemi glasovi, ki so bili prejeti predhodno. Približno ob času 40 je bilo prejetih veliko število novih glasov, ki so podaljšali glasovalno obdobje za 12 ur, pri čemer so imeli nadaljnji manjši glasovi veliko manjši vpliv na glasovalno obdobje.
 
 ### Payout Distribution
 
