@@ -229,7 +229,7 @@ Ne glede na to, koliko denarja ima v lasti en posameznik, vedno obstaja veliko d
 
 Na srečo je tako, da je vsako delo, ki prejme veliko število glasov, deležno največje publicitete. Z dodatno možnostjo *negativnega glasovanja* je mogoče, da veliko število manjših vlagateljev izniči glasovalno moč dogovorjenih glasovalnih skupin oziroma sebičnih velikih vlagateljev. Poleg tega veliki vlagatelji izgubijo več, če valuta izgubi vrednost zaradi zlorab, kakor bi pridobili z glasovanjem zase. Dejstvo je, da bodo pošteni veliki vlagatelji verjetno bolj učinkoviti, če bodo preiskovali zlorabe in uporabili negativno glasovanje, kot če bi glasovali za manjše prispevke.
 
-Uporaba *negativnega glasovanja* z namenom, da se ljudi odvrne od zlorabljanja sistema, zmanjšuje *rivalsko miselnost*, ki jo imajo mnogi ljudje, ko dobijo občutek, da se nekdo okorišča na račun vseh drugih. Takšna rivalska miselnost običajno velja za kratkovidne ljudi, ki zavirajo dobre ljudi, vendar pa lahko velja tudi za dobre ljudi, ki zavirajo slabe. Edina "težava" s to miselnostjo je, kadar ljudje *zmotno verjamejo*, da ima nekdo denarno korist na račun vseh drugih.
+Uporaba *negativnega glasovanja* z namenom, da se ljudi odvrne od zlorabljanja sistema, zmanjšuje tako imenovano *rakovo miselnost*, ki jo imajo mnogi ljudje, ko dobijo občutek, da se nekdo okorišča na račun vseh drugih. Takšna rivalska miselnost običajno velja za kratkovidne ljudi, ki zavirajo dobre ljudi, vendar pa lahko velja tudi za dobre ljudi, ki zavirajo slabe. Edina "težava" s to miselnostjo je, kadar ljudje *zmotno verjamejo*, da ima nekdo denarno korist na račun vseh drugih.
 
 > #### Zgodba o Vedru z raki[^6]
 > 
@@ -241,7 +241,7 @@ Uporaba *negativnega glasovanja* z namenom, da se ljudi odvrne od zlorabljanja s
 > 
 > Enako je z ljudmi. Če nekdo poskuša narediti kaj drugačnega, dobi boljše ocene, se izboljša, pobegne iz svojega okolja ali sanja velike sanje, ga bodo drugi ljudje poskušali potegniti nazaj, da bi doživel enako usodo kot drugi.
 
-Eliminating "abuse" is not possible and shouldn't be the goal. Even those who are attempting to "abuse" the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn't so rampant that it undermines the incentive to do real work in support of the community and its currency.
+Odprava "zlorab" ni mogoča in to naj tudi ne bi bil cilj. Celo tisti, ki skušajo "zlorabiti" sistem, vseeno opravljajo delo. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn't so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
 The goal of building a community currency is to get more "crabs in the bucket". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
 
