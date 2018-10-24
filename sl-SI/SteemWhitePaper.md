@@ -251,9 +251,9 @@ K zmanjšanju zlorab najbolj prispeva omejitev glede količine glasovanja. Posam
 
 ![](\img_voting_rate_limiting.png)
 
-Zgornja diagrama prikazujeta, kako se glasovalna moč uporabnikov zmanjša vsakič, ko glasujejo, in potem obnovi v obdobju brez glasovanja. These charts use nominal time unit and could be made to scale to any targeted voting rate. Note that voting power rapidly drops off during periods of continuous voting, and then slowly recovers.
+Zgornja diagrama prikazujeta, kako se glasovalna moč uporabnikov zmanjša vsakič, ko glasujejo, in potem obnovi v obdobju brez glasovanja. Ta diagrama uporabljata simbolično časovno enoto in se jo lahko razširi na katero koli ciljno glasovalno stopnjo. Upoštevajte, da v obdobju nenehnega glasovanja glasovalna moč močno upade in se potem počasi obnovi.
 
-Voting power is multiplied by a user's vesting tokens to determine how much share in the reward pool should be allocated to a given work item.
+Glasovalna moč se pomnoži z uporabnikovimi investiranimi žetoni, da bi se določilo, kolikšen delež nagradnega bazena se bo dodelil nekemu prispevku.
 
 ### Delayed Payouts
 
