@@ -247,7 +247,7 @@ Cilj gradnje valute skupnosti je spraviti več "rakov v vedro". Uvedba skrajnih 
 
 ### Omejitev števila glasov
 
-Glavni del zmanjšanja zlorab je omejitev količine glasovanja. Posamezni uporabniki lahko preberejo in ocenijo le določeno število prispevkov na dan. Vsak poskus, da bi glasovali pogosteje od tega, je znak avtomatizacije in predstavlja morebitno zlorabo. Zaradi omejitve števila glasov ima vsak glas vlagatelja, ki glasuje pogosteje, manjšo vrednost od glasov vlagateljev, ki glasujejo redkeje. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+K zmanjšanju zlorab najbolj prispeva omejitev glede količine glasovanja. Posamezni uporabniki lahko preberejo in ocenijo le določeno število prispevkov na dan. Vsak poskus, da bi glasovali pogosteje od tega, je znak avtomatizacije in predstavlja morebitno zlorabo. Zaradi omejitve števila glasov ima vsak glas vlagatelja, ki glasuje pogosteje, manjšo vrednost od glasov vlagateljev, ki glasujejo redkeje. Ko se razdeljujejo žetoni med več računov, se prav tako razdeli vpliv, in tako ne pride do skupnega povečanja vpliva niti se ne obide omejitev glede količine glasovanja.
 
 ![](\img_voting_rate_limiting.png)
 
