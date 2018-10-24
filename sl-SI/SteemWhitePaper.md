@@ -243,7 +243,7 @@ Uporaba *negativnega glasovanja* z namenom, da se ljudi odvrne od zlorabljanja s
 
 Odprava "zlorab" ni mogoča in to naj tudi ne bi bil cilj. Celo tisti, ki skušajo "zlorabiti" sistem, vseeno opravljajo delo. Kakršna koli kompenzacija, ki jo prejmejo za uspešno izvedbo zlorabe ali skrivni dogovor, je vsaj toliko dragocena za namen razdelitve valute kakor obstoječi sistem, ki je v uporabi pri klasičnem rudarjenju Bitcoina ali dogovorjenem rudarjenju, ki se opravlja prek rudarskih skupin (mining pools). Potrebno je le zagotoviti, da zloraba ni tako obširna, da bi spodkopavala pobudo za opravljanje resničnega dela v podporo skupnosti in njene valute.
 
-Cilj gradnje valute skupnosti je spraviti več "rakov v vedro". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
+Cilj gradnje valute skupnosti je spraviti več "rakov v vedro". Uvedba skrajnih ukrepov, da bi se odstranile vse zlorabe, je podobna poskusom, da bi se namestilo pokrov na vedro, da ne bi nekaj rakov pobegnilo, zaradi česar bi bilo težje spraviti nove rake v vedro. Zadostuje že to, da se naredi stene spolzke in da se da drugim rakom dovolj moči, da preprečijo pobeg drugim.
 
 ### Rate Limited Voting
 
