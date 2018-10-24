@@ -263,11 +263,11 @@ Da bi se dodatno preprečile zlorabe, so vsa izplačila, odvisno od velikosti de
 
 Ta diagram prikazuje, kako se čas poteka izplačila spreminja glede na nove pozitivne in negativne glasove. Novi glasovi podaljšajo čas izplačila sorazmerno s tem, kako veliki so v primerjavi z vsemi glasovi, ki so bili prejeti predhodno. Približno ob času 40 je bilo prejetih veliko število novih glasov, ki so podaljšali glasovalno obdobje za 12 ur, pri čemer so imeli nadaljnji manjši glasovi veliko manjši vpliv na glasovalno obdobje.
 
-### Payout Distribution
+### Razdelitev izplačil
 
 ![](\img_the_new_marketplace.png)
 
-One of the primary goals of Steem's reward system is to produce the best discussions on the internet. Each and every year 10% of the market capitalization of Steem is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be as much as $1.75 million dollars per day being given to top contributors.
+Eden glavnih ciljev Steem sistema nagrajevanja je ta, da zagotovi najboljše razprave na spletu. Vsako leto se 10% tržne kapitalizacije Steema razdeli uporabnikom, ki oddajajo vsebine oziroma glasujejo in razpravljajo o vsebinah. Glede na velikost Bitcoina to lahko znese tudi do 1,75 milijona Usd na dan za tiste, ki največ prispevajo.
 
 The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
 
