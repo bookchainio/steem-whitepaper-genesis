@@ -245,9 +245,9 @@ Odprava "zlorab" ni mogoča in to naj tudi ne bi bil cilj. Celo tisti, ki skuša
 
 Cilj gradnje valute skupnosti je spraviti več "rakov v vedro". Uvedba skrajnih ukrepov, da bi se odstranile vse zlorabe, je podobna poskusom, da bi se namestilo pokrov na vedro, da ne bi nekaj rakov pobegnilo, zaradi česar bi bilo težje spraviti nove rake v vedro. Zadostuje že to, da se naredi stene spolzke in da se da drugim rakom dovolj moči, da preprečijo pobeg drugim.
 
-### Rate Limited Voting
+### Omejitev števila glasov
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Glavni del zmanjšanja zlorab je omejitev količine glasovanja. Posamezni uporabniki lahko preberejo in ocenijo le določeno število prispevkov na dan. Vsak poskus, da bi glasovali pogosteje od tega, je znak avtomatizacije in predstavlja morebitno zlorabo. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
 ![](\img_voting_rate_limiting.png)
 
