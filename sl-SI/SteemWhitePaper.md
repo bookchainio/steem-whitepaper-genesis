@@ -275,11 +275,11 @@ Dejanska razdelitev bo odvisna od glasovalnih vzorcev uporabnikov, vendar domnev
 
 Zipfov zakon[^7] je eno tistih empiričnih pravil, ki neverjetno dobro označuje presenetljiv razpon pojavov v resničnem svetu. Če glede na ta zakon razvrstimo neko veliko zbirko po velikosti ali priljubljenosti, bo drugi element v zbirki velik približno eno polovico velikosti prvega, tretji bo velik približno eno tretjino velikosti prvega in tako naprej. Na splošno bo \\(k^{ti}\\) element velik približno 1/k velikosti prvega.
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf's Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Če vzamemo priljubljenost za grobo mero vrednosti, potem bo glede na Zipfov zakon vsakemu elementu dodeljena vrednost. To je, če imamo milijon elementov, potem bo 100 najbolj priljubljenih prispevalo tretjino celotne vrednosti, naslednjih 10.000 naslednjo tretjino in preostalih 989.000 zadnjo tretjino. Vrednost zbirke n elementov je sorazmerna z log(n).
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+Namen takšnega glasovanja in razdelitve izplačila je ta, da se ponudi velika nagrada za dobro vsebino, hkrati pa vseeno nagradi manjše igralce za njihovo prispevanje.
 
-The economic effect of this is similar to a lottery where people over-estimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone "wins something" plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+Ekonomski učinek takšnega pristopa je podoben loteriji, pri čemer ljudje pretirano ocenijo verjetnost prejetja glasov in zato opravijo več dela od pričakovane vrednosti njihove nagrade, s tem pa povečajo skupno količino opravljenega dela v dobro skupnosti. The fact that everyone "wins something" plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
 #### Rewarding Parent Posts
 
