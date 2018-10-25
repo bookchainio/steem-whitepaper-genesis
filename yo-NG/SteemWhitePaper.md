@@ -1,6 +1,6 @@
 # Steemu
 
-## Ohun Ajeseku, orisun-blockchain irufe awujo.
+## Pilatifoomu awujo olugberoyin jade to wa lori blockchain, to si ni imoriya.
 
 Oṣù Kẹta 2016
 
@@ -8,9 +8,9 @@ Oṣù Kẹta 2016
 
 Oluṣeto ibi fun awon akosile onitumo.
 
-# Akopo
+# Akole
 
-Steem je ibi ipamọ data blockchain tohun se atileyin kiko agbegbe ati ibaraenisepo awujo pelu awon ère cryptocurrency. Steem da awon imoran lati oun igberohinjade awujo pelu awon eko ti a ti ko lati kiko awon cryptocurrency ati awon agbegbe won po. Kokoro pataki kan lati se iwuri fun kikopa ni agbegbe eyikeyi, owo tabi oṣuwọn ọja aje ọfẹ je ilana iṣeduro iṣowo ti oun tan ojiji iṣojuuṣe ti olukuluku nigbagbogbo. Steem je cryptocurrency akoko to gbiyanju lati ni pipe ati ni atinuriwa fi ere fun ainiye awon eniyan to se *awon ilowosi itẹriba* si agbegbe won.
+Steemu je ibi ipamọ data blockchain tohun se atileyin fun kiko agbegbe ati ibaraenisepo awujo pelu awon ère cryptocurrency. Steem da awon imoran lati oun igberohinjade awujo pelu awon eko ti a ti ko lati kiko awon cryptocurrency ati awon agbegbe won po. Kokoro pataki kan lati se iwuri fun kikopa ni agbegbe eyikeyi, owo tabi oṣuwọn ọja aje ọfẹ je ilana iṣeduro iṣowo ti oun tan ojiji iṣojuuṣe ti olukuluku nigbagbogbo. Steem je cryptocurrency akoko to gbiyanju lati ni pipe ati ni atinuriwa fi ere fun ainiye awon eniyan to se *awon ilowosi itẹriba* si agbegbe won.
 
 # Tabili awon Akoonu
 
