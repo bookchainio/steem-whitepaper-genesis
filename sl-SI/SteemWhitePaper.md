@@ -279,7 +279,7 @@ Zipfov zakon[^7] je eno tistih empiričnih pravil, ki neverjetno dobro označuje
 
 Namen takšnega glasovanja in razdelitve izplačila je ta, da se ponudi velika nagrada za dobro vsebino, hkrati pa vseeno nagradi manjše igralce za njihovo prispevanje.
 
-Ekonomski učinek takšnega pristopa je podoben loteriji, pri čemer ljudje pretirano ocenijo verjetnost prejetja glasov in zato opravijo več dela od pričakovane vrednosti njihove nagrade, s tem pa povečajo skupno količino opravljenega dela v dobro skupnosti. The fact that everyone "wins something" plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+Ekonomski učinek takšnega pristopa je podoben loteriji, pri čemer ljudje pretirano ocenijo verjetnost prejetja glasov in zato opravijo več dela od pričakovane vrednosti njihove nagrade, s tem pa povečajo skupno količino opravljenega dela v dobro skupnosti. Dejstvo, da vsak "prejme nagrado", temelji na isti psihologiji, kot jo uporabljajo igralnice za to, da ljudje še naprej igrajo na srečo. Povedano drugače, majhne nagrade pomagajo krepiti zamisel, da je mogoče zaslužiti večje nagrade.
 
 #### Rewarding Parent Posts
 
