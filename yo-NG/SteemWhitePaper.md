@@ -24,9 +24,9 @@ Oni awon kokoro pataki kan ti won ti lo lati tona fun isapere ti Steemu. Koko il
 
 Ilana keji ni wipe gbogbo owo idokoowo ni iyelori bakanna. Eliyi tunmo si pe awon to se ilowosi pelu akoko won to showon ati ifojusi si sise olootu ati sise ayewo akoonu fun awon elomiran je iyebiye bi ti awon tohun se ilowosi owo won to showon. Eleyi je ipinle oye ti isiro aagun[^2] o si je ero kan to ti fun awon cryptocurrency to siwaju ni nigbagbogbo ni wahala nipa pipese fun opo ju awon eniyan bi mejila lo.
 
-Ipinle oye iketa ni pe agbegbe n pese awon oja lati sin awon egbe re. Ipinle oye yi ni apeere nipa awon aladani gbese, igbimo ounje, ati awon eto ilera pinpin, tohun sin awon egbe ti agbegbe naa yaala tita awon oja na tabi ise fun awon eyan to wan nita agbegbe na.
+Ilana keta ni pe agbegbe n pese awon oja lati sin awon egbe re. Ilana yi ni apeere nipa awon aladani gbese, igbimo ounje, ati awon eto ilera pinpin, tohun sin awon egbe ti agbegbe naa yaala tita awon oja na tabi ise fun awon eyan to wan nita agbegbe na.
 
-Agbegbe ti Steem npese awon ise wonyi fun awon egbe re:
+Agbegbe ti Steemu npese awon ise wonyi fun awon egbe re:
 
 1. Orisun fun awon iroyin ta ti yewo ati asoye.
 2. Ona lati ri awon idahun to darajulo fun awon ibeere tara eni.
@@ -34,13 +34,13 @@ Agbegbe ti Steem npese awon ise wonyi fun awon egbe re:
 4. Awon isanwo Ofe.
 5. Awon ise pipese awon ise to wa loke si awon egbe miran.
 
-Atunse gidi to leto ti oro aje Steem ni agbara lati pese dida ati awon abayori tio ni isoto fun gbogbo eniyan to kopa ju oun igberohinjade ati awon papa cryptocurrency to ti lo saaju re. Iwe yi yio sawari awon imoriya to ti wa tele ati fifihan bi awon imoriya Steem le jasi esi to dara fun opo awon olukopa.
+Atunse gidi to leto ti oro aje Steemu ni agbara lati pese dida ati awon abayori tio ni isoto fun gbogbo eniyan to kopa ju oun igberohinjade ati awon papa cryptocurrency to ti lo saaju re. Iwe yi yio sawari awon imoriya to ti wa tele ati fifihan bi awon imoriya Steemu le jasi esi to dara fun opo awon olukopa.
 
 ## Mi Mo Ilowosi
 
-A se ipile Steem lati isale losi oke titi de adireesi awon idena pataki si gbigba ati isodowo ti oro aje ti oun igberohinjade awujo. Iwe iwadi wa ni pe awon ilana kanna toun lo lati se idagba awon oun igberohinjade awujo pataki le seelo lati se atunbeere aseyori cryptocurrency. Awon imoriya Oro Aje sise nipase cryptocurrency le bakanna dero idagba irufe ti oun igberohinjade awujo titun. Imudarapo to wa laarin cryptocurrency ati oun igberohinjade awujo ti a gbagbo pe o le fun Steem ni anfani to lagbara ni oja.
+A se ipile Steemu lati isale losi oke titi de adireesi awon idena pataki si gbigba ati isodowo ti oro aje ti oun igberohinjade awujo. Iwe iwadi wa ni pe awon ilana kanna toun lo lati se idagba awon oun igberohinjade awujo pataki le seelo lati se atunbeere aseyori cryptocurrency. Awon imoriya Oro Aje sise nipase cryptocurrency le bakanna dero idagba irufe ti oun igberohinjade awujo titun. Imudarapo to wa laarin cryptocurrency ati oun igberohinjade awujo ti a gbagbo pe o le fun Steemu ni anfani to lagbara ni oja.
 
-Ipenija to dojuko Steem ni gbigba alugọ́rídíìmù fun igbelewọn awon ilowosi olukuluku ti opo awon egbe agbegbe ro pe o je iwadi deede ti o da lori iye ilowosi kankan. Ni aye to pe, awon egbe agbegbe yio sisepapo lati se osuwon iluwosi ara won ati gbigba isanpada to to. Ni aye gidi, awon alugọ́rídíìmù gbodo wa ni iru ona apere ti won sooro fun ifowoyi okeere fun ere. Ilokulo atankariaye yio wu fun iseto igbelewon le jeki awon egbe agbegbe so igbagbo nu ninu ifiyesi bóseyẹ ti eto oro aje.
+Ipenija to dojuko Steemu ni gbigba alugọ́rídíìmù fun igbelewọn awon ilowosi olukuluku ti opo awon egbe agbegbe ro pe o je iwadi deede ti o da lori iye ilowosi kankan. Ni aye to pe, awon egbe agbegbe yio sisepapo lati se osuwon iluwosi ara won ati gbigba isanpada to to. Ni aye gidi, awon alugọ́rídíìmù gbodo wa ni iru ona apere ti won sooro fun ifowoyi okeere fun ere. Ilokulo atankariaye yio wu fun iseto igbelewon le jeki awon egbe agbegbe so igbagbo nu ninu ifiyesi bóseyẹ ti eto oro aje.
 
 Awon irufe to ti wa man sise lori olumulo kan, ipinle oye kan. Eleyi seda ayika kan nibi ti awon ifi sipo le se afowoyi nipa awon idojuja sybil ati awon olupese ise gbodo je kiwon ni idaniloju idanimo ati idena awon onilokulo. Awon eyan ti gbiyanju tele lati se ifowoyi igbelewon awon alugọ́rídíìmù Reddit, Facebook, ati Twitter nigbati ere kan soso to wa je sunkẹrẹ-fakẹrẹ ti ayelujara tabi ipanilẹnunmọ.
 
