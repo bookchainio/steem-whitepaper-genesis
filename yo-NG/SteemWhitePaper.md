@@ -10,7 +10,7 @@ Oluṣeto ibi fun awon akosile onitumo.
 
 # Akole
 
-Steemu je ibi ipamọ data blockchain tohun se atileyin fun kiko agbegbe ati ibaraenisepo awujo pelu awon ère cryptocurrency. Steem da awon imoran lati oun igberohinjade awujo pelu awon eko ti a ti ko lati kiko awon cryptocurrency ati awon agbegbe won po. Kokoro pataki kan lati se iwuri fun kikopa ni agbegbe eyikeyi, owo tabi oṣuwọn ọja aje ọfẹ je ilana iṣeduro iṣowo ti oun tan ojiji iṣojuuṣe ti olukuluku nigbagbogbo. Steem je cryptocurrency akoko to gbiyanju lati ni pipe ati ni atinuriwa fi ere fun ainiye awon eniyan to se *awon ilowosi itẹriba* si agbegbe won.
+Steemu je ibi ipamọ data blockchain tohun se atileyin fun kiko agbegbe ati ibaraenisepo awujo pelu awon ère cryptocurrency. Steemu da awon imoran lati oun igberohinjade awujo pelu awon eko ti a ti ko lati kiko awon cryptocurrency ati awon agbegbe won po. Kokoro pataki kan lati se iwuri fun kikopa ni agbegbe eyikeyi, owo tabi oṣuwọn ọja aje ọfẹ je ilana iṣeduro iṣowo ti oun tan ojiji iṣojuuṣe ti olukuluku nigbagbogbo. Steemu je cryptocurrency akoko to gbiyanju lati ni pipe ati ni atinuriwa fi ere fun ainiye awon eniyan to se *awon ilowosi itẹriba* si agbegbe won.
 
 # Tabili awon Akoonu
 
@@ -18,7 +18,7 @@ Steemu je ibi ipamọ data blockchain tohun se atileyin fun kiko agbegbe ati iba
 
 # Ifihan
 
-Lapapo, akooni ti awon olumulo ti pilẹṣẹ ti seda owo iye ẹgbaagbeje awọn dọla fun awon oniwun-ipin ti awon ile-ise oun igberohinjade awujo, bi Reddit, Facebook ati Twitter. ** ni odun 2014, Reddit loye pe eto re yio gboro ti gbogbo eniyen to ni ilowosi ninu reddit.com nipase kiko itan, fifi awon oro kun tabi di dibo won gba ere pelu ipin to dara ni Reddit, Inc[^1]**. Steem ni ero lati se atileyin fun oun igberohinjade awujo ati awon agbede ayelujara nipa didapada opolopo iye re fun awon eniyan toun pese awon ilowosi oniyebiye nipa fifun won ni ere cryptocurrency, ati nipase ilana yi seda owo kan to nipa lati de oja opo, pelu awon eniyan tio ti kopa ninu oro aje cryptocurrency kankan.
+Lapapo, akooni ti awon olumulo ti pilẹṣẹ ti seda owo iye ẹgbaagbeje awọn dọla fun awon oniwun-ipin ti awon ile-ise oun igberohinjade awujo, bi Reddit, Facebook ati Twitter. **Ni odun 2014, Reddit loye pe eto re yio gboro ti gbogbo eniyen to ni ilowosi ninu reddit.com nipase kiko itan, fifi awon oro kun tabi di dibo won gba ere pelu ipin to dara ni Reddit, Inc[^1]**. Steem ni ero lati se atileyin fun oun igberohinjade awujo ati awon agbede ayelujara nipa didapada opolopo iye re fun awon eniyan toun pese awon ilowosi oniyebiye nipa fifun won ni ere cryptocurrency, ati nipase ilana yi seda owo kan to nipa lati de oja opo, pelu awon eniyan tio ti kopa ninu oro aje cryptocurrency kankan.
 
 Oni awon kokoro pataki kan ti won ti lo lati tona fun isapere ti Steem. Koko ilana to je pato ni pe gbogbo eniyen to ba nilowosi afowopaowo ye ko gba pro-rata nini, sisan owo tabi gbese lati afowopaowo. Ilana yi ni ilana kan na ti a lofun gbogbo awon ibere nkan bi won ti se pinpin ipinle ni igbekale ati nigba awon isanwo nigbami.
 
