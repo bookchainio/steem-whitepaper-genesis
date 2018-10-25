@@ -269,11 +269,11 @@ Ta diagram prikazuje, kako se čas poteka izplačila spreminja glede na nove poz
 
 Eden glavnih ciljev Steem sistema nagrajevanja je ta, da zagotovi najboljše razprave na spletu. Vsako leto se 10% tržne kapitalizacije Steema razdeli uporabnikom, ki oddajajo vsebine oziroma glasujejo in razpravljajo o vsebinah. Glede na velikost Bitcoina to lahko znese tudi do 1,75 milijona Usd na dan za tiste, ki največ prispevajo.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
+Dejanska razdelitev bo odvisna od glasovalnih vzorcev uporabnikov, vendar domnevamo, da bo velika večina nagrad dodeljena najbolj priljubljenim vsebinam. Steem tehta izplačila sorazmerno glede na \\(n^{2}\\) količine Steem moči (Steem Power), ki je bila uporabljena za glasovanje objave. Z drugimi besedami, objava x bo prejela izplačilo sorazmerno z:
 
-\\(votes[x]^{2} / sum(votes[0...n]^{2})\\)
+\\(glasovi[x]^{2} / vsota(glasovi[0...n]^{2})\\)
 
-Zipf's Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the \\(k^{th}\\)-ranked item will measure about 1/k of the first one.
+Zipfov zakon[^7] je eno tistih empiričnih pravil, ki neverjetno dobro označuje presenetljiv razpon pojavov v resničnem svetu. Če glede na ta zakon razvrstimo neko veliko zbirko po velikosti ali priljubljenosti, bo drugi element v zbirki velik približno eno polovico velikosti prvega, tretji bo velik približno eno tretjino velikosti prvega in tako naprej. Na splošno bo \\(k^{ti}\\) element velik približno 1/k velikosti prvega.
 
 Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf's Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
 
