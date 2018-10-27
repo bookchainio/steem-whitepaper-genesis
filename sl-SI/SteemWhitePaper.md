@@ -295,7 +295,7 @@ Ko objava prejme izplačilo, je to v obliki 50% SMD in 50% SP. Steem Power daje 
 
 # Konsenzni algoritem
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+Konsenz je postopek, s katerem skupnost pride do splošno priznanega, nedvoumnega soglasja glede določenega podatka. Obstaja veliko algoritmov, ki so jih ljudje razvili glede dosege konsenza o tem, kdo ima kaj v lasti. Vsaka vlada na zemlji je enostaven konsenzni algoritem, po katerem se prebivalstvo strinja, da bo upoštevalo določen skupek pravil, vsebovanih v ustavi. Vlade postavijo sodišča, sodnike in porote, da bi interpretirali subjektivna dejstva in sprejeli končno odločitev. Večino časa ljudje spoštujejo sprejeto odločitev, tudi če je napačna.
 
 The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
 
