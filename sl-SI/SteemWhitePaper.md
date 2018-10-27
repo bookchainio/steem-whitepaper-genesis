@@ -301,13 +301,13 @@ Algoritmi, ki jih uporabljajo kriptovalute, priskrbijo boljši način za dosego 
 
 Glavni dejavnik je določanje, katero pričanje sme biti vpisano v javni dnevnik. Sistemi bi morali biti zasnovani tako, da se karseda zmanjša potreba po cenzuri. Cenzura javnega dnevnika je podobna temu, da se nekomu prepreči glasovanje na volitvah. V obeh primerih se posamezniku prepreči vplivati na sprejem globalnega soglasja.
 
-## Konsenz na Steemu
+## Konsenz pri Steemu
 
-Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+Konceptualno je konsezni algoritem, ki ga je sprejel Steem, podoben konseznemu algoritmu, ki ga sprejemajo podjetja po vsem svetu. Ljudje, ki jih zanimajo naložbe v prihodnjo vrednost Steema, glasujejo za izbiro posameznikov, odgovornih za vpisovanje pričanja v javni dnevnik. Vrednost glasov vsakega posameznika je sorazmerna z vrednostjo njegove naložbe.
 
-In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
+V svetu kriptovalut se javni dnevnik ponavadi imenuje *blockchain* (veriženje blokov). *Blok* je skupina podpisanih transakcij.
 
-With Steem, block production is done in rounds. Each round 21 witnesses are selected to create and sign blocks of transactions. Nineteen (19) of these witnesses are selected by approval voting, one is selected by a computational proof-of-work, and one is timeshared by every witness that didn't make it into the top 19 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before.
+Pri Steemu se izdelava blokov opravlja v krogih. Za vsak krog je izbranih 21 prič, da ustvarijo in podpišejo bloke transakcij. Devetnajst (19) od teh prič je izbranih z odobritvenim glasovanjem, eden je izbran z računskim dokazilom o delu in eden je izbran iz skupine prič, ki jim ni uspelo priti med prvih 19 (vsak od teh pride na vrsto sorazmerno s številom glasov, ki jih je prejel). Enaindvajset (21) aktivnih prič se premeša vsak krog, da bi se preprečilo to, da bi ena od prič nenehno ignorirala bloke, ki jih je že ustvarila ista priča v vrsti pred njim.
 
 This process is designed to provide the best reliability while ensuring that everyone has the potential to participate in block production regardless of whether they are popular enough to get voted to the top. People have three options to overcome censorship by the top 19 elected witnesses: patiently wait in line with everyone else not in the top 19, purchase enough computational power to solve a proof of work faster than others, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
 
