@@ -84,9 +84,9 @@ Pupo ninu afikun je isiowo kiko akopamo yala lilo arun pin ola tooto. 90% afikun
 
 Awon ile ise tohun sese bere nilo ifaramo owo idokoowo igba gigun. Awon tohun kowowon lori isesebere nilo lati duro fun odun kiwon to le ta awon ipin won ati ri awon ere won. Laisi ifaramo igbe to gun, isesebere kan tohun wa afikun owo idaokowo si nipa tita afikun awon ipin yio ma dije pelu awon to ti ni ipin ti won fe kuro. Awon olukowole nkan to jafafa fe ki awon owo idokoowo won ko mu ki ile ise na dagba, sugbon idagbasoke kole sele ti aba fun awon to ni ipin to fe kuro ni owo idokoowo titun.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+Iye pataki wa ninu nini ifaramo ti igba gigun nitori pe o fayesile fun awon ahbegbe lati se eto ti oni igba gigun. Ifaramo igba gigun ti awon to ni ipin naa man jeki won dibo fun idagbasoke igba to gun yala awon oofa igba kekere.
 
-In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
+Ni aye cryptocurrency, awon oluro ma nfo lati cryptocurrency si cryptocurrency to da lori ewo lo le ni idagbasoke igba kekere. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
 Because Steem wants to encourage long-term growth, it is hardwired to allocate 9 STEEM to Steem Power (SP) stakeholders for every 1 STEEM it creates to fund growth through contribution incentives. Over time this drives the ratio of the total STEEM value of Steem Power balances to the total of STEEM balances toward 9:1 . (It seems likely that the ratio will be somewhat greater than 9:1 due to continued net Powering Up of the newly printed STEEM.) It also means that long-term holders are almost completely protected from the dilution used to fund growth.
 
