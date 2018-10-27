@@ -56,9 +56,9 @@ Niwongba ti osuwon ofe je ipinle to daniloju, oun dani nwo lati gbiyanju lati se
 
 Ase apeere Steemu lati fayegba awon isanwo kekere to doko fun ilowosi orisirisi nipa iyipada isiro oro aje na. Awon onkawe ko nilo lati ma ronu boya wonfe tabi won o fe sanwo fun enikan lati apo won, dipo, win le dibo soke tabi isale fun akoonu ati pe Steemu yio lo awon ibo won lati mo iye ere olukuluku. Eleyi tumo si wipe afun awon eniyan ni atokun to jora ti an lo kaakiri ati won koni dojuko imo, mti kii ṣe akiyesi, ati awon iye-owo anfani to sopo mo osanwo kekere ibile ati awon ipinle fifunni.
 
-Igbasile Idibo lati odo awon elegbe agbegbe je pataki fun Steemu lati pin awon isanowo fun awon olulowosi daada. Ale wo idibo bi ilowosi to se pataki ati to ye fun awon ere ni ara re. Some platforms, such as Slashdot, use meta-moderation [^3] as a way to rank and reward honest moderators. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+Igbasile Idibo lati odo awon elegbe agbegbe je pataki fun Steemu lati pin awon isanowo fun awon olulowosi daada. Ale wo idibo bi ilowosi to se pataki ati to ye fun awon ere ni ara re. Awon pulatiformu, bi Slashdot, nlo meta-moderation [^3] ni ona kan lati fi sipo ati fun ere fun awon alokoso olooto. Steemu yan lati fun awon to se ilowosi pupo ju si igbelaruge ti eyo akoonu kan ni ere ati awon oludibo ni iye ere kanna bi ere ta pada sun fun awon aseda akoonu nigbehin.
 
-There are other forms of contribution that Steem recognizes and rewards using objective metrics. Among these are: transaction validation, proof of work mining, liquidity rewards, and reporting of misbehaving block producers.
+Eya awon iluwosi miran wa ti Steemu daamo ati to sin fun ni ere nipa lilo erongba awon mẹ́tíríìkì. Among these are: transaction validation, proof of work mining, liquidity rewards, and reporting of misbehaving block producers.
 
 # Ways to Contribute
 
