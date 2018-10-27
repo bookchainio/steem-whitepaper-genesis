@@ -301,7 +301,7 @@ Algoritmi, ki jih uporabljajo kriptovalute, priskrbijo boljši način za dosego 
 
 Glavni dejavnik je določanje, katero pričanje sme biti vpisano v javni dnevnik. Sistemi bi morali biti zasnovani tako, da se karseda zmanjša potreba po cenzuri. Cenzura javnega dnevnika je podobna temu, da se nekomu prepreči glasovanje na volitvah. V obeh primerih se posamezniku prepreči vplivati na sprejem globalnega soglasja.
 
-## Konsenz pri Steemu
+## Konsenz na Steemu
 
 Konceptualno je konsezni algoritem, ki ga je sprejel Steem, podoben konseznemu algoritmu, ki ga sprejemajo podjetja po vsem svetu. Ljudje, ki jih zanimajo naložbe v prihodnjo vrednost Steema, glasujejo za izbiro posameznikov, odgovornih za vpisovanje pričanja v javni dnevnik. Vrednost glasov vsakega posameznika je sorazmerna z vrednostjo njegove naložbe.
 
@@ -309,13 +309,13 @@ V svetu kriptovalut se javni dnevnik ponavadi imenuje *blockchain* (veriženje b
 
 Pri Steemu se izdelava blokov opravlja v krogih. Za vsak krog je izbranih 21 prič, da ustvarijo in podpišejo bloke transakcij. Devetnajst (19) od teh prič je izbranih z odobritvenim glasovanjem, eden je izbran z računskim dokazilom o delu in eden je izbran iz skupine prič, ki jim ni uspelo priti med prvih 19 (vsak od teh pride na vrsto sorazmerno s številom glasov, ki jih je prejel). Enaindvajset (21) aktivnih prič se premeša vsak krog, da bi se preprečilo to, da bi ena od prič nenehno ignorirala bloke, ki jih je že ustvarila ista priča v vrsti pred njim.
 
-Ta postopek je zasnovan, da bi zagotavljal največjo zanesljivost, hkrati pa zagotavljal, da ima vsakdo možnost sodelovati pri izdelavi blokov, ne glede na to, ali je dovolj priljubljen, da je izglasovan med najvišje uvrščene. Ljudje imajo tri možnosti za premostitev cenzure 19 izbranih prič: potrpežljivo čakajo v vrsti skupaj z vsemi drugimi, ki niso med prvimi 19-imi, kupijo dovolj računske moči, da rešujejo dokazilo o delu hitreje kot drugi ali pa da kupijo več SP-ja in tako povečajo glasovalno moč. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
+Ta postopek je zasnovan, da bi zagotavljal največjo zanesljivost, hkrati pa zagotavljal, da ima vsakdo možnost sodelovati pri izdelavi blokov, ne glede na to, ali je dovolj priljubljen, da je izglasovan med najvišje uvrščene. Ljudje imajo tri možnosti za premostitev cenzure 19 izbranih prič: potrpežljivo čakajo v vrsti skupaj z vsemi drugimi, ki niso med prvimi 19-imi, kupijo dovolj računske moči, da rešujejo dokazilo o delu hitreje kot drugi ali pa da kupijo več SP-ja in tako povečajo glasovalno moč. Na splošno je uporaba cenzure dober način, da izbrane priče izgubijo svojo službo, zaradi česar ni verjetno, da bi to predstavljalo pravi problem v Steem omrežju.
 
-Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
+Ker so aktivne priče znane vnaprej, lahko Steem razporedi priče za izdelavo blokov vsake 3 sekunde. Priče sinhronizirajo svojo proizvodnjo blokov preko protokola NTP. Različico tega algoritma uporablja omrežje BitShares že več kot eno leto in se je izkazalo za zanesljivo.
 
-## Mining in Steem
+## Rudarjenje na Steem-u
 
-Traditional proof of work blockchains combine block production with the solving of a proof of work. Because the process of solving a proof of work takes an unpredictable amount of time, the result is unpredictable block production times. Steem aims to have consistent and reliable block production every 3 seconds with almost no potential for forks.
+Tradicionalni blockchaini z dokazilom o delu kombinirajo izdelavo blokov z reševanjem dokazila o delu. Ker postopek reševanja dokazila o delu traja nepredvidljivo dolgo, so rezultat nepredvideni časi izdelave blokov. Steem aims to have consistent and reliable block production every 3 seconds with almost no potential for forks.
 
 To achieve this Steem separates block production from solving of proof of work. When a miner solves a proof of work for Steem, they broadcast a transaction containing the work. The next scheduled witness includes the transaction into the blockchain. When the transaction is included the miner is added to the queue of miners scheduled to produce blocks. Each round one miner is popped from the queue and included in the active set of witnesses. The miner gets paid when they produce a block at the time they are scheduled.
 
