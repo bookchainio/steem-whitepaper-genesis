@@ -72,9 +72,9 @@ Netiworki Steemu npe awon isori dukia ti ni Steemu (STEEM), agbara Steemu (SP), 
 
 ## Steemu (STEEM)
 
-Steemu je koko kan fun akopamo lori blockchain Steemu. Awon aami miran mu iye won lati iye STEEM. Generally speaking STEEM should be held for short periods of time when liquidity is needed. Someone looking to enter or exit the Steem platform will have to buy or sell STEEM. Once STEEM has been purchased it should be converted into SP or SMD to mitigate the impact of dilution over the long-term.
+Steemu je koko kan fun akopamo lori blockchain Steemu. Awon aami miran mu iye won lati iye STEEM. Ni sisoro gbogbo oye ka mu STEEM fun awon igba die nigba ti aba nilonoloomi. Enikan tohun wa ona lati wo tabi jade ninu pulatiformu Steemu yio nilo lati ra tabi ta STEEM. Ti aba ti ra STEEM lowokan oye ko yipada si SP tabi SMD lati se idaduro ipa ti adapo ni igba gigun.
 
-STEEM is constantly increasing in supply by 100% per year due to non-SMD incentives. Someone who holds STEEM without converting it to SP is diluted by approximately 0.19% per day. While the rate may appear high, for transactions that take less than 10 days, it is still cheaper than credit card processing fees. Furthermore, the daily token creation is insignificant next to the daily volatility.
+STEEM n posi ni ipese loorekoore nipa 100% ni odun kan si awon imoriya tio se SMD. Enikan to ba mu STEEM lai se iyipada re si SP ni adapo nipa bi 0.19% ni ojokan. While the rate may appear high, for transactions that take less than 10 days, it is still cheaper than credit card processing fees. Furthermore, the daily token creation is insignificant next to the daily volatility.
 
 Someone who buys Bitcoin or any other cryptocurrency and sells it 10 days later could easily lose 3% or more due to price fluctuations. Someone who buys Bitcoin and then sells it the same day will usually pay more than 0.4% in market fees alone. In other words, the inflation rate is effectively insignificant during the period of time the typical individual will hold STEEM.
 
