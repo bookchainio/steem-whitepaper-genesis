@@ -58,9 +58,9 @@ Ase apeere Steemu lati fayegba awon isanwo kekere to doko fun ilowosi orisirisi 
 
 Igbasile Idibo lati odo awon elegbe agbegbe je pataki fun Steemu lati pin awon isanowo fun awon olulowosi daada. Ale wo idibo bi ilowosi to se pataki ati to ye fun awon ere ni ara re. Awon pulatiformu, bi Slashdot, nlo meta-moderation [^3] ni ona kan lati fi sipo ati fun ere fun awon alokoso olooto. Steemu yan lati fun awon to se ilowosi pupo ju si igbelaruge ti eyo akoonu kan ni ere ati awon oludibo ni iye ere kanna bi ere ta pada sun fun awon aseda akoonu nigbehin.
 
-Eya awon iluwosi miran wa ti Steemu daamo ati to sin fun ni ere nipa lilo erongba awon mẹ́tíríìkì. Among these are: transaction validation, proof of work mining, liquidity rewards, and reporting of misbehaving block producers.
+Eya awon iluwosi miran wa ti Steemu daamo ati to sin fun ni ere nipa lilo erongba awon mẹ́tíríìkì. Lara won ni: fifeyinti idunadura, eri ise wiwa isura, awon ere oloomi, ati fifisun awon olupese buloku toun se bio ti ye.
 
-# Ways to Contribute
+# Awon ona ati se Ilowosi
 
 This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
 
