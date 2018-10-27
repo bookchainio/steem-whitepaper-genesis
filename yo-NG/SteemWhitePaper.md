@@ -66,13 +66,13 @@ Abala yi se afihan awon ero tohun be leyin Steemu ati awon ere re fun awon tin p
 
 ## Awon Owo Idokoowo Ilowosi
 
-Awon nkan mefi ni agbegbe kan le pese lati fa owo idokoowo mora: gbese ati oniwun. Awon to ra oniwun n jere nigbati agbegbe ban dagbe sugbon padanu ti agbegbe ba n kekere. Awon to ba ra gbese ni idaniloju anfani die sugbon ko letnlati kopa ninu ere kankan ti a ri nipase idagbasoke agbegbe na. Iru awon owo idokoowo ilowosi mejeji se pataki si idagbasoke ti agbegbe ati iye owo re. Ni afikun ona meji wa ti a le mu oniwun: oloomi ati vesitini. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Awon nkan mefi ni agbegbe kan le pese lati fa owo idokoowo mora: gbese ati oniwun. Awon to ra oniwun n jere nigbati agbegbe ban dagbe sugbon padanu ti agbegbe ba n kekere. Awon to ba ra gbese ni idaniloju anfani die sugbon ko letnlati kopa ninu ere kankan ti a ri nipase idagbasoke agbegbe na. Iru awon owo idokoowo ilowosi mejeji se pataki si idagbasoke ti agbegbe ati iye owo re. Ni afikun ona meji wa ti a le mu oniwun: oloomi ati vesitini. Vesitini oniwun se ifaramo ihba to gun ati kosi le se ta fun akoko kekere.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SMD).
+Netiworki Steemu npe awon isori dukia ti ni Steemu (STEEM), agbara Steemu (SP), ati Dola Steemu (SMD).
 
-## Steem (STEEM)
+## Steemu (STEEM)
 
-Steem is the fundamental unit of account on the Steem blockchain. All other tokens derive their value from the value of STEEM. Generally speaking STEEM should be held for short periods of time when liquidity is needed. Someone looking to enter or exit the Steem platform will have to buy or sell STEEM. Once STEEM has been purchased it should be converted into SP or SMD to mitigate the impact of dilution over the long-term.
+Steemu je koko kan fun akopamo lori blockchain Steemu. Awon aami miran mu iye won lati iye STEEM. Generally speaking STEEM should be held for short periods of time when liquidity is needed. Someone looking to enter or exit the Steem platform will have to buy or sell STEEM. Once STEEM has been purchased it should be converted into SP or SMD to mitigate the impact of dilution over the long-term.
 
 STEEM is constantly increasing in supply by 100% per year due to non-SMD incentives. Someone who holds STEEM without converting it to SP is diluted by approximately 0.19% per day. While the rate may appear high, for transactions that take less than 10 days, it is still cheaper than credit card processing fees. Furthermore, the daily token creation is insignificant next to the daily volatility.
 
