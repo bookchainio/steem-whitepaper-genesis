@@ -321,9 +321,9 @@ Steem to dosega s tem, da ločuje izdelavo blokov od reševanja dokazila o delu.
 
 Zahtevnost dokazila o delu se podvoji vsakič, ko se dolžina vrste poveča za 4. Ker je v vsakem krogu izbran iz vrste en rudar in vsak krog traja 21 \* 3 = 63 sekund, se težavnost samodejno razpolovi, če ni najdenega dokazila o delu dlje kot 21 \*3 \* 4 = 252 sekund.
 
-### Mining Rewards require Steem Power
+### Nagrade za rudarjenje zahtevajo Steem Power
 
-After the first month, Steem miners are paid in Steem Power (SP). SP is liquidated through the two-year process of "powering down". This means that miners must wait for a long time, likely many months, before sufficient mining rewards have been powered down to allow them to recover the cost of electricity and computational resources. The powering down process discourages creation of mining pools because the pool operator would have to spread payouts over years.
+Steem rudarji po prvem mesecu za svoje delo prejmejo Steem Power (SP). SP se unovči z dveletnim postopkom, ki se imenuje "powering down". To pomeni, da morajo rudarji čakati dolgo časa, verjetno mnogo mesecev, preden bodo dejansko prejeli dovolj nagrad za rudarjenje, da bodo lahko pokrili stroške elektrike in računalniških sredstev. The powering down process discourages creation of mining pools because the pool operator would have to spread payouts over years.
 
 The effect of paying mining rewards in SP is to prevent miners from using today's price to determine the pro tability of mining. Few people will agree on what the future price will be. This means mining difficulty will be driven by those who place the highest estimate on future value. Miners without a long-term interest in the platform will be discouraged from competing. Ultimately this means that the proceeds of mining are less likely to be dumped on the market because they will accrue to long-term believers in the platform.
 
