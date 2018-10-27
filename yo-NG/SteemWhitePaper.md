@@ -62,11 +62,11 @@ Eya awon iluwosi miran wa ti Steemu daamo ati to sin fun ni ere nipa lilo erongb
 
 # Awon ona ati se Ilowosi
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+Abala yi se afihan awon ero tohun be leyin Steemu ati awon ere re fun awon tin pese awon ilowosi to nitunmo ati a le won si agbegbe Steemu.
 
 ## Capital Contributions
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Awon nkan mefi ni agbegbe kan le pese lati fa owo idokoowo mora: gbese ati oniwun. Awon to ra oniwun n jere nigbati agbegbe ban dagbe sugbon padanu ti agbegbe ba n kekere. Awon to ba ra gbese ni idaniloju anfani die sugbon ko letnlati kopa ninu ere kankan ti a ri nipase idagbasoke agbegbe na. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SMD).
 
