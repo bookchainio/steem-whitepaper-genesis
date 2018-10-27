@@ -283,9 +283,9 @@ Ekonomski učinek takšnega pristopa je podoben loteriji, pri čemer ljudje pret
 
 #### Nagrajujoče glavne objave
 
-Dobre razprave zahtevajo veliko pisanja in odpisovanja. Ko odgovorite komu drugemu, ta dobijo 50% vsakega izplačila, ki ga prejmete v tej razpravi. To pravilo se nanaša na globino 6 stopenj. Starting a big discussion greatly rewards the parent poster.
+Dobre razprave zahtevajo veliko pisanja in odpisovanja. Ko odgovorite komu drugemu, ta dobijo 50% vsakega izplačila, ki ga prejmete v tej razpravi. To pravilo se nanaša na globino 6 stopenj. Tisti, ki prične veliko glavno razpravo, je za to bogato nagrajen.
 
-Failure to properly nest your posts in the discussion is a good way to get down voted.
+Če ne boste pravilno gnezdili svojih objav v razpravi, se lahko kaj hitro zgodi, da boste prejeli negativne glasove.
 
 This incentive structure motivates people to contribute in a way that motivates others to get involved. It encourages people to ask good questions so that others can provide valuable answers.
 
