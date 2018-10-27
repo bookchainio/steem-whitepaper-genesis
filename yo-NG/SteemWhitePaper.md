@@ -76,9 +76,9 @@ Steemu je koko kan fun akopamo lori blockchain Steemu. Awon aami miran mu iye wo
 
 STEEM n posi ni ipese loorekoore nipa 100% ni odun kan si awon imoriya tio se SMD. Enikan to ba mu STEEM lai se iyipada re si SP ni adapo nipa bi 0.19% ni ojokan. Nigbati iye re le ga, fun awon idunadura to kere ju ojo mewa lo, osi dinwo ju owow iseto káàdì arọ́pò owó. Ati siwajunsi, iseda aami ojojumo je aikasi sunmo ailawon ojojumo.
 
-Enikan toba ra Bitcoin tani cryptocurrency miran tosi tan leuin ojo mewa le padanu 3% pelu irorun tabi nipa ilosoke iwasile iye re. Enikan to ra Bitcoin to wa tamlojokanna yio san ju 0.4% ni owo oja nikan. In other words, the inflation rate is effectively insignificant during the period of time the typical individual will hold STEEM.
+Enikan toba ra Bitcoin tani cryptocurrency miran tosi tan leuin ojo mewa le padanu 3% pelu irorun tabi nipa ilosoke iwasile iye re. Enikan to ra Bitcoin to wa tamlojokanna yio san ju 0.4% ni owo oja nikan. Loro miran, iye afikun je imoose tio se pataki ni asiko ti eni na yio mu STEEM.
 
-The majority of inflation is actually an accounting artifact rather than true reallocation of wealth. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
+Pupo ninu afikun je isiowo kiko akopamo yala lilo arun pin ola tooto. 90% afikun ti awon tio se SMD lan pin pada sodo awon tohun mu STEEM dani tele to ba iye STEEM ti SP to seku mu, to je ko ri ni "pinpin". Only about 10% of non-SMD inflation redistributes ownership in the network.
 
 ## Steem Power (SP)
 
