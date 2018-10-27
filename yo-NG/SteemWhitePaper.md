@@ -64,9 +64,9 @@ Eya awon iluwosi miran wa ti Steemu daamo ati to sin fun ni ere nipa lilo erongb
 
 Abala yi se afihan awon ero tohun be leyin Steemu ati awon ere re fun awon tin pese awon ilowosi to nitunmo ati a le won si agbegbe Steemu.
 
-## Capital Contributions
+## Awon Owo Idokoowo Ilowosi
 
-Awon nkan mefi ni agbegbe kan le pese lati fa owo idokoowo mora: gbese ati oniwun. Awon to ra oniwun n jere nigbati agbegbe ban dagbe sugbon padanu ti agbegbe ba n kekere. Awon to ba ra gbese ni idaniloju anfani die sugbon ko letnlati kopa ninu ere kankan ti a ri nipase idagbasoke agbegbe na. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Awon nkan mefi ni agbegbe kan le pese lati fa owo idokoowo mora: gbese ati oniwun. Awon to ra oniwun n jere nigbati agbegbe ban dagbe sugbon padanu ti agbegbe ba n kekere. Awon to ba ra gbese ni idaniloju anfani die sugbon ko letnlati kopa ninu ere kankan ti a ri nipase idagbasoke agbegbe na. Iru awon owo idokoowo ilowosi mejeji se pataki si idagbasoke ti agbegbe ati iye owo re. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SMD).
 
