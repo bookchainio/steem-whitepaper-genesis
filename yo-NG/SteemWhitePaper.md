@@ -66,7 +66,7 @@ Abala yi se afihan awon ero tohun be leyin Steemu ati awon ere re fun awon tin p
 
 ## Awon Owo Idokoowo Ilowosi
 
-Awon nkan mefi ni agbegbe kan le pese lati fa owo idokoowo mora: gbese ati oniwun. Awon to ra oniwun n jere nigbati agbegbe ban dagbe sugbon padanu ti agbegbe ba n kekere. Awon to ba ra gbese ni idaniloju anfani die sugbon ko letnlati kopa ninu ere kankan ti a ri nipase idagbasoke agbegbe na. Iru awon owo idokoowo ilowosi mejeji se pataki si idagbasoke ti agbegbe ati iye owo re. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Awon nkan mefi ni agbegbe kan le pese lati fa owo idokoowo mora: gbese ati oniwun. Awon to ra oniwun n jere nigbati agbegbe ban dagbe sugbon padanu ti agbegbe ba n kekere. Awon to ba ra gbese ni idaniloju anfani die sugbon ko letnlati kopa ninu ere kankan ti a ri nipase idagbasoke agbegbe na. Iru awon owo idokoowo ilowosi mejeji se pataki si idagbasoke ti agbegbe ati iye owo re. Ni afikun ona meji wa ti a le mu oniwun: oloomi ati vesitini. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SMD).
 
