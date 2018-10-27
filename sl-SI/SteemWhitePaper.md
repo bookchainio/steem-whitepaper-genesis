@@ -295,13 +295,13 @@ Ko objava prejme izplačilo, je to v obliki 50% SMD in 50% SP. Steem Power daje 
 
 # Konsenzni algoritem
 
-Konsenz je postopek, s katerem skupnost pride do splošno priznanega, nedvoumnega soglasja glede določenega podatka. Obstaja veliko algoritmov, ki so jih ljudje razvili glede dosege konsenza o tem, kdo ima kaj v lasti. Vsaka vlada na zemlji je enostaven konsenzni algoritem, po katerem se prebivalstvo strinja, da bo upoštevalo določen skupek pravil, vsebovanih v ustavi. Vlade postavijo sodišča, sodnike in porote, da bi interpretirali subjektivna dejstva in sprejeli končno odločitev. Večino časa ljudje spoštujejo sprejeto odločitev, tudi če je napačna.
+Konsenz je postopek, s katerim skupnost pride do splošno priznanega, nedvoumnega soglasja glede določenega podatka. Obstaja veliko algoritmov, ki so jih ljudje razvili glede dosege konsenza o tem, kdo ima kaj v lasti. Vsaka vlada na zemlji je enostaven konsenzni algoritem, po katerem se prebivalstvo strinja, da bo upoštevalo določen skupek pravil, vsebovanih v ustavi. Vlade postavijo sodišča, sodnike in porote, da bi interpretirali subjektivna dejstva in sprejeli končno odločitev. Večino časa ljudje spoštujejo sprejeto odločitev, tudi če je napačna.
 
-Algoritmi, ki jih uporabljajo kriptovalute, priskrbijo boljši način za dosego konsenza. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+Algoritmi, ki jih uporabljajo kriptovalute, priskrbijo boljši način za dosego konsenza. Kriptografsko podpisana pričanja posameznikov so vpisana v javni dnevnik, ki določa absolutno globalni vrstni red dogodkov. Determinističen računalniški algoritem lahko nato obdela ta dnevnik in pride do splošno sprejetega sklepa. Vse dokler se člani skupnosti strinjajo z algoritmom za obdelavo, je rezultat algoritma avtoritativen.
 
-The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
+Glavni dejavnik je določanje, katero pričanje sme biti vpisano v javni dnevnik. Sistemi bi morali biti zasnovani tako, da se karseda zmanjša potreba po cenzuri. Cenzura javnega dnevnika je podobna temu, da se nekomu prepreči glasovanje na volitvah. V obeh primerih se posamezniku prepreči vplivati na sprejem globalnega soglasja.
 
-## Consensus in Steem
+## Konsenz na Steemu
 
 Conceptually, the consensus algorithm adopted by Steem is similar to the consensus algorithm adopted by companies throughout the world. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
 
