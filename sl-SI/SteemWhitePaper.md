@@ -315,11 +315,11 @@ Ker so aktivne priče znane vnaprej, lahko Steem razporedi priče za izdelavo bl
 
 ## Rudarjenje na Steem-u
 
-Tradicionalni blockchaini z dokazilom o delu kombinirajo izdelavo blokov z reševanjem dokazila o delu. Ker postopek reševanja dokazila o delu traja nepredvidljivo dolgo, so rezultat nepredvideni časi izdelave blokov. Steem aims to have consistent and reliable block production every 3 seconds with almost no potential for forks.
+Tradicionalni blockchaini z dokazilom o delu kombinirajo izdelavo blokov z reševanjem dokazila o delu. Ker postopek reševanja dokazila o delu traja nepredvidljivo dolgo, so rezultat nepredvideni časi izdelave blokov. Steem si prizadeva dosledno in zanesljivo izdelovati bloke vsake 3 sekunde brez skoraj nobene potrebe po razcepih (fork).
 
-To achieve this Steem separates block production from solving of proof of work. When a miner solves a proof of work for Steem, they broadcast a transaction containing the work. The next scheduled witness includes the transaction into the blockchain. When the transaction is included the miner is added to the queue of miners scheduled to produce blocks. Each round one miner is popped from the queue and included in the active set of witnesses. The miner gets paid when they produce a block at the time they are scheduled.
+Steem to dosega s tem, da ločuje izdelavo blokov od reševanja dokazila o delu. Ko rudarji rešijo dokazilo o delu za Steem, objavijo transakcijo, ki vsebuje delo. Naslednja priča po seznamu vpiše transakcijo v blockchain. Ko je transakcija vpisana, je rudar dodan v vrsto rudarjev, ki so načrtovani za izdelavo blokov. Vsak krog je eden od rudarjev izbran iz vrste in vključen v aktivni seznam prič. Rudar prejme plačilo, ko izdela blok ob času, ki je določen zanj.
 
-The difficulty of the proof of work doubles every time the queue length grows by 4. Because one miner is popped from the queue every round, and each round takes 21 \* 3 = 63 seconds, the difficulty automatically halves if no proof of work is found in no more than 21 \* 3 \* 4 = 252 seconds.
+Zahtevnost dokazila o delu se podvoji vsakič, ko se dolžina vrste poveča za 4. Ker je v vsakem krogu izbran iz vrste en rudar in vsak krog traja 21 \* 3 = 63 sekund, se težavnost samodejno razpolovi, če ni najdenega dokazila o delu dlje kot 21 \*3 \* 4 = 252 sekund.
 
 ### Mining Rewards require Steem Power
 
