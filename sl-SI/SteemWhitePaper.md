@@ -287,11 +287,11 @@ Dobre razprave zahtevajo veliko pisanja in odpisovanja. Ko odgovorite komu druge
 
 Če ne boste pravilno gnezdili svojih objav v razpravi, se lahko kaj hitro zgodi, da boste prejeli negativne glasove.
 
-This incentive structure motivates people to contribute in a way that motivates others to get involved. It encourages people to ask good questions so that others can provide valuable answers.
+Ta motivirajoča struktura spodbuja ljudi k prispevanju na način, ki spodbudi druge k sodelovanju. Ljudi motivira, da postavljajo dobra vprašanja, tako da lahko drugi priskrbijo dragocene odgovore.
 
-### Payouts
+### Izplačila
 
-When a post receives a payout it takes the form of 50% SMD and 50% SP. The Steem Power give the user increased voting and transaction power while the SMD gives the user an immediate benefit in a stable currency. As we've already discussed at length, both SP and SMD are designed to encourage long-term holding rather than short-term selling.
+Ko objava prejme izplačilo, je to v obliki 50% SMD in 50% SP. Steem Power daje uporabniku večjo moč pri glasovanju in transakcijah, medtem ko SMD uporabniku takoj koristi zaradi stabilnosti valute. As we've already discussed at length, both SP and SMD are designed to encourage long-term holding rather than short-term selling.
 
 # Consensus Algorithm
 
