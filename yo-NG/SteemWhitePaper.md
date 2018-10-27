@@ -78,11 +78,11 @@ STEEM n posi ni ipese loorekoore nipa 100% ni odun kan si awon imoriya tio se SM
 
 Enikan toba ra Bitcoin tani cryptocurrency miran tosi tan leuin ojo mewa le padanu 3% pelu irorun tabi nipa ilosoke iwasile iye re. Enikan to ra Bitcoin to wa tamlojokanna yio san ju 0.4% ni owo oja nikan. Loro miran, iye afikun je imoose tio se pataki ni asiko ti eni na yio mu STEEM.
 
-Pupo ninu afikun je isiowo kiko akopamo yala lilo arun pin ola tooto. 90% afikun ti awon tio se SMD lan pin pada sodo awon tohun mu STEEM dani tele to ba iye STEEM ti SP to seku mu, to je ko ri ni "pinpin". Only about 10% of non-SMD inflation redistributes ownership in the network.
+Pupo ninu afikun je isiowo kiko akopamo yala lilo arun pin ola tooto. 90% afikun ti awon tio se SMD lan pin pada sodo awon tohun mu STEEM dani tele to ba iye STEEM ti SP to seku mu, to je ko ri ni "pinpin". Bi iye 10% ti awon afikun tio se SMD loun pin pada si awon iniwun ni nu networki.
 
-## Steem Power (SP)
+## Agbara Steemu (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Awon ile ise tohun sese bere nilo ifaramo owo idokoowo igba gigun. Awon tohun kowowon lori isesebere nilo lati duro fun odun kiwon to le ta awon ipin won ati ri awon ere won. Laisi ifaramo igbe to gun, isesebere kan tohun wa afikun owo idaokowo si nipa tita afikun awon ipin yio ma dije pelu awon to ti ni ipin ti won fe kuro. Awon olukowole nkan to jafafa fe ki awon owo idokoowo won ko mu ki ile ise na dagba, sugbon idagbasoke kole sele ti aba fun awon to ni ipin to fe kuro ni owo idokoowo titun.
 
 There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
