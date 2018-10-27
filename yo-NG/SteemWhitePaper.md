@@ -74,9 +74,9 @@ Netiworki Steemu npe awon isori dukia ti ni Steemu (STEEM), agbara Steemu (SP), 
 
 Steemu je koko kan fun akopamo lori blockchain Steemu. Awon aami miran mu iye won lati iye STEEM. Ni sisoro gbogbo oye ka mu STEEM fun awon igba die nigba ti aba nilonoloomi. Enikan tohun wa ona lati wo tabi jade ninu pulatiformu Steemu yio nilo lati ra tabi ta STEEM. Ti aba ti ra STEEM lowokan oye ko yipada si SP tabi SMD lati se idaduro ipa ti adapo ni igba gigun.
 
-STEEM n posi ni ipese loorekoore nipa 100% ni odun kan si awon imoriya tio se SMD. Enikan to ba mu STEEM lai se iyipada re si SP ni adapo nipa bi 0.19% ni ojokan. While the rate may appear high, for transactions that take less than 10 days, it is still cheaper than credit card processing fees. Furthermore, the daily token creation is insignificant next to the daily volatility.
+STEEM n posi ni ipese loorekoore nipa 100% ni odun kan si awon imoriya tio se SMD. Enikan to ba mu STEEM lai se iyipada re si SP ni adapo nipa bi 0.19% ni ojokan. Nigbati iye re le ga, fun awon idunadura to kere ju ojo mewa lo, osi dinwo ju owow iseto káàdì arọ́pò owó. Ati siwajunsi, iseda aami ojojumo je aikasi sunmo ailawon ojojumo.
 
-Someone who buys Bitcoin or any other cryptocurrency and sells it 10 days later could easily lose 3% or more due to price fluctuations. Someone who buys Bitcoin and then sells it the same day will usually pay more than 0.4% in market fees alone. In other words, the inflation rate is effectively insignificant during the period of time the typical individual will hold STEEM.
+Enikan toba ra Bitcoin tani cryptocurrency miran tosi tan leuin ojo mewa le padanu 3% pelu irorun tabi nipa ilosoke iwasile iye re. Enikan to ra Bitcoin to wa tamlojokanna yio san ju 0.4% ni owo oja nikan. In other words, the inflation rate is effectively insignificant during the period of time the typical individual will hold STEEM.
 
 The majority of inflation is actually an accounting artifact rather than true reallocation of wealth. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
 
