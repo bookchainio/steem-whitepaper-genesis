@@ -90,9 +90,9 @@ Ni aye cryptocurrency, awon oluro ma nfo lati cryptocurrency si cryptocurrency t
 
 Notori Steemu fe se iwuri fun idagbasoke igba gigun, ati seto irora re lati pin 9 STEEM si agbara Steemu (SP) fun awon to ni ipin fun gbogbo 1 STEEM to seda lati gbero idagbasoke nipa awon ilowosi imoriya. Tobaya eleyi man wa ipin ti gbogbo iye STEEM ti awon iseku agbara Steemu si ti awon gbogbo iseku STEEM si 9:1 . (O dabi die pe ipin na a ju 9:1 lo die nipase apapo gigbeagbara soke ti STEEM titun ta sese tejade.) O tun rumo si wipe awon tohun gbamu fun igba gigun fere ni apamo kuro ninu apapo ti afin buwo si idagbasoke.
 
-Leyin odun meji nipase awon isanwo ọgọrun ati mẹrin to dogba losese nikan lalefi yi SP pada si STEEM. Ale wo 'SP kan' bi ipin kan ninu odo ti STEEM. Netiwoki man fi STEEM kun odo gbogno buloki laifowoyi. Ni igbakugba awon olulo le se iyipada STEEM won si SP ni ipin kanna bi STEEM ninu odo vesitini si akopo SP. Yiyipada STEEM si SP ko se adapo mo awon tohun mu SP dani tele. Bakanna, nigbakugba ti aba yi SP pada si STEEM ipin ti isin lama lo. Individuals are guaranteed to have more STEEM in the future than they have when they rst convert from STEEM to SP.
+Leyin odun meji nipase awon isanwo ọgọrun ati mẹrin to dogba losese nikan lalefi yi SP pada si STEEM. Ale wo 'SP kan' bi ipin kan ninu odo ti STEEM. Netiwoki man fi STEEM kun odo gbogno buloki laifowoyi. Ni igbakugba awon olulo le se iyipada STEEM won si SP ni ipin kanna bi STEEM ninu odo vesitini si akopo SP. Yiyipada STEEM si SP ko se adapo mo awon tohun mu SP dani tele. Bakanna, nigbakugba ti aba yi SP pada si STEEM ipin ti isin lama lo. Won fun awon olukuluku ni eri wipe won a ni STEEM pupo ni ojo waju ju eleyi ti won ni nigba ti won koko yipada lati STEEM si SP.
 
-SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+A kole firanse tibi tun we awon iseku SP ayafi nipa awon ibere iyipada ailafiwosi loorekoore. Eleyi tunmo si pe SP o ni tete ta ni ori awon pasiparo cryptocurrency.
 
 SP is a requirement for voting for or against content. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
 
