@@ -327,9 +327,9 @@ Steem rudarji po prvem mesecu za svoje delo prejmejo Steem Power (SP). SP se uno
 
 Namen izplačevanja nagrad za rudarjenje v SP je preprečiti rudarjem, da bi s pomočjo trenutne cene določali dobičkonosnost rudarjenja. Ljudje ne morejo predvideti tega, kakšna bo cena v prihodnosti. To pomeni, da bodo težavnost rudarjenja narekovali tisti, ki prihodnjo ceno ocenjujejo najvišje. Rudarji, ki jih ne zanima dolgoročna naložba v platformo, bodo odstopili od sodelovanja. Navsezadnje to pomeni, da je manj verjetnosti, da bi bili izkupički iz rudarjenja prodani na trgu za vsako ceno, ampak bodo sredstva ostala v lasti tistih, ki verjamejo v dolgoročno rast platforme.
 
-### Mining Algorithm
+### Algoritem za rudarjenje
 
-The mining algorithm adopted by Steem requires the miner to have access to the private key of the account that will receive the rewards. This requirement has several important consequences. First it encourages optimization of elliptic curve signature verification algorithms needed by Steem. Second it makes it challenging to set up mining pools because the pool operator would have to share control over the reward with all of the "anonymous" miners. Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
+Algoritem za rudarjenje, ki ga je sprejel Steem, zahteva od rudarjev, da imajo dostop do zasebnega ključa računa, ki bo prejemal nagrade. Ta zahteva ima več pomembnih posledic. First it encourages optimization of elliptic curve signature verification algorithms needed by Steem. Second it makes it challenging to set up mining pools because the pool operator would have to share control over the reward with all of the "anonymous" miners. Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
 
 The following pseudocode describes how the proof-of-work hash value is calculated:
 
