@@ -542,11 +542,11 @@ Sieć Steem jest zbudowana w oparciu o Graphene, tę samą technologię, na któ
 
 ## Skala Reddita
 
-Platforma Steem jest zdolna obsługiwać większą ilość użytkowników niż Reddit. W 2015 roku 8,7 miliona użytkowników Reddita wygenerwało średnio 23 komentarze na sekundę [^13], przy średniej 83 komentarzy rocznie na użytkownika. Było 73 milionów postów najwyższego poziomu, przy średnio 2 nowych postach na sekundę. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Platforma Steem jest zdolna obsługiwać większą ilość użytkowników niż Reddit. W 2015 roku 8,7 miliona użytkowników Reddita wygenerwało średnio 23 komentarze na sekundę [^13], przy średniej 83 komentarzy rocznie na użytkownika. Stworzonych zostało 73 miliony najwyższej jakości wpisów. Co sekundę były publikowane średnio 2 nowych posty. Zagłosowano 7 milionów razy, co oznacza średnio 220 głosów na sekundę. Podsumowując, gdyby Reddit operował na technologii blockchain, potrzebowałby on średnio 250 transakcji na sekundę.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^14], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+Wy osiągnąć najlepszą wydajność w branży, platforma Steem zaczerpnęła lekcji od LMAX Exchange[^14], która zdolna jest przetworzyć 6 milionów transakcji na sekundę. Z lekcji tych można wynieść następujące wnioski:
 
-1. Keep everything in memory.
+1. Przetrzymuj wszystko w pamięci operacyjnej.
 2. Keep the core business logic in a single thread.
 3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
 4. Divide validation into state-dependent and state-independent checks.
