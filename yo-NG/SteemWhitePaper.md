@@ -104,7 +104,7 @@ Idurosinsin je nkan pataki ti aseyori oro aje agbaye. Lai si odurosinsin, awon o
 
 Aseda awon Dola Steemu nipase iseto kan to fere jo awon owo alayipada, ti a man lo loorekoore lati san owo idokoowo ti awon ile ise ibeere. Ni aye ibeere, awon owo ayipada je awon irinise gbese ti a le yipada si oniwun ni iye tama yan lojo iwaju, tio jo idokoowo ti ojo waju. Ale wo amii blockchain kan bi oniwub ni agbegbe na nigbati ale ri owo iyipada bi gbese ti a fi apeere owo re han ni oja miran tabi owo. Awon ofin ti owo iyipada gba eni to mu dani lati yipada si amii ifeyenti pelu akiyesi ranpe ni iye amii ni ile-iṣẹ iṣowo. Siseda aami awon dola iyipada gbalaye fun awon blockchain lati se idagbasoke netiworki won nigbati on se ìmútóbitán ipadabo fun awon tohun mu aami lowo.
 
-Steem Dollars are referred to with the symbol SMD, an acronym for Steem Dollars. Creating SMD requires a combination of a reliable price feed, rules to prevent abuse, and liquidity. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+Aman pe awon Dola Steemu ni aami SMB, akọsilẹ fun awon Dola Steemu. Siseda SMD nilo idapo owo ifunni to ni agbekele, awon ofin to daabobo lodi si ilokulo, ati isodomi. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
 
 ### Minimizing Fraudulent Feeds
 
