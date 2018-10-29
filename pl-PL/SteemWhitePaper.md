@@ -550,11 +550,11 @@ Wy osiągnąć najlepszą wydajność w branży, platforma Steem zaczerpnęła l
 2. Główną logikę biznesową zachowaj w pojedynczym wątku.
 3. Operacje kryptograficzne (hasze i podpisy) trzymaj z daleka od głównej logiki biznesowej.
 4. Podziel sprawdzanie poprawności na zależne i niezależne od stanu.
-5. Use an object oriented data model.
+5. Użyj modelu danych zorientowanego na obiekt.
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+Dzięki tym prostym zasadom, sieć Steem jest w stanie przetwarzać 10.000 transakcji na sekundę bez żadnych poświęceń na rzecz optymalizacji.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optanetechnology from Intel [^15]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Przetrzymywanie wszystkiego w pamięci staje się coraz bardziej wykonalne, zwłaszcza dzięki wprowadzonej ostatnio przez Intel technologii Optane [^15]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
 # Allocation & Supply
 
