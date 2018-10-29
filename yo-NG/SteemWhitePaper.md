@@ -106,9 +106,9 @@ Aseda awon Dola Steemu nipase iseto kan to fere jo awon owo alayipada, ti a man 
 
 Aman pe awon Dola Steemu ni aami SMB, akọsilẹ fun awon Dola Steemu. Siseda SMD nilo idapo owo ifunni to ni agbekele, awon ofin to daabobo lodi si ilokulo, ati isodomi. Pipese owo ifunni to ni afeyinti inlo nkan meta: didikun ipalara ti ifunni tio to, sise ìmútóbitán iye tan fin se agbejade ifunni tio to, ati ìmútóbitán iwulo ti akoko.
 
-### Minimizing Fraudulent Feeds
+### Didikun awon ifunni oni jibiti
 
-SP holders elect individuals to publish price feeds. These elected individuals are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+Awon tohun mu SP dani lo man yan awon olukuluku lati se agbejade ti awon ifunni towo. These elected individuals are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
