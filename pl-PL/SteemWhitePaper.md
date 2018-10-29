@@ -565,18 +565,18 @@ Sieć Steem zacyna od zerowej wartości waluty i przydziela STEEM w formie dowod
 - Nagrody kuratorskie: 1 STEEM za blok lub 3,875% rocznie, w zależności od tego, która wartość jest większa
 - Nagrody za tworzenie treści: 1 STEEM na blok, lub 3.875% rocznie, w zależności od tego, która wartość jest większa
 - Nagrody za tworzenie bloków: 1 STEEM na blok, lub 3.875% rocznie, w zależności od tego, która wartość jest większa
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- Nagrody oparte o dowód wykonanej pracy przed blokiem 864.000: 1 STEEM na blok (wypłacane jako 21 STEEM za rundę)
+- Nagrody oparte o dowód wykonanej pracy za blokiem 864.000: 0.0476 STEEM na blok (wypłacane jako 1 STEEM za rundę) lub 0.750% rocznie, w zależności od tego, która wartość jest większa.
+- Nagrody za płynność: 1 STEEM za blok (przyznawane jako 1200 STEEM za godzinę) lub 0,750% rocznie, w zależności od tego, która wartość jest większa
 
-**Power Rewards:**
+**Nagrody oparte o Steem Power:**
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- Nagrody oparte o Steem Power: Za każdą sztukę STEEM wytworzoną poprzez powyższe nagrody przypada 9 STEEM do podziału pomiędzy wszystkich posiadaczy Steem Power.
 
-**SMD operations:**
+**Operacje na SBD:**
 
-- SMD rewards: A percentage of SMD value is created at an APR set by the witnesses and paid to SMD holders as SMD
-- Feed Rate following: The amount of STEEM for which the total SMD in existence can be redeemed will change based on changes in the price feed. This change is effectively destruction ("burning") of STEEM when the value of STEEM (as measured by the feed) is increasing, or creation of STEEM when the value of STEEM (as measured by the feed) is declining.
+- Nagrody oparte o SBD: Procent wartości SBD wytworzony według rocznej stawki oprocentowania ustalonej przez świadków i wypłacane posiadaczom SBD w formie SBD
+- Współczynnik posuwu: Ilość STEEM, dla której można wykorzystać łączną wartość istniejącego SMD, zmieni się w zależności od zmian w podawanej cenie. This change is effectively destruction ("burning") of STEEM when the value of STEEM (as measured by the feed) is increasing, or creation of STEEM when the value of STEEM (as measured by the feed) is declining.
 
 The percentage constraints effectively ensure the incentives for rewards do not become meaninglessly small over time, which is intended to prevent the system from experiencing the "speed bump" in the growth pattern of many other blockchains, where an initial growth spurt fueled by high incentives for early participants is followed by prolonged stagnation as the continually falling incentives drop below the level necessary to induce newcomers to join.
 
