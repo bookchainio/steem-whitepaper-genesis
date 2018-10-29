@@ -108,7 +108,7 @@ Aman pe awon Dola Steemu ni aami SMB, akọsilẹ fun awon Dola Steemu. Siseda S
 
 ### Didikun awon ifunni oni jibiti
 
-Awon tohun mu SP dani lo man yan awon olukuluku lati se agbejade ti awon ifunni towo. These elected individuals are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+Awon tohun mu SP dani lo man yan awon olukuluku lati se agbejade ti awon ifunni towo. Awon to ti she vesitini awon olukuluku ta yan ni igbabgo ninu ifunni won to daara. Nipa sisan owo fun awon ti a yan, Steemu nseda idije oja lati gba anfani ati se agbejade awon ifunni. Pupo ti awon tohun se agbejade ifunni ba ngba pupo re ni won ni lati padanu si awon iroyin to je iro.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
