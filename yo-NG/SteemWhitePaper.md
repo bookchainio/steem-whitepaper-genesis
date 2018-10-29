@@ -112,7 +112,7 @@ Awon tohun mu SP dani lo man yan awon olukuluku lati se agbejade ti awon ifunni 
 
 Fi fifun iye awon olugbejade ifunni ti a gbagbo ati ta ti yan, oju lowo iye ti alo fun awon iyipada a le wari bi ilarin awon ifunni. Lona yi ti kekere ninu awon olukuluku tohun se agbejade ifunni ba gbejade awon eri to gbaju base ro lo won ni ipa kekere lori oju lowo ilarin nigba ti won si ni ipa agbara ti oruko rere won.
 
-Paapa ti gbogbo awon olugbejade ifunni ba je olooto, o sese ki awon opo olugbejade ni ipalara nipa awon isele to koja isakoso won lo. Ase apeere netiwoki Steemu lati se igbalaye idibaje fun igba die ti ilarin owo ifunni nigbati agbegbe ban sise takuntakun lati satunse oro yi. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+Paapa ti gbogbo awon olugbejade ifunni ba je olooto, o sese ki awon opo olugbejade ni ipalara nipa awon isele to koja isakoso won lo. Ase apeere netiwoki Steemu lati se igbalaye idibaje fun igba die ti ilarin owo ifunni nigbati agbegbe ban sise takuntakun lati satunse oro yi. Apeere okan ninu awon ariyangiyan to le gba akoko die lati se atunse ni ifowoyi oja fun igba die. Ifowoyi oja le osi tun won lati setoju fun awon igba to gun. Apeere miran a je ikuna ti pasiparo taarin tabi idibaje ti data ti a ti gbe jade nipe pasiparo.
 
 Steem factors out short-term price fluctuations by using the median price over a period of one week. The median published feed is sampled every hour on the hour.
 
