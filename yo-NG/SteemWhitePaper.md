@@ -116,13 +116,13 @@ Paapa ti gbogbo awon olugbejade ifunni ba je olooto, o sese ki awon opo olugbeja
 
 Awon nkan Steemulati ara ilosokewale iye owo fun igba die nipa lilo owo ilarin fun ose kan. Ifunni ti ilarin ti ati gbejade a gbeyewo ni wakati kokan lori wakati.
 
-Niwon igba ti idibaje ti iye owo ifunni ba wa fun okereju abo ferese akoko ilarin sisun yio ni ipa to kerejulo lori iye owo iyipada. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Niwon igba ti idibaje ti iye owo ifunni ba wa fun okereju abo ferese akoko ilarin sisun yio ni ipa to kerejulo lori iye owo iyipada. Ninu isele pe ifunni o ni idibaje, awon tohun lo netiworki a ni anfani lati dibo yo kuro awon to gbejade ifunni idibaje ki ifunni idibaje le ni ipalara lori iye owo ojulowo iyipada. Boya ni pataki, o fun awon tohun se agbejade ifunni ni anfani lati sawari ati satunse awon nkan ki ifunni won to bere sin ni pa lori owo.
 
-With a one week window, community members have three and a half days to respond to any issues that come up.
+Ninu ferese ose kan, awon elegbe agbegbe ni ojo meta ati abo alti fidahun si nkankan to ba yoju.
 
-### Mitigating Timing Attacks
+### Gbigbon Awon Akoko Idojuko
 
-Market participants have access to information faster than the blockchain's one week moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Awon tohun lo oja ni eto si iroyin ni kiakia ju sisun blockchain ti ose kan ti iyipada owo ilarin le sesi. A le lo iroyin na fun anfani awon onisowo laibikita agbegbe. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
 
 Steem levels the playing field by requiring all conversion requests to be delayed for one week. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
