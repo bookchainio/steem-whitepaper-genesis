@@ -576,7 +576,7 @@ Sieć Steem zacyna od zerowej wartości waluty i przydziela STEEM w formie dowod
 **Operacje na SBD:**
 
 - Nagrody oparte o SBD: Procent wartości SBD wytworzony według rocznej stawki oprocentowania ustalonej przez świadków i wypłacane posiadaczom SBD w formie SBD
-- Współczynnik posuwu: Ilość STEEM, dla której można wykorzystać łączną wartość istniejącego SMD, zmieni się w zależności od zmian w podawanej cenie. This change is effectively destruction ("burning") of STEEM when the value of STEEM (as measured by the feed) is increasing, or creation of STEEM when the value of STEEM (as measured by the feed) is declining.
+- Współczynnik posuwu: Ilość STEEM, dla której można wykorzystać łączną wartość istniejącego SMD, zmieni się w zależności od zmian w podawanej cenie. Ta zmiana skutecznie powoduje zniszczenie ("spalenie") STEEM, gdy wartość STEEM (mierzona przez posuw) wzrasta, bądź tworzenie STEEM, gdy wartość STEEM (mierzona przez posuw) maleje.
 
 The percentage constraints effectively ensure the incentives for rewards do not become meaninglessly small over time, which is intended to prevent the system from experiencing the "speed bump" in the growth pattern of many other blockchains, where an initial growth spurt fueled by high incentives for early participants is followed by prolonged stagnation as the continually falling incentives drop below the level necessary to induce newcomers to join.
 
