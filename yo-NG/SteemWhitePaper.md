@@ -114,9 +114,9 @@ Fi fifun iye awon olugbejade ifunni ti a gbagbo ati ta ti yan, oju lowo iye ti a
 
 Paapa ti gbogbo awon olugbejade ifunni ba je olooto, o sese ki awon opo olugbejade ni ipalara nipa awon isele to koja isakoso won lo. Ase apeere netiwoki Steemu lati se igbalaye idibaje fun igba die ti ilarin owo ifunni nigbati agbegbe ban sise takuntakun lati satunse oro yi. Apeere okan ninu awon ariyangiyan to le gba akoko die lati se atunse ni ifowoyi oja fun igba die. Ifowoyi oja le osi tun won lati setoju fun awon igba to gun. Apeere miran a je ikuna ti pasiparo taarin tabi idibaje ti data ti a ti gbe jade nipe pasiparo.
 
-Steem factors out short-term price fluctuations by using the median price over a period of one week. The median published feed is sampled every hour on the hour.
+Awon nkan Steemulati ara ilosokewale iye owo fun igba die nipa lilo owo ilarin fun ose kan. Ifunni ti ilarin ti ati gbejade a gbeyewo ni wakati kokan lori wakati.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Niwon igba ti idibaje ti iye owo ifunni ba wa fun okereju abo ferese akoko ilarin sisun yio ni ipa to kerejulo lori iye owo iyipada. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
 With a one week window, community members have three and a half days to respond to any issues that come up.
 
