@@ -558,7 +558,7 @@ Przetrzymywanie wszystkiego w pamięci staje się coraz bardziej wykonalne, zwł
 
 # Alokacja & Zaopatrzenie
 
-The Steem network starts with a currency supply of 0 and allocates STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network starts rewarding users who convert to SP. At this point, STEEM grows at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Sieć Steem zacyna od zerowej wartości waluty i przydziela STEEM w formie dowodu pracy w tempie ok. 40 STEEM za minutę dla wydobywających, przy czym dodatkowe 40 STEEM za minutę jest tworzone w celu zaszczepienia puli nagród za treści i kuracje (w sumie 80 STEEM za minutę). Następnie sieć zaczyna nagradzać użytkowników, którzy konwertowali środki do SP. At this point, STEEM grows at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
 
 **Contribution Rewards:**
 
