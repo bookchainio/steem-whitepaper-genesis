@@ -547,9 +547,9 @@ Platforma Steem jest zdolna obsługiwać większą ilość użytkowników niż R
 Wy osiągnąć najlepszą wydajność w branży, platforma Steem zaczerpnęła lekcji od LMAX Exchange[^14], która zdolna jest przetworzyć 6 milionów transakcji na sekundę. Z lekcji tych można wynieść następujące wnioski:
 
 1. Przetrzymuj wszystko w pamięci operacyjnej.
-2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
-4. Divide validation into state-dependent and state-independent checks.
+2. Główną logikę biznesową zachowaj w pojedynczym wątku.
+3. Operacje kryptograficzne (hasze i podpisy) trzymaj z daleka od głównej logiki biznesowej.
+4. Podziel sprawdzanie poprawności na zależne i niezależne od stanu.
 5. Use an object oriented data model.
 
 By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
