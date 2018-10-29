@@ -558,13 +558,13 @@ Przetrzymywanie wszystkiego w pamięci staje się coraz bardziej wykonalne, zwł
 
 # Alokacja & Zaopatrzenie
 
-Sieć Steem zacyna od zerowej wartości waluty i przydziela STEEM w formie dowodu pracy w tempie ok. 40 STEEM za minutę dla wydobywających, przy czym dodatkowe 40 STEEM za minutę jest tworzone w celu zaszczepienia puli nagród za treści i kuracje (w sumie 80 STEEM za minutę). Następnie sieć zaczyna nagradzać użytkowników, którzy konwertowali środki do SP. At this point, STEEM grows at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Sieć Steem zacyna od zerowej wartości waluty i przydziela STEEM w formie dowodu pracy w tempie ok. 40 STEEM za minutę dla wydobywających, przy czym dodatkowe 40 STEEM za minutę jest tworzone w celu zaszczepienia puli nagród za treści i kuracje (w sumie 80 STEEM za minutę). Następnie sieć zaczyna nagradzać użytkowników, którzy konwertowali środki do SP. W tym momencie STEEM rośnie z prędkością około 800 STEEM na minutę, co zawdzięcza połączonym efektom różnych Nagród za Wkład, podsumowanych poniżej:
 
-**Contribution Rewards:**
+**Nagrody za Wkład:**
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
+- Nagrody kuratorskie: 1 STEEM za blok lub 3,875% rocznie, w zależności od tego, która wartość jest większa
+- Nagrody za tworzenie treści: 1 STEEM na blok, lub 3.875% rocznie, w zależności od tego, która wartość jest większa
+- Nagrody za tworzenie bloków: 1 STEEM na blok, lub 3.875% rocznie, w zależności od tego, która wartość jest większa
 - POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
 - POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
 - Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
