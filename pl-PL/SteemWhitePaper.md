@@ -554,9 +554,9 @@ Wy osiągnąć najlepszą wydajność w branży, platforma Steem zaczerpnęła l
 
 Dzięki tym prostym zasadom, sieć Steem jest w stanie przetwarzać 10.000 transakcji na sekundę bez żadnych poświęceń na rzecz optymalizacji.
 
-Przetrzymywanie wszystkiego w pamięci staje się coraz bardziej wykonalne, zwłaszcza dzięki wprowadzonej ostatnio przez Intel technologii Optane [^15]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Przetrzymywanie wszystkiego w pamięci staje się coraz bardziej wykonalne, zwłaszcza dzięki wprowadzonej ostatnio przez Intel technologii Optane [^15]. Sprzęt komputerowy powinien być w stanie obsługiwać całą logikę biznesową związaną z platformą Steem w jednym wątku, przy jednoczesnym przechowywaniu wszystkich postów w pamięci do szybkiego indeksowania. Nawet Google trzyma wszystkie indeksy dla całego internetu w pamięci RAM. Zastosowanie technologii blockchain sprawia, iż banalnym staje się replikowanie bazy danych na wielu komputerach w celu zapobiegnięcia utraty danych. Kiedy technologia Optane™ wejdzie w życie, RAM stanie się jeszcze szybszy, zyskując przy tym na trwałości. Innymi słowy, sieć Steem została stworzona z myślą o architekturze przyszłości i ma na celu skalowanie.
 
-# Allocation & Supply
+# Alokacja & Zaopatrzenie
 
 The Steem network starts with a currency supply of 0 and allocates STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network starts rewarding users who convert to SP. At this point, STEEM grows at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
 
