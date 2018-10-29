@@ -504,7 +504,7 @@ Blockchain może ustanowić częstotliwość odpowiedzi która mówi, że jakiko
 
 Podczas gdy redukcje we współczynniku rezerwy muszą być szybkie i nielinearne by przeciwdziałać nadużyciom, wzrosty we współczynniku rezerwy powinny być powolne i linearne. Jeśli sieć jest dostosowywana w obu kierunkach w zaledwie 30 sekund, to napastnik może "pulsować" sieć. Zalew transakcji może zostać poddany korekcji w 30 sekund, a potem i tak zająć godzinę by wrócić do poziomów sprzed ataku. W tym modelu napastnik może zalać sieć na 30 sekund każdej godziny lub na mniej niż 1% ogółu czasu.
 
-There must be a slow constant upward pressure on the reserve ratio any time network usage is below 50% until the network hits the maximum reserve ratio. Maksymalny współczynnik rezerwy określa minimalny, wymagany udział do zalania sieci w krótkich seriach.
+Niezbędny jest powolny stały wzrost współczynnika podziału za każdym razem, gdy zużycie sieci jest niższe niż 50%, dopóki sieć nie osiągnie maksymalnego współczynnika podziału. Maksymalny współczynnik rezerwy określa minimalny, wymagany udział do zalania sieci w krótkich seriach.
 
 Każdy użytkownik z mniej niż TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) nie będzie mógł produkować wystarczająco dużo transakcji by wypełnić nawet pojedyńczy blok. Ze współczynnikiem rezerwy 200, oznacza to, że każdy użytkownik z mniej niż 0,25% waluty nie może stworzyć wystarczająco dużo transakcji by opóźnić czyjąkolwiek usługę.
 
@@ -534,15 +534,15 @@ Innymi słowy, opłaty transakcyjne powinny być równe minimalnemu saldu konta 
 
 W teorii, mógłby uformować się rynek gdzie użytkownicy mogą pożyczyć potrzebne udziały. W praktyce bardziej efektywne dla użytkowników jest sprzedawanie i kupowanie potrzebnych udziałów w celu osiągnięcia ich pożądanego wskaźnika wykorzystania. Mówiąc inaczej, koszt negocjowania mikro pożyczek jest większy niż koszt utrzymania balansu odpowiedniego dla Twojego maksymalnego tygodniowego wykorzystania.
 
-Decentralizacja stopy ograniczeń transakcji może dać szansę nowym typom zdecentralizowanych aplikacji, które nie były opłacalne kiedy każde użycie aplikacji wymagało mikro płatności. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+Decentralizacja stopy ograniczeń transakcji może dać szansę nowym typom zdecentralizowanych aplikacji, które nie były opłacalne kiedy każde użycie aplikacji wymagało mikro płatności. Ten nowy model daje deweloperom aplikacji możliwość zadecydowania czy i kiedy chcą oni rozliczać swoich użytkowników za dokonywane przez nich transakcje.
 
-# Performance and Scalability
+# Wydajność i Skalowalność
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+Sieć Steem jest zbudowana w oparciu o Graphene, tę samą technologię, na której bazuje BitShares. Technologia Graphene udowodniła, że może wytrzymać obciążenie ponad 1000 transakcji na sekundę w rozproszonej sieci testowej. Graphene może być łatwo przeskalowana na 10.000 lub więcej transakcji na sekundę, dzięki relatywnie prostym usprawnieniom protokołów komunikacyjnych i pojemności serwera.
 
-## Reddit Scale
+## Skala Reddita
 
-Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit's 8.7 million users generated an average of 23 comments per second[^13] , with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Platforma Steem jest zdolna obsługiwać większą ilość użytkowników niż Reddit. W 2015 roku 8,7 miliona użytkowników Reddita wygenerwało średnio 23 komentarze na sekundę [^13], przy średniej 83 komentarzy rocznie na użytkownika. Było 73 milionów postów najwyższego poziomu, przy średnio 2 nowych postach na sekundę. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
 
 To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^14], which is able to process 6 million transactions per second. Among these lessons are the following key points:
 
