@@ -586,7 +586,7 @@ Ogólny obraz zaopatrzenia jest skomplikowany przez wpływ operacji SBD, co moż
 
 ## Wpływ Współczynnika Tworzenia Tokenów
 
-Na pierwszy rzut oka 100% roczny wzrost podaży STEEM może wydawać się obciążony zbytnią inflacją i niemożliwy do utrzymania. Ci, którzy śledzą Ilościową Teorię Pieniędzy [^16] mogą nawet stwierdzić, że wartość STEEM musi spaść o około 5,6% na miesiąc. We know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+Na pierwszy rzut oka 100% roczny wzrost podaży STEEM może wydawać się obciążony zbytnią inflacją i niemożliwy do utrzymania. Ci, którzy śledzą Ilościową Teorię Pieniędzy [^16] mogą nawet stwierdzić, że wartość STEEM musi spaść o około 5,6% na miesiąc. Z niezliczonych przykładów z życia codziennego wiemy, że ilość pieniędzy nie ma bezpośredniego i natychmiastowego wpływu na ich wartość, choć z pewnością odgrywa pewną rolę.
 
 Because 90% of all STEEM created is distributed back to holders of SP, the result is similar to having a 2:1 "split" every year rather true inflation. The total rate of expenditures used to reward contributors is about 10% of the market capitalization per year, a rate well below what Bitcoin sustained for the first 7 years after it launched.
 
