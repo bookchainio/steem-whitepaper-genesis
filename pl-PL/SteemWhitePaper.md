@@ -584,7 +584,7 @@ Ogólny wpływ tych stałych procentowych na alokację i zaopatrzenie jest taki,
 
 Ogólny obraz zaopatrzenia jest skomplikowany przez wpływ operacji SBD, co może skutkować tworzeniem na dużą skalę lub niszczeniem STEEM poprzez śledzenie prędkości posuwu i nagrody SBD, jak omówiono w sekcji SBD. Występują również inne komplikacje o mniejszej skali, w tym nieodebrane zachęty (np. nagrody blokowe za brakujące bloki), zakłócenia związane z powodzeniem wydobywającego w produkcji dowodu pracy oraz skutki zmian w długości kolejki wydobywających, spowodowanych zmianą całkowitej mocy jądra sieci.
 
-## Impact of Token Creation Rate
+## Wpływ Współczynnika Tworzenia Tokenów
 
 At first glance, 100% annual increase in the STEEM supply may appear to be hyper-inflationary and unsustainable. Those who follow the Quantity Theory of Money[^16] may even conclude that the value of STEEM must fall by approximately 5.6% per month. We know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
 
