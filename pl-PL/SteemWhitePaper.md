@@ -602,11 +602,11 @@ Spośród 100% rocznego wzrostu wirtualnego zaopatrzenia STEEM 5% jest w formie 
 
 Podsumowując, całkowite "wydatki" Steema na finansowanie treści, kuracji, wydobycia i nagród płynności wynoszą zaledwie 10% rocznie lub 1,2% miesięcznie. Ten sam transfer majątku mógłby zostać zrealizowany bez żadnych zmian w podaży STEEM poprzez wprowadzenie ujemnego oprocentowania na płynnym STEEM w wysokości około 10% miesięcznie. Innymi słowy, można to zrealizować pobierając 3% opłatę (podobną do kart kredytowych) przy każdym transferze przy jednoczesnym przekazie 1% wszystkich STEEM każdego dnia. Sieć Bitcoin przesyła [^19] 400 000 BTC z 15,5 M (lub 2,5% na dzień).
 
-Celem płynnych STEEM jest ułatwienie zmian własności pomiędzy długoterminowymi posiadaczami. Właśnię ta zmianę własności sieć "opodatkowuje" celem sfinansowania wzrostu. This transfer tax can be avoided almost completely by automatically selling STEEM for SMD every week as the network converts SP back to STEEM. The total time spent holding STEEM will be so small that any impact of changing STEEM supply will be insigni cant next to volatility and other market fees.
+Celem płynnych STEEM jest ułatwienie zmian własności pomiędzy długoterminowymi posiadaczami. Właśnię ta zmianę własności sieć "opodatkowuje" celem sfinansowania wzrostu. Ten podatek transferowy może być wyeliminowany całkowicie poprzez automatyczną wymianę STEEM na SBD co tydzień, gdy sieć przekształca SP z powrotem w STEEM. Całkowity czas przechowywania STEEM będzie tak krótki, że jakikolwiek wpływ zmieniającej się dostawy STEEM będzie nieznaczny przy zmienności i innych opłatach rynkowych.
 
-### Impact of Token Creation Rate Greater than Ninety-Percent
+### Wpływ Stawki Tworzenia Tokenów Większej niż 90%
 
-As of May 1, 2016, over 98.49% of all STEEM has been converted to SP. This demonstrates that demand to hold long term dominates. In this environment both liquid STEEM and SP are diluted to fund rewards.
+Od 1 maja 2016 r. ponad 98,49% wszystkich STEEM zostało przekształconych w SP. To pokazuje przewagę popytu na przetrzymywanie długoterminowe. W tym środowisku zarówno płynny STEEM, jak i SP są rozcieńczane w celu sfinansowania nagród.
 
 For the first 2 years of Bitcoin's life the network sustained an annual inflation rate[^20] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. According to the tool for estimating future inflation included with the Steem source code, Steem by contrast will achieve an instantaneous annual rate of approximately 12% after just 1 year (not including the effects of SMD operations).
 
