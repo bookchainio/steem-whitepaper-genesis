@@ -542,9 +542,9 @@ Sieć Steem jest zbudowana w oparciu o Graphene, tę samą technologię, na któ
 
 ## Skala Reddita
 
-Platforma Steem jest zdolna obsługiwać większą ilość użytkowników niż Reddit. W 2015 roku 8,7 miliona użytkowników Reddita wygenerwało średnio 23 komentarze na sekundę [^13], przy średniej 83 komentarzy rocznie na użytkownika. Stworzonych zostało 73 miliony najwyższej jakości wpisów. Co sekundę były publikowane średnio 2 nowych posty. Zagłosowano 7 milionów razy, co oznacza średnio 220 głosów na sekundę. Podsumowując, gdyby Reddit operował na technologii blockchain, potrzebowałby on średnio 250 transakcji na sekundę.
+Platforma Steem jest zdolna obsługiwać większą ilość użytkowników niż Reddit. W 2015 roku 8,7 miliona użytkowników Reddita wygenerowało średnio 23 komentarze na sekundę [^13], przy średniej 83 komentarzy rocznie na użytkownika. Stworzonych zostało 73 miliony najwyższej jakości wpisów. Co sekundę były publikowane średnio 2 nowe posty. Zagłosowano 7 milionów razy, co oznacza średnio 220 głosów na sekundę. Podsumowując, gdyby Reddit operował na technologii blockchain, potrzebowałby on średnio 250 transakcji na sekundę.
 
-Wy osiągnąć najlepszą wydajność w branży, platforma Steem zaczerpnęła lekcji od LMAX Exchange[^14], która zdolna jest przetworzyć 6 milionów transakcji na sekundę. Z lekcji tych można wynieść następujące wnioski:
+By osiągnąć najlepszą wydajność w branży, platforma Steem zaczerpnęła lekcji od LMAX Exchange[^14], która zdolna jest przetworzyć 6 milionów transakcji na sekundę. Z lekcji tych można wynieść następujące wnioski:
 
 1. Przetrzymuj wszystko w pamięci operacyjnej.
 2. Główną logikę biznesową zachowaj w pojedynczym wątku.
@@ -558,16 +558,16 @@ Przetrzymywanie wszystkiego w pamięci staje się coraz bardziej wykonalne, zwł
 
 # Alokacja & Zaopatrzenie
 
-Sieć Steem zacyna od zerowej wartości waluty i przydziela STEEM w formie dowodu pracy w tempie ok. 40 STEEM za minutę dla wydobywających, przy czym dodatkowe 40 STEEM za minutę jest tworzone w celu zaszczepienia puli nagród za treści i kuracje (w sumie 80 STEEM za minutę). Następnie sieć zaczyna nagradzać użytkowników, którzy konwertowali środki do SP. W tym momencie STEEM rośnie z prędkością około 800 STEEM na minutę, co zawdzięcza połączonym efektom różnych Nagród za Wkład, podsumowanych poniżej:
+Sieć Steem zaczyna od zerowej wartości waluty i przydziela STEEM w formie dowodu pracy w tempie ok. 40 STEEM za minutę dla wydobywających, przy czym dodatkowe 40 STEEM za minutę jest tworzone w celu zaszczepienia puli nagród za treści i kuracje (w sumie 80 STEEM za minutę). Następnie sieć zaczyna nagradzać użytkowników, którzy konwertowali środki do SP. W tym momencie STEEM rośnie z prędkością około 800 STEEM na minutę, co zawdzięcza połączonym efektom różnych Nagród za Wkład, podsumowanych poniżej:
 
 **Nagrody za Wkład:**
 
-- Nagrody kuratorskie: 1 STEEM za blok lub 3,875% rocznie, w zależności od tego, która wartość jest większa
+- Nagrody kuratorskie: 1 STEEM za blok lub 3.875% rocznie, w zależności od tego, która wartość jest większa
 - Nagrody za tworzenie treści: 1 STEEM na blok, lub 3.875% rocznie, w zależności od tego, która wartość jest większa
 - Nagrody za tworzenie bloków: 1 STEEM na blok, lub 3.875% rocznie, w zależności od tego, która wartość jest większa
 - Nagrody oparte o dowód wykonanej pracy przed blokiem 864.000: 1 STEEM na blok (wypłacane jako 21 STEEM za rundę)
 - Nagrody oparte o dowód wykonanej pracy za blokiem 864.000: 0.0476 STEEM na blok (wypłacane jako 1 STEEM za rundę) lub 0.750% rocznie, w zależności od tego, która wartość jest większa.
-- Nagrody za płynność: 1 STEEM za blok (przyznawane jako 1200 STEEM za godzinę) lub 0,750% rocznie, w zależności od tego, która wartość jest większa
+- Nagrody za płynność: 1 STEEM za blok (przyznawane jako 1200 STEEM za godzinę) lub 0.750% rocznie, w zależności od tego, która wartość jest większa
 
 **Nagrody oparte o Steem Power:**
 
@@ -576,11 +576,11 @@ Sieć Steem zacyna od zerowej wartości waluty i przydziela STEEM w formie dowod
 **Operacje na SBD:**
 
 - Nagrody oparte o SBD: Procent wartości SBD wytworzony według rocznej stawki oprocentowania ustalonej przez świadków i wypłacane posiadaczom SBD w formie SBD
-- Współczynnik posuwu: Ilość STEEM, dla której można wykorzystać łączną wartość istniejącego SMD, zmieni się w zależności od zmian w podawanej cenie. Ta zmiana skutecznie powoduje zniszczenie ("spalenie") STEEM, gdy wartość STEEM (mierzona przez posuw) wzrasta, bądź tworzenie STEEM, gdy wartość STEEM (mierzona przez posuw) maleje.
+- Współczynnik posuwu: Ilość STEEM, dla której można wykorzystać łączną wartość istniejącego SBD, zmieni się w zależności od zmian w podawanej cenie. This change is effectively destruction ("burning") of STEEM when the value of STEEM (as measured by the feed) is increasing, or creation of STEEM when the value of STEEM (as measured by the feed) is declining.
 
-Ograniczenia procentowe skutecznie zapewniają, że motywacje do nagród nie stają się beznadziejnie małe w czasie, co ma na celu uniemożliwienie systemowi doświadczanie "gwałtownego spowolnienia" we wzorcu wzrostu, jak to ma miejsce w przypadku wielu innych blokchainów, gdzie początkowemu wzrostowi, napędzanemu przez wysokie systemy motywacyjne dla początkujących uczestników, towarzyszy długotrwała stagnacja, ponieważ wartość systemów motywacyjnych ciągle spada poniżej poziomu koniecznego do nakłonienia nowicjuszy do przyłączenia się.
+Ograniczenia procentowe skutecznie zapewniają, że motywacje do nagród nie stają się beznadziejnie małe w czasie, co ma na celu uniemożliwienie systemowi doświadczanie "gwałtownego spowolnienia" we wzorcu wzrostu, jak to ma miejsce w przypadku wielu innych blockchainów, gdzie początkowemu wzrostowi, napędzanemu przez wysokie systemy motywacyjne dla początkujących uczestników, towarzyszy długotrwała stagnacja, ponieważ wartość systemów motywacyjnych ciągle spada poniżej poziomu koniecznego do nakłonienia nowicjuszy do przyłączenia się.
 
-Ogólny wpływ tych stałych procentowych na alokację i zaopatrzenie jest taki, że stopa (około) 800 STEEM na minutę pozostaje w mocy przez jakiś czas (tj. jednostki STEEM), ale spada w procentach (tj. 800 STEEM jest coraz mniejszą częścią całkowitego zaopatrzenia, podczas gdy całkowite zaopatrzenie rośnie coraz bardziej). Kiedy poszczególne poszczególne elementy stawki 800 STEEM na minutę osiągają swoje odpowiednie poziomy procentowe, każdy poziom zatrzymuje spadek swojej części stawki. To z kolei oznacza, że w perspektywie długoterminowej stopa nominalna wzrośnie z 800 STEEM na minutę do (zależnie od czasu i zaopatrzenia) wartości potrzebnej do utrzymania stałej rocznej stopy wzrostu w wysokości 10% na rzecz Motywania poprzez Wkład, oraz stałą roczną stopę wzrostu w wysokości 100% dla łącznego efektu Motywania poprzez Wkład i Motywowania poprzez Zasilanie. Ogólnym efektem jest podwojenie podaży STEEM każdego roku (przy czym, jak wyszczególniono w następnej sekcji, jeśli większość użytkowników Zwiększa Moc, większość tego podwojenia zostaje rozdzielona, co nie powoduje przeniesienia własności).
+Ogólny wpływ tych stałych procentowych na alokację i zaopatrzenie jest taki, że stopa (około) 800 STEEM na minutę pozostaje w mocy przez jakiś czas (tj. jednostki STEEM), ale spada w procentach (tj. 800 STEEM jest coraz mniejszą częścią całkowitego zaopatrzenia, podczas gdy całkowite zaopatrzenie rośnie coraz bardziej). Kiedy poszczególne elementy stawki 800 STEEM na minutę osiągają swoje odpowiednie poziomy procentowe, każdy poziom zatrzymuje spadek swojej części stawki. To z kolei oznacza, że w perspektywie długoterminowej stopa nominalna wzrośnie z 800 STEEM na minutę do (zależnie od czasu i zaopatrzenia) wartości potrzebnej do utrzymania stałej rocznej stopy wzrostu w wysokości 10% na rzecz Motywowania poprzez Wkład, oraz stałą roczną stopę wzrostu w wysokości 100% dla łącznego efektu Motywowania poprzez Wkład i Motywowania poprzez Zasilanie. Ogólnym efektem jest podwojenie podaży STEEM każdego roku (przy czym, jak wyszczególniono w następnej sekcji, jeśli większość użytkowników Zwiększa Moc, większość tego podwojenia zostaje rozdzielona, co nie powoduje przeniesienia własności).
 
 Ogólny obraz zaopatrzenia jest skomplikowany przez wpływ operacji SBD, co może skutkować tworzeniem na dużą skalę lub niszczeniem STEEM poprzez śledzenie prędkości posuwu i nagrody SBD, jak omówiono w sekcji SBD. Występują również inne komplikacje o mniejszej skali, w tym nieodebrane zachęty (np. nagrody blokowe za brakujące bloki), zakłócenia związane z powodzeniem wydobywającego w produkcji dowodu pracy oraz skutki zmian w długości kolejki wydobywających, spowodowanych zmianą całkowitej mocy jądra sieci.
 
