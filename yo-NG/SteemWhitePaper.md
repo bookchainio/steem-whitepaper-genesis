@@ -66,7 +66,7 @@ Abala yi se afihan awon ero tohun be leyin Steemu ati awon ere re fun awon tin p
 
 ## Awon Owo Idokoowo Ilowosi
 
-Awon nkan mefi ni agbegbe kan le pese lati fa owo idokoowo mora: gbese ati oniwun. Awon to ra oniwun n jere nigbati agbegbe ban dagbe sugbon padanu ti agbegbe ba n kekere. Awon to ba ra gbese ni idaniloju anfani die sugbon ko letnlati kopa ninu ere kankan ti a ri nipase idagbasoke agbegbe na. Iru awon owo idokoowo ilowosi mejeji se pataki si idagbasoke ti agbegbe ati iye owo re. Ni afikun ona meji wa ti a le mu oniwun: oloomi ati vesitini. Vesitini oniwun se ifaramo ihba to gun ati kosi le se ta fun akoko kekere.
+Awon nkan meji ni agbegbe kan le pese lati fa owo idokoowo mora: gbese ati oniwun. Awon to ra oniwun n jere nigbati agbegbe ba n dagba sugbon padanu ti agbegbe ba n kekere. Awon to ba ra gbese ni idaniloju anfani die sugbon won ni kopa ninu ere kankan ti a ri nipase idagbasoke agbegbe na. Iru awon owo idokoowo ilowosi mejeji se pataki si idagbasoke ti agbegbe ati iye owo re. Ni afikun ona meji wa ti a le mu oniwun: oloomi ati vesitini. Vesitini oniwun se ifaramo ihba to gun ati kosi le se ta fun akoko kekere.
 
 Netiworki Steemu npe awon isori dukia ti ni Steemu (STEEM), agbara Steemu (SP), ati Dola Steemu (SMD).
 
@@ -74,9 +74,9 @@ Netiworki Steemu npe awon isori dukia ti ni Steemu (STEEM), agbara Steemu (SP), 
 
 Steemu je koko kan fun akopamo lori blockchain Steemu. Awon aami miran mu iye won lati iye STEEM. Ni sisoro gbogbo oye ka mu STEEM fun awon igba die nigba ti aba nilonoloomi. Enikan tohun wa ona lati wo tabi jade ninu pulatiformu Steemu yio nilo lati ra tabi ta STEEM. Ti aba ti ra STEEM lowokan oye ko yipada si SP tabi SMD lati se idaduro ipa ti adapo ni igba gigun.
 
-STEEM n posi ni ipese loorekoore nipa 100% ni odun kan si awon imoriya tio se SMD. Enikan to ba mu STEEM lai se iyipada re si SP ni adapo nipa bi 0.19% ni ojokan. Nigbati iye re le ga, fun awon idunadura to kere ju ojo mewa lo, osi dinwo ju owow iseto káàdì arọ́pò owó. Ati siwajunsi, iseda aami ojojumo je aikasi sunmo ailawon ojojumo.
+STEEM n posi ni ipese loorekoore nipa 100% ni odun kan si awon imoriya tio se SMD. Enikan to ba mu STEEM lai se iyipada re si SP ni adapo nipa bi 0.19% ni ojokan. Nigbati iye re le ga, fun awon idunadura to kere ju ojo mewa lo, osi dinwo ju owo iseto káàdì arọ́pò owó. Ati siwajunsi, iseda aami ojojumo je aikasi sunmo ailawon ojojumo.
 
-Enikan toba ra Bitcoin tani cryptocurrency miran tosi tan leuin ojo mewa le padanu 3% pelu irorun tabi nipa ilosoke iwasile iye re. Enikan to ra Bitcoin to wa tamlojokanna yio san ju 0.4% ni owo oja nikan. Loro miran, iye afikun je imoose tio se pataki ni asiko ti eni na yio mu STEEM.
+Enikan toba ra Bitcoin tabi cryptocurrency miran tosi ta leyin ojo mewa le padanu 3% pelu irorun tabi nipa ilosoke iwasile iye re. Enikan to ra Bitcoin to wa tamlojokanna yio san ju 0.4% ni owo oja nikan. Loro miran, iye afikun je imoose tio se pataki ni asiko ti eni na yio mu STEEM.
 
 Pupo ninu afikun je isiowo kiko akopamo yala lilo arun pin ola tooto. 90% afikun ti awon tio se SMD lan pin pada sodo awon tohun mu STEEM dani tele to ba iye STEEM ti SP to seku mu, to je ko ri ni "pinpin". Bi iye 10% ti awon afikun tio se SMD loun pin pada si awon iniwun ni nu networki.
 
