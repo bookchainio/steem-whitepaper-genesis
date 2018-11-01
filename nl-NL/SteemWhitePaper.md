@@ -307,7 +307,7 @@ Conceptueel gezien is het consensus algoritme dat Steem heeft aangenomen vergeli
 
 In de wereld van de cryptovaluta, wordt het openbare register meestal aangeduid als een *blockchain*. Een * blok* is een groep ondertekende transacties.
 
-Met Steem worden blokproducties gedaan in rondes. Elke ronde worden 21 getuigen geselecteerd om transactieblokken te creëren en te ondertekenen. Negentien (19) van deze getuigen worden geselecteerd door middel van een stemming met goedkeuring, één wordt geselecteerd door een rekenkundig bewijs-van-werk, en één wordt gedeeld door elke getuige die niet in de top 19 kwam in verhouding tot hun totaal aantal stemmen. De 21 actieve getuigen worden elke ronde geschud om te voorkomen dat eenzelfde getuige voortdurend blokken negeert die geproduceerd zijn door de getuige ervoor.
+Met Steem worden blokproducties gedaan in rondes. Elke ronde worden 21 getuigen geselecteerd om transactieblokken te creëren en te ondertekenen. Negentien (19) van deze getuigen worden geselecteerd door middel van een stemming met goedkeuring, één wordt geselecteerd door een rekenkundig bewijs van werk, en één wordt gedeeld door elke getuige die niet in de top 19 kwam in verhouding tot hun totaal aantal stemmen. De 21 actieve getuigen worden elke ronde geschud om te voorkomen dat eenzelfde getuige voortdurend blokken negeert die geproduceerd zijn door de getuige ervoor.
 
 Dit proces is ontworpen om de beste betrouwbaarheid te bieden en er tegelijkertijd voor te zorgen dat iedereen het potentieel heeft om deel te nemen aan de blokproductie, ongeacht of ze populair genoeg zijn om naar de top te worden gestemd. Mensen hebben drie opties om censuur door de top 19 gekozen getuigen te overwinnen: geduldig wachten in de rij samen met alle anderen die niet in de top 19 staan, voldoende rekenkracht kopen om een bewijs van werk sneller op te lossen dan anderen, of meer SP kopen om het stemrecht te verbeteren. In het algemeen is het toepassen van censuur een goede manier voor gekozen getuigen om hun baan te verliezen en daarom is het onwaarschijnlijk dat dit een echt probleem is op het Steem-netwerk.
 
@@ -315,7 +315,7 @@ Omdat de actieve getuigen van te voren bekend zijn, kan Steem de getuigen zo pla
 
 ## Mijnen in Steem
 
-Traditionele bewijs-van-werk-blockchains combineren blokproductie met het oplossen van een bewijs van werk. Because the process of solving a proof of work takes an unpredictable amount of time, the result is unpredictable block production times. Steem aims to have consistent and reliable block production every 3 seconds with almost no potential for forks.
+Traditionele bewijs van werk-blockchains combineren blokproductie met het oplossen van een bewijs van werk. Omdat het proces van het oplossen van een bewijs van werk een onvoorspelbare hoeveelheid tijd in beslag neemt, is het resultaat onvoorspelbare blokproductietijden. Steem aims to have consistent and reliable block production every 3 seconds with almost no potential for forks.
 
 To achieve this Steem separates block production from solving of proof of work. When a miner solves a proof of work for Steem, they broadcast a transaction containing the work. The next scheduled witness includes the transaction into the blockchain. When the transaction is included the miner is added to the queue of miners scheduled to produce blocks. Each round one miner is popped from the queue and included in the active set of witnesses. The miner gets paid when they produce a block at the time they are scheduled.
 
