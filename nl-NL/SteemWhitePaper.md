@@ -323,7 +323,7 @@ De moeilijkheid van het bewijs van het werk verdubbelt elke keer dat de wachtrij
 
 ### Mining-beloningen vereisen Steem Power
 
-Na de eerste maand worden Steem-miners betaald in Steem Power (SP). SP wordt geliquideerd door middel van het twee jaar durende proces van "powering down". This means that miners must wait for a long time, likely many months, before sufficient mining rewards have been powered down to allow them to recover the cost of electricity and computational resources. The powering down process discourages creation of mining pools because the pool operator would have to spread payouts over years.
+Na de eerste maand worden Steem-miners betaald in Steem Power (SP). SP wordt geliquideerd door middel van het twee jaar durende proces van "powering down". Dit betekent dat miners lang moeten wachten, waarschijnlijk vele maanden, voordat er voldoende beloningen zijn "powered down" om hen in staat te stellen de kosten van elektriciteit en middelen voor rekenkracht terug te verdienen. Het power down-proces ontmoedigt de vorming van mining-pools, omdat de exploitant van de pool de uitbetalingen over jaren zou moeten spreiden.
 
 The effect of paying mining rewards in SP is to prevent miners from using today's price to determine the pro tability of mining. Few people will agree on what the future price will be. This means mining difficulty will be driven by those who place the highest estimate on future value. Miners without a long-term interest in the platform will be discouraged from competing. Ultimately this means that the proceeds of mining are less likely to be dumped on the market because they will accrue to long-term believers in the platform.
 
