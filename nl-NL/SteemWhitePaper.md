@@ -325,13 +325,13 @@ De moeilijkheid van het bewijs van het werk verdubbelt elke keer dat de wachtrij
 
 Na de eerste maand worden Steem-miners betaald in Steem Power (SP). SP wordt geliquideerd door middel van het twee jaar durende proces van "powering down". Dit betekent dat miners lang moeten wachten, waarschijnlijk vele maanden, voordat er voldoende beloningen zijn "powered down" om hen in staat te stellen de kosten van elektriciteit en middelen voor rekenkracht terug te verdienen. Het power down-proces ontmoedigt de vorming van mining-pools, omdat de exploitant van de pool de uitbetalingen over jaren zou moeten spreiden.
 
-Het effect van het betalen van mining-beloningen in SP is om te voorkomen dat miners de prijs van vandaag gebruiken om de winstgevendheid van het minen te bepalen. Weinig mensen zullen het eens zijn over wat de toekomstige prijs zal zijn. Dit betekent dat de moeilijkheid van het minen zal worden aangedreven door degenen die de toekomstige waarde het hoogst inschatten. Miners without a long-term interest in the platform will be discouraged from competing. Ultimately this means that the proceeds of mining are less likely to be dumped on the market because they will accrue to long-term believers in the platform.
+Het effect van het betalen van mining-beloningen in SP is om te voorkomen dat miners de prijs van vandaag gebruiken om de winstgevendheid van het minen te bepalen. Weinig mensen zullen het eens zijn over wat de toekomstige prijs zal zijn. Dit betekent dat de moeilijkheid van het minen zal worden aangedreven door degenen die de toekomstige waarde het hoogst inschatten. Miners zonder langetermijnbelangstelling voor het platform zullen worden ontmoedigd om te concurreren. Uiteindelijk betekent dit dat de opbrengsten van het minen minder snel op de markt gedumpt zullen worden, omdat ze op de lange termijn ten goede zullen komen aan degenen die geloven in het platform.
 
-### Mining Algorithm
+### Mining-algoritme
 
-The mining algorithm adopted by Steem requires the miner to have access to the private key of the account that will receive the rewards. This requirement has several important consequences. First it encourages optimization of elliptic curve signature verification algorithms needed by Steem. Second it makes it challenging to set up mining pools because the pool operator would have to share control over the reward with all of the "anonymous" miners. Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
+Het mining-algoritme van Steem vereist dat de miner toegang heeft tot de privé-sleutel van het account dat de beloningen ontvangt. Deze eis heeft een aantal belangrijke gevolgen. Ten eerste moedigt het de optimalisatie aan van elliptische curve handtekening verificatie algoritmes die Steem nodig heeft. Ten tweede, het maakt het uitdagend om mining-pools op te zetten omdat de exploitant van de pool de controle over de beloning zou moeten delen met alle "anonieme" miners. Ten derde, het maakt het het moeilijk om botnets te gebruiken omdat de botnet-exploitant zijn eigen sleutel aan alle aangetaste machines zou moeten distribueren.
 
-The following pseudocode describes how the proof-of-work hash value is calculated:
+De volgende pseudo-code beschrijft hoe de bewijs van werk-hashwaarde wordt berekend:
 
     Let H    = Head Block ID
     Let H2   = SHA256(H + NONCE)
