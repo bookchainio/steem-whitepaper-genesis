@@ -313,11 +313,11 @@ Dit proces is ontworpen om de beste betrouwbaarheid te bieden en er tegelijkerti
 
 Omdat de actieve getuigen van te voren bekend zijn, kan Steem de getuigen zo plannen dat ze elke 3 seconden blokken produceren. Getuigen synchroniseren hun blokproductie via het NTP-protocol. Een variant van dit algoritme wordt al meer dan een jaar gebruikt door het BitShares netwerk, waar is bewezen dat het betrouwbaar is.
 
-## Mijnen in Steem
+## Minen in Steem
 
-Traditionele bewijs van werk-blockchains combineren blokproductie met het oplossen van een bewijs van werk. Omdat het proces van het oplossen van een bewijs van werk een onvoorspelbare hoeveelheid tijd in beslag neemt, is het resultaat onvoorspelbare blokproductietijden. Steem aims to have consistent and reliable block production every 3 seconds with almost no potential for forks.
+Traditionele bewijs van werk-blockchains combineren blokproductie met het oplossen van een bewijs van werk. Omdat het proces van het oplossen van een bewijs van werk een onvoorspelbare hoeveelheid tijd in beslag neemt, is het resultaat onvoorspelbare blokproductietijden. Steem streeft naar een consistente en betrouwbare blokproductie om de 3 seconden met bijna geen potentieel voor vorken.
 
-To achieve this Steem separates block production from solving of proof of work. When a miner solves a proof of work for Steem, they broadcast a transaction containing the work. The next scheduled witness includes the transaction into the blockchain. When the transaction is included the miner is added to the queue of miners scheduled to produce blocks. Each round one miner is popped from the queue and included in the active set of witnesses. The miner gets paid when they produce a block at the time they are scheduled.
+Om dit te bereiken scheidt Steem de blokproductie van het oplossen van bewijs van werk. Wanneer een miner een bewijs van werk voor Steem oplost, zendt hij een transactie uit die het werk bevat. De volgende geplande getuige voegt de transactie toe aan de blockchain. Wanneer de transactie is opgenomen wordt de miner toegevoegd aan de wachtrij van miners die gepland zijn om blokken te produceren. Elke ronde wordt er één miner uit de rij gehaald en opgenomen in de actieve reeks getuigen. The miner gets paid when they produce a block at the time they are scheduled.
 
 The difficulty of the proof of work doubles every time the queue length grows by 4. Because one miner is popped from the queue every round, and each round takes 21 \* 3 = 63 seconds, the difficulty automatically halves if no proof of work is found in no more than 21 \* 3 \* 4 = 252 seconds.
 
