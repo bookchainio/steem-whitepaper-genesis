@@ -317,11 +317,11 @@ Omdat de actieve getuigen van te voren bekend zijn, kan Steem de getuigen zo pla
 
 Traditionele bewijs van werk-blockchains combineren blokproductie met het oplossen van een bewijs van werk. Omdat het proces van het oplossen van een bewijs van werk een onvoorspelbare hoeveelheid tijd in beslag neemt, is het resultaat onvoorspelbare blokproductietijden. Steem streeft naar een consistente en betrouwbare blokproductie om de 3 seconden met bijna geen potentieel voor vorken.
 
-Om dit te bereiken scheidt Steem de blokproductie van het oplossen van bewijs van werk. Wanneer een miner een bewijs van werk voor Steem oplost, zendt hij een transactie uit die het werk bevat. De volgende geplande getuige voegt de transactie toe aan de blockchain. Wanneer de transactie is opgenomen wordt de miner toegevoegd aan de wachtrij van miners die gepland zijn om blokken te produceren. Elke ronde wordt er één miner uit de rij gehaald en opgenomen in de actieve reeks getuigen. The miner gets paid when they produce a block at the time they are scheduled.
+Om dit te bereiken scheidt Steem de blokproductie van het oplossen van bewijs van werk. Wanneer een miner een bewijs van werk voor Steem oplost, zendt hij een transactie uit die het werk bevat. De volgende geplande getuige voegt de transactie toe aan de blockchain. Wanneer de transactie is opgenomen wordt de miner toegevoegd aan de wachtrij van miners die gepland zijn om blokken te produceren. Elke ronde wordt er één miner uit de rij gehaald en opgenomen in de actieve reeks getuigen. De miner wordt betaald wanneer deze een blok produceert op het moment dat hij of zij gepland staat.
 
-The difficulty of the proof of work doubles every time the queue length grows by 4. Because one miner is popped from the queue every round, and each round takes 21 \* 3 = 63 seconds, the difficulty automatically halves if no proof of work is found in no more than 21 \* 3 \* 4 = 252 seconds.
+De moeilijkheid van het bewijs van het werk verdubbelt elke keer dat de wachtrijlengte met 4 groeit. Omdat elke ronde één miner uit de rij wordt gehaald en elke ronde 21 \* 3 = 63 seconden in beslag neemt, wordt de moeilijkheid automatisch gehalveerd als er geen bewijs van werk wordt gevonden in niet meer dan 21 \* 3 \* 4 = 252 seconden.
 
-### Mining Rewards require Steem Power
+### Mining-beloningen vereisen Steem Power
 
 After the first month, Steem miners are paid in Steem Power (SP). SP is liquidated through the two-year process of "powering down". This means that miners must wait for a long time, likely many months, before sufficient mining rewards have been powered down to allow them to recover the cost of electricity and computational resources. The powering down process discourages creation of mining pools because the pool operator would have to spread payouts over years.
 
