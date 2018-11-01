@@ -114,11 +114,11 @@ Fi fifun iye awon olugbejade ifunni ti a gbagbo ati ta ti yan, oju lowo iye ti a
 
 Paapa ti gbogbo awon olugbejade ifunni ba je olooto, o sese ki awon opo olugbejade ni ipalara nipa awon isele to koja isakoso won lo. Ase apeere netiwoki Steemu lati se igbalaye idibaje fun igba die ti ilarin owo ifunni nigbati agbegbe ban sise takuntakun lati satunse oro yi. Apeere okan ninu awon ariyangiyan to le gba akoko die lati se atunse ni ifowoyi oja fun igba die. Ifowoyi oja le osi tun won lati setoju fun awon igba to gun. Apeere miran a je ikuna ti pasiparo taarin tabi idibaje ti data ti a ti gbe jade nipe pasiparo.
 
-Awon nkan Steemulati ara ilosokewale iye owo fun igba die nipa lilo owo ilarin fun ose kan. Ifunni ti ilarin ti ati gbejade a gbeyewo ni wakati kokan lori wakati.
+Awon nkan Steemu lati ara ilosokewale iye owo fun igba die nipa lilo owo ilarin fun ose kan. Ifunni ti ilarin ti ati gbejade a gbeyewo ni wakati kokan lori wakati.
 
 Niwon igba ti idibaje ti iye owo ifunni ba wa fun okereju abo ferese akoko ilarin sisun yio ni ipa to kerejulo lori iye owo iyipada. Ninu isele pe ifunni o ni idibaje, awon tohun lo netiworki a ni anfani lati dibo yo kuro awon to gbejade ifunni idibaje ki ifunni idibaje le ni ipalara lori iye owo ojulowo iyipada. Boya ni pataki, o fun awon tohun se agbejade ifunni ni anfani lati sawari ati satunse awon nkan ki ifunni won to bere sin ni pa lori owo.
 
-Ninu ferese ose kan, awon elegbe agbegbe ni ojo meta ati abo alti fidahun si nkankan to ba yoju.
+Ninu ferese ose kan, awon elegbe agbegbe ni ojo meta ati abo lati fidahun si nkankan to ba yoju.
 
 ### Gbigbon Awon Akoko Idojuko
 
