@@ -84,19 +84,19 @@ Pupo ninu afikun je isiowo kiko akopamo yala lilo arun pin ola tooto. 90% afikun
 
 Awon ile ise tohun sese bere nilo ifaramo owo idokoowo igba gigun. Awon tohun kowowon lori isesebere nilo lati duro fun odun kiwon to le ta awon ipin won ati ri awon ere won. Laisi ifaramo igbe to gun, isesebere kan tohun wa afikun owo idaokowo si nipa tita afikun awon ipin yio ma dije pelu awon to ti ni ipin ti won fe kuro. Awon olukowole nkan to jafafa fe ki awon owo idokoowo won ko mu ki ile ise na dagba, sugbon idagbasoke kole sele ti aba fun awon to ni ipin to fe kuro ni owo idokoowo titun.
 
-Iye pataki wa ninu nini ifaramo ti igba gigun nitori pe o fayesile fun awon ahbegbe lati se eto ti oni igba gigun. Ifaramo igba gigun ti awon to ni ipin naa man jeki won dibo fun idagbasoke igba to gun yala awon oofa igba kekere.
+Iye pataki wa ninu nini ifaramo ti igba gigun nitori pe o fayesile fun awon agbegbe lati se eto ti oni igba gigun. Ifaramo igba gigun ti awon to ni ipin naa man jeki won dibo fun idagbasoke igba to gun yala awon oofa igba kekere.
 
 Ni aye cryptocurrency, awon oluro ma nfo lati cryptocurrency si cryptocurrency to da lori ewo lo le ni idagbasoke igba kekere. Steemu fe ko agbegbe kan ti o je pe awon to ni oju-iwoye igba gigun lo je oniwun ju ati lekunrere.
 
-Notori Steemu fe se iwuri fun idagbasoke igba gigun, ati seto irora re lati pin 9 STEEM si agbara Steemu (SP) fun awon to ni ipin fun gbogbo 1 STEEM to seda lati gbero idagbasoke nipa awon ilowosi imoriya. Tobaya eleyi man wa ipin ti gbogbo iye STEEM ti awon iseku agbara Steemu si ti awon gbogbo iseku STEEM si 9:1 . (O dabi die pe ipin na a ju 9:1 lo die nipase apapo gigbeagbara soke ti STEEM titun ta sese tejade.) O tun rumo si wipe awon tohun gbamu fun igba gigun fere ni apamo kuro ninu apapo ti afin buwo si idagbasoke.
+Nitori Steemu fe se iwuri fun idagbasoke igba gigun, ati seto irora re lati pin 9 STEEM si agbara Steemu (SP) fun awon to ni ipin fun gbogbo 1 STEEM to seda lati gbero idagbasoke nipa awon ilowosi imoriya. Tobaya eleyi man wa ipin ti gbogbo iye STEEM ti awon iseku agbara Steemu si ti awon gbogbo iseku STEEM si 9:1 . (O dabi pe ipin na a ju 9:1 lo die nipase apapo gigbeagbara soke ti STEEM titun ta sese tejade.) O tun tumo si wipe awon tohun gbamu fun igba gigun fere ni apamo kuro ninu apapo ti afin buwo si idagbasoke.
 
-Leyin odun meji nipase awon isanwo ọgọrun ati mẹrin to dogba losese nikan lalefi yi SP pada si STEEM. Ale wo 'SP kan' bi ipin kan ninu odo ti STEEM. Netiwoki man fi STEEM kun odo gbogno buloki laifowoyi. Ni igbakugba awon olulo le se iyipada STEEM won si SP ni ipin kanna bi STEEM ninu odo vesitini si akopo SP. Yiyipada STEEM si SP ko se adapo mo awon tohun mu SP dani tele. Bakanna, nigbakugba ti aba yi SP pada si STEEM ipin ti isin lama lo. Won fun awon olukuluku ni eri wipe won a ni STEEM pupo ni ojo waju ju eleyi ti won ni nigba ti won koko yipada lati STEEM si SP.
+Leyin odun meji nipase awon isanwo ọgọrun ati mẹrin to dogba losese nikan lalefi yi SP pada si STEEM. Ale wo 'SP kan' bi ipin kan ninu odo ti STEEM. Netiwoki man fi STEEM kun odo gbogbo buloki laifowoyi. Ni igbakugba awon olulo le se iyipada STEEM won si SP ni ipin kanna bi STEEM ninu odo vesitini si akopo SP. Yiyipada STEEM si SP ko se adapo mo awon tohun mu SP dani tele. Bakanna, nigbakugba ti aba yi SP pada si STEEM ipin ti isin lama lo. Won fun awon olukuluku ni eri wipe won a ni STEEM pupo ni ojo waju ju eleyi ti won ni nigba ti won koko yipada lati STEEM si SP.
 
 A kole firanse tibi tun we awon iseku SP ayafi nipa awon ibere iyipada ailafiwosi loorekoore. Eleyi tunmo si pe SP o ni tete ta ni ori awon pasiparo cryptocurrency.
 
 SP je oun kan ti a beere fun idibo fun tabi lodisi akoonu. Eleyi tunmo si wipe SP je tokini igbaniwole tohun fun awon to mu dani ni awon agbara iyasoto laarin pulatiformu Steemu.
 
-Ifiranse lati STEEM si SP lan pe ni gigbe agbara soke nigbati ifiranse lati SP si Steemu lan pe ni "gbigbe agbara le". Fun apeere, eyan le gbe agbara le ti STEEM won fun igba odun meji, sibe eyan kan si le gbe agbara soke pelu STEEM lesekese.
+Ifiranse lati STEEM si SP lan pe ni gbigbe agbara soke nigbati ifiranse lati SP si Steemu lan pe ni "gbigbe agbara le". Fun apeere, eyan le gbe agbara le ti STEEM won fun igba odun meji, sibe eyan kan si le gbe agbara soke pelu STEEM lesekese.
 
 ## Awon Dola Steemu (SMD)
 
