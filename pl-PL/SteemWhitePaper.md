@@ -576,7 +576,7 @@ Sieć Steem zaczyna od zerowej wartości waluty i przydziela STEEM w formie dowo
 **Operacje na SBD:**
 
 - Nagrody oparte o SBD: Procent wartości SBD wytworzony według rocznej stawki oprocentowania ustalonej przez świadków i wypłacane posiadaczom SBD w formie SBD
-- Współczynnik posuwu: Ilość STEEM, dla której można wykorzystać łączną wartość istniejącego SBD, zmieni się w zależności od zmian w podawanej cenie. This change is effectively destruction ("burning") of STEEM when the value of STEEM (as measured by the feed) is increasing, or creation of STEEM when the value of STEEM (as measured by the feed) is declining.
+- Współczynnik posuwu: Ilość STEEM, dla której można wykorzystać łączną wartość istniejącego SBD, zmieni się w zależności od zmian w podawanej cenie. Ta zmiana skutecznie powoduje zniszczenie ("spalenie") STEEM, gdy wartość STEEM (mierzona przez posuw) rośnie lub tworzenie STEEM, gdy wartość STEEM (mierzona przez posuw) maleje.
 
 Ograniczenia procentowe skutecznie zapewniają, że motywacje do nagród nie stają się beznadziejnie małe w czasie, co ma na celu uniemożliwienie systemowi doświadczanie "gwałtownego spowolnienia" we wzorcu wzrostu, jak to ma miejsce w przypadku wielu innych blockchainów, gdzie początkowemu wzrostowi, napędzanemu przez wysokie systemy motywacyjne dla początkujących uczestników, towarzyszy długotrwała stagnacja, ponieważ wartość systemów motywacyjnych ciągle spada poniżej poziomu koniecznego do nakłonienia nowicjuszy do przyłączenia się.
 
