@@ -331,7 +331,7 @@ Namen izplačevanja nagrad za rudarjenje v SP je preprečiti rudarjem, da bi s p
 
 Algoritem za rudarjenje, ki ga je sprejel Steem, zahteva od rudarjev, da imajo dostop do zasebnega ključa računa, ki bo prejemal nagrade. Ta zahteva ima več pomembnih posledic. Kot prvo, spodbuja optimizacijo algoritmov za preverjanje eliptičnega krivuljnega podpisa, ki ga potrebuje Steem. Kot drugo, vzpostavitev rudarskih bazenov je zelo otežena, ker bi upravljalec bazena moral deliti nadzor nad nagradami z vsemi "anonimnimi" rudarji. Kot tretje, otežena je uporaba botnetov, saj bi moral upravljalec botneta razdeliti svoj zasebni ključ vsem zlorabljenim računalnikom.
 
-The following pseudocode describes how the proof-of-work hash value is calculated:
+Naslednja prevdokoda opiše, kako se izračuna hash vrednost dokazila o delu:
 
     Let H    = Head Block ID
     Let H2   = SHA256(H + NONCE)
