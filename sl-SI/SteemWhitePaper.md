@@ -360,7 +360,7 @@ Rudarji imajo skupno na voljo 3 sekunde, da prejmejo blok, rešijo dokazilo o de
 
 Zaradi nenehno spreminjajočega se prvotnega bloka ter omrežne latence posredovanje predloge za rudarjenje določenega bloka udeležencem rudarskega bazena še dodatno poveča omrežno latenco in močno zmanjša učinkovitost skupnega rudarjenja.
 
-# Eliminating Transaction Fees
+# Odprava transakcijskih pristojbin
 
 Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
 
