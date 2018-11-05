@@ -348,11 +348,11 @@ Mnoge kovance z dokazilom o delu na koncu rudarijo botneti. Botnet je zbirka na 
 
 Steem ima veliko lastnosti, ki tem računalniškim tatovom preprečuje, da bi si kovali dobiček. Upravljalci botnetov so podjetja, ki želijo hiter zaslužek, in običajno prodajo svoje ukradene vire najboljšemu ponudniku. To pomeni, da tisti, ki uporabljajo botnet, plačujejo računalniško moč enako kakor nekdo, ki uporablja Amazon EC2. Zahteva Steema po dolgoročni naložbi pomeni, da bodo sredstva, porabljena za nakup virov botneta, vezana dolgo časovno obdobje, v katerem bo upravljalec izpostavljen nihanjem cene.
 
-Another way that botnet operators are prevented from profiting is the requirement to distribute the private key to all compromised machines. If even one compromised computer is discovered, the operator could lose their coins.
+Drug način, da je upravljalcem botnetov onemogočeno kovanje dobička, je zahteva, da razdelijo svoj zasebni ključ vsem zlorabljenim računalnikom. Če se odkrije že samo en zlorabljen računalnik, utegne upravljalec izgubiti vse svoje kovance.
 
-The last mitigation is the dependency on latency. Most botnets are comprised of computers with poor internet connections, these slow Internet connections will dramatically reduce the effectiveness of the computational resource.
+Zadnji ukrep pa je odvisnost od latence. Večino botnetov sestavljajo računalniki s slabimi internetnimi povezavami, zaradi česar se dramatično zmanjša učinkovitost računalniškega vira.
 
-It should be more profitable and less risky for botnet operators to use their resources for other activities than mining STEEM.
+Za upravljalce botnetov je bolj donosno in manj tvegano, če svoje vire namenijo drugim aktivnostim namesto rudarjenju STEEM-a.
 
 ### Mining Pool Resistant
 
