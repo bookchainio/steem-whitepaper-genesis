@@ -356,9 +356,9 @@ Za upravljalce botnetov je bolj donosno in manj tvegano, če svoje vire namenijo
 
 ### Odporen na rudarske bazene
 
-Rudarji imajo skupno na voljo 3 sekunde, da prejmejo blok, rešijo dokazilo o delu in posredujejo transakcijo naslednjemu izdelovalcu blokov. Much of this time will consist of network latency which means that it is critical for miners to be well connected to the network to make the most effective use of their computational resources.
+Rudarji imajo skupno na voljo 3 sekunde, da prejmejo blok, rešijo dokazilo o delu in posredujejo transakcijo naslednjemu izdelovalcu blokov. Veliko od tega časa vzame latenca omrežja, kar pomeni, da je nujno, da imajo rudarji dobro povezavo do omrežja, če želijo kar najučinkoviteje uporabljali svoje računalniške vire.
 
-Because of the constantly changing head block and network latency, forwarding a template for mining a specific block to participants of a mining pool adds additional network latency and reduces efficiency of pooled mining significantly.
+Zaradi nenehno spreminjajočega se prvotnega bloka ter omrežne latence posredovanje predloge za rudarjenje določenega bloka udeležencem rudarskega bazena še dodatno poveča omrežno latenco in močno zmanjša učinkovitost skupnega rudarjenja.
 
 # Eliminating Transaction Fees
 
