@@ -364,11 +364,11 @@ Zaradi nenehno spreminjajočega se prvotnega bloka ter omrežne latence posredov
 
 Steem si močno prizadeva nagrajevati ljudi za njihove prispevke v omrežju. Učinek bi bil ravno nasproten, če se ne bi zmenili za ljudi in bi jim zaračunavali vsakič, ko bi želeli komunicirati s skupnostjo.
 
-Trenutno blockchain tehnologija preprečuje spam z zaračunavanjem transakcijskih pristojbin. Te pristojbine trpijo za vsemi znanimi težavami, povezanimi z mikrotransakcijami, in preprečujejo blockchainom, da bi se uporabljali za transakcije majhnih vrednosti. Zares decentralizirane aplikacije morajo uporabnikom dajati videz brezplačnih transakcij, če se želijo kosati s svojimi centraliziranimi alternativami. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+Trenutno blockchain tehnologija preprečuje spam z zaračunavanjem transakcijskih pristojbin. Te pristojbine trpijo za vsemi znanimi težavami, povezanimi z mikrotransakcijami, in preprečujejo blockchainom, da bi se uporabljali za transakcije majhnih vrednosti. Zares decentralizirane aplikacije morajo uporabnikom dajati videz brezplačnih transakcij, če se želijo kosati s svojimi centraliziranimi alternativami. Ta bela knjiga opisuje pritop, ki ga uporablja Steem, da bi odstranil potrebo po pristojbinah in tako omogočil široko paleto prej nedosegljivih decentraliziranih aplikacij.
 
-## The Problem With Fees
+## Težava s pristojbinami
 
-Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+Blockchaini so decentralizirana omrežja, kjer se vse transakcije sporočijo vsem povezanim računalnikom. Vsake toliko časa se proizvede blok, ki vsebuje nekaj ali vse čakajoče transakcije. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
 
 The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn't use email.
 
