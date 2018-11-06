@@ -374,7 +374,7 @@ Rešitev, ki jo je do sedaj sprejela večina blockchainov, je zaračunavanje min
 
 ### Mikroplačila se ne obnesejo
 
-The fundamental problem with charging transaction fees is that micropayments don't work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+Poglavitna težava z zaračunavanjem transakcijskih pristojbin je v tem, da mikroplačila ne delujejo, še zlasti za dejavnosti, ki imajo majhno vrednost. Kadar se pristojbina zaračuna za vsako transakcijo, se omejijo vrste transakcij, ki jih decentralizirano omrežje lahko obdela. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
 
 Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave.
 
