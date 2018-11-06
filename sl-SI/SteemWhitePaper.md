@@ -368,9 +368,9 @@ Trenutno blockchain tehnologija preprečuje spam z zaračunavanjem transakcijski
 
 ## Težava s pristojbinami
 
-Blockchaini so decentralizirana omrežja, kjer se vse transakcije sporočijo vsem povezanim računalnikom. Vsake toliko časa se proizvede blok, ki vsebuje nekaj ali vse čakajoče transakcije. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+Blockchaini so decentralizirana omrežja, kjer se vse transakcije sporočijo vsem povezanim računalnikom. Vsake toliko časa se proizvede blok, ki vsebuje nekaj ali vse čakajoče transakcije. Vsi blockchaini morajo najti rešitev, da preprečijo zlonamernim uporabnikom, da bi porabili vso preostalo zmogljivost omrežja za ničvredne transakcije. Te ničvredne transakcije lahko preprečijo obdelavo drugih dragocenih transakcij in na koncu uničijo omrežje.
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn't use email.
+Rešitev, ki jo je do sedaj sprejela večina blockchainov, je zaračunavanje minimalne transakcijske pristojbine. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn't use email.
 
 ### Micropayments Don't Work
 
