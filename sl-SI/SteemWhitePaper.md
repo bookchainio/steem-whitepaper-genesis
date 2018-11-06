@@ -362,9 +362,9 @@ Zaradi nenehno spreminjajočega se prvotnega bloka ter omrežne latence posredov
 
 # Odprava transakcijskih pristojbin
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Steem si močno prizadeva nagrajevati ljudi za njihove prispevke v omrežju. Učinek bi bil ravno nasproten, če se ne bi zmenili za ljudi in bi jim zaračunavali vsakič, ko bi želeli komunicirati s skupnostjo.
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+Trenutno blockchain tehnologija preprečuje spam z zaračunavanjem transakcijskih pristojbin. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
 
 ## The Problem With Fees
 
