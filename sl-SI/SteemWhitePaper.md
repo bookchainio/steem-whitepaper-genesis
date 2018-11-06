@@ -378,7 +378,7 @@ Poglavitna težava z zaračunavanjem transakcijskih pristojbin je v tem, da mikr
 
 Predstavljajte si, da bi spletne strani, ki jih uporabljamo vsak dan, zaračunale pristojbino vsakič, ko bi naredili spremembo pri svojem računu, npr. ko bi spremenili geslo. Ljudje pričakujejo, da so določene stvari brezplačne. Če se od uporabnikov zahteva, da se odločijo, ali je neko dejanje vredno majhne pristojbine, to povzroči nezadovoljstvo, zaradi česar ljudje začnejo odhajati.
 
-> A transaction can't be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
+> Transakcija ne sme stati toliko, da zahteva odločitev, ampak tako majhna, da je odločitev samodejna. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
 > Micropayments, like all payments, require a comparison: "Is this much of X worth that much of Y?" There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
 > 
 > *- Clay Shirky[^8]*
