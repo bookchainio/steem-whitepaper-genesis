@@ -370,9 +370,9 @@ Trenutno blockchain tehnologija preprečuje spam z zaračunavanjem transakcijski
 
 Blockchaini so decentralizirana omrežja, kjer se vse transakcije sporočijo vsem povezanim računalnikom. Vsake toliko časa se proizvede blok, ki vsebuje nekaj ali vse čakajoče transakcije. Vsi blockchaini morajo najti rešitev, da preprečijo zlonamernim uporabnikom, da bi porabili vso preostalo zmogljivost omrežja za ničvredne transakcije. Te ničvredne transakcije lahko preprečijo obdelavo drugih dragocenih transakcij in na koncu uničijo omrežje.
 
-Rešitev, ki jo je do sedaj sprejela večina blockchainov, je zaračunavanje minimalne transakcijske pristojbine. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn't use email.
+Rešitev, ki jo je do sedaj sprejela večina blockchainov, je zaračunavanje minimalne transakcijske pristojbine. Pristojbina, ki stane samo nekaj centov, je dovolj, da povzroči, da so napadi na omrežje dragi in nedonosni. Ta pristop sicer reši težave s spamom, vendar nastanejo nove težave. Predstavljajte si, da bi težavo z nezaželeno e-pošto reševali z uvedbo majhnih pristojbin za vsako e-poštno sporočilo; ljudje ne bi več uporabljali e-pošte.
 
-### Micropayments Don't Work
+### Mikroplačila se ne obnesejo
 
 The fundamental problem with charging transaction fees is that micropayments don't work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
 
