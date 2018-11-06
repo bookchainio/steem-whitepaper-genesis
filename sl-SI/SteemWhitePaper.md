@@ -374,9 +374,9 @@ Rešitev, ki jo je do sedaj sprejela večina blockchainov, je zaračunavanje min
 
 ### Mikroplačila se ne obnesejo
 
-Poglavitna težava z zaračunavanjem transakcijskih pristojbin je v tem, da mikroplačila ne delujejo, še zlasti za dejavnosti, ki imajo majhno vrednost. Kadar se pristojbina zaračuna za vsako transakcijo, se omejijo vrste transakcij, ki jih decentralizirano omrežje lahko obdela. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+Poglavitna težava z zaračunavanjem transakcijskih pristojbin je v tem, da mikroplačila ne delujejo, še zlasti za dejavnosti, ki imajo majhno vrednost. Kadar se pristojbina zaračuna za vsako transakcijo, se omejijo vrste transakcij, ki jih decentralizirano omrežje lahko obdela. Ne glede na to, kako racionalni utegnejo biti argumenti za nujnost pristojbin, uporabniki še vedno sovražijo izkušnjo, da morajo plačevati za vse, kar počnejo.
 
-Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave.
+Predstavljajte si, da bi spletne strani, ki jih uporabljamo vsak dan, zaračunale pristojbino vsakič, ko bi naredili spremembo pri svojem računu, npr. ko bi spremenili geslo. Ljudje pričakujejo, da so določene stvari brezplačne. Če se od uporabnikov zahteva, da se odločijo, ali je neko dejanje vredno majhne pristojbine, to povzroči nezadovoljstvo, zaradi česar ljudje začnejo odhajati.
 
 > A transaction can't be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
 > Micropayments, like all payments, require a comparison: "Is this much of X worth that much of Y?" There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
