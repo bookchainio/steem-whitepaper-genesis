@@ -364,7 +364,7 @@ Zaradi nenehno spreminjajočega se prvotnega bloka ter omrežne latence posredov
 
 Steem si močno prizadeva nagrajevati ljudi za njihove prispevke v omrežju. Učinek bi bil ravno nasproten, če se ne bi zmenili za ljudi in bi jim zaračunavali vsakič, ko bi želeli komunicirati s skupnostjo.
 
-Trenutno blockchain tehnologija preprečuje spam z zaračunavanjem transakcijskih pristojbin. Te pristojbine trpijo za vsemi znanimi težavami, povezanimi z mikrotransakcijami, in preprečujejo blockchainom, da bi se uporabljali za transakcije majhnih vrednosti. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+Trenutno blockchain tehnologija preprečuje spam z zaračunavanjem transakcijskih pristojbin. Te pristojbine trpijo za vsemi znanimi težavami, povezanimi z mikrotransakcijami, in preprečujejo blockchainom, da bi se uporabljali za transakcije majhnih vrednosti. Zares decentralizirane aplikacije morajo uporabnikom dajati videz brezplačnih transakcij, če se želijo kosati s svojimi centraliziranimi alternativami. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
 
 ## The Problem With Fees
 
