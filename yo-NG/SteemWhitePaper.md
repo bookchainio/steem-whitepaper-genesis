@@ -138,11 +138,11 @@ Nitori pe a le se iyipada SMD si iye awon dola STEEM ni iye to dara ni igba to m
 
 Eni ti o man pese isodomi man ra ati ta SMD ati STEEM. Won mu opo ninu ewu iye owo igba die ati ofunni igba to gun ewu fifun awon olumolo oja to ku ni idayato to ga, opin omi oja laarin eleyi ti a le sowo.
 
-Steemu ni oja ori blockchain laarin SMD ati STEEM. Awon olumulo le gba awon ere nipa pipese isodomi fun ona meejeji ti oja yi. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
+Steemu ni oja ori blockchain laarin SMD ati STEEM. Awon olumulo le gba awon ere nipa pipese isodomi fun ona meejeji ti oja yi. Blockchain yi se amulo alugoridiimu kan tio le lati se ipin ipese ati ilo isodomi ti olumulo kankan.
 
-A user is considered a liquidity provider if they leave an open order on the books for at least 1 minute and the order is eventually filled. If the order is canceled before being filled then the user is not credited with providing liquidity.
+Ama wo olumulo gege bi olupese isodomi ti won ba fi ibeere to wa ni sisi sile lori iwe fun okere ju iseju kan ati pe ibeere na wa pada ni idahun nikeyin. Ti aba fagile ibeere yi ki idahun to wa nigbana aki yo ka si fun oluwulo na pelu pipese isodomi.
 
-Users must provide liquidity on both sides of the book to qualify for rewards and they must provide liquidity consistently over time. The scoring algorithm is:
+Awon olumulo gbudo pese isodomi lona mejeji ti iwe lati muye fun awon ere ati wipe won gbudo ma pese isodomi lorekore. Alugoridiimu ti afin se ayewo ni:
 
       LiquidityPoints = NetBidVolume x NetAskVolume
     
