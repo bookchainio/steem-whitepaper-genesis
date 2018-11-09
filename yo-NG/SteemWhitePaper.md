@@ -130,11 +130,11 @@ Steemu se idogba ti papa isere nipase bibere fun gbogbo awon ibeere iyipada lati
 
 Ti awon eniyan ba le se iyipada larowoto ni ona mejeji nigbayen ni awon onisowo le lo anfani ti iye iyipada ti awon blockchain nipa sisowo iwon oja pupo lai se iyipada iye re. Awon onisowo tohun ri isare lo soke ni iye owo yio se iyipada si SMD ni iye to ga yen (nigba to lewu ju) won ma wa yipada leyin atunse. Ilana Steemu da abo bo agbegbe kuro lowo ilokulo yi nipa fifi aye gbe fun awon eniyan lati se iyipada lati SMD si STEEM sugbon ko lo lona keji.
 
-The blockchain decides how and when to create SMD and who should get it. This keeps the rate of SMD creation stable and removes most avenues of abuse.
+Blockchain pinnu bawo ati igba ti an seda SMD ati eni to ma gba a. Eleyi jeki iye siseda SMD duro deede osi yokuro pupo ninu awon ona ilokulo.
 
-### Liquidity
+### Isodomi
 
-Just because SMD can be converted to a dollars worth of STEEM at a fair price in a reasonable amount of time doesn't mean it will be viewed as a reliable dollar replacement. These assets require liquidity in a market that enables instantaneous conversion between STEEM and SMD. The measures a blockchain is forced to take to prevent abuse end up lowering the quality of the convertible dollars. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
+Nitori pe a le se iyipada SMD si iye awon dola STEEM ni iye to dara ni igba to mogbon wa ko tumo siwipe aaori gege bi iropo dola to ni agbekele. Awon dukia yi nilo isodomi ni oja kan to fayefun iyipada lesekese laarin STEEM ati SMD. Awon igbese ti a fipa jeki blockchain gbe lati se idina ilokulo man pada ja wa sile idayato ti awon dola iyipada. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
 
 A liquidity provider buys and sells SMD and STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
 
