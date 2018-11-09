@@ -128,7 +128,7 @@ Steemu se idogba ti papa isere nipase bibere fun gbogbo awon ibeere iyipada lati
 
 ### Didinku Ilokulo awon Iyipada
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SMD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SMD to STEEM and not the other way around.
+Ti awon eniyan ba le se iyipada larowoto ni ona mejeji nigbayen ni awon onisowo le lo anfani ti iye iyipada ti awon blockchain nipa sisowo iwon oja pupo lai se iyipada iye re. Awon onisowo tohun ri isare lo soke ni iye owo yio se iyipada si SMD ni iye to ga yen (nigba to lewu ju) won ma wa yipada leyin atunse. Ilana Steemu da abo bo agbegbe kuro lowo ilokulo yi nipa fifi aye gbe fun awon eniyan lati se iyipada lati SMD si STEEM sugbon ko lo lona keji.
 
 The blockchain decides how and when to create SMD and who should get it. This keeps the rate of SMD creation stable and removes most avenues of abuse.
 
