@@ -122,11 +122,11 @@ Ninu ferese ose kan, awon elegbe agbegbe ni ojo meta ati abo lati fidahun si nka
 
 ### Gbigbon Awon Akoko Idojuko
 
-Awon tohun lo oja ni eto si iroyin ni kiakia ju sisun blockchain ti ose kan ti iyipada owo ilarin le sesi. A le lo iroyin na fun anfani awon onisowo laibikita agbegbe. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Awon tohun lo oja ni eto si iroyin ni kiakia ju sisun blockchain ti ose kan ti iyipada owo ilarin le sesi. A le lo iroyin na fun anfani awon onisowo laibikita agbegbe. Awon onisowo le bere iyipada SMD won ti iye owo STEEM ba gbere lojiji ni ti tele, iye to kere, leyin ti won a ta STEEMU ti won gba ni iye owo titun to gba pele ewu kekere.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for one week. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steemu se idogba ti papa isere nipase bibere fun gbogbo awon ibeere iyipada lati ni idaduro fun ose kan. Eleyi tunmo siwipe yala awon onisowo tabi blockchain loni alaye awon anfani ti iye owi nigba ti an se iyipada.
 
-### Minimizing Abuse of Conversions
+### Didinku Ilokulo awon Iyipada
 
 If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SMD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SMD to STEEM and not the other way around.
 
