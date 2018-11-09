@@ -144,12 +144,12 @@ Ama wo olumulo gege bi olupese isodomi ti won ba fi ibeere to wa ni sisi sile lo
 
 Awon olumulo gbudo pese isodomi lona mejeji ti iwe lati muye fun awon ere ati wipe won gbudo ma pese isodomi lorekore. Alugoridiimu ti afin se ayewo ni:
 
-      LiquidityPoints = NetBidVolume x NetAskVolume
+      AwonKokoIsodomo = AkojopoApapoOwo-iraja x AkojopoApapoIbere
     
 
-Every hour the account with the most LiquidityPoints receives 1200 STEEM and then has its LiquidityPoints reset to 0. An account that goes a week without earning any LiquidityPoints also has its points reset to 0. This means that whether you provide a large amount of liquidity or a small amount over a long period of time everyone gets a proportional amount of the rewards. If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
+Ni gbogbo wakati akopamonto ni awon KokoIsodomi julo gba 1200 STEEM ama wa yipada KokoIsodomi re si 0. Akopamo yi o wu toba lo fun ose kan lai ni awon KokoIsodomi kankan na ma ni awon koko re yi pada si 0. Eleyi tunko si wipe to ba pese iye isodomi pupi tabi iye kekere fun igba to gun gbogbo eniyan yio gba iye awon ere to tosi won. Ti ikan lara AkojopoApapoOwo-iraja tabi AkojopoApapoIbeere ba je odi, nigbayen a o ri AwonKokoIsodomi bi 0.
 
-### Sustainable Debt to Ownership Ratios
+### Gbese Alagbero Si Awon Eto Ijerisi
 
 If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
 
