@@ -134,11 +134,11 @@ Blockchain pinnu bawo ati igba ti an seda SMD ati eni to ma gba a. Eleyi jeki iy
 
 ### Isodomi
 
-Nitori pe a le se iyipada SMD si iye awon dola STEEM ni iye to dara ni igba to mogbon wa ko tumo siwipe aaori gege bi iropo dola to ni agbekele. Awon dukia yi nilo isodomi ni oja kan to fayefun iyipada lesekese laarin STEEM ati SMD. Awon igbese ti a fipa jeki blockchain gbe lati se idina ilokulo man pada ja wa sile idayato ti awon dola iyipada. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
+Nitori pe a le se iyipada SMD si iye awon dola STEEM ni iye to dara ni igba to mogbon wa ko tumo siwipe aaori gege bi iropo dola to ni agbekele. Awon dukia yi nilo isodomi ni oja kan to fayefun iyipada lesekese laarin STEEM ati SMD. Awon igbese ti a fipa jeki blockchain gbe lati se idina ilokulo man pada ja wa sile idayato ti awon dola iyipada. Lati sanpada fun isonu idayato blockchain le pese iye ere ti ko yipada fun awon tohun pese isodomi. Nigbati ipadanu nipase ifowoyi ati ilokulo o ni idojuko, iye fun sise iwuri isodomi le ma ni ayipada.
 
-A liquidity provider buys and sells SMD and STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
+Eni ti o man pese isodomi man ra ati ta SMD ati STEEM. Won mu opo ninu ewu iye owo igba die ati ofunni igba to gun ewu fifun awon olumolo oja to ku ni idayato to ga, opin omi oja laarin eleyi ti a le sowo.
 
-Steem has an on-blockchain market between SMD and STEEM. Users can earn rewards by providing liquidity to both sides of this market. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
+Steemu ni oja ori blockchain laarin SMD ati STEEM. Awon olumulo le gba awon ere nipa pipese isodomi fun ona meejeji ti oja yi. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
 
 A user is considered a liquidity provider if they leave an open order on the books for at least 1 minute and the order is eventually filled. If the order is canceled before being filled then the user is not credited with providing liquidity.
 
