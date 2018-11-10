@@ -396,9 +396,9 @@ Sčasoma mora omrežje prilagoditi zneske pristojbin. To se lahko zgodi bodisi z
 
 ### Napadi Sybil
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA [^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+Centralizirane spletne strani preprečujejo spam z omejitvami hitrosti in nekaterimi oblikami preverjanja identitete. Že nekaj tako preprostega, kot je reCAPTCHA [^9], zadostuje za omejevanje ustvarjanja lažnih računov. Če kdo zlorabi svoj račun, lahko centralizirane spletne strani takšen račun blokirajo.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+V decentraliziranem sistemu ni nobenega neposrednega načina, da se prepove uporabnike, niti centraliziranega ponudnika, ki bi gostil storitev reCAPTCHA, in omejeval stopnjo uporabe računov. In fact, the inability to censor users is one of the main selling points of blockchain technology.
 
 ### Full Reserve vs Fractional Reserve
 
