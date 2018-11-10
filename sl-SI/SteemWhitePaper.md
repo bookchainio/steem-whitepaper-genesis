@@ -394,7 +394,7 @@ Vsakršne pristojbine predstavljajo oviro za vstop novih uporabnikov. Preden lah
 
 Sčasoma mora omrežje prilagoditi zneske pristojbin. To se lahko zgodi bodisi zaradi povečanja vrednosti žetona bodisi zaradi povečanja zmogljivosti. Uporabniki imajo radi predvidljive pristojbine in zajamčeno storitev. Čeprav je mogoče v obdobju množične uporabe dinamično spreminjati pristojbine, je rezultat slaba uporabniška izkušnja.
 
-### Sybil Attacks
+### Napadi Sybil
 
 Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA [^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
 
