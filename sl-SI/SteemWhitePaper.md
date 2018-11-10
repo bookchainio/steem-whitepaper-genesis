@@ -388,7 +388,7 @@ Sistemi, kot so BitShares, Nxt, Ripple, Counter Party in Stellar, omogočajo upo
 
 ### Pristojbine so ovira za vstop
 
-Vsakršne pristojbine predstavljajo oviro za vstop novih uporabnikov. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Vsakršne pristojbine predstavljajo oviro za vstop novih uporabnikov. Preden lahko nekdo začne eksperimentirati z Ethereumom, mora najprej kupiti nekaj ETH žetonov. Vsak, ki želi zgraditi decentralizirano aplikacijo na Ethereumu, mora prenesti stroške na svoje stranke. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
 
 ### Changing Fees
 
