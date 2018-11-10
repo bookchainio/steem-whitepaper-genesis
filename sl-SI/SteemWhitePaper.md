@@ -388,11 +388,11 @@ Sistemi, kot so BitShares, Nxt, Ripple, Counter Party in Stellar, omogočajo upo
 
 ### Pristojbine so ovira za vstop
 
-Vsakršne pristojbine predstavljajo oviro za vstop novih uporabnikov. Preden lahko nekdo začne eksperimentirati z Ethereumom, mora najprej kupiti nekaj ETH žetonov. Vsak, ki želi zgraditi decentralizirano aplikacijo na Ethereumu, mora prenesti stroške na svoje stranke. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Vsakršne pristojbine predstavljajo oviro za vstop novih uporabnikov. Preden lahko nekdo začne eksperimentirati z Ethereumom, mora najprej kupiti nekaj ETH žetonov. Vsak, ki želi zgraditi decentralizirano aplikacijo na Ethereumu, mora prenesti stroške na svoje stranke. Nakup kriptovalute ni preprosto opravilo in redkokdaj je smiselno za zneske, manjše od 10 USD. To pomeni, da je potrebno nove uporabnike, ki želijo preizkusiti novo decentralizirano aplikacijo, najprej prepričati, da se poslovijo od 10 USD.
 
-### Changing Fees
+### Spreminjajoče se pristojbine
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Sčasoma mora omrežje prilagoditi zneske pristojbin. To se lahko zgodi bodisi zaradi povečanja vrednosti žetona bodisi zaradi povečanja zmogljivosti. Uporabniki imajo radi predvidljive pristojbine in zajamčeno storitev. Čeprav je mogoče v obdobju množične uporabe dinamično spreminjati pristojbine, je rezultat slaba uporabniška izkušnja.
 
 ### Sybil Attacks
 
