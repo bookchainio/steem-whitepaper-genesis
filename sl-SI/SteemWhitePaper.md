@@ -386,9 +386,9 @@ V svetu finančnih plačil so majhne pristojbine sprejemljive, saj je vrednost t
 
 Sistemi, kot so BitShares, Nxt, Ripple, Counter Party in Stellar, omogočajo uporabnikom, da na blockchainu oddajo naročilo z omejitvijo (limit order), in vsi ti sistemi zaračunajo uporabnikom majhno pristojbino za prihodnjo izvedbo tega dejanja. Če si uporabnik pozneje premisli in prekliče svoje naročilo, se zaračuna dodatna pristojbina. Sistemi, kot so Ethereum, povzdignejo mikroplačila na povsem novo raven: z zaračunavanjem na izračun. Vsi ti sistemi stežka privabijo večje število novih uporabnikov, in sicer iz istih razlogov, kot bi jih imel spletni iskalnik, ki bi skušal prevzeti Googlove uporabnike, s tem da bi zaračunal majhno pristojbino za vsako opravljeno iskanje. Pri tem sploh ni pomembno, za kako dobro storitev gre, ljudje zgolj pričakujejo, da so določene stvari brezplačne. To velja celo v primeru, če uporabnik zaradi drugačne strukture pristojbin na koncu skupno plača več.
 
-### Fees are a Barrier to Entry
+### Pristojbine so ovira za vstop
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Vsakršne pristojbine predstavljajo oviro za vstop novih uporabnikov. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
 
 ### Changing Fees
 
