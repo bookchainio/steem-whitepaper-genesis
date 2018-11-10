@@ -151,7 +151,7 @@ Ni gbogbo wakati akopamonto ni awon KokoIsodomi julo gba 1200 STEEM ama wa yipad
 
 ### Gbese Alagbero Si Awon Eto Ijerisi
 
-Ti aba wo aami kan bi oniwun ninu gbogbo ipese awon aami, nigbana a le wo aami-iyipada-dola kan gegebi gbese. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+Ti aba wo aami kan bi oniwun ninu gbogbo ipese awon aami, nigbana a le wo aami-iyipada-dola kan gegebi gbese. Ti ipin gbese si oniwun ba ga ju gbogbo owo na le ma ni id. Awon iyipada gbese le jeki ipese aami po si, eleyi ti aman ta ni oja to man dinku ite owo. Won iyipada to tele ma nilo ipinfunni ti awon aami to po si. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
 
 For every SMD Steem creates, $19.00 of STEEM is also created and converted to SP. This means that the highest possible debt-to-ownership in a stable market is 1:19 or about 5%. If Steem falls in value by 50% then the ratio could increase to 10%. An 88% fall in value of STEEM could cause the debt-to-ownership ratio to reach 40%. Assuming the value of STEEM eventually stabilizes, the debt-to-ownership ratio will naturally move back toward 5%.
 
