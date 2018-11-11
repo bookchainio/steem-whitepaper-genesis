@@ -163,9 +163,9 @@ Iyipada kiakia ni iye ti STEEM le yipada ipin gbese-si-oniwun lona to yani lenu.
 
 SMD man san anfani fun awon to mu dani. Awon eniyan to se agbejade ifunni ti iye o naa loma seto iye anfani kole fi le faramo awon ipo oja tohun yipada. Gbogbo gbese lohun gbe ewu si odo ayanilowo. Eni to se agbamu SMD lai se irapada re ohun ya agbegbe ni iye owo dola kan lona to doko. Won gbekele wipe ni akoko kan lojo iwaju enikan a feran lati ra SMD latodo won fun dola kan tabi won a je awon osuwon ati oludokoowo ti won fe lati ra STEEM ti win yipada si.
 
-Awon to gbamu STEEM ati SP ni anfani nigba ti awon elegbe agbegbe ba fe lati mu SMD dani. Anfani ti se igbesoke awon ere lati idagbasoke nigba ti o si tun fowosi idagbasoke. Awon to di STEEM mu man jiya lowo ilosoke iyalu ti iye owo ba wale. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+Awon to gbamu STEEM ati SP ni anfani nigba ti awon elegbe agbegbe ba fe lati mu SMD dani. Anfani ti se igbesoke awon ere lati idagbasoke nigba ti o si tun fowosi idagbasoke. Awon to di STEEM mu man jiya lowo ilosoke iyalu ti iye owo ba wale. Awon akanse Cryptocurrency ti fihan wipe awon ere lati ilosoke awon olumulo to fe lati gbekele netiworki pelu owo idokoowo lekunrere fikun iye netiworki ju iyalu eyio wu lo to le sele nigba ti nkan o ba lodede mo.
 
-### Setting Price Feeds
+### Siseto Awon Ifunni Towo
 
 Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
