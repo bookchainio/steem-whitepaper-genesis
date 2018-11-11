@@ -435,9 +435,9 @@ Vsak uporabnik je upravičen do povprečne tedenske pasovne širine:
     Dodelitev = M * U / S
     
 
-A user would be entitled to an average bandwidth of M \* U / S. Any time a transaction would cause the user's average to go above this threshold they would be unable to transact until enough time passes to lower the average.
+Uporabnik bi bil upravičen do povprečne pasovne širine M \* U / S. Vsakič, ko bi zaradi transakcije uporabnikovo povprečje prekoračilo ta prag, ne bi mogel opravljati transakcij, dokler ne bi minilo dovolj časa, da bi se povprečje znižalo.
 
-The network can increase the reserve ratio, anytime blocks are less than half the target capacity and decrease it anytime they are more than half. The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
+Omrežje lahko poveča razmerje rezerve vsakič, ko je blokov manj kot polovica ciljne kapacitete, in zmanjša vsakič, ko jih je več kot polovica. The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
 
 The minimum reserve ratio is 1, and the maximum reserve ratio should be calculated to prevent small stakeholders from consuming all of the available bandwidth. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
 
