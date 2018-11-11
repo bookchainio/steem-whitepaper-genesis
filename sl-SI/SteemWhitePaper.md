@@ -400,7 +400,7 @@ Centralizirane spletne strani preprečujejo spam z omejitvami hitrosti in nekate
 
 V decentraliziranem sistemu ni nobenega neposrednega načina, da se prepove uporabnike, niti centraliziranega ponudnika, ki bi gostil storitev reCAPTCHA, in omejeval stopnjo uporabe računov. Pravzaprav je nezmožnost cenzuriranja uporabnikov ena glavnih prodajnih adutov blockchain tehnologije.
 
-### Full Reserve vs Fractional Reserve
+### Polna zaloga proti neznatni zalogi
 
 Let's view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
 
