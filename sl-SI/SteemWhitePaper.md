@@ -426,13 +426,13 @@ Naj bo B enak uporabnikovi povprečni pasovni širini ob času T. Naj bo W enak 
 
 Vsak uporabnik je upravičen do povprečne tedenske pasovne širine:
 
-    Let U = the user's SP
-    Let S = the total number of SP
-    Let R = the current reserve ratio between 1 and Rmax
-    Let C = the maximum block size capacity set by witnesses
-    Let L = the total blocks per week
+    Let U = SP uporabnika
+    Let S = skupno število SP
+    Let R = trenutno razmerje rezerve med 1 in Rmax
+    Let C = maksimalna kapaciteta velikosti bloka, ki jo nastavijo priče
+    Let L = skupno število blokov na teden
     Let M = C * L * R
-    Allocation = M * U / S
+    Dodelitev = M * U / S
     
 
 A user would be entitled to an average bandwidth of M \* U / S. Any time a transaction would cause the user's average to go above this threshold they would be unable to transact until enough time passes to lower the average.
