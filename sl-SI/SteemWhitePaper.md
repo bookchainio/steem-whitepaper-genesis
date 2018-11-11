@@ -414,17 +414,17 @@ Rešitev za težave z mikroplačili je v izvedbi *dinamičnih frakcijskih rezerv
 
 Pasovno širino, ki jo uporablja posamezni uporabnik, je potrebno meriti v ustrezno dolgem časovnem obdobju, da bi lahko ta uporabnik časovno zamikal svojo uporabo. Uporabniki se ponavadi prijavijo, naredijo veliko stvari naenkrat in se nato odjavijo. To pomeni, da je lahko uporabnikova pasovna širina v kratkem časovnem obdobju videti veliko večja, kakor če se jo opazuje daljše obdobje. Če je časovno okno preveliko, potem se razmerje rezerve ne bo prilagajalo dovolj hitro, da bi se odzivalo na kratkoročne skoke, če pa je okno premajhno, bo skupna uporaba imela prevelik vpliv na običajne uporabnike.
 
-Glede na našo oceno bi moralo zadostovati, če se meri povprečna tedenska pasovna širina uporabe uporabnikov. Vsakič, ko uporabnik podpiše transakcijo, se ta upošteva pri njegovem individualnem drsečem povprečju. Any time a user's moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+Glede na našo oceno bi moralo zadostovati, če se meri povprečna tedenska pasovna širina uporabe uporabnikov. Vsakič, ko uporabnik podpiše transakcijo, se ta upošteva pri njegovem individualnem drsečem povprečju. Kadar koli drseče povprečje uporabnika preseže trenutno omejitev omrežja, se njegova transakcija odloži, dokler njegovo povprečje ne pade pod omejitev.
 
-### Example Implementation
+### Primer izvedbe
 
-Let B equal a user's average bandwidth at time T. Let W equal the number of seconds per week, and let N equal the size of the new transaction that occurred S seconds after T. Given this information the blockchain can calculate the new average bandwidth for a user as:
+Naj bo B enak uporabnikovi povprečni pasovni širini ob času T. Naj bo W enak številu sekund na teden, N pa naj bo enak velikosti nove transakcije, ki se je zgodila S sekund po T. Glede na te informacije lahko blockchain izračuna novo povprečno pasovno širino za uporabnika:
 
     Bnew = MIN(0,B * (W - S) / W) + N * S / W
     Tnew = T + S
     
 
-Each user is entitled to an average weekly bandwidth of:
+Vsak uporabnik je upravičen do povprečne tedenske pasovne širine:
 
     Let U = the user's SP
     Let S = the total number of SP
