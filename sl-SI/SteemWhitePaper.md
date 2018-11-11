@@ -414,7 +414,7 @@ Rešitev za težave z mikroplačili je v izvedbi *dinamičnih frakcijskih rezerv
 
 Pasovno širino, ki jo uporablja posamezni uporabnik, je potrebno meriti v ustrezno dolgem časovnem obdobju, da bi lahko ta uporabnik časovno zamikal svojo uporabo. Uporabniki se ponavadi prijavijo, naredijo veliko stvari naenkrat in se nato odjavijo. To pomeni, da je lahko uporabnikova pasovna širina v kratkem časovnem obdobju videti veliko večja, kakor če se jo opazuje daljše obdobje. Če je časovno okno preveliko, potem se razmerje rezerve ne bo prilagajalo dovolj hitro, da bi se odzivalo na kratkoročne skoke, če pa je okno premajhno, bo skupna uporaba imela prevelik vpliv na običajne uporabnike.
 
-In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user's moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+Glede na našo oceno bi moralo zadostovati, če se meri povprečna tedenska pasovna širina uporabe uporabnikov. Vsakič, ko uporabnik podpiše transakcijo, se ta upošteva pri njegovem individualnem drsečem povprečju. Any time a user's moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
 
 ### Example Implementation
 
