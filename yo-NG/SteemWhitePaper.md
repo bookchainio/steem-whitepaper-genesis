@@ -161,9 +161,9 @@ Iyipada kiakia ni iye ti STEEM le yipada ipin gbese-si-oniwun lona to yani lenu.
 
 ### Anfani
 
-SMD man san anfani fun awon to mu dani. Awon eniyan to se agbejade ifunni ti iye o naa loma seto iye anfani kole fi le faramo awon ipo oja tohun yipada. Gbogbo gbese lohun gbe ewu si odo ayanilowo. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SMD man san anfani fun awon to mu dani. Awon eniyan to se agbejade ifunni ti iye o naa loma seto iye anfani kole fi le faramo awon ipo oja tohun yipada. Gbogbo gbese lohun gbe ewu si odo ayanilowo. Eni to se agbamu SMD lai se irapada re ohun ya agbegbe ni iye owo dola kan lona to doko. Won gbekele wipe ni akoko kan lojo iwaju enikan a feran lati ra SMD latodo won fun dola kan tabi won a je awon osuwon ati oludokoowo ti won fe lati ra STEEM ti win yipada si.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SMD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+Awon to gbamu STEEM ati SP ni anfani nigba ti awon elegbe agbegbe ba fe lati mu SMD dani. Anfani ti se igbesoke awon ere lati idagbasoke nigba ti o si tun fowosi idagbasoke. Awon to di STEEM mu man jiya lowo ilosoke iyalu ti iye owo ba wale. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
 ### Setting Price Feeds
 
