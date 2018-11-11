@@ -437,9 +437,9 @@ Vsak uporabnik je upravičen do povprečne tedenske pasovne širine:
 
 Uporabnik bi bil upravičen do povprečne pasovne širine M \* U / S. Vsakič, ko bi zaradi transakcije uporabnikovo povprečje prekoračilo ta prag, ne bi mogel opravljati transakcij, dokler ne bi minilo dovolj časa, da bi se povprečje znižalo.
 
-Omrežje lahko poveča razmerje rezerve vsakič, ko je blokov manj kot polovica ciljne kapacitete, in zmanjša vsakič, ko jih je več kot polovica. The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
+Omrežje lahko poveča razmerje rezerve vsakič, ko je blokov manj kot polovica ciljne kapacitete, in zmanjša vsakič, ko jih je več kot polovica. Algoritem, ki je uporabljen za prilagoditev R, je zasnovan tako, da se ob povečanju povpraševanja hitro odzove na zmanjšanje razmerja rezerve, v obdobju majhnega povpraševanja pa počasi povečuje razmerje rezerve.
 
-The minimum reserve ratio is 1, and the maximum reserve ratio should be calculated to prevent small stakeholders from consuming all of the available bandwidth. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
+Minimalno razmerje rezerve je 1, maksimalno razmerje rezerve pa je potrebno izračunati, da se prepreči majhnim vlagateljem, da bi porabili vso razpoložljivo pasovno širino. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
 
 ### Case Study: Bitcoin
 
