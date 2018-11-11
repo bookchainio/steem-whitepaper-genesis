@@ -406,7 +406,7 @@ Predstavljajmo si, da je blockchain kakor ponudnik internetnih storitev (ISP), k
 
 ISP ima dve možnosti: uporabljati sistem "polne rezerve" ali "frakcijske rezerve". Pri sistemu polne rezerve je vsakemu uporabniku dovoljen le delček maksimalne pasovne širine, ki je sorazmeren z njegovim deležem. Ker ne uporabljajo vsi interneta sočasno, bi bilo mestno omrežje zelo neizkoriščeno.
 
-Pri sistemu frakcijske rezerve pa bi lahko posamezni uporabniki ob katerem koli času uporabljali večjo pasovno širino, kot so do nje upravičeni, vse dokler vsi drugi uporabniki ne bi uporabljali interneta sočasno. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+Pri sistemu frakcijske rezerve pa bi lahko posamezni uporabniki ob katerem koli času uporabljali večjo pasovno širino, kot so do nje upravičeni, vse dokler vsi drugi uporabniki ne bi uporabljali interneta sočasno. Težava pri sistemu frakcijske rezerve je ta, da pride do prezasedenosti vsakič, ko želi preveč ljudi uporabljati omrežje ob istem času. ISP mora najti način za dodeljevanje prioritet v obdobjih prezasedenosti. V najbolj ekstremnih primerih mora povsem zasedeno omrežje uporabiti sistem polne rezerve. Izziv je vzpostaviti pravo razmerje frakcijske rezerve.
 
 ## Bandwidth Instead of Micropayment Channels
 
