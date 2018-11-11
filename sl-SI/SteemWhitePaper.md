@@ -439,11 +439,11 @@ Uporabnik bi bil upravičen do povprečne pasovne širine M \* U / S. Vsakič, k
 
 Omrežje lahko poveča razmerje rezerve vsakič, ko je blokov manj kot polovica ciljne kapacitete, in zmanjša vsakič, ko jih je več kot polovica. Algoritem, ki je uporabljen za prilagoditev R, je zasnovan tako, da se ob povečanju povpraševanja hitro odzove na zmanjšanje razmerja rezerve, v obdobju majhnega povpraševanja pa počasi povečuje razmerje rezerve.
 
-Minimalno razmerje rezerve je 1, maksimalno razmerje rezerve pa je potrebno izračunati, da se prepreči majhnim vlagateljem, da bi porabili vso razpoložljivo pasovno širino. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
+Minimalno razmerje rezerve je 1, maksimalno razmerje rezerve pa je potrebno izračunati, da se prepreči majhnim vlagateljem, da bi porabili vso razpoložljivo pasovno širino. Če nihče ne uporablja razpoložljive pasovne širine, potem lahko razmerje rezerve raste, dokler ni uporabnik že s samo 1 satošijem valute zmožen opraviti transakcijo vsakega posameznega bloka.
 
-### Case Study: Bitcoin
+### Preučitev primera: Bitcoin
 
-To understand how this algorithm would work on Bitcoin it is necessary to estimate a reasonable value for the reserve ratio, R, based on actual usage. Based upon the total supply of 15M BTC and a daily transaction volume of 400K BTC[^10], we can derive a minimum reserve ratio of 38 for Bitcoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
+Da bi razumeli, kako bi ta algoritem deloval na Bitcoinu, je potrebno oceniti razumno vrednost razmerja rezerve (R) glede na dejansko uporabo. Based upon the total supply of 15M BTC and a daily transaction volume of 400K BTC[^10], we can derive a minimum reserve ratio of 38 for Bitcoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
 
     Let C = 1MB = 1024 * 1024
     Let L = 1008 (blocks per week)
