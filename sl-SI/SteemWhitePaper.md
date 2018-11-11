@@ -410,7 +410,7 @@ Pri sistemu frakcijske rezerve pa bi lahko posamezni uporabniki ob katerem koli 
 
 ## Pasovna širina namesto kanalov mikroplačil
 
-Rešitev za težave z mikroplačili je v izvedbi *dinamičnih frakcijskih rezerv*. Pri tem modelu bo blockchain v obdobju prezasedenosti samodejno prilagajal razmerje rezerv za omrežje. Blockchain bo določil ciljno izkoriščenost, ki bo zagotavljala dovolj prostora za kratkoročne skoke v povpraševanju. Vsakič, ko takšen porast v uporabi traja dlje časa, blockchain zmanjša maksimalno pasovno širino na delež. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
+Rešitev za težave z mikroplačili je v izvedbi *dinamičnih frakcijskih rezerv*. Pri tem modelu bo blockchain v obdobju prezasedenosti samodejno prilagajal razmerje rezerv za omrežje. Blockchain bo določil ciljno izkoriščenost, ki bo zagotavljala dovolj prostora za kratkoročne skoke v povpraševanju. Vsakič, ko takšen porast v uporabi traja dlje časa, blockchain zmanjša maksimalno pasovno širino na delež. Potem ko se obdobje povečane uporabe konča in preostane dovolj zmogljivosti, blockchain lahko počasi poveča pasovno širino na delež.
 
 Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
 
