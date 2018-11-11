@@ -400,11 +400,11 @@ Centralizirane spletne strani preprečujejo spam z omejitvami hitrosti in nekate
 
 V decentraliziranem sistemu ni nobenega neposrednega načina, da se prepove uporabnike, niti centraliziranega ponudnika, ki bi gostil storitev reCAPTCHA, in omejeval stopnjo uporabe računov. Pravzaprav je nezmožnost cenzuriranja uporabnikov ena glavnih prodajnih adutov blockchain tehnologije.
 
-### Polna zaloga proti neznatni zalogi
+### Polna rezerva proti frakcijski rezervi
 
-Let's view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+Predstavljajmo si, da je blockchain kakor ponudnik internetnih storitev (ISP), ki ima v lasti vse kable v mestu in ima maksimalno količino pasovne širine, ki jo lahko ponudi ob katerem koli času. Ljudje, ki živijo v mestu, lahko kupijo delnice ISP-ja in v zameno so upravičeni do uporabe deleža razpoložljive pasovne širine.
 
-The ISP has two choices, run a "full reserve" or "fractional reserve" system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town's network would be significantly underutilized.
+ISP ima dve možnosti: uporabljati sistem "polne rezerve" ali "frakcijske rezerve". Pri sistemu polne rezerve je vsakemu uporabniku dovoljen le delček maksimalne pasovne širine, ki je sorazmeren z njegovim deležem. Ker ne uporabljajo vsi interneta sočasno, bi bilo mestno omrežje zelo neizkoriščeno.
 
 Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
 
