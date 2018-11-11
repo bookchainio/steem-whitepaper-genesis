@@ -167,7 +167,7 @@ Awon to gbamu STEEM ati SP ni anfani nigba ti awon elegbe agbegbe ba fe lati mu 
 
 ### Siseto Awon Ifunni Towo
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Awon onkawe to jafafa ma damo wipe dukia to ba ni anfani ti ko wa lopo ni ipese le se isowo ti o ga abi to kere ju dukia to wa labe eleyi da lori awon anfani miran lati gba anfani lori dukia kanna. Pelu iye anfani to ga tan san lori dujia ti a fimo dola US opo eniyan yio beere owo soke fun ipese tiko kaari ti awon Dola Steemu titi won ko ni niye $1 mo. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
 1. A stable exchange rate
 2. Free capital movement
