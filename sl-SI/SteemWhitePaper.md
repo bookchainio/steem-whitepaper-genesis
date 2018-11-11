@@ -408,7 +408,7 @@ ISP ima dve možnosti: uporabljati sistem "polne rezerve" ali "frakcijske rezerv
 
 Pri sistemu frakcijske rezerve pa bi lahko posamezni uporabniki ob katerem koli času uporabljali večjo pasovno širino, kot so do nje upravičeni, vse dokler vsi drugi uporabniki ne bi uporabljali interneta sočasno. Težava pri sistemu frakcijske rezerve je ta, da pride do prezasedenosti vsakič, ko želi preveč ljudi uporabljati omrežje ob istem času. ISP mora najti način za dodeljevanje prioritet v obdobjih prezasedenosti. V najbolj ekstremnih primerih mora povsem zasedeno omrežje uporabiti sistem polne rezerve. Izziv je vzpostaviti pravo razmerje frakcijske rezerve.
 
-## Bandwidth Instead of Micropayment Channels
+## Pasovna širina namesto kanalov mikroplačil
 
 The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
 
