@@ -155,13 +155,13 @@ Ti aba wo aami kan bi oniwun ninu gbogbo ipese awon aami, nigbana a le wo aami-i
 
 Fun gbogbo SMD ti Steemu seda, a man seda $19.00 ti STEEM ti a yipada si SP. Ekeyi tunmosiwipe gbese-si-oniwun to ga julo ni oja to duro sinsin ni 1:19 tabi bi 5%. Ti Steeju ba ja wale ni iye pelu 50% nigbana ipin naa le losoke si 10%. Ijawasile ti 88% ti iye STEEM le jeki ipin gbese-si-oniwun de 40%. Taba ro wipe ti iye owo STEEM ba paapa durodede, ipin gbese-si-oniwun yio pada sun si 5%.
 
-The idea behind having a conservative 5% debt to ownership ratio is that even if all debt were converted and sold there should be ample buyers and the effective dilution of the token holders remains relatively small.
+Ero to wa leyin itoju ipin 5% ti gbese si oniwun ni wipe ti aba yipada gbogbo gbese ta wa tawon opo olubara loye ko wa ipa ti iyalu ti awon to gba aami mu je iwonba kekere,.
 
-A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SMD and SP (as determined by the current rate / feed).
+Iyipada kiakia ni iye ti STEEM le yipada ipin gbese-si-oniwun lona to yani lenu. Awon ile ipin ogorun ti an lo lati se afiwe iseda STEEM da lori ipese eleyi to pelu iye STEEM ti gbogbo SMD ati SP to daduro (eleyi ti a pinu nipase iye isin/ifunni).
 
-### Interest
+### Anfani
 
-SMD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SMD man san anfani fun awon to mu dani. Awon eniyan to se agbejade ifunni ti iye o naa loma seto iye anfani kole fi le faramo awon ipo oja tohun yipada. Gbogbo gbese lohun gbe ewu si odo ayanilowo. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
 STEEM and SP holders gain leverage when members of the community are willing to hold SMD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
