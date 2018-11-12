@@ -453,9 +453,9 @@ Da bi razumeli, kako bi ta algoritem deloval na Bitcoinu, je potrebno oceniti ra
     CLR/S = 2869 bajtov na teden oziroma približno 5 transakcij/teden za BTC
     
 
-Glede na to, da je R = 38 spodnja meja razmerja rezerve, je CLR/S spodnja meja dovoljene pasovne širine. This simple case study suggests a user will require at most 0.20 BTC (over $80 as of this writing) to transact once per week. However, this is a loose upper bound derived from the assumption that all BTC are equally mobile. This is not the case - users with dozens or hundreds of bitcoins do not necessarily transact dozens or hundreds of times a week! The "leftover" transactions that those users "should" have made will increase the reserve ratio, allowing their unused bandwidth to be "recycled" for smaller users.
+Glede na to, da je R = 38 spodnja meja razmerja rezerve, je CLR/S spodnja meja dovoljene pasovne širine. Ta preprosta preučitev primera kaže na to, da bo uporabnik lahko imel največ 0,2 BTC (več kot 80 USD v času tega pisanja), da bo lahko opravil transakcijo enkrat na teden. Vendar je to ohlapna zgornja meja, izpeljana iz predpostavke, da so vsi BTC-ji enako mobilni. V resnici ni tako - ni nujno, da uporabniki, ki imajo v lasti več sto bitcoinov, opravijo na stotine ali na tisoče transakcij na teden! "Ostanki" transakcij, ki bi jih ti uporabniki "morali" opraviti, bodo povečali razmerje rezerve in bodo s tem omogočili, da se njihova neuporabljena pasovna širina "reciklira" za manjše uporabnike.
 
-All of the above estimates are conservative upper bounds assuming coins and usage are distributed in a relatively flat manner. The reality is that heavy users, such as exchanges, have a much higher coin-to-usage ratio than lighter users, which in turn means that actual minimum balance requirements are far lower.
+Vse zgornje ocene so konzervativne zgornje meje s predpostavko, da so kovanci in uporaba porazdeljeni sorazmerno enakomerno. Dejstvo pa je, da imajo težki uporabniki, kot so menjalne platforme, veliko višje razmerje kovanca proti uporabi kakor lažji uporabniki, kar posledično pomeni, da so dejanske minimalne zahteve glede ravnovesja veliko nižje.
 
 #### Impact of Capacity
 
