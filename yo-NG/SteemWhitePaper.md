@@ -124,11 +124,11 @@ Ninu ferese ose kan, awon elegbe agbegbe ni ojo meta ati abo lati fidahun si nka
 
 Awon tohun lo oja ni eto si iroyin ni kiakia ju sisun blockchain ti ose kan ti iyipada owo ilarin le sesi. A le lo iroyin na fun anfani awon onisowo laibikita agbegbe. Awon onisowo le bere iyipada SMD won ti iye owo STEEM ba gbera lojiji ni ti tele, iye to kere, leyin ti won a ta STEEMU ti won gba ni iye owo titun to gba pele ewu kekere.
 
-Steemu se idogba ti papa isere nipase bibere fun gbogbo awon ibeere iyipada lati ni idaduro fun ose kan. Eleyi tunmo siwipe yala awon onisowo tabi blockchain loni alaye awon anfani ti iye owi nigba ti an se iyipada.
+Steemu se idogba ti papa isere nipase bibere fun gbogbo awon ibeere iyipada lati ni idaduro fun ose kan. Eleyi tunmo siwipe yala awon onisowo tabi blockchain loni alaye awon anfani ti iye owo nigba ti an se iyipada.
 
 ### Didinku Ilokulo awon Iyipada
 
-Ti awon eniyan ba le se iyipada larowoto ni ona mejeji nigbayen ni awon onisowo le lo anfani ti iye iyipada ti awon blockchain nipa sisowo iwon oja pupo lai se iyipada iye re. Awon onisowo tohun ri isare lo soke ni iye owo yio se iyipada si SMD ni iye to ga yen (nigba to lewu ju) won ma wa yipada leyin atunse. Ilana Steemu da abo bo agbegbe kuro lowo ilokulo yi nipa fifi aye gbe fun awon eniyan lati se iyipada lati SMD si STEEM sugbon ko lo lona keji.
+Ti awon eniyan ba le se iyipada larowoto ni ona mejeji nigbayen ni awon onisowo le lo anfani ti iye iyipada ti awon blockchain nipa sisowo iwon oja pupo lai se iyipada iye re. Awon onisowo tohun ri isare lo soke ni iye owo yio se iyipada si SMD ni iye to ga yen (nigba to lewu ju) won ma wa yipada leyin atunse. Ilana Steemu da abo bo agbegbe kuro lowo ilokulo yi nipa fifi aye gba fun awon eniyan lati se iyipada lati SMD si STEEM sugbon ko lo lona keji.
 
 Blockchain pinnu bawo ati igba ti an seda SMD ati eni to ma gba a. Eleyi jeki iye siseda SMD duro deede osi yokuro pupo ninu awon ona ilokulo.
 
