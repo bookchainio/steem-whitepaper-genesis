@@ -122,7 +122,7 @@ Ninu ferese ose kan, awon elegbe agbegbe ni ojo meta ati abo lati fidahun si nka
 
 ### Gbigbon Awon Akoko Idojuko
 
-Awon tohun lo oja ni eto si iroyin ni kiakia ju sisun blockchain ti ose kan ti iyipada owo ilarin le sesi. A le lo iroyin na fun anfani awon onisowo laibikita agbegbe. Awon onisowo le bere iyipada SMD won ti iye owo STEEM ba gbere lojiji ni ti tele, iye to kere, leyin ti won a ta STEEMU ti won gba ni iye owo titun to gba pele ewu kekere.
+Awon tohun lo oja ni eto si iroyin ni kiakia ju sisun blockchain ti ose kan ti iyipada owo ilarin le sesi. A le lo iroyin na fun anfani awon onisowo laibikita agbegbe. Awon onisowo le bere iyipada SMD won ti iye owo STEEM ba gbera lojiji ni ti tele, iye to kere, leyin ti won a ta STEEMU ti won gba ni iye owo titun to gba pele ewu kekere.
 
 Steemu se idogba ti papa isere nipase bibere fun gbogbo awon ibeere iyipada lati ni idaduro fun ose kan. Eleyi tunmo siwipe yala awon onisowo tabi blockchain loni alaye awon anfani ti iye owi nigba ti an se iyipada.
 
