@@ -187,11 +187,11 @@ Ni ipa, awon olupese ifunni la gbe ojuse le lowa fun siseto awon imulo ti owo fu
 
 Ti ipin gbese si oniwun ba ga lona to panilara ati ti awon olukopa oja ba pinu lati yago fun awon ibeere iyipada, nigbana ni ifuuni nilo atunse lati gbe soke iye ti an sun fun STEEM ta sun fun iyipada SMD.
 
-Awon iyipada si iye eto imulo anfani ati/tabi boya awon sisan/awon idinku lori iye iyipada STEEM/SMD gbudo je idahun to yokele ti asi gbewon si apapo awon iyapa igba gigun yala gbigbiyanju lati se dahun si awon ipo oja ti igba kekere. The blockchain is paying liquidity providers for their service in absorbing short-term demands.
+Awon iyipada si iye eto imulo anfani ati/tabi boya awon sisan/awon idinku lori iye iyipada STEEM/SMD gbudo je idahun to yokele ti asi gbewon si apapo awon iyapa igba gigun yala gbigbiyanju lati se dahun si awon ipo oja ti igba kekere. Blockchain na man sanwo fun awon olupese isowodomi fun ise won ni fifa awon ibeere igba kekere.
 
-It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SMD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.99 and $1.01 for SMD under most market conditions.
+O je igbagbo wa pe awon ofin yi a fun awon olukopa oja ni igboya pe ko fere jomo pe won a padanu owo nipa gbigbamu SMD ti won ra ni iye owo ti $1.00. An reti lekunrere fun ibiti owa laari $0.99 ati $1.01 fun SMD labe awon ipo oja to julo.
 
-## Subjective Contributions
+## Awon Iluwosi Abinibi
 
 Subjective Proof of Work presents an alternative approach to distributing a currency that improves upon fully *objective* Proof of Work systems such as mining. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
 
