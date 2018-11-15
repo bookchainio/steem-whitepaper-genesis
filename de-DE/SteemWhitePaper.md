@@ -18,23 +18,23 @@ Steem ist eine Blockchain-Datenbank, die Community Building und soziale Interakt
 
 # Einführung
 
-Gemeinsam haben nutzergenerierte Inhalte einen Wert von Milliarden von Dollar für die Aktionäre von Social-Media-Unternehmen geschaffen, sowie Reddit, Facebook, and Twitter. **Im Jahr 2014 ging Reddit davon aus, dass seine Plattform verbessert werden würde, wenn jeder, der zu reddit.com beigetragen hat, indem er Geschichten veröffentlicht, Kommentare hinzugefügt oder abgestimmt hat, mit einem fairen Anteil an Reddit, Inc[^1]** belohnt würde. Steem will soziale Medien und Online-Communities unterstützen, indem es einen großen Teil seines Wertes an die Leute zurückgibt, die wertvolle Beiträge leisten, indem sie diese mit Kryptowährung belohnen und durch diesen Prozess eine Währung schaffen, die einen breiten Markt erreichen kann, einschließlich derer, die noch nicht an irgendeiner Kryptowährungswirtschaft teilgenommen haben.
+Insgesamt haben nutzergenerierte Inhalte einen Wert von Milliarden von Dollar für die Aktionäre von Social-Media-Unternehmen geschaffen, wie z. B. Reddit, Facebook, and Twitter. **Im Jahr 2014 ging Reddit davon aus, dass seine Plattform verbessert werden würde, wenn jeder, der zu reddit.com beigetragen hat, indem er Geschichten veröffentlicht, Kommentare hinzugefügt oder abgestimmt hat, mit einem fairen Anteil an Reddit, Inc[^1]** belohnt würde. Steem will soziale Medien und Online-Communities unterstützen, indem es einen großen Teil seines Wertes an die Leute zurückgibt, die wertvolle Beiträge leisten, indem sie diese mit Kryptowährung belohnen und durch diesen Prozess eine Währung schaffen, die einen breiten Markt erreichen kann, einschließlich derer, die noch nicht an irgendeiner Kryptowährungswirtschaft teilgenommen haben.
 
 Es gibt einige wichtige Prinzipien, die verwendet wurden, um das Design von Steem zu leiten. Der wichtigste Grundsatz ist, dass jeder, der an einem Unternehmen beteiligt ist, anteilig Eigentum, Zahlung oder Schulden von dem Unternehmen erhalten sollte. Dieses Prinzip ist das gleiche Prinzip, das für alle Startups gilt, da sie ihre Anteile bei der Gründung und während der folgenden Finanzierungsrunden zuweisen.
 
 Das zweite Prinzip ist, dass alle Formen des Kapitals gleichermaßen wertvoll sind. Das bedeutet, dass diejenigen, die ihre knappe Zeit und Aufmerksamkeit darauf verwenden, Inhalte für andere zu produzieren und zu kuratieren, genauso wertvoll sind wie diejenigen, die ihr knappes Geld beisteuern. Dies ist das Sweat Equity Prinzip[^2] und ist ein Konzept, bei dem bisherige Kryptowährungen oft Schwierigkeiten hatten, mehr als ein paar Dutzend Individuen zu versorgen.
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+Das dritte Prinzip ist, dass die Gemeinschaft Produkte erzeugt, um ihren Mitgliedern zu dienen. Dieses Prinzip wird von Kreditgenossenschaften, Essenskooperationen und Gesundheitsteilungsprogrammen veranschaulicht, die den Mitgliedern ihrer Gemeinschaft dienen, anstatt Produkte oder Dienstleistungen an Menschen außerhalb der Gemeinschaft zu verkaufen.
 
-The Steem community provides the following services to its members:
+Die Steem-Gemeinschaft bietet ihren Mitgliedern folgende Dienste an:
 
-1. A source of curated news and commentary.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
-5. Jobs providing above services to other members.
+1. Eine Quelle von kuratierten Nachrichten und Kommentaren.
+2. Ein Mittel, um qualitativ hochwertige Antworten auf personalisierte Fragen zu erhalten.
+3. Eine stabile Kryptowährung, die an den US-Dollar gebunden ist.
+4. Kostenlose Auszahlungen.
+5. Jobs, die anderen Mitgliedern Dienste anbieten.
 
-Steem's purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
+Steems zielgerichtete Neuausrichtung der wirtschaftlichen Anreize hat das Potenzial, gerechtere und umfassendere Ergebnisse für alle Beteiligten zu erzielen als die Social-Media- und Kryptowährungsplattformen, die vorher existierten. Dieses Papier wird die bestehenden wirtschaftlichen Anreize untersuchen und zeigen, wie Steems Anreize zu besseren Ergebnissen für die meisten Teilnehmer führen können.
 
 ## Recognizing Contribution
 
