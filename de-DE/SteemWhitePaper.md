@@ -10,19 +10,19 @@ Platzhalter für die Anmerkungen des Übersetzers.
 
 # Kurzfassung
 
-Steem ist eine Blockchain-Datenbank, die Community Building und soziale Interaktion mit Kryptowährungen unterstützt. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Steem ist eine Blockchain-Datenbank, die Community Building und soziale Interaktion mit Kryptowährungen unterstützt. Steem verbindet Konzepte aus sozialen Medien mit den Lehren aus dem Aufbau von Kryptowährungen und ihren Communities. Ein wichtiger Schlüssel zur inspirierenden Teilnahme in jeder Gemeinschaft, Währung oder freie Marktwirtschaft ist ein faires Abrechnungssystem, das konsequent den Beitrag jeder Person widerspiegelt. Steem ist die erste Kryptowährung, die versucht, eine unbegrenzte Anzahl von Individuen, die *subjektive Beiträge* zu ihrer Gemeinschaft leisten, genau und transparent zu belohnen.
 
-# Table of Contents
+# Inhaltsverzeichnis
 
 <!-- toc -->
 
-# Introduction
+# Einführung
 
-Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
+Gemeinsam haben nutzergenerierte Inhalte einen Wert von Milliarden von Dollar für die Aktionäre von Social-Media-Unternehmen geschaffen, sowie Reddit, Facebook, and Twitter. **Im Jahr 2014 ging Reddit davon aus, dass seine Plattform verbessert werden würde, wenn jeder, der zu reddit.com beigetragen hat, indem er Geschichten veröffentlicht, Kommentare hinzugefügt oder abgestimmt hat, mit einem fairen Anteil an Reddit, Inc[^1]** belohnt würde. Steem will soziale Medien und Online-Communities unterstützen, indem es einen großen Teil seines Wertes an die Leute zurückgibt, die wertvolle Beiträge leisten, indem sie diese mit Kryptowährung belohnen und durch diesen Prozess eine Währung schaffen, die einen breiten Markt erreichen kann, einschließlich derer, die noch nicht an irgendeiner Kryptowährungswirtschaft teilgenommen haben.
 
-There are some key principles that have been used to guide the design of Steem. The most important principle is that everyone who contributes to a venture should receive pro-rata ownership, payment or debt from the venture. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
+Es gibt einige wichtige Prinzipien, die verwendet wurden, um das Design von Steem zu leiten. Der wichtigste Grundsatz ist, dass jeder, der an einem Unternehmen beteiligt ist, anteilig Eigentum, Zahlung oder Schulden von dem Unternehmen erhalten sollte. Dieses Prinzip ist das gleiche Prinzip, das für alle Startups gilt, da sie ihre Anteile bei der Gründung und während der folgenden Finanzierungsrunden zuweisen.
 
-The second principle is that all forms of capital are equally valuable. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+Das zweite Prinzip ist, dass alle Formen des Kapitals gleichermaßen wertvoll sind. Das bedeutet, dass diejenigen, die ihre knappe Zeit und Aufmerksamkeit darauf verwenden, Inhalte für andere zu produzieren und zu kuratieren, genauso wertvoll sind wie diejenigen, die ihr knappes Geld beisteuern. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
 
 The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
 
