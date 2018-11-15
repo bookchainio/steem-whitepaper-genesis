@@ -175,7 +175,7 @@ Awon onkawe to jafafa ma damo wipe dukia to ba ni anfani ti ko wa lopo ni ipese 
 
 Ti awon olupese ifunni Steemu ba pinu lati ni eto imulo ominira inawo to jeki won le da ati baje awon dola Steemu nigbati won ni gbogbo ipa bakanna lori awon iye anfani nigbana won bapade wahala. Metalokan to soro wipe awon Dola steemu nilo lati se ihamo ilosiwaju owo idokoowo, ni iye tio durosinsin fun iyipada pelu dola, tabi ni ipa kekere lori iye anfani.
 
-Koko to kan awon olupese ifunni Steemu ni lati se amojuto iyipada okan si okan to durosinsin laarin SMD ati Dola U.S. (USD). Any time SMD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+Koko to kan awon olupese ifunni Steemu ni lati se amojuto iyipada okan si okan to durosinsin laarin SMD ati Dola U.S. (USD). Nigbakugba ti SMD ban sowo nigbagbogbo koja $1.00 USD awon isanwo anfani gbudo duro. Ni oja ti 0% ti anfani lori gbese tun beere fun owo idawole, kolewu lati sowipe oja na fe gbero Kirediti to posi ju gbese ti agbegbe fe mu lowo. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
 If the debt-to-ownership ratio is under 10% and SMD is trading for less than $1.00 then the interest rate should be increased. This will encourage more people to hold their SMD and support the price.
 
