@@ -177,11 +177,11 @@ Ti awon olupese ifunni Steemu ba pinu lati ni eto imulo ominira inawo to jeki wo
 
 Koko to kan awon olupese ifunni Steemu ni lati se amojuto iyipada okan si okan to durosinsin laarin SMD ati Dola U.S. (USD). Nigbakugba ti SMD ban sowo nigbagbogbo koja $1.00 USD awon isanwo anfani gbudo duro. Ni oja ti 0% ti anfani lori gbese tun beere fun owo idawole, kolewu lati sowipe oja na fe gbero Kirediti to posi ju gbese ti agbegbe fe mu lowo. Teleyi ba sele SMD a o fi iye fun SMD kan ju $1.00 ati pe kekere ni agbegbe le se lai se ayipada iye anfani odi.
 
-If the debt-to-ownership ratio is under 10% and SMD is trading for less than $1.00 then the interest rate should be increased. This will encourage more people to hold their SMD and support the price.
+Ti ipin gbese si oniwun ba wa labe 10% ati ti SMD n sowo fun iye to kere ju $1.00 nigbana ni iye anfani nilo imulosoke. Eleyi a se iwuri fun awon eniyan to po lati gba SMD mu ati se atileyin Iye owo na.
 
-If SMD trades for less than $1.00 USD and the debt-to-ownership ratio is over 10% then the feeds should be adjusted upward give more STEEM per SMD. This will increase demand for SMD while also reducing the debt-to-ownership ratio and returning SMD to parity with USD.
+Ti SMD ba n sowo fun iye to kere ju $1.00 USD lo ti iye ipin gbese si oniwun ju 10% lo nigbana ni awon ifunni nilo atunse lona ilosoke fifun STEEM opo fun SMD kan. Eleyi a jeki ibeere fun SMD lo soke nigbati ohun dinku ipin gbese si oniwun ati didapada SMD si idogba pelu USD.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SMD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Toba sele wipe iye STEEm n dagba kiakia ju bi Steemu shen seda SMD tuntun lo, ipin gbese si oniwun nilo lati wa labe ipin afojusun ati anfani eleyi ti a funni ni awon iwulo fun gbogbo eniyan. If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
 In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
