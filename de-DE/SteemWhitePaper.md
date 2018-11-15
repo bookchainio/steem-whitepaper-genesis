@@ -22,7 +22,7 @@ Gemeinsam haben nutzergenerierte Inhalte einen Wert von Milliarden von Dollar f�
 
 Es gibt einige wichtige Prinzipien, die verwendet wurden, um das Design von Steem zu leiten. Der wichtigste Grundsatz ist, dass jeder, der an einem Unternehmen beteiligt ist, anteilig Eigentum, Zahlung oder Schulden von dem Unternehmen erhalten sollte. Dieses Prinzip ist das gleiche Prinzip, das für alle Startups gilt, da sie ihre Anteile bei der Gründung und während der folgenden Finanzierungsrunden zuweisen.
 
-Das zweite Prinzip ist, dass alle Formen des Kapitals gleichermaßen wertvoll sind. Das bedeutet, dass diejenigen, die ihre knappe Zeit und Aufmerksamkeit darauf verwenden, Inhalte für andere zu produzieren und zu kuratieren, genauso wertvoll sind wie diejenigen, die ihr knappes Geld beisteuern. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+Das zweite Prinzip ist, dass alle Formen des Kapitals gleichermaßen wertvoll sind. Das bedeutet, dass diejenigen, die ihre knappe Zeit und Aufmerksamkeit darauf verwenden, Inhalte für andere zu produzieren und zu kuratieren, genauso wertvoll sind wie diejenigen, die ihr knappes Geld beisteuern. Dies ist das Sweat Equity Prinzip[^2] und ist ein Konzept, bei dem bisherige Kryptowährungen oft Schwierigkeiten hatten, mehr als ein paar Dutzend Individuen zu versorgen.
 
 The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
 
