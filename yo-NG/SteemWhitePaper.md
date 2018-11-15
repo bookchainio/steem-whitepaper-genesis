@@ -183,7 +183,7 @@ Ti SMD ba n sowo fun iye to kere ju $1.00 USD lo ti iye ipin gbese si oniwun ju 
 
 Toba sele wipe iye STEEm n dagba kiakia ju bi Steemu shen seda SMD tuntun lo, ipin gbese si oniwun nilo lati wa labe ipin afojusun ati anfani eleyi ti a funni ni awon iwulo fun gbogbo eniyan. Ti iye netiworki ba wa abi n wale, nigbaba anfani tabi funni yio yori si ipin gbese si oniwun ko baje si.
 
-In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+Ni ipa, awon olupese ifunni la gbe ojuse le lowa fun siseto awon imulo ti owo fun idi mimuduro to durosinsin si USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
 If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SMD.
 
