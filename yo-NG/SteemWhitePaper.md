@@ -181,7 +181,7 @@ Ti ipin gbese si oniwun ba wa labe 10% ati ti SMD n sowo fun iye to kere ju $1.0
 
 Ti SMD ba n sowo fun iye to kere ju $1.00 USD lo ti iye ipin gbese si oniwun ju 10% lo nigbana ni awon ifunni nilo atunse lona ilosoke fifun STEEM opo fun SMD kan. Eleyi a jeki ibeere fun SMD lo soke nigbati ohun dinku ipin gbese si oniwun ati didapada SMD si idogba pelu USD.
 
-Toba sele wipe iye STEEm n dagba kiakia ju bi Steemu shen seda SMD tuntun lo, ipin gbese si oniwun nilo lati wa labe ipin afojusun ati anfani eleyi ti a funni ni awon iwulo fun gbogbo eniyan. If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Toba sele wipe iye STEEm n dagba kiakia ju bi Steemu shen seda SMD tuntun lo, ipin gbese si oniwun nilo lati wa labe ipin afojusun ati anfani eleyi ti a funni ni awon iwulo fun gbogbo eniyan. Ti iye netiworki ba wa abi n wale, nigbaba anfani tabi funni yio yori si ipin gbese si oniwun ko baje si.
 
 In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
