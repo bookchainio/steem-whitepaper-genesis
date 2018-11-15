@@ -183,11 +183,11 @@ Ti SMD ba n sowo fun iye to kere ju $1.00 USD lo ti iye ipin gbese si oniwun ju 
 
 Toba sele wipe iye STEEm n dagba kiakia ju bi Steemu shen seda SMD tuntun lo, ipin gbese si oniwun nilo lati wa labe ipin afojusun ati anfani eleyi ti a funni ni awon iwulo fun gbogbo eniyan. Ti iye netiworki ba wa abi n wale, nigbaba anfani tabi funni yio yori si ipin gbese si oniwun ko baje si.
 
-Ni ipa, awon olupese ifunni la gbe ojuse le lowa fun siseto awon imulo ti owo fun idi mimuduro to durosinsin si USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+Ni ipa, awon olupese ifunni la gbe ojuse le lowa fun siseto awon imulo ti owo fun idi mimuduro to durosinsin si USD. Ilokulo agbara yi le se ijamba fun iye ti STEEM eleyi to je pe awon to gbamu SP ni ogbon lati dibo fun awon eleri ti ale gbekele lati satunse iye owo ifunni ati awon iye anfani gegebi awon ofin ati ilana to wa loke.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SMD.
+Ti ipin gbese si oniwun ba ga lona to panilara ati ti awon olukopa oja ba pinu lati yago fun awon ibeere iyipada, nigbana ni ifuuni nilo atunse lati gbe soke iye ti an sun fun STEEM ta sun fun iyipada SMD.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SMD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions. The blockchain is paying liquidity providers for their service in absorbing short-term demands.
+Awon iyipada si iye eto imulo anfani ati/tabi boya awon sisan/awon idinku lori iye iyipada STEEM/SMD gbudo je idahun to yokele ti asi gbewon si apapo awon iyapa igba gigun yala gbigbiyanju lati se dahun si awon ipo oja ti igba kekere. The blockchain is paying liquidity providers for their service in absorbing short-term demands.
 
 It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SMD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.99 and $1.01 for SMD under most market conditions.
 
