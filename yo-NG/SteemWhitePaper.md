@@ -170,10 +170,10 @@ Awon to gbamu STEEM ati SP ni anfani nigba ti awon elegbe agbegbe ba fe lati mu 
 Awon onkawe to jafafa ma damo wipe dukia to ba ni anfani ti ko wa lopo ni ipese le se isowo ti o ga abi to kere ju dukia to wa labe eleyi da lori awon anfani miran lati gba anfani lori dukia kanna. Pelu iye anfani to ga tan san lori dukia ti a fimo dola US opo eniyan yio beere owo soke fun ipese tiko kaari ti awon Dola Steemu titi won ko ni niye $1 mo. Ni awon oro-aje ilana kan wa ta mo ni Metalokan Tosoro [^4] to wipe o soro lati ni gbogbo awon meteta yi nigba kanna:
 
 1. Iye iyipada to durosinsin
-2. Free capital movement
-3. An independent monetary policy
+2. Itesiwaju owo idokoowo ofe
+3. Eto imulo ominira inawo
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+Ti awon olupese ifunni Steemu ba pinu lati ni eto imulo ominira inawo to jeki won le da ati baje awon dola Steemu nigbati won ni gbogbo ipa bakanna lori awon iye anfani nigbana won bapade wahala. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
 
 The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SMD and the U.S. Dollar (USD). Any time SMD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
