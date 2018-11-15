@@ -169,7 +169,7 @@ Awon to gbamu STEEM ati SP ni anfani nigba ti awon elegbe agbegbe ba fe lati mu 
 
 Awon onkawe to jafafa ma damo wipe dukia to ba ni anfani ti ko wa lopo ni ipese le se isowo ti o ga abi to kere ju dukia to wa labe eleyi da lori awon anfani miran lati gba anfani lori dukia kanna. Pelu iye anfani to ga tan san lori dukia ti a fimo dola US opo eniyan yio beere owo soke fun ipese tiko kaari ti awon Dola Steemu titi won ko ni niye $1 mo. Ni awon oro-aje ilana kan wa ta mo ni Metalokan Tosoro [^4] to wipe o soro lati ni gbogbo awon meteta yi nigba kanna:
 
-1. A stable exchange rate
+1. Iye iyipada to durosinsin
 2. Free capital movement
 3. An independent monetary policy
 
