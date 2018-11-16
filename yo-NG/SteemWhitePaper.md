@@ -195,9 +195,9 @@ O je igbagbo wa pe awon ofin yi a fun awon olukopa oja ni igboya pe ko fere jomo
 
 Ijerisi Abinibi ti Ise sagbekale ona miran lati to fun pinpin owo kan tohun dagba lekunrere lori *ohun* awon eto Ijerisi ti Ise bi wiwa isura. Awon imulo ti owo tohun se *abinibi* ijeri ti ise won fe ju eyikeyi *ohun* eto ijeri ti ise nitoripe ale lowon lati ko agbegbe kan yika erongba eyikeyi to ni idi ti a tunjo lekunrere. Ti awon olukuluku ba darapo mo agbegbe won ni awon igbagbo awon nkankan won si le dibo lati ro ni agbara awon asa tabi idi agbegbe na.
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+Ni ipa, ilana tan lo ti afin se ayewo ise je ti abinibi patapata ati wipe itunmo re ngbe nita koodu orisun re gangan. Agbegbe kan le fe fi ere fun awon oluyaworan, emi awon akewi, omiran awon apanilerin. Awon agbegbe miran le pinu lati fi ere fun awon eto itanilore tabi ranlowo lati gbero awon eto oselu.
 
-The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+Iye owo ti owo kokan se aseyori da lori ibeere fun ipa re ni agbegbe kan pato ati bi oja na se gbagbo si wipe agbegbe na le tobi si. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
 ### Distributing Currency
 
