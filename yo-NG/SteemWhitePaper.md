@@ -193,7 +193,7 @@ O je igbagbo wa pe awon ofin yi a fun awon olukopa oja ni igboya pe ko fere jomo
 
 ## Awon Iluwosi Abinibi
 
-Ijerisi Abinibi ti Ise sagbekale ona miran lati to fun pinpin owo kan tohun dagba lekunrere lori *ohun* awon eto Ijerisi ti Ise bi wiwa isura. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+Ijerisi Abinibi ti Ise sagbekale ona miran lati to fun pinpin owo kan tohun dagba lekunrere lori *ohun* awon eto Ijerisi ti Ise bi wiwa isura. Awon imulo ti owo tohun se *abinibi* ijeri ti ise won fe ju eyikeyi *ohun* eto ijeri ti ise nitoripe ale lowon lati ko agbegbe kan yika erongba eyikeyi to ni idi ti a tunjo lekunrere. Ti awon olukuluku ba darapo mo agbegbe won ni awon igbagbo awon nkankan won si le dibo lati ro ni agbara awon asa tabi idi agbegbe na.
 
 In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
 
