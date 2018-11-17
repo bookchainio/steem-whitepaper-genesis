@@ -181,7 +181,7 @@ Ti ipin gbese si oniwun ba wa labe 10% ati ti SMD n sowo fun iye to kere ju $1.0
 
 Ti SMD ba n sowo fun iye to kere ju $1.00 USD lo ti iye ipin gbese si oniwun ju 10% lo nigbana ni awon ifunni nilo atunse lona ilosoke fifun STEEM opo fun SMD kan. Eleyi a jeki ibeere fun SMD lo soke nigbati ohun dinku ipin gbese si oniwun ati didapada SMD si idogba pelu USD.
 
-Toba sele wipe iye STEEm n dagba kiakia ju bi Steemu shen seda SMD tuntun lo, ipin gbese si oniwun nilo lati wa labe ipin afojusun ati anfani eleyi ti a funni ni awon iwulo fun gbogbo eniyan. Ti iye netiworki ba wa abi n wale, nigbaba anfani tabi funni yio yori si ipin gbese si oniwun ko baje si.
+Toba sele wipe iye STEEM n dagba kiakia ju bi Steemu shen seda SMD tuntun lo, ipin gbese si oniwun nilo lati wa labe ipin afojusun ati anfani eleyi ti a funni ni awon iwulo fun gbogbo eniyan. Ti iye netiworki ba wa abi n wale, nigbaba anfani tabi funni yio yori si ipin gbese si oniwun ko baje si.
 
 Ni ipa, awon olupese ifunni la gbe ojuse le lowa fun siseto awon imulo ti owo fun idi mimuduro to durosinsin si USD. Ilokulo agbara yi le se ijamba fun iye ti STEEM eleyi to je pe awon to gbamu SP ni ogbon lati dibo fun awon eleri ti ale gbekele lati satunse iye owo ifunni ati awon iye anfani gegebi awon ofin ati ilana to wa loke.
 
