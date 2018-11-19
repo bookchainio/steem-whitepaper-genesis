@@ -221,9 +221,9 @@ Lati se idapo awon anfani leekansi ati se irewesi fun awon olukuluku lati ma dib
 
 Ta ba ro wipe gbogbo awon olumulo ni ipin kanna, enikan to je pe ibo tara re nikan lohun gba yio gba kekere gan jus enikan to gba ibo latodo awon olumulo 100 miran. Eleyi ma se iwuri fun awon olumulo lati *fowosowopo* lati dibo fun awon nkan kanna lati gba isanwo jade to poju. Eto yi na man seda anfani ti olowo lati *wa si imoye ikoko* ibi ti gbogbo eniyan dino fun nkan eyo kan won wa ma pin ere na larin arawon ni idogba.
 
-#### Voting Collusion
+#### Didibo Imosi Ikoko
 
-While cooperation to distribute funds to the best work is the desired goal, *collusion* that undermines this objective should be minimized. There are two kinds of *collusion*, the most straightforward is when one user simply buys a larger stake than others, and the other involves coordinating a large number of smaller stakeholders to work together. Larger stakeholders can have the voting influence of 100 or even 1000 smaller stakeholders which means they have even greater incentive to defect by voting for themselves than they had under a linear distribution.
+Nigbati an fowosowopo lati pin awon owo si ise to dara julo je koko ti a fe, *sise imoran ikoko* to fojudi ohun yi nilo didinku. Iru meji ti *imoye ikoko* lowa, eleyi to to julo ni ti olumulo kan ba ra ipin to tobi ju tawon toku lo, ti awon yoku ni itosona iye to pu ti awon to mu ipin kekere dani lati sise papo. Larger stakeholders can have the voting influence of 100 or even 1000 smaller stakeholders which means they have even greater incentive to defect by voting for themselves than they had under a linear distribution.
 
 Regardless of how much money any one individual has, there are always many other individuals with similar wealth. Even the wealthiest individual rarely has much more than the next couple wealthiest combined. Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
 
