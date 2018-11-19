@@ -207,11 +207,11 @@ Pipin owo kan fun awon eniyan to po bi a se le ri ni ona ti a gba kaakiri ni daa
 
 Lati le fun gbogbo eniyan ni aye kanna lati kopa ati gba owo anilo lati fun awon eniyan ni aye ati sise. Ipenija to wa ni ba ti ma dajo bose dara si ati piposi ti ise ti awon olukuluku npese ati lati se be lona ti ise daada npin awon ere si awon milionu olumulo. Eleyi nilo imorahan eni ti ina idibo ti iwon. Ni pato o nili ki awon alase pin awon owo gbudo je pinpin ati alailabawon bo se ye ko to.
 
-Igbese akoko fun fifi ere fun awon milionu olumulo ni ki a fira eni fun pinpin iye owo kan ti ko ni yipada lai kasi iye ise ti a se tabi awon olumulo tohun dibo. Eleyi ti ibeere na lati *"shey ka sun owo?"* si *"Tani ka sanwo fun"* ati awon aami si oja wipe apin owo ati pe an ta niye ti onibare gbekale ni iye ti won ba "so" to julo *ise*. Eleyi fere jo mo Bitcoin fifiraheni fun lati fi ere 50BTC si enikeni to ba ri awon to ni ipienija awon nakan ta fin woye awon oro ju. Like Bitcoin, all work must be done prior-to payout and nothing should be paid speculatively on the promise to do work in the future.
+Igbese akoko fun fifi ere fun awon milionu olumulo ni ki a fira eni fun pinpin iye owo kan ti ko ni yipada lai kasi iye ise ti a se tabi awon olumulo tohun dibo. Eleyi ti ibeere na lati *"shey ka sun owo?"* si *"Tani ka sanwo fun"* ati awon aami si oja wipe apin owo ati pe an ta niye ti onibare gbekale ni iye ti won ba "so" to julo *ise*. Eleyi fere jo mo Bitcoin fifiraheni fun lati fi ere 50BTC si enikeni to ba ri awon to ni ipienija awon nakan ta fin woye awon oro ju. Bi Bitcoin, agbudo se gbogbo ise ki isanwo jade ati pe ohunkohun ko gbodo je sisan to da lori ise ta ama se ni oja iwaju.
 
-The next step is to reward everyone who does anything even remotely positive with *something*. This is accomplished by ranking all work done and distributing proportionally to its value. The more competitive the market becomes, the more difficult (higher quality or quantity) it becomes to earn the same payout.
+Igbese to kan ni lati fi ere fun gbogbo eniyan to se ohunkohun to fowosi ilosiwaju pelu *nkan*. Ase aseyori eleyi nipa gbigbe iwon le awon ise ti a se ati pinpin lono to bamo iye re. Bi oja base je idije si, beeni lile (opo ti didara tabi iye) re ma je lati gba isanwo jade kanna.
 
-### Voting on Distribution of Currency
+### Didibo lori Pipin ti Owo
 
 Assume there is a fixed amount of money to distribute, and that those who have a long-term vested interest in the future value and utility of the currency are the ones who must decide how to allocate it. Every vesting user casts their votes on who did the best work and at the end of the day the available money for that day is divided proportional to the votes such that everyone with even one net positive vote gets something.
 
