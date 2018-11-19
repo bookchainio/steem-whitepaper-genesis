@@ -364,13 +364,13 @@ Vanwege het voortdurend veranderende hoofdblock en netwerk-latentie, voegt het d
 
 Steem gaat heel ver om mensen te belonen voor hun bijdrage aan het netwerk. Het zou contraproductief zijn dit om te keren en mensen te laten betalen voor iedere interactie met de gemeenschap.
 
-Blockchain technologie is momenteel afhankelijk van transactiekosten om spam te voorkomen. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+Blockchain technologie is momenteel afhankelijk van transactiekosten om spam te voorkomen. Deze transactiekosten hebben te lijden onder alle bekende problemen met microtransacties en voorkomen dat blockchains worden gebruikt voor transacties met lage waarde. Echt gedecentraliseerde toepassingen moeten gebruikers de schijn van gratis transacties bieden als ze willen concurreren met hun gecentraliseerde alternatieven. Deze whitepaper schetst de aanpak van Steem om de noodzaak van transactiekosten te elimineren en zo een breed scala aan voorheen onhoudbare gedecentraliseerde toepassingen mogelijk te maken.
 
-## The Problem With Fees
+## Het probleem met transactiekosten
 
-Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+Blockchains zijn gedecentraliseerde netwerken waar alle transacties worden uitgezonden naar alle gebruikers. Om de zoveel tijd wordt er een blok geproduceerd dat alle of een deel van de lopende transacties bevat. Alle blockchains moeten een oplossing vinden om te voorkomen dat kwaadwillende gebruikers alle beschikbare netwerkcapaciteit verbruiken met waardeloze transacties. Deze waardeloze transacties kunnen voorkomen dat andere waardevolle transacties worden verwerkt en uiteindelijk het netwerk vernietigen.
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn't use email.
+De oplossing die tot nu toe door de meeste blockchains is gekozen, is om minimale transactiekosten in rekening te brengen. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn't use email.
 
 ### Micropayments Don't Work
 
