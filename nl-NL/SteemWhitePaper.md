@@ -350,13 +350,13 @@ Steem heeft vele eigenschappen die voorkomen dat deze computer-dieven profiteren
 
 Een andere manier waarop wordt voorkomen dat botnet-exploitanten niet kunnen profiteren is de eis om de privé-sleutel te distribueren naar alle gecompromitteerde machines. Als er zelfs maar één gecompromitteerde computer wordt ontdekt, kan de exploitant zijn munten verliezen.
 
-The last mitigation is the dependency on latency. Most botnets are comprised of computers with poor internet connections, these slow Internet connections will dramatically reduce the effectiveness of the computational resource.
+De laatste beperking is de afhankelijkheid van latentie. De meeste botnets bestaan uit computers met slechte internetverbindingen, deze trage internetverbindingen zullen de effectiviteit van de computationele bronnen drastisch verminderen.
 
-It should be more profitable and less risky for botnet operators to use their resources for other activities than mining STEEM.
+Het zou winstgevender en minder risicovol moeten zijn voor botnet-exploitanten om hun middelen voor andere activiteiten te gebruiken dan voor het minen van STEEM.
 
-### Mining Pool Resistant
+### Mining pool resistent
 
-Miners have a total of 3 seconds to receive a block, solve the proof of work, and get the transaction to the next block producer. Much of this time will consist of network latency which means that it is critical for miners to be well connected to the network to make the most effective use of their computational resources.
+Miners hebben in totaal 3 seconden de tijd om een blok te ontvangen, de proof of work op te lossen en de transactie naar de volgende blokproducent te krijgen. Much of this time will consist of network latency which means that it is critical for miners to be well connected to the network to make the most effective use of their computational resources.
 
 Because of the constantly changing head block and network latency, forwarding a template for mining a specific block to participants of a mining pool adds additional network latency and reduces efficiency of pooled mining significantly.
 
