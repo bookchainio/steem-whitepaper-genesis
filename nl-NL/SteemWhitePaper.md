@@ -346,9 +346,9 @@ De volgende pseudo-code beschrijft hoe de bewijs van werk-hashwaarde wordt berek
 
 Veel proof of work-munten worden uiteindelijk gemined door botnets. Een botnet is een verzameling van duizenden of miljoenen machines waar hackers op hebben ingebroken. Deze hackers stelen de computationele en elektrische middelen van gecompromitteerde machines om cryptocurrency-tokens te winnen.
 
-Steem heeft vele eigenschappen die voorkomen dat deze computer-dieven profiteren. Botnetexploitanten zijn winstzoekende ondernemingen en verkopen hun gestolen middelen meestal aan de hoogste bieder. Dit betekent dat degenen die gebruik maken van een botnet betalen voor de rekenkracht op dezelfde manier als iemand die Amazon EC2 gebruikt. The vesting requirement of Steem means that the capital spent on buying the resources of the botnet will be tied up for a long period of time during which the operator is exposed to price volatility.
+Steem heeft vele eigenschappen die voorkomen dat deze computer-dieven profiteren. Botnetexploitanten zijn winstzoekende ondernemingen en verkopen hun gestolen middelen meestal aan de hoogste bieder. Dit betekent dat degenen die gebruik maken van een botnet betalen voor de rekenkracht op dezelfde manier als iemand die Amazon EC2 gebruikt. De vesting-eis van Steem houdt in dat het kapitaal dat wordt besteed aan de aankoop van de middelen van de botnet gedurende een lange periode waarin de exploitant aan prijsvolatiliteit is blootgesteld, wordt vastgezet.
 
-Another way that botnet operators are prevented from profiting is the requirement to distribute the private key to all compromised machines. If even one compromised computer is discovered, the operator could lose their coins.
+Een andere manier waarop wordt voorkomen dat botnet-exploitanten niet kunnen profiteren is de eis om de privé-sleutel te distribueren naar alle gecompromitteerde machines. Als er zelfs maar één gecompromitteerde computer wordt ontdekt, kan de exploitant zijn munten verliezen.
 
 The last mitigation is the dependency on latency. Most botnets are comprised of computers with poor internet connections, these slow Internet connections will dramatically reduce the effectiveness of the computational resource.
 
