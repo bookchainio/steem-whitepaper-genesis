@@ -370,7 +370,7 @@ Blockchain technologie is momenteel afhankelijk van transactiekosten om spam te 
 
 Blockchains zijn gedecentraliseerde netwerken waar alle transacties worden uitgezonden naar alle gebruikers. Om de zoveel tijd wordt er een blok geproduceerd dat alle of een deel van de lopende transacties bevat. Alle blockchains moeten een oplossing vinden om te voorkomen dat kwaadwillende gebruikers alle beschikbare netwerkcapaciteit verbruiken met waardeloze transacties. Deze waardeloze transacties kunnen voorkomen dat andere waardevolle transacties worden verwerkt en uiteindelijk het netwerk vernietigen.
 
-De oplossing die tot nu toe door de meeste blockchains is gekozen, is om minimale transactiekosten in rekening te brengen. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn't use email.
+De oplossing die tot nu toe door de meeste blockchains is gekozen, is om minimale transactiekosten in rekening te brengen. Een bedrag ter waarde van slechts een paar cent is genoeg om een aanval op het netwerk duur en onrendabel te maken. Hoewel deze aanpak het spamprobleem oplost, introduceert het nieuwe problemen. Stel je eens voor dat je het e-mailspamprobleem oplost door voor elke e-mail een klein bedrag te rekenen; mensen zouden geen gebruik maken van e-mail.
 
 ### Micropayments Don't Work
 
