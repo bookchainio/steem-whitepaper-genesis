@@ -362,9 +362,9 @@ Vanwege het voortdurend veranderende hoofdblock en netwerk-latentie, voegt het d
 
 # Elimineren van transactiekosten
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Steem gaat heel ver om mensen te belonen voor hun bijdrage aan het netwerk. Het zou contraproductief zijn dit om te keren en mensen te laten betalen voor iedere interactie met de gemeenschap.
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+Blockchain technologie is momenteel afhankelijk van transactiekosten om spam te voorkomen. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
 
 ## The Problem With Fees
 
