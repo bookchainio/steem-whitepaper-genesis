@@ -219,7 +219,7 @@ Ono alaimo ti idibo seda hiha elewon nigba ti olukuluku eni tohun dibo ni anfani
 
 Lati se idapo awon anfani leekansi ati se irewesi fun awon olukuluku lati ma dibo fun arawon, agbodo pin owo ni ona tio se ilari. Fun apere isise ti eto isiro ti agbara airi tio po ju meji lo, i.e., enikan to ni meji iye awon odibo elomiran ni eto lati gba merin isanwo jade ati eni to bani meta ti idibo ni eto lati gba mesan ti isanwo jade. Loro miran, ere dogba pelu \\(awin ibo^{2}\\) ju *awon ibo*. Eleyi je jigi to iye ipa netiworkito dagba pelu \\(n^{2}\\) iye awon olukopa, gege bi ofin Metcalfe[^5].
 
-Ta ba ro wipe gbogbo awon olumulo ni ipin kanna, enikan to je pe ibo tara re nikan lohun gba yio gba kekere gan jus enikan to gba ibo latodo awon olumulo 100 miran. This encourages users to *cooperate* to vote for the same things to maximize the payout. This system also creates financial incentive to *collude* where everyone votes on one thing and then divides the reward equally among themselves.
+Ta ba ro wipe gbogbo awon olumulo ni ipin kanna, enikan to je pe ibo tara re nikan lohun gba yio gba kekere gan jus enikan to gba ibo latodo awon olumulo 100 miran. Eleyi ma se iwuri fun awon olumulo lati *fowosowopo* lati dibo fun awon nkan kanna lati gba isanwo jade to poju. Eto yi na man seda anfani ti olowo lati *wa si imoye ikoko* ibi ti gbogbo eniyan dino fun nkan eyo kan won wa ma pin ere na larin arawon ni idogba.
 
 #### Voting Collusion
 
