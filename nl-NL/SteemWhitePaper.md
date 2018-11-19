@@ -358,9 +358,9 @@ Het zou winstgevender en minder risicovol moeten zijn voor botnet-exploitanten o
 
 Miners hebben in totaal 3 seconden de tijd om een blok te ontvangen, de proof of work op te lossen en de transactie naar de volgende blokproducent te krijgen. Een groot deel van deze tijd zal bestaan uit netwerk-latentie, wat betekent dat het voor miners van cruciaal belang is om goed verbonden te zijn met het netwerk om zo effectief mogelijk gebruik te maken van hun computationele middelen.
 
-Because of the constantly changing head block and network latency, forwarding a template for mining a specific block to participants of a mining pool adds additional network latency and reduces efficiency of pooled mining significantly.
+Vanwege het voortdurend veranderende hoofdblock en netwerk-latentie, voegt het doorsturen van een sjabloon om een specifiek blok te minen naar deelnemers van een mining-pool extra netwerk-latentie toe en vermindert de efficiëntie van gepoolde mining aanzienlijk.
 
-# Eliminating Transaction Fees
+# Elimineren van transactiekosten
 
 Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
 
