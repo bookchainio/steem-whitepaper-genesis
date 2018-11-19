@@ -356,7 +356,7 @@ Het zou winstgevender en minder risicovol moeten zijn voor botnet-exploitanten o
 
 ### Mining pool resistent
 
-Miners hebben in totaal 3 seconden de tijd om een blok te ontvangen, de proof of work op te lossen en de transactie naar de volgende blokproducent te krijgen. Much of this time will consist of network latency which means that it is critical for miners to be well connected to the network to make the most effective use of their computational resources.
+Miners hebben in totaal 3 seconden de tijd om een blok te ontvangen, de proof of work op te lossen en de transactie naar de volgende blokproducent te krijgen. Een groot deel van deze tijd zal bestaan uit netwerk-latentie, wat betekent dat het voor miners van cruciaal belang is om goed verbonden te zijn met het netwerk om zo effectief mogelijk gebruik te maken van hun computationele middelen.
 
 Because of the constantly changing head block and network latency, forwarding a template for mining a specific block to participants of a mining pool adds additional network latency and reduces efficiency of pooled mining significantly.
 
