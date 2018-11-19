@@ -223,7 +223,7 @@ Ta ba ro wipe gbogbo awon olumulo ni ipin kanna, enikan to je pe ibo tara re nik
 
 #### Didibo Imosi Ikoko
 
-Nigbati an fowosowopo lati pin awon owo si ise to dara julo je koko ti a fe, *sise imoran ikoko* to fojudi ohun yi nilo didinku. Iru meji ti *imoye ikoko* lowa, eleyi to to julo ni ti olumulo kan ba ra ipin to tobi ju tawon toku lo, ti awon yoku ni itosona iye to pu ti awon to mu ipin kekere dani lati sise papo. Larger stakeholders can have the voting influence of 100 or even 1000 smaller stakeholders which means they have even greater incentive to defect by voting for themselves than they had under a linear distribution.
+Nigbati an fowosowopo lati pin awon owo si ise to dara julo je koko ti a fe, *sise imoran ikoko* to fojudi ohun yi nilo didinku. Iru meji ti *imoye ikoko* lowa, eleyi to to julo ni ti olumulo kan ba ra ipin to tobi ju tawon toku lo, ti awon yoku ni itosona iye to pu ti awon to mu ipin kekere dani lati sise papo. Awon to se igbamu ipin to tobi le ni ipa ti idibo ti 100 tabi 1000 ti awon to se igbamu ipin kekere to tunmo si wipe won ni anfani to gara lati yapa nipa didibo fun ara won ju biwonse ni labe ipin ilari.
 
 Regardless of how much money any one individual has, there are always many other individuals with similar wealth. Even the wealthiest individual rarely has much more than the next couple wealthiest combined. Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
 
