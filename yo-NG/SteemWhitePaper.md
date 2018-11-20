@@ -237,11 +237,11 @@ Lilo ti *idibo-odi* lati se ihamo fun awon eniyan lati lo eto na nilokulo nlo *e
 > 
 > "Kilode ti o fi de garawa ounje tafin mu eja re ki awon alakan na maba salo?", o wi.
 > 
-> "Ko ye o.", okunrin na fesi, "ti alakan kan ba wa ninu garawa yio sa jade kiakia. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+> "Ko ye o.", okunrin na fesi, "ti alakan kan ba wa ninu garawa yio sa jade kiakia. Sibesibe, ti awon alakan to po ba wa ninu garawa, ti ikan ba gbiyanju lati ra losi oke, awon iyoku a gbamu won asi fa wale nitori kohun na le ni ipin kanna bi awon to ku."
 > 
-> So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+> Bakana lori pelu awon eniyan. Ti ikan ba gbiyanju lati se nkan to yato, gba ipo daada, giyanju lori aran eni, jaapa kuro ninu ayika, tabi la awon ala to tobi, awon eniyan to ku a giyanju lati fa wa sile lati oin nini nkan ti awon na n la koja.
 
-Eliminating "abuse" is not possible and shouldn't be the goal. Even those who are attempting to "abuse" the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn't so rampant that it undermines the incentive to do real work in support of the community and its currency.
+Yiyo "ilokulo" ko se se ati ko ye ko je koko. Paapa awon tohun gbiyanju lati se "ilokulo" ti eto won sin sise. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn't so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
 The goal of building a community currency is to get more "crabs in the bucket". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
 
