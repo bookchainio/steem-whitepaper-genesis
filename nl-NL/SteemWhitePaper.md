@@ -233,11 +233,11 @@ Het gebruik van *negatief-stemmen* om te voorkomen dat mensen misbruik van het s
 
 > #### Het verhaal van de Emmer Krabben [^6]
 > 
-> Een man die langs het strand aan het wandelen was zag een andere man die aan het vissen was met een aasemmer naast zich. Als hij dichterbij kwam zag hij dat de aasemmer geen deksel had en dat er levende krabben inzaten.
+> Een man die langs het strand aan het wandelen was zag een andere man die aan het vissen was met een aasemmer naast zich. Toen hij dichterbij kwam zag hij dat de aasemmer geen deksel had en dat er levende krabben in zaten.
 > 
 > "Waarom bedek je de aasemmer niet zodanig dat de krabben niet ontsnappen?", vroeg hij.
 > 
-> "Je verstaat het niet", antwoorde de andere, "als er maar een krab in de emmer zat zou het er zeker heel snel uitkruipen.". "Maar als er meerdere krabben in de emmer zitten en er probeert er een langs de rand omhoog te kruipen dan nemen alle anderen hem vast zodanig dat hij hetzelfde lot deelt als hun."
+> "Je begrijpt het niet", antwoorde de andere man, "als er maar een krab in de emmer zat zou het er zeker heel snel uitkruipen." "Maar als er meerdere krabben in de emmer zitten en er probeert er een langs de rand omhoog te kruipen dan nemen alle anderen hem vast zodanig dat hij hetzelfde lot deelt als hun."
 > 
 > Zo is het ook met mensen. Als er iemand iets anders probeert, betere cijfers haalt, zichzelf verbetert, de omgeving probeert te ontsnappen of grote dromen heeft dan zullen de anderen hem weer naar beneden trekken om hun lot te delen.
 
