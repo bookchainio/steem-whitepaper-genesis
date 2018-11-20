@@ -247,7 +247,7 @@ Koko ti afi nko owo agbegbe ni lati gba opo "awon alakan ninu garawa". Lilo si a
 
 ### Fi Iye si Idibo to ni Opin
 
-Apa kan to se pataki si didinku ilokulo ni iye-opin idibo. Awon olumulo olukuluku le ka lasun ati gbeyewo awon ohun ise to po ni ojo kan. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Apa kan to se pataki si didinku ilokulo ni iye-opin idibo. Awon olumulo olukuluku le ka lasun ati gbeyewo awon ohun ise to po ni ojo kan. Igbiyanju eyikeyi pati dibo die si ju lo je aami ti dasise ati ilokulo. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
 ![](\img_voting_rate_limiting.png)
 
