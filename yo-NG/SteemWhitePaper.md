@@ -231,7 +231,7 @@ Lorire, ise yio wu to ba ni ifojusi to po ti awon idibo na lohun gba ifoju sunuk
 
 Lilo ti *idibo-odi* lati se ihamo fun awon eniyan lati lo eto na nilokulo nlo *ero alakun* ti opo eniyan ni ti won ba ro wipe enikan n gba ere laibikita fun awon to ku. Nigbatiero alakun man toka si awon eniyan tio ri ju isin lo ti won fa awon eniyan gidi sile, ohun na lo je ki awin eniyan gidi re awon eniyan buruku sile. "Wahala" kan to wa pele ereo alakun ni ti awin eniyan *ba gbagbo odi* enikan n gba ere laibikita awkn iyoku.
 
-> #### The Story of the Crab Bucket[^6]
+> #### Itan garawa alakun [^6]
 > 
 > A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
 > 
