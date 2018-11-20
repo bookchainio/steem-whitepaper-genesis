@@ -241,13 +241,13 @@ Lilo ti *idibo-odi* lati se ihamo fun awon eniyan lati lo eto na nilokulo nlo *e
 > 
 > Bakana lori pelu awon eniyan. Ti ikan ba gbiyanju lati se nkan to yato, gba ipo daada, giyanju lori aran eni, jaapa kuro ninu ayika, tabi la awon ala to tobi, awon eniyan to ku a giyanju lati fa wa sile lati oin nini nkan ti awon na n la koja.
 
-Yiyo "ilokulo" ko se se ati ko ye ko je koko. Paapa awon tohun gbiyanju lati se "ilokulo" ti eto won sin sise. Iyonda eyiowu ti won ba gba fun gigiyanju to yori si ilokulo tabi imoran ikoko na wulo gegebi idi ti pipin owo bi ti eto se-iseti a gba nipa asa ibike wiwa isura Bitcoin tabi wiwa isura imoran ikoko nipase awon akojo wiwa isura. All that is necessary is to ensure that abuse isn't so rampant that it undermines the incentive to do real work in support of the community and its currency.
+Yiyo "ilokulo" ko se se ati ko ye ko je koko. Paapa awon tohun gbiyanju lati se "ilokulo" ti eto won sin sise. Iyonda eyiowu ti won ba gba fun gigiyanju to yori si ilokulo tabi imoran ikoko na wulo gegebi idi ti pipin owo bi ti eto se-iseti a gba nipa asa ibike wiwa isura Bitcoin tabi wiwa isura imoran ikoko nipase awon akojo wiwa isura. Gbogbo ohun ti o je dandan fun ilokulo lati ma wa kaakiri pe o se idinku ti anfani lati se ise gidi lati se atileyin ti agbegbe ati owo re.
 
-The goal of building a community currency is to get more "crabs in the bucket". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
+Koko ti afi nko owo agbegbe ni lati gba opo "awon alakan ninu garawa". Lilo si awon ilana to sunmo eti ati yo gbogbo ilokulo kuro je bi fifi ideri si ori garawa lati ma jeki awon alakan die salo ati pe o ma je ko le lati fi alakan kun garawa na. O se daada kati je ki ogiri na ma yo ati fun awon alakan yoku ni agbara to ro lati ma jeki awon alakan yoju salo.
 
-### Rate Limited Voting
+### Fi Iye si Idibo to ni Opin
 
-A major part of minimizing abuse is the rate-limiting of voting. Individual users can only read and evaluate so many work items per day. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Apa kan to se pataki si didinku ilokulo ni iye-opin idibo. Awon olumulo olukuluku le ka lasun ati gbeyewo awon ohun ise to po ni ojo kan. Any attempt to vote more frequently than this is a sign of automation and potential abuse. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
 ![](\img_voting_rate_limiting.png)
 
