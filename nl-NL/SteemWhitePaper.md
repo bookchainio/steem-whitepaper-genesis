@@ -350,7 +350,7 @@ Steem heeft vele eigenschappen die voorkomen dat deze computer-dieven profiteren
 
 Een andere manier waarop wordt voorkomen dat botnet-exploitanten kunnen profiteren is de eis om de privé-sleutel te distribueren naar alle gecompromitteerde machines. Als er zelfs maar één gecompromitteerde computer wordt ontdekt, kan de exploitant zijn munten verliezen.
 
-De laatste beperking is de afhankelijkheid van latentie. De meeste botnets bestaan uit computers met slechte internetverbindingen, deze trage internetverbindingen zullen de effectiviteit van de computationele bronnen drastisch verminderen.
+De laatste beperking is de afhankelijkheid van latentie. De meeste botnets bestaan uit computers met slechte internetverbindingen; deze trage internetverbindingen zullen de effectiviteit van de computationele bronnen drastisch verminderen.
 
 Het zou winstgevender en minder risicovol moeten zijn voor botnet-exploitanten om hun middelen voor andere activiteiten te gebruiken dan voor het minen van STEEM.
 
@@ -368,7 +368,7 @@ Blockchain technologie is momenteel afhankelijk van transactiekosten om spam te 
 
 ## Het probleem met transactiekosten
 
-Blockchains zijn gedecentraliseerde netwerken waar alle transacties worden uitgezonden naar alle gebruikers. Om de zoveel tijd wordt er een blok geproduceerd dat alle of een deel van de lopende transacties bevat. Alle blockchains moeten een oplossing vinden om te voorkomen dat kwaadwillende gebruikers alle beschikbare netwerkcapaciteit verbruiken met waardeloze transacties. Deze waardeloze transacties kunnen voorkomen dat andere waardevolle transacties worden verwerkt en uiteindelijk het netwerk vernietigen.
+Blockchains zijn gedecentraliseerde netwerken waar alle transacties worden uitgezonden naar alle gebruikers. Om de zoveel tijd wordt er een blok geproduceerd dat alle of een deel van de lopende transacties bevat. Alle blockchains moeten een oplossing vinden om te voorkomen dat kwaadwillende gebruikers alle beschikbare netwerkcapaciteit verbruiken met waardeloze transacties. Deze waardeloze transacties kunnen voorkomen dat andere, waardevolle transacties worden verwerkt en uiteindelijk het netwerk vernietigen.
 
 De oplossing die tot nu toe door de meeste blockchains is gekozen, is om minimale transactiekosten in rekening te brengen. Een bedrag ter waarde van slechts een paar cent is genoeg om een aanval op het netwerk duur en onrendabel te maken. Hoewel deze aanpak het spamprobleem oplost, introduceert het nieuwe problemen. Stel je eens voor dat je het e-mailspamprobleem oplost door voor elke e-mail een klein bedrag te rekenen; mensen zouden geen gebruik maken van e-mail.
 
@@ -391,29 +391,29 @@ Systemen zoals BitShares, Nxt, Ripple, Counter Party en Stellar stellen gebruike
 
 Elk transactiebedrag vormt een barrière voor de toetreding van nieuwe gebruikers. Voordat iemand met Ethereum kan experimenteren, moet hij/zij een aantal ETH tokens verwerven. Wie een gedecentraliseerde toepassing op Ethereum wil bouwen, moet de kosten doorberekenen aan zijn klanten. Het kopen van cryptovaluta is geen makkelijke taak en is zelden zinvol voor bedragen van minder dan $10. Dit betekent dat nieuwe gebruikers die een nieuwe gedecentraliseerde toepassing willen uitproberen, eerst ervan overtuigd moeten worden om $10 te betalen.
 
-### Changing Fees
+### Veranderen van transactiekosten
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Na verloop van tijd moet een netwerk tarieven aanpassen. Dit kan gebeuren door een waardestijging van de munt of door een toename in capaciteit. Gebruikers houden van voorspelbare tarieven en gegarandeerde service. Hoewel het mogelijk is om de tarieven dynamisch aan te passen in tijden van intensief gebruik, resulteert het in een slechte gebruikerservaring.
 
-### Sybil Attacks
+### Sybil-aanvallen
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA [^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+Gecentraliseerde websites voorkomen spam door middel van tariefbeperkingen en een vorm van ID-verificatie. Zelfs zoiets simpels als reCAPTCHA[^9] is voldoende om het aanmaken van valse accounts te beperken. Als iemand misbruik maakt van zijn of haar account, dan staat het gecentraliseerde websites vrij om het account te blokkeren.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+In een gedecentraliseerd systeem is er geen directe manier om gebruikers te bannen, noch is er een gecentraliseerde provider in staat om een reCAPTCHA te hosten en tariefbeperking van accounts af te dwingen. In feite is zelfs het onvermogen om gebruikers te censureren een van de belangrijkste verkoopargumenten van de blockchain technologie.
 
-### Full Reserve vs Fractional Reserve
+### Volledige reserve versus fractionele reserve
 
-Let's view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+Laten we een blockchain zien als een Internet Service Provider (ISP) coöperatie die eigenaar is van alle kabels in de stad en een maximale hoeveelheid bandbreedte heeft die het op elk moment kan leveren. Mensen die in de stad wonen kunnen aandelen kopen in de ISP en in ruil daarvoor hebben ze recht op het gebruiken van een deel van de beschikbare bandbreedte.
 
-The ISP has two choices, run a "full reserve" or "fractional reserve" system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town's network would be significantly underutilized.
+De ISP heeft twee keuzes: een "volledige reserve" of een "fractionele reserve" systeem. Bij een volledige reserve-systeem mag elke gebruiker slechts een fractie van de maximale bandbreedte die in verhouding staat tot zijn aandelen gebruiken. Omdat niet iedereen tegelijkertijd gebruik maakt van het internet, zou het netwerk van de stad aanzienlijk onderbenut worden.
 
-Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+Onder een fractionele reserve-systeem kunnen de individuele gebruikers meer bandbreedte gebruiken dan waar ze op een bepaald moment recht op hebben, zolang niet iedereen tegelijkertijd gebruik maakt van het internet. Het probleem met het exploiteren van een fractionele reserve is dat overbelasting plaatsvindt op elk moment dat teveel mensen tegelijkertijd gebruik willen maken van het netwerk. De ISP heeft een manier nodig om prioriteit te geven aan bandbreedte tijdens drukke periodes. In het meest extreme geval moet een volledig overbelast netwerk terugvallen op een volledig reserve-systeem. De uitdaging is het vaststellen van de juiste fractionele reserve-ratio.
 
-## Bandwidth Instead of Micropayment Channels
+## Bandbreedte in plaats van microbetalingskanalen
 
-The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
+De oplossing voor de problemen met microbetalingen is het implementeren van *dynamische fractionele reserves*. In dit model zal de blockchain automatisch de reserve-ratio voor het netwerk aanpassen gedurende overbelasting. De blockchain zal een streefwaarde vaststellen die voldoende ruimte laat voor kortetermijnpieken in de vraag. Telkens wanneer de piek aanhoudt vermindert de blockchain de maximale bandbreedte-per-aandeel. Wanneer een piek voorbij is en er sprake is van overcapaciteit kan de blockchain de bandbreedte-per-aandeel langzaam verhogen.
 
-Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
+De bandbreedte die door een individuele gebruiker wordt gebruikt moet over een voldoende lange periode worden gemeten om die gebruiker in staat te stellen zijn gebruik te verschuiven. Gebruikers hebben de neiging om in te loggen, veel dingen tegelijk te doen en vervolgens uit te loggen. Dit betekent dat hun bandbreedte over een korte periode veel hoger kan lijken dan wanneer dit over een langere periode wordt bekeken. Als de periode te ver wordt uitgerekt dan zal de reserve-ratio niet snel genoeg worden aangepast om te reageren op kortetermijnpieken, als het venster te kort is dan zal clusteren van gebruik een te grote impact hebben op normale gebruikers.
 
 In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user's moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
 
