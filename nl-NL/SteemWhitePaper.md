@@ -415,28 +415,28 @@ De oplossing voor de problemen met microbetalingen is het implementeren van *dyn
 
 De bandbreedte die door een individuele gebruiker wordt gebruikt moet over een voldoende lange periode worden gemeten om die gebruiker in staat te stellen zijn gebruik te verschuiven. Gebruikers hebben de neiging om in te loggen, veel dingen tegelijk te doen en vervolgens uit te loggen. Dit betekent dat hun bandbreedte over een korte periode veel hoger kan lijken dan wanneer dit over een langere periode wordt bekeken. Als de periode te ver wordt uitgerekt dan zal de reserve-ratio niet snel genoeg worden aangepast om te reageren op kortetermijnpieken, als het venster te kort is dan zal clusteren van gebruik een te grote impact hebben op normale gebruikers.
 
-In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user's moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+In onze schatting zou het voldoende moeten zijn om het gemiddelde wekelijkse bandbreedte-verbruik van gebruikers te meten. Elke keer dat een gebruiker een transactie ondertekent, wordt die transactie in het eigen individuele voortschrijdend gemiddelde verwerkt. Elke keer dat het voortschrijdend gemiddelde van een gebruiker de huidige netwerklimiet overschrijdt, wordt de transactie uitgesteld tot het gemiddelde onder de limiet zakt.
 
-### Example Implementation
+### Voorbeeld implementatie
 
-Let B equal a user's average bandwidth at time T. Let W equal the number of seconds per week, and let N equal the size of the new transaction that occurred S seconds after T. Given this information the blockchain can calculate the new average bandwidth for a user as:
+Laat B gelijk zijn aan de gemiddelde bandbreedte van een gebruiker op tijdstip T. Laat W gelijk zijn aan het aantal seconden per week, en laat N gelijk zijn aan de grootte van de nieuwe transactie die plaatsvond S seconden na T. Op basis van deze informatie kan de blockchain de nieuwe gemiddelde bandbreedte voor een gebruiker berekenen als:
 
-    Bnew = MIN(0,B * (W - S) / W) + N * S / W
-    Tnew = T + S
+    Bnieuw = MIN(0,B * (W - S) / W) + N * S / W
+    Tnieuw = T + S
     
 
-Each user is entitled to an average weekly bandwidth of:
+Elke gebruiker heeft recht op een gemiddelde wekelijkse bandbreedte van:
 
-    Let U = the user's SP
-    Let S = the total number of SP
-    Let R = the current reserve ratio between 1 and Rmax
-    Let C = the maximum block size capacity set by witnesses
-    Let L = the total blocks per week
-    Let M = C * L * R
-    Allocation = M * U / S
+    Laat U = de SP van de gebruiker
+    Laat S = de totale hoeveelheid SP
+    Laat R = de huidige reserveratio tussen 1 en Rmax
+    Laat C = de maximale blokgrootte die door getuigen is ingesteld
+    Laat L = het totaal aantal blokken per week
+    Laat M = C * L * L * R
+    Toewijzing = M * U / S
     
 
-A user would be entitled to an average bandwidth of M \* U / S. Any time a transaction would cause the user's average to go above this threshold they would be unable to transact until enough time passes to lower the average.
+Een gebruiker zou recht hebben op een gemiddelde bandbreedte van M \* U / S. Elke keer dat een transactie ertoe zou leiden dat het gemiddelde van de gebruiker boven deze drempel uitkomt, zou hij/zij niet in staat zijn om een transactie uit te voeren totdat er voldoende tijd verstreken is om het gemiddelde te verlagen.
 
 The network can increase the reserve ratio, anytime blocks are less than half the target capacity and decrease it anytime they are more than half. The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
 
