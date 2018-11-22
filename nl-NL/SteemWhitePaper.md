@@ -438,7 +438,7 @@ Elke gebruiker heeft recht op een gemiddelde wekelijkse bandbreedte van:
 
 Een gebruiker zou recht hebben op een gemiddelde bandbreedte van M \* U / S. Elke keer dat een transactie ertoe zou leiden dat het gemiddelde van de gebruiker boven deze drempel uitkomt, zou hij/zij niet in staat zijn om een transactie uit te voeren totdat er voldoende tijd verstreken is om het gemiddelde te verlagen.
 
-The network can increase the reserve ratio, anytime blocks are less than half the target capacity and decrease it anytime they are more than half. The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
+Het netwerk kan de reserveratio verhogen, op elk moment dat blokken minder dan de helft van de beoogde capaciteit zijn, en het verminderen op elk moment dat ze meer dan de helft zijn. The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
 
 The minimum reserve ratio is 1, and the maximum reserve ratio should be calculated to prevent small stakeholders from consuming all of the available bandwidth. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
 
