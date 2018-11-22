@@ -438,20 +438,20 @@ Elke gebruiker heeft recht op een gemiddelde wekelijkse bandbreedte van:
 
 Een gebruiker zou recht hebben op een gemiddelde bandbreedte van M \* U / S. Elke keer dat een transactie ertoe zou leiden dat het gemiddelde van de gebruiker boven deze drempel uitkomt, zou hij/zij niet in staat zijn om een transactie uit te voeren totdat er voldoende tijd verstreken is om het gemiddelde te verlagen.
 
-Het netwerk kan de reserveratio verhogen, op elk moment dat blokken minder dan de helft van de beoogde capaciteit zijn, en het verminderen op elk moment dat ze meer dan de helft zijn. The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
+Het netwerk kan de reserveratio verhogen, op elk moment dat blokken minder dan de helft van de beoogde capaciteit zijn, en het verminderen op elk moment dat ze meer dan de helft zijn. Het algoritme dat wordt gebruikt om R aan te passen, is ontworpen om snel te reageren om de reserveratio te verlagen wanneer er sprake is van een piek in de vraag, terwijl het langzaam werkt om de reserveratio te verhogen in een periode van lage vraag.
 
-The minimum reserve ratio is 1, and the maximum reserve ratio should be calculated to prevent small stakeholders from consuming all of the available bandwidth. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
+De minimum-reserveratio is 1 en de maximum-reserveratio moet worden berekend om te voorkomen dat kleine belanghebbenden alle beschikbare bandbreedte gebruiken. Als niemand gebruik maakt van de beschikbare bandbreedte dan kan de reserveratio groeien tot een gebruiker met slechts 1 satoshi van de valuta in staat is om elk blok een transactie uit te voeren.
 
 ### Case Study: Bitcoin
 
-To understand how this algorithm would work on Bitcoin it is necessary to estimate a reasonable value for the reserve ratio, R, based on actual usage. Based upon the total supply of 15M BTC and a daily transaction volume of 400K BTC[^10], we can derive a minimum reserve ratio of 38 for Bitcoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
+Om te begrijpen hoe dit algoritme zou werken op Bitcoin is het noodzakelijk om een redelijke waarde voor de reserveratio, R, te schatten op basis van het werkelijke gebruik. Op basis van het totale aanbod van 15M BTC en een dagelijks transactievolume van 400K BTC[^10], kunnen we voor Bitcoin een minimum reserveratio van 38 afleiden. Met behulp van de vergelijkingen kunnen we de wekelijkse bandbreedte (in bytes) berekenen die per BTC is toegestaan:
 
-    Let C = 1MB = 1024 * 1024
-    Let L = 1008 (blocks per week)
-    Let R = 38
-    Let S = 14000000 BTC (supply minus Satoshi's unmoving coins)
-    Let U = 1 BTC
-    CLR/S = 2869 bytes per week, or about 5 transactions/week per BTC
+    Laat C = 1MB = 1024 * 1024 * 1024
+    L = 1008 (blokken per week)
+    Laat R = 38
+    Laat S = 140000000000 BTC (voorraad minus Satoshi's onverplaatsbare munten)
+    Laat U = 1 BTC
+    CLR/S = 2869 bytes per week, of ongeveer 5 transacties/week per BTC
     
 
 Since R = 38 is a lower bound on the reserve ratio, CLR/S is a lower bound on the permitted bandwidth. This simple case study suggests a user will require at most 0.20 BTC (over $80 as of this writing) to transact once per week. However, this is a loose upper bound derived from the assumption that all BTC are equally mobile. This is not the case - users with dozens or hundreds of bitcoins do not necessarily transact dozens or hundreds of times a week! The "leftover" transactions that those users "should" have made will increase the reserve ratio, allowing their unused bandwidth to be "recycled" for smaller users.
