@@ -243,11 +243,11 @@ Lilo ti *idibo-odi* lati se ihamo fun awon eniyan lati lo eto na nilokulo nlo *e
 
 Yiyo "ilokulo" ko se se ati ko ye ko je koko. Paapa awon tohun gbiyanju lati se "ilokulo" ti eto won sin sise. Iyonda eyiowu ti won ba gba fun gbigbiyanju to yori si ilokulo tabi imoran ikoko na wulo gegebi idi ti pipin owo bi ti eto se-iseti a gba nipa asa ibile wiwa isura Bitcoin tabi wiwa isura imoran ikoko nipase awon akojo wiwa isura. Gbogbo ohun ti o je dandan fun ilokulo lati ma wa kaakiri pe o se idinku ti anfani lati se ise gidi lati se atileyin ti agbegbe ati owo re.
 
-Koko ti afi nko owo agbegbe ni lati gba opo "awon alakan ninu garawa". Lilo si awon ilana to sunmo eti ati yo gbogbo ilokulo kuro je bi fifi ideri si ori garawa lati ma jeki awon alakan die salo ati pe o ma je ko le lati fi alakan kun garawa na. O se daada kati je ki ogiri na ma yo ati fun awon alakan yoku ni agbara to ro lati ma jeki awon alakan yoju salo.
+Koko ti afi nko owo agbegbe ni lati gba opo "awon alakan ninu garawa". Lilo si awon ilana to sunmo eti ati yo gbogbo ilokulo kuro je bi fifi ideri si ori garawa lati ma jeki awon alakan die salo ati pe o ma je ko le lati fi alakan kun garawa na. O se daada lati je ki ogiri na ma yo ati fun awon alakan yoku ni agbara to to lati ma jeki awon alakan yoju salo.
 
 ### Fi Iye si Idibo to ni Opin
 
-Apa kan to se pataki si didinku ilokulo ni iye-opin idibo. Awon olumulo olukuluku le ka lasun ati gbeyewo awon ohun ise to po ni ojo kan. Igbiyanju eyikeyi pati dibo die si ju lo je aami ti dasise ati ilokulo. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Apa kan to se pataki si didinku ilokulo ni iye-opin idibo. Awon olumulo olukuluku le ka lason ati gbeyewo awon ohun ise to po ni ojo kan. Igbiyanju eyikeyi lati dibo die si ju lo je aami ti dasise ati ilokulo. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
 
 ![](\img_voting_rate_limiting.png)
 
