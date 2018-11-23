@@ -456,13 +456,13 @@ Om te begrijpen hoe dit algoritme zou werken op Bitcoin is het noodzakelijk om e
 
 Aangezien R = 38 een ondergrens is voor de reserveratio, is CLR/S een ondergrens voor de toegestane bandbreedte. Dit eenvoudige praktijkvoorbeeld suggereert dat een gebruiker maximaal 0,20 BTC (meer dan $80 vanaf dit schrijven) nodig heeft om eenmaal per week een transactie uit te voeren. Dit is echter een losse bovengrens die is afgeleid van de aanname dat alle BTC's even mobiel zijn. Dit is niet het geval - gebruikers met tientallen of honderden bitcoins voeren niet noodzakelijkerwijs tientallen of honderden keren per week een transactie uit! De "overgebleven" transacties die deze gebruikers "hadden moeten" maken, zullen de reserveratio verhogen, waardoor hun ongebruikte bandbreedte kan worden "gerecycled" voor kleinere gebruikers.
 
-All of the above estimates are conservative upper bounds assuming coins and usage are distributed in a relatively flat manner. The reality is that heavy users, such as exchanges, have a much higher coin-to-usage ratio than lighter users, which in turn means that actual minimum balance requirements are far lower.
+Alle bovenstaande schattingen zijn conservatieve bovengrenzen, ervan uitgaande dat de munten en het gebruik ervan op een relatief vlakke manier zijn verdeeld. De realiteit is dat zware gebruikers, zoals beurzen, een veel hogere verhouding muntstukken/gebruik hebben dan lichtere gebruikers, wat op zijn beurt betekent dat de werkelijke minimumeisen voor de balans veel lager zijn.
 
-#### Impact of Capacity
+#### Impact van capaciteit
 
-Blockchain capacity isn't necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second. This changes our conservative upper bound to 0.0006 BTC or about $0.25, meaning that an account holding $0.25 would be able to transact at least once per week on average (and likely many more times because we're dealing with a fairly loose upper bound).
+Blockchain-capaciteit is niet noodzakelijkerwijs gemaximeerd. Het ligt ruimschoots binnen de technologische mogelijkheden van de internetinfrastructuur om de omvang van de Bitcoin blokgrootte te vergroten tot 10MB, waardoor het minimaal vereiste saldo met een factor 10 zal afnemen. Terwijl Bitcoin momenteel ongeveer 3 transacties per seconde ondersteunt, zijn alternatieve implementaties geschikt voor meer dan 1000 transacties per seconde. Dit verandert onze conservatieve bovengrens naar 0.0006 BTC of ongeveer $0.25, wat betekent dat een account met een gemiddelde van $0.25 in staat zou zijn om minstens één keer per week een transactie uit te voeren (en waarschijnlijk vele malen meer omdat we te maken hebben met een vrij losse bovengrens).
 
-#### Maximum Number of Unique Users
+#### Maximaal aantal unieke gebruikers
 
 We can use similar math to calculate the maximum number of unique users that the network can allow to transact once per week as: B\*W/T. T represents the average transaction size. This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
 
