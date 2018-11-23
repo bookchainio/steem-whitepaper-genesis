@@ -239,7 +239,7 @@ Lilo ti *idibo-odi* lati se ihamo fun awon eniyan lati lo eto na nilokulo nlo *e
 > 
 > "Ko ye o.", okunrin na fesi, "ti alakan kan ba wa ninu garawa yio sa jade kiakia. Sibesibe, ti awon alakan to po ba wa ninu garawa, ti ikan ba gbiyanju lati ra losi oke, awon iyoku a gbamu won asi fa wale nitori kohun na le ni ipin kanna bi awon to ku."
 > 
-> Bakana lori pelu awon eniyan. Ti ikan ba gbiyanju lati se nkan to yato, gba ipo daada, giyanju lori aran eni, jaapa kuro ninu ayika, tabi la awon ala to tobi, awon eniyan to ku a giyanju lati fa wa sile lati oin nini nkan ti awon na n la koja.
+> Bakana lori pelu awon eniyan. Ti ikan ba gbiyanju lati se nkan to yato, gba ipo daada, gbiyanju lori ara eni, sa kuro ninu ayika, tabi la awon ala to tobi, awon eniyan to ku a gbiyanju lati fa wa sile lati pin ninu nkan ti awon na n la koja.
 
 Yiyo "ilokulo" ko se se ati ko ye ko je koko. Paapa awon tohun gbiyanju lati se "ilokulo" ti eto won sin sise. Iyonda eyiowu ti won ba gba fun gigiyanju to yori si ilokulo tabi imoran ikoko na wulo gegebi idi ti pipin owo bi ti eto se-iseti a gba nipa asa ibike wiwa isura Bitcoin tabi wiwa isura imoran ikoko nipase awon akojo wiwa isura. Gbogbo ohun ti o je dandan fun ilokulo lati ma wa kaakiri pe o se idinku ti anfani lati se ise gidi lati se atileyin ti agbegbe ati owo re.
 
