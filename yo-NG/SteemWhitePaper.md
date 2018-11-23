@@ -241,7 +241,7 @@ Lilo ti *idibo-odi* lati se ihamo fun awon eniyan lati lo eto na nilokulo nlo *e
 > 
 > Bakana lori pelu awon eniyan. Ti ikan ba gbiyanju lati se nkan to yato, gba ipo daada, gbiyanju lori ara eni, sa kuro ninu ayika, tabi la awon ala to tobi, awon eniyan to ku a gbiyanju lati fa wa sile lati pin ninu nkan ti awon na n la koja.
 
-Yiyo "ilokulo" ko se se ati ko ye ko je koko. Paapa awon tohun gbiyanju lati se "ilokulo" ti eto won sin sise. Iyonda eyiowu ti won ba gba fun gigiyanju to yori si ilokulo tabi imoran ikoko na wulo gegebi idi ti pipin owo bi ti eto se-iseti a gba nipa asa ibike wiwa isura Bitcoin tabi wiwa isura imoran ikoko nipase awon akojo wiwa isura. Gbogbo ohun ti o je dandan fun ilokulo lati ma wa kaakiri pe o se idinku ti anfani lati se ise gidi lati se atileyin ti agbegbe ati owo re.
+Yiyo "ilokulo" ko se se ati ko ye ko je koko. Paapa awon tohun gbiyanju lati se "ilokulo" ti eto won sin sise. Iyonda eyiowu ti won ba gba fun gbigbiyanju to yori si ilokulo tabi imoran ikoko na wulo gegebi idi ti pipin owo bi ti eto se-iseti a gba nipa asa ibile wiwa isura Bitcoin tabi wiwa isura imoran ikoko nipase awon akojo wiwa isura. Gbogbo ohun ti o je dandan fun ilokulo lati ma wa kaakiri pe o se idinku ti anfani lati se ise gidi lati se atileyin ti agbegbe ati owo re.
 
 Koko ti afi nko owo agbegbe ni lati gba opo "awon alakan ninu garawa". Lilo si awon ilana to sunmo eti ati yo gbogbo ilokulo kuro je bi fifi ideri si ori garawa lati ma jeki awon alakan die salo ati pe o ma je ko le lati fi alakan kun garawa na. O se daada kati je ki ogiri na ma yo ati fun awon alakan yoku ni agbara to ro lati ma jeki awon alakan yoju salo.
 
