@@ -227,13 +227,13 @@ Nigbati an fowosowopo lati pin awon owo si ise to dara julo je koko ti a fe, *si
 
 Laibikita iye owo ti olukuluku kan ti nii, opolopo awon eniyan miiran ni o ni awon iru oro kanna. Paapa julo eni to ni oro julo shasha lo ma ni ju awon oloro meji to tele ti a papo. Nitesiwaju, awon to ni owo pupo ninu agbegbe kan na lo ni pupo lati padanu ju nipa ipinu lati sere pelu eto idibo fun arawon. Yio dabi Oludari Alakoso ti ile ise kan tohun pinu lati dawo isanwo osu duro lati fi gbogbo awon ere na sinu apo re. Gbogbo eniyan a kuro lati lo sise fun awon ile ise miran ati pe ile ise na koni ni iye lori mo, a fi Oludari Alakoso sile ni akuse yala oloro lo.
 
-Lorire, ise yio wu to ba ni ifojusi to po ti awon idibo na lohun gba ifoju sunuku wo ju (ikede). Nipa afikun ti *idibo-odi* o sese fun awon to se agbamu ipin kekere lati so di ailagbara agbara idibo ti awon egbe imoran ikoko tabi awon to gbamu ipin nla tohun yapa. Ni itesiwaju, awon olugbamu ioun to po ni opo lati padanu ti owo ba wale ni iye nipase ilokulo ju won le jere nipa didibo fun ara won. Ni pato, awon olooto to se agbamu ipin to po o se se ki won ni ipa ti po nipa siso ilokulo ati lilo idibo odi ju won a se ni ti won ba dibo fun awon iluwosi kekere.
+Lorire, ise yio wu to ba ni ifojusi to po ti awon idibo na lohun gba ifoju sunuku wo ju (ikede). Nipa afikun ti *idibo-odi* o sese fun awon to se agbamu ipin kekere lati so di ailagbara agbara idibo ti awon egbe imoran ikoko tabi awon to gbamu ipin nla tohun yapa. Ni itesiwaju, awon olugbamu loun to po lati padanu ti owo ba wale ni iye nipase ilokulo ju won le jere nipa didibo fun ara won. Ni pato, awon olooto to se agbamu ipin to po o se se ki won ni ipa ti po nipa siso ilokulo ati lilo idibo odi ju won a se ni ti won ba dibo fun awon iluwosi kekere.
 
 Lilo ti *idibo-odi* lati se ihamo fun awon eniyan lati lo eto na nilokulo nlo *ero alakan* ti opo eniyan ni ti won ba ro wipe enikan n gba ere laibikita fun awon to ku. Nigbatiero alakan man toka si awon eniyan tio ri ju isin lo ti won fa awon eniyan gidi sile, ohun na lo je ki awon eniyan gidi re awon eniyan buruku sile. "Wahala" kan to wa pele ero alakan ni ti awon eniyan *ba gbagbo odi* enikan n gba ere laibikita awon iyoku.
 
 > #### Itan garawa alakan [^6]
 > 
-> Okurin kan rin lo leti okun asi ri okunrin miran tohun peja ni iwa pelu garawa ounje ta fin n mu eja legbe re. Bo se sumo si, o ri wipe gbarawa ounje tafin mu eja na o ni ideri osi ni awon alakan to wa laye ninu e.
+> Okurin kan rin lo leti okun asi ri okunrin miran tohun peja ni iwa pelu garawa ounje ta fin n mu eja legbe re. Bo se sumo si, o ri wipe garawa ounje tafin mu eja na o ni ideri osi ni awon alakan to wa laye ninu e.
 > 
 > "Kilode ti o fi de garawa ounje tafin mu eja re ki awon alakan na maba salo?", o wi.
 > 
