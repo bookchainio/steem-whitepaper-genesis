@@ -233,7 +233,7 @@ Lilo ti *idibo-odi* lati se ihamo fun awon eniyan lati lo eto na nilokulo nlo *e
 
 > #### Itan garawa alakan [^6]
 > 
-> Okurin kan rin lo leti okun asi ri okunrin miran tohun peja ni iwa pelu garawa ounje ta fin n mu eja legbe re. Bo se sumo si, o ri wipe garawa ounje tafin mu eja na o ni ideri osi ni awon alakan to wa laye ninu e.
+> Okurin kan rin lo leti okun osi ri okunrin miran tohun peja pelu garawa ounje ta fin n mu eja legbe re. Bo se sumo si, o ri wipe garawa ounje tafin mu eja na o ni ideri osi ri awon alakan to wa laye ninu e.
 > 
 > "Kilode ti o fi de garawa ounje tafin mu eja re ki awon alakan na maba salo?", o wi.
 > 
