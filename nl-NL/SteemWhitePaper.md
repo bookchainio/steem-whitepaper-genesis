@@ -472,7 +472,7 @@ Als we ervan uitgaan dat een gebruiker met een waarde van $25 dollar aan BTC é�
 
 ### Aanmaken van een account
 
-Steem's account-gebaseerd systeem met publiek bekende balansen vereenvoudigt de implementatie van het bandbreedte-gebaseerd tariefbeperkende algoritme. Elk account met een saldo dat lager is dan het minimum dat nodig is om één keer per week een transactie te maken zou niet in staat zijn om een transactie te verrichten. Dit betekent dat alle nieuwe accounts met ten minste dit minimumsaldo moeten worden gefinancierd. Het houdt ook in dat gebruikers die met kleinere bedragen transacties willen verrichten dat kunnen, mits zij een hogere balans houden en het account opnieuw gebruiken.
+Steem's account-gebaseerd systeem met publiek bekende balansen vereenvoudigt de implementatie van het bandbreedte-gebaseerd tariefbeperkende algoritme. Elk account met een saldo dat lager is dan het minimum dat nodig is om één keer per week een transactie te maken zou niet in staat zijn om een transactie te verrichten. Dit betekent dat alle nieuwe accounts met ten minste dit minimumsaldo moeten worden gefinancierd. Het houdt ook in dat gebruikers die met kleinere bedragen transacties willen verrichten, dat kunnen mits zij een hogere balans houden en het account opnieuw gebruiken.
 
 Het is mogelijk dat een account met een laag saldo dat is aangemaakt tijdens een periode van laag gebruik ontoegankelijk wordt als het netwerkgebruik toeneemt. De middelen kunnen te allen tijde worden teruggevorderd door tijdelijk een groter saldo naar de rekening te delegeren.
 
