@@ -508,49 +508,49 @@ There must be a slow constant upward pressure on the reserve ratio any time netw
 
 Any user with fewer than TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) will be unable to produce enough transactions to fill even a single block. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
 
-### Effectiveness Relative to Fees
+### Doeltreffendheid ten opzichte van vergoedingen
 
-To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+Om de effectiviteit van tariefbeperking ten opzichte van transactiekosten te vergelijken moeten we afwegen hoe de twee systemen reageren op opzettelijke netwerkoverbelasting door een aanvaller. Onder Bitcoin kan een aanvaller met $10.000 dollar de hele dag de dienst verstoren door elk blok te vullen. Dezelfde aanvaller zou niet in staat zijn om de dienst te verstoren, zelfs niet voor één enkel blok, onder de dynamische fractionele reserve tariefbeperkende aanpak.
 
-If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+Als we een extremer geval bekijken en aannemen dat de aanvaller 1% van alle munten in zijn bezit heeft, dan gaan we uit van een aanvaller met 60 miljoen dollar. Een dergelijke aanvaller zou de Bitcoin blockchain 16 jaar lang de dienst kunnen weigeren, tenzij de miners hun vergoedingen of capaciteit zouden verhogen. Zelfs als de kosten zouden worden verhoogd tot $15 per transactie, kon de aanvaller het netwerk nog steeds 16 dagen lang overspoeld houden.
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+Bij de tariefbeperkende aanpak zou iemand die 1% van alle munten in zijn bezit heeft met de bedoeling om het netwerk te overbelasten zijn doel voor minder dan 30 seconden bereiken.
 
-### Renting vs. Buying vs. Time Sharing
+### Huren vs. Kopen vs. Time Sharing
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Wanneer iemand een huis bezit verwacht hij/zij het recht te hebben om het huis gratis te gebruiken. Als een groep mensen samen een huis koopt, kan iedereen verwachten dat het recht om het huis te gebruiken in verhouding staat tot het percentage van hun eigenaarschap in het huis. Een blockchain op basis van een vergoeding is alsof je het huis huurt van de eigenaren, terwijl een tariefbeperking is als timesharing tussen eigenaren.
 
-If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+Als een huis eigendom is van meerdere personen, dan moeten die personen zelf beslissen hoe zij het huis willen timesharen. Iemand die 50% van het huis in bezit heeft, maar er slechts één weekend per jaar gebruik van maakt, kan verwachten dat hij/zij betaald wordt door de personen die zijn/haar ongebruikte tijd afneemt. Dit is de mentaliteit van een op vergoedingen gebaseerd systeem.
 
-On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
+Aan de andere kant, iemand die 50% van het huis bezit, speculeert dat de vraag naar het huis in de toekomst zal toenemen en dat hij zijn aandeel voor meer zal kunnen verkopen. Elke eigenaar die meer van een huis bezit dan hij/zij gebruikt wordt een onroerend goed-speculant. Met deze mindset wordt verdiend aan waardestijging in plaats van aan het innen van huur.
 
-The value of a share is derived from how much time it can potentially grant its owner. Owning 1% of a house and getting it 1 weekend per year is the lowest value of a share. However, if half of the shareholders never use their weekend, then the value per timeshare rises to 2 weekends per year. If those inactive users instead opt to rent their unused time, then it falls back to 1 weekend per year. If those unused timeshares were sold to people who would use them then the value of a timeshare would fall by 50%. Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
+De waarde van een aandeel wordt afgeleid uit de hoeveelheid tijd die de eigenaar er potentieel voor krijgt. 1% van een huis bezitten en het 1 weekend per jaar krijgen is de laagste waarde van een aandeel. Als de helft van de aandeelhouders echter nooit gebruik maakt van hun weekend, dan stijgt de waarde per timeshare naar 2 weekenden per jaar. Als die inactieve gebruikers ervoor kiezen om hun ongebruikte tijd te huren, dan valt het terug naar 1 weekend per jaar. Als die ongebruikte timeshares verkocht zouden worden aan mensen die ze zouden gebruiken, dan zou de waarde van een timeshare met 50% zakken. Tenzij de geïnde huur hoger is dan de daling van de waarde van het aandeel, maken de timeshare-eigenaren een economische rekenfout.
 
-Using this rationale we can assume that a system based on fees will either be more expensive for its users or be less profitable for its collective owners. An individual small owner may profit by renting out his small time slice, but only at the expense of all other timeshare owners. In effect, the cost of the falling timeshare value is shared among all owners whereas the profits are centralized in the single owner who decided to rent his share.
+Op basis van deze redenering kunnen we ervan uitgaan dat een systeem op basis van vergoedingen ofwel duurder zal zijn voor de gebruikers, ofwel minder winstgevend voor de collectieve eigenaren. Een individuele kleine eigenaar kan profiteren van het verhuren van zijn kleine tijdsdeel, maar alleen ten koste van alle andere timeshare-eigenaren. In feite worden de kosten van de dalende timeshare-waarde gedeeld door alle eigenaren, terwijl de winst wordt gecentraliseerd in de enige eigenaar die besloten heeft zijn aandeel te verhuren.
 
-We can conclude from this that a blockchain is best served by not using usage fees at all. If a usage fee were to be charged as an alternative to rate limiting, then it should be the equivalent of buying enough timeshares and committing to hold them long enough to gain the right use it once.
+We kunnen hieruit concluderen dat een blockchain het beste gediend is door helemaal geen gebruik te maken van gebruikskosten. Als er een gebruiksvergoeding in rekening zou worden gebracht als alternatief voor tariefbeperking, dan zou het gelijk moeten staan aan het kopen van voldoende timeshares en de verbintenis aan te gaan deze lang genoeg vast te houden om het recht te krijgen het eenmaal te gaan gebruiken.
 
-Stated another way, a transaction fee should be equal to the minimum account balance necessary to transact once per week and it should be refunded at the end of the week. Assume the minimum account balance is $1 and allows someone to transact once per week. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
+Anders gezegd moet een transactievergoeding gelijk zijn aan het minimum accountsaldo dat nodig is om één keer per week een transactie te verrichten en moet deze aan het einde van de week worden terugbetaald. Stel dat het minimum rekeningsaldo $1 is en dat iemand daarmee één keer per week een transactie kan verrichten. Als iemand met een saldo van $1 in één keer 5 transacties wil uitvoeren, moet hij zijn saldo vóór of na zijn transactie een week lang verhogen naar $5.
 
-In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+In theorie zou er een markt kunnen ontstaan waar gebruikers het benodigde aandeel kunnen lenen. In de praktijk is het efficiënter voor gebruikers om simpelweg de timeshares te kopen en verkopen die nodig zijn om aan hun gewenste gebruikspercentage te voldoen. Met andere woorden, de kosten voor het onderhandelen over microleningen zijn hoger dan de kosten voor het handhaven van een saldo dat geschikt is voor je maximale wekelijkse gebruik.
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+Gedecentralizeerde tariefbeperking van transacties kan nieuwe soorten gedecentraliseerde toepassingen mogelijk maken die niet levensvatbaar waren wanneer elk gebruik van de toepassing een microbetaling zou vereisen. Dit nieuwe model geeft applicatie-ontwikkelaars de mogelijkheid om te beslissen of en wanneer ze hun gebruikers kosten in rekening brengen voor transacties.
 
-# Performance and Scalability
+# Prestaties en schaalbaarheid
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+Het Steem-netwerk is gebouwd op Graphene, dezelfde technologie die BitShares aandrijft. Graphene heeft publiekelijk aangetoond dat het meer dan 1000 transacties per seconde ondersteunt op een gedistribueerd testnetwerk. Graphene kan eenvoudig worden opgeschaald naar 10.000 of meer transacties per seconde met relatief eenvoudige verbeteringen in servercapaciteit en communicatieprotocollen.
 
-## Reddit Scale
+## Reddit-schaal
 
-Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit's 8.7 million users generated an average of 23 comments per second[^13] , with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem is in staat om een grotere gebruikersbasis te verwerken dan Reddit. In 2015 genereerden de 8,7 miljoen gebruikers van Reddit gemiddeld 23 reacties per seconde[^13], met een gemiddelde van 83 reacties per jaar per gebruiker. Er waren 73 miljoen topniveau artikelen, gemiddeld 2 nieuwe artikelen per seconde. Er waren ongeveer 7 miljard upvotes, wat een gemiddelde van 220 stemmen per seconde opleverde. Alles bij elkaar genomen, als Reddit op een blockchain zou draaien zou het gemiddeld 250 transacties per seconde vereisen.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^14], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+Om deze toonaangevende prestatie te bereiken, heeft Steem lessen geleerd van de LMAX Exchange[^14], die in staat is om 6 miljoen transacties per seconde te verwerken. Tot deze lessen behoren de volgende hoofdpunten:
 
-1. Keep everything in memory.
-2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
-4. Divide validation into state-dependent and state-independent checks.
-5. Use an object oriented data model.
+1. Bewaar alles in het geheugen.
+2. Houd de kern-bedrijfslogica in één enkele draad.
+3. Houd cryptografische bewerkingen (hashes en handtekeningen) buiten de kern-bedrijfslogica.
+4. Verdeel validatie in staatsafhankelijke en staatsonafhankelijke controles.
+5. Gebruik een object-georiënteerd datamodel.
 
 By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
 
