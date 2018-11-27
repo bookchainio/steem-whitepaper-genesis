@@ -534,7 +534,7 @@ Anders gezegd moet een transactievergoeding gelijk zijn aan het minimum accounts
 
 In theorie zou er een markt kunnen ontstaan waar gebruikers het benodigde aandeel kunnen lenen. In de praktijk is het efficiënter voor gebruikers om simpelweg de timeshares te kopen en verkopen die nodig zijn om aan hun gewenste gebruikspercentage te voldoen. Met andere woorden, de kosten voor het onderhandelen over microleningen zijn hoger dan de kosten voor het handhaven van een saldo dat geschikt is voor je maximale wekelijkse gebruik.
 
-Gedecentralizeerde tariefbeperking van transacties kan nieuwe soorten gedecentraliseerde toepassingen mogelijk maken die niet levensvatbaar waren wanneer elk gebruik van de toepassing een microbetaling zou vereisen. Dit nieuwe model geeft applicatie-ontwikkelaars de mogelijkheid om te beslissen of en wanneer ze hun gebruikers kosten in rekening brengen voor transacties.
+Gedecentraliseerde tariefbeperking van transacties kan nieuwe soorten gedecentraliseerde toepassingen mogelijk maken die niet levensvatbaar waren wanneer elk gebruik van de toepassing een microbetaling zou vereisen. Dit nieuwe model geeft applicatie-ontwikkelaars de mogelijkheid om te beslissen of en wanneer ze hun gebruikers kosten in rekening brengen voor transacties.
 
 # Prestaties en schaalbaarheid
 
@@ -584,7 +584,7 @@ The overall effect of these percentage constants on allocation and supply is tha
 
 The overall supply picture is complicated by the effect of SMD operations, which may result in large-scale creation or destruction of STEEM through feed rate following and SMD rewards, as discussed in the SMD section. Other, smaller-scale complicating effects also exist, including unclaimed incentives (e.g. block rewards for missed blocks), noise due to miner luck in proof-of-work production, and the effects of changes in the miner queue length due to a change in the network's total hashpower.
 
-## Impact of Token Creation Rate
+## Invloed van snelheid van Token-creatie
 
 At first glance, 100% annual increase in the STEEM supply may appear to be hyper-inflationary and unsustainable. Those who follow the Quantity Theory of Money[^16] may even conclude that the value of STEEM must fall by approximately 5.6% per month. We know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
 
@@ -620,17 +620,17 @@ In order to compensate for the ever increasing precision, the STEEM network perf
 
 All rounding errors will be in favor of the network. Every balance may lose up to 0.009 STEEM due to rounding, but this amount of STEEM should be economically insignificant. Collectively all holders of SP will lose at most 0.009 STEEM.
 
-# The Power of Steem
+# De kracht van Steem
 
-Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+Steem erkent dat de waarde van alle gebruikersbijdragen (berichten en stemmen) groter is dan de som der delen. Een enkele opmerking is bijna niets waard, maar miljoenen gecureerde artikelen is vele miljoenen (of mogelijk zelfs miljarden) dollars waard. Een enkele stem levert weinig curatiewaarde op, maar miljarden stemmen is zeer effectieve curatie. Inhoud zonder curatie is van beperkte waarde. Gezien alle inhoud van het internet min de links ertussen, zou Google moeite hebben om nuttige zoekresultaten te produceren. Het zijn de verbanden tussen de informatie die er een aanzienlijke waarde aan geven.
 
-Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don't.
+Omdat iedereen er baat bij heeft, zou iedereen moeten betalen. Met andere woorden, er mag van geen enkele individuele gebruiker verwacht worden dat hij/zij voor iets betaalt, maar in plaats daarvan moet hij/zij betaald worden voor alles wat hij/zij doet dat waarde toevoegt aan Steem. Het enige wat we hoeven te doen is na te gaan welke bijdragen van gebruikers een sociale netwerkwaarde opleveren en welke niet.
 
-Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^21] and $4 billion[^22] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year's worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
+Gezamenlijk stemmen Reddit-gebruikers 220 keer per seconde en maken ze 23 berichten per seconde. Reddit wordt gewaardeerd tussen $500 miljoen[^21] en $4 miljard[^22], wat betekent dat elke upvote en ieder artikel tussen de $0,06 en $0,50 waard is, ervan uitgaande dat de waarde van Reddit meestal binnen de waarde van de activiteit van het afgelopen jaar ligt. Men zou kunnen stellen dat het grootste deel van de waarde van Reddit bestaat uit de bijna-real-time discussies die in de afgelopen week hebben plaatsgevonden en die de waarde van nieuwe activiteiten drastisch zou verhogen. Mensen gaan waar mensen vandaag de dag zijn, niet waar mensen vorig jaar waren.
 
-## No Micropayments, Tips Optional
+## Geen micro-betalingen, fooien optioneel
 
-Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Many services have attempted to introduce tipping. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content's ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
+Bestaande pogingen om een cryptovaluta te integreren in een social media-platform zijn erop gericht om gebruikers in staat te stellen elkaar te betalen. Veel diensten hebben geprobeerd om fooien in te voeren. De theorie is dat als we het geven van fooien eenvoudig genoeg maken, meer mensen het zullen doen. Andere diensten proberen mensen ertoe te bewegen te betalen om de plaatsing van hun content te promoten of te verbeteren. Weer anderen proberen kleine voorspellingsmarkten te bouwen op hoeveel tips een artikel zal ontvangen.
 
 All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone's actions so everyone should pay or no one should pay, depending on how you look at it.
 
