@@ -552,30 +552,30 @@ Om deze toonaangevende prestatie te bereiken, heeft Steem lessen geleerd van de 
 4. Verdeel validatie in staatsafhankelijke en staatsonafhankelijke controles.
 5. Gebruik een object-georiënteerd datamodel.
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+Door het volgen van deze eenvoudige regels is Steem in staat om 10.000 transacties per seconde te verwerken zonder enige aanmerkelijke inspanning toe te wijden aan optimalisatie.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optanetechnology from Intel [^15]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Alles in het geheugen houden wordt steeds meer rendabel gezien Intel's recente introductie van Optane™-technologie[^15]. Het moet mogelijk zijn voor commodity-hardware om alle zakelijke logica van Steem in één draad te verwerken waarbij alle berichten in het geheugen gehouden worden voor een snelle indexering. Zelfs Google houdt hun index van het hele internet bij in RAM. Het gebruik van blockchain technologie maakt het triviaal om de database te repliceren naar vele machines om gegevensverlies te voorkomen. Naarmate Optane-technologie overneemt, zal RAM nog sneller worden, terwijl de stabiliteit toeneemt. Met andere woorden, Steem is ontworpen voor de architecturen van de toekomst en is ontworpen om te schalen.
 
-# Allocation & Supply
+# Toewijzing & Toevoer
 
-The Steem network starts with a currency supply of 0 and allocates STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network starts rewarding users who convert to SP. At this point, STEEM grows at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Het Steem-netwerk begint met een valuta-voorraad van 0 en heeft STEEM via proof of work aan miners toegewezen tegen een tarief van ongeveer 40 STEEM per minuut, waarbij 40 STEEM per minuut extra werd gecreëerd om de inhoud en curation reward pools te vullen (een totaal van 80 STEEM per minuut). Daarna begint het netwerk gebruikers te belonen die naar SP converteren. Op dit punt groeit STEEM met ongeveer 800 STEEM per minuut als gevolg van de gecombineerde effecten van de verschillende hieronder samengevatte Contribution Rewards:
 
 **Contribution Rewards:**
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- Curation rewards: 1 STEEM per blok of 3,875% per jaar, afhankelijk van wat groter is
+- Content Creation rewards: 1 STEEM per blok of 3,875% per jaar, afhankelijk van wat groter is
+- Block production rewards: 1 STEEM per blok of 0,750% per jaar, afhankelijk van wat groter is
+- POW inclusion rewards vóór blok 864.000: 1 STEEM per blok (toegekend als 21 STEEM per ronde)
+- POW inclusion rewards ná blok 864.000: 0,0476 STEEM per blok (toegekend als 1 STEEM per ronde) of 0,750% per jaar, afhankelijk van wat groter is.
+- Liquidity rewards: 1 STEEM per blok (toegekend als 1200 STEEM per uur) of 0,750% per jaar, afhankelijk van wat groter is
 
 **Power Rewards:**
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- Steem Power rewards: Voor elke STEEM die door bovenstaande beloningen wordt gecreëerd, worden 9 STEEM verdeeld over alle Steem Power-houders.
 
-**SMD operations:**
+**SMD-operaties:**
 
-- SMD rewards: A percentage of SMD value is created at an APR set by the witnesses and paid to SMD holders as SMD
+- SMD rewards: Een percentage van de SMD-waarde wordt gecreëerd tegen een door de getuigen vastgesteld APR en als SMD aan de SMD-houders uitbetaald
 - Feed Rate following: The amount of STEEM for which the total SMD in existence can be redeemed will change based on changes in the price feed. This change is effectively destruction ("burning") of STEEM when the value of STEEM (as measured by the feed) is increasing, or creation of STEEM when the value of STEEM (as measured by the feed) is declining.
 
 The percentage constraints effectively ensure the incentives for rewards do not become meaninglessly small over time, which is intended to prevent the system from experiencing the "speed bump" in the growth pattern of many other blockchains, where an initial growth spurt fueled by high incentives for early participants is followed by prolonged stagnation as the continually falling incentives drop below the level necessary to induce newcomers to join.
