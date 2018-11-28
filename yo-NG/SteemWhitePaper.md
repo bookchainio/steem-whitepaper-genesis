@@ -259,7 +259,7 @@ Agbara idibo man posi nipa awon aami vesitini ti olumulo lati mo iye ipin ninu a
 
 ![](\img_change_voting_period_eg.png)
 
-Lati se ipamo kuro lowo ilokulo, gbogbo awon isanwo jade ni idaduro ti ipin-tiawon apapo ti wakati merinlelogun lati igba ti a di ibo. Eleyi jeki awon olugbamu nla won le pa awon isanwojade nipa didibo ni iseju to pari siwaju awon oludibo yioku (ti atun pe ni awon alakan) ni anfani kan lati se lodi si ilokulo to fe sele. Once a payout is made to the user all votes are reset to 0. If votes come in after the payout then the process begins again.
+Lati se ipamo kuro lowo ilokulo, gbogbo awon isanwo jade ni idaduro ti ipin-tiawon apapo ti wakati merinlelogun lati igba ti a di ibo. Eleyi jeki awon olugbamu nla won le pa awon isanwojade nipa didibo ni iseju to pari siwaju awon oludibo yioku (ti atun pe ni awon alakan) ni anfani kan lati se lodi si ilokulo to fe sele. Leekan ti a ba ti se isanwojade fun olumulo gbogbo awon idibo yipada si odo. Ti ibo ba wole leyin isanwojade nigbayen ni ilana na bere lekansi.
 
 This chart shows how the voting period expiration changes in response to new positive and negative votes being applied. New votes extend the payout period in proportion to how large they are relative to all votes that have gone before. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
 
