@@ -253,13 +253,13 @@ Apa kan to se pataki si didinku ilokulo ni iye-opin idibo. Awon olumulo olukuluk
 
 Awon ayaworan to wa loke nfihan bi agbara idibo ti olumulo se n lo sile nigbogbo igba ti won ba dibo ti o sin kunra si bi akoko se nkoja lai dibo. Awon ayaworan yi nlo eleyi to jo awon ibewo akoko ati pe o a le je ki o gbera si iye idibo yio wu ti a fojusi. Sakiyesi wipe agbara idibo man sure jawale ni awon akoko ti didibo lai dawoduro, yio wa padasipo diedie.
 
-Voting power is multiplied by a user's vesting tokens to determine how much share in the reward pool should be allocated to a given work item.
+Agbara idibo man posi nipa awon aami vesitini ti olumulo lati mo iye ipin ninu akopo ere ti ama yasoto si nkan ise.
 
-### Delayed Payouts
+### Awon isanwo jade ti a Daduro
 
 ![](\img_change_voting_period_eg.png)
 
-To further prevent abuse, all payouts are delayed a stake-weighted average of 24 hours from the time each vote was cast. This ensures that large stakeholders cannot snipe payouts by voting at the last second before other voters (aka crabs) have a chance to negate the potential abuse. Once a payout is made to the user all votes are reset to 0. If votes come in after the payout then the process begins again.
+Lati se ipamo kuro lowo ilokulo, gbogbo awon isanwo jade ni idaduro ti ipin-tiawon apapo ti wakati merinlelogun lati igba ti a di ibo. Eleyi jeki awon olugbamu nla won le pa awon isanwojade nipa didibo ni iseju to pari siwaju awon oludibo yioku (ti atun pe ni awon alakan) ni anfani kan lati se lodi si ilokulo to fe sele. Once a payout is made to the user all votes are reset to 0. If votes come in after the payout then the process begins again.
 
 This chart shows how the voting period expiration changes in response to new positive and negative votes being applied. New votes extend the payout period in proportion to how large they are relative to all votes that have gone before. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
 
