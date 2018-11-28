@@ -261,13 +261,13 @@ Agbara idibo man posi nipa awon aami vesitini ti olumulo lati mo iye ipin ninu a
 
 Lati se ipamo kuro lowo ilokulo, gbogbo awon isanwo jade ni idaduro ti ipin-tiawon apapo ti wakati merinlelogun lati igba ti a di ibo. Eleyi jeki awon olugbamu nla won le pa awon isanwojade nipa didibo ni iseju to pari siwaju awon oludibo yioku (ti atun pe ni awon alakan) ni anfani kan lati se lodi si ilokulo to fe sele. Leekan ti a ba ti se isanwojade fun olumulo gbogbo awon idibo yipada si odo. Ti ibo ba wole leyin isanwojade nigbayen ni ilana na bere lekansi.
 
-Ayaworan yi fihan bi akoko ti idibo ma pari sen yipada ni idahun si awon idibo rere ati odi ti an lo. New votes extend the payout period in proportion to how large they are relative to all votes that have gone before. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
+Ayaworan yi fihan bi akoko ti idibo ma pari sen yipada ni idahun si awon idibo rere ati odi ti an lo. Awon ibo tuntun nfagun akoko isanwojade ni idogba mo bi won se tobi si ni igbeyewo pelu awon idibo to ti lo saaju. Ni ayika akoko ogoji opo awon ibo tuntun ni a papo to fa akoko idibo gun pele wakati mejila, awon ibo kekeke to tele ni ipa to kere lori akoko idibo.
 
-### Payout Distribution
+### Pinpin Isanwojade
 
 ![](\img_the_new_marketplace.png)
 
-One of the primary goals of Steem's reward system is to produce the best discussions on the internet. Each and every year 10% of the market capitalization of Steem is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be as much as $1.75 million dollars per day being given to top contributors.
+Nkan lara awon koko ti eto ifiere funni ti Steemu je lati pese ijiroro to dara julo lori ero ayelujara. Each and every year 10% of the market capitalization of Steem is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be as much as $1.75 million dollars per day being given to top contributors.
 
 The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
 
