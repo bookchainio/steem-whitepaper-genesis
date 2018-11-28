@@ -269,9 +269,9 @@ Ayaworan yi fihan bi akoko ti idibo ma pari sen yipada ni idahun si awon idibo r
 
 Nkan lara awon koko ti eto ifiere funni ti Steemu je lati pese ijiroro to dara julo lori ero ayelujara. Ni odun kankan idamewa ti owo-idookoowo ti oja ti Steemu je pinoin fun awon olumulo tohun se ifilole, didibo lori, ati tohun se ifiroro akoonu. Ni titobi ti Bitcoin eleyi le po to millionu dola 1.75 ni ojojumo ti ahun fun awon olufowosi.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
+Pinpin yi paaoa yio da lori apeere ti idibo awon olumulo, sugbon a fura wipe awon topoju ti awon ere yio lo si awon akoonu to gbajumo julo. Steemu man won awon isanwojade to dogba pelu \\(n^{2}\\) ti iye Agbara Idibo Steemu fun agbejade kan. Loromiran, agbejade x yio gba isanwojade to dogba si:
 
-\\(votes[x]^{2} / sum(votes[0...n]^{2})\\)
+\\(awin ibo[x]^{2} / aropo(awon ibo[0...n]^{2})\\)
 
 Zipf's Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the \\(k^{th}\\)-ranked item will measure about 1/k of the first one.
 
