@@ -251,7 +251,7 @@ Apa kan to se pataki si didinku ilokulo ni iye-opin idibo. Awon olumulo olukuluk
 
 ![](\img_voting_rate_limiting.png)
 
-Awon ayaworan to wa loke nfihan bi agbara idibo ti olumulo se n lo sile nigbogbo igba ti won ba dibo ti o sin kunra si bi akoko se nkoja lai dibo. These charts use nominal time unit and could be made to scale to any targeted voting rate. Note that voting power rapidly drops off during periods of continuous voting, and then slowly recovers.
+Awon ayaworan to wa loke nfihan bi agbara idibo ti olumulo se n lo sile nigbogbo igba ti won ba dibo ti o sin kunra si bi akoko se nkoja lai dibo. Awon ayaworan yi nlo eleyi to jo awon ibewo akoko ati pe o a le je ki o gbera si iye idibo yio wu ti a fojusi. Sakiyesi wipe agbara idibo man sure jawale ni awon akoko ti didibo lai dawoduro, yio wa padasipo diedie.
 
 Voting power is multiplied by a user's vesting tokens to determine how much share in the reward pool should be allocated to a given work item.
 
