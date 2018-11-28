@@ -247,11 +247,11 @@ Koko ti afi nko owo agbegbe ni lati gba opo "awon alakan ninu garawa". Lilo si a
 
 ### Fi Iye si Idibo to ni Opin
 
-Apa kan to se pataki si didinku ilokulo ni iye-opin idibo. Awon olumulo olukuluku le ka lason ati gbeyewo awon ohun ise to po ni ojo kan. Igbiyanju eyikeyi lati dibo die si ju lo je aami ti dasise ati ilokulo. Nipase didinku iye, awon olugbamu to dibo loorekore ni ibo kokan lati je kika fun kekere ju ti awon olugbamu tio kin dibo loorekore. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Apa kan to se pataki si didinku ilokulo ni iye-opin idibo. Awon olumulo olukuluku le ka lason ati gbeyewo awon ohun ise to po ni ojo kan. Igbiyanju eyikeyi lati dibo die si ju lo je aami ti dasise ati ilokulo. Nipase didinku iye, awon olugbamu to dibo loorekore ni ibo kokan lati je kika fun kekere ju ti awon olugbamu tio kin dibo loorekore. Awon igbiyanju lati pin awon aami laarin awon akoole opo nna ma se ipin ipa ati koni yori si ilosoke apapo ni ipa tabi se idiwo idinku iye ti a fi sori idibo.
 
 ![](\img_voting_rate_limiting.png)
 
-The charts above shows how a user's voting power decreases every time they vote and then regenerates as time passes without voting. These charts use nominal time unit and could be made to scale to any targeted voting rate. Note that voting power rapidly drops off during periods of continuous voting, and then slowly recovers.
+Awon ayaworan to wa loke nfihan bi agbara idibo ti olumulo se n lo sile nigbogbo igba ti won ba dibo ti o sin kunra si bi akoko se nkoja lai dibo. These charts use nominal time unit and could be made to scale to any targeted voting rate. Note that voting power rapidly drops off during periods of continuous voting, and then slowly recovers.
 
 Voting power is multiplied by a user's vesting tokens to determine how much share in the reward pool should be allocated to a given work item.
 
