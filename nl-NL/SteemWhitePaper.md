@@ -502,7 +502,7 @@ Laten we uitgaan van een initiële reserveratio van 200x. Als gevolg van fractio
 
 De blockchain kan een responspercentage vaststellen dat zegt dat elke duurzame toename van het gebruik binnen een korte periode (bijvoorbeeld 30 seconden) moet worden teruggebracht naar de doelcapaciteit. Een aanvaller die probeert het netwerk te spammen, mag de service voor normale gebruikers niet langer dan een minuut verstoren.
 
-De verlaging van de reserveratio moet snel en niet-lineair zijn om misbruik tegen te gaan, maar de verhoging van de reserveratio moet langzaam en lineair zijn. If the network adjusted in both directions in just 30 seconds then an attacker could pulse the network. A flood of transactions should be corrected in 30 seconds and then take a hour to return to their pre-attack levels. Under this model the attacker could flood the network for 30 seconds per hour or less than 1% of the time.
+De verlaging van de reserveratio moet snel en niet-lineair zijn om misbruik tegen te gaan, maar de verhoging van de reserveratio moet langzaam en lineair zijn. Als het netwerk in beide richtingen in slechts 30 seconden werd aangepast, dan kan een aanvaller het netwerk pulseren. Een overstroming aan transacties zou in 30 seconden moeten worden gecorrigeerd en vervolgens duurt het een uur om terug te keren naar het niveau van voor de aanval. Under this model the attacker could flood the network for 30 seconds per hour or less than 1% of the time.
 
 There must be a slow constant upward pressure on the reserve ratio any time network usage is below 50% until the network hits the maximum reserve ratio. The maximum reserve ratio determines the minimum required stake to flood the network in short bursts.
 
