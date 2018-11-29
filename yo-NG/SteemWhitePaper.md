@@ -291,11 +291,11 @@ Eto imoriya n se iwuri fun awon eniyan lati se iluwosi ni ona kan to se iwuri fu
 
 ### Awon Isanwojade
 
-When a post receives a payout it takes the form of 50% SMD and 50% SP. The Steem Power give the user increased voting and transaction power while the SMD gives the user an immediate benefit in a stable currency. As we've already discussed at length, both SP and SMD are designed to encourage long-term holding rather than short-term selling.
+Ti agbejade kan bagba isanwojade o ni ara aadọta ogorun ti SMD ati aadọta ogorun SP. Agbara Steemu fun olujulo ni ilosoke agbara to idibo ati idunadura nigbati SMD fun olumulo ni anfani kiakia ni owo tio yipada. Bi a ti jiroro lekunrere, SP ati SMD a se apeere won lati se iwuri fun igbamu ti igba gigun yala tita igba kukuru.
 
-# Consensus Algorithm
+# Alugoridiimu Ijabo
 
-Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+Ijabo je ona ti agbegbe kan wa si idamo gbogbo agbaye, gbigba kedere lori alaye kan. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
 
 The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
 
