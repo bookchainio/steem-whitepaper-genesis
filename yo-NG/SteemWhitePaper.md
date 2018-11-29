@@ -303,7 +303,7 @@ Agbeyewo to je koko ni pipinnu eri eleyi ti a gbalaye lati ja si gbangba. Awon e
 
 ## Igbinmo ni Steemu
 
-Nipa erongba, igbimo alugoridiimu ti Steemu gba jo alugoridiimu igbimo ri awon ile ise kakiri agbaye na gba. Awon eniyan to ni anfani vesitini ni ojo iwaju lori iye Steemu ndibo lati yan awon olukuluku ti o lowo si fifi eri si afipamo gbangba. Voting is weighted proportional to each individual's vested interest.
+Nipa erongba, igbimo alugoridiimu ti Steemu gba jo alugoridiimu igbimo ri awon ile ise kakiri agbaye na gba. Awon eniyan to ni anfani vesitini ni ojo iwaju lori iye Steemu ndibo lati yan awon olukuluku ti o lowo si fifi eri si afipamo gbangba. Awon ibo ni idogba si iye anfani vesitini olukuluku.
 
 In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
 
