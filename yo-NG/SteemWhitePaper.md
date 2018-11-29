@@ -295,9 +295,9 @@ Ti agbejade kan bagba isanwojade o ni ara aadọta ogorun ti SMD ati aadọta og
 
 # Alugoridiimu Ijabo
 
-Ijabo je ona ti agbegbe kan wa si idamo gbogbo agbaye, gbigba kedere lori alaye kan. Awon alugoridiimu pupo lowa ti awujo ti se agbekale fun dide ijabo nipa eni to ni kini. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
+Ijabo je ona ti agbegbe kan wa si idamo gbogbo agbaye, gbigba kedere lori alaye kan. Awon alugoridiimu pupo lowa ti awujo ti se agbekale fun dide ijabo nipa eni to ni kini. Gbogbo ijoba lori aye je ijobo alailegbe alugoridiimu nibi ti awon olugbe gba lati gbe pelu awon ofin kan ti a la sile ninu akoole ofin ati ilana orile ede kan. Awon ijoba dasile awon ile ejo, odajom ati awon amofin lati tunmo awon otito ati pese ipinnu ipari. Ni opo igba awon eniyan ngbe pelu ipinnu na to ba tie je asise.
 
-The algorithms used by cryptocurrencies provide a better way to reach consensus. Cryptographically signed testimony from individuals is recorded in a public ledger that establishes the absolute global order of events. A deterministic computer algorithm can then process this ledger to derive a universally accepted conclusion. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+Awon alugoridiimu ti awon cryptocurrency nlo npese ono to dara lati de ijoba. Awon ijerisi ti a fowosi nipase crypto lati odo awon olukuluku ninafipamo ninu iwe owo ti gbangba to se agbekale awon eto isele to gbajulol. Alugoridiimu ero tohun se ipinnu le yewo iwe owo lati gba ipari ti a gbal. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
 
 The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
 
