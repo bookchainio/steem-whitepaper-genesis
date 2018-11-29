@@ -504,7 +504,7 @@ De blockchain kan een responspercentage vaststellen dat zegt dat elke duurzame t
 
 De verlaging van de reserveratio moet snel en niet-lineair zijn om misbruik tegen te gaan, maar de verhoging van de reserveratio moet langzaam en lineair zijn. Als het netwerk in beide richtingen in slechts 30 seconden werd aangepast, dan kan een aanvaller het netwerk pulseren. Een overstroming aan transacties zou in 30 seconden moeten worden gecorrigeerd en vervolgens duurt het een uur om terug te keren naar het niveau van voor de aanval. Onder dit model kan de aanvaller het netwerk 30 seconden per uur of minder dan 1% van de tijd overspoelen.
 
-Er moet een langzame constante opwaartse druk op de reserveratio zijn wanneer het netwerkgebruik lager is dan 50% totdat het netwerk de maximale reserveratio bereikt. The maximum reserve ratio determines the minimum required stake to flood the network in short bursts.
+Er moet een langzame constante opwaartse druk op de reserveratio zijn wanneer het netwerkgebruik lager is dan 50% totdat het netwerk de maximale reserveratio bereikt. De maximale reserveratio bepaalt de minimaal vereiste inzet om het netwerk in korte tijd onder water te zetten.
 
 Any user with fewer than TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) will be unable to produce enough transactions to fill even a single block. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
 
