@@ -277,11 +277,11 @@ Ofin Zipf[^7] je nkan lara won ofin ti ati gbeyewo tosi ni idaniloju pe ooto ni 
 
 Mimu gajumo bi iwon ti iye, nigbana ni iye ti nkan kankan ti olukuluku lan pese nipa Ofin Zipf. To tunmo si, ti aba ni awon nkan millionu kan, nigbana ni awon ogorun to gbajumo julo yio se iluwosi ti ida meta ti apapo iye, awon egberun mewa to tele ida meta miiran, awon ẹgbẹrun o le ẹgbãsan to ku idameta to keyin. Iya ti akopi ti awon nkan n je idogba pelu log(n).
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+Ipa ti idibo yi ati pinoin isanwojade je lati pese awon ebun fun akoonu to dara nigbati an fi ere fun awon oludije kekeke fun iluwosi won ti iru gigun.
 
-The economic effect of this is similar to a lottery where people over-estimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone "wins something" plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+Ipa ti aje ti eleyi jo mo tete tita nibi ti awon eniyan man lero ju isesi won lo fun gigba ibo ati lati se ise pupi ju iye ti ere ti won reti ati mu iwon po apapo ise ti a se ni pa ise fun agbegbe. Ifidimule wipe gbogbo eniyan "je nkan" n ta lori oroinuokan pe awon ile tete man je ki awon eniyan ma ta tete. Loromiran, awon ere kekere man ranlowo lati rolagbara lekansi ero pe o sese lati je awon ere to tobi.
 
-#### Rewarding Parent Posts
+#### Fifi ere fun Awon Agbejade Obi
 
 Good discussion requires back and forth posting. When you reply to someone else, they get 50% of any payout you receive in that thread. This rule applies up to 6 levels deep. Starting a big discussion greatly rewards the parent poster.
 
