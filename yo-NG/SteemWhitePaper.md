@@ -305,9 +305,9 @@ Agbeyewo to je koko ni pipinnu eri eleyi ti a gbalaye lati ja si gbangba. Awon e
 
 Nipa erongba, igbimo alugoridiimu ti Steemu gba jo alugoridiimu igbimo ri awon ile ise kakiri agbaye na gba. Awon eniyan to ni anfani vesitini ni ojo iwaju lori iye Steemu ndibo lati yan awon olukuluku ti o lowo si fifi eri si afipamo gbangba. Awon ibo ni idogba si iye anfani vesitini olukuluku.
 
-In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
+Ni aye awon cryptocurrency, afipamo ti gbangba lan toka si bi *blockchain*. *blocku* kan je egbe awon idunadura ta buwolu.
 
-With Steem, block production is done in rounds. Each round 21 witnesses are selected to create and sign blocks of transactions. Nineteen (19) of these witnesses are selected by approval voting, one is selected by a computational proof-of-work, and one is timeshared by every witness that didn't make it into the top 19 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before.
+Peleu Steemu, ipese blocku je sise ni awon iyipo. Ni gbogbo iyipo awon eleri mokanlelogun lan mu lati seda ati buwolu awon blocku ti idunadura. Nineteen (19) of these witnesses are selected by approval voting, one is selected by a computational proof-of-work, and one is timeshared by every witness that didn't make it into the top 19 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before.
 
 This process is designed to provide the best reliability while ensuring that everyone has the potential to participate in block production regardless of whether they are popular enough to get voted to the top. People have three options to overcome censorship by the top 19 elected witnesses: patiently wait in line with everyone else not in the top 19, purchase enough computational power to solve a proof of work faster than others, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
 
