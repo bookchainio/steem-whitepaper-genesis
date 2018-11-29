@@ -273,7 +273,7 @@ Pinpin yi paaoa yio da lori apeere ti idibo awon olumulo, sugbon a fura wipe awo
 
 \\(awin ibo[x]^{2} / aropo(awon ibo[0...n]^{2})\\)
 
-Zipf's Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the \\(k^{th}\\)-ranked item will measure about 1/k of the first one.
+Ofin Zipf[^7] je nkan lara won ofin ti ati gbeyewo tosi ni idaniloju pe ooto ni to je apeere ti oniruru awon nkan iyalenu ti aye gangan dada. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the \\(k^{th}\\)-ranked item will measure about 1/k of the first one.
 
 Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf's Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
 
