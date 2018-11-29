@@ -275,7 +275,7 @@ Pinpin yi paaoa yio da lori apeere ti idibo awon olumulo, sugbon a fura wipe awo
 
 Ofin Zipf[^7] je nkan lara won ofin ti ati gbeyewo tosi ni idaniloju pe ooto ni to je apeere ti oniruru awon nkan iyalenu ti aye gangan dada. O so wipe ti aba bere fun awon nka akopo nla nipa titobi tai gbajumo, nkan ikeji ninu akopi yi yio je bi abo ti iwon titi akoko, eleketa yio je ida meta ti iwon ti akoko, ati beebe lol. Ni apapo, \\(k^{th}\\)- awon nkan ti a to yio won bi 1/k ti akoko.
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf's Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Mimu gajumo bi iwon ti iye, nigbana ni iye ti nkan kankan ti olukuluku lan pese nipa Ofin Zipf. To tunmo si, ti aba ni awon nkan millionu kan, nigbana ni awon ogorun to gbajumo julo yio se iluwosi ti ida meta ti apapo iye, awon egberun mewa to tele ida meta miiran, awon ẹgbẹrun o le ẹgbãsan to ku idameta to keyin. Iya ti akopi ti awon nkan n je idogba pelu log(n).
 
 The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
 
