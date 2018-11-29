@@ -297,7 +297,7 @@ Ti agbejade kan bagba isanwojade o ni ara aadọta ogorun ti SMD ati aadọta og
 
 Ijabo je ona ti agbegbe kan wa si idamo gbogbo agbaye, gbigba kedere lori alaye kan. Awon alugoridiimu pupo lowa ti awujo ti se agbekale fun dide ijabo nipa eni to ni kini. Gbogbo ijoba lori aye je ijobo alailegbe alugoridiimu nibi ti awon olugbe gba lati gbe pelu awon ofin kan ti a la sile ninu akoole ofin ati ilana orile ede kan. Awon ijoba dasile awon ile ejo, odajom ati awon amofin lati tunmo awon otito ati pese ipinnu ipari. Ni opo igba awon eniyan ngbe pelu ipinnu na to ba tie je asise.
 
-Awon alugoridiimu ti awon cryptocurrency nlo npese ono to dara lati de ijoba. Awon ijerisi ti a fowosi nipase crypto lati odo awon olukuluku ninafipamo ninu iwe owo ti gbangba to se agbekale awon eto isele to gbajulol. Alugoridiimu ero tohun se ipinnu le yewo iwe owo lati gba ipari ti a gbal. So long as the members of a community agree on the processing algorithm, the result of the algorithm is authoritative.
+Awon alugoridiimu ti awon cryptocurrency nlo npese ono to dara lati de ijoba. Awon ijerisi ti a fowosi nipase crypto lati odo awon olukuluku ninafipamo ninu iwe owo ti gbangba to se agbekale awon eto isele to gbajulol. Alugoridiimu ero tohun se ipinnu le yewo iwe owo lati gba ipari ti a gbal. Fun iye igba ti awon elegbe agbegbe kan ba gba alugoridiimu isise, ijade alugoridiiju na je ase.
 
 The primary consideration is determining what testimony is allowed to enter the public record. Systems should be designed to minimize the potential for censorship. Censorship on the public ledger is similar to preventing someone from voting in an election. In both cases an individual is prevented from impacting the global consensus.
 
