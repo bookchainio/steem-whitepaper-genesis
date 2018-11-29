@@ -502,9 +502,9 @@ Laten we uitgaan van een initiële reserveratio van 200x. Als gevolg van fractio
 
 De blockchain kan een responspercentage vaststellen dat zegt dat elke duurzame toename van het gebruik binnen een korte periode (bijvoorbeeld 30 seconden) moet worden teruggebracht naar de doelcapaciteit. Een aanvaller die probeert het netwerk te spammen, mag de service voor normale gebruikers niet langer dan een minuut verstoren.
 
-De verlaging van de reserveratio moet snel en niet-lineair zijn om misbruik tegen te gaan, maar de verhoging van de reserveratio moet langzaam en lineair zijn. Als het netwerk in beide richtingen in slechts 30 seconden werd aangepast, dan kan een aanvaller het netwerk pulseren. Een overstroming aan transacties zou in 30 seconden moeten worden gecorrigeerd en vervolgens duurt het een uur om terug te keren naar het niveau van voor de aanval. Under this model the attacker could flood the network for 30 seconds per hour or less than 1% of the time.
+De verlaging van de reserveratio moet snel en niet-lineair zijn om misbruik tegen te gaan, maar de verhoging van de reserveratio moet langzaam en lineair zijn. Als het netwerk in beide richtingen in slechts 30 seconden werd aangepast, dan kan een aanvaller het netwerk pulseren. Een overstroming aan transacties zou in 30 seconden moeten worden gecorrigeerd en vervolgens duurt het een uur om terug te keren naar het niveau van voor de aanval. Onder dit model kan de aanvaller het netwerk 30 seconden per uur of minder dan 1% van de tijd overspoelen.
 
-There must be a slow constant upward pressure on the reserve ratio any time network usage is below 50% until the network hits the maximum reserve ratio. The maximum reserve ratio determines the minimum required stake to flood the network in short bursts.
+Er moet een langzame constante opwaartse druk op de reserveratio zijn wanneer het netwerkgebruik lager is dan 50% totdat het netwerk de maximale reserveratio bereikt. The maximum reserve ratio determines the minimum required stake to flood the network in short bursts.
 
 Any user with fewer than TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) will be unable to produce enough transactions to fill even a single block. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
 
