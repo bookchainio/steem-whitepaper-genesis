@@ -283,9 +283,9 @@ Ipa ti aje ti eleyi jo mo tete tita nibi ti awon eniyan man lero ju isesi won lo
 
 #### Fifi ere fun Awon Agbejade Obi
 
-Good discussion requires back and forth posting. When you reply to someone else, they get 50% of any payout you receive in that thread. This rule applies up to 6 levels deep. Starting a big discussion greatly rewards the parent poster.
+Ijiroro daada nilo agbejade loju mejeji. Nigba to be fi esi fun elomiran, won gba ilaji ti agbejade yio wu ti okun re gba. Ofin yi kan de abala mefa jinle. Bibere ijiroro to tobi n fi ere fun olugbejade obi.
 
-Failure to properly nest your posts in the discussion is a good way to get down voted.
+Ikuna lati saaba awon agbejade ninu ijiroro je ona daada lati gba idibo wale.
 
 This incentive structure motivates people to contribute in a way that motivates others to get involved. It encourages people to ask good questions so that others can provide valuable answers.
 
