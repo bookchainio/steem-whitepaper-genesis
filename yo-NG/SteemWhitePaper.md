@@ -287,9 +287,9 @@ Ijiroro daada nilo agbejade loju mejeji. Nigba to be fi esi fun elomiran, won gb
 
 Ikuna lati saaba awon agbejade ninu ijiroro je ona daada lati gba idibo wale.
 
-This incentive structure motivates people to contribute in a way that motivates others to get involved. It encourages people to ask good questions so that others can provide valuable answers.
+Eto imoriya n se iwuri fun awon eniyan lati se iluwosi ni ona kan to se iwuri fun awon iyioku lati darapo. O gba awon eniyan ni iyanju lati bere awon ibeere to dara fun awon toku lati pese idahun to niye lori.
 
-### Payouts
+### Awon Isanwojade
 
 When a post receives a payout it takes the form of 50% SMD and 50% SP. The Steem Power give the user increased voting and transaction power while the SMD gives the user an immediate benefit in a stable currency. As we've already discussed at length, both SP and SMD are designed to encourage long-term holding rather than short-term selling.
 
