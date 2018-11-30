@@ -251,7 +251,7 @@ Apa kan to se pataki si didinku ilokulo ni iye-opin idibo. Awon olumulo olukuluk
 
 ![](\img_voting_rate_limiting.png)
 
-Awon ayaworan to wa loke nfihan bi agbara idibo ti olumulo se n lo sile nigbogbo igba ti won ba dibo ti o sin kunra si bi akoko se nkoja lai dibo. Awon ayaworan yi nlo eleyi to jo awon ibewo akoko ati pe o a le je ki o gbera si iye idibo yio wu ti a fojusi. Sakiyesi wipe agbara idibo man sure jawale ni awon akoko ti didibo lai dawoduro, yio wa padasipo diedie.
+Awon charti to wa loke nfihan bi agbara idibo ti olumulo se n lo sile nigbogbo igba ti won ba dibo ti o sin kunra si bi akoko se nkoja lai dibo. Awon charti yi nlo eleyi to jo awon ibewo akoko ati pe o a le je ki o gbera si iye idibo yio wu ti a fojusi. Sakiyesi wipe agbara idibo man sure jawale ni awon akoko ti didibo lai dawoduro, yio wa padasipo diedie.
 
 Agbara idibo man posi nipa awon aami vesitini ti olumulo lati mo iye ipin ninu akopo ere ti ama yasoto si nkan ise.
 
