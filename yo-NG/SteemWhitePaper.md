@@ -295,9 +295,9 @@ Ti agbejade kan bagba isanwojade o ni ara aadọta ogorun ti SMD ati aadọta og
 
 # Alugoridiimu Ijabo
 
-Ijabo je ona ti agbegbe kan wa si idamo gbogbo agbaye, gbigba kedere lori alaye kan. Awon alugoridiimu pupo lowa ti awujo ti se agbekale fun dide ijabo nipa eni to ni kini. Gbogbo ijoba lori aye je ijobo alailegbe alugoridiimu nibi ti awon olugbe gba lati gbe pelu awon ofin kan ti a la sile ninu akoole ofin ati ilana orile ede kan. Awon ijoba dasile awon ile ejo, odajom ati awon amofin lati tunmo awon otito ati pese ipinnu ipari. Ni opo igba awon eniyan ngbe pelu ipinnu na to ba tie je asise.
+Ijabo je ona ti agbegbe kan wa si idamo gbogbo agbaye, gbigba kedere lori alaye kan. Awon alugoridiimu pupo lowa ti awujo ti se agbekale fun dide ijabo nipa eni to ni kini. Gbogbo ijoba lori aye je ijobo alailegbe alugoridiimu nibi ti awon olugbe gba lati gbe pelu awon ofin kan ti a la sile ninu akoole ofin ati ilana orile ede kan. Awon ijoba dasile awon ile ejo, adajo ati awon amofin lati tunmo awon otito ati pese ipinnu ipari. Ni opo igba awon eniyan ngbe pelu ipinnu na to ba tie je asise.
 
-Awon alugoridiimu ti awon cryptocurrency nlo npese ono to dara lati de ijoba. Awon ijerisi ti a fowosi nipase crypto lati odo awon olukuluku ninafipamo ninu iwe owo ti gbangba to se agbekale awon eto isele to gbajulol. Alugoridiimu ero tohun se ipinnu le yewo iwe owo lati gba ipari ti a gbal. Fun iye igba ti awon elegbe agbegbe kan ba gba alugoridiimu isise, ijade alugoridiiju na je ase.
+Awon alugoridiimu ti awon cryptocurrency nlo npese ona to dara lati de ijoba. Awon ijerisi ti a fowosi nipase crypto lati odo awon olukuluku ninafipamo ninu iwe owo ti gbangba to se agbekale awon eto isele to gbajulol. Alugoridiimu ero tohun se ipinnu le yewo iwe owo lati gba ipari ti a gbal. Fun iye igba ti awon elegbe agbegbe kan ba gba alugoridiimu isise, ijade alugoridiiju na je ase.
 
 Agbeyewo to je koko ni pipinnu eri eleyi ti a gbalaye lati ja si gbangba. Awon eto nilo fifisipo lati dinku ipalara to fe sele. Idabobo fun ipalara lori iwe owo gbangba jo ai je ki enikan dibo ninu eto idibo. Ni ibi mejeji a dena enikan lati fi ip kun igbimo apapo.
 
