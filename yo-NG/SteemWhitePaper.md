@@ -271,9 +271,9 @@ Nkan lara awon koko ti eto ifiere funni ti Steemu je lati pese ijiroro to dara j
 
 Pinpin yi paapa yio da lori apeere ti idibo awon olumulo, sugbon a fura wipe awon topoju ti awon ere yio lo si awon akoonu to gbajumo julo. Steemu man won awon isanwojade to dogba pelu \\(n^{2}\\) ti iye Agbara Idibo Steemu fun agbejade kan. Loromiran, agbejade x yio gba isanwojade to dogba si:
 
-\\(awin ibo[x]^{2} / aropo(awon ibo[0...n]^{2})\\)
+\\(awon ibo[x]^{2} / aropo(awon ibo[0...n]^{2})\\)
 
-Ofin Zipf[^7] je nkan lara won ofin ti ati gbeyewo tosi ni idaniloju pe ooto ni to je apeere ti oniruru awon nkan iyalenu ti aye gangan dada. O so wipe ti aba bere fun awon nka akopo nla nipa titobi tai gbajumo, nkan ikeji ninu akopi yi yio je bi abo ti iwon titi akoko, eleketa yio je ida meta ti iwon ti akoko, ati beebe lol. Ni apapo, \\(k^{th}\\)- awon nkan ti a to yio won bi 1/k ti akoko.
+Ofin Zipf[^7] je nkan lara won ofin ti ati gbeyewo tosi ni idaniloju pe ooto ni to je apeere ti oniruru awon nkan iyalenu ti aye gangan dada. O so wipe ti aba bere fun awon nkan akopo nla nipa titobi tabi gbajumo, nkan ikeji ninu akopo yi yio je bi abo ti iwon titi akoko, eleketa yio je ida meta ti iwon ti akoko, ati beebe lo. Ni apapo, \\(k^{th}\\)-awon nkan ti a to yio won bi 1/k ti akoko.
 
 Mimu gajumo bi iwon ti iye, nigbana ni iye ti nkan kankan ti olukuluku lan pese nipa Ofin Zipf. To tunmo si, ti aba ni awon nkan millionu kan, nigbana ni awon ogorun to gbajumo julo yio se iluwosi ti ida meta ti apapo iye, awon egberun mewa to tele ida meta miiran, awon ẹgbẹrun o le ẹgbãsan to ku idameta to keyin. Iya ti akopi ti awon nkan n je idogba pelu log(n).
 
