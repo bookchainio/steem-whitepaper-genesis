@@ -247,7 +247,7 @@ Koko ti afi nko owo agbegbe ni lati gba opo "awon alakan ninu garawa". Lilo si a
 
 ### Fi Iye si Idibo to ni Opin
 
-Apa kan to se pataki si didinku ilokulo ni iye-opin idibo. Awon olumulo olukuluku le ka lason ati gbeyewo awon ohun ise to po ni ojo kan. Igbiyanju eyikeyi lati dibo die si ju lo je aami ti dasise ati ilokulo. Nipase didinku iye, awon olugbamu to dibo loorekore ni ibo kokan lati je kika fun kekere ju ti awon olugbamu tio kin dibo loorekore. Awon igbiyanju lati pin awon aami laarin awon akoole opo nna ma se ipin ipa ati koni yori si ilosoke apapo ni ipa tabi se idiwo idinku iye ti a fi sori idibo.
+Apa kan to se pataki si didinku ilokulo ni iye-opin idibo. Awon olumulo olukuluku le ka lason ati gbeyewo awon ohun ise to po ni ojo kan. Igbiyanju eyikeyi lati dibo die si ju lo je aami ti dasise ati ilokulo. Nipase didinku iye, awon olugbamu to dibo loorekore ni ibo kokan lati je kika fun kekere ju ti awon olugbamu tio kin dibo loorekore. Awon igbiyanju lati pin awon tokini laarin awon akoole opo na ma se ipin ipa ati koni yori si ilosoke apapo ni ipa tabi se idiwo idinku iye ti a fi sori idibo.
 
 ![](\img_voting_rate_limiting.png)
 
