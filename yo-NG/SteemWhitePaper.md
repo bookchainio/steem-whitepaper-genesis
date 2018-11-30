@@ -275,7 +275,7 @@ Pinpin yi paapa yio da lori apeere ti idibo awon olumulo, sugbon a fura wipe awo
 
 Ofin Zipf[^7] je nkan lara won ofin ti ati gbeyewo tosi ni idaniloju pe ooto ni to je apeere ti oniruru awon nkan iyalenu ti aye gangan dada. O so wipe ti aba bere fun awon nkan akopo nla nipa titobi tabi gbajumo, nkan ikeji ninu akopo yi yio je bi abo ti iwon titi akoko, eleketa yio je ida meta ti iwon ti akoko, ati beebe lo. Ni apapo, \\(k^{th}\\)-awon nkan ti a to yio won bi 1/k ti akoko.
 
-Mimu gajumo bi iwon ti iye, nigbana ni iye ti nkan kankan ti olukuluku lan pese nipa Ofin Zipf. To tunmo si, ti aba ni awon nkan millionu kan, nigbana ni awon ogorun to gbajumo julo yio se iluwosi ti ida meta ti apapo iye, awon egberun mewa to tele ida meta miiran, awon ẹgbẹrun o le ẹgbãsan to ku idameta to keyin. Iya ti akopi ti awon nkan n je idogba pelu log(n).
+Mimu gajumo bi iwon ti iye, nigbana ni iye ti nkan kankan ti olukuluku lan pese nipa Ofin Zipf. To tunmo si, ti aba ni awon nkan millionu kan, nigbana ni awon ogorun to gbajumo julo yio se iluwosi ti ida meta ti apapo iye, awon egberun mewa to tele ida meta miiran, awon ẹgbẹrun o le ẹgbãsan to ku idameta to keyin. Iye ti akopo ti awon nkan n je idogba pelu log(n).
 
 Ipa ti idibo yi ati pinoin isanwojade je lati pese awon ebun fun akoonu to dara nigbati an fi ere fun awon oludije kekeke fun iluwosi won ti iru gigun.
 
