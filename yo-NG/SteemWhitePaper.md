@@ -277,7 +277,7 @@ Ofin Zipf[^7] je nkan lara won ofin ti ati gbeyewo tosi ni idaniloju pe ooto ni 
 
 Mimu gajumo bi iwon ti iye, nigbana ni iye ti nkan kankan ti olukuluku lan pese nipa Ofin Zipf. To tunmo si, ti aba ni awon nkan millionu kan, nigbana ni awon ogorun to gbajumo julo yio se iluwosi ti ida meta ti apapo iye, awon egberun mewa to tele ida meta miiran, awon ẹgbẹrun o le ẹgbãsan to ku idameta to keyin. Iye ti akopo ti awon nkan n je idogba pelu log(n).
 
-Ipa ti idibo yi ati pinoin isanwojade je lati pese awon ebun fun akoonu to dara nigbati an fi ere fun awon oludije kekeke fun iluwosi won ti iru gigun.
+Ipa ti idibo yi ati pinpin isanwojade je lati pese awon ebun fun akoonu to dara nigbati an fi ere fun awon oludije kekeke fun iluwosi won ti iru gigun.
 
 Ipa ti aje ti eleyi jo mo tete tita nibi ti awon eniyan man lero ju isesi won lo fun gigba ibo ati lati se ise pupi ju iye ti ere ti won reti ati mu iwon po apapo ise ti a se ni pa ise fun agbegbe. Ifidimule wipe gbogbo eniyan "je nkan" n ta lori oroinuokan pe awon ile tete man je ki awon eniyan ma ta tete. Loromiran, awon ere kekere man ranlowo lati rolagbara lekansi ero pe o sese lati je awon ere to tobi.
 
