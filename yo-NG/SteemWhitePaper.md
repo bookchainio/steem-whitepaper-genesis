@@ -269,7 +269,7 @@ Charti yi fihan bi akoko ti idibo ma pari se n yipada ni idahun si awon idibo re
 
 Nkan lara awon koko ti eto ifiere funni ti Steemu je lati pese ijiroro to dara julo lori ero ayelujara. Ni odun kankan idamewa ti owo-idookoowo ti oja ti Steemu je pinpin fun awon olumulo tohun se ifilole, didibo lori, ati tohun se ijiroro akoonu. Ni titobi ti Bitcoin eleyi le po to millionu dola 1.75 ni ojojumo ti a n fun awon olufowosi.
 
-Pinpin yi paaoa yio da lori apeere ti idibo awon olumulo, sugbon a fura wipe awon topoju ti awon ere yio lo si awon akoonu to gbajumo julo. Steemu man won awon isanwojade to dogba pelu \\(n^{2}\\) ti iye Agbara Idibo Steemu fun agbejade kan. Loromiran, agbejade x yio gba isanwojade to dogba si:
+Pinpin yi paapa yio da lori apeere ti idibo awon olumulo, sugbon a fura wipe awon topoju ti awon ere yio lo si awon akoonu to gbajumo julo. Steemu man won awon isanwojade to dogba pelu \\(n^{2}\\) ti iye Agbara Idibo Steemu fun agbejade kan. Loromiran, agbejade x yio gba isanwojade to dogba si:
 
 \\(awin ibo[x]^{2} / aropo(awon ibo[0...n]^{2})\\)
 
