@@ -291,7 +291,7 @@ Eto imoriya n se iwuri fun awon eniyan lati se iluwosi ni ona kan to se iwuri fu
 
 ### Awon Isanwojade
 
-Ti agbejade kan bagba isanwojade o ni ara aadọta ogorun ti SMD ati aadọta ogorun SP. Agbara Steemu fun olujulo ni ilosoke agbara to idibo ati idunadura nigbati SMD fun olumulo ni anfani kiakia ni owo tio yipada. Bi a ti jiroro lekunrere, SP ati SMD a se apeere won lati se iwuri fun igbamu ti igba gigun yala tita igba kukuru.
+Ti agbejade kan bagba isanwojade o ni ara aadọta ogorun ti SMD ati aadọta ogorun SP. Agbara Steemu fun olumulo ni ilosoke agbara lati dibo ati idunadura nigbati SMD fun olumulo ni anfani kiakia ni owo tio yipada. Bi a ti jiroro lekunrere, SP ati SMD a se apeere won lati se iwuri fun igbamu ti igba gigun yala tita igba kukuru.
 
 # Alugoridiimu Ijabo
 
