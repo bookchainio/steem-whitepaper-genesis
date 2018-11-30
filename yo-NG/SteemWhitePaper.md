@@ -261,7 +261,7 @@ Agbara idibo man posi nipa awon aami vesitini ti olumulo lati mo iye ipin ninu a
 
 Lati se ipamo kuro lowo ilokulo, gbogbo awon isanwo jade ni idaduro ti ipin-tiawon apapo ti wakati merinlelogun lati igba ti a di ibo. Eleyi jeki awon olugbamu nla won le pa awon isanwojade nipa didibo ni iseju to pari siwaju awon oludibo yioku (ti atun pe ni awon alakan) ni anfani kan lati se lodi si ilokulo to fe sele. Leekan ti a ba ti se isanwojade fun olumulo gbogbo awon idibo yipada si odo. Ti ibo ba wole leyin isanwojade nigbayen ni ilana na bere lekansi.
 
-Charti yi fihan bi akoko ti idibo ma pari se n yipada ni idahun si awon idibo rere ati odi ti an lo. Awon ibo tuntun nfagun akoko isanwojade ni idogba mo bi won se tobi si ni igbeyewo pelu awon idibo to ti lo saaju. Ni ayika akoko ogoji opo awon ibo tuntun ni a papo to fa akoko idibo gun pele wakati mejila, awon ibo kekeke to tele ni ipa to kere lori akoko idibo.
+Charti yi fihan bi akoko ti idibo ma pari se n yipada ni idahun si awon idibo rere ati odi ti an lo. Awon ibo tuntun nfagun akoko isanwojade ni idogba mo bi won se tobi si ni igbeyewo pelu awon idibo to ti lo saaju. Ni ayika akoko ogoji opo awon ibo tuntun ni a papo to fa akoko idibo gun pelu wakati mejila, awon ibo kekeke to tele ni ipa to kere lori akoko idibo.
 
 ### Pinpin Isanwojade
 
