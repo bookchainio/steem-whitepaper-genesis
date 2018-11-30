@@ -299,7 +299,7 @@ Ijabo je ona ti agbegbe kan wa si idamo gbogbo agbaye, gbigba kedere lori alaye 
 
 Awon alugoridiimu ti awon cryptocurrency nlo npese ona to dara lati de ijoba. Awon ijerisi ti a fowosi nipase crypto lati odo awon olukuluku ni afipamo sinu iwe owo ti gbangba to se agbekale awon eto isele to gbajumo. Alugoridiimu ero tohun se ipinnu le yewo iwe owo lati gba ipari ti gbogbo aye gba. Fun iye igba ti awon elegbe agbegbe kan ba gba alugoridiimu isise, ijade alugoridiiju na je ase.
 
-Agbeyewo to je koko ni pipinnu eri eleyi ti a gbalaye lati ja si gbangba. Awon eto nilo fifisipo lati dinku ipalara to fe sele. Idabobo fun ipalara lori iwe owo gbangba jo ai je ki enikan dibo ninu eto idibo. Ni ibi mejeji a dena enikan lati fi ip kun igbimo apapo.
+Agbeyewo to je koko ni pipinnu eri eleyi ti a gbalaye lati ja si gbangba. Awon eto nilo fifisipo lati dinku ipalara to fe sele. Idabobo fun ipalara lori iwe owo gbangba jo ai je ki enikan dibo ninu eto idibo. Ni ibi mejeji a dena enikan lati ni ipa ninu igbimo apapo.
 
 ## Igbinmo ni Steemu
 
@@ -307,7 +307,7 @@ Nipa erongba, igbimo alugoridiimu ti Steemu gba jo alugoridiimu igbimo ri awon i
 
 Ni aye awon cryptocurrency, afipamo ti gbangba lan toka si bi *blockchain*. *blocku* kan je egbe awon idunadura ta buwolu.
 
-Peleu Steemu, ipese blocku je sise ni awon iyipo. Ni gbogbo iyipo awon eleri mokanlelogun lan mu lati seda ati buwolu awon blocku ti idunadura. Meedogun (19) awon eleri yi lan mu nipa idibo igbalaye, a yan ikan nipase aropo eri-ti-ise, ikan si je eleyi ti an pin pelu akoko pelu gbogbo awon eleri tiko wo awon meedogun to tayo ni idogba pelu ibo apapo. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before.
+Pelu Steemu, ipese blocku je sise ni awon iyipo. Ni gbogbo iyipo awon eleri mokanlelogun lan mu lati seda ati buwolu awon blocku ti idunadura. Meedogun (19) awon eleri yi lan mu nipa idibo igbalaye, a yan ikan nipase aropo eri-ti-ise, ikan si je eleyi ti an pin pelu akoko pelu gbogbo awon eleri tiko wo awon meedogun to tayo ni idogba pelu ibo apapo. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before.
 
 This process is designed to provide the best reliability while ensuring that everyone has the potential to participate in block production regardless of whether they are popular enough to get voted to the top. People have three options to overcome censorship by the top 19 elected witnesses: patiently wait in line with everyone else not in the top 19, purchase enough computational power to solve a proof of work faster than others, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
 
