@@ -279,11 +279,11 @@ Mimu gajumo bi iwon ti iye, nigbana ni iye ti nkan kankan ti olukuluku lan pese 
 
 Ipa ti idibo yi ati pinpin isanwojade je lati pese awon ebun fun akoonu to dara nigbati an fi ere fun awon oludije kekeke fun iluwosi won ti iru gigun.
 
-Ipa ti aje ti eleyi jo mo tete tita nibi ti awon eniyan man lero ju isesi won lo fun gigba ibo ati lati se ise pupi ju iye ti ere ti won reti ati mu iwon po apapo ise ti a se ni pa ise fun agbegbe. Ifidimule wipe gbogbo eniyan "je nkan" n ta lori oroinuokan pe awon ile tete man je ki awon eniyan ma ta tete. Loromiran, awon ere kekere man ranlowo lati rolagbara lekansi ero pe o sese lati je awon ere to tobi.
+Ipa ti aje ti eleyi jo mo tete tita nibi ti awon eniyan man lero ju isesi won lo fun gbigba ibo ati lati se ise pupo ju iye ti ere ti won reti ati mu iwon po apapo ise ti a se ni pa ise fun agbegbe. Ifidimule wipe gbogbo eniyan "je nkan" n ta lori oroinuokan pe awon ile tete man je ki awon eniyan ma ta tete. Loromiran, awon ere kekere man ranlowo lati rolagbara lekansi ero pe o sese lati je awon ere to tobi.
 
 #### Fifi ere fun Awon Agbejade Obi
 
-Ijiroro daada nilo agbejade loju mejeji. Nigba to be fi esi fun elomiran, won gba ilaji ti agbejade yio wu ti okun re gba. Ofin yi kan de abala mefa jinle. Bibere ijiroro to tobi n fi ere fun olugbejade obi.
+Ijiroro daada nilo agbejade loju mejeji. Nigba to ba fi esi fun elomiran, won ma gba ilaji eyikeyi agbejade yio wu ti okun re gba. Ofin yi kan de abala mefa jinle. Bibere ijiroro to tobi n fi ere fun olugbejade obi.
 
 Ikuna lati saaba awon agbejade ninu ijiroro je ona daada lati gba idibo wale.
 
