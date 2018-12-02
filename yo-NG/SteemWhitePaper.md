@@ -317,9 +317,9 @@ Nitori a mo awon eleri to wa lowolowo saaju, Steemu le seto awon eleri lati pese
 
 Awon blockchain ti eri ti ise ti ibile npapo ipese blocku pelu yiyanju ti eri ise kan. Nitoriwipe ilana fun yiyanju eri ti ise kan ngba iye akoko ti o ni asotele, abayori je akoko ipese blocku tio ni asotele. Steemu fojusi lati ni ibamu ati idaniloju ti ipese blocku ni gbogbo iseju meta pelu o fere jo aisi awon forki to fe sele.
 
-Lati se aseyori yi Steemu n yasoto ipese blocku kuro ni eri ti ise. When a miner solves a proof of work for Steem, they broadcast a transaction containing the work. The next scheduled witness includes the transaction into the blockchain. When the transaction is included the miner is added to the queue of miners scheduled to produce blocks. Each round one miner is popped from the queue and included in the active set of witnesses. The miner gets paid when they produce a block at the time they are scheduled.
+Lati se aseyori yi Steemu n yasoto ipese blocku kuro ni eri ti ise. Nigba ti eni ti oum wa isura ba se iyanju ti eri ti ise fun Steemu, won se igbahounsafefe ti idunadura kan to ni ise naa ninu. Eleri ti a seto to kan nfi idunadura naa sinu blockchain. Nigba ti a ba ti se afikun idunadura naa eni toun wa isura ni afikun si ika ti awon oluwaisura ti a seto lati pese awon blocku. Ni iyipo kankan eniti oun wa isura kan jada kuro ninu ila asi fikun awujo ti awon eleri to wa lowolowo. A san owo fun eniti oun wa isura nigba ti won ba pese blocku kan ni akoko ti a seto fun won.
 
-The difficulty of the proof of work doubles every time the queue length grows by 4. Because one miner is popped from the queue every round, and each round takes 21 \* 3 = 63 seconds, the difficulty automatically halves if no proof of work is found in no more than 21 \* 3 \* 4 = 252 seconds.
+Isoro ti eri ti ise n di meji ni gbogbo iga ti ila ba gun nipa merin. Because one miner is popped from the queue every round, and each round takes 21 \* 3 = 63 seconds, the difficulty automatically halves if no proof of work is found in no more than 21 \* 3 \* 4 = 252 seconds.
 
 ### Mining Rewards require Steem Power
 
