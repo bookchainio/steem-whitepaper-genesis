@@ -327,9 +327,9 @@ Leyin osu kinni, awon eni toun wa isura Steemu gba isanwo nipa lilo Agbara Steem
 
 Ipa sisan awon ere wiwa isura ni SP ni lati se idiwo fun awon toun wa isura lati ma lo iye owo toni lati se ipinnj ti koto je tabiliti ti wiwa isura. Awon eniyan kekere nio wa ni isokan lori iye ti owo ojo iwaju ma je. Eleyi tunmo si wipe isoro wiwa isura yio je wiwa lati owo awon to gbe isiro to ga ju lori iye ojo iwaju. Awon toun wa isura ti ko ni ife fun igba gigun ni ori pilatiformu a ni irewesi kuro ninu idije. Ni eleyi to gba julo eleyi tunmo siwipe awon isura ti wiwa isura ko jo wipe won a dawon so nu lori oja nitori wipe won a gbeeru fun awon olugbekele pilatiformu na ni igba gigun.
 
-### Mining Algorithm
+### Alugoridiimu Wiwa Isura
 
-The mining algorithm adopted by Steem requires the miner to have access to the private key of the account that will receive the rewards. This requirement has several important consequences. First it encourages optimization of elliptic curve signature verification algorithms needed by Steem. Second it makes it challenging to set up mining pools because the pool operator would have to share control over the reward with all of the "anonymous" miners. Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
+Alugoridiimu wiwa isura ti Steemu se amulo nilo eni toun wa isura lati ni agbakoja si kokoro ikoko ti akoole ti yio gba awon ere naa. This requirement has several important consequences. First it encourages optimization of elliptic curve signature verification algorithms needed by Steem. Second it makes it challenging to set up mining pools because the pool operator would have to share control over the reward with all of the "anonymous" miners. Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
 
 The following pseudocode describes how the proof-of-work hash value is calculated:
 
