@@ -329,7 +329,7 @@ Ipa sisan awon ere wiwa isura ni SP ni lati se idiwo fun awon toun wa isura lati
 
 ### Alugoridiimu Wiwa Isura
 
-Alugoridiimu wiwa isura ti Steemu se amulo nilo eni toun wa isura lati ni agbakoja si kokoro ikoko ti akoole ti yio gba awon ere naa. This requirement has several important consequences. First it encourages optimization of elliptic curve signature verification algorithms needed by Steem. Second it makes it challenging to set up mining pools because the pool operator would have to share control over the reward with all of the "anonymous" miners. Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
+Alugoridiimu wiwa isura ti Steemu se amulo nilo eni toun wa isura lati ni agbakoja si kokoro ikoko ti akoole ti yio gba awon ere naa. Oun tan beere yi ni opo awon esi to se pataki. Ni akoko o se iwuri fun imulo lekunrere ti awon alugoridiimu idanimo ibuwoluwe to yi ti Steemu nilo. Second it makes it challenging to set up mining pools because the pool operator would have to share control over the reward with all of the "anonymous" miners. Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
 
 The following pseudocode describes how the proof-of-work hash value is calculated:
 
