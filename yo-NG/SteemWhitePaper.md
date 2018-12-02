@@ -319,7 +319,7 @@ Awon blockchain ti eri ti ise ti ibile npapo ipese blocku pelu yiyanju ti eri is
 
 Lati se aseyori yi Steemu n yasoto ipese blocku kuro ni eri ti ise. Nigba ti eni ti oum wa isura ba se iyanju ti eri ti ise fun Steemu, won se igbahounsafefe ti idunadura kan to ni ise naa ninu. Eleri ti a seto to kan nfi idunadura naa sinu blockchain. Nigba ti a ba ti se afikun idunadura naa eni toun wa isura ni afikun si ika ti awon oluwaisura ti a seto lati pese awon blocku. Ni iyipo kankan eniti oun wa isura kan jada kuro ninu ila asi fikun awujo ti awon eleri to wa lowolowo. A san owo fun eniti oun wa isura nigba ti won ba pese blocku kan ni akoko ti a seto fun won.
 
-Isoro ti eri ti ise n di meji ni gbogbo iga ti ila ba gun nipa merin. Because one miner is popped from the queue every round, and each round takes 21 \* 3 = 63 seconds, the difficulty automatically halves if no proof of work is found in no more than 21 \* 3 \* 4 = 252 seconds.
+Isoro ti eri ti ise n di meji ni gbogbo iga ti ila ba gun nipa merin. Nitori a yo eniti oun wa isuea kan kuro lori ila ni gbogbo iyipo, ati iyipo kan gba 21\*3= 63 iseju, isoro na ma di ano lai nilo anikeni ti ao ba ri eri ise kankan to ju 21○*3*\*4 = 252 iseju.
 
 ### Mining Rewards require Steem Power
 
