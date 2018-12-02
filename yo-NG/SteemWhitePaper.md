@@ -311,11 +311,11 @@ Pelu Steemu, ipese blocku je sise ni awon iyipo. Ni iyipo kankan a ma n awon ele
 
 A se apeera ilana ti lati pese afeyinti to dara julo nigba ti an jeki gbogbo eniyan ni angani lati parapi ninu ipese blocku lai se akasi boya won gbajumo to lati ri ibo de okere. Awon eniyan ni asayan meta lati bori idabobo lati owo awon eleri okandinlogun ti a yan: duduro lori ila pelu suru pelu gbogbo awon eniyan to ku tio si ninh awon okandinlogun to wa loke, ra agbara aropo to to lati se aseyori eri ti ise kiakia ju awon yoku lo, tabi ra SP si lati satunse agbara idibo. Sisoro ni apapo, lilo idaboboje ona daada kan fun awon eleri ti a yan lati padanu ise won ati to jewipe, o fere ma je wahala gidi lori netiworki Steemu.
 
-Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
+Nitori a mo awon eleri to wa lowolowo saaju, Steemu le seto awon eleri lati pese awon blocku ni gbogbo iseju meta. Awon eleri nsopo ipese blocku won nipa ilana NTP. Isoto ti alugoridiimu yi ti je lilo fun networki Bitshares fun ju odun kan lo nibi ti a ti sayewo re wipe oni idaniloju.
 
-## Mining in Steem
+## Iwa-isura ninu Steemu
 
-Traditional proof of work blockchains combine block production with the solving of a proof of work. Because the process of solving a proof of work takes an unpredictable amount of time, the result is unpredictable block production times. Steem aims to have consistent and reliable block production every 3 seconds with almost no potential for forks.
+Awon blockchain ti eri ti ise ti ibile npapo ipese blocku pelu yiyanju ti eri ise kan. Because the process of solving a proof of work takes an unpredictable amount of time, the result is unpredictable block production times. Steem aims to have consistent and reliable block production every 3 seconds with almost no potential for forks.
 
 To achieve this Steem separates block production from solving of proof of work. When a miner solves a proof of work for Steem, they broadcast a transaction containing the work. The next scheduled witness includes the transaction into the blockchain. When the transaction is included the miner is added to the queue of miners scheduled to produce blocks. Each round one miner is popped from the queue and included in the active set of witnesses. The miner gets paid when they produce a block at the time they are scheduled.
 
