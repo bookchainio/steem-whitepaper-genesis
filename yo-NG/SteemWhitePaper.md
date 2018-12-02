@@ -323,7 +323,7 @@ Isoro ti eri ti ise n di meji ni gbogbo iga ti ila ba gun nipa merin. Nitori a y
 
 ### Awon ere wiwa isura nilo Agbara Steemu
 
-Leyin osu kinni, awon eni toun wa isura Steemu gba isanwo nipa lilo Agbara Steemu (SP). An so SP da omi nipa ilana odun-meji ti "gigbe agbara wale". This means that miners must wait for a long time, likely many months, before sufficient mining rewards have been powered down to allow them to recover the cost of electricity and computational resources. The powering down process discourages creation of mining pools because the pool operator would have to spread payouts over years.
+Leyin osu kinni, awon eni toun wa isura Steemu gba isanwo nipa lilo Agbara Steemu (SP). An so SP da omi nipa ilana odun-meji ti "gigbe agbara wale". Eleyi tunmo si wipe awon eni toun wa isura gbudo duro fun igba gigun, o le je opo osu, ki awon ere ti wiwa isura to to ti gbe agbara wale lati fi aye fun ipada bowasipo ti owo ero amunadoko ati awon oun elo isiro. The powering down process discourages creation of mining pools because the pool operator would have to spread payouts over years.
 
 The effect of paying mining rewards in SP is to prevent miners from using today's price to determine the pro tability of mining. Few people will agree on what the future price will be. This means mining difficulty will be driven by those who place the highest estimate on future value. Miners without a long-term interest in the platform will be discouraged from competing. Ultimately this means that the proceeds of mining are less likely to be dumped on the market because they will accrue to long-term believers in the platform.
 
