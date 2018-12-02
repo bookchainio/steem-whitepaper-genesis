@@ -331,15 +331,15 @@ Ipa sisan awon ere wiwa isura ni SP ni lati se idiwo fun awon toun wa isura lati
 
 Alugoridiimu wiwa isura ti Steemu se amulo nilo eni toun wa isura lati ni agbakoja si kokoro ikoko ti akoole ti yio gba awon ere naa. Oun tan beere yi ni opo awon esi to se pataki. Ni akoko o se iwuri fun imulo lekunrere ti awon alugoridiimu idanimo ibuwoluwe to yi ti Steemu nilo. Lekeji o je ko je ipenija lati seto idasile awon adagun wiwa isura nitori wipe onise adagun yio nilo lati pin idari lori ere pelu gbogbo awon toun wa isura tia ko damo. Leketa, o je ko le lati lo awon botnet nitori eni toun dari botnet yio nilo ati pin kokoro ikoko won fun gbogbo ero ti o ni ijamba.
 
-The following pseudocode describes how the proof-of-work hash value is calculated:
+Awon ajomo coodu to tele n se apeere bi a tin siro iye hash ti eri-ti-ise:
 
-    Let H    = Head Block ID
-    Let H2   = SHA256(H + NONCE)
-    Let PRI  = Producer Private Key
-    Let PUB  = Producer Public Key
-    Let S    = SIGN(PRI, SHA256(H))
-    Let K    = RECOVER_PUBLIC_KEY(H2, S)
-    Let POW  = SHA256(K)
+    Jeki H = ID ori Blocku
+    Jeki H2 = SHA256(H + NONCE)
+    Jeki PRI = Kokoro Ikoko Ti Olupese
+    Jeki PUB = Kokoro Gbangba Ti Olupese
+    Jeki S = Buwolu(PRI, SHA256(H))
+    Jeki K = Gbapada_Kokoro_Gbamgba(H2, S)
+    Jeki POW = SHA256(K)
     
 
 ### Botnet Resistant
