@@ -323,9 +323,9 @@ Isoro ti eri ti ise n di meji ni gbogbo iga ti ila ba gun nipa merin. Nitori a y
 
 ### Awon ere wiwa isura nilo Agbara Steemu
 
-Leyin osu kinni, awon eni toun wa isura Steemu gba isanwo nipa lilo Agbara Steemu (SP). An so SP da omi nipa ilana odun-meji ti "gigbe agbara wale". Eleyi tunmo si wipe awon eni toun wa isura gbudo duro fun igba gigun, o le je opo osu, ki awon ere ti wiwa isura to to ti gbe agbara wale lati fi aye fun ipada bowasipo ti owo ero amunadoko ati awon oun elo isiro. The powering down process discourages creation of mining pools because the pool operator would have to spread payouts over years.
+Leyin osu kinni, awon eni toun wa isura Steemu gba isanwo nipa lilo Agbara Steemu (SP). An so SP da omi nipa ilana odun-meji ti "gigbe agbara wale". Eleyi tunmo si wipe awon eni toun wa isura gbudo duro fun igba gigun, o le je opo osu, ki awon ere ti wiwa isura to to ti gbe agbara wale lati fi aye fun ipada bowasipo ti owo ero amunadoko ati awon oun elo isiro. Ilana ti gbigbe agbara wale nfa irewesi fun siseda awon adagun wiwa isura nitori onise adagun yio nilo lati pin awon isanwojade fun odun pupo.
 
-The effect of paying mining rewards in SP is to prevent miners from using today's price to determine the pro tability of mining. Few people will agree on what the future price will be. This means mining difficulty will be driven by those who place the highest estimate on future value. Miners without a long-term interest in the platform will be discouraged from competing. Ultimately this means that the proceeds of mining are less likely to be dumped on the market because they will accrue to long-term believers in the platform.
+Ipa sisan awon ere wiwa isura ni SP ni lati se idiwo fun awon toun wa isura lati ma lo iye owo toni lati se ipinnj ti koto je tabiliti ti wiwa isura. Awon eniyan kekere nio wa ni isokan lori iye ti owo ojo iwaju ma je. This means mining difficulty will be driven by those who place the highest estimate on future value. Miners without a long-term interest in the platform will be discouraged from competing. Ultimately this means that the proceeds of mining are less likely to be dumped on the market because they will accrue to long-term believers in the platform.
 
 ### Mining Algorithm
 
