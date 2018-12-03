@@ -364,7 +364,7 @@ Nitori iyipada blocku ori loorekoore ati netiworki ti ako le foju ri, fifiranse 
 
 Steemu nlo ni awon ona to jin lati fun awon eniyan ni ere fun sise iluwosi si netiworki na. Ole ma yori si ipese lati yi po ati bere owo lowo awon eniyan ni gbogbo igba ti won ba gbiyanju lati se atopo pelu agbegbe.
 
-Eto imo blockchain nisin daduro lori owo idunadura lati dina awuruju. Awon owo yi njiya gbogbo awon isoro ta mo pelu awon idunadura kekeke ati dina awon blockchain lati ma ni ilo fun awon idunadura ti owo kekere. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+Eto imo blockchain nisin daduro lori owo idunadura lati dina awuruju. Awon owo yi njiya gbogbo awon isoro ta mo pelu awon idunadura kekeke ati dina awon blockchain lati ma ni ilo fun awon idunadura ti owo kekere. Awon ero to daduro gbudo pese awon olumulo pelu irisi ti awon idunadura ofe ti won ba fe dije pelu awon iyoku to daduro lori nkan. Iwe yi se ila ona ti Steemu nlo lati yo ini fun awon owo ati nipari nse ipese one pupo ti ako le lo tele lori awon ero tio da lori nkankan.
 
 ## The Problem With Fees
 
