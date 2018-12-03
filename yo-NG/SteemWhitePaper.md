@@ -346,17 +346,17 @@ Awon ajomo coodu to tele n se apeere bi a tin siro iye hash ti eri-ti-ise:
 
 Opolopo awon owo eyo ti eri ti ise loman pada je pe awon botnet loma wa won. Botnet kan je apapo ti egberun tabi millionu ti awon ero to ti gbabode lati owo awon agbonaeburuwole. Awon agbonaeburuwole yi ji awon ohun elo ina ati isiro ti awon ero to ti gbabode lati wa isura awon tokini cryptocurrency.
 
-Steemu ni opolopo ini to se idina fun awon ole isiro yi lati ma ri ere. Awon onise botnet je ile ise toun wa ere ati toun ta awon oun elo ti won ji fun eni to kowole ju. Eleyi tunmo siwipe awon toun lo botnet nsanwo si agbara isiro ni ona kanna pelu enikan toun lo Amazon Ec2 sen se. The vesting requirement of Steem means that the capital spent on buying the resources of the botnet will be tied up for a long period of time during which the operator is exposed to price volatility.
+Steemu ni opolopo ini to se idina fun awon ole isiro yi lati ma ri ere. Awon onise botnet je ile ise toun wa ere ati toun ta awon oun elo ti won ji fun eni to kowole ju. Eleyi tunmo siwipe awon toun lo botnet nsanwo si agbara isiro ni ona kanna pelu enikan toun lo Amazon Ec2 sen se. Ibere vesitini ti Steemu tunmo siwipe owo idookoowo wo ti a na lori rira awon oun elo ti botnet a wa ni isomole fun igba gigun nigba ti onise wa ni ifihan ti iyipada owo.
 
-Another way that botnet operators are prevented from profiting is the requirement to distribute the private key to all compromised machines. If even one compromised computer is discovered, the operator could lose their coins.
+Ona miran ti awon onise botnet ba idiwo pade lati ma je ere ni ibere lati pin kokoro ikoko si gbogbo awon ero to ti gbabode. Ti a ba se awari ero kan soso to ti gbabode, onise le padanu awon owo eyo won.
 
-The last mitigation is the dependency on latency. Most botnets are comprised of computers with poor internet connections, these slow Internet connections will dramatically reduce the effectiveness of the computational resource.
+Idaduro to keyin da lori eleyi ti ako foju ri. Opo botnet lo je apapo awon ero komputa toni awon isopo mo ero ayelujara to talaka, awon isopo ero ayelujara yi toun lora yio dinku lona to yani lenu ipa ti oun ilo isiro.
 
-It should be more profitable and less risky for botnet operators to use their resources for other activities than mining STEEM.
+O ye koje opo ere ati ai ni ewu fun awon onise botnet lati lo awon oun elo won fun awon ise miran ju wiwa isura STEEMU lo.
 
-### Mining Pool Resistant
+### Idiwo Adagun Wiwa Isura
 
-Miners have a total of 3 seconds to receive a block, solve the proof of work, and get the transaction to the next block producer. Much of this time will consist of network latency which means that it is critical for miners to be well connected to the network to make the most effective use of their computational resources.
+Awon toun wa isura ni iseju meta lati gba blocku, yanju eri ti ise, ati gbe idunadura na si blocku olupese to tele. Much of this time will consist of network latency which means that it is critical for miners to be well connected to the network to make the most effective use of their computational resources.
 
 Because of the constantly changing head block and network latency, forwarding a template for mining a specific block to participants of a mining pool adds additional network latency and reduces efficiency of pooled mining significantly.
 
