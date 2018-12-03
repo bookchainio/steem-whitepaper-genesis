@@ -342,7 +342,7 @@ Awon ajomo coodu to tele n se apeere bi a tin siro iye hash ti eri-ti-ise:
     Jeki POW = SHA256(K)
     
 
-### Botnet Resistant
+### Didena Botnet
 
 Many proof of work coins end up being mined by botnets. A botnet is a collection of thousands or millions of machines that have been compromised by hackers. These hackers steal the computational and electrical resources of compromised machines to mine cryptocurrency tokens.
 
