@@ -356,15 +356,15 @@ O ye koje opo ere ati ai ni ewu fun awon onise botnet lati lo awon oun elo won f
 
 ### Idiwo Adagun Wiwa Isura
 
-Awon toun wa isura ni iseju meta lati gba blocku, yanju eri ti ise, ati gbe idunadura na si blocku olupese to tele. Much of this time will consist of network latency which means that it is critical for miners to be well connected to the network to make the most effective use of their computational resources.
+Awon toun wa isura ni iseju meta lati gba blocku, yanju eri ti ise, ati gbe idunadura na si blocku olupese to tele. Opo akoko yi yio ni netiworki ti ako fojuri to tunmo siwipe o se pataki fun awon toun wa isura sopo daada pelu netiworki lati lo lona to nipa julo awon oun elo isiro won.
 
-Because of the constantly changing head block and network latency, forwarding a template for mining a specific block to participants of a mining pool adds additional network latency and reduces efficiency of pooled mining significantly.
+Nitori iyipada blocku ori loorekoore ati netiworki ti ako le foju ri, fifiranse siwaju awose fun wiwa isura ti blocku kan pato si awon olukopa ti adagun wiwa isura kan nse afikun netiworki ti ako foju ri si ati ndikun ipa ti adagun iwa isura gan.
 
-# Eliminating Transaction Fees
+# Yiyokuro Awon Owo Idunadura
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Steemu nlo ni awon ona to jin lati fun awon eniyan ni ere fun sise iluwosi si netiworki na. Ole ma yori si ipese lati yi po ati bere owo lowo awon eniyan ni gbogbo igba ti won ba gbiyanju lati se atopo pelu agbegbe.
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+Eto imo blockchain nisin daduro lori owo idunadura lati dina awuruju. Awon owo yi njiya gbogbo awon isoro ta mo pelu awon idunadura kekeke ati dina awon blockchain lati ma ni ilo fun awon idunadura ti owo kekere. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
 
 ## The Problem With Fees
 
