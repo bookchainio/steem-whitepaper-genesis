@@ -366,7 +366,7 @@ Steemu nlo ni awon ona to jin lati fun awon eniyan ni ere fun sise iluwosi si ne
 
 Eto imo blockchain nisin daduro lori owo idunadura lati dina awuruju. Awon owo yi njiya gbogbo awon isoro ta mo pelu awon idunadura kekeke ati dina awon blockchain lati ma ni ilo fun awon idunadura ti owo kekere. Awon ero to daduro gbudo pese awon olumulo pelu irisi ti awon idunadura ofe ti won ba fe dije pelu awon iyoku to daduro lori nkan. Iwe yi se ila ona ti Steemu nlo lati yo ini fun awon owo ati nipari nse ipese one pupo ti ako le lo tele lori awon ero tio da lori nkankan.
 
-## The Problem With Fees
+## Isoro Pelu Awon Owo
 
 Blockchains are decentralized networks where all transactions are broadcast to all peers. Every so often a block is produced that includes some or all of the pending transactions. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
 
