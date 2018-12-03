@@ -344,9 +344,9 @@ Awon ajomo coodu to tele n se apeere bi a tin siro iye hash ti eri-ti-ise:
 
 ### Didena Botnet
 
-Opolopo awon owo eyo ti eri ti ise loman pada je pe awon botnet loma wa won. A botnet is a collection of thousands or millions of machines that have been compromised by hackers. These hackers steal the computational and electrical resources of compromised machines to mine cryptocurrency tokens.
+Opolopo awon owo eyo ti eri ti ise loman pada je pe awon botnet loma wa won. Botnet kan je apapo ti egberun tabi millionu ti awon ero to ti gbabode lati owo awon agbonaeburuwole. Awon agbonaeburuwole yi ji awon ohun elo ina ati isiro ti awon ero to ti gbabode lati wa isura awon tokini cryptocurrency.
 
-Steem has many properties that prevent these computational thieves from profiting. Botnet operators are profit seeking enterprises and typically sell their stolen resources to the highest bidder. This means that those who utilize a botnet pay for the computational power in the same way that someone who uses Amazon EC2 does. The vesting requirement of Steem means that the capital spent on buying the resources of the botnet will be tied up for a long period of time during which the operator is exposed to price volatility.
+Steemu ni opolopo ini to se idina fun awon ole isiro yi lati ma ri ere. Awon onise botnet je ile ise toun wa ere ati toun ta awon oun elo ti won ji fun eni to kowole ju. Eleyi tunmo siwipe awon toun lo botnet nsanwo si agbara isiro ni ona kanna pelu enikan toun lo Amazon Ec2 sen se. The vesting requirement of Steem means that the capital spent on buying the resources of the botnet will be tied up for a long period of time during which the operator is exposed to price volatility.
 
 Another way that botnet operators are prevented from profiting is the requirement to distribute the private key to all compromised machines. If even one compromised computer is discovered, the operator could lose their coins.
 
