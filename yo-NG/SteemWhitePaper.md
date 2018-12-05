@@ -346,11 +346,11 @@ Awon ajomo coodu to tele n se apeere bi a tin siro iye hash ti eri-ti-ise:
 
 Opolopo awon owo eyo ti eri ti ise loman pada je pe awon botnet loma wa won. Botnet kan je apapo ti egberun tabi millionu ti awon ero to ti gbabode lati owo awon agbonaeburuwole. Awon agbonaeburuwole yi ji awon ohun elo ina ati isiro ti awon ero to ti gbabode lati wa isura awon tokini cryptocurrency.
 
-Steemu ni opolopo ini to se idina fun awon ole isiro yi lati ma ri ere. Awon onise botnet je ile ise toun wa ere ati toun ta awon oun elo ti won ji fun eni to kowole ju. Eleyi tunmo si wipe awon toun lo botnet nsanwo si agbara isiro ni ona kanna pelu enikan toun lo Amazon EC2 sen se. Ibere vesitini ti Steemu tunmo siwipe owo idookoowo wo ti a na lori rira awon oun elo ti botnet a wa ni isomole fun igba gigun nigba ti onise wa ni ifihan ti iyipada owo.
+Steemu ni opolopo ini to se idina fun awon ole isiro yi lati ma ri ere. Awon onise botnet je ile ise toun wa ere ati toun ta awon oun elo ti won ji fun eni to kowole ju. Eleyi tunmo si wipe awon toun lo botnet nsanwo si agbara isiro ni ona kanna pelu enikan toun lo Amazon EC2 sen se. Dandan vesitini ti Steemu tunmo si wipe owo idookoowo ti won na lori rira awon oun elo ti botnet a wa ni isomole fun igba pipe nigba ti onise wa ni ifihan si iyipada owo.
 
-Ona miran ti awon onise botnet ba idiwo pade lati ma je ere ni ibere lati pin kokoro ikoko si gbogbo awon ero to ti gbabode. Ti a ba se awari ero kan soso to ti gbabode, onise le padanu awon owo eyo won.
+Ona miran ti awon onise botnet ba idiwo pade lati ma je ere ni sise dandan lati pin kokoro ikoko si gbogbo awon ero to ti gbabode. Ti a ba se awari ero kan soso to ti gbabode, onise le padanu awon owo eyo won.
 
-Idaduro to keyin da lori eleyi ti ako foju ri. Opo botnet lo je apapo awon ero komputa toni awon isopo mo ero ayelujara to talaka, awon isopo ero ayelujara yi toun lora yio dinku lona to yani lenu ipa ti oun ilo isiro.
+Idaduro to keyin da lori eleyi ti ako foju ri. Opo botnet lo je apapo awon ero komputa toni awon isopo mo ero ayelujara ti ko dara, awon isopo ero ayelujara yi toun lora yio dinku lona to yani lenu ipa ti oun lo isiro.
 
 O ye koje opo ere ati ai ni ewu fun awon onise botnet lati lo awon oun elo won fun awon ise miran ju wiwa isura STEEMU lo.
 
