@@ -329,7 +329,7 @@ Ipa sisan awon ere wiwa isura ni SP ni lati se idiwo fun awon toun wa isura lati
 
 ### Alugoridiimu Wiwa Isura
 
-Alugoridiimu wiwa isura ti Steemu nilo ki eni toun wa isura lati ni agbakoja si kokoro ikoko ti akoole ti yio gba awon ere naa. Oun tan beere yi ni opo awon esi to se pataki. Ni akoko o se iwuri fun imulo lekunrere ti awon alugoridiimu idanimo ibuwoluwe to yi ti Steemu nilo. Lekeji o je ko je ipenija lati seto idasile awon adagun wiwa isura nitori wipe onise adagun yio nilo lati pin idari lori ere pelu gbogbo awon toun wa isura tia ko damo. Leketa, o je ko le lati lo awon botnet nitori eni toun dari botnet yio nilo ati pin kokoro ikoko won fun gbogbo ero ti o ni ijamba.
+Alugoridiimu wiwa isura ti Steemu nilo ki eni toun wa isura lati ni agbakoja si kokoro ikoko ti akoole ti yio gba awon ere naa. Oun tan beere yi ni opo awon esi to se pataki. Ni akoko o se iwuri fun imulo lekunrere ti awon alugoridiimu idanimo ibuwolu ti Steemu nilo. Lekeji o je ko je ipenija lati seto idasile awon adagun wiwa isura nitori wipe onise adagun yio nilo lati pin idari lori ere pelu gbogbo awon toun wa isura tia "ko damo". Leketa, o je ko le lati lo awon botnet nitori eni toun dari botnet yio nilo ati pin kokoro ikoko won fun gbogbo ero ti o ni ijamba.
 
 Awon ajomo coodu to tele n se apeere bi a tin siro iye hash ti eri-ti-ise:
 
@@ -338,7 +338,7 @@ Awon ajomo coodu to tele n se apeere bi a tin siro iye hash ti eri-ti-ise:
     Jeki PRI = Kokoro Ikoko Ti Olupese
     Jeki PUB = Kokoro Gbangba Ti Olupese
     Jeki S = Buwolu(PRI, SHA256(H))
-    Jeki K = Gbapada_Kokoro_Gbamgba(H2, S)
+    Jeki K = Gbapada_Kokoro_Gbangba(H2, S)
     Jeki POW = SHA256(K)
     
 
@@ -346,7 +346,7 @@ Awon ajomo coodu to tele n se apeere bi a tin siro iye hash ti eri-ti-ise:
 
 Opolopo awon owo eyo ti eri ti ise loman pada je pe awon botnet loma wa won. Botnet kan je apapo ti egberun tabi millionu ti awon ero to ti gbabode lati owo awon agbonaeburuwole. Awon agbonaeburuwole yi ji awon ohun elo ina ati isiro ti awon ero to ti gbabode lati wa isura awon tokini cryptocurrency.
 
-Steemu ni opolopo ini to se idina fun awon ole isiro yi lati ma ri ere. Awon onise botnet je ile ise toun wa ere ati toun ta awon oun elo ti won ji fun eni to kowole ju. Eleyi tunmo siwipe awon toun lo botnet nsanwo si agbara isiro ni ona kanna pelu enikan toun lo Amazon Ec2 sen se. Ibere vesitini ti Steemu tunmo siwipe owo idookoowo wo ti a na lori rira awon oun elo ti botnet a wa ni isomole fun igba gigun nigba ti onise wa ni ifihan ti iyipada owo.
+Steemu ni opolopo ini to se idina fun awon ole isiro yi lati ma ri ere. Awon onise botnet je ile ise toun wa ere ati toun ta awon oun elo ti won ji fun eni to kowole ju. Eleyi tunmo si wipe awon toun lo botnet nsanwo si agbara isiro ni ona kanna pelu enikan toun lo Amazon EC2 sen se. Ibere vesitini ti Steemu tunmo siwipe owo idookoowo wo ti a na lori rira awon oun elo ti botnet a wa ni isomole fun igba gigun nigba ti onise wa ni ifihan ti iyipada owo.
 
 Ona miran ti awon onise botnet ba idiwo pade lati ma je ere ni ibere lati pin kokoro ikoko si gbogbo awon ero to ti gbabode. Ti a ba se awari ero kan soso to ti gbabode, onise le padanu awon owo eyo won.
 
