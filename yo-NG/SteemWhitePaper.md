@@ -368,7 +368,7 @@ Eto imo blockchain nisin daduro lori owo idunadura lati dina awuruju. Awon owo y
 
 ## Isoro Pelu Awon Owo
 
-Awon blockchain je awon netiworki ti ko da lori nkankan nibi ti gbogbo awon idunadura je agbejade si gbogbo awon egbe. Loorekore blocku kan man jade to ni die tabi gbogbo awon idunadura tio ti lo. Gbogbo awon blockchain gbudo wa ojutu lati dina awon olumulo onirira lati ma je basubasu agbara netiworki to wa nile pelu awon idunadura tio lowolori. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+Awon blockchain je awon netiworki ti ko da lori nkankan nibi ti gbogbo awon idunadura je agbejade si gbogbo awon egbe. Loorekore blocku kan man jade to ni die tabi gbogbo awon idunadura tio ti lo. Gbogbo awon blockchain gbudo wa ojutu lati dina awon olumulo onirira lati ma je basubasu agbara netiworki to wa nile pelu awon idunadura tio lowolori. Awon idunadura yi tio ni iwulo le dina awon idunadura moran to wulo lati ma je aseyori tosi ma ba netiworki je lakotan.
 
 The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn't use email.
 
