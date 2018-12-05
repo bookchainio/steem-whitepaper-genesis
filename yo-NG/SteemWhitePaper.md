@@ -356,19 +356,19 @@ O ye koje opo ere ati ai ni ewu fun awon onise botnet lati lo awon oun elo won f
 
 ### Idiwo Adagun Wiwa Isura
 
-Awon toun wa isura ni iseju meta lati gba blocku, yanju eri ti ise, ati gbe idunadura na si blocku olupese to tele. Opo akoko yi yio ni netiworki ti ako fojuri to tunmo siwipe o se pataki fun awon toun wa isura sopo daada pelu netiworki lati lo lona to nipa julo awon oun elo isiro won.
+Awon toun wa isura ni iseju meta lati gba blocku, yanju eri ti ise, ati gbe idunadura na si blocku olupese to tele. Opo akoko yi yio ni netiworki ti ako fojuri to tunmo si wipe o se pataki fun awon toun wa isura sopo daada pelu netiworki lati lo lona to nipa julo awon oun elo isiro won.
 
-Nitori iyipada blocku ori loorekoore ati netiworki ti ako le foju ri, fifiranse siwaju awose fun wiwa isura ti blocku kan pato si awon olukopa ti adagun wiwa isura kan nse afikun netiworki ti ako foju ri si ati ndikun ipa ti adagun iwa isura gan.
+Nitori iyipada blocku ori loorekoore ati netiworki ti ako le foju ri, fifi awose ranse fun wiwa isura ti blocku kan pato si awon olukopa ti adagun wiwa isura kan nse afikun netiworki ti ako foju ri si ati ndikun ipa ti adagun iwa isura gan.
 
 # Yiyokuro Awon Owo Idunadura
 
 Steemu nlo ni awon ona to jin lati fun awon eniyan ni ere fun sise iluwosi si netiworki na. Ole ma yori si ipese lati yi po ati bere owo lowo awon eniyan ni gbogbo igba ti won ba gbiyanju lati se atopo pelu agbegbe.
 
-Eto imo blockchain nisin daduro lori owo idunadura lati dina awuruju. Awon owo yi njiya gbogbo awon isoro ta mo pelu awon idunadura kekeke ati dina awon blockchain lati ma ni ilo fun awon idunadura ti owo kekere. Awon ero to daduro gbudo pese awon olumulo pelu irisi ti awon idunadura ofe ti won ba fe dije pelu awon iyoku to daduro lori nkan. Iwe yi se ila ona ti Steemu nlo lati yo ini fun awon owo ati nipari nse ipese one pupo ti ako le lo tele lori awon ero tio da lori nkankan.
+Eto imo blockchain nisin daduro lori owo idunadura lati dina awuruju. Awon owo yi njiya gbogbo awon isoro ta mo pelu awon idunadura kekeke ati dina awon blockchain lati ma ni ilo fun awon idunadura ti owo kekere. Awon ero to daduro gbudo pese awon olumulo pelu irisi ti awon idunadura ofe ti won ba fe dije pelu awon iyoku to daduro lori nkan. Iwe yi pese ilana ti Steemu nlo lati yo ini fun awon owo ati nipari nse ipese pupo ti ako le lo tele lori awon ero tio da lori nkankan.
 
 ## Isoro Pelu Awon Owo
 
-Awon blockcain je awon netiworki ti ko da lori nkankan nibi ti gbogbo awon idunadura je agbejade si gbogbo awon egbe. Loorekore blocku kan man jade to ni die tabi gbogbo awon idunadura tio ti lo. Gbogbo awon blockchain gbudo wa ojutu lati dina awon olumulo onirira lati ma je basubasu agbara netiworki to wa nile pelu awon idunadura tio lowolori. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+Awon blockchain je awon netiworki ti ko da lori nkankan nibi ti gbogbo awon idunadura je agbejade si gbogbo awon egbe. Loorekore blocku kan man jade to ni die tabi gbogbo awon idunadura tio ti lo. Gbogbo awon blockchain gbudo wa ojutu lati dina awon olumulo onirira lati ma je basubasu agbara netiworki to wa nile pelu awon idunadura tio lowolori. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
 
 The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn't use email.
 
