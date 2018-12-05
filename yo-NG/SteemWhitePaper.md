@@ -317,9 +317,9 @@ Nitori a mo awon eleri to wa lowolowo saaju, Steemu le seto awon eleri lati pese
 
 Awon blockchain ti eri ti ise ti ibile npapo ipese blocku pelu yiyanju ti eri ise kan. Nitoripe ilana fun yiyanju eri ti ise kan ngba iye akoko ti o ni asotele, abayori je akoko ipese blocku tio ni asotele. Steemu fojusi lati ni ibamu ati idaniloju ti ipese blocku ni gbogbo iseju meta pelu o fere jo aisi awon forki to fe sele.
 
-Lati se aseyori yi Steemu n yasoto ipese blocku kuro ni eri ti ise. Nigba ti eni ti oum wa isura ba se iyanju ti eri ti ise fun Steemu, won se igbahounsafefe ti idunadura kan to ni ise naa ninu. Eleri ti a seto to kan nfi idunadura naa sinu blockchain. Nigba ti a ba ti se afikun idunadura naa eni toun wa isura ni afikun si ika ti awon oluwaisura ti a seto lati pese awon blocku. Ni iyipo kankan eniti oun wa isura kan jada kuro ninu ila asi fikun awujo ti awon eleri to wa lowolowo. A san owo fun eniti oun wa isura nigba ti won ba pese blocku kan ni akoko ti a seto fun won.
+Lati se aseyori yi Steemu n yasoto ipese blocku kuro ni eri ti ise. Nigba ti eni ti oun wa isura ba se iyanju ti eri ti ise fun Steemu, won se igbohun si afefe ti idunadura kan to ni ise naa ninu. Eleri ti a seto to kan nfi idunadura naa sinu blockchain. Nigba ti a ba ti se afikun idunadura naa eni toun wa isura ni afikun si ila ti awon oluwaisura ti a seto lati pese awon blocku. Ni iyipo kankan eniti oun wa isura kan jade kuro ninu ila asi fikun awujo ti awon eleri to wa lowolowo. A san owo fun eniti oun wa isura nigba ti won ba pese blocku kan ni akoko ti a seto fun won.
 
-Isoro ti eri ti ise n di meji ni gbogbo iga ti ila ba gun nipa merin. Nitori a yo eniti oun wa isuea kan kuro lori ila ni gbogbo iyipo, ati iyipo kan gba 21\*3= 63 iseju, isoro na ma di ano lai nilo anikeni ti ao ba ri eri ise kankan to ju 21○*3*\*4 = 252 iseju.
+Isoro ti eri ti ise n di meji ni gbogbo igba ti ila ba gun nipa merin. Nitori a yo eniti oun wa isuea kan kuro lori ila ni gbogbo iyipo, ati iyipo kan gba 21\*3= 63 iseju, isoro na ma di ano lai nilo anikeni ti ao ba ri eri ise kankan to ju 21○*3*\*4 = 252 iseju.
 
 ### Awon ere wiwa isura nilo Agbara Steemu
 
