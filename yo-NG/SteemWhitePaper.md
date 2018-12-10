@@ -393,7 +393,7 @@ Isanwo yio wu nseda idiwo si abawole fun awon olumulo titun. Ki enikan tole se a
 
 ### Yiyipada Awon Isanwo
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Ni igba to gun netiworki kan gbudo yipada awon isanwo. Eleyi le sele yala nipase ilosoke ni iye ti tokini tabi nipa igbera kan ni ipa. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
 
 ### Sybil Attacks
 
