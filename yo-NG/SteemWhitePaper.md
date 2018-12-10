@@ -389,9 +389,9 @@ Awon eto bi Bitshares, Nxt, Ripple, Counter Party ati Stellar gbogbo e n jeki aw
 
 ### Isanwo je Idiwo kan fun Abawole
 
-Isanwo yio wu nseda idiwo si abawole fun awon olumulo titun. Ki enikan tole se asero pelu Ethereum won gbudo ni awon tokini Eth. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Isanwo yio wu nseda idiwo si abawole fun awon olumulo titun. Ki enikan tole se asero pelu Ethereum won gbudo ni awon tokini Eth. Enikeni toba fe ko ero to daduro lori Ethereum gbudo sun iye owo si awon olubara won. Rira owo crypto kan je ise tio rorun kan kosi kin mogbonwa fun awon iye to kere ju $10. Eleyi tunmo si wipe awon olumulo titun to fe gbeyewo ero to daduro titun kan gbudo gbagbo lakoko lati yapa pelu $10.
 
-### Changing Fees
+### Yiyipada Awon Isanwo
 
 Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
 
