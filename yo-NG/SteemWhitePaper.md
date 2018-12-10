@@ -383,13 +383,13 @@ Ro apeere ti awon aaye ayelujara tan lo lojojumo ba nbeere owo lowowa ni gbogbo 
 > 
 > *- Amo Shirky[^8]*
 
-Ninu aye awon isanwo inawo, awon owo kekeke je itewogba nitori iye ti idunadura na ga gun ni igbeyewo pelu owo ti a beere, ati olubara ti se ipinnu lati ra. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+Ninu aye awon isanwo inawo, awon owo kekeke je itewogba nitori iye ti idunadura na ga gun ni igbeyewo pelu owo ti a beere, ati olubara ti se ipinnu lati ra. Ninu aye ifiyesi ti awon ero blockchain ga ju awon isanwo inawo lasun lo ati oni opo awon idunadura ti a nilo eleyi ti awon owo re koje itewogba lowo awon olumulo.
 
-Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn't matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
+Awon eto bi Bitshares, Nxt, Ripple, Counter Party ati Stellar gbogbo e n jeki awon olumulo gbe awon ibeere to ni opin lori blockchain gbogbo won lo si nbeere owo kekere kan lowo awon olumulo lati se ise yi. Tobaya ti olumulo ba fe fagile ibeere e, an beere owo miran lowo e. Awon eto bi Ethereum ngbe awon isanwo-kekeke losi abala miran to tun yato: bibeere nipa isiro kokan. Gbogbo awon eto yi lon tiraka lati fa awon ojulowo olumulo titun mora fun awon idi kanna ti ero wiwa n'kan to da duro yio fi tiraka lati fa awon olumulo mora lati Google ti o ba nbeere iye owo kekere fun gbogbo wiwa. Kokanaye bi ise na se dara si, awon eniyan nreti awon nkankan ki won je ofe. Eleyi je otito ti olumulo ba wa pada nsanwo to poju ni apapo labe agbekale isanwo to yato.
 
-### Fees are a Barrier to Entry
+### Isanwo je Idiwo kan fun Abawole
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Isanwo yio wu nseda idiwo si abawole fun awon olumulo titun. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
 
 ### Changing Fees
 
