@@ -389,7 +389,7 @@ Awon eto bi Bitshares, Nxt, Ripple, Counter Party ati Stellar gbogbo e n jeki aw
 
 ### Isanwo je Idiwo kan fun Abawole
 
-Isanwo yio wu nseda idiwo si abawole fun awon olumulo titun. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Isanwo yio wu nseda idiwo si abawole fun awon olumulo titun. Ki enikan tole se asero pelu Ethereum won gbudo ni awon tokini Eth. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
 
 ### Changing Fees
 
