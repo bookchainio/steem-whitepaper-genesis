@@ -397,9 +397,9 @@ Ni igba to gun netiworki kan gbudo yipada awon isanwo. Eleyi le sele yala nipase
 
 ### Awon Idoju-ija Ko Sybil
 
-Awon aaye ayelujara to da lori nkan nse idiwo fun awuruju nipa didinku iye ati irufe awon ona idanimo ti ID. Even something as simple as reCAPTCHA [^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+Awon aaye ayelujara to da lori nkan nse idiwo fun awuruju nipa didinku iye ati irufe awon ona idanimo ti ID. Nkan tio le bi reCAPTCHA [^9] to lati dinku siseda awon akoole eburu. Ti enikan ba se ilokulo akoole won nigbana awon aaye ayelujara to da lori nkan ni eto lati dina akoole na.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+Ni eto tiko da lori nkankan ko si ona kan pato lati de awon olumulo pelu ofin tabi awon olupese toda lori nkan lagbara lati se agbekale reCAPTCHA kan ati so di ofin iye didinku ti awon akoole. In fact, the inability to censor users is one of the main selling points of blockchain technology.
 
 ### Full Reserve vs Fractional Reserve
 
