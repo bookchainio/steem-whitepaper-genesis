@@ -378,7 +378,7 @@ Isoro ipinle to so mo bibeere awon owo idunadura ni wipe awon isanwo-kekeke okin
 
 Ro apeere ti awon aaye ayelujara tan lo lojojumo ba nbeere owo lowowa ni gbogbo igba ti aba nse iyipada lori awon akoole wa bi iyipada oro igbaniwole. Awon olumulo nreti ki awon nkankan je ofe. Bibeere lowo awon olumulo lati se ipinnu lori boya igbese kan ni tabi koni eto si owo kekere kan nseda ijaya to man jeki awon olumulo kuro.
 
-> A transaction can't be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
+> Idunadura kan ko le tosi pupo to fi ma beere ipinnu sugbon tosi iye to kere gan toje wipe ipinnu je alainiafowosi. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
 > Micropayments, like all payments, require a comparison: "Is this much of X worth that much of Y?" There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
 > 
 > *- Clay Shirky[^8]*
