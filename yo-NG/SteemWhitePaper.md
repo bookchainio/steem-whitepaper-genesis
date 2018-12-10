@@ -393,11 +393,11 @@ Isanwo yio wu nseda idiwo si abawole fun awon olumulo titun. Ki enikan tole se a
 
 ### Yiyipada Awon Isanwo
 
-Ni igba to gun netiworki kan gbudo yipada awon isanwo. Eleyi le sele yala nipase ilosoke ni iye ti tokini tabi nipa igbera kan ni ipa. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Ni igba to gun netiworki kan gbudo yipada awon isanwo. Eleyi le sele yala nipase ilosoke ni iye ti tokini tabi nipa igbera kan ni ipa. Awon olumulo feran awon owo ti won mo siwaju ati ise to daju. Nigba to sese lati se ayipada awon owo lona to suwon nigba awon akoko lilo to po gan, abayori e je iriri olumulo tiko dara.
 
-### Sybil Attacks
+### Awon Idoju-ija Ko Sybil
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA [^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+Awon aaye ayelujara to da lori nkan nse idiwo fun awuruju nipa didinku iye ati irufe awon ona idanimo ti ID. Even something as simple as reCAPTCHA [^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
 
 In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
 
