@@ -370,11 +370,11 @@ Eto imo blockchain nisin daduro lori owo idunadura lati dina awuruju. Awon owo y
 
 Awon blockchain je awon netiworki ti ko da lori nkankan nibi ti gbogbo awon idunadura je agbejade si gbogbo awon egbe. Loorekore blocku kan man jade to ni die tabi gbogbo awon idunadura tio ti lo. Gbogbo awon blockchain gbudo wa ojutu lati dina awon olumulo onirira lati ma je basubasu agbara netiworki to wa nile pelu awon idunadura tio lowolori. Awon idunadura yi tio ni iwulo le dina awon idunadura moran to wulo lati ma je aseyori tosi ma ba netiworki je lakotan.
 
-Ojutu ti opo awon blockchain n lo di isin ni kiwon bere owo idunadura to kere julo. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. Nigba ti ona yi nse iyanju isoro ti awuruju, oun se agbekale awon isoro titun. Se apeere yiyanju isoro ti awuruju imeeli nipa agbekale iye owo kekere kan lori gbogbo imeeli; awon eniyan koni lo imeeli.
+Ojutu ti opo awon blockchain n lo di isin ni kiwon bere owo idunadura to kere julo. Iye owo to je awon centi die to lati jeki idojuko netiworki won ati alai ni ere. Nigba ti ona yi nse iyanju isoro ti awuruju, oun se agbekale awon isoro titun. Se apeere yiyanju isoro ti awuruju imeeli nipa agbekale iye owo kekere kan lori gbogbo imeeli; awon eniyan koni lo imeeli.
 
 ### Awon isanowo-kekeke Okin Sise
 
-The fundamental problem with charging transaction fees is that micropayments don't work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+Isoro ipinle to so mo bibeere awon owo idunadura ni wipe awon isanwo-kekeke okin sise, paapa julo fun awon ise olumulo oni iye-kekere. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
 
 Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave.
 
