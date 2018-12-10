@@ -376,7 +376,7 @@ Ojutu ti opo awon blockchain n lo di isin ni kiwon bere owo idunadura to kere ju
 
 Isoro ipinle to so mo bibeere awon owo idunadura ni wipe awon isanwo-kekeke okin sise, paapa julo fun awon ise olumulo oni iye-kekere. Nigbati aba n beere owo kan fun gbogbo idunadura, o se idinku iru awon idunadura ti netiworki to da duro le se. Laigbeyewo bi ariyanjiyan fun siso di dandan ti awon owo se mogbonwa, awon olumulo korira iriri bibeere nkan fun gbogbo nkan ti won se.
 
-Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave.
+Ro apeere ti awon aaye ayelujara tan lo lojojumo ba nbeere owo lowowa ni gbogbo igba ti aba nse iyipada lori awon akoole wa bi iyipada oro igbaniwole. Awon olumulo nreti ki awon nkankan je ofe. Bibeere lowo awon olumulo lati se ipinnu lori boya igbese kan ni tabi koni eto si owo kekere kan nseda ijaya to man jeki awon olumulo kuro.
 
 > A transaction can't be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
 > Micropayments, like all payments, require a comparison: "Is this much of X worth that much of Y?" There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
