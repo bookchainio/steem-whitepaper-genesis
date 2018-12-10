@@ -403,7 +403,7 @@ Ni eto tiko da lori nkankan ko si ona kan pato lati de awon olumulo pelu ofin ta
 
 ### Afipamo Ekun vs Afipamo Oni-ida
 
-Ejeka wo blockchain bi awujo olupese ise ayelujara (ISP) to ni gbogbo awon okun towa ni ilu ati tosi ni bandwiti to po julo to lo pese ni akoko yio wu. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+Ejeka wo blockchain bi awujo olupese ise ayelujara (ISP) to ni gbogbo awon okun towa ni ilu ati tosi ni bandwiti to po julo to lo pese ni akoko yio wu. Awon eniyan toun gbe ni ilu na le ra ipin ninu ISP na ati ni iparo won ni eto lati se amulo ipin lara bandwiti to wa.
 
 The ISP has two choices, run a "full reserve" or "fractional reserve" system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town's network would be significantly underutilized.
 
