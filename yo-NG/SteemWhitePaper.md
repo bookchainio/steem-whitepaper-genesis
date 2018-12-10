@@ -374,7 +374,7 @@ Ojutu ti opo awon blockchain n lo di isin ni kiwon bere owo idunadura to kere ju
 
 ### Awon isanowo-kekeke Okin Sise
 
-Isoro ipinle to so mo bibeere awon owo idunadura ni wipe awon isanwo-kekeke okin sise, paapa julo fun awon ise olumulo oni iye-kekere. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+Isoro ipinle to so mo bibeere awon owo idunadura ni wipe awon isanwo-kekeke okin sise, paapa julo fun awon ise olumulo oni iye-kekere. Nigbati aba n beere owo kan fun gbogbo idunadura, o se idinku iru awon idunadura ti netiworki to da duro le se. Laigbeyewo bi ariyanjiyan fun siso di dandan ti awon owo se mogbonwa, awon olumulo korira iriri bibeere nkan fun gbogbo nkan ti won se.
 
 Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave.
 
