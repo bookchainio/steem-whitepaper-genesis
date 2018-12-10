@@ -378,12 +378,12 @@ Isoro ipinle to so mo bibeere awon owo idunadura ni wipe awon isanwo-kekeke okin
 
 Ro apeere ti awon aaye ayelujara tan lo lojojumo ba nbeere owo lowowa ni gbogbo igba ti aba nse iyipada lori awon akoole wa bi iyipada oro igbaniwole. Awon olumulo nreti ki awon nkankan je ofe. Bibeere lowo awon olumulo lati se ipinnu lori boya igbese kan ni tabi koni eto si owo kekere kan nseda ijaya to man jeki awon olumulo kuro.
 
-> Idunadura kan ko le tosi pupo to fi ma beere ipinnu sugbon tosi iye to kere gan toje wipe ipinnu je alainiafowosi. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
-> Micropayments, like all payments, require a comparison: "Is this much of X worth that much of Y?" There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
+> Idunadura kan ko le tosi pupo to fi ma beere ipinnu sugbon tosi iye to kere gan toje wipe ipinnu je alainiafowosi. Oni iye ijaya kan to wa ninu ipinnu ati ra, iyio wu ko kere mo, kosi wa lati intafasi ti an mulo tabi akoko ti o ma gba, sugbon lati ise ti pipinnun gangan.  
+> Awon isanowo-kekeke, bi gbogbo awon isanwo, nilo afiwe kan: "Nje opo X yi tosi iye ti Y yi?" Owo idunadura ti opolo kan to kere julo ti a seda nipa oro agbekale yi ti ako le lo lekunrere danu, nitoripe idunadura kan soso ti olumulo kan yio fe gbalaye laisi ironu ni eleyi to je ofe, tio si je idunadura lonakona.
 > 
-> *- Clay Shirky[^8]*
+> *- Amo Shirky[^8]*
 
-In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+Ninu aye awon isanwo inawo, awon owo kekeke je itewogba nitori iye ti idunadura na ga gun ni igbeyewo pelu owo ti a beere, ati olubara ti se ipinnu lati ra. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
 
 Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn't matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
 
