@@ -413,13 +413,13 @@ Labe eto afipamo oni-ida olukuluku awon olumulo le se amulo daada opo bandwiti j
 
 Ojutu si awon isoro to sopo mo isanwo-kekeke wa ninu fifi idi mule *ona ara awon afipamo oni-ida*. Labe awose yi blockchain yio se atunse isiro afipamo laini afowosi fun netiworki ni asiko ti sunkere-wakere. Blockchain yio seto lilo ta fojusi ti yio fayegba opo yara-ori fun igbera ibeere fun igba die. Ni igbakugba ti igbera ba fagun blockchain man dinku bandwiti to ga ju-ipin-kokan. Ti igbera ba ti pari ti ipa to seku si wa blockchain le fikun bandwiti-nipa-ipin-kokan die die.
 
-Bandwiti ti olukuluku olumulo gbe lo ye ka won fun igba to gun to tewa lorun lati gba olumulo na ni aye ati sun-akoko imulo won. Awon olumulo man wole, se nkan pupo lekanna, won asi jade. Ekeyi tunmo si wipe bandwiti won fun iwon igba akoko die le han pe o ga ju ti aba wo fun igba to gun. Ti aba fe feresi akoko toba gun ju nigbana ni isiro ti afipamo koni parapo ni kia lona to to lati se idahun fun awon igbera igba kekere, ti feresi na ba kere nigbana awon imulo to sopapo yio ni ipa to tobi gan lori awon olumulo lasun.
+Bandwiti ti olukuluku olumulo gbe lo ye ka won fun igba to gun to tewa lorun lati gba olumulo na ni aye ati sun-akoko imulo won. Awon olumulo man wole, se nkan pupo lekanna, won asi jade. Ekeyi tunmo si wipe bandwiti won fun iwon igba akoko die le han pe o ga ju ti aba wo fun igba to gun. Ti aba fe ferese akoko toba gun ju nigbana ni isiro ti afipamo koni parapo ni kia lona to to lati se idahun fun awon igbera igba kekere, ti ferese na ba kere nigbana awon imulo to sopapo yio ni ipa to tobi gan lori awon olumulo lasun.
 
-In our estimate it should be sufficient to measure the average weekly bandwidth usage of users. Every time a user signs a transaction, that transaction is factored into their own individual moving average. Any time a user's moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+Ni ero wa oye ko to lati won idaju bandwiti lilo lose ose ti awon olumulo. Gbogbo igba ti olumulo kan ba buwolu idunadura kan, a se ida idunadura na sinu idaji ti olukuluku won. Igbakugba ti idaji sisun olumulo kan ba ju opin netiworki ti isin lo a da idunadura won duro titi idaji won a fi ja wasile sabe opin na.
 
-### Example Implementation
+### Sise Apeere
 
-Let B equal a user's average bandwidth at time T. Let W equal the number of seconds per week, and let N equal the size of the new transaction that occurred S seconds after T. Given this information the blockchain can calculate the new average bandwidth for a user as:
+Jeki B je idaji bandwiti olumulo kan ni akoko T. Jeki W je iye awon iseju ni ose kokan, ati N je titobi idunadura titun to sele ni iseju S leyin T. Sise alaye yi blockchain le se isiro ti idaji bandwiti titun fun olumulo kan bi:
 
     Bnew = MIN(0,B * (W - S) / W) + N * S / W
     Tnew = T + S
