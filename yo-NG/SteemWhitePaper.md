@@ -411,7 +411,7 @@ Labe eto afipamo oni-ida olukuluku awon olumulo le se amulo daada opo bandwiti j
 
 ## Bandwiti yala awon ona isanwo-kekeke,
 
-Ojutu si awon isoro to sopo mo isanwo-kekeke wa ninu fifi idi mule *ona ara awon afipamo oni-ida*. Labe awose yi blockchain yio se atunse isiro afipamo laini afowosi fun netiworki ni asiko ti sunkere-wakere. Blockchain yio seto lilo ta fojusi ti yio fayegba opo yara-ori fun igbera ibeere fun igba die. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
+Ojutu si awon isoro to sopo mo isanwo-kekeke wa ninu fifi idi mule *ona ara awon afipamo oni-ida*. Labe awose yi blockchain yio se atunse isiro afipamo laini afowosi fun netiworki ni asiko ti sunkere-wakere. Blockchain yio seto lilo ta fojusi ti yio fayegba opo yara-ori fun igbera ibeere fun igba die. Ni igbakugba ti igbera ba fagun blockchain man dinku bandwiti to ga ju-ipin-kokan. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
 
 Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
 
