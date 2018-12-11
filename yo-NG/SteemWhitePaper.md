@@ -405,7 +405,7 @@ Ni eto tiko da lori nkankan ko si ona kan pato lati de awon olumulo pelu ofin ta
 
 Ejeka wo blockchain bi awujo olupese ise ayelujara (ISP) to ni gbogbo awon okun towa ni ilu ati tosi ni bandwiti to po julo to lo pese ni akoko yio wu. Awon eniyan toun gbe ni ilu na le ra ipin ninu ISP na ati ni iparo won ni eto lati se amulo ipin lara bandwiti to wa.
 
-The ISP has two choices, run a "full reserve" or "fractional reserve" system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town's network would be significantly underutilized.
+ISP na le yan lara nkan meji, da lori eto "Afipamo ekun" tabi "Afipamo oni-ida". Labe eto afipamo ekun olumulo kokan tosi ida kan ti apapo bandwiti to dogba pelu awon ipin won. Nitori gbogbo eniyan ko loun lo ayelujara ni igba kanna, won o ni lo netiworki ilu na bi agbara re se to.
 
 Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
 
