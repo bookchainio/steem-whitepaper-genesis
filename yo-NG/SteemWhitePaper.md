@@ -440,11 +440,11 @@ Olumulo kan yio letosi idaji bandwiti ti M \* U / S. Igbakugba ti idunadura kan 
 
 Netiworki le je ki isiro afipamo lo soke, igbakugba ti awon blocku ba kere ju abo ipa ti a fojusi ati dinku re igbakugba ti won ba ju abo lo. Alugoridiimu ti an lo lati sun R la seda lati fesifun ni kiakia lati dinku isiro afipamo nigba ti igbera ba wa ni ibeere, nigba ti oun lora lati sise lati gbesoke isiro afipamo ni akoko ti ibeere kere.
 
-Isiro afipamo to kere ju ni 1, isiro afipamo to tobi ju lo lan siro lati se idiwo fun awon to se agbemu ipin kekeke lati ma koje gbogbo bandwiti to wa. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
+Isiro afipamo to kere ju ni 1, isiro afipamo to tobi ju lo lan siro lati se idiwo fun awon to se agbemu ipin kekeke lati ma koje gbogbo bandwiti to wa. Ti enikeni ko ba lo bandwiti to wa nigbana isiro afipamo le dagba titi olumulo kan pelu satoshi kan ti owo ni aye lati se idunadura pelu blocku kokan.
 
-### Case Study: Bitcoin
+### Apeere Agbeyewo: Bitcoin
 
-To understand how this algorithm would work on Bitcoin it is necessary to estimate a reasonable value for the reserve ratio, R, based on actual usage. Based upon the total supply of 15M BTC and a daily transaction volume of 400K BTC[^10], we can derive a minimum reserve ratio of 38 for Bitcoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
+Lati moye bi alugoridiimu yi yio se sise lori Bitcoin o se koko lati ro iye to mogbonwa kan fun isiro afipamo, R, toda lori lilo gangan. Lori ipese apapo ti 15M BTC ati opo ti idunadura ojojumo ti 400k BTC[^10], ale wa isiro afipamo to kere julo ti ogbon o le ni mejo fun Bitcoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
 
     Let C = 1MB = 1024 * 1024
     Let L = 1008 (blocks per week)
