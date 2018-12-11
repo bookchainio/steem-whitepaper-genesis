@@ -642,37 +642,37 @@ De mentale energie die gepaard gaat met het nemen van een economische beslissing
 > 
 > *-Micro-betalingen: Een levensvatbaar bedrijfsmodel[^23]*
 
-Under Steem, micropayments are paid to content producer, but those who vote for the content do not pay. Instead, the cost of the reward is paid for via new tokens. Someone can join the system, vote to pay someone, and then exit the system with more money than they started with (assuming the market valuation of the Steem system remained constant). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+Onder Steem worden micro-betalingen betaald aan de maker van de content, terwijl degenen die op de inhoud stemmen niet betalen. In plaats daarvan worden de kosten van de beloning betaald via nieuwe tokens. Iemand kan zich bij het systeem aansluiten, stemmen om iemand te betalen en vervolgens met meer geld uit het systeem stappen dan waarmee hij/zij begonnen is (ervan uitgaande dat de marktwaarde van het Steem-systeem constant blijft). Met andere woorden, de micro-betaling-oplossing van Steem biedt een gebruikerservaring die vergelijkbaar is met veel veelgebruikte websites met door de gebruiker gemodereerde inhoud.
 
-Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+Bovendien betaalt Steem mensen om uit te vinden wie er betaald moet worden! Dit soort denken is revolutionair.
 
-## Value is in the Links
+## De waarde zit in de links
 
-The Internet would lose the vast majority of its value if all links among content were removed. It is the relationship among web pages that allows Google to identify the best apple pie recipe among the 16 million results. Without the links the only information Google would have is word frequency.
+Het internet zou het overgrote deel van zijn waarde verliezen als alle links tussen de inhoud zouden worden verwijderd. Het is de relatie tussen webpagina's die Google in staat stelt om het beste appeltaartrecept te identificeren onder de 16 miljoen resultaten. Zonder de links is de enige informatie die Google zou hebben de woordfrequentie.
 
-Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a link between themselves and the content. This in turn links the consumer to the producer through the content. The more links a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+Links kunnen vele vormen aannemen en hebben zich in de loop der tijd aangepast. Telkens wanneer een gebruiker stemt op content in een sociaal netwerk voegt hij/zij een verbinding tussen zichzelf en de inhoud toe. Dit op zijn beurt verbindt de consument met de producent via de inhoud. Hoe meer verbindingen een netwerk heeft, hoe waardevoller de informatie wordt. Het is de relatieve en opzettelijke verbondenheid van informatie die het waarde geeft.
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of links. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and link to new content.
+Een sociaal netwerk kan de waarde van een set content maximaliseren door de kwantiteit en kwaliteit van de verbindingen te maximaliseren. Het cureren van inhoud is duur en tijdrovend, terwijl het bijna onmogelijk is voor computers om te presteren zonder links. Steem beloont gebruikers die als een van de eersten nieuwe inhoud vinden en identificeren.
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+Door het stimuleren van curatie is het Steem-netwerk in staat om met geautomatiseerde algoritmes de meest waardevolle informatie uit een enorme hoeveelheid content te halen.
 
-## Solving the Cryptocurrency Onboarding Problem
+## Het probleem oplossen van het aan boord krijgen van gebruikers in de wereld van cryptovaluta
 
-It isn't easy to get into cryptocurrency[^24] . Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook's adoption rate have been like if you had to fork over money and a two forms of ID?
+Het is niet makkelijk om de wereld van cryptovaluta in te komen[^24]. Iemand die Bitcoin ontdekt en het wil uitproberen ontdekt al snel dat hij of zij zich moet aanmelden bij een exchange en zijn of haar rekening moet financieren met een creditcard of bankoverschrijving. Hoe zou de acceptatiegraad van Facebook zijn geweest als je geld en twee vormen van identificatie had moeten overhandigen?
 
-Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless).
+Steem lost dit probleem op door iedereen een manier te geven om betaald te krijgen voor eenvoudige maar waardevolle taken. Dit zal bijdragen tot een brede verspreiding van STEEM-tokens. Dit is nuttig omdat cryptovaluta een netwerkeffect hebben (d.w.z. meer gebruikers maken het nuttiger; voor een extreem voorbeeld, bedenk dat als Satoshi 100% van Bitcoin voor zichzelf had gehouden, Bitcoin waardeloos zou zijn).
 
-## Solving the Cryptocurrency Liquidation Problem
+## Het probleem oplossen van het liquideren van cryptovaluta
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Een valuta die moeilijk te gebruiken of onmogelijk te verkopen is heeft weinig waarde. Iemand die Bitcoin ter waarde van $1,00 tegenkomt zal ontdekken dat het meer dan $1,00 kost om die Bitcoin te verkopen. Hij/zij moet een account aanmaken bij een exchange, KYC (Know Your Customer) validatie uitvoeren en kosten betalen. Kleine hoeveelheden cryptovaluta zijn als klein wisselgeld waar mensen niet bereid zijn voor te bukken om het op te rapen.
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+Handelaren geven gebruikers een manier om snel hun cryptovaluta om te zetten in tastbare goederen en diensten. Handelaren hebben een valuta nodig die gekoppeld is aan hun rekeneenheid, normaal gesproken dollars. Het accepteren van vluchtige valuta brengt aanzienlijke administratieve kosten met zich mee.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SMD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Handelaren zullen elke valuta accepteren als het hun omzet verhoogt. Het hebben van een grote gebruikersgroep met een stabiele munt zoals SBD verlaagt de toetredingsdrempel voor handelaren. De aanwezigheid van handelaren verbetert het systeem door het creëren van een uitgang voor gebruikers om het systeem te verlaten zonder het getob met het gebruik van een exchange.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through tipping others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+Een andere manier waarop mensen de kleine hoeveelheden cryptovaluta die ze ontvangen door deelname aan het Steem platform kunnen liquideren is door het geven van fooien aan anderen. Dit is als het achterlaten van wisselgeld als een fooi voor je ober. Wanneer genoeg mensen kleine fooien achterlaten telt dat op tot een zinvol bedrag. Zowel jij als de ober hebben baat bij de fooi.
 
-## Censorship
+## Censuur
 
 Steem is a decentralized network that is operated by miners in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
 
