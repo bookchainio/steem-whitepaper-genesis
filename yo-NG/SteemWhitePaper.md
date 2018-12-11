@@ -444,17 +444,17 @@ Isiro afipamo to kere ju ni 1, isiro afipamo to tobi ju lo lan siro lati se idiw
 
 ### Apeere Agbeyewo: Bitcoin
 
-Lati moye bi alugoridiimu yi yio se sise lori Bitcoin o se koko lati ro iye to mogbonwa kan fun isiro afipamo, R, toda lori lilo gangan. Lori ipese apapo ti 15M BTC ati opo ti idunadura ojojumo ti 400k BTC[^10], ale wa isiro afipamo to kere julo ti ogbon o le ni mejo fun Bitcoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
+Lati moye bi alugoridiimu yi yio se sise lori Bitcoin o se koko lati ro iye to mogbonwa kan fun isiro afipamo, R, toda lori lilo gangan. Lori ipese apapo ti 15M BTC ati opo ti idunadura ojojumo ti 400k BTC[^10], ale wa isiro afipamo to kere julo ti ogbon o le ni mejo fun Bitcoin. Lilo awon isiro ale siro bandwiti ti ose-ose (ni awon iwon to kere julo) ti a fayegba fun BTC kokan ko je:
 
-    Let C = 1MB = 1024 * 1024
-    Let L = 1008 (blocks per week)
-    Let R = 38
-    Let S = 14000000 BTC (supply minus Satoshi's unmoving coins)
-    Let U = 1 BTC
-    CLR/S = 2869 bytes per week, or about 5 transactions/week per BTC
+    Jeki C = 1MB = 1024 * 1024
+    Jeki L = 1008 (awon blocku ose-ose)
+    Jeki R = 38
+    Jeki S = 14000000 BTC (didinku awon owo eyo ti Satoshi ti ko sun kuro ninu ipese)
+    Jeki U = BTC kan
+    CLB/S = 2869 awon iwon to kere julo lose-ose, tabi bi marun ti awon idunadura/ose ti BTC kokan
     
 
-Since R = 38 is a lower bound on the reserve ratio, CLR/S is a lower bound on the permitted bandwidth. This simple case study suggests a user will require at most 0.20 BTC (over $80 as of this writing) to transact once per week. However, this is a loose upper bound derived from the assumption that all BTC are equally mobile. This is not the case - users with dozens or hundreds of bitcoins do not necessarily transact dozens or hundreds of times a week! The "leftover" transactions that those users "should" have made will increase the reserve ratio, allowing their unused bandwidth to be "recycled" for smaller users.
+Nigbati R = ogbon le mejo je asopo to wa nisale lori isiro afipamo, CLR/S je asopo isale lori bandwiti ti agbalaye. Agbeyewo ti ko le yi ndaba wipe olumulo kan yio nilo o po ju 0.20 BTC (ni akoko ikowe yi oju $80 lo) lati se idunadura lekan lose. However, this is a loose upper bound derived from the assumption that all BTC are equally mobile. This is not the case - users with dozens or hundreds of bitcoins do not necessarily transact dozens or hundreds of times a week! The "leftover" transactions that those users "should" have made will increase the reserve ratio, allowing their unused bandwidth to be "recycled" for smaller users.
 
 All of the above estimates are conservative upper bounds assuming coins and usage are distributed in a relatively flat manner. The reality is that heavy users, such as exchanges, have a much higher coin-to-usage ratio than lighter users, which in turn means that actual minimum balance requirements are far lower.
 
