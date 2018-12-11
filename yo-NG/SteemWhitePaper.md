@@ -440,7 +440,7 @@ Olumulo kan yio letosi idaji bandwiti ti M \* U / S. Igbakugba ti idunadura kan 
 
 Netiworki le je ki isiro afipamo lo soke, igbakugba ti awon blocku ba kere ju abo ipa ti a fojusi ati dinku re igbakugba ti won ba ju abo lo. Alugoridiimu ti an lo lati sun R la seda lati fesifun ni kiakia lati dinku isiro afipamo nigba ti igbera ba wa ni ibeere, nigba ti oun lora lati sise lati gbesoke isiro afipamo ni akoko ti ibeere kere.
 
-The minimum reserve ratio is 1, and the maximum reserve ratio should be calculated to prevent small stakeholders from consuming all of the available bandwidth. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
+Isiro afipamo to kere ju ni 1, isiro afipamo to tobi ju lo lan siro lati se idiwo fun awon to se agbemu ipin kekeke lati ma koje gbogbo bandwiti to wa. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
 
 ### Case Study: Bitcoin
 
