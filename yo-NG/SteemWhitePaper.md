@@ -421,19 +421,19 @@ Ni ero wa oye ko to lati won idaju bandwiti lilo lose ose ti awon olumulo. Gbogb
 
 Jeki B je idaji bandwiti olumulo kan ni akoko T. Jeki W je iye awon iseju ni ose kokan, ati N je titobi idunadura titun to sele ni iseju S leyin T. Sise alaye yi blockchain le se isiro ti idaji bandwiti titun fun olumulo kan bi:
 
-    Bnew = MIN(0,B * (W - S) / W) + N * S / W
-    Tnew = T + S
+    Btitun = MIN(0,B * (W - S) / W) + N * S / W
+    Ttitun = T + S
     
 
-Each user is entitled to an average weekly bandwidth of:
+Olumulo kokan ni eto si idaji ose ose bandwiti ti:
 
-    Let U = the user's SP
-    Let S = the total number of SP
-    Let R = the current reserve ratio between 1 and Rmax
-    Let C = the maximum block size capacity set by witnesses
-    Let L = the total blocks per week
-    Let M = C * L * R
-    Allocation = M * U / S
+    Jeki U = SP ti olumulo
+    Jeki S = iye apapo ti SP
+    Jeki R = isiro afipamo isin laarin 1 ati Rto-gaju
+    Jeki C = blocku to tobi julo ni ipa ti awon eleri seto
+    Jeki L = iye gbogbo awon blocku lose kokan
+    Jeki M = C * L * R
+    Pinpin = M * U/S
     
 
 A user would be entitled to an average bandwidth of M \* U / S. Any time a transaction would cause the user's average to go above this threshold they would be unable to transact until enough time passes to lower the average.
