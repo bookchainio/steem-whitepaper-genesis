@@ -438,7 +438,7 @@ Olumulo kokan ni eto si idaji ose ose bandwiti ti:
 
 Olumulo kan yio letosi idaji bandwiti ti M \* U / S. Igbakugba ti idunadura kan yio jeki idaji ti olumulo lo soke ju ipele isele lo won koni le se idunadura titi akoko to to yio fi koja lati dinku idaji na.
 
-The network can increase the reserve ratio, anytime blocks are less than half the target capacity and decrease it anytime they are more than half. The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
+Netiworki le je ki isiro afipamo lo soke, igbakugba ti awon blocku ba kere ju abo ipa ti a fojusi ati dinku re igbakugba ti won ba ju abo lo. Alugoridiimu ti an lo lati sun R la seda lati fesifun ni kiakia lati dinku isiro afipamo nigba ti igbera ba wa ni ibeere, nigba ti oun lora lati sise lati gbesoke isiro afipamo ni akoko ti ibeere kere.
 
 The minimum reserve ratio is 1, and the maximum reserve ratio should be calculated to prevent small stakeholders from consuming all of the available bandwidth. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
 
