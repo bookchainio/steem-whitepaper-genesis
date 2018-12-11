@@ -456,11 +456,11 @@ Lati moye bi alugoridiimu yi yio se sise lori Bitcoin o se koko lati ro iye to m
 
 Nigbati R = ogbon le mejo je asopo to wa nisale lori isiro afipamo, CLR/S je asopo isale lori bandwiti ti agbalaye. Agbeyewo ti ko le yi ndaba wipe olumulo kan yio nilo o po ju 0.20 BTC (ni akoko ikowe yi oju $80 lo) lati se idunadura lekan lose. Sibesibe, eleyi je asopo okeere ti o tu ti a wa lati ero wipe gbogbo BTC lo le rin bakanna. Eleyi ko ni - awon olumulo pelu opo dosini tabi opo ogorun ti awon bitcoin ko kin se idunadura ni dandan opo dosini tabi opo ogorun igba ni ose kan! Awon idunadura "to seku" ti awon olumulo na "ye" ki won se yio gbesoke isiro afipamo, fifayegba bandwiti won ti won ko lo lati ni "isodotun" fun awon olumulo kekeke.
 
-All of the above estimates are conservative upper bounds assuming coins and usage are distributed in a relatively flat manner. The reality is that heavy users, such as exchanges, have a much higher coin-to-usage ratio than lighter users, which in turn means that actual minimum balance requirements are far lower.
+Gbogbo awon ero to wa loke je ona titoju awon isopo oke tabi daba wipe awon owo eyo ati lilo je pinpin ni ona ibatan to petele. Isele oju aye ni wipe awon olumulo to wuwo, bi awonmiyipada, ni isiro owo eyo-si-lilo eleyi to ga gan ju awon olumulo to fele lo, ni eleyi to tunmo siwipe awon ibeere iseku to kere gangan tun kere ju bayen lo.
 
-#### Impact of Capacity
+#### Ipa ti Aaye
 
-Blockchain capacity isn't necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second. This changes our conservative upper bound to 0.0006 BTC or about $0.25, meaning that an account holding $0.25 would be able to transact at least once per week on average (and likely many more times because we're dealing with a fairly loose upper bound).
+Aaye ti Blockchain ko ni ideri bayen. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second. This changes our conservative upper bound to 0.0006 BTC or about $0.25, meaning that an account holding $0.25 would be able to transact at least once per week on average (and likely many more times because we're dealing with a fairly loose upper bound).
 
 #### Maximum Number of Unique Users
 
