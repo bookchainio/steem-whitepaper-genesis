@@ -407,7 +407,7 @@ Ejeka wo blockchain bi awujo olupese ise ayelujara (ISP) to ni gbogbo awon okun 
 
 ISP na le yan lara nkan meji, da lori eto "Afipamo ekun" tabi "Afipamo oni-ida". Labe eto afipamo ekun olumulo kokan tosi ida kan ti apapo bandwiti to dogba pelu awon ipin won. Nitori gbogbo eniyan ko loun lo ayelujara ni igba kanna, won o ni lo netiworki ilu na bi agbara re se to.
 
-Labe eto afipamo oni-ida olukuluku awon olumulo le se amulo daada opo bandwiti ju bi won se tosi lo ni akoko yio wu toba je wipe ki se gbogbo eniyan loun lo ayelujara ni igba kanna. Isoro to sopo mo sisise pelu afipamo oni-ida ni wipe sunkere-wakere man waye ni igba ti awon eyan pupo ba fe lo netiworki ni igba kanna. ISP nilo ona kan lati se pataki bandwiti ni awon igba sunkere-wakere. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+Labe eto afipamo oni-ida olukuluku awon olumulo le se amulo daada opo bandwiti ju bi won se tosi lo ni akoko yio wu toba je wipe ki se gbogbo eniyan loun lo ayelujara ni igba kanna. Isoro to sopo mo sisise pelu afipamo oni-ida ni wipe sunkere-wakere man waye ni igba ti awon eyan pupo ba fe lo netiworki ni igba kanna. ISP nilo ona kan lati se pataki bandwiti ni awon igba sunkere-wakere. Ni igba to pele ge gan, netiworki to ti de opin sunkere-wakere gbodo pada si eto afipamo ekun. The challenge is setting the proper fractional reserve ratio.
 
 ## Bandwidth Instead of Micropayment Channels
 
