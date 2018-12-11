@@ -436,7 +436,7 @@ Olumulo kokan ni eto si idaji ose ose bandwiti ti:
     Pinpin = M * U/S
     
 
-A user would be entitled to an average bandwidth of M \* U / S. Any time a transaction would cause the user's average to go above this threshold they would be unable to transact until enough time passes to lower the average.
+Olumulo kan yio letosi idaji bandwiti ti M \* U / S. Igbakugba ti idunadura kan yio jeki idaji ti olumulo lo soke ju ipele isele lo won koni le se idunadura titi akoko to to yio fi koja lati dinku idaji na.
 
 The network can increase the reserve ratio, anytime blocks are less than half the target capacity and decrease it anytime they are more than half. The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
 
