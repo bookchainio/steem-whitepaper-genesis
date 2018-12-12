@@ -468,11 +468,11 @@ Ale lo isiro to dabi lati siro iye awon aditu olumulo to ga ju ti netiworki na l
 
 #### Afiwe si Awon Owo
 
-Ti aba ro olumulo kan pelu awon dola $25 iye BTC nse idunadura leekan lose ati toun san owo $0.04 ni igba kokan nigbana won a san ju $2.00 ni awon owo ni odun kokan. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Ti aba ro olumulo kan pelu awon dola $25 iye BTC nse idunadura leekan lose ati toun san owo $0.04 ni igba kokan nigbana won a san ju $2.00 ni awon owo ni odun kokan. Olumulo kan yio nilo lati sise iye ida mejo ti ipadabo lori awon dola $25 won lati dogba pelu sisan awon owo. Aaye wa wipe awon olumulo won a mu owo won dani lori blockchain beebe, nitori na olumulo to ni iye BTC to je $25 sese fipamo $2 fun akoko iga odun kan nipa gbigba ona didinku-iye yala ona to dalori owo. Pelu $175 lasun won le se idunadura ni ojojumo ati fipamo $24 ni odun kan.
 
-### Account Creation
+### Siseda Akoole
 
-Steem's account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+Eto to dalori-akoole ti Steemu pelu awon iseku ta mo ni gbangba nfo wewe imulo ti didinku iye ti alugoridiimu to dalori-bandwiti. Akoole yio wu pelu iseku to kere ju ibeere to kere julo lati se idunadura leekan lose koni le se idunadura. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
 
 It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by transferring a larger balance into the account.
 
