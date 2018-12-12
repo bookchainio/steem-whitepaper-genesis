@@ -472,9 +472,9 @@ Ti aba ro olumulo kan pelu awon dola $25 iye BTC nse idunadura leekan lose ati t
 
 ### Siseda Akoole
 
-Eto to dalori-akoole ti Steemu pelu awon iseku ta mo ni gbangba nfo wewe imulo ti didinku iye ti alugoridiimu to dalori-bandwiti. Akoole yio wu pelu iseku to kere ju ibeere to kere julo lati se idunadura leekan lose koni le se idunadura. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+Eto to dalori-akoole ti Steemu pelu awon iseku ta mo ni gbangba nfo wewe imulo ti didinku iye ti alugoridiimu to dalori-bandwiti. Akoole yio wu pelu iseku to kere ju ibeere to kere julo lati se idunadura leekan lose koni le se idunadura. Eleyi tunmo si wipe gbogbo awon akoole titun gbudo ni ifowosi pelu okere ju iseku to kere julo. Otun tunmo siwipe awon olumulo toun daba lati se idunadura ni awon iye to kere le se, ni iwon igba ti won ba gbamu iseku to tobi ti won si tunlo akoole na.
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by transferring a larger balance into the account.
+Osese fun akoole ti iseku-kekere ti a dasile ni akoko ti lilo ko po lati je ailewo ti ilo netiworki ba gbera. Ale gba awon owo na pada ni igbakugba nipa fifiranse iseku to tobi sinu akoole na.
 
 In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
 
