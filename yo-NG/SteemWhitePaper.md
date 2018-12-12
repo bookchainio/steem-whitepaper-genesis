@@ -460,9 +460,9 @@ Gbogbo awon ero to wa loke je ona titoju awon isopo oke tabi daba wipe awon owo 
 
 #### Ipa ti Aaye
 
-Aaye ti Blockchain ko ni ideri bayen. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second. This changes our conservative upper bound to 0.0006 BTC or about $0.25, meaning that an account holding $0.25 would be able to transact at least once per week on average (and likely many more times because we're dealing with a fairly loose upper bound).
+Aaye ti Blockchain ko ni ideri bayen. Owa daada laarin aaye ero imo ti anfani amayederun lati gbesoke titobi blocku Bitcoin si 10MB eleyi tio wa dinku ibeere iseku to kere julo nipa ida ti mewa. Nigbati Bitcoin n feyinti bi idunadura meta ni gbogbo iseju ni isin, awon imulo to yato ni ipa ti awon egberun idunadura ni iseju kokan. Eleyi nyipada ona itoju isopo oke si 0.0006 BTC tabi bi $0.25, to tunmo si wipe akoole kan to ni bi $0.25 yio le se idunadura okereju ekan lose lori idaji (ati boya opo igba nitori an sise pelu isopo oke to tu die).
 
-#### Maximum Number of Unique Users
+#### Ounka Awon Aditu Olumulo To Ga Ju
 
 We can use similar math to calculate the maximum number of unique users that the network can allow to transact once per week as: B\*W/T. T represents the average transaction size. This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
 
