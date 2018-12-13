@@ -696,7 +696,7 @@ Hoewel een tijdstempel op bijna elke blockchain kan worden gebouwd, en er versch
 
 Onder de meeste content monetarisatiemodellen maken contentmakers gebruik van een vorm van reclame. Veel makers erkennen hoe reclame de waarde van hun werk voor de consument kan verminderen, maar toch moeten makers heel vaak zoeken naar rendement op hun tijd door te monetariseren. Reclame vertegenwoordigt een tweesnijdend zwaard: Met advertenties kan een maker het gemakkelijkst geld verdienen. Zonder advertenties is monetarisatie moeilijk, maar is de inhoud rijker.
 
-Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or "liked") by the Steem community. Uitbetalingen op basis van blockchain zijn volledig digitaal en hebben geen tussenpersoon. Daarom moet het monetariseren door middel van blockchain-gebaseerde content-beloningen sneller en veel laagdrempeliger zijn dan het monetariseren door middel van advertenties.
+Makers die berichten plaatsen op sociale media die verbonden zijn met Steem zouden geld kunnen verdienen enkel door hun werk te laten erkennen (of "liken") door de Steem-gemeenschap. Uitbetalingen op basis van blockchain zijn volledig digitaal en hebben geen tussenpersoon. Daarom moet het monetariseren door middel van blockchain-gebaseerde content-beloningen sneller en veel laagdrempeliger zijn dan het monetariseren door middel van advertenties.
 
 # Conclusion
 
