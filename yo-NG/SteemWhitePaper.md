@@ -383,7 +383,7 @@ Ro apeere ti awon aaye ayelujara tan lo lojojumo ba nbeere owo lowowa ni gbogbo 
 > 
 > *- Amo Shirky[^8]*
 
-Ninu aye awon isanwo inawo, awon owo kekeke je itewogba nitori iye ti idunadura na ga gun ni igbeyewo pelu owo ti a beere, ati olubara ti se ipinnu lati ra. Ninu aye ifiyesi ti awon ero blockchain ga ju awon isanwo inawo lasun lo ati oni opo awon idunadura ti a nilo eleyi ti awon owo re koje itewogba lowo awon olumulo.
+Ninu aye awon isanwo inawo, awon owo kekeke je itewogba nitori iye ti idunadura na ga gan ni igbeyewo pelu owo ti a beere, ati olubara ti se ipinnu lati ra. Ninu aye ifiyesi ti awon ero blockchain ga ju awon isanwo inawo lasun lo ati oni opo awon idunadura ti a nilo eleyi ti awon owo re koje itewogba lowo awon olumulo.
 
 Awon eto bi Bitshares, Nxt, Ripple, Counter Party ati Stellar gbogbo e n jeki awon olumulo gbe awon ibeere to ni opin lori blockchain gbogbo won lo si nbeere owo kekere kan lowo awon olumulo lati se ise yi. Tobaya ti olumulo ba fe fagile ibeere e, an beere owo miran lowo e. Awon eto bi Ethereum ngbe awon isanwo-kekeke losi abala miran to tun yato: bibeere nipa isiro kokan. Gbogbo awon eto yi lon tiraka lati fa awon ojulowo olumulo titun mora fun awon idi kanna ti ero wiwa n'kan to da duro yio fi tiraka lati fa awon olumulo mora lati Google ti o ba nbeere iye owo kekere fun gbogbo wiwa. Kokanaye bi ise na se dara si, awon eniyan nreti awon nkankan ki won je ofe. Eleyi je otito ti olumulo ba wa pada nsanwo to poju ni apapo labe agbekale isanwo to yato.
 
