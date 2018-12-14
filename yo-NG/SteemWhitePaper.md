@@ -368,9 +368,9 @@ Eto imo blockchain nisin daduro lori owo idunadura lati dina awuruju. Awon owo y
 
 ## Isoro Pelu Awon Owo
 
-Awon blockchain je awon netiworki ti ko da lori nkankan nibi ti gbogbo awon idunadura je agbejade si gbogbo awon egbe. Loorekore blocku kan man jade to ni die tabi gbogbo awon idunadura tio ti lo. Gbogbo awon blockchain gbudo wa ojutu lati dina awon olumulo onirira lati ma je basubasu agbara netiworki to wa nile pelu awon idunadura tio lowolori. Awon idunadura yi tio ni iwulo le dina awon idunadura moran to wulo lati ma je aseyori tosi ma ba netiworki je lakotan.
+Awon blockchain je awon netiworki ti ko da lori nkankan nibi ti gbogbo awon idunadura je agbejade si gbogbo awon egbe. Loorekore blocku kan man jade to ni die tabi gbogbo awon idunadura tio ti lo. Gbogbo awon blockchain gbudo wa ojutu lati dina awon olumulo onirira lati ma je basubasu agbara netiworki to wa nile pelu awon idunadura tio lowolori. Awon idunadura yi tio ni iwulo le dina awon idunadura miran to wulo lati ma je aseyori tosi ma ba netiworki je lakotan.
 
-Ojutu ti opo awon blockchain n lo di isin ni kiwon bere owo idunadura to kere julo. Iye owo to je awon centi die to lati jeki idojuko netiworki won ati alai ni ere. Nigba ti ona yi nse iyanju isoro ti awuruju, oun se agbekale awon isoro titun. Se apeere yiyanju isoro ti awuruju imeeli nipa agbekale iye owo kekere kan lori gbogbo imeeli; awon eniyan koni lo imeeli.
+Ojutu ti opo awon blockchain n lo ni isin ni kiwon bere owo idunadura to kere julo. Iye owo to je awon centi die to lati jeki idojuko netiworki won ati alai ni ere. Nigba ti ona yi nse iyanju isoro ti awuruju, oun se agbekale awon isoro titun. Se apeere yiyanju isoro ti awuruju imeeli nipa agbekale iye owo kekere kan lori gbogbo imeeli; awon eniyan koni lo imeeli.
 
 ### Awon isanowo-kekeke Okin Sise
 
