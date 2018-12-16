@@ -471,9 +471,9 @@ Podobno logiko lahko uporabimo tudi za izračun maksimalnega števila edinstveni
 
 ### Ustvarjanje računov
 
-Steem's account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
+Steemov sistem z uporabo računov z javno znanimi zneski poenostavi izvedbo algoritma glede omejevanja pasovne širine. Vsak račun, ki ima manjši znesek sredstev od minimalne zahteve za opravljanje ene transakcije na teden, ne more opravljati transakcij. To pomeni, da mora biti na vsak nov račun naložen vsaj takšen minimalni znesek. To tudi pomeni, da lahko uporabniki, ki želijo opravljati transakcije z majhnimi zneski, to tudi storijo, vse dokler imajo dovolj visoko stanje na računu in račun uporabljajo.
 
-It is possible for a low-balance account created during a time of low usage to become inaccessible if the network usage picks up. The funds could be recovered at any time by transferring a larger balance into the account.
+Možno je, da račun z majhno vsoto sredstev, ki je ustvarjen v času majhnega prometa, postane nedostopen, če se uporaba omrežja poveča. The funds could be recovered at any time by transferring a larger balance into the account.
 
 In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
 
