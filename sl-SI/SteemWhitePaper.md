@@ -473,11 +473,11 @@ Podobno logiko lahko uporabimo tudi za izračun maksimalnega števila edinstveni
 
 Steemov sistem z uporabo računov z javno znanimi zneski poenostavi izvedbo algoritma glede omejevanja pasovne širine. Vsak račun, ki ima manjši znesek sredstev od minimalne zahteve za opravljanje ene transakcije na teden, ne more opravljati transakcij. To pomeni, da mora biti na vsak nov račun naložen vsaj takšen minimalni znesek. To tudi pomeni, da lahko uporabniki, ki želijo opravljati transakcije z majhnimi zneski, to tudi storijo, vse dokler imajo dovolj visoko stanje na računu in račun uporabljajo.
 
-Možno je, da račun z majhno vsoto sredstev, ki je ustvarjen v času majhnega prometa, postane nedostopen, če se uporaba omrežja poveča. The funds could be recovered at any time by transferring a larger balance into the account.
+Možno je, da račun z majhno vsoto sredstev, ki je ustvarjen v času majhnega prometa, postane nedostopen, če se uporaba omrežja poveča. Sredstva lahko postanejo znova dostopna, ko se na račun prenese večji znesek.
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+Da bi ohranjali razumno uporabniško izkušnjo s kar najmanjšim številom nedelujočih računov, bi morali vsi novi računi imeti na začetku 10-kratno vsoto sredstev, kot je minimalni zahtevani znesek za opravljanje ene transakcije na teden. Tako bo račun ostal dostopen, tudi če se povpraševanje poveča za faktor 10.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+Vsakršno začetno stanje na računu bi moralo prihajati od uporabnika, ki je ustvaril račun, ne pa od ustvaritve žetona, saj bi to predstavljalo nevarnost za napade Sybil.
 
 ### Justifying Minimum Balances
 
