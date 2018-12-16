@@ -457,11 +457,11 @@ Glede na to, da je R = 38 spodnja meja razmerja rezerve, je CLR/S spodnja meja d
 
 Vse zgornje ocene so konzervativne zgornje meje s predpostavko, da so kovanci in uporaba porazdeljeni sorazmerno enakomerno. Dejstvo pa je, da imajo težki uporabniki, kot so menjalne platforme, veliko višje razmerje kovanca proti uporabi kakor lažji uporabniki, kar posledično pomeni, da so dejanske minimalne zahteve glede ravnovesja veliko nižje.
 
-#### Vpliv kapacitete
+#### Vpliv zmogljivosti
 
-Kapaciteta blockchaina ni nujno omejena. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second. This changes our conservative upper bound to 0.0006 BTC or about $0.25, meaning that an account holding $0.25 would be able to transact at least once per week on average (and likely many more times because we're dealing with a fairly loose upper bound).
+Zmogljivost blockchaina ni nujno omejena. Je namreč povsem v mejah tehnoloških zmogljivosti internetne infrastrukture, da poveča velikost bloka Bitcoina na 10MB, kar bo posledično zmanjšalo minimalno zahtevano ravnovesje za faktor 10. Medtem ko Bitcoin trenutno podpira približno 3 transakcije na sekundo, so alternativne izvedbe zmožne opraviti več kot 1000 transakcij na sekundo. To spremeni našo konzervativno zgornjo mejo na 0,0006 BTC ali na približno 0,25 USD, kar pomeni, da bi račun, ki bi imel 0,25 USD, lahko opravljal transakcije v povprečju vsaj enkrat na teden (in verjetno še veliko večkrat, ker imamo opravka s precej ohlapno zgornjo mejo).
 
-#### Maximum Number of Unique Users
+#### Maksimalno število edinstvenih uporabnikov
 
 We can use similar math to calculate the maximum number of unique users that the network can allow to transact once per week as: B\*W/T. T represents the average transaction size. This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
 
