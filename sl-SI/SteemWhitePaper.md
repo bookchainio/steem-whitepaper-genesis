@@ -467,7 +467,7 @@ Podobno logiko lahko uporabimo tudi za izračun maksimalnega števila edinstveni
 
 #### Primerjava s pristojbinami
 
-Če predpostavimo, da bi uporabnik, ki ima na računu BTC v protivrednosti 25 USD, vsak teden opravil eno transakcijo in pri tem vsakič plačal 0,04 centa pristojbine, bi na leto pristojbine znašale več kot 2,00 USD. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Če predpostavimo, da bi uporabnik, ki ima na računu BTC v protivrednosti 25 USD, vsak teden opravil eno transakcijo in pri tem vsakič plačal 0,04 centa pristojbine, bi na leto pristojbine znašale več kot 2,00 USD. Uporabnik bi moral imeti 8 % donos na svojih 25 dolarjev, samo da bi lahko pokril stroške plačila pristojbin. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
 
 ### Account Creation
 
