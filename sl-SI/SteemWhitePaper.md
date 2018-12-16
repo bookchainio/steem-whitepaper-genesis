@@ -463,11 +463,11 @@ Zmogljivost blockchaina ni nujno omejena. Je namreč povsem v mejah tehnoloških
 
 #### Maksimalno število edinstvenih uporabnikov
 
-We can use similar math to calculate the maximum number of unique users that the network can allow to transact once per week as: B\*W/T. T represents the average transaction size. This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
+Podobno logiko lahko uporabimo tudi za izračun maksimalnega števila edinstvenih uporabnikov, ki jim omrežje lahko dovoli opravljanje transakcij enkrat na teden: B\*W/T. T predstavlja povprečno velikost transakcije. To pomeni, da bi Bitcoin lahko podpiral približno 2 milijona uporabnikov, ki bi opravljali transakcije enkrat tedensko, ob predpostavki, da ima vsak uporabnik enako stanje na računu.
 
-#### Comparison to Fees
+#### Primerjava s pristojbinami
 
-If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Če predpostavimo, da bi uporabnik, ki ima na računu BTC v protivrednosti 25 USD, vsak teden opravil eno transakcijo in pri tem vsakič plačal 0,04 centa pristojbine, bi na leto pristojbine znašale več kot 2,00 USD. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
 
 ### Account Creation
 
