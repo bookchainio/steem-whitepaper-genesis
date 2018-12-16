@@ -467,9 +467,9 @@ Podobno logiko lahko uporabimo tudi za izračun maksimalnega števila edinstveni
 
 #### Primerjava s pristojbinami
 
-Če predpostavimo, da bi uporabnik, ki ima na računu BTC v protivrednosti 25 USD, vsak teden opravil eno transakcijo in pri tem vsakič plačal 0,04 centa pristojbine, bi na leto pristojbine znašale več kot 2,00 USD. Uporabnik bi moral imeti 8 % donos na svojih 25 dolarjev, samo da bi lahko pokril stroške plačila pristojbin. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Če predpostavimo, da bi uporabnik, ki ima na računu BTC v protivrednosti 25 USD, vsak teden opravil eno transakcijo in pri tem vsakič plačal 0,04 centa pristojbine, bi na leto pristojbine znašale več kot 2,00 USD. Uporabnik bi moral imeti 8 % donos na svojih 25 dolarjev, samo da bi lahko pokril stroške plačila pristojbin. Možno je, da bi uporabniki v vsakem primeru ohranili svoj denar na blockchainu, zato bi ta uporabnik z BTC v vrednosti 25 USD, prihranil v enem letu 2 USD, če bi namesto plačevanja pristojbin uporabljal sistem z omejitvami števila glasov. Če bi imel na razpolago 175 USD, bi lahko opravljal transakcije vsak dan in na leto prihranil 14 USD.
 
-### Account Creation
+### Ustvarjanje računov
 
 Steem's account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
 
