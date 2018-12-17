@@ -476,7 +476,7 @@ Eto to dalori-akoole ti Steemu pelu awon iseku ta mo ni gbangba nfo wewe imulo t
 
 Osese fun akoole ti iseku-kekere ti a dasile ni akoko ti lilo ko po lati je ailewo ti ilo netiworki ba gbera. Ale gba awon owo na pada ni igbakugba nipa fifiranse iseku to tobi sinu akoole na.
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+Lati toju iriri ti olumulo kan to mogbonwale pelu iye awon akoole tio lo, gbogbo akoole titun gbudo bere pelu iseku toje iye to kere julo lati se idunadura loseose lona mewa. Lona yi ti ibeere paapa ba lo soke ni ida mewa akoole na asi ma sise deede.
 
 Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
 
