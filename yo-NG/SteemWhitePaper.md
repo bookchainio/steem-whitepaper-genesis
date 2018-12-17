@@ -482,7 +482,7 @@ Iseku akoko ti akoole yio nilo lati wa lati odo olumulo toun seda akoole na ki s
 
 ### Fifihan Awon Iseku Tokere-julo
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^11] . Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+Ero ti fifi ipa mu awon olumulo lati mulo iseku to kere julo nfa lati iye ti ako lori olumulo [^11]. Enikeni toun dari oko owo mo wipe olukuluku olumulo kokan loni anfani. Awon oko-owo man na lati bi $30 si $200 lati ni olumulo kan. Nigbamiran won san owo si awon olumulo lowo, ni igba miran won sanwo fun ipolowo, nigba miran won a ra odindin awon ile ise nitori akopo awon olumulo won lasun. Leyin ti ile ise kan ba ti ni olumulo won a ma fun wan ni opo * anfani ofe * lati jeki won duro titi ti won afi lo ona miran lati so won dowo.
 
 Ripple uses a minimum balance[^12] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
 
