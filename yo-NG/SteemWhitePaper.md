@@ -478,9 +478,9 @@ Osese fun akoole ti iseku-kekere ti a dasile ni akoko ti lilo ko po lati je aile
 
 Lati toju iriri ti olumulo kan to mogbonwale pelu iye awon akoole tio lo, gbogbo akoole titun gbudo bere pelu iseku toje iye to kere julo lati se idunadura loseose lona mewa. Lona yi ti ibeere paapa ba lo soke ni ida mewa akoole na asi ma sise deede.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+Iseku akoko ti akoole yio nilo lati wa lati odo olumulo toun seda akoole na ki se lati siseda tokini nitori awon idojuko sybil to le sele.
 
-### Justifying Minimum Balances
+### Fifihan Awon Iseku Tokere-julo
 
 The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^11] . Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
 
