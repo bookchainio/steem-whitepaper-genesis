@@ -479,9 +479,9 @@ Da bi ohranjali razumno uporabniško izkušnjo s kar najmanjšim številom nedel
 
 Vsakršno začetno stanje na računu bi moralo prihajati od uporabnika, ki je ustvaril račun, ne pa od ustvaritve žetona, saj bi to predstavljalo nevarnost za napade Sybil.
 
-### Justifying Minimum Balances
+### Kako opravičiti minimalna sredstva
 
-The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^11] . Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+Zamisel za to, da so uporabniki prisiljeni ohranjati minimalno stanje sredstev, naravno izhaja iz vrednosti uporabnika[^11]. Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
 
 Ripple uses a minimum balance[^12] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
 
