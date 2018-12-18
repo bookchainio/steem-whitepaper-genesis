@@ -489,9 +489,9 @@ Blockchain lahko uveljavi minimalni znesek na uporabnika z uporabo preprostega p
 
 Ohranjanje minimalnega stanja je pravzaprav enako, kot če bi uporabniki plačevali transakcijske pristojbine skupaj z obrestmi, ki bi se lahko pripisale njihovemu stanju. Minimalno stanje je preprosto stanje, ki je potrebno, da bi se lahko zaslužilo dovolj obresti za plačilo pristojbine v sorazmerno kratkem obdobju.
 
-Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn't incur the cognitive cost of a micro-fee and is far more acceptable to users.
+Na srečo lahko zahtevano minimalno stanje znaša zgolj približno en dolar in to je nekaj, kar uporabniki lahko razumejo in cenijo. Priložnostni strošek izgubljenih obresti ne povroča miselnega stroška, povezanega z mikro pristojbinami, in je za uporabnike veliko bolj sprejemljiv.
 
-The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power).
+STEEM, ki se uporabi za vnaprejšnje polnjenje stanja računa, se ob ustvaritvi novega računa spremeni v SP.
 
 ### Adjusting the Reserve Ratio
 
