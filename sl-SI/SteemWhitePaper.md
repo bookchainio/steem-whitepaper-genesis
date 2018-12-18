@@ -493,9 +493,9 @@ Na srečo lahko zahtevano minimalno stanje znaša zgolj približno en dolar in t
 
 STEEM, ki se uporabi za vnaprejšnje polnjenje stanja računa, se ob ustvaritvi novega računa spremeni v SP.
 
-### Adjusting the Reserve Ratio
+### Prilagajanje razmerja rezerve
 
-Rate limiting requires that the network adjust the reserve ratio quickly enough to mitigate the impact of an attacker attempting to ood the network. Let's assume the attacker has a large balance, say 1% of the available tokens. If we also assume that the network targets 50% utilization, then a sustained attack should find this user throttled to 25% of network capacity assuming everyone else is also using 25% of the capacity. Stated another way, the largest single user should never be able to consume more than 50% of the target capacity unless they own more than 50% of the SP.
+Omejitev števila glasov zahteva, da omrežje prilagaja razmerje rezerve dovolj hitro, da ublaži posledice napadalca, ki bi skušal izkoristiti omrežje. Predpostavimo, da ima napadalec višje stanje sredstev, denimo 1% razpoložljivih žetonov. Če prav tako predpostavljamo, da je omrežje naravnano na 50% uporabe, potem bi bil ta vztrajni napadalec omejen na 25% zmogljivosti omrežja ob predpostavki, da vsi drugi uporabniki uporabljajo 25% omrežja. Povedano drugače, največji posamezni uporabnik nikoli ne more porabiti več kot 50% cilje zmogljivosti, razen če ima v lasti več kot 50% SP-ja.
 
 Let's use an initial reserve ratio of 200x. Due to fractional reserves, this means someone holding 1% of the tokens has the right to demand transactions totalling 2x the maximum block size. In order to bring the network usage of the attacker down to 25% the reserve ratio would have to fall to 25x. This would cause the minimum balance required to transact once per week to grow by 8x.
 
