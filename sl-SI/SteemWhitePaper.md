@@ -487,7 +487,7 @@ Ripple uporablja minimalno stanje[^12], ki se veča skupaj z uporabo sredstev ra
 
 Blockchain lahko uveljavi minimalni znesek na uporabnika z uporabo preprostega postopka, ki zahteva minimalno stanje. Vsako podjetje, ki želi pripeljati novega uporabnika na blockchain, lahko vnaprej naloži minimalni znesek na račun tega uporabnika, kar mu bo omogočilo opravljati transakcije. Če bi se zahtevala sorazmerno velika pristojbina (1,00 USD) pri registraciji novih uporabnikov, bi to naravno prisililo vsakega, ki ponuja brezplačne račune, da bi ocenil kakovost in edinstvenost vsakega računa, preden bi ga prijavil na blockchain.
 
-Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
+Ohranjanje minimalnega stanja je pravzaprav enako, kot če bi uporabniki plačevali transakcijske pristojbine skupaj z obrestmi, ki bi se lahko pripisale njihovemu stanju. Minimalno stanje je preprosto stanje, ki je potrebno, da bi se lahko zaslužilo dovolj obresti za plačilo pristojbine v sorazmerno kratkem obdobju.
 
 Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn't incur the cognitive cost of a micro-fee and is far more acceptable to users.
 
