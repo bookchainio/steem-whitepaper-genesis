@@ -485,7 +485,7 @@ Zamisel za to, da so uporabniki prisiljeni ohranjati minimalno stanje sredstev, 
 
 Ripple uporablja minimalno stanje[^12], ki se veča skupaj z uporabo sredstev računa in zahteva, da se novi računi ustvarijo z vsaj tem minimalnim stanjem. Trenutno to minimalno stanje znaša okoli 0,15 USD, kar je več od 0,10 USD, kar bi po naši oceni nekomu omogočalo, da brez omejitev opravi vsaj eno transakcijo na teden.
 
-Blockchain lahko uveljavi minimalni znesek na uporabnika z uporabo preprostega postopka, ki zahteva minimalno stanje. Any business that wishes to bring a new customer to the blockchain can pre-fund that user's account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+Blockchain lahko uveljavi minimalni znesek na uporabnika z uporabo preprostega postopka, ki zahteva minimalno stanje. Vsako podjetje, ki želi pripeljati novega uporabnika na blockchain, lahko vnaprej naloži minimalni znesek na račun tega uporabnika, kar mu bo omogočilo opravljati transakcije. Če bi se zahtevala sorazmerno velika pristojbina (1,00 USD) pri registraciji novih uporabnikov, bi to naravno prisililo vsakega, ki ponuja brezplačne račune, da bi ocenil kakovost in edinstvenost vsakega računa, preden bi ga prijavil na blockchain.
 
 Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
 
