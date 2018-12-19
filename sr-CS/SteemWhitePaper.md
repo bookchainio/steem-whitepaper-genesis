@@ -34,11 +34,11 @@ Steem zajednica obezbeđuje sledeće usluge svojim članovima:
 4. Plaćanja bez provizija.
 5. Poslove koji pružaju prethodno navedene usluge ostalim članovima.
 
-Svrsishodna promena fokusa ekonomskog podsticaja na Steem-u, u poređenju sa ranijim društvenim mrežama i platformama kriptovaluta, ima potencijal da stvori ravnopravnije i angažovanije rezultate za sve koji su uključeni. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
+Svrsishodna promena fokusa ekonomskog podsticaja na Steem-u, u poređenju sa ranijim društvenim mrežama i platformama kriptovaluta, ima potencijal da stvori ravnopravnije i angažovanije rezultate za sve koji su uključeni. Ovaj papir će predstaviti postojeće ekonomske podsticaje i demonstrirati kako Steem može da utiče na ishod koji je bolji za većinu učesnika.
 
-## Recognizing Contribution
+## Prepoznavanje doprinosa
 
-Steem is designed from the ground up to address the major barriers to adoption and monetization of a social media based economy. Our thesis is that the same techniques used to grow major social media platforms can be used to bootstrap a successful cryptocurrency. Economic incentives enabled by cryptocurrency can dramatically facilitate the growth of a new social media platform. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+Steem je dizajniran od samog temelja tako da se bavi glavnim preprekama za usvajanje i monetizaciju ekonomije koja se zasniva na društvenim mrežama. Naša ideja je da se iste tehnike koje se koriste za rast glavnih socijalnih mreža mogu iskoristiti za pokretanje uspešne kriptovalute. Ekonomski podsticaj, omogućen od strane kriptovalute, može drastično olakšati rast nove platforme za društvene mreže. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
 
 The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
 
