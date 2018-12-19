@@ -29,10 +29,10 @@ Treći princip je da zajednica stvara proizvode koji služe svojim članovima. O
 Steem zajednica obezbeđuje sledeće usluge svojim članovima:
 
 1. Izvor odabranih vesti i komentara.
-2. A means to get high quality answers to personalized questions.
-3. A stable cryptocurrency pegged to the U.S. dollar.
-4. Free payments.
-5. Jobs providing above services to other members.
+2. Sredstvo za dobijanje visoko kvalitetnih odgovora na pitanja pojedinaca.
+3. Stabilnu kriptovalutu, vezanu za američki dolar.
+4. Plaćanja bez provizija.
+5. Poslove koji pružaju prethodno navedene usluge ostalim članovima.
 
 Steem's purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
 
