@@ -38,7 +38,7 @@ Svrsishodna promena fokusa ekonomskog podsticaja na Steem-u, u poređenju sa ran
 
 ## Prepoznavanje doprinosa
 
-Steem je dizajniran od samog temelja tako da se bavi glavnim preprekama za usvajanje i monetizaciju ekonomije koja se zasniva na društvenim mrežama. Naša ideja je da se iste tehnike koje se koriste za rast glavnih socijalnih mreža mogu iskoristiti za pokretanje uspešne kriptovalute. Ekonomski podsticaj, omogućen od strane kriptovalute, može drastično olakšati rast nove platforme za društvene mreže. It is the synergy between cryptocurrency and social media that we believe may give Steem a powerful advantage in the market.
+Steem je dizajniran od samog temelja tako da se bavi glavnim preprekama za usvajanje i monetizaciju ekonomije koja se zasniva na društvenim mrežama. Naša ideja je da se iste tehnike koje se koriste za rast glavnih socijalnih mreža mogu iskoristiti za pokretanje uspešne kriptovalute. Ekonomski podsticaj, omogućen od strane kriptovalute, može drastično olakšati rast nove platforme za društvene mreže. U pitanju je sinergija kriptovalute i društvene mreže, za koju verujemo da može dati Steem-u veliku prednost na tržištu.
 
 The challenge faced by Steem is deriving an algorithm for scoring individual contributions that most community members consider to be a fair assessment of the subjective value of each contribution. In a perfect world, community members would cooperate to rate each other's contribution and derive a fair compensation. In the real world, algorithms must be designed in such a manner that they are resistant to intentional manipulation for profit. Any widespread abuse of the scoring system could cause community members to lose faith in the perceived fairness of the economic system.
 
