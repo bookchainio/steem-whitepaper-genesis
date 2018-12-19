@@ -34,7 +34,7 @@ Steem zajednica obezbeđuje sledeće usluge svojim članovima:
 4. Plaćanja bez provizija.
 5. Poslove koji pružaju prethodno navedene usluge ostalim članovima.
 
-Steem's purposeful realignment of economic incentives has the potential to produce fairer and more inclusive results for everyone involved than the social media and cryptocurrency platforms that have gone before it. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
+Svrsishodna promena fokusa ekonomskog podsticaja na Steem-u, u poređenju sa ranijim društvenim mrežama i platformama kriptovaluta, ima potencijal da stvori ravnopravnije i angažovanije rezultate za sve koji su uključeni. This paper will explore the existing economic incentives and demonstrate how Steem's incentives may result in better outcomes for most participants.
 
 ## Recognizing Contribution
 
