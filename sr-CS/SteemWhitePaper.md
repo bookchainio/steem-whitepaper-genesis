@@ -1,16 +1,16 @@
 # Steem
 
-## An incentivized, blockchain-based social media platform.
+## Platforma podstaknuta društvenim sadržajem, zasnovana na blokčejnu.
 
-March 2016
+Mart 2016
 
-# Translator's notes
+# Napomene prevodioca
 
-Placeholder for translator's notes.
+Mesto za smeštanje napomena prevodioca.
 
-# Abstract
+# Rezime
 
-Steem is a blockchain database that supports community building and social interaction with cryptocurrency rewards. Steem combines concepts from social media with lessons learned from building cryptocurrencies and their communities. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Steem je baza podataka na blokčejnu koja podržava stvaranje zajednice i društvenu interakciju uz nagrade u vidu kriptovaluta. Steem kombinuje koncepte društvene mreže sa stvarima naučenim tokom stvaranja kriptovaluta i njihovih zajednica. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
 
 # Table of Contents
 
