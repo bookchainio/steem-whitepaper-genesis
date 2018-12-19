@@ -10,7 +10,7 @@ Mesto za smeštanje napomena prevodioca.
 
 # Rezime
 
-Steem je baza podataka na blokčejnu koja podržava stvaranje zajednice i društvenu interakciju uz nagrade u vidu kriptovaluta. Steem kombinuje koncepte društvene mreže sa stvarima naučenim tokom stvaranja kriptovaluta i njihovih zajednica. An important key to inspiring participation in any community, currency or free market economy is a fair accounting system that consistently reflects each person's contribution. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Steem je baza podataka na blokčejnu koja podržava stvaranje zajednice i društvenu interakciju uz nagrade u vidu kriptovaluta. Steem kombinuje koncepte društvene mreže sa stvarima naučenim tokom stvaranja kriptovaluta i njihovih zajednica. Ključna stvar za inspirativno učešće u bilo kojoj zajednici ili ekonomiji slobodnog tržišta ili valuta je fer računovodstveni sistem koji dosledno predstavlja doprinos svake osobe. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
 
 # Table of Contents
 
