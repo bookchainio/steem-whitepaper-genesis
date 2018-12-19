@@ -24,11 +24,11 @@ Postoje neki ključni principi koji su korišćeni tokom dizajniranja Steem-a. N
 
 Drugi princip je da su sve forme kapitala jednako vredne. Ovo znači da su oni koji izdvajaju svoje vreme i energiju tokom stvaranja i ocenjivanja sadržaja za ostale podjednako vredni kao i oni koji doprinose svojim novcem. Ovo je princip ''jednakosti znojenja''[^2] i to je koncept sa kojim su prethodne kriptovalute često imale problem tokom obezbeđivanja više od nekoliko desetina indiviua.
 
-Treći princip je da zajednica stvara proizvode koji služe svojim članovima. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+Treći princip je da zajednica stvara proizvode koji služe svojim članovima. Ovaj princip se lepo vidi na primeru kreditnih unija, kooperativnih prehrambenih društava i planova za deljenje zdravlja koji radije služe članovima svoje zajednice nego što prodaju proizvod ili svoje usluge van zajednice.
 
-The Steem community provides the following services to its members:
+Steem zajednica obezbeđuje sledeće usluge svojim članovima:
 
-1. A source of curated news and commentary.
+1. Izvor odabranih vesti i komentara.
 2. A means to get high quality answers to personalized questions.
 3. A stable cryptocurrency pegged to the U.S. dollar.
 4. Free payments.
