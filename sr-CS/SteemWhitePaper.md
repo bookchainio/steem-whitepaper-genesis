@@ -10,15 +10,15 @@ Mesto za smeštanje napomena prevodioca.
 
 # Rezime
 
-Steem je baza podataka na blokčejnu koja podržava stvaranje zajednice i društvenu interakciju uz nagrade u vidu kriptovaluta. Steem kombinuje koncepte društvene mreže sa stvarima naučenim tokom stvaranja kriptovaluta i njihovih zajednica. Ključna stvar za inspirativno učešće u bilo kojoj zajednici ili ekonomiji slobodnog tržišta ili valuta je fer računovodstveni sistem koji dosledno predstavlja doprinos svake osobe. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
+Steem je baza podataka na blokčejnu koja podržava stvaranje zajednice i društvenu interakciju uz nagrade u vidu kriptovaluta. Steem kombinuje koncepte društvene mreže sa stvarima naučenim tokom stvaranja kriptovaluta i njihovih zajednica. Ključna stvar za inspirativno učešće u bilo kojoj zajednici ili ekonomiji slobodnog tržišta ili valuta je fer računovodstveni sistem koji dosledno predstavlja doprinos svake osobe. Steem je prva kriptovaluta koja pokušava da precizno i jasno nagradi neograničen broj pojedinaca koji *na subjektivan način doprinose* svojoj zajednici.
 
-# Table of Contents
+# Sadržaj
 
 <!-- toc -->
 
-# Introduction
+# Uvod
 
-Collectively, user-generated content has created billions of dollars worth of value for the shareholders of social media companies, such as Reddit, Facebook, and Twitter. **In 2014, Reddit hypothesized that its platform would be improved if everyone who contributed to reddit.com by posting stories, adding comments or voting were rewarded with a fair share in Reddit, Inc[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
+Generalno, korisnički-generisan sadržaj je stvorio vrednost koja se meri u milijardama dolara vlasnicima akcija kompanija koje se bave društvenim mrežama, kao što su Reddit, Facebook i Twitter. **Reddit je u 2014. pretpostavio da bi njihova platforma bila unaprađena ukoliko bi svako ko doprinosi na reddit.com postavljajući svoje priče, komentare ili glasove bio nagrađen srazmernim udelom u kompaniji Reddit Inc[^1]**. Steem aims to support social media and online communities by returning much of its value to the people who provide valuable contributions by rewarding them with cryptocurrency, and through this process create a currency that is able to reach a broad market, including people who have yet to participate in any cryptocurrency economy.
 
 There are some key principles that have been used to guide the design of Steem. The most important principle is that everyone who contributes to a venture should receive pro-rata ownership, payment or debt from the venture. This principle is the same principle that is applied to all startups as they allocate shares at founding and during subsequent funding rounds.
 
