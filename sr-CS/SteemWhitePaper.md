@@ -22,9 +22,9 @@ Generalno, korisnički-generisan sadržaj je stvorio vrednost koja se meri u mil
 
 Postoje neki ključni principi koji su korišćeni tokom dizajniranja Steem-a. Najvažniji princip je da bi svako ko doprinosi projektu trebalo da dobije proporcionalno vlasništvo, isplatu ili kredit od projekta. Ovo je isti princip koji koriste startapovi kada izdvajaju akcije tokom osnivanja i kasnijih prikupljanja sredstava.
 
-Drugi princip je da su sve forme kapitala jednako vredne. This means that those who contribute their scarce time and attention toward producing and curating content for others are just as valuable as those who contribute their scarce cash. This is the sweat equity principle[^2] and is a concept that prior cryptocurrencies have often had trouble providing to more than a few dozen individuals.
+Drugi princip je da su sve forme kapitala jednako vredne. Ovo znači da su oni koji izdvajaju svoje vreme i energiju tokom stvaranja i ocenjivanja sadržaja za ostale podjednako vredni kao i oni koji doprinose svojim novcem. Ovo je princip ''jednakosti znojenja''[^2] i to je koncept sa kojim su prethodne kriptovalute često imale problem tokom obezbeđivanja više od nekoliko desetina indiviua.
 
-The third principle is that the community produces products to serve its members. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
+Treći princip je da zajednica stvara proizvode koji služe svojim članovima. This principle is exemplified by credit unions, food co-ops, and health sharing plans, which serve the members of their community rather than sell products or services to people outside the community.
 
 The Steem community provides the following services to its members:
 
