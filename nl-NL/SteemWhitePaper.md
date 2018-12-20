@@ -283,15 +283,15 @@ Het economische effect hiervan is vergelijkbaar met een loterij waarbij mensen h
 
 #### Belonen van openingsberichten
 
-Een goede discussie vereist heen en weer reageren. Wanneer je iemand anders antwoordt, krijgen ze 50% van de uitbetaling die je in die thread ontvangt. Deze regel geldt tot 6 niveaus diep. Starting a big discussion greatly rewards the parent poster.
+Een goede discussie vereist heen en weer reageren. Wanneer je iemand anders antwoordt, krijgen ze 50% van de uitbetaling die je in die thread ontvangt. Deze regel geldt tot 6 niveaus diep. Het starten van een grote discussie beloont de openings-poster enorm.
 
-Failure to properly nest your posts in the discussion is a good way to get down voted.
+Het niet goed nesten van je berichten in de discussie is een goede manier om naar beneden gestemd te worden.
 
-This incentive structure motivates people to contribute in a way that motivates others to get involved. It encourages people to ask good questions so that others can provide valuable answers.
+Deze beloningsstructuur motiveert mensen om bij te dragen op een manier die anderen motiveert om betrokken te raken. Het moedigt mensen aan om goede vragen te stellen, zodat anderen waardevolle antwoorden kunnen geven.
 
-### Payouts
+### Uitbetalingen
 
-When a post receives a payout it takes the form of 50% SMD and 50% SP. The Steem Power give the user increased voting and transaction power while the SMD gives the user an immediate benefit in a stable currency. As we've already discussed at length, both SP and SMD are designed to encourage long-term holding rather than short-term selling.
+Wanneer een post een uitbetaling ontvangt neemt het de vorm van 50% SMD en 50% SP. De Steem Power geeft de gebruiker meer stem- en transactievermogen, terwijl de SMD de gebruiker een direct voordeel geeft in een stabiele valuta. Zoals we al uitgebreid hebben besproken, zijn zowel SP als SMD bedoeld om langetermijn-houderschap te stimuleren in plaats van kortetermijn-verkopen.
 
 # Consensus algoritme
 
@@ -592,7 +592,7 @@ Omdat 90% van alle gecreëerde STEEM wordt teruggegeven aan de houders van SP, i
 
 Het creëren van nieuwe STEEM om een bepaalde gebruiker of groep te stimuleren om aan een bepaalde gebruiker of groep te betalen, heeft een negatief effect op het saldo van elke andere gebruiker in termen van hun percentage van het STEEM-aanbod. Als precies 90% van het STEEM-aanbod in SP wordt vastgehouden, dan wordt het negatieve effect van Contribution Incentives op de saldi van SP houders precies gecompenseerd door het positieve effect van Power Incentives; SP houders krijgen meer STEEM (nominaal) maar hun percentage van de keten (in termen van fractie van het totale aanbod) is ongewijzigd. Als minder (meer) dan 90% van de STEEM-voorziening als SP wordt gehouden, de twee effecten nog steeds in tegengestelde richting wijzen, maar het positieve (negatieve) effect groter wordt, zal de som van deze twee effecten de SP-balans naar 90% trekken. Deze "pull" betekent niet dat de SP-waarde op lange termijn op 90% moet blijven staan, omdat de ontvangers van de stimulans hun STEEM in SP zullen (en in sommige gevallen moeten) omzetten, wat betekent dat de "pull" naar 90% niet de enige kracht is op het percentage van het STEEM-aanbod dat als SP wordt aangehouden.
 
-From August 2008 through January 2009 the U.S. money supply[^17] grew from $871B to $1,737B, a rate of over 100% per year and then continued to grow at about 20% per year for the next 6 years. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index [^18] . This real-world example demonstrates that supply is only one component of price.
+Vanaf augustus 2008 tot en met januari 2009 groeide de Amerikaanse geldhoeveelheid[^17] van $871 miljard naar $1737 miljard, een percentage van meer dan 100% per jaar en vervolgens bleef het de 6 opvolgende jaren groeien met ongeveer 20% per jaar. All told the money supply in the U.S. has grown by 4.59x over less than 7 years. During that same time, the value of the dollar relative to goods and services has fallen less than 10% according to the government's price index [^18] . This real-world example demonstrates that supply is only one component of price.
 
 The price of a digital commodity, like STEEM, is driven by both supply and demand. If new STEEM is allocated to those who are holding long-term then the increase in supply is offset by the corresponding demand to hold. The impact of this change in supply is postponed until a future date when the long-term holder decides to sell. The sell pressure is then distributed over 2 years.
 
