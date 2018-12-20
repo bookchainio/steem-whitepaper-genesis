@@ -259,7 +259,7 @@ Het stemrecht wordt vermenigvuldigd met de vesting-tokens van een gebruiker om t
 
 ![](\img_change_voting_period_eg.png)
 
-To further prevent abuse, all payouts are delayed a stake-weighted average of 24 hours from the time each vote was cast. This ensures that large stakeholders cannot snipe payouts by voting at the last second before other voters (aka crabs) have a chance to negate the potential abuse. Once a payout is made to the user all votes are reset to 0. If votes come in after the payout then the process begins again.
+Om misbruik verder te voorkomen, worden alle uitbetalingen uitgesteld met een stake-gewogen gemiddelde van 24 uur vanaf het moment dat elke stem werd uitgebracht. Dit zorgt ervoor dat grote belanghebbenden geen uitbetalingen kunnen wegritsen door op de laatste seconde te stemmen voordat andere kiezers (aka crabs) de kans hebben om het mogelijke misbruik ongedaan te maken. Zodra een uitbetaling aan de gebruiker is gedaan, worden alle stemmen gereset naar 0. Als de stemmen na de uitbetaling binnenkomen, dan begint het proces opnieuw.
 
 This chart shows how the voting period expiration changes in response to new positive and negative votes being applied. New votes extend the payout period in proportion to how large they are relative to all votes that have gone before. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
 
