@@ -267,19 +267,19 @@ Deze grafiek laat zien hoe de stemperiode verandert als gevolg van de toepassing
 
 ![](\img_the_new_marketplace.png)
 
-One of the primary goals of Steem's reward system is to produce the best discussions on the internet. Each and every year 10% of the market capitalization of Steem is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be as much as $1.75 million dollars per day being given to top contributors.
+Een van de belangrijkste doelstellingen van Steem's beloningssysteem is het produceren van de beste discussies op het internet. Elk jaar wordt 10% van de marktkapitalisatie van Steem verdeeld onder de gebruikers die inhoud toevoegen, stemmen en de inhoud ervan bespreken. Vergeleken met de omvang van Bitcoin kan dit oplopen tot $1,75 miljoen dollar per dag dat aan de beste bijdragers wordt gegeven.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
+De feitelijke verdeling zal afhangen van het stemgedrag van de gebruikers, maar we vermoeden dat het overgrote deel van de beloningen naar de meest populaire inhoud zal worden gedistribueerd. Steem weegt de uitbetalingen in verhouding tot \\(n^{2}\\) de hoeveelheid Steem Power-stemmen voor een post. Met andere woorden, post x zou een uitbetaling ontvangen die in verhouding staat tot:
 
-\\(votes[x]^{2} / sum(votes[0...n]^{2})\\)
+\\(stemmen[x]^{2} / som(stemmen[0...n]^{2})\\)
 
-Zipf's Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the \\(k^{th}\\)-ranked item will measure about 1/k of the first one.
+Zipf’s Law[^7] is één van die empirische regels die een verrassend scala aan reële fenomenen opmerkelijk goed kenmerkt. Het zegt dat als we een grote collectie sorteren op grootte of populariteit, het tweede element in de collectie ongeveer de helft zal meten van de eerste, het derde zal een derde meten van de eerste, enzovoorts. In het algemeen zal het \\(k^{th}\\)-geplaatste item ongeveer 1/k van het eerste meten.
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf's Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Door populariteit als een ruwe maatstaf van waarde te nemen, wordt de waarde van elk afzonderlijk item gegeven door Zipf’s Law. Dat wil zeggen, als we een miljoen items hebben, dan zullen de 100 meest populaire een derde van de totale waarde bijdragen, de volgende 10.000 nog een derde, en de resterende 989.900 het laatste derde. De waarde van de verzameling van n items is evenredig aan de log(n).
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+De impact van deze distributie van stemmen en uitbetalingen is om grote bedragen aan te bieden voor goede inhoud en tegelijkertijd ook kleinere spelers te belonen voor hun bijdrage op lange termijn.
 
-The economic effect of this is similar to a lottery where people over-estimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone "wins something" plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+Het economische effect hiervan is vergelijkbaar met een loterij waarbij mensen hun kans op het krijgen van stemmen overschatten en dus meer werk doen dan de verwachte waarde van hun beloning en daardoor de totale hoeveelheid werk die in dienst van de gemeenschap wordt uitgevoerd maximaliseren. Het feit dat iedereen "iets wint" speelt in op dezelfde psychologie die casino's gebruiken om mensen aan het gokken te houden. In andere woorden, kleine beloningen versterken het idee dat het mogelijk is om grotere beloningen te verdienen.
 
 #### Rewarding Parent Posts
 
