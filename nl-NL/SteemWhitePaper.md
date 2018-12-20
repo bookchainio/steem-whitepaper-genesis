@@ -253,9 +253,9 @@ Een groot deel van het voorkomen van misbruik is door het aantal stemmen te bepe
 
 De tekening hierboven toont hoe een gebruiker zijn stemkracht vermindert elke keer hij stemt en dan langzaam terugkomt als er niet gestemt wordt. Deze toont ook de tijdseenheid die er gebruikt wordt maar kan aangepast worden op elk stemtempo. Merk op dat het stemrecht snel afneemt tijdens periodes van ononderbroken stemmen en zich dan langzaam herstelt.
 
-Voting power is multiplied by a user's vesting tokens to determine how much share in the reward pool should be allocated to a given work item.
+Het stemrecht wordt vermenigvuldigd met de vesting-tokens van een gebruiker om te bepalen hoeveel aandeel in de beloningspool moet worden toegekend aan een bepaalde taak.
 
-### Delayed Payouts
+### Vertraagde uitbetalingen
 
 ![](\img_change_voting_period_eg.png)
 
