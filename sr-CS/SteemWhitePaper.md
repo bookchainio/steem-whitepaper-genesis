@@ -48,7 +48,7 @@ Osnovna jedinica na nalogu na Steem platformi je kripto token STEEM. Steem funkc
 
 Steem je dizajniran prema relativno jednostavnom konceptu: *svačiji smisleni doprinos zajednici bi trebalo da bude prepoznat prema vrednosti koju dodaje. * Kada su ljudi prepoznati u zajednici zbog svojih značajnih doprinosa, oni nastavljaju da doprinose i zajednica samim tim raste. Svaki disbalans prilikom uzimanja i davanja unutar zajednice je neodrživ. Obično se oni koji pružaju zajednici umore od podržavanja onih koji samo uzimaju, tako da prestanu dalje da učestvuju u zajednici.
 
-The challenge is creating a system capable of identifying what contributions are needed and their relative worth in a way that can scale to an unbounded number of people.
+Izazov je kreirati sistem koji je u mogućnosti da prepozna koji doprinosi su neophodni i da proceni njihovu vrednost i primeniti ga na neograničen broj ljudi.
 
 A proven system for evaluating and rewarding contributions is the free market. The free market can be viewed as a single community where everyone trades with one another and rewards are allocated by profit and loss. The market system rewards those who provide value to others and punishes those who consume more value than they produce. The free market supports many different currencies and money is simply a commodity that everyone finds easy to exchange.
 
