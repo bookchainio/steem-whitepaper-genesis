@@ -281,9 +281,9 @@ De impact van deze distributie van stemmen en uitbetalingen is om grote bedragen
 
 Het economische effect hiervan is vergelijkbaar met een loterij waarbij mensen hun kans op het krijgen van stemmen overschatten en dus meer werk doen dan de verwachte waarde van hun beloning en daardoor de totale hoeveelheid werk die in dienst van de gemeenschap wordt uitgevoerd maximaliseren. Het feit dat iedereen "iets wint" speelt in op dezelfde psychologie die casino's gebruiken om mensen aan het gokken te houden. In andere woorden, kleine beloningen versterken het idee dat het mogelijk is om grotere beloningen te verdienen.
 
-#### Rewarding Parent Posts
+#### Belonen van openingsberichten
 
-Good discussion requires back and forth posting. When you reply to someone else, they get 50% of any payout you receive in that thread. This rule applies up to 6 levels deep. Starting a big discussion greatly rewards the parent poster.
+Een goede discussie vereist heen en weer reageren. Wanneer je iemand anders antwoordt, krijgen ze 50% van de uitbetaling die je in die thread ontvangt. Deze regel geldt tot 6 niveaus diep. Starting a big discussion greatly rewards the parent poster.
 
 Failure to properly nest your posts in the discussion is a good way to get down voted.
 
