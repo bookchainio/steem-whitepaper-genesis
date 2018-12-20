@@ -261,9 +261,9 @@ Het stemrecht wordt vermenigvuldigd met de vesting-tokens van een gebruiker om t
 
 Om misbruik verder te voorkomen, worden alle uitbetalingen uitgesteld met een stake-gewogen gemiddelde van 24 uur vanaf het moment dat elke stem werd uitgebracht. Dit zorgt ervoor dat grote belanghebbenden geen uitbetalingen kunnen wegritsen door op de laatste seconde te stemmen voordat andere kiezers (aka crabs) de kans hebben om het mogelijke misbruik ongedaan te maken. Zodra een uitbetaling aan de gebruiker is gedaan, worden alle stemmen gereset naar 0. Als de stemmen na de uitbetaling binnenkomen, dan begint het proces opnieuw.
 
-This chart shows how the voting period expiration changes in response to new positive and negative votes being applied. New votes extend the payout period in proportion to how large they are relative to all votes that have gone before. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
+Deze grafiek laat zien hoe de stemperiode verandert als gevolg van de toepassing van nieuwe positieve en negatieve stemmen. Nieuwe stemmen verlengen de uitbetalingstermijn in verhouding tot hoe groot ze zijn in verhouding tot alle stemmen die daarvoor zijn uitgebracht. Rond tijdstip 40 werd een groot aantal nieuwe stemmen toegevoegd, waardoor de stemperiode met 12 uur werd verlengd, waarna kleinere stemmen veel minder invloed hadden op de stemperiode.
 
-### Payout Distribution
+### Distributie van uitbetaling
 
 ![](\img_the_new_marketplace.png)
 
