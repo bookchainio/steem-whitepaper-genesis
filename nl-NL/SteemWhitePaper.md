@@ -251,7 +251,7 @@ Een groot deel van het voorkomen van misbruik is door het aantal stemmen te bepe
 
 ![](\img_voting_rate_limiting.png)
 
-De tekening hierboven toont hoe een gebruiker zijn stemkracht vermindert elke keer hij stemt en dan langzaam terugkomt als er niet gestemt wordt. Deze toont ook de tijdseenheid die er gebruikt wordt maar kan aangepast worden op elk stemtempo. Note that voting power rapidly drops off during periods of continuous voting, and then slowly recovers.
+De tekening hierboven toont hoe een gebruiker zijn stemkracht vermindert elke keer hij stemt en dan langzaam terugkomt als er niet gestemt wordt. Deze toont ook de tijdseenheid die er gebruikt wordt maar kan aangepast worden op elk stemtempo. Merk op dat het stemrecht snel afneemt tijdens periodes van ononderbroken stemmen en zich dan langzaam herstelt.
 
 Voting power is multiplied by a user's vesting tokens to determine how much share in the reward pool should be allocated to a given work item.
 
