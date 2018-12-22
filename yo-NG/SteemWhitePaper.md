@@ -484,7 +484,7 @@ Iseku akoko ti akoole yio nilo lati wa lati odo olumulo toun seda akoole na ki s
 
 Ero ti fifi ipa mu awon olumulo lati mulo iseku to kere julo nfa lati iye ti ako lori olumulo [^11]. Enikeni toun dari oko owo mo wipe olukuluku olumulo kokan loni anfani. Awon oko-owo man na lati bi $30 si $200 lati ni olumulo kan. Nigbamiran won san owo si awon olumulo lowo, ni igba miran won sanwo fun ipolowo, nigba miran won a ra odindin awon ile ise nitori akopo awon olumulo won lasun. Leyin ti ile ise kan ba ti ni olumulo won a ma fun wan ni opo * anfani ofe * lati jeki won duro titi ti won afi lo ona miran lati so won dowo.
 
-Ripple uses a minimum balance[^12] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
+Ripple nlo iseku to kere julo ti[^12] toun se iwon pelu akoole awon oun elo lilo ati to nilo awon akoole titun lati ni owo okereju to dogba pelu iseku to kere julo. Nisin iseku to kere ju yi je bi $0.15 eleyi to po ju $0.10 lo eleyi ti a ro pe oma fayegba enikan lati se idunadura laisi afowodi ni okereju ekan lose.
 
 A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Any business that wishes to bring a new customer to the blockchain can pre-fund that user's account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
 
