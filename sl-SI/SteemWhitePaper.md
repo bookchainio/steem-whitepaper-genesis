@@ -507,7 +507,7 @@ Vsakič ko uporaba omrežja pade pod 50%, mora priti do počasnega konstantnega 
 
 Vsak uporabnik, ki ima manj kot SKUPAJ\_ŽETONOV / (2 \*RAZMERJE\_REZERVE), ne bo mogel opraviti dovolj transakcij, da bi zapolnil že en sam blok. Z razmerjem rezerve, ki bi znašalo 200, ne bi mogel noben uporabnik z manj kot 0,25% valute ustvariti dovolj transakcij, da bi zmotil storitve kogar koli.
 
-### Effectiveness Relative to Fees
+### Učinkovitost glede na pristojbine
 
 To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
 
