@@ -499,9 +499,9 @@ Omejitev števila glasov zahteva, da omrežje prilagaja razmerje rezerve dovolj 
 
 Vzemimo, da je začetno razmerje rezerve 200x. Zaradi frakcijskih rezerv to pomeni, da ima nekdo, ki ima v lasti 1% žetonov, pravico zahtevati transakcije, ki skupaj znašajo 2x maksimalne velikosti bloka. Da bi se uporaba omrežja napadalca zmanjšala na 25%, bi moralo razmerje rezerve pasti na 25x. To bi povzročilo, da bi se minimalno stanje, potrebno za opravljanje transakcije enkrat na teden, povečalo za 8x.
 
-The blockchain can establish a response rate that says any sustained increase in usage should be brought down to the target capacity in within a short period of time (say 30 seconds). An attacker attempting to spam the network shouldn't be able to disrupt service for normal users for more than a minute.
+Blockchain lahko vzpostavi stopnjo odzivnosti, ki zahteva, da mora vsako dlje trajajoče povečanje uporabe pasti na ciljno zmogljivost znotraj kratkega časovnega obdobja (na primer v 30 sekundah). Napadalcu, ki bi skušal preobremeniti omrežje, ne bi smelo biti dovoljeno, da bi onemogočil storitve za običajne uporabnike za več kot eno minuto.
 
-While reductions in the reserve ratio must be quick and non-linear to counter abuse, increases in the reserve ratio should be slow and linear. If the network adjusted in both directions in just 30 seconds then an attacker could pulse the network. A flood of transactions should be corrected in 30 seconds and then take a hour to return to their pre-attack levels. Under this model the attacker could flood the network for 30 seconds per hour or less than 1% of the time.
+Medtem ko mora biti zmanjševanje razmerja rezerve hitro in nelinarno, da bi se preprečile zlorabe, pa mora biti povečanje razmerja rezerve počasno in linearno. If the network adjusted in both directions in just 30 seconds then an attacker could pulse the network. A flood of transactions should be corrected in 30 seconds and then take a hour to return to their pre-attack levels. Under this model the attacker could flood the network for 30 seconds per hour or less than 1% of the time.
 
 There must be a slow constant upward pressure on the reserve ratio any time network usage is below 50% until the network hits the maximum reserve ratio. The maximum reserve ratio determines the minimum required stake to flood the network in short bursts.
 
