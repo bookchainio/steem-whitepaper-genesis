@@ -509,11 +509,11 @@ Vsak uporabnik, ki ima manj kot SKUPAJ\_ŽETONOV / (2 \*RAZMERJE\_REZERVE), ne b
 
 ### Učinkovitost glede na pristojbine
 
-Da bi primerjali učinkovitost omejevanja števila glasov s pristojbinami, moramo upoštevati, kako se ta sistema odzivata na to, ko napadalec namerno preobremenjuje omrežje. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+Da bi primerjali učinkovitost omejevanja števila glasov s pristojbinami, moramo upoštevati, kako se ta sistema odzivata na to, ko napadalec namerno preobremenjuje omrežje. V primeru Bitcoina bi napadalec z 10.000 dolarji lahko zmotil delovanje sistema za cel dan, ko bi zapolnil vsak blok. Isti napadalec pa v sistemu dinamične frakcijske rezerve, pri kateri velja omejevanje števila glasov, ne bi mogel zmotiti delovanja sistema že za en sam blok.
 
-If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+Če uporabimo bolj skrajen primer in predpostavimo, da ima napadalec v lasti 1% vseh žetonov, potem gre za napadalca z 60 milijoni dolarjev. Takšen napadalec bi lahko onemogočil delovanje Bitcoin blockchaina za 16 let, razen če bi rudarji povečali pristojbine ali zmogljivost. Tudi če bi se pristojbine povečale na 15 USD za transakcijo, bi napadalec še vedno onemogočal delovanje omrežja 16 dni.
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+Pri sistemu z omejevanjem števila glasov bi nekdo, ki bi imel v lasti 1% vseh žetonov in bi nameraval onemogočiti delovanje omrežja, to lahko storil za manj kot 30 sekund.
 
 ### Renting vs. Buying vs. Time Sharing
 
