@@ -501,9 +501,9 @@ Vzemimo, da je začetno razmerje rezerve 200x. Zaradi frakcijskih rezerv to pome
 
 Blockchain lahko vzpostavi stopnjo odzivnosti, ki zahteva, da mora vsako dlje trajajoče povečanje uporabe pasti na ciljno zmogljivost znotraj kratkega časovnega obdobja (na primer v 30 sekundah). Napadalcu, ki bi skušal preobremeniti omrežje, ne bi smelo biti dovoljeno, da bi onemogočil storitve za običajne uporabnike za več kot eno minuto.
 
-Medtem ko mora biti zmanjševanje razmerja rezerve hitro in nelinarno, da bi se preprečile zlorabe, pa mora biti povečanje razmerja rezerve počasno in linearno. If the network adjusted in both directions in just 30 seconds then an attacker could pulse the network. A flood of transactions should be corrected in 30 seconds and then take a hour to return to their pre-attack levels. Under this model the attacker could flood the network for 30 seconds per hour or less than 1% of the time.
+Medtem ko mora biti zmanjševanje razmerja rezerve hitro in nelinarno, da bi se preprečile zlorabe, pa mora biti povečanje razmerja rezerve počasno in linearno. Če bi se omrežje v obe smeri prilagodilo v samo 30 sekundah, bi napadalec lahko izigral omrežje. Poplava transakcij bi morala biti odpravljena v 30 sekundah, potem pa bi moralo trajati eno uro, da bi se nivoji vrnili na stanje pred napadom. Po tem modelu bi napadalec lahko preobremenil omrežje za 30 sekund na uro oziroma manj kot 1% časa.
 
-There must be a slow constant upward pressure on the reserve ratio any time network usage is below 50% until the network hits the maximum reserve ratio. The maximum reserve ratio determines the minimum required stake to flood the network in short bursts.
+Vsakič ko uporaba omrežja pade pod 50%, mora priti do počasnega konstantnega dvigovanja razmerja rezerve, dokler omrežje ne vzpostavi maksimalnega razmerja rezerve. Maksimalno razmerje rezerve določa minimalni potrebni delež za to, da bi prišlo do preobremenitve omrežja zaradi kratkih napadov.
 
 Any user with fewer than TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) will be unable to produce enough transactions to fill even a single block. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
 
