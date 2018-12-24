@@ -505,7 +505,7 @@ Medtem ko mora biti zmanjševanje razmerja rezerve hitro in nelinarno, da bi se 
 
 Vsakič ko uporaba omrežja pade pod 50%, mora priti do počasnega konstantnega dvigovanja razmerja rezerve, dokler omrežje ne vzpostavi maksimalnega razmerja rezerve. Maksimalno razmerje rezerve določa minimalni potrebni delež za to, da bi prišlo do preobremenitve omrežja zaradi kratkih napadov.
 
-Any user with fewer than TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) will be unable to produce enough transactions to fill even a single block. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
+Vsak uporabnik, ki ima manj kot SKUPAJ\_ŽETONOV / (2 \*RAZMERJE\_REZERVE), ne bo mogel opraviti dovolj transakcij, da bi zapolnil že en sam blok. Z razmerjem rezerve, ki bi znašalo 200, ne bi mogel noben uporabnik z manj kot 0,25% valute ustvariti dovolj transakcij, da bi zmotil storitve kogar koli.
 
 ### Effectiveness Relative to Fees
 
