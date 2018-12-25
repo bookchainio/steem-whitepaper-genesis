@@ -56,11 +56,11 @@ Kako je slobodno tržište dokazan sistem, primamljivo je pokušati da se naprav
 
 Steem je dizajniran da omogući efektivne mikro isplate za sve vrste doprinosa, menjanjem ekonomske jednačine. Čitaoci više ne moraju da razmišljaju da li da plate nekog autora svojim novcem, umesto toga mogu da glasaju za sadržaj i Steem će da iskoristi njihove glasove kako bi odredio pojedinačne nagrade. Ovo znači da su ljudi dobili poznat i prilično upotrebljiv interfejs i da više nisu suočeni sa kognitivnim i finansijskim troškovima koji su vezani za tradicionalne platforme sa mikro isplatama.
 
-Glasanje od strane članova zajednice je važno da bi Steem mogao da precizno odredi isplate onima koji doprinose platformi. Glasanje samim tim može da se posmatra i kao doprinos koji je vredan nagrađivanja sam po sebi. Neke platforme, kao što je Slashdot, koriste meta-moderaciju [^3] kao način za rangiranje i nagrađivanje poštenih moderatora. Steem chooses to reward those who contribute the most to the total promotion of a piece of content and rewards the voters proportional to the ultimate reward paid to the content creator.
+Glasanje od strane članova zajednice je važno da bi Steem mogao da precizno odredi isplate onima koji doprinose platformi. Glasanje samim tim može da se posmatra i kao doprinos koji je vredan nagrađivanja sam po sebi. Neke platforme, kao što je Slashdot, koriste meta-moderaciju [^3] kao način za rangiranje i nagrađivanje poštenih moderatora. Steem nagrađuje one koji doprinose najviše ukupnoj promociji određenog sadržaja i nagrađuje one koji su glasali, proporcionalno ukupnoj nagradi koja se isplaćuje autoru tog sadržaja.
 
-There are other forms of contribution that Steem recognizes and rewards using objective metrics. Among these are: transaction validation, proof of work mining, liquidity rewards, and reporting of misbehaving block producers.
+Postoje i druge forme doprinosa koje Steem prepoznaje i nagrađuje koristeći objektivnu metriku. Među njima su i: validacija transakcije, ''proof of work'' majnovanje, likvidnost nagrada i prijavljivanje lošeg ponašanja onih koji obezbeđuju blokove.
 
-# Ways to Contribute
+# Načini na koje možete doprineti
 
 This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
 
