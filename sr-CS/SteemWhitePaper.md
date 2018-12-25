@@ -82,9 +82,9 @@ Većina inflacije je zapravo računovodstveni artefakt, nego stvarna preraspodel
 
 ## Steem Power (SP)
 
-Startap kompanijama je neophodna dugoročna kapitalna obaveza. Oni koji investiraju svoj novac u startap očekuju da prođe više godina pre nego što mogu da prodaju svoje akcije i da ostvare profit. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Startap kompanijama je neophodna dugoročna kapitalna obaveza. Oni koji investiraju svoj novac u startap očekuju da prođe više godina pre nego što mogu da prodaju svoje akcije i da ostvare profit. Bez dugoročnog obavezivanja, startap koji traži dodatne investicije kroz prodaju dodatnih akcija bi se takmičio sa postojećim akcionarima koji žele da napuste projekat. Štedljivi investitori žele da njihov doprinos kapitalu podstakne rast kompanije, ali kompanija ne može da raste ukoliko se novi kapital daje onima koji žele da je napuste.
 
-There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
+Vrednost dugoročnih obaveza je ta što omogućavaju zajednicama da naprave dugoročne planove. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
 In the cryptocurrency space, speculators jump from cryptocurrency to cryptocurrency based mostly on which one is expected to have short-term growth. Steem wants to build a community that is mostly owned and entirely controlled by those with a long-term perspective.
 
