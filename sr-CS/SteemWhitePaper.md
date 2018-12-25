@@ -66,9 +66,9 @@ Ovaj odeljak opisuje ideje koje stoje iza Steem-a i njegovog nagrađivanja ljudi
 
 ## Kapitalni doprinosi
 
-Postoje dve stvari koje zajednica može da ponudi kako bi privukla kapital: dug i vlasništvo. Oni koji kupuju udeo profitiraju kada zajednica raste, ali gube profit ukoliko se zajednica smanji. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Postoje dve stvari koje zajednica može da ponudi kako bi privukla kapital: dug i vlasništvo. Oni koji kupuju udeo profitiraju kada zajednica raste, ali gube profit ukoliko se zajednica smanji. Onima koji kupuju dug je zagarantovana određena količina kamate ali oni nemaju nikakav profit koji proističe iz rasta zajednice. Oba tipa kapitalnih doprinosa su važna za rast zajednice i vrednost njene valute. Postoje dva tipa vlasništva: likvidno i vesting. Vesting vlasništvo je dugoročno i ne može biti prodato određeni vremenski period.
 
-The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SMD).
+Steem mreža naziva ove različite vrste sredstava Steem-om (STEEM), Steem power-om (SP) i Steem Dolarom (SMD).
 
 ## Steem (STEEM)
 
