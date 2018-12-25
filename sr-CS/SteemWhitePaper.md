@@ -74,15 +74,15 @@ Steem mreža naziva ove različite vrste sredstava Steem-om (STEEM), Steem power
 
 Steem je osnovna jedinica svakog računa na Steem blokčejnu. Svi ostali tokeni imaju vrednost koja zavisi od vrednosti STEEM-a. Generalno, STEEM bi trebalo da se drži u kratkim periodima vremena kada je neophodna likvidnost. Neko ko želi da uđe ili da izađe sa Steem platforme mora da kupi ili proda STEEM. Kada je STEEM kupljen, trebalo bi da se konvertuje u SP ili SMD kako bi se ublažio ''efekat razblaživanja'' tokom dužeg vremenskog perioda.
 
-Količina STEEM-a se konstantno povećava za 100% godišnje zahvaljujući ne-SMD podsticaju. Neko ko drži STEEM bez konvertovanja u SP slabi oko 0.19% dnevno. Dok stopa može da izgleda kao da je velika, za transakcije koje traju manje od 10 dana, to je i dalje povoljnije od troškova koji nastaju upotrebom kreditnih kartica. Pored toga, dnevna proizvodnja tokena je beznačajna u poređenju sa dnevnom nestabilnošću.
+Količina STEEM-a se konstantno povećava za 100% godišnje zahvaljujući podsticaju koji nije SMD. Neko ko drži STEEM bez konvertovanja u SP slabi oko 0.19% dnevno. Dok stopa može da izgleda kao da je velika, za transakcije koje traju manje od 10 dana, to je i dalje povoljnije od troškova koji nastaju upotrebom kreditnih kartica. Pored toga, dnevna proizvodnja tokena je beznačajna u poređenju sa dnevnom nestabilnošću.
 
 Neko ko kupuje Bitkoin ili neku drugu kriptovalutu i prodaje je 10 dana kasnije može lako da izgubi 3% i više zbog nestabilnosti cene na tržištu. Neko ko kupuje Bitkoin i prodaje ga istog dana će obično platiti više od 0.4% samo za troškove tržišta. Drugim rečima, stopa inflacije je efektivno beznačajna u periodu tokom kog prosečni pojedinac čuva STEEM.
 
-Većina inflacije je zapravo računovodstveni artefakt, nego stvarna preraspodela bogatstva. 90% ne-SMD inflacije se distribuira nazad onima koji trenutno čuvaju STEEM, proporcionalno vrednosti STEEM-a njihovih SP, što je u praksi više od proste podele. Only about 10% of non-SMD inflation redistributes ownership in the network.
+Većina inflacije je zapravo računovodstveni artefakt, nego stvarna preraspodela bogatstva. 90% inflacije koja nije SMD se distribuira nazad onima koji trenutno čuvaju STEEM, proporcionalno vrednosti STEEM-a njihovih SP, što je u praksi više od proste podele. Samo oko 10% inflacije koja nije SMD ponovo distribuira vlasništvo nad mrežom.
 
 ## Steem Power (SP)
 
-Start up companies require long-term capital commitment. Those who invest their money in a startup expect to wait years before they can sell their shares and realize their profits. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
+Startap kompanijama je neophodna dugoročna kapitalna obaveza. Oni koji investiraju svoj novac u startap očekuju da prođe više godina pre nego što mogu da prodaju svoje akcije i da ostvare profit. Without long-term commitment, a startup seeking to raise additional capital through the sale of additional shares would be competing with existing shareholders looking to exit. Savvy investors want their capital contributions to grow the company, but growth cannot happen if the new capital is given away to those looking to exit.
 
 There is significant value to having long-term commitment because it enables communities to make long-term plans. Long term commitment of stakeholders also causes them to vote for long-term growth rather than short-term pumps.
 
