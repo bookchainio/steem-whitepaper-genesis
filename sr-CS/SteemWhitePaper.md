@@ -78,7 +78,7 @@ Količina STEEM-a se konstantno povećava za 100% godišnje zahvaljujući ne-SMD
 
 Neko ko kupuje Bitkoin ili neku drugu kriptovalutu i prodaje je 10 dana kasnije može lako da izgubi 3% i više zbog nestabilnosti cene na tržištu. Neko ko kupuje Bitkoin i prodaje ga istog dana će obično platiti više od 0.4% samo za troškove tržišta. Drugim rečima, stopa inflacije je efektivno beznačajna u periodu tokom kog prosečni pojedinac čuva STEEM.
 
-The majority of inflation is actually an accounting artifact rather than true reallocation of wealth. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
+Većina inflacije je zapravo računovodstveni artefakt, nego stvarna preraspodela bogatstva. 90% of non-SMD inflation is distributed back to existing holders of STEEM proportional to the STEEM value of their SP balance, making in ation more of a "split". Only about 10% of non-SMD inflation redistributes ownership in the network.
 
 ## Steem Power (SP)
 
