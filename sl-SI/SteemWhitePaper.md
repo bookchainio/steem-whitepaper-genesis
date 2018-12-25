@@ -515,7 +515,7 @@ Da bi primerjali učinkovitost omejevanja števila glasov s pristojbinami, moram
 
 Pri sistemu z omejevanjem števila glasov bi nekdo, ki bi imel v lasti 1% vseh žetonov in bi nameraval onemogočiti delovanje omrežja, to lahko storil za manj kot 30 sekund.
 
-### Renting vs. Buying vs. Time Sharing
+### Najem proti nakupu proti časovnem zakupu
 
 When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
 
