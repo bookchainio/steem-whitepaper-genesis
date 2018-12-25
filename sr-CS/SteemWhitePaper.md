@@ -62,11 +62,11 @@ Postoje i druge forme doprinosa koje Steem prepoznaje i nagrađuje koristeći ob
 
 # Načini na koje možete doprineti
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+Ovaj odeljak opisuje ideje koje stoje iza Steem-a i njegovog nagrađivanja ljudi koji stvaraju smislene i merljive doprinose Steem zajednici.
 
-## Capital Contributions
+## Kapitalni doprinosi
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Postoje dve stvari koje zajednica može da ponudi kako bi privukla kapital: dug i vlasništvo. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SMD).
 
