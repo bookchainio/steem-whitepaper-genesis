@@ -96,7 +96,7 @@ Sa SP računa ne mogu da se vrše transakcije ili da se podiže valuta, osim pom
 
 SP je neophodna zarad glasanja za ili protiv nekog sadržaja. To znači da je SP token za pristup koji osigurava svojim vlasnicima posebna ovlašćenja unutar Steem platforme.
 
-Konverzija STEEM-a u SP se zove ''powering up'', dok se obrnuta konverzija naziva ''powering down''. Na primer, moguće je da se neko power down-uje tokom perioda od dve godina, dok je power up omogućen trenutno.
+Konverzija STEEM-a u SP se zove ''powering up'', dok se obrnuta konverzija naziva ''powering down''. Na primer, moguće je da se neko power down-uje tokom perioda od dve godine, dok je power up omogućen trenutno.
 
 ## Steem Dollars (SMD)
 
