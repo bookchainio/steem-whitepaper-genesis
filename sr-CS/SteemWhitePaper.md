@@ -72,13 +72,13 @@ Steem mreža naziva ove različite vrste sredstava Steem-om (STEEM), Steem power
 
 ## Steem (STEEM)
 
-Steem je osnovna jedinica svakog računa na Steem blokčejnu. Svi ostali tokeni imaju vrednost koja zavisi od vrednosti STEEM-a. Generalno, STEEM bi trebalo da se drži u kratkim periodima vremena kada je neophodna likvidnost. Neko ko želi da uđe ili da izađe sa Steem platforme mora da kupi ili proda STEEM. Kada je STEEM kupljen, trebalo bi da se konvertuje u SP ili SMD kako bi se ublažio ''efekat razblaživanja'' tokom dužeg vremenskog perioda.
+Steem je osnovna jedinica svakog računa na Steem blokčejnu. Svi ostali tokeni imaju vrednost koja zavisi od vrednosti STEEM-a. Generalno, STEEM bi trebalo da se drži u kratkim periodima vremena kada je neophodna likvidnost. Neko ko želi da uđe ili da izađe sa Steem platforme mora da kupi ili proda STEEM. Kada je STEEM kupljen, trebalo bi da se konvertuje u SP ili SMD kako bi se ublažio ''efekat razblaživanja'' (eng. dilution) tokom dužeg vremenskog perioda.
 
 Količina STEEM-a se konstantno povećava za 100% godišnje zahvaljujući podsticaju koji nije SMD. Neko ko drži STEEM bez konvertovanja u SP slabi oko 0.19% dnevno. Dok stopa može da izgleda kao da je velika, za transakcije koje traju manje od 10 dana, to je i dalje povoljnije od troškova koji nastaju upotrebom kreditnih kartica. Pored toga, dnevna proizvodnja tokena je beznačajna u poređenju sa dnevnom nestabilnošću.
 
 Neko ko kupuje Bitkoin ili neku drugu kriptovalutu i prodaje je 10 dana kasnije može lako da izgubi 3% i više zbog nestabilnosti cene na tržištu. Neko ko kupuje Bitkoin i prodaje ga istog dana će obično platiti više od 0.4% samo za troškove tržišta. Drugim rečima, stopa inflacije je efektivno beznačajna u periodu tokom kog prosečni pojedinac čuva STEEM.
 
-Većina inflacije je zapravo računovodstveni artefakt, nego stvarna preraspodela bogatstva. 90% inflacije koja nije SMD se distribuira nazad onima koji trenutno čuvaju STEEM, proporcionalno vrednosti STEEM-a njihovih SP, što je u praksi više od proste podele. Samo oko 10% inflacije koja nije SMD ponovo distribuira vlasništvo nad mrežom.
+Većina inflacije je zapravo više računovodstveni artefakt, nego stvarna preraspodela bogatstva. 90% inflacije koja nije SMD se distribuira nazad onima koji trenutno čuvaju STEEM, proporcionalno vrednosti STEEM-a njihovih SP, što je u praksi više od proste podele. Samo oko 10% inflacije koja nije SMD ponovo distribuira vlasništvo nad mrežom.
 
 ## Steem Power (SP)
 
@@ -88,7 +88,7 @@ Vrednost dugoročnih obaveza je ta što omogućavaju zajednicama da naprave dugo
 
 U svetu kriptovaluta, investitori često idu od kriptovalute do kriptovalute na osnovu očekivanja koja će od njih da ima brz, kratkoročan rast. Steem želi da izgradi zajednicu koju uglavnom poseduju i u potpunosti podržavaju oni koji imaju dugoročan pogled.
 
-Pošto Steem želi da podrži dugoročni rast, obavezan je da dodeli 9 STEEM-a vlasnicima Steem Power-a (SP) za svaki STEEM koji se kreira za finansiranje rasta kroz podsticanje doprinosa. Vremenom, ovo utiče da se odnos ukupne vrednosti Steem Power-a i ukupne količine STEEM-a održava na 9:1. (Verovatno je da će odnos biti malo veći od 9:1, zbog stalnog Powering up-a sveže kreiranog STEEM-a) To takođe znači da su oni koji dugoročno drže tokene skoro potpuno zaštićeni od procentualnog smanjenja udela zbog podsticanja rasta.
+Pošto Steem želi da podrži dugoročni rast, obavezan je da dodeli 9 STEEM-a vlasnicima Steem Power-a (SP) za svaki STEEM koji se kreira za finansiranje rasta kroz podsticanje doprinosa. Vremenom, ovo utiče da se odnos ukupne vrednosti Steem Power-a i ukupne količine STEEM-a održava na 9:1. (Verovatno je da će odnos biti malo veći od 9:1, zbog stalnog powering up-a novonastalog STEEM-a) To takođe znači da su oni koji dugoročno drže tokene skoro potpuno zaštićeni od procentualnog smanjenja udela zbog podsticanja rasta.
 
 SP može jedino biti konvertovan ponovo u STEEM tokom 2 godine u 104 jednake nedeljne isplate. ''1SP'' može da se posmatra kao udeo u STEEM bazenu (eng. pool of STEEM). Mreža automatski dodaje STEEM-e u bazen tokom svakog bloka. U svakom trenutku, korisnici mogu da konvertuju svoj STEEM u SP prema istom odnosu koji ima STEEM u bazenu deonica u odnosu na ukupan SP. Konvertovanje STEEM-a u SP ne smanjuje procentualni udeo onima koji poseduju SP. Isto tako, svaki put kada se SP konvertuje ponovo u STEEM, to se radi prema trenutnom kursu. Pojedincima je zagarantovano da će u budućnosti imati više STEEM-a nego što su imali kada su prvi put konvertovali STEEM u SP.
 
