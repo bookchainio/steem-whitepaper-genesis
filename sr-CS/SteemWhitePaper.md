@@ -92,11 +92,11 @@ Pošto Steem želi da podrži dugoročni rast, obavezan je da dodeli 9 STEEM-a v
 
 SP može jedino biti konvertovan ponovo u STEEM tokom 2 godine u 104 jednake nedeljne isplate. ''1SP'' može da se posmatra kao udeo u STEEM bazenu (eng. pool of STEEM). Mreža automatski dodaje STEEM-e u bazen tokom svakog bloka. U svakom trenutku, korisnici mogu da konvertuju svoj STEEM u SP prema istom odnosu koji ima STEEM u bazenu deonica u odnosu na ukupan SP. Konvertovanje STEEM-a u SP ne smanjuje procentualni udeo onima koji poseduju SP. Isto tako, svaki put kada se SP konvertuje ponovo u STEEM, to se radi prema trenutnom kursu. Pojedincima je zagarantovano da će u budućnosti imati više STEEM-a nego što su imali kada su prvi put konvertovali STEEM u SP.
 
-SP balances are non-transferrable and non-divisible except via the automatically recurring conversion requests. This means that SP cannot be easily traded on cryptocurrency exchanges.
+Sa SP računa ne mogu da se vrše transakcije ili da se podiže valuta, osim pomoću automatskih, periodičnih zahteva za konverziju. To znači da se SP ne može lako menjati u menjačnicama kriptovaluta.
 
-SP is a requirement for voting for or against content. This means that SP is an access token that grants its holders exclusive powers within the Steem platform.
+SP je neophodna zarad glasanja za ili protiv nekog sadržaja. To znači da je SP token za pristup koji osigurava svojim vlasnicima posebna ovlašćenja unutar Steem platforme.
 
-Transferring from STEEM to SP is referred to as powering up while transferring from SP to Steem is referred to as "powering down". For example, one can power down their STEEM over a period of two years, yet one can power up their STEEM instantly.
+Konverzija STEEM-a u SP se zove ''powering up'', dok se obrnuta konverzija naziva ''powering down''. Na primer, moguće je da se neko power down-uje tokom perioda od dve godina, dok je power up omogućen trenutno.
 
 ## Steem Dollars (SMD)
 
