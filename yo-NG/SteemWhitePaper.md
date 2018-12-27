@@ -488,7 +488,7 @@ Ripple nlo iseku to kere julo ti[^12] toun se iwon pelu akoole awon oun elo lilo
 
 Blockchain kan le fi ipa fidimule ti iye iseku olukuluku olumulo nipa ona tio le ti bibeere iseku to kerejulo. Ise eyiowu to bafe mu onibara titun kan wa si blockchain le sanwo saaju fun akoole olumulo na pelu owo iseku to kere julo tio fayegba won lati se idunadura. Bibeere iye isan owo to po gan ($1.00) lati gba awon olumulo titun wole yio fipa jeki enikeni toun pese awon akoole ofe lati fi oju se ayewo toni toni ti didara ati ailegbe akoole kokan ki won to kowonsile pelu blockchain.
 
-Sise itoju iseku to kere julo ni ipa bakannna pelu jijeki awon olumulo san awon owo idunadura pelu anfani ti won o ba gba lori iseku won. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
+Sise itoju iseku to kere julo ni ipa bakannna pelu jijeki awon olumulo san awon owo idunadura pelu anfani ti won o ba gba lori iseku won. Iseku to kere julo je iseku ti a nilo lati gba anfani to to lati san owo ni igba akoko to kuru.
 
 Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn't incur the cognitive cost of a micro-fee and is far more acceptable to users.
 
