@@ -253,7 +253,7 @@ Een groot deel van het voorkomen van misbruik is door het aantal stemmen te bepe
 
 De tekening hierboven toont hoe een gebruiker zijn stemkracht vermindert elke keer hij stemt en dan langzaam terugkomt als er niet gestemt wordt. Deze toont ook de tijdseenheid die er gebruikt wordt maar kan aangepast worden op elk stemtempo. Merk op dat het stemrecht snel afneemt tijdens periodes van ononderbroken stemmen en zich dan langzaam herstelt.
 
-Het stemrecht wordt vermenigvuldigd met de vesting-tokens van een gebruiker om te bepalen hoeveel aandeel in de beloningspool moet worden toegekend aan een bepaalde taak.
+De stemkracht wordt vermenigvuldigd met de vesting-tokens van een gebruiker om te bepalen hoeveel aandeel in de beloningspool moet worden toegekend aan een bepaalde taak.
 
 ### Vertraagde uitbetalingen
 
