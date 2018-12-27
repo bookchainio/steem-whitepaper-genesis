@@ -500,7 +500,7 @@ Didinku iye nilo wipe ki netiworki ni kiakia sun isiro iseku to to lati se idadu
 
 Ejeki a lo isiro iseku akoko ti 200x. Nitori awon iseku oni ipa, eleyi tunmo siwipe enikeni toun gbamu 1% ti awon tokini ni eto lati beere awon idunadura apapo 2x ti blocku to tobi ju. Lati mu lilo ti netiworki ti oludojuko wale si 25% isiro iseku yio nilo lati wale si 25x. Eleyi a jeki iseku to kere julo ti a nilo lati se idunadura leekan lose lati dagba nipa 8x.
 
-The blockchain can establish a response rate that says any sustained increase in usage should be brought down to the target capacity in within a short period of time (say 30 seconds). An attacker attempting to spam the network shouldn't be able to disrupt service for normal users for more than a minute.
+Blockchain le fi iye idahun mule to wipe ilosoke yiowu ni ilo ti a gba nilo igbe wasile si ipa ta fojusi ninu akoko to kere julo (bi iseju ogbon). An attacker attempting to spam the network shouldn't be able to disrupt service for normal users for more than a minute.
 
 While reductions in the reserve ratio must be quick and non-linear to counter abuse, increases in the reserve ratio should be slow and linear. If the network adjusted in both directions in just 30 seconds then an attacker could pulse the network. A flood of transactions should be corrected in 30 seconds and then take a hour to return to their pre-attack levels. Under this model the attacker could flood the network for 30 seconds per hour or less than 1% of the time.
 
