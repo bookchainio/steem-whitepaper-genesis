@@ -498,7 +498,7 @@ STEEMU ti a koko lo lati bu owo si akoole kan ni igbe agbara soke ninu akoole ti
 
 Didinku iye nilo wipe ki netiworki ni kiakia sun isiro iseku to to lati se idaduro ti ipa ti oludojuko toun gbero lati ood netiworki na. Ejeka ro wipe oludojuko na ni iseku to tobi, bi 1% ti awon tokini to wa. Ti aba ro wipe netiworki na fojusi imulo 50%, nigbana ni idojuko na yio wa olumulo yi gbera si 25% ti agbara netiworki na ti aba ro wipe gbogbo awon eniyan yioku nlo 25% ti agbara na. Gbigbekale ni ona miran, olumolo kan to tobi ju ko gbudo ni anfani ati lo ju 50% ti ipa ti a fojusi laise wipe won ni ju 50% ti SP lo.
 
-Ejeki a lo isiro iseku akoko ti 200x. Nitori awon iseku oni ipa, eleyi tunmo siwipe enikeni toun gbamu 1% ti awon tokini ni eto lati beere awon idunadura apapo 2x ti blocku to tobi ju. In order to bring the network usage of the attacker down to 25% the reserve ratio would have to fall to 25x. This would cause the minimum balance required to transact once per week to grow by 8x.
+Ejeki a lo isiro iseku akoko ti 200x. Nitori awon iseku oni ipa, eleyi tunmo siwipe enikeni toun gbamu 1% ti awon tokini ni eto lati beere awon idunadura apapo 2x ti blocku to tobi ju. Lati mu lilo ti netiworki ti oludojuko wale si 25% isiro iseku yio nilo lati wale si 25x. Eleyi a jeki iseku to kere julo ti a nilo lati se idunadura leekan lose lati dagba nipa 8x.
 
 The blockchain can establish a response rate that says any sustained increase in usage should be brought down to the target capacity in within a short period of time (say 30 seconds). An attacker attempting to spam the network shouldn't be able to disrupt service for normal users for more than a minute.
 
