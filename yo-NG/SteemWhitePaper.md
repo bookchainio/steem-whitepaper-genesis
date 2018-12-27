@@ -496,7 +496,7 @@ STEEMU ti a koko lo lati bu owo si akoole kan ni igbe agbara soke ninu akoole ti
 
 ### Sisun ti Isiro Iseku
 
-Didinku iye nilo wipe ki netiworki ni kiakia sun isiro iseku to to lati se idaduro ti ipa ti oludojuko toun gbero lati ood netiworki na. Ejeka ro wipe oludojuko na ni iseku to tobi, bi 1% ti awon tokini to wa. If we also assume that the network targets 50% utilization, then a sustained attack should find this user throttled to 25% of network capacity assuming everyone else is also using 25% of the capacity. Stated another way, the largest single user should never be able to consume more than 50% of the target capacity unless they own more than 50% of the SP.
+Didinku iye nilo wipe ki netiworki ni kiakia sun isiro iseku to to lati se idaduro ti ipa ti oludojuko toun gbero lati ood netiworki na. Ejeka ro wipe oludojuko na ni iseku to tobi, bi 1% ti awon tokini to wa. Ti aba ro wipe netiworki na fojusi imulo 50%, nigbana ni idojuko na yio wa olumulo yi gbera si 25% ti agbara netiworki na ti aba ro wipe gbogbo awon eniyan yioku nlo 25% ti agbara na. Gbigbekale ni ona miran, olumolo kan to tobi ju ko gbudo ni anfani ati lo ju 50% ti ipa ti a fojusi laise wipe won ni ju 50% ti SP lo.
 
 Let's use an initial reserve ratio of 200x. Due to fractional reserves, this means someone holding 1% of the tokens has the right to demand transactions totalling 2x the maximum block size. In order to bring the network usage of the attacker down to 25% the reserve ratio would have to fall to 25x. This would cause the minimum balance required to transact once per week to grow by 8x.
 
