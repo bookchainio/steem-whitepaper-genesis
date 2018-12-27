@@ -490,13 +490,13 @@ Blockchain kan le fi ipa fidimule ti iye iseku olukuluku olumulo nipa ona tio le
 
 Sise itoju iseku to kere julo ni ipa bakannna pelu jijeki awon olumulo san awon owo idunadura pelu anfani ti won o ba gba lori iseku won. Iseku to kere julo je iseku ti a nilo lati gba anfani to to lati san owo ni igba akoko to kuru.
 
-Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn't incur the cognitive cost of a micro-fee and is far more acceptable to users.
+Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. Iye ti aaye je ti ipadanu anfani koni gba iye owo imo ti awon isanwo-kekeke ati oje itewogba julo pelu awon olumulo.
 
-The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power).
+STEEMU ti a koko lo lati bu owo si akoole kan ni igbe agbara soke ninu akoole titun (to je wipe., iyipada si Agbara Steemu).
 
-### Adjusting the Reserve Ratio
+### Sisun ti Isiro Iseku
 
-Rate limiting requires that the network adjust the reserve ratio quickly enough to mitigate the impact of an attacker attempting to ood the network. Let's assume the attacker has a large balance, say 1% of the available tokens. If we also assume that the network targets 50% utilization, then a sustained attack should find this user throttled to 25% of network capacity assuming everyone else is also using 25% of the capacity. Stated another way, the largest single user should never be able to consume more than 50% of the target capacity unless they own more than 50% of the SP.
+Didinku iye nilo wipe ki netiworki ni kiakia sun isiro iseku to to lati se idaduro ti ipa ti oludojuko toun gbero lati ood netiworki na. Ejeka ro wipe oludojuko na ni iseku to tobi, bi 1% ti awon tokini to wa. If we also assume that the network targets 50% utilization, then a sustained attack should find this user throttled to 25% of network capacity assuming everyone else is also using 25% of the capacity. Stated another way, the largest single user should never be able to consume more than 50% of the target capacity unless they own more than 50% of the SP.
 
 Let's use an initial reserve ratio of 200x. Due to fractional reserves, this means someone holding 1% of the tokens has the right to demand transactions totalling 2x the maximum block size. In order to bring the network usage of the attacker down to 25% the reserve ratio would have to fall to 25x. This would cause the minimum balance required to transact once per week to grow by 8x.
 
