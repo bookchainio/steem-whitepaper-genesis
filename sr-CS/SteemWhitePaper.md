@@ -98,9 +98,9 @@ SP je neophodna zarad glasanja za ili protiv nekog sadržaja. To znači da je SP
 
 Konverzija STEEM-a u SP se zove ''powering up'', dok se obrnuta konverzija naziva ''powering down''. Na primer, moguće je da se neko power down-uje tokom perioda od dve godine, dok je power up omogućen trenutno.
 
-## Steem Dollars (SMD)
+## Steem Dolari (SMD)
 
-Stability is an important feature of successful global economies. Without stability, individuals across the world could not have low cognitive costs while engaging in commerce and savings. Because stability is an important feature of successful economies, Steem Dollars were designed as an attempt to bring stability to the world of cryptocurrency and to the individuals who use the Steem network.
+Stabilnost je važan aspekt uspešnih globalnih ekonomija. Bez stabilnosti, pojedinci širom sveta ne bi mogli da imaju niske kognitivne troškove dok učestvuju u trgovini i štednji. Zato što je stabilnost važan deo uspešnih ekonomija, Steem Dolari su zamišljeni kao nešto što donosi stabilnost svetu kriptovaluta i pojednicima koji koriste Steem.
 
 Steem Dollars are created by a mechanism similar to convertible notes, which are often used to fund startups. In the startup world, convertible notes are short-term debt instruments that can be converted to ownership at a rate determined in the future, typically during a future funding round. A blockchain based token can be viewed as ownership in the community whereas a convertible note can be viewed as a debt denominated in any other commodity or currency. The terms of the convertible note allow the holder to convert to the backing token with a minimum notice at the fair market price of the token. Creating token-convertible-dollars enables blockchains to grow their network effect while maximizing the return for token holders.
 
