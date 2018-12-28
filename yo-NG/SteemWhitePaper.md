@@ -504,9 +504,9 @@ Blockchain le fi iye idahun mule to wipe ilosoke yiowu ni ilo ti a gba nilo igbe
 
 Nigba ti awon didinku ni isiro iseku gbudo je kiakia ati tio lo gboro lati dina ilokulo, awon ilosoke ni isiro iseku gbudo lora ati wa gboro. Ti netiworki ba sun ni awon ona mejeji ni iseju aaya ogbon nigbana ni oludojuko kan le jeki netiworki na losoke die. Agbaara ti awon idunadura nilo atunse ni iseju aaya ogbon ati nigbana gba wakati kan lati pada si awon ipo ti won wa ki idojuko to waye. Labe akotun yi oludojuko le se agbaara netiworki na fun iseju aaya ogbon ni wakati kan tabi o kere ju 1% ti akoko na.
 
-There must be a slow constant upward pressure on the reserve ratio any time network usage is below 50% until the network hits the maximum reserve ratio. The maximum reserve ratio determines the minimum required stake to flood the network in short bursts.
+A nilo fifun to lora ti ko yipada toun losoke lori isiro iseku nigbakugba ti lilo netiworki ba jawasile 50% titi ti netiworki ma fi kan isiro iseku to ga julo. Isiro iseku to julo n fidimule ida ti an beere to kere julo lati se agbara ti netiworki ni awon fifo kukuru.
 
-Any user with fewer than TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) will be unable to produce enough transactions to fill even a single block. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
+Olumulo yiowu pelu okere ju APAPO\_ AWON TOKINI / (2\* ISEKU\_ISIRO) koni le pese awon idunadura to to lati kun blocku kan. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
 
 ### Effectiveness Relative to Fees
 
