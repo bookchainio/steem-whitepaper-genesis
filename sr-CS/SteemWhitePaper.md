@@ -110,9 +110,9 @@ Steem Dolari se označavaju sa SMD, što je njihov akronim. Stvaranje SMD zahtev
 
 Vlasnici SP biraju pojedince da objave cenu snabdevanja. U te izabrane pojedince imaju poverenje pre svega oni kojima je u interesu kvalitet ponude. Plaćanjem onih koji su izabrani, Steem kreira tržišnu konkurenciju za sticanje prava za stvaranje snabdevanja. Što su više plaćeni snabdevači, više će izgubiti objavljivanjem lažnih informacija.
 
-Uz skup izabranih snabdevača od poverenja, stvarna cena konverzije može da se dobije kao medijana snabdevanja. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+Uz skup izabranih snabdevača od poverenja, stvarna cena konverzije može da se dobije kao medijana snabdevanja. Na ovaj način, ukoliko bi neka grupa snabdevača stvorila nešto što odstupa od očekivanja, imala bi minimalni uticaj na medijanu, dok bi i dalje imala mogućnost da utiče na njihovu reputaciju.
 
-Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+Čak iako su svi snabdevači pošteni, moguće je da na veliki deo njih utiču stvari koje su van njihove kontrole. Steem mreža je tako dizajnirana da toleriše kratkoročnu korupciju medijane cene, dok zajednica radi na tome da se problem otkloni. Jedan primer problema kom treba više vremena da se otkloni je kratkoročna manipulacija tržištem. Manipulacija tržištem je teška i skupa za održavanje na duže staze. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
 
 Steem factors out short-term price fluctuations by using the median price over a period of one week. The median published feed is sampled every hour on the hour.
 
