@@ -510,7 +510,7 @@ Olumulo yiowu pelu okere ju APAPO\_ AWON TOKINI / (2\* ISEKU\_ISIRO) koni le pes
 
 ### Ipa To Ba Awon Isanwo Tan
 
-To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+Lati gbeyewo ipa ti didinku iye si awon isanwo a gbudo se ayewo bi awon eto mejeji se nfi idahun fun sise agbaara netiwoki lati owo oludojuko kan to momo se. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
 
 If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
 
