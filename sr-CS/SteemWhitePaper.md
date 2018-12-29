@@ -116,7 +116,7 @@ Uz skup izabranih snabdevača od poverenja, stvarna cena konverzije može da se 
 
 Steem utiče na kratkoročna menjanja cene koristeći medijanu cene tokom preioda od nedelju dana. Uzorak mediane objavljenog snabdevanja se uzima na svakih sat vremena.
 
-As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Sve dok izmena cene snabdevanja traje manje od polovine vremenskog okvira pokretne medijane, to će imati minimalan uticaj na cenu konverzije. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
 With a one week window, community members have three and a half days to respond to any issues that come up.
 
