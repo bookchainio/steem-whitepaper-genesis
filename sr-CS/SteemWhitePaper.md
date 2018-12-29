@@ -108,9 +108,9 @@ Steem Dolari se označavaju sa SMD, što je njihov akronim. Stvaranje SMD zahtev
 
 ### Minimalnizovanje lažnih snabdevanja
 
-Vlasnici SP biraju pojedince da objave cenu snabdevanja. U te izabrane pojedince imaju poverenje pre svega oni kojima je u interesu kvalitet ponude. Plaćanjem onih koji su izabrani, Steem kreira tržišnu konkurenciju za sticanje prava za stvaranje snabdevanja. The more the feed producers are paid the more they have to lose by publishing false information.
+Vlasnici SP biraju pojedince da objave cenu snabdevanja. U te izabrane pojedince imaju poverenje pre svega oni kojima je u interesu kvalitet ponude. Plaćanjem onih koji su izabrani, Steem kreira tržišnu konkurenciju za sticanje prava za stvaranje snabdevanja. Što su više plaćeni snabdevači, više će izgubiti objavljivanjem lažnih informacija.
 
-Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
+Uz skup izabranih snabdevača od poverenja, stvarna cena konverzije može da se dobije kao medijana snabdevanja. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
 Even if all feed producers are honest, it is possible for the majority of feed producers to be impacted by events beyond their control. The Steem network is designed to tolerate short-term corruption of the median price feed while the community actively works to correct the issue. One example of an issue that may take some time to correct is short-term market manipulation. Market manipulation is difficult and expensive to maintain for long periods of time. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
 
