@@ -112,7 +112,7 @@ Vlasnici SP biraju pojedince da objave cenu snabdevanja. U te izabrane pojedince
 
 Uz skup izabranih snabdevača od poverenja, stvarna cena konverzije može da se dobije kao medijana snabdevanja. Na ovaj način, ukoliko bi neka grupa snabdevača stvorila nešto što odstupa od očekivanja, imala bi minimalni uticaj na medijanu, dok bi i dalje imala mogućnost da utiče na njihovu reputaciju.
 
-Čak iako su svi snabdevači pošteni, moguće je da na veliki deo njih utiču stvari koje su van njihove kontrole. Steem mreža je tako dizajnirana da toleriše kratkoročnu korupciju medijane cene, dok zajednica radi na tome da se problem otkloni. Jedan primer problema kom treba više vremena da se otkloni je kratkoročna manipulacija tržištem. Manipulacija tržištem je teška i skupa za održavanje na duže staze. Another example would be the failure of a centralized exchange or the corruption of the data published by the exchange.
+Čak iako su svi snabdevači pošteni, moguće je da na veliki deo njih utiču stvari koje su van njihove kontrole. Steem mreža je tako dizajnirana da toleriše kratkoročnu malverzaciju medijane cene, dok zajednica radi na tome da se problem otkloni. Jedan primer problema kom treba više vremena da se otkloni je kratkoročna manipulacija tržištem. Manipulacija tržištem je teška i skupa za održavanje na duže staze. Još jedan primer bi bio pad centralizovane menjačnice ili malverzacija podataka koje je objavila menjačnica.
 
 Steem factors out short-term price fluctuations by using the median price over a period of one week. The median published feed is sampled every hour on the hour.
 
