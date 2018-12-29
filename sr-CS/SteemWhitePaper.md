@@ -124,15 +124,15 @@ U okviru jedne nedelje, članovi zajednice imaju tri i po dana da reaguju na sva
 
 Učesnici na tržištu mogu da pristupe informacijama brže nego što pokretna medijana cene konverzije na blokčejnu može da odreaguje. Te informacije mogu biti iskorišćene za profitiranje trgovaca na račun zajednice. Ukoliko postoji iznenadan rast cene STEEM-a, trgovci bi mogli da iskoriste konverziju svojih SMD po staroj, nižoj ceni i zatim da prodaju STEEM-e koje su dobili po novoj, višoj ceni, uz minimalni rizik.
 
-Steem unapređuje takav scenario tako što odlaže sve zahteve za konverziju na nedelju dana. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steem unapređuje takav scenario tako što odlaže sve zahteve za konverziju na nedelju dana. To znači da ni blokčejn ni trgovci nemaju prednost u smislu informacija o ceni u trenutku kada se konverzija izvrši.
 
-### Minimizing Abuse of Conversions
+### Umanjivanje zloupotrebe konverzije
 
-If people could freely convert in both directions then traders could take advantage of the blockchains conversion rates by trading large volumes without changing the price. Traders who see a massive run up in price would convert to SMD at the high price (when it is most risky) and then convert back after the correction. The Steem protocol protects the community from this kind of abuse by only allowing people to convert from SMD to STEEM and not the other way around.
+Ako bi ljudi mogli slobodno da konvertuju u oba smera, tada bi trgovci mogli da iskoriste prednost stope konverzije na blokčejnu menjanjem velike količine tokena, bez uticaja na promenu cene. Trgovci koje vide ogroman rast cene bi mogli da konvertuju u SMD po visokoj ceni (kada je najrizičnije) i da zatim konvertuju ponovo u staru valutu nakon korekcije cene. Steem protokol štiti zajednicu od ovakvih manipulacija dozvoljavajući isključivo konverziju iz SMD u STEEM, a ne obrnuto.
 
-The blockchain decides how and when to create SMD and who should get it. This keeps the rate of SMD creation stable and removes most avenues of abuse.
+Blokčejn odlučuje o tome kako i kada će se kreirati SMD i ko će da ga dobije. To održava stopu proizvodnje SMD stablinom i eliminiše većinu zloupotreba.
 
-### Liquidity
+### Likvidnost
 
 Just because SMD can be converted to a dollars worth of STEEM at a fair price in a reasonable amount of time doesn't mean it will be viewed as a reliable dollar replacement. These assets require liquidity in a market that enables instantaneous conversion between STEEM and SMD. The measures a blockchain is forced to take to prevent abuse end up lowering the quality of the convertible dollars. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
 
