@@ -122,9 +122,9 @@ U okviru jedne nedelje, članovi zajednice imaju tri i po dana da reaguju na sva
 
 ### Ublažavanje vremenskih napada
 
-Market participants have access to information faster than the blockchain's one week moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
+Učesnici na tržištu mogu da pristupe informacijama brže nego što pokretna medijana cene konverzije na blokčejnu može da odreaguje. Te informacije mogu biti iskorišćene za profitiranje trgovaca na račun zajednice. Ukoliko postoji iznenadan rast cene STEEM-a, trgovci bi mogli da iskoriste konverziju svojih SMD po staroj, nižoj ceni i zatim da prodaju STEEM-e koje su dobili po novoj, višoj ceni, uz minimalni rizik.
 
-Steem levels the playing field by requiring all conversion requests to be delayed for one week. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
+Steem unapređuje takav scenario tako što odlaže sve zahteve za konverziju na nedelju dana. This means that neither the traders nor the blockchain has any information advantage regarding the price at the time the conversion is executed.
 
 ### Minimizing Abuse of Conversions
 
