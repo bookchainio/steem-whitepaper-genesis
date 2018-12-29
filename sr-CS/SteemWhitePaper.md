@@ -104,9 +104,9 @@ Stabilnost je važan aspekt uspešnih globalnih ekonomija. Bez stabilnosti, poje
 
 Steem Dolari su potekli od ideje koja je slična konvertibilnim obveznicama, koje se često koriste kako bi se finansirali startapovi. U svetu startapova, konvertibilne obveznice su predmet kratkoročnog dugovanja i mogu se konvertovati u vlasništvo prema odnosu koji će se odrediti, obično tokom budućih rundi finansiranja. Token na blokčejnu može da se posmatra kao udeo u vlasništvu u zajednici gde konvertibilna obveznica može da se posmatra kao dug određen nekom robom ili valutom. Osobine konvertibilne obveznice dozvoljavaju vlasniku da je konvertuje u token sa minimalnim rizikom, po ceni tokena na tržištu. Stvaranje token-konvertibilnih-dolara omogućava blokčejnovima da prošire svoje uticaj dok uvećava povraćaj za vlasnike tokena.
 
-Steem Dollars are referred to with the symbol SMD, an acronym for Steem Dollars. Creating SMD requires a combination of a reliable price feed, rules to prevent abuse, and liquidity. Providing a reliable price feed involves three factors: minimizing the impact of an incorrect feed, maximizing the cost of producing an incorrect feed, and minimizing the importance of timing.
+Steem Dolari se označavaju sa SMD, što je njihov akronim. Stvaranje SMD zahteva kombinaciju pouzdane cene, pravila protiv zloupotrebe i likvidnosti. Obezbeđivanje pouzdane cene uključuje tri faktora: održavanje minimalnog uticaja pogrešnog snabdevanja, održavanje maksimalne cene porizvodnje pogrešnog snabdevanja i smanjivanje važnosti tajminga na minimum.
 
-### Minimizing Fraudulent Feeds
+### Minimalnizovanje lažnih ponuda
 
 SP holders elect individuals to publish price feeds. These elected individuals are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
 
