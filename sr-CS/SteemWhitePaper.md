@@ -106,9 +106,9 @@ Steem Dolari su potekli od ideje koja je slična konvertibilnim obveznicama, koj
 
 Steem Dolari se označavaju sa SMD, što je njihov akronim. Stvaranje SMD zahteva kombinaciju pouzdane cene, pravila protiv zloupotrebe i likvidnosti. Obezbeđivanje pouzdane cene uključuje tri faktora: održavanje minimalnog uticaja pogrešnog snabdevanja, održavanje maksimalne cene porizvodnje pogrešnog snabdevanja i smanjivanje važnosti tajminga na minimum.
 
-### Minimalnizovanje lažnih ponuda
+### Minimalnizovanje lažnih snabdevanja
 
-SP holders elect individuals to publish price feeds. These elected individuals are presumably trusted by those who have a vested interest in the quality of the feed. By paying those who are elected, Steem creates market competition to earn the right to produce feeds. The more the feed producers are paid the more they have to lose by publishing false information.
+Vlasnici SP biraju pojedince da objave cenu snabdevanja. U te izabrane pojedince imaju poverenje pre svega oni kojima je u interesu kvalitet ponude. Plaćanjem onih koji su izabrani, Steem kreira tržišnu konkurenciju za sticanje prava za stvaranje snabdevanja. The more the feed producers are paid the more they have to lose by publishing false information.
 
 Given a set of trusted and elected feed producers, the actual price used for conversions can be derived as the median of the feeds. In this way if any minority of individual feed producers produce outliers they have minimal impact on the actual median while still having the ability impact their reputation.
 
