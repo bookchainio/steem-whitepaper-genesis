@@ -102,19 +102,19 @@ Konverzija STEEM-a u SP se zove ''powering up'', dok se obrnuta konverzija naziv
 
 Stabilnost je važan aspekt uspešnih globalnih ekonomija. Bez stabilnosti, pojedinci širom sveta ne bi mogli da imaju niske kognitivne troškove dok učestvuju u trgovini i štednji. Zato što je stabilnost važan deo uspešnih ekonomija, Steem Dolari su zamišljeni kao nešto što donosi stabilnost svetu kriptovaluta i pojednicima koji koriste Steem.
 
-Steem Dolari su potekli od ideje koja je slična konvertibilnim obveznicama, koje se često koriste kako bi se finansirali startapovi. U svetu startapova, konvertibilne obveznice su predmet kratkoročnog dugovanja i mogu se konvertovati u vlasništvo prema odnosu koji će se odrediti, obično tokom budućih rundi finansiranja. Token na blokčejnu može da se posmatra kao udeo u vlasništvu u zajednici gde konvertibilna obveznica može da se posmatra kao dug određen nekom robom ili valutom. Osobine konvertibilne obveznice dozvoljavaju vlasniku da je konvertuje u token sa minimalnim rizikom, po ceni tokena na tržištu. Stvaranje token-konvertibilnih-dolara omogućava blokčejnovima da prošire svoje uticaj dok uvećava povraćaj za vlasnike tokena.
+Steem Dolari su potekli od ideje koja je slična konvertibilnim obveznicama, koje se često koriste kako bi se finansirali startapovi. U svetu startapova, konvertibilne obveznice su predmet kratkoročnog dugovanja i mogu se konvertovati u vlasništvo prema odnosu koji će se odrediti, obično tokom budućih rundi finansiranja. Token na blokčejnu može da se posmatra kao udeo u vlasništvu u zajednici gde konvertibilna obveznica može da se posmatra kao kredit određen nekom robom ili valutom. Osobine konvertibilne obveznice dozvoljavaju vlasniku da je konvertuje u token sa minimalnim rizikom, po ceni tokena na tržištu. Stvaranje token-konvertibilnih-dolara omogućava blokčejnovima da prošire svoje uticaj dok uvećava povraćaj za vlasnike tokena.
 
 Steem Dolari se označavaju sa SMD, što je njihov akronim. Stvaranje SMD zahteva kombinaciju pouzdane cene, pravila protiv zloupotrebe i likvidnosti. Obezbeđivanje pouzdane cene uključuje tri faktora: održavanje minimalnog uticaja pogrešnog snabdevanja, održavanje maksimalne cene porizvodnje pogrešnog snabdevanja i smanjivanje važnosti tajminga na minimum.
 
-### Minimalnizovanje lažnih snabdevanja
+### Minimalizovanje lažnih snabdevanja
 
 Vlasnici SP biraju pojedince da objave cenu snabdevanja. U te izabrane pojedince imaju poverenje pre svega oni kojima je u interesu kvalitet ponude. Plaćanjem onih koji su izabrani, Steem kreira tržišnu konkurenciju za sticanje prava za stvaranje snabdevanja. Što su više plaćeni snabdevači, više će izgubiti objavljivanjem lažnih informacija.
 
 Uz skup izabranih snabdevača od poverenja, stvarna cena konverzije može da se dobije kao medijana snabdevanja. Na ovaj način, ukoliko bi neka grupa snabdevača stvorila nešto što odstupa od očekivanja, imala bi minimalni uticaj na medijanu, dok bi i dalje imala mogućnost da utiče na njihovu reputaciju.
 
-Čak iako su svi snabdevači pošteni, moguće je da na veliki deo njih utiču stvari koje su van njihove kontrole. Steem mreža je tako dizajnirana da toleriše kratkoročnu malverzaciju medijane cene, dok zajednica radi na tome da se problem otkloni. Jedan primer problema kom treba više vremena da se otkloni je kratkoročna manipulacija tržištem. Manipulacija tržištem je teška i skupa za održavanje na duže staze. Još jedan primer bi bio pad centralizovane menjačnice ili malverzacija podataka koje je objavila menjačnica.
+Čak iako su svi snabdevači pošteni, moguće je da na veliki deo njih utiču stvari koje su van njihove kontrole. Steem mreža je tako dizajnirana da toleriše kratkoročnu malverzaciju medijane cene, dok zajednica radi na tome da se problem otkloni. Jedan primer problema kojem treba više vremena da se otkloni je kratkoročna manipulacija tržištem. Manipulacija tržištem je teška i skupa za održavanje na duže staze. Još jedan primer bi bio pad centralizovane menjačnice ili malverzacija podataka koje je objavila menjačnica.
 
-Steem utiče na kratkoročna menjanja cene koristeći medijanu cene tokom preioda od nedelju dana. Uzorak mediane objavljenog snabdevanja se uzima na svakih sat vremena.
+Steem utiče na kratkoročna menjanja cene koristeći medijanu cene tokom perioda od nedelju dana. Uzorak mediane objavljenog snabdevanja se uzima na svakih sat vremena.
 
 Sve dok izmena cene snabdevanja traje manje od polovine vremenskog okvira pokretne medijane, to će imati minimalan uticaj na cenu konverzije. U slučaju da se dese malverzacije snabdevanjem, učesnici na mreži će moći da izglasaju one koji nanose štetu pre nego što ona počne da utiče na cenu konverzije. Možda je još važnije to što snabdevači imaju mogućnost da detektuju i isprave problem pre nego što on počne da utiče na cenu.
 
@@ -140,7 +140,7 @@ Oni koji obezbeđuju likvidnost kupuju i prodaju SMD I STEEM. Oni preuzimaju riz
 
 Steem ima tržište SMD-a i STEEM-a ugrađeno u okviru blokčejna. Učesnici mogu da dobiju nagrade obezbeđujući likvidnost obema stranama. Blokčejn koristi jednostavan algoritam da rangira proviziju i potrošnju likvidnosti za svakog korisnika.
 
-A user is considered a liquidity provider if they leave an open order on the books for at least 1 minute and the order is eventually filled. If the order is canceled before being filled then the user is not credited with providing liquidity.
+Za korisnika se smatra da obezbeđuje likvidnost ukoliko ostavi porudžbinu otvorenu najmanje 1 minut nakon čega je porudžbina eventualno ispunjena. If the order is canceled before being filled then the user is not credited with providing liquidity.
 
 Users must provide liquidity on both sides of the book to qualify for rewards and they must provide liquidity consistently over time. The scoring algorithm is:
 
