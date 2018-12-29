@@ -100,11 +100,11 @@ Konverzija STEEM-a u SP se zove ''powering up'', dok se obrnuta konverzija naziv
 
 ## Steem Dolari (SMD)
 
-Stabilnost je važan aspekt uspešnih globalnih ekonomija. Bez stabilnosti, pojedinci širom sveta ne bi mogli da imaju niske kognitivne troškove dok učestvuju u trgovini i štednji. Zato što je stabilnost važan deo uspešnih ekonomija, Steem Dolari su zamišljeni kao nešto što donosi stabilnost svetu kriptovaluta i pojednicima koji koriste Steem.
+Stabilnost je važan aspekt uspešnih globalnih ekonomija. Bez stabilnosti, pojedinci širom sveta ne bi mogli da imaju niske kognitivne troškove dok učestvuju u trgovini i štednji. Zato što je stabilnost važan deo uspešnih ekonomija, Steem Dolari su zamišljeni kao nešto što donosi stabilnost svetu kriptovaluta i pojedincima koji koriste Steem.
 
-Steem Dolari su potekli od ideje koja je slična konvertibilnim obveznicama, koje se često koriste kako bi se finansirali startapovi. U svetu startapova, konvertibilne obveznice su predmet kratkoročnog dugovanja i mogu se konvertovati u vlasništvo prema odnosu koji će se odrediti, obično tokom budućih rundi finansiranja. Token na blokčejnu može da se posmatra kao udeo u vlasništvu u zajednici gde konvertibilna obveznica može da se posmatra kao dug određen nekom robom ili valutom. Osobine konvertibilne obveznice dozvoljavaju vlasniku da je konvertuje u token sa minimalnim rizikom, po ceni tokena na tržištu. Stvaranje token-konvertibilnih-dolara omogućava blokčejnovima da prošire svoje uticaj dok uvećava povraćaj za vlasnike tokena.
+Steem Dolari su potekli od ideje koja je slična konvertibilnim obveznicama, koje se često koriste kako bi se finansirali startapovi. U svetu startapova, konvertibilne obveznice su predmet kratkoročnog dugovanja i mogu se konvertovati u vlasništvo prema odnosu koji će se odrediti, obično tokom budućih rundi finansiranja. Token na blokčejnu može da se posmatra kao udeo u vlasništvu u zajednici gde konvertibilna obveznica može da se posmatra kao dug određen nekom robom ili valutom. Osobine konvertibilne obveznice dozvoljavaju vlasniku da je konvertuje u token sa minimalnim rizikom, po ceni tokena na tržištu. Stvaranje token-konvertibilnih-dolara omogućava blokčejnovima da prošire svoj uticaj dok uvećava povraćaj za vlasnike tokena.
 
-Steem Dolari se označavaju sa SMD, što je njihov akronim. Stvaranje SMD zahteva kombinaciju pouzdane cene, pravila protiv zloupotrebe i likvidnosti. Obezbeđivanje pouzdane cene uključuje tri faktora: održavanje minimalnog uticaja pogrešnog snabdevanja, održavanje maksimalne cene porizvodnje pogrešnog snabdevanja i smanjivanje važnosti tajminga na minimum.
+Steem Dolari se označavaju sa SMD, što je njihov akronim. Stvaranje SMD zahteva kombinaciju pouzdane cene, pravila protiv zloupotrebe i likvidnosti. Obezbeđivanje pouzdane cene uključuje tri faktora: održavanje minimalnog uticaja pogrešnog snabdevanja, održavanje maksimalne cene proizvodnje pogrešnog snabdevanja i smanjivanje važnosti tajminga na minimum.
 
 ### Minimalizovanje lažnih snabdevanja
 
@@ -128,7 +128,7 @@ Steem unapređuje takav scenario tako što odlaže sve zahteve za konverziju na 
 
 ### Umanjivanje zloupotrebe konverzije
 
-Ako bi ljudi mogli slobodno da konvertuju u oba smera, tada bi trgovci mogli da iskoriste prednost stope konverzije na blokčejnu menjanjem velike količine tokena, bez uticaja na promenu cene. Trgovci koje vide ogroman rast cene bi mogli da konvertuju u SMD po visokoj ceni (kada je najrizičnije) i da zatim konvertuju ponovo u staru valutu nakon korekcije cene. Steem protokol štiti zajednicu od ovakvih manipulacija dozvoljavajući isključivo konverziju iz SMD u STEEM, a ne obrnuto.
+Ako bi ljudi mogli slobodno da konvertuju u oba smera, tada bi trgovci mogli da iskoriste prednost stope konverzije na blokčejnu menjanjem velike količine tokena, bez uticaja na promenu cene. Trgovci koji vide ogroman rast cene bi mogli da konvertuju u SMD po visokoj ceni (kada je najrizičnije) i da zatim konvertuju ponovo u staru valutu nakon korekcije cene. Steem protokol štiti zajednicu od ovakvih manipulacija dozvoljavajući isključivo konverziju iz SMD u STEEM, a ne obrnuto.
 
 Blokčejn odlučuje o tome kako i kada će se kreirati SMD i ko će da ga dobije. To održava stopu proizvodnje SMD stablinom i eliminiše većinu zloupotreba.
 
