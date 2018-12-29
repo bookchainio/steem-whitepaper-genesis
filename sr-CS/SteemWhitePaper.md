@@ -134,11 +134,11 @@ Blokčejn odlučuje o tome kako i kada će se kreirati SMD i ko će da ga dobije
 
 ### Likvidnost
 
-Samo zato što SMD može biti konvertovan u dolarsku vrednost STEEM-a po fer ceni i tokom razumnog vremenskog perioda, ne znači da može da se posmatra kao pouzdana zamena za dolar. These assets require liquidity in a market that enables instantaneous conversion between STEEM and SMD. The measures a blockchain is forced to take to prevent abuse end up lowering the quality of the convertible dollars. To compensate for this loss of quality the blockchain can offer a fixed cost reward to liquidity providers. Whereas the potential losses from manipulation and abuse are unbounded, the cost of encouraging liquidity can be fixed.
+Samo zato što SMD može biti konvertovan u dolarsku vrednost STEEM-a po fer ceni i tokom razumnog vremenskog perioda, ne znači da može da se posmatra kao pouzdana zamena za dolar. Ova sredstva zahtevaju likvidnost na tržištu koje omogućava trenutnu konverziju između STEEM-a i SMD-a. Mere, koje je blokčejn primoran da sprovodi zbog zloupotrebe, na kraju snižavaju kvalitet konvertibilnih dolara. Kako bi kompenzovao ovaj gubitak kvaliteta, blokčejn može da ponudi nagradu u vidu fiksne cene onima koji obezbeđuju likvidnost. Dok su potencijalni gubici od strane manipulacije i zloupotrebe neograničeni, cena za podsticanje likvidnosti se može popraviti.
 
-A liquidity provider buys and sells SMD and STEEM. They take on the majority of the short-term price risk and long-term feed risk giving the remaining market participants a high quality, extremely liquid market within which to trade.
+Oni koji obezbeđuju likvidnost kupuju i prodaju SMD I STEEM. Oni preuzimaju rizik kratkoročne cene i rizik dugoročnog snabdevanja tako što obezbeđuju preostalim učesnicima tržišta izuzetno kvalitetno, likvidno tržište na kom je moguće razmenjivati valute.
 
-Steem has an on-blockchain market between SMD and STEEM. Users can earn rewards by providing liquidity to both sides of this market. The blockchain uses a simple algorithm to rank each user's liquidity provision and consumption.
+Steem ima tržište SMD-a i STEEM-a ugrađeno u okviru blokčejna. Učesnici mogu da dobiju nagrade obezbeđujući likvidnost obema stranama. Blokčejn koristi jednostavan algoritam da rangira proviziju i potrošnju likvidnosti za svakog korisnika.
 
 A user is considered a liquidity provider if they leave an open order on the books for at least 1 minute and the order is eventually filled. If the order is canceled before being filled then the user is not credited with providing liquidity.
 
