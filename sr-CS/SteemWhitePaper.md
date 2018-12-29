@@ -116,11 +116,11 @@ Uz skup izabranih snabdevača od poverenja, stvarna cena konverzije može da se 
 
 Steem utiče na kratkoročna menjanja cene koristeći medijanu cene tokom preioda od nedelju dana. Uzorak mediane objavljenog snabdevanja se uzima na svakih sat vremena.
 
-Sve dok izmena cene snabdevanja traje manje od polovine vremenskog okvira pokretne medijane, to će imati minimalan uticaj na cenu konverzije. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
+Sve dok izmena cene snabdevanja traje manje od polovine vremenskog okvira pokretne medijane, to će imati minimalan uticaj na cenu konverzije. U slučaju da se dese malverzacije snabdevanjem, učesnici na mreži će moći da izglasaju one koji nanose štetu pre nego što ona počne da utiče na cenu konverzije. Možda je još važnije to što snabdevači imaju mogućnost da detektuju i isprave problem pre nego što on počne da utiče na cenu.
 
-With a one week window, community members have three and a half days to respond to any issues that come up.
+U okviru jedne nedelje, članovi zajednice imaju tri i po dana da reaguju na svaki problem koji nastane.
 
-### Mitigating Timing Attacks
+### Ublažavanje vremenskih napada
 
 Market participants have access to information faster than the blockchain's one week moving median conversion price can react. This information could be used to benefit of traders at the expense of the community. If there is a sudden increase in the value of STEEM traders could request conversion of their SMD at the old, lower price, and then sell the STEEM they receive a the new higher price with minimal risk.
 
