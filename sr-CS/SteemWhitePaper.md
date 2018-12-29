@@ -114,7 +114,7 @@ Uz skup izabranih snabdevača od poverenja, stvarna cena konverzije može da se 
 
 Čak iako su svi snabdevači pošteni, moguće je da na veliki deo njih utiču stvari koje su van njihove kontrole. Steem mreža je tako dizajnirana da toleriše kratkoročnu malverzaciju medijane cene, dok zajednica radi na tome da se problem otkloni. Jedan primer problema kom treba više vremena da se otkloni je kratkoročna manipulacija tržištem. Manipulacija tržištem je teška i skupa za održavanje na duže staze. Još jedan primer bi bio pad centralizovane menjačnice ili malverzacija podataka koje je objavila menjačnica.
 
-Steem factors out short-term price fluctuations by using the median price over a period of one week. The median published feed is sampled every hour on the hour.
+Steem utiče na kratkoročna menjanja cene koristeći medijanu cene tokom preioda od nedelju dana. Uzorak mediane objavljenog snabdevanja se uzima na svakih sat vremena.
 
 As long as the price feed corruption lasts for less than half the moving median time window it will have minimal impact on the conversion price. In the event the feed does get corrupted, network participants will have an opportunity to vote-out corrupt feed producers before the corrupted feed can impact the actual conversion price. Perhaps more importantly, it gives feed producers an opportunity to detect and correct issues before their feeds start impacting the price.
 
