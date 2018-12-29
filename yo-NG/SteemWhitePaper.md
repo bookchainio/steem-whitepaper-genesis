@@ -490,7 +490,7 @@ Blockchain kan le fi ipa fidimule ti iye iseku olukuluku olumulo nipa ona tio le
 
 Sise itoju iseku to kere julo ni ipa bakannna pelu jijeki awon olumulo san awon owo idunadura pelu anfani ti won o ba gba lori iseku won. Iseku to kere julo je iseku ti a nilo lati gba anfani to to lati san owo ni igba akoko to kuru.
 
-Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. Iye ti aaye je ti ipadanu anfani koni gba iye owo imo ti awon isanwo-kekeke ati oje itewogba julo pelu awon olumulo.
+Lori-ire, iseku to kere julo ti an beere le kere ko je bi dola kan eleyi si je nkan ti ole ye awon olumulo ti won si le dupe fun. Iye ti aaye je ti ipadanu anfani koni gba iye owo imo ti awon isanwo-kekeke ati oje itewogba julo pelu awon olumulo.
 
 STEEMU ti a koko lo lati bu owo si akoole kan ni igbe agbara soke ninu akoole titun (to je wipe., iyipada si Agbara Steemu).
 
@@ -506,9 +506,9 @@ Nigba ti awon didinku ni isiro iseku gbudo je kiakia ati tio lo gboro lati dina 
 
 A nilo fifun to lora ti ko yipada toun losoke lori isiro iseku nigbakugba ti lilo netiworki ba jawasile 50% titi ti netiworki ma fi kan isiro iseku to ga julo. Isiro iseku to julo n fidimule ida ti an beere to kere julo lati se agbara ti netiworki ni awon fifo kukuru.
 
-Olumulo yiowu pelu okere ju APAPO\_ AWON TOKINI / (2\* ISEKU\_ISIRO) koni le pese awon idunadura to to lati kun blocku kan. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
+Olumulo yiowu pelu okere ju APAPO\_ AWON TOKINI / (2\* ISEKU\_ISIRO) koni le pese awon idunadura to to lati kun blocku kan. Pelu isiro afipamo ti igba, eleyi tunmo si wipe olumulo yiowu to ba ni iye to kere ju 0.25% ti owo na kole seda awon idunadura to to lati se idaduro fun ise elomiran.
 
-### Effectiveness Relative to Fees
+### Ipa To Ba Awon Isanwo Tan
 
 To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
 
