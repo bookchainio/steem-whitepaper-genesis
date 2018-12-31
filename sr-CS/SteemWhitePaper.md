@@ -140,11 +140,11 @@ Oni koji obezbeđuju likvidnost kupuju i prodaju SMD I STEEM. Oni preuzimaju riz
 
 Steem ima tržište SMD-a i STEEM-a ugrađeno u okviru blokčejna. Učesnici mogu da dobiju nagrade obezbeđujući likvidnost obema stranama. Blokčejn koristi jednostavan algoritam da rangira proviziju i potrošnju likvidnosti za svakog korisnika.
 
-Za korisnika se smatra da obezbeđuje likvidnost ukoliko ostavi porudžbinu otvorenu najmanje 1 minut nakon čega je porudžbina eventualno ispunjena. If the order is canceled before being filled then the user is not credited with providing liquidity.
+Za korisnika se smatra da obezbeđuje likvidnost ukoliko ostavi porudžbinu otvorenu najmanje 1 minut nakon čega je porudžbina eventualno ispunjena. Ukoliko je porudžbina otkazana pre nego što je ispunjena, onda se za tog korisnika smatra da ne obezbeđuje likvidnost.
 
-Users must provide liquidity on both sides of the book to qualify for rewards and they must provide liquidity consistently over time. The scoring algorithm is:
+Korisnici moraju da obezbeđuju likvidnost sa obe strane konzistentno, da bi bili kvalifikovani da dobiju nagrade. Algoritam za ocenjivanje je:
 
-      LiquidityPoints = NetBidVolume x NetAskVolume
+      Poeni_za_likvidnost = obim_neto_ponude x obim_neto_potražnje
     
 
 Every hour the account with the most LiquidityPoints receives 1200 STEEM and then has its LiquidityPoints reset to 0. An account that goes a week without earning any LiquidityPoints also has its points reset to 0. This means that whether you provide a large amount of liquidity or a small amount over a long period of time everyone gets a proportional amount of the rewards. If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
