@@ -167,13 +167,13 @@ Oni koji poseduju STEEM i SP stiču prednost kada članovi zajednice žele da po
 
 ### Određivanje cene snabdevanja
 
-Pronicljivi čitaoci su možda zaključili da sredstva koja donose kamatu mogu koštati više ili manje od proizvoda na kom se zasnivaju, u zavisnosti od toga da li to sredstvo ima dodatne mogućnosti za ostvarivanje profita. Sa velikom kamatnom stopom koja se dobija na sredstva koja su fiksna u odnosu na US dolar, mnogo ljudi će da nudi Steem Dolar sve dok njegova cena više ne bude 1$. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Pronicljivi čitaoci su možda zaključili da sredstva koja donose kamatu mogu koštati više ili manje od proizvoda na kom se zasnivaju, u zavisnosti od toga da li to sredstvo ima dodatne mogućnosti za ostvarivanje profita. Sa velikom kamatnom stopom koja se dobija na sredstva koja su fiksna u odnosu na US dolar, mnogo ljudi će da nudi Steem Dolar sve dok njegova cena više ne bude 1$. U ekonomiji postoji princip koji je poznatiji kao nemoguće trojstvo[^4] koji tvrdi da je nemoguće da postoje ove tri stvari istovremeno:
 
-1. A stable exchange rate
-2. Free capital movement
-3. An independent monetary policy
+1. Stabilan devizni kurs
+2. Slobodan protok kapitala
+3. Nezavisna monetarna politika
 
-If Steem feed producers aim to have an independent monetary policy allowing it to create and destroy Steem Dollars while simultaneously having full control over the interest rate then they will encounter problems. The Impossible Trinity says that Steem Dollars either need to restrict capital movement, have an unstable exchange rate with the dollar, or have limited control over the interest rate.
+Ukoliko snabdevači na Steemu žele da postignu nezavisnu monetarnu politiku koja će im dozvoliti da naprave i unište Steem Dolare, dok istovremeno imaju potpunu kontrolu nad kamatnom stopom, onda će imati probleme. Nemoguće trojstvo kaže da Steem Dolari ili moraju da ograniče protok kapitala ili imaju nestabilan devizni kurs u odnosu na dolar ili da imaju ograničenu kontrolu nad kamatnom stopom.
 
 The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SMD and the U.S. Dollar (USD). Any time SMD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
