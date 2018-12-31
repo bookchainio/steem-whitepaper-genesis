@@ -161,9 +161,9 @@ Brza promena vrednosti STEEM-a može drastično da promeni odnos između kredita
 
 ### Kamata
 
-SMD plaća kamatu onima koji ga poseduju. Kamatnu stopu određuju isti ljudi koji objavljuju cenu snabdevanja, tako da ona može da se prilagodi uslovima tržišta. Sav kredit nosi sa sobom i rizik onom koji ga pozajmljuje. Onaj ko čuva SMD bez podizanja, efektivno pozajmljuje zajednici vrednost dolara. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SMD plaća kamatu onima koji ga poseduju. Kamatnu stopu određuju isti ljudi koji objavljuju cenu snabdevanja, tako da ona može da se prilagodi uslovima tržišta. Sav kredit nosi sa sobom i rizik onom koji ga pozajmljuje. Onaj ko čuva SMD bez podizanja, efektivno pozajmljuje zajednici vrednost dolara. Oni veruju da će u budućnosti, u jednom trenutku neko hteti da kupi SMD od njih za dolar ili da će postojati investitori koji će želeti da kupe STEEM, u koji su prethodno konvertovali svoj SMD.
 
-STEEM and SP holders gain leverage when members of the community are willing to hold SMD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
+Oni koji poseduju STEEM i SP stiču prednost kada članovi zajednice žele da poseduju SMD. Ova prednost pojačava dobitak od rasta i u isto vreme doprinosi rastu. Oni koji poseduju STEEM će biti pod uticajem smanjenja procentualnog udela, ukoliko cena padne. Projekti sa kripto valutama su pokazali da su dobici od povećanja baze korisnika koji imaju poverenja u mrežu sa kapitalom, dodaju više vrednosti mreži nego ijedno proređivanje koje se može desiti tokom pada.
 
 ### Setting Price Feeds
 
