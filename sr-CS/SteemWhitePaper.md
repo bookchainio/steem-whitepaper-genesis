@@ -147,11 +147,11 @@ Korisnici moraju da obezbeđuju likvidnost sa obe strane konzistentno, da bi bil
       Poeni_za_likvidnost = obim_neto_ponude x obim_neto_potražnje
     
 
-Every hour the account with the most LiquidityPoints receives 1200 STEEM and then has its LiquidityPoints reset to 0. An account that goes a week without earning any LiquidityPoints also has its points reset to 0. This means that whether you provide a large amount of liquidity or a small amount over a long period of time everyone gets a proportional amount of the rewards. If either NetBidVolume or NetAskVolume is negative, then LiquidityPoints is considered to be 0.
+Svakog sata, nalog sa najviše poena za likvidnost dobija 1200 STEEM-a i tada se njegovi poeni resetuju na 0. Nalogu koji za nedelju dana ne zaradi ni jedan poen za likvidnost, takođe se resetuju poeni na 0. Ovo znači da bez obzira na to da li obezbeđujete veliku ili malu količinu likvidnosti tokom dužeg perioda, svi dobijaju proporcionalnu količinu nagrada. Ukoliko je ili obim neto ponude ili neto potražnje negativan, tada se samtra da su poeni za likvidnost jednaki 0.
 
-### Sustainable Debt to Ownership Ratios
+### Održivi kredit prema stopi vlasništva
 
-If a token is viewed as ownership in the whole supply of tokens, then a token-convertible-dollar can be viewed as debt. If the debt to ownership ratio gets too high the entire currency can become unstable. Debt conversions can dramatically increase the token supply, which in turn is sold on the market suppressing the price. Subsequent conversions require the issuance of even more tokens. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
+Ukoliko se token posmatra kao vlasništvo udela u celokupnoj količini tokena, tada token-konvertibilni-dolar može da se posmatra kao kredit. Ako kredit prema stopi vlasništva postane preveliki, čitava valuta može da postane nestabilna. Konverzije kredita mogu drastično da povećaju zalihe tokena, koji se na kraju prodaju na tržištu po smanjenoj ceni. Naredne konverzije zahtevaju izdavanje još više tokena. Left unchecked the system can collapse leaving worthless ownership backing a mountain of debt. The higher the debt to ownership ratio becomes the less willing new investors are to bring capital to the table.
 
 For every SMD Steem creates, $19.00 of STEEM is also created and converted to SP. This means that the highest possible debt-to-ownership in a stable market is 1:19 or about 5%. If Steem falls in value by 50% then the ratio could increase to 10%. An 88% fall in value of STEEM could cause the debt-to-ownership ratio to reach 40%. Assuming the value of STEEM eventually stabilizes, the debt-to-ownership ratio will naturally move back toward 5%.
 
