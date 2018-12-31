@@ -157,11 +157,11 @@ Za svaki SMD koji se napravi, Steem kreira količinu STEEM-a u vrednosti od $19.
 
 Ideja na kojoj se zasniva odnos od 5% je da čak iako se sav kredit konvertuje i proda, postoji mnogo kupaca i da neće doći do velikog pada vrednosti.
 
-Brza promena vrednosti STEEM-a može drastično da promeni odnos između kredita i vlasništva. The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SMD and SP (as determined by the current rate / feed).
+Brza promena vrednosti STEEM-a može drastično da promeni odnos između kredita i vlasništva. Procentualne donje granice za proizvodnju STEEM-a se zasnivaju na zalihama, uključujući i vrednost svih SMD i SP, izračunatu u STEEM-ima na osnovu trenutnog kursa.
 
-### Interest
+### Kamata
 
-SMD pays holders interest. The interest rate is set by the same people who publish the price feed so that it can adapt to changing market conditions. All debt carries risk to the lender. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
+SMD plaća kamatu onima koji ga poseduju. Kamatnu stopu određuju isti ljudi koji objavljuju cenu snabdevanja, tako da ona može da se prilagodi uslovima tržišta. Sav kredit nosi sa sobom i rizik onom koji ga pozajmljuje. Someone who holds SMD without redeeming it is effectively lending the community the value of a dollar. They are trusting that at some point in the future someone will be willing to buy the SMD from them for a dollar or that there will be speculators and investors willing to buy the STEEM they convert it into.
 
 STEEM and SP holders gain leverage when members of the community are willing to hold SMD. This leverage amplifies the gains from growth while also contributing to growth. STEEM holders do suffer from increased dilution if the price falls. Cryptocurrency projects have shown that the gains from increasing the user base willing to trust the network with capital ultimately add more value to the network than any dilution that may occur during a downturn.
 
