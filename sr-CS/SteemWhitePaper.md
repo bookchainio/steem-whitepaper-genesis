@@ -165,9 +165,9 @@ SMD plaća kamatu onima koji ga poseduju. Kamatnu stopu određuju isti ljudi koj
 
 Oni koji poseduju STEEM i SP stiču prednost kada članovi zajednice žele da poseduju SMD. Ova prednost pojačava dobitak od rasta i u isto vreme doprinosi rastu. Oni koji poseduju STEEM će biti pod uticajem smanjenja procentualnog udela, ukoliko cena padne. Projekti sa kripto valutama su pokazali da su dobici od povećanja baze korisnika koji imaju poverenja u mrežu sa kapitalom, dodaju više vrednosti mreži nego ijedno proređivanje koje se može desiti tokom pada.
 
-### Setting Price Feeds
+### Određivanje cene snabdevanja
 
-Astute readers will recognize that an interest bearing asset of limited supply may trade higher or lower than the underlying asset depending upon other opportunities to earn interest on the same asset. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Pronicljivi čitaoci su možda zaključili da sredstva koja donose kamatu mogu koštati više ili manje od proizvoda na kom se zasnivaju, u zavisnosti od toga da li to sredstvo ima dodatne mogućnosti za ostvarivanje profita. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
 1. A stable exchange rate
 2. Free capital movement
