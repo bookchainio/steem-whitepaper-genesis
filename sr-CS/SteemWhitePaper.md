@@ -155,9 +155,9 @@ Ukoliko se token posmatra kao vlasništvo udela u celokupnoj količini tokena, t
 
 Za svaki SMD koji se napravi, Steem kreira količinu STEEM-a u vrednosti od $19.00 i konvertuje je u SP. To znači da je najveći mogući dug prema vlasništvu na stablinom tržištu 1:19, iliti oko 5%. Ukoliko vrednost STEEM-a padne za 50%, tada odnos može da se poveća na 10%. Pad vrednosti STEEM-a od 88% može da prouzrokuje odnos duga i vlasništva do 40%. Pod pretpostavkom da se vrednost STEEM-a eventualno stabilizuje, odnos duga i vlasništva bi se vratio na 5%.
 
-The idea behind having a conservative 5% debt to ownership ratio is that even if all debt were converted and sold there should be ample buyers and the effective dilution of the token holders remains relatively small.
+Ideja na kojoj se zasniva odnos od 5% je da čak iako se sav kredit konvertuje i proda, postoji mnogo kupaca i da neće doći do velikog pada vrednosti.
 
-A rapid change in the value of STEEM can dramatically change the debt-to-ownership ratio. The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SMD and SP (as determined by the current rate / feed).
+Brza promena vrednosti STEEM-a može drastično da promeni odnos između kredita i vlasništva. The percentage floors used to compute STEEM creation are based on the supply including the STEEM value of all outstanding SMD and SP (as determined by the current rate / feed).
 
 ### Interest
 
