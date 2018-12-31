@@ -167,7 +167,7 @@ Oni koji poseduju STEEM i SP stiču prednost kada članovi zajednice žele da po
 
 ### Određivanje cene snabdevanja
 
-Pronicljivi čitaoci su možda zaključili da sredstva koja donose kamatu mogu koštati više ili manje od proizvoda na kom se zasnivaju, u zavisnosti od toga da li to sredstvo ima dodatne mogućnosti za ostvarivanje profita. With a high interest rate paid on an asset pegged to the US dollar many people will bid up the limited supply of Steem Dollars until they are no longer valued at $1. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
+Pronicljivi čitaoci su možda zaključili da sredstva koja donose kamatu mogu koštati više ili manje od proizvoda na kom se zasnivaju, u zavisnosti od toga da li to sredstvo ima dodatne mogućnosti za ostvarivanje profita. Sa velikom kamatnom stopom koja se dobija na sredstva koja su fiksna u odnosu na US dolar, mnogo ljudi će da nudi Steem Dolar sve dok njegova cena više ne bude 1$. In economics there is a principle known as the Impossible Trinity[^4] which states that it is impossible to have all three of the following at the same time:
 
 1. A stable exchange rate
 2. Free capital movement
