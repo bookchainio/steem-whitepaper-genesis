@@ -147,7 +147,7 @@ Korisnici moraju da obezbeđuju likvidnost sa obe strane konzistentno, da bi bil
       Poeni_za_likvidnost = obim_neto_ponude x obim_neto_potražnje
     
 
-Svakog sata, nalog sa najviše poena za likvidnost dobija 1200 STEEM-a i tada se njegovi poeni resetuju na 0. Nalogu koji za nedelju dana ne zaradi ni jedan poen za likvidnost, takođe se resetuju poeni na 0. Ovo znači da bez obzira na to da li obezbeđujete veliku ili malu količinu likvidnosti tokom dužeg perioda, svi dobijaju proporcionalnu količinu nagrada. Ukoliko je ili obim neto ponude ili neto potražnje negativan, tada se samtra da su poeni za likvidnost jednaki 0.
+Svakog sata, nalog sa najviše poena za likvidnost dobija 1200 STEEM-a i tada se njegovi poeni resetuju na 0. Nalogu koji za nedelju dana ne zaradi ni jedan poen za likvidnost, takođe se resetuju poeni na 0. Ovo znači da bez obzira na to da li obezbeđujete veliku ili malu količinu likvidnosti tokom dužeg perioda, svi dobijaju proporcionalnu količinu nagrada. Ukoliko je ili obim neto ponude ili neto potražnje negativan, tada se smatra da su poeni za likvidnost jednaki 0.
 
 ### Odnosi između održivog kredita i vlasništva
 
@@ -179,11 +179,11 @@ Glavna obaveza snabdevača na Steem blokčejnu je da održe stabilan, 1:1 odnos 
 
 Ako je odnos kredita prema vlasništvu ispod 10% i vrednost SMD-a je manja od $1.00, tada kamatna stopa treba da se poveća. Ovo će da ohrabri više ljudi da čuvaju svoj SMD i da time održe cenu.
 
-Ako je cena SMD manja od $1.00 USD i odnos kredita prema vlasništvu je preko 10%, tada bi snabdevanje trebalo biti korigovano da daje više STEEM-a po jednom SMD-u. To bi povećalo potražnju za SMD-om, dok bi istovremeno smanjilo odnos kredita prema vlasništvu i ponovo uspostavilo ravnotežu između SMD i USD.
+Ako je cena SMD manja od $1.00 USD i odnos kredita prema vlasništvu je preko 10%, tada bi snabdevanje trebalo da bude korigovano da daje više STEEM-a po jednom SMD-u. To bi povećalo potražnju za SMD-om, dok bi istovremeno smanjilo odnos kredita prema vlasništvu i ponovo uspostavilo ravnotežu između SMD i USD.
 
 Pod pretpostavkom da vrednost STEEM-a raste brže nego što Steem stvara nove SMD, odnos kredita prema vlasništvu bi trebao da ostane ispod ciljnog odnosa da bi svi imali benefite od kamate. Ako vrednost mreže opada, tada bi svaka ponuda kamate samo pogoršala odnos kredita i vlasništva.
 
-U stvari, snabdevači imaju poverenje i odgovornost za pripremanje monetarne politike zarad održavanja stabilnog odnosa sa američkim dolarom. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
+U stvari, snabdevači imaju poverenje i odgovornost za pripremanje monetarne politike zarad održavanja stabilnog odnosa sa američkim dolarom. Zloupotreba ovoga može da ošteti vrednost STEEM-a, tako da oni koji poseduju SP moraju mudro da biraju ''vitnese'' na koje mogu da računaju da prilagode cenu snabdevanja i kamatne stope prema prethodno navedenim pravilima.
 
 If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SMD.
 
