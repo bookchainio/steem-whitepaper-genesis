@@ -181,7 +181,7 @@ Ako je odnos kredita prema vlasništvu ispod 10% i vrednost SMD-a je manja od $1
 
 Ako je cena SMD manja od $1.00 USD i odnos kredita prema vlasništvu je preko 10%, tada bi snabdevanje trebalo biti korigovano da daje više STEEM-a po jednom SMD-u. To bi povećalo potražnju za SMD-om, dok bi istovremeno smanjilo odnos kredita prema vlasništvu i ponovo uspostavilo ravnotežu između SMD i USD.
 
-Assuming the value of STEEM is growing faster than Steem is creating new SMD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
+Pod pretpostavkom da vrednost STEEM-a raste brže nego što Steem stvara nove SMD, odnos kredita prema vlasništvu bi trebao da ostane ispod ciljnog odnosa da bi svi imali benefite od kamate. If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
 In effect, feed producers are entrusted with the responsibility of setting monetary policy for the purpose of maintaining a stable peg to the USD. Abuse of this power can harm the value of STEEM so SP holders are wise to vote for witnesses that can be counted on to adjust the price feed and interest rates according to the rules outlined above.
 
