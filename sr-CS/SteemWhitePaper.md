@@ -175,7 +175,7 @@ Pronicljivi čitaoci su možda zaključili da sredstva koja donose kamatu mogu k
 
 Ukoliko snabdevači na Steemu žele da postignu nezavisnu monetarnu politiku koja će im dozvoliti da naprave i unište Steem Dolare, dok istovremeno imaju potpunu kontrolu nad kamatnom stopom, onda će imati probleme. Nemoguće trojstvo kaže da Steem Dolari ili moraju da ograniče protok kapitala ili imaju nestabilan devizni kurs u odnosu na dolar ili da imaju ograničenu kontrolu nad kamatnom stopom.
 
-The primary concern of Steem feed producers is to maintain a stable one-to-one conversion between SMD and the U.S. Dollar (USD). Any time SMD is consistently trading above $1.00 USD interest payments must be stopped. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
+Glavna obaveza snabdevača na Steem blokčejnu je da održe stabilan, 1:1 odnos konverzije između SMD i američkog dolara (USD). Kada god se SMD konzistentno menja za više od 1.00$ USD, kamatne isplate moraju da se zaustave. In a market where 0% interest on debt still demands a premium, it is safe to say the market is willing to extend more credit than the debt the community is willing to take on. If this happens a SMD will be valued at more than $1.00 and there is little the community can do without charging negative interest rates.
 
 If the debt-to-ownership ratio is under 10% and SMD is trading for less than $1.00 then the interest rate should be increased. This will encourage more people to hold their SMD and support the price.
 
