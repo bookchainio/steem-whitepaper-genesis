@@ -177,9 +177,9 @@ Ukoliko snabdevači na Steemu žele da postignu nezavisnu monetarnu politiku koj
 
 Glavna obaveza snabdevača na Steem blokčejnu je da održe stabilan, 1:1 odnos konverzije između SMD i američkog dolara (USD). Kada god se SMD konzistentno menja za više od 1.00$ USD, kamatne isplate moraju da se zaustave. Na tržištu gde 0% kamate na dug i dalje zahteva naknadu, može se reći da tržište želi da pruži veći kredit nego što je dug koji zajednica želi da preuzme. Ako se to dogodi, SMD će biti procenjen na više od 1.00$ i zajednica može tu malo šta da učini, bez menjanja negativnih kamatnih stopa.
 
-If the debt-to-ownership ratio is under 10% and SMD is trading for less than $1.00 then the interest rate should be increased. This will encourage more people to hold their SMD and support the price.
+Ako je odnos kredita prema vlasništvu ispod 10% i vrednost SMD-a je manja od $1.00, tada kamatna stopa treba da se poveća. Ovo će da ohrabri više ljudi da čuvaju svoj SMD i da time održe cenu.
 
-If SMD trades for less than $1.00 USD and the debt-to-ownership ratio is over 10% then the feeds should be adjusted upward give more STEEM per SMD. This will increase demand for SMD while also reducing the debt-to-ownership ratio and returning SMD to parity with USD.
+Ako je cena SMD manja od $1.00 USD i odnos kredita prema vlasništvu je preko 10%, tada bi snabdevanje trebalo biti korigovano da daje više STEEM-a po jednom SMD-u. To bi povećalo potražnju za SMD-om, dok bi istovremeno smanjilo odnos kredita prema vlasništvu i ponovo uspostavilo ravnotežu između SMD i USD.
 
 Assuming the value of STEEM is growing faster than Steem is creating new SMD, the debt-to-ownership ratio should remain under the target ratio and the interest offered benefits everyone. If the value of the network is at or falling, then any interest offered will only make the debt-to-ownership ratio worse.
 
