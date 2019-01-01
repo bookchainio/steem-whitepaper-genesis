@@ -181,7 +181,7 @@ Ako je odnos kredita prema vlasništvu ispod 10% i vrednost SMD-a je manja od $1
 
 Ako je cena SMD manja od $1.00 USD i odnos kredita prema vlasništvu je preko 10%, tada bi snabdevanje trebalo da bude korigovano da daje više STEEM-a po jednom SMD-u. To bi povećalo potražnju za SMD-om, dok bi istovremeno smanjilo odnos kredita prema vlasništvu i ponovo uspostavilo ravnotežu između SMD i USD.
 
-Pod pretpostavkom da vrednost STEEM-a raste brže nego što Steem stvara nove SMD, odnos kredita prema vlasništvu bi trebao da ostane ispod ciljnog odnosa da bi svi imali benefite od kamate. Ako vrednost mreže opada, tada bi svaka ponuda kamate samo pogoršala odnos kredita i vlasništva.
+Pod pretpostavkom da vrednost STEEM-a raste brže nego što Steem stvara nove SMD, odnos kredita prema vlasništvu bi trebalo da ostane ispod ciljnog odnosa da bi svi imali benefite od kamate. Ako vrednost mreže opada, tada bi svaka ponuda kamate samo pogoršala odnos kredita i vlasništva.
 
 U stvari, snabdevači imaju poverenje i odgovornost za pripremanje monetarne politike zarad održavanja stabilnog odnosa sa američkim dolarom. Zloupotreba ovoga može da ošteti vrednost STEEM-a, tako da oni koji poseduju SP moraju mudro da biraju ''vitnese'' na koje mogu da računaju da prilagode cenu snabdevanja i kamatne stope prema prethodno navedenim pravilima.
 
