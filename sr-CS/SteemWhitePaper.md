@@ -187,7 +187,7 @@ U stvari, snabdevači imaju poverenje i odgovornost za pripremanje monetarne pol
 
 Ukoliko odnos kredita i vlasništva postane opasno visok i učesnici na tržištu počnu da izbegavaju zahteve za konverzijom, tada bi snabdevanje trebalo da postane prilagođeno kako bi se povećala stopa prema kojoj se STEEM plaća za konvertovanje SMD.
 
-Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SMD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions. The blockchain is paying liquidity providers for their service in absorbing short-term demands.
+Promene politike kamatne stope i/ili bilo kojih dodataka/popusta na STEEM/SMD stopu konverzije bi trebalo da budu spor i odmeren odgovor na dugoročne devijacije proseka, pre nego pokušaj da se napravi odgovor na kratkoročne uslove tržišta. Blokčejn plaća onima koji obezbeđuju likvidnost za njihovu uslugu usvajanja kratkoročnih uslova.
 
 It is our belief that these rules will give market participants confidence that they are unlikely lose money by holding SMD purchased at a price of $1.00. We fully expect there to be a narrow trading range between $0.99 and $1.01 for SMD under most market conditions.
 
