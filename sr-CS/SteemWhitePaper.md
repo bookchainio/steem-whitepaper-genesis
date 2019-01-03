@@ -185,7 +185,7 @@ Pod pretpostavkom da vrednost STEEM-a raste brže nego što Steem stvara nove SM
 
 U stvari, snabdevači imaju poverenje i odgovornost za pripremanje monetarne politike zarad održavanja stabilnog odnosa sa američkim dolarom. Zloupotreba ovoga može da ošteti vrednost STEEM-a, tako da oni koji poseduju SP moraju mudro da biraju ''vitnese'' na koje mogu da računaju da prilagode cenu snabdevanja i kamatne stope prema prethodno navedenim pravilima.
 
-If the debt-to-ownership ratio gets dangerously high and market participants choose to avoid conversion requests, then the feed should be adjusted to increase the rate at which STEEM paid for converting SMD.
+Ukoliko odnos kredita i vlasništva postane opasno visok i učesnici na tržištu počnu da izbegavaju zahteve za konverzijom, tada bi snabdevanje trebalo da postane prilagođeno kako bi se povećala stopa prema kojoj se STEEM plaća za konvertovanje SMD.
 
 Changes to the interest rate policy and/or any premiums/discounts on the STEEM/SMD conversion rate should be a slow and measured response to long-term average deviations rather than attempting to respond to short-term market conditions. The blockchain is paying liquidity providers for their service in absorbing short-term demands.
 
