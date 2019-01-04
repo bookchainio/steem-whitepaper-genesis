@@ -197,9 +197,9 @@ Subjektivni Proof of Work predstavlja alternativni pristup raspodeli valute koji
 
 U suštini, kriterijum po kom se procenjuje rad je potpuno subjektivan i definisan je van samog izvornog koda. Jedna zajednica će možda želeti da nagradi umetnike, druga pesnike, a neka sledeća komičare. Neke zajednice će možda želeti da nagrađuju u humanitarne svrhe ili da unaprede političke agende.
 
-The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
+Vrednost svake valute zavisi od toga koliko je potreban uticaj određene zajednice i od toga koliko velika zajednica može da postane, prema verovanju na tržištu. Za razliku od prethodnih sistema, subjektivni proof of work omogućava zajednici da potpuno finansira razvoj bilo čega što smatra vrednim i omogućava monetizaciju vremena koje prethodno nije moglo da bude monetizovano.
 
-### Distributing Currency
+### Distribuiranje valute
 
 There are two ways people can get involved with a crypto-currency community: they can *buy in*, or they can *work in*. In both cases users are adding value to the currency, however, the vast majority of people have more *free time* than they do *spare cash*. Imagine the goal of bootstrapping a currency in a poor community with no actual *cash* but plenty of *time*. If people can earn money by working for one another then they will bootstrap value through mutual exchange facilitated by a fair accounting/currency system.
 
