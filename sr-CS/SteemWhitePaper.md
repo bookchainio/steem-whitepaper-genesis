@@ -193,9 +193,9 @@ Verujemo da će ova pravila dati učesnicima na tržištu samopouzdanje da je ma
 
 ## Subjektivni Doprinosi
 
-Subjektivni Proof of Work predstavlja alternativni pristup raspodeli valute koji poboljšava sisteme koji su upotpunosti *objektivni* Proof of Work kao što je to majning. The applications of a currency implementing *subjective* proof of work are far wider than any *objective* proof of work system because they can be applied to build a community around any concept that has a sufficiently defined purpose. When individuals join a community they buy into a particular set of beliefs and can vote to reinforce the community values or purpose.
+Subjektivni Proof of Work predstavlja alternativni pristup raspodeli valute koji poboljšava sisteme koji su upotpunosti *objektivni* Proof of Work kao što je to majning. Primene valute koja ima implementiran *subjektivni* prof of work su mnogo šire od bilo kog *objektivnog* prof of work sistema, zato što takav sistem može biti iskorišćen da se izgradi izajednica oko bilo koje ideje koja ima jasno definisanu svrhu. Kada se pojedinci pridruže zajednici, oni usvajaju određeni skup verovanja i mogu da ojačaju vrednosti zajednice ili njenu svrhu.
 
-In effect, the criteria by which work is evaluated is completely subjective and its definition lives outside the source code itself. One community may wish to reward artists, another poets, and another comedians. Other communities may choose to reward charitable causes or help advance political agendas.
+U suštini, kriterijum po kom se procenjuje rad je potpuno subjektivan i definisan je van samog izvornog koda. Jedna zajednica će možda želeti da nagradi umetnike, druga pesnike, a neka sledeća komičare. Neke zajednice će možda želeti da nagrađuju u humanitarne svrhe ili da unaprede političke agende.
 
 The value each currency achieves depends upon the demand for influence within a particular community and how large the market believes each community can get. Unlike prior systems, subjective proof of work enables a community to collectively fund the development of whatever it finds valuable and enables the monetization of previously non monetizable time.
 
