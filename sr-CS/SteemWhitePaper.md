@@ -189,7 +189,7 @@ Ukoliko odnos kredita i vlasništva postane opasno visok i učesnici na tržišt
 
 Promene politike kamatne stope i/ili bilo kojih dodataka/popusta na STEEM/SMD stopu konverzije bi trebalo da budu spor i odmeren odgovor na dugoročne devijacije proseka, pre nego pokušaj da se napravi odgovor na kratkoročne uslove tržišta. Blokčejn plaća onima koji obezbeđuju likvidnost za njihovu uslugu usvajanja kratkoročnih uslova.
 
-Verujemo da će ova pravila dati učesnicima na tržištu samopouzdanje da je malo verovatno da izgube novac čuvanjem SMD-a koji je kupljen po ceni od $1.00. U potpunosti se očekuje da postoji uzak opseg trgovine između $0.99 i $1.01 za SMD prema uobičajenim uslovima na tržištu.
+Verujemo da će ova pravila ohrabriti učesnike na tržištu da je malo verovatno da izgube novac čuvanjem SMD-a koji je kupljen po ceni od $1.00. U potpunosti se očekuje da postoji uzak opseg trgovine između $0.99 i $1.01 za SMD prema uobičajenim uslovima na tržištu.
 
 ## Subjektivni Doprinosi
 
