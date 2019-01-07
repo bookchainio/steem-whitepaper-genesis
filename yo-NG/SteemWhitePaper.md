@@ -512,9 +512,9 @@ Olumulo yiowu pelu okere ju APAPO\_ AWON TOKINI / (2\* ISEKU\_ISIRO) koni le pes
 
 Lati gbeyewo ipa ti didinku iye si awon isanwo a gbudo se ayewo bi awon eto mejeji se nfi idahun fun sise agbaara netiwoki lati owo oludojuko kan to momo se. Labe Bitcoin oludojuko kan pelu awon dola $10,000 le doju ise ru fun odindi ojo kan nipa kikun blocku kokan to wa. Oludojuko kanna koni le da ise ru fun blocku kan labe ti iseku oni ida ti imudagba ti oni didinku iye.
 
-Ti a ba lo se ayewo to tun ga ti ro wipe oludojuko na ngbamu 1% ti gbogbo awon owo eyo nibana a nigbagbo wipe a ni oludojuko kan pelu awon millionu dola $60. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+Ti a ba lo se ayewo to tun ga ti ro wipe oludojuko na ngbamu 1% ti gbogbo awon owo eyo nibana a nigbagbo wipe a ni oludojuko kan pelu awon millionu dola $60. Irufe oludojuko naa yio dina ise ti Blockchain ti Bitcoin fun odun meerin din logun ayafi ti awon toun wa isura ba gbe awon isanwo lo soke tabi ipa. Ti aba ti e wa gbe isanwo lo si $15 fun idunadura kokan, oludojuko na si tun le se agbara netiworki fun ojo merin din logun.
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+Labe ilana ti dindinku iye, enikan to ba ni 1% ti gbogbo awon owo eyo pelu ero lati se agbara netiworki na yio ri ero okan won fun igba to kere ju iseju aya ogbon.
 
 ### Renting vs. Buying vs. Time Sharing
 
