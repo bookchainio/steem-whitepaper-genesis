@@ -227,11 +227,11 @@ Dok je saradnja sa ciljem da se distribuiraju sredstva najboljem radu poželjna,
 
 Bez obzira na to koliko novca ima neki pojedinac, uvek postoji dosta drugih pojedinaca sa sličnom količinom novca. Čak i najbogatiji pojedinac retko kada ima više od sledeća dva najbogatija pojedinca zajedno. Pored toga, oni koji imaju najveću investiciju u zajednici takođe imaju i najviše za izgubiti, ako pokušaju da izigraju sistem glasanjem za sebe. To bi bilo kao kada bi CEO kompanije odlučio da ne plaća više zaposlene kako bi mogao da preuzme sav profit za sebe. Svi bi napustili tu kompaniju i otišli u neku drugu i ona bi postala bezvredna, a CEO bi pre bankrotirao nego što bi se obogatio.
 
-Na svu sreću, svaki posao koji dobija velike količine glasova privlači i najviše pažnje. Pomoću negativnog *glasanja*, moguće je da mali vlasnici udela ponište glasačku moć dogovorene grupe ili velikih vlasnika udela. Pored toga, veliki vlasnici imaju više toga da izgube ukoliko valuta propadne zbog zloupotrebe nego što bi dobili glasanjem za sebe. In fact, honest large stakeholders are likely to be more effective by policing abuse and using negative voting than they would be by voting for smaller contributions.
+Na svu sreću, svaki posao koji dobija velike količine glasova privlači i najviše pažnje. Pomoću negativnog *glasanja*, moguće je da mali vlasnici udela ponište glasačku moć dogovorene grupe ili velikih vlasnika udela. Pored toga, veliki vlasnici imaju više toga da izgube ukoliko valuta propadne zbog zloupotrebe nego što bi dobili glasanjem za sebe. U stvari, pošteni vlasnici velikih udela će verovatno biti korisniji regulišući zloupotrebe i koristeći negativno glasanje, nego što bi bili glasanjem za male doprinose.
 
-The use of *negative-voting* to keep people from abusing the system leverages the *crab mentality* that many people have when it is perceived that one individual is profiting at the expense of everyone else. While crab mentality normally refers to short-sighted people keeping good people down, it is also what allows good people to keep bad people down. The only "problem" with crab mentality is when people *wrongly believe* someone is profiting at everyone else's expense.
+Upotreba *negativnog glasanja* kako bi se sprečili ljudi da zloupotrebe sistem podržava *mentalitet kraba* (eng. crab mentality) koji mnogi ljudi imaju kada primete da jedan pojedinac profitira na račun ostalih. Dok mentalitet kraba uglavnom asocira na kratkovide ljude koji sprečavaju dobre ljude da uspeju, to takođe omogućava dobrim ljudima da ograničavaju loše. Jedini problem sa tim mentalitetom je kada ljudi *pogrešno veruju* da neko profitira na račun ostalih.
 
-> #### The Story of the Crab Bucket[^6]
+> #### Priča o kofi sa krabama[^6]
 > 
 > A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
 > 
