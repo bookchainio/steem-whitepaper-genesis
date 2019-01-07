@@ -241,9 +241,9 @@ Upotreba *negativnog glasanja* kako bi se sprečili ljudi da zloupotrebe sistem 
 > 
 > Isti slučaj je i sa ljudima. Ako jedan pokuša da uradi nešto drugačije, dobije bolje ocene, unapredi sebe, pobegne iz svoje okoline ili sanja velike snove, ostali ljudi će se truditi da ga spreče u tome, tako da na kraju završi kao i oni.
 
-Eliminisanje ''zloupotrebe'' nije moguće i ne bi trebalo da bude cilj. Čak i oni koji se trude da ''zloupotrebe'' sistem i dalje rade neki posao. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn't so rampant that it undermines the incentive to do real work in support of the community and its currency.
+Eliminisanje ''zloupotrebe'' nije moguće i ne bi trebalo da bude cilj. Čak i oni koji se trude da ''zloupotrebe'' sistem i dalje rade neki posao. Bilo koja kompenzacija koju dobiju za svoj uspešan pokušaj zloupotrebe je vredna za distiribuciju valute koliko i ''make-work'' sistem koji se koristi u klasičnom Bitcoin majnovanju ili u majnovanju u dogovoru, pomoću bazena za majnovanje (eng. mining pools). Neophodno je samo da se osigura da zloupotrebe nisu toliko uobičajene da podrivaju motivaciju za pravi posao za zajednicu i njenu valutu.
 
-The goal of building a community currency is to get more "crabs in the bucket". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
+Cilj pravljenja valute zajednice je da imamo više ''kraba u kofi''. Organizovati ekstremne mere kako bi se sprečile sve zloupotrebe je kao pokušaj da se zatvori kofa kako bi se sprečilo par kraba da pobegnu po cenu da postane daleko teže da se ubace nove krabe u kofu. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
 
 ### Rate Limited Voting
 
