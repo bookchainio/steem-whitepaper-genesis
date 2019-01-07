@@ -522,7 +522,7 @@ Ti enikan ba ni ile kan won nreti eto lati lo ile na fun ofe. Ti akojopo awon en
 
 Ti oba je opo awon eniyan lo jo ni ile kan papo nigbana awon olukuluku won gbudo pinnu ona ti won fe fi pin akoko ile na. Enikan to ni ipin ogorun ti ile na sugbon toun lo ni opin ose kan lodun le ma reti isanwo lowo awon olukuluku ti won mulo akoko ti won ko lo. Eleyi je ero okan ti eto to da lori isanwo.
 
-Ni apa keji, eni to ni ipin ogorun ti ile na ngbero wipe ibeere fun ile na a losoke ni ojo iwaju won a wa le ta ipin won fun opo. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
+Ni apa keji, eni to ni ipin ogorun ti ile na ngbero wipe ibeere fun ile na a losoke ni ojo iwaju won a wa le ta ipin won fun opo. Oniwun yiowu to ba ni opo ile ju won lo lo nda olugbero to tan mo rira ati tita ile. With this mindset rather than collecting rent, they collect appreciation.
 
 The value of a share is derived from how much time it can potentially grant its owner. Owning 1% of a house and getting it 1 weekend per year is the lowest value of a share. However, if half of the shareholders never use their weekend, then the value per timeshare rises to 2 weekends per year. If those inactive users instead opt to rent their unused time, then it falls back to 1 weekend per year. If those unused timeshares were sold to people who would use them then the value of a timeshare would fall by 50%. Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
 
