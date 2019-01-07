@@ -245,13 +245,13 @@ Eliminisanje ''zloupotrebe'' nije moguće i ne bi trebalo da bude cilj. Čak i o
 
 Cilj pravljenja valute zajednice je da imamo više ''kraba u kofi''. Organizovati ekstremne mere kako bi se sprečile sve zloupotrebe je kao pokušaj da se zatvori kofa kako bi se sprečilo par kraba da pobegnu po cenu da postane daleko teže da se ubace nove krabe u kofu. Dovoljno je napraviti zidove klizavim i dati ostalim krabama dovoljno moći da spreče ostale da pobegnu.
 
-### Ograničavanje brzine glasanja
+### Ograničavanje količine glasova
 
-Glavni posao kod minimizovanja zloupotrebe je ograničavanje brzine glasanja. Pojedinci mogu da pročitaju i izglasaju određeni broj stvari dnevno. Svaki pokušaj da se glasa češće je znak automatizacije i potencijalne zloupotrebe. Through rate limiting, stakeholders who vote more frequently have each vote count for less than stakeholders who vote less frequently. Attempts to divide tokens among multiple accounts also divides influence and therefore does not result in a net increase in influence nor bypass the rate-limit imposed on voting.
+Glavni posao kod minimizovanja zloupotrebe je ograničavanje količine glasova. Pojedinci mogu da pročitaju i izglasaju određeni broj stvari dnevno. Svaki pokušaj da se glasa češće je znak automatizacije i potencijalne zloupotrebe. Kroz ograničenje, glas vlasnika udela koji glasaju češće će se računati manje od onih vlasnika koji ne glasaju toliko često. Pokušaji da se podele tokeni između više naloga, takođe deli i uticaj i samim tim ne rezultuje u povećanju profita niti zaobilazi ograničenje količine glasova.
 
 ![](\img_voting_rate_limiting.png)
 
-The charts above shows how a user's voting power decreases every time they vote and then regenerates as time passes without voting. These charts use nominal time unit and could be made to scale to any targeted voting rate. Note that voting power rapidly drops off during periods of continuous voting, and then slowly recovers.
+Grafik iznad pokazuje kako se glasačka snaga korisnika smanjuje svaki put kada glasaju i regeneriše u toku vremena dok ne glasaju. Ovi grafikoni koriste nominalne vremenske jedinice i mogu biti skalirani za svaku željenu stopu glasanja. Primetite kako se glasačka snaga brzo smanjuje tokom perioda konstantnog glasanja, a zatim se polako oporavlja.
 
 Voting power is multiplied by a user's vesting tokens to determine how much share in the reward pool should be allocated to a given work item.
 
