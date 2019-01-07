@@ -243,7 +243,7 @@ Upotreba *negativnog glasanja* kako bi se sprečili ljudi da zloupotrebe sistem 
 
 Eliminisanje ''zloupotrebe'' nije moguće i ne bi trebalo da bude cilj. Čak i oni koji se trude da ''zloupotrebe'' sistem i dalje rade neki posao. Bilo koja kompenzacija koju dobiju za svoj uspešan pokušaj zloupotrebe je vredna za distiribuciju valute koliko i ''make-work'' sistem koji se koristi u klasičnom Bitcoin majnovanju ili u majnovanju u dogovoru, pomoću bazena za majnovanje (eng. mining pools). Neophodno je samo da se osigura da zloupotrebe nisu toliko uobičajene da podrivaju motivaciju za pravi posao za zajednicu i njenu valutu.
 
-Cilj pravljenja valute zajednice je da imamo više ''kraba u kofi''. Organizovati ekstremne mere kako bi se sprečile sve zloupotrebe je kao pokušaj da se zatvori kofa kako bi se sprečilo par kraba da pobegnu po cenu da postane daleko teže da se ubace nove krabe u kofu. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
+Cilj pravljenja valute zajednice je da imamo više ''kraba u kofi''. Organizovati ekstremne mere kako bi se sprečile sve zloupotrebe je kao pokušaj da se zatvori kofa kako bi se sprečilo par kraba da pobegnu po cenu da postane daleko teže da se ubace nove krabe u kofu. Dovoljno je napraviti zidove klizavim i dati ostalim krabama dovoljno moći da spreče ostale da pobegnu.
 
 ### Rate Limited Voting
 
