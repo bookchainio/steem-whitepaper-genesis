@@ -217,7 +217,7 @@ Pretpostavimo da treba da distribuiramo fiksnu količinu novca i da oni koji ima
 
 Prost proces glasanja stvara Dilemu zatvorenika (eng. Prisoner's Dilemma) gde svaki glasač ima podsticaj da glasa za samog sebe na račun višeg cilja zajednice. Ako svaki glasač odstupi od pravila i glasa za sebe, tada se valuta neće distribuirati i to generalno neće imati nikakvog efekta na mrežu. Sa druge strane, ako samo jedan glasač odstupi od pravila i glasa za sebe, onda će on osvojiti nezaslužen profit i to će imati minimalni uticaj na ukupnu vrednost valute.
 
-Sa namerom da se promene motivi i da se obeshrabre pojedinci da glasaju za sebe, novac mora da se distribuira nelinearno. Na primer, kvadratna funkcija glasova - neko duplim brojem glasova od nekoga bi trebalo da dobije četiri puta veću isplatu i neko sa trostrukim brojem glasova bi trebalo da dobije devet puta veću isplatu. Drugim rečima, nagrada je proporcionalna \\(broj_glasova^{2}\\), a ne *broj_glasova*. Ovo oponaša vrendost efekta mreže koja raste sa \\(n^{2}\\) brojem učesnika, prema Metkalfovom zakonu (eng. Metcalfe's Law)[^5].
+Sa namerom da se promene motivi i da se obeshrabre pojedinci da glasaju za sebe, novac mora da se distribuira nelinearno. Na primer, kvadratna funkcija glasova - neko duplim brojem glasova od nekoga bi trebalo da dobije četiri puta veću isplatu i neko sa trostrukim brojem glasova bi trebalo da dobije devet puta veću isplatu. Drugim rečima, nagrada je proporcionalna \\(broj_glasova^{2}\\), a ne *broj_glasova*. Ovo oponaša vrednost efekta mreže koja raste sa \\(n^{2}\\) brojem učesnika, prema Metkalfovom zakonu (eng. Metcalfe's Law)[^5].
 
 Pretpostavljajući da svi korisnici imaju jednak udeo, neko ko dobije samo svoj glas će dobiti mnogo manje nego neko ko dobije glasove od 100 različitih korisnika. Ovo podstiče korisnike da *sarađuju* kako bi glasali za iste stvari da bi povećali isplatu. Ovakav sistem takođe stvara finansijski podsticaj za *dogovore* gde svi glasaju jednu stvar i zatim podele nagradu jednako između sebe.
 
@@ -241,7 +241,7 @@ Upotreba *negativnog glasanja* kako bi se sprečili ljudi da zloupotrebe sistem 
 > 
 > Isti slučaj je i sa ljudima. Ako jedan pokuša da uradi nešto drugačije, dobije bolje ocene, unapredi sebe, pobegne iz svoje okoline ili sanja velike snove, ostali ljudi će se truditi da ga spreče u tome, tako da na kraju završi kao i oni.
 
-Eliminisanje ''zloupotrebe'' nije moguće i ne bi trebalo da bude cilj. Čak i oni koji se trude da ''zloupotrebe'' sistem i dalje rade neki posao. Bilo koja kompenzacija koju dobiju za svoj uspešan pokušaj zloupotrebe je vredna za distiribuciju valute koliko i ''make-work'' sistem koji se koristi u klasičnom Bitcoin majnovanju ili u majnovanju u dogovoru, pomoću bazena za majnovanje (eng. mining pools). Neophodno je samo da se osigura da zloupotrebe nisu toliko uobičajene da podrivaju motivaciju za pravi posao za zajednicu i njenu valutu.
+Eliminisanje ''zloupotrebe'' nije moguće i ne bi trebalo da bude cilj. Čak i oni koji se trude da ''zloupotrebe'' sistem i dalje rade neki posao. Bilo koja kompenzacija koju dobiju za svoj uspešan pokušaj zloupotrebe je vredna za distribuciju valute koliko i ''make-work'' sistem koji se koristi u klasičnom Bitcoin majnovanju ili u majnovanju u dogovoru, pomoću bazena za majnovanje (eng. mining pools). Neophodno je samo da se osigura da zloupotrebe nisu toliko uobičajene da podrivaju motivaciju za pravi posao za zajednicu i njenu valutu.
 
 Cilj pravljenja valute zajednice je da imamo više ''kraba u kofi''. Organizovati ekstremne mere kako bi se sprečile sve zloupotrebe je kao pokušaj da se zatvori kofa kako bi se sprečilo par kraba da pobegnu po cenu da postane daleko teže da se ubace nove krabe u kofu. Dovoljno je napraviti zidove klizavim i dati ostalim krabama dovoljno moći da spreče ostale da pobegnu.
 
@@ -259,7 +259,7 @@ Glasačka snaga se množi sa korisnikovim tokenima koji predstavljaju udeo, da b
 
 ![](\img_change_voting_period_eg.png)
 
-Da bi se dalje sprečila zloupotreba, sve isplate su odložene prosečno 24 sata nakon što je svaki glas dodeljen. Ovo osigurava da veliki vlasnici udela ne mogu da uzimaju isplate glasanjem u poslednjoj sekundi pre nego što ostali glasači (iliti krabe iz kofe) dobiju šansu da spreče potencijalnu zloupotrebu. Jednom kada se se isplata izvrši na račun korisnika, svi glasovi se resetuju na 0. If votes come in after the payout then the process begins again.
+Da bi se dalje sprečila zloupotreba, sve isplate su odložene prosečno 24 sata nakon što je svaki glas dodeljen. Ovo osigurava da veliki vlasnici udela ne mogu da uzimaju isplate glasanjem u poslednjoj sekundi pre nego što ostali glasači (iliti krabe iz kofe) dobiju šansu da spreče potencijalnu zloupotrebu. Jednom kada se isplata izvrši na račun korisnika, svi glasovi se resetuju na 0. If votes come in after the payout then the process begins again.
 
 This chart shows how the voting period expiration changes in response to new positive and negative votes being applied. New votes extend the payout period in proportion to how large they are relative to all votes that have gone before. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
 
