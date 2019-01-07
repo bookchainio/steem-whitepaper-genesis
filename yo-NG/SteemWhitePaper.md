@@ -516,9 +516,9 @@ Ti a ba lo se ayewo to tun ga ti ro wipe oludojuko na ngbamu 1% ti gbogbo awon o
 
 Labe ilana ti dindinku iye, enikan to ba ni 1% ti gbogbo awon owo eyo pelu ero lati se agbara netiworki na yio ri ero okan won fun igba to kere ju iseju aya ogbon.
 
-### Renting vs. Buying vs. Time Sharing
+### Yiyalo vs. Rira vs. Pinpin Akoko
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Ti enikan ba ni ile kan won nreti eto lati lo ile na fun ofe. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
 
 If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
 
