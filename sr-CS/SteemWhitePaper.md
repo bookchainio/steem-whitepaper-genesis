@@ -259,7 +259,7 @@ Glasačka snaga se množi sa korisnikovim tokenima koji predstavljaju udeo, da b
 
 ![](\img_change_voting_period_eg.png)
 
-Da bi se dalje sprečila zloupotreba, sve isplate su odložene prosečno 24 sata nakon što je svaki glas dodeljen. This ensures that large stakeholders cannot snipe payouts by voting at the last second before other voters (aka crabs) have a chance to negate the potential abuse. Once a payout is made to the user all votes are reset to 0. If votes come in after the payout then the process begins again.
+Da bi se dalje sprečila zloupotreba, sve isplate su odložene prosečno 24 sata nakon što je svaki glas dodeljen. Ovo osigurava da veliki vlasnici udela ne mogu da uzimaju isplate glasanjem u poslednjoj sekundi pre nego što ostali glasači (iliti krabe iz kofe) dobiju šansu da spreče potencijalnu zloupotrebu. Jednom kada se se isplata izvrši na račun korisnika, svi glasovi se resetuju na 0. If votes come in after the payout then the process begins again.
 
 This chart shows how the voting period expiration changes in response to new positive and negative votes being applied. New votes extend the payout period in proportion to how large they are relative to all votes that have gone before. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
 
