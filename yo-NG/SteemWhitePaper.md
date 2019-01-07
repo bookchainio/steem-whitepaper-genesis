@@ -512,7 +512,7 @@ Olumulo yiowu pelu okere ju APAPO\_ AWON TOKINI / (2\* ISEKU\_ISIRO) koni le pes
 
 Lati gbeyewo ipa ti didinku iye si awon isanwo a gbudo se ayewo bi awon eto mejeji se nfi idahun fun sise agbaara netiwoki lati owo oludojuko kan to momo se. Labe Bitcoin oludojuko kan pelu awon dola $10,000 le doju ise ru fun odindi ojo kan nipa kikun blocku kokan to wa. Oludojuko kanna koni le da ise ru fun blocku kan labe ti iseku oni ida ti imudagba ti oni didinku iye.
 
-If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+Ti a ba lo se ayewo to tun ga ti ro wipe oludojuko na ngbamu 1% ti gbogbo awon owo eyo nibana a nigbagbo wipe a ni oludojuko kan pelu awon millionu dola $60. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
 
 Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
 
