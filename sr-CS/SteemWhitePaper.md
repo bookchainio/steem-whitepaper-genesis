@@ -221,9 +221,9 @@ Sa namerom da se promene motivi i da se obeshrabre pojedinci da glasaju za sebe,
 
 Pretpostavljajući da svi korisnici imaju jednak udeo, neko ko dobije samo svoj glas će dobiti mnogo manje nego neko ko dobije glasove od 100 različitih korisnika. Ovo podstiče korisnike da *sarađuju* kako bi glasali za iste stvari da bi povećali isplatu. Ovakav sistem takođe stvara finansijski podsticaj za *dogovore* gde svi glasaju jednu stvar i zatim podele nagradu jednako između sebe.
 
-#### Voting Collusion
+#### Dogovor tokom glasanja
 
-While cooperation to distribute funds to the best work is the desired goal, *collusion* that undermines this objective should be minimized. There are two kinds of *collusion*, the most straightforward is when one user simply buys a larger stake than others, and the other involves coordinating a large number of smaller stakeholders to work together. Larger stakeholders can have the voting influence of 100 or even 1000 smaller stakeholders which means they have even greater incentive to defect by voting for themselves than they had under a linear distribution.
+Dok je saradnja sa ciljem da se distribuiraju sredstva najboljem radu poželjna, *dogovori* koji staju na put tom cilju bi trebalo da budu minimizovani. Postoje dva tipa *dogovora*. Najdirektniji je onaj gde jedan korisnik kupi veći udeo od svih ostalih, a drugi je onaj gde se veliki broj malih vlasnika udružuje zajedno. Veliki vlasnici udela mogu da imaju uticaj na glasanje kao 100 ili čak 1000 malih vlasnika udela, što znači da sada imaju čak veći podsticaj da naruše glasanje, glasajući za sebe, nego tokom linearne distribucije.
 
 Regardless of how much money any one individual has, there are always many other individuals with similar wealth. Even the wealthiest individual rarely has much more than the next couple wealthiest combined. Furthermore, those who have a large investment in a community also have the most to lose by attempting to game the voting system for themselves. It would be like the CEO of a company deciding to stop paying salaries so he could pocket all of the profits. Everyone would leave to work for other companies and the company would become worthless, leaving the CEO bankrupt rather than wealthy.
 
