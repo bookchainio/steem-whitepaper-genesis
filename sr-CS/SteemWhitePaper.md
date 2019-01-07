@@ -253,13 +253,13 @@ Glavni posao kod minimizovanja zloupotrebe je ograničavanje količine glasova. 
 
 Grafik iznad pokazuje kako se glasačka snaga korisnika smanjuje svaki put kada glasaju i regeneriše u toku vremena dok ne glasaju. Ovi grafikoni koriste nominalne vremenske jedinice i mogu biti skalirani za svaku željenu stopu glasanja. Primetite kako se glasačka snaga brzo smanjuje tokom perioda konstantnog glasanja, a zatim se polako oporavlja.
 
-Voting power is multiplied by a user's vesting tokens to determine how much share in the reward pool should be allocated to a given work item.
+Glasačka snaga se množi sa korisnikovim tokenima koji predstavljaju udeo, da bi se odredilo koliki deo nagrade bi trebalo da mu pripadne za dati posao.
 
-### Delayed Payouts
+### Odložene isplate
 
 ![](\img_change_voting_period_eg.png)
 
-To further prevent abuse, all payouts are delayed a stake-weighted average of 24 hours from the time each vote was cast. This ensures that large stakeholders cannot snipe payouts by voting at the last second before other voters (aka crabs) have a chance to negate the potential abuse. Once a payout is made to the user all votes are reset to 0. If votes come in after the payout then the process begins again.
+Da bi se dalje sprečila zloupotreba, sve isplate su odložene prosečno 24 sata nakon što je svaki glas dodeljen. This ensures that large stakeholders cannot snipe payouts by voting at the last second before other voters (aka crabs) have a chance to negate the potential abuse. Once a payout is made to the user all votes are reset to 0. If votes come in after the payout then the process begins again.
 
 This chart shows how the voting period expiration changes in response to new positive and negative votes being applied. New votes extend the payout period in proportion to how large they are relative to all votes that have gone before. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
 
