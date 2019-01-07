@@ -518,7 +518,7 @@ Labe ilana ti dindinku iye, enikan to ba ni 1% ti gbogbo awon owo eyo pelu ero l
 
 ### Yiyalo vs. Rira vs. Pinpin Akoko
 
-Ti enikan ba ni ile kan won nreti eto lati lo ile na fun ofe. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Ti enikan ba ni ile kan won nreti eto lati lo ile na fun ofe. Ti akojopo awon eniyan ba ra ile kan papo nigbana olukuluku won le reti eto ati lo ile na to dogba pelu iye ini won ninu ile na. Blockchain kan to da lori isanwo je bi yiya ile na lowo awon to ni, nigbati didinku iye je pinpin-akoko laarin awon to ni.
 
 If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
 
