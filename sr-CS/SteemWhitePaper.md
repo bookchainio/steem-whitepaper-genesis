@@ -233,15 +233,15 @@ Upotreba *negativnog glasanja* kako bi se sprečili ljudi da zloupotrebe sistem 
 
 > #### Priča o kofi sa krabama[^6]
 > 
-> A man was walking along the beach and saw another man fishing in the surf with a bait bucket beside him. As he drew closer, he saw that the bait bucket had no lid and had live crabs inside.
+> Čovek je šetao plažom i ugledao je drugog čoveka kako peca pored kofe sa mamcima. Kako se približio, video je da kofa nema poklopac i da ima žive krabe unutra.
 > 
-> "Why don't you cover your bait bucket so the crabs won't escape?", he said.
+> ''Zašto ne poklopiš svoju kofu, tako da ti krabe ne bi pobegle?'', upitao je.
 > 
-> "You don't understand.", the man replied, "If there is one crab in the bucket it would surely crawl out very quickly. However, when there are many crabs in the bucket, if one tries to crawl up the side, the others grab hold of it and pull it back down so that it will share the same fate as the rest of them."
+> ''Ne razumeš.'', odgovori mu čovek, ''Da je u kofi samo jedna kraba, ona bi pobegla vrlo lako. Međutim, kada ima više kraba u kofi, ukoliko jedna pokuša da pobegne, ostale bi je zgrabile i povukle nazad, tako da i ona završi kao i sve ostale.''
 > 
-> So it is with people. If one tries to do something different, get better grades, improve herself, escape her environment, or dream big dreams, other people will try to drag her back down to share their fate.
+> Isti slučaj je i sa ljudima. Ako jedan pokuša da uradi nešto drugačije, dobije bolje ocene, unapredi sebe, pobegne iz svoje okoline ili sanja velike snove, ostali ljudi će se truditi da ga spreče u tome, tako da na kraju završi kao i oni.
 
-Eliminating "abuse" is not possible and shouldn't be the goal. Even those who are attempting to "abuse" the system are still doing work. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn't so rampant that it undermines the incentive to do real work in support of the community and its currency.
+Eliminisanje ''zloupotrebe'' nije moguće i ne bi trebalo da bude cilj. Čak i oni koji se trude da ''zloupotrebe'' sistem i dalje rade neki posao. Any compensation they get for their successful attempts at abuse or collusion is at least as valuable for the purpose of distributing the currency as the make-work system employed by traditional Bitcoin mining or the collusive mining done via mining pools. All that is necessary is to ensure that abuse isn't so rampant that it undermines the incentive to do real work in support of the community and its currency.
 
 The goal of building a community currency is to get more "crabs in the bucket". Going to extreme measures to eliminate all abuse is like attempting to put a lid on the bucket to prevent a few crabs from escaping and comes at the expense of making it harder to add new crabs to the bucket. It is sufficient to make the walls slippery and give the other crabs suf cient power to prevent others from escaping.
 
