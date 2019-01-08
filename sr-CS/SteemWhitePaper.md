@@ -291,9 +291,9 @@ Ovo podstiče ljude da doprinose na način koji motiviše druge da se uključe. 
 
 ### Isplate
 
-Kada post dobije isplatu, ona se deli u formi kao 50% SMD i 50% SP. The Steem Power give the user increased voting and transaction power while the SMD gives the user an immediate benefit in a stable currency. As we've already discussed at length, both SP and SMD are designed to encourage long-term holding rather than short-term selling.
+Kada post dobije isplatu, ona se deli u formi kao 50% SMD i 50% SP. SP daje korisniku povećanu jačinu glasa i transakcije, dok SMD daje korisniku trenutni benefit u vidu stabilne valute. Kao što smo već pisali, SP i SMD su zamišljeni tako da ohrabre dugoročno čuvanje, pre nego kratkoročnu prodaju valute.
 
-# Consensus Algorithm
+# Algoritam konsenzusa
 
 Consensus is the process by which a community comes to a universally recognized, unambiguous agreement on piece of information. There are many algorithms society has developed for reaching consensus about who owns what. Every government on earth is a primitive consensus algorithm whereby the population agrees to abide by a certain set of rules enshrined in a constitution. Governments establish courts, judges, and juries to interpret the subjective facts and render a final decision. Most of the time people abide by the decision even if it was wrong.
 
