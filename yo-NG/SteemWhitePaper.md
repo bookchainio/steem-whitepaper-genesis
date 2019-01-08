@@ -482,11 +482,11 @@ Iseku akoko ti akoole yio nilo lati wa lati odo olumulo toun seda akoole na ki s
 
 ### Fifihan Awon Iseku Tokere-julo
 
-Ero ti fifi ipa mu awon olumulo lati mulo iseku to kere julo nfa lati iye ti ako lori olumulo [^11]. Enikeni toun dari oko owo mo wipe olukuluku olumulo kokan loni anfani. Awon oko-owo man na lati bi $30 si $200 lati ni olumulo kan. Nigbamiran won san owo si awon olumulo lowo, ni igba miran won sanwo fun ipolowo, nigba miran won a ra odindin awon ile ise nitori akopo awon olumulo won lasun. Leyin ti ile ise kan ba ti ni olumulo won a ma fun wan ni opo * anfani ofe * lati jeki won duro titi ti won afi lo ona miran lati so won dowo.
+Ero ti fifi ipa mu awon olumulo lati mulo iseku to kere julo nfa lati iye ti ako lori olumulo [^11]. Enikeni toun dari oko owo mo wipe olukuluku olumulo kokan loni anfani. Awon oko-owo man na lati bi $30 si $200 lati ni olumulo kan. Nigbamiran won san owo si awon olumulo lowo, ni igba miran won sanwo fun ipolowo, nigba miran won a ra odindin awon ile ise nitori akopo awon olumulo won lasun. Leyin ti ile ise kan ba ti ni olumulo won a ma fun wan ni opo *anfani ofe* lati jeki won duro titi ti won afi lo ona miran lati so won dowo.
 
 Ripple nlo iseku to kere julo ti[^12] toun se iwon pelu akoole awon oun elo lilo ati to nilo awon akoole titun lati ni owo okereju to dogba pelu iseku to kere julo. Nisin iseku to kere ju yi je bi $0.15 eleyi to po ju $0.10 lo eleyi ti a ro pe oma fayegba enikan lati se idunadura laisi afowodi ni okereju ekan lose.
 
-Blockchain kan le fi ipa fidimule ti iye iseku olukuluku olumulo nipa ona tio le ti bibeere iseku to kerejulo. Ise eyiowu to bafe mu onibara titun kan wa si blockchain le sanwo saaju fun akoole olumulo na pelu owo iseku to kere julo tio fayegba won lati se idunadura. Bibeere iye isan owo to po gan ($1.00) lati gba awon olumulo titun wole yio fipa jeki enikeni toun pese awon akoole ofe lati fi oju se ayewo toni toni ti didara ati ailegbe akoole kokan ki won to kowonsile pelu blockchain.
+Blockchain kan le fi ipa fidimule ti iye iseku olukuluku olumulo nipa ona tio le ti bibeere iseku to kerejulo. Oko owo eyiowu to bafe mu onibara titun kan wa si blockchain le sanwo saaju fun akoole olumulo na pelu owo iseku to kere julo tio fayegba won lati se idunadura. Bibeere iye isan owo to po gan ($1.00) lati gba awon olumulo titun wole yio fipa jeki enikeni toun pese awon akoole ofe lati fi oju se ayewo toni toni ti didara ati ailegbe akoole kokan ki won to kowonsile pelu blockchain.
 
 Sise itoju iseku to kere julo ni ipa bakannna pelu jijeki awon olumulo san awon owo idunadura pelu anfani ti won o ba gba lori iseku won. Iseku to kere julo je iseku ti a nilo lati gba anfani to to lati san owo ni igba akoko to kuru.
 
