@@ -512,7 +512,7 @@ Olumulo yiowu pelu okere ju APAPO\_ AWON TOKINI / (2\* ISEKU\_ISIRO) koni le pes
 
 Lati gbeyewo ipa ti didinku iye si awon isanwo a gbudo se ayewo bi awon eto mejeji se nfi idahun fun sise agbaara netiwoki lati owo oludojuko kan to momo se. Labe Bitcoin oludojuko kan pelu awon dola $10,000 le doju ise ru fun odindi ojo kan nipa kikun blocku kokan to wa. Oludojuko kanna koni le da ise ru fun blocku kan labe ti iseku oni ida ti imudagba ti oni didinku iye.
 
-Ti a ba lo se ayewo to tun ga ti ro wipe oludojuko na ngbamu 1% ti gbogbo awon owo eyo nibana a nigbagbo wipe a ni oludojuko kan pelu awon millionu dola $60. Irufe oludojuko naa yio dina ise ti Blockchain ti Bitcoin fun odun meerin din logun ayafi ti awon toun wa isura ba gbe awon isanwo lo soke tabi ipa. Ti aba ti e wa gbe isanwo lo si $15 fun idunadura kokan, oludojuko na si tun le se agbara netiworki fun ojo merin din logun.
+Ti a ba lo se ayewo to tun ga ti ro wipe oludojuko na nigbamu 1% ti gbogbo awon owo eyo nigbana a nigbagbo wipe a ni oludojuko kan pelu $60 millionu dola. Irufe oludojuko naa yio dina ise ti Blockchain ti Bitcoin fun odun meerin din logun ayafi ti awon toun wa isura ba gbe awon isanwo lo soke tabi ipa. Ti aba ti e wa gbe isanwo lo si $15 fun idunadura kokan, oludojuko na si tun le se agbara netiworki fun ojo merin din logun.
 
 Labe ilana ti dindinku iye, enikan to ba ni 1% ti gbogbo awon owo eyo pelu ero lati se agbara netiworki na yio ri ero okan won fun igba to kere ju iseju aya ogbon.
 
@@ -520,9 +520,9 @@ Labe ilana ti dindinku iye, enikan to ba ni 1% ti gbogbo awon owo eyo pelu ero l
 
 Ti enikan ba ni ile kan won nreti eto lati lo ile na fun ofe. Ti akojopo awon eniyan ba ra ile kan papo nigbana olukuluku won le reti eto ati lo ile na to dogba pelu iye ini won ninu ile na. Blockchain kan to da lori isanwo je bi yiya ile na lowo awon to ni, nigbati didinku iye je pinpin-akoko laarin awon to ni.
 
-Ti oba je opo awon eniyan lo jo ni ile kan papo nigbana awon olukuluku won gbudo pinnu ona ti won fe fi pin akoko ile na. Enikan to ni ipin ogorun ti ile na sugbon toun lo ni opin ose kan lodun le ma reti isanwo lowo awon olukuluku ti won mulo akoko ti won ko lo. Eleyi je ero okan ti eto to da lori isanwo.
+Ti oba je opo awon eniyan lo jo ni ile kan papo nigbana awon olukuluku won gbudo pinnu ona ti won fe fi pin akoko ile na. Enikan to ni ipin 50% ti ile na sugbon toun lo ni opin ose kan lodun le ma reti isanwo lowo awon olukuluku ti won mulo akoko ti won ko lo. Eleyi je ero okan ti eto to da lori isanwo.
 
-Ni apa keji, eni to ni ipin ogorun ti ile na ngbero wipe ibeere fun ile na a losoke ni ojo iwaju won a wa le ta ipin won fun opo. Oniwun yiowu to ba ni opo ile ju won lo lo nda olugbero to tan mo rira ati tita ile. With this mindset rather than collecting rent, they collect appreciation.
+Ni apa keji, eni to ni ipin 50% ti ile na ngbero wipe ibeere fun ile na a losoke ni ojo iwaju won a wa le ta ipin won fun opo. Oniwun yiowu to ba ni opo ile ju won lo lo nda olugbero to tan mo rira ati tita ile. With this mindset rather than collecting rent, they collect appreciation.
 
 The value of a share is derived from how much time it can potentially grant its owner. Owning 1% of a house and getting it 1 weekend per year is the lowest value of a share. However, if half of the shareholders never use their weekend, then the value per timeshare rises to 2 weekends per year. If those inactive users instead opt to rent their unused time, then it falls back to 1 weekend per year. If those unused timeshares were sold to people who would use them then the value of a timeshare would fall by 50%. Unless the rent collected is greater than the fall in share value the timeshare owners are making an economic miscalculation.
 
