@@ -275,7 +275,7 @@ Stvarna distribucija će zavisiti od oblika glasanja korisnika, ali pretpostavlj
 
 Zifov zakon (eng. Zipf's Law)[^7] je jedno od empirijskih pravila koje karakteriše okvir fenomena stvarnog sveta iznenađujuće dobro. On kaže da ako uzmemo neki veliki skup po veličini ili popularnosti, drugi element u skupu će biti otprilike upola manje vredan od prvog, treći će imati jednu trećinu vrednosti itd. Uopšteno,\\(k^{th}\\) rangirani član će imati vrednost 1/k prvog člana.
 
-Ako uzmemo popularnost kao grubu meru vrednosti, tada je vrednost svakog pojedinačnog člana data Zifovim zakonom. Odnosno, ako imamo milion članova, onda će najpopularnijih 100 doneti trećinu ukupne vrednosti, sledećih 10,000 sledeću trećinu i preostalih 989,900 članova poslednju trećinu. Vrednost skupa od n članova je proporcionalna sa log(n).
+Ako uzmemo popularnost kao grubu meru vrednosti, tada je vrednost svakog pojedinačnog člana data Zifovim zakonom. Odnosno, ako imamo milion članova, onda će najpopularnijih 100 doneti trećinu ukupne vrednosti, sledećih 10,000 sledeću trećinu i preostalih 989,900 članova poslednju trećinu. Vrednost skupa od n članova je proporcionalna log(n).
 
 Cilj ove distribucije glasanja i nagrađivanja je da ponudi velike nagrade za dobar sadržaj i da u isto vreme nagradi slabije autore shodno njihovom doprinosu.
 
@@ -299,7 +299,7 @@ Konsenzus je proces kada zajednica dođe na nedvosmisleni, opšteprihvaćeni dog
 
 Algoritmi koje koriste kriptovalute obezbeđuju bolji način da se dostigne konsenzus. Kriptografski potpisana izjava od strane pojedinca je memorisana u javnoj knjizi koja uspostavlja apsolutni, globalni sled događaja. Deterministički algoritam tada može da obradi tu knjigu kako bi došao do zaključka koji može da bude opšteprihvaćen. Sve dok se članovi zajednice slažu u pogledu algoritma, rezultat tog algoritma je autoritativan.
 
-Osnovna briga je određivanje kompetentne izjave koja bi trebala da uđe u taj javni zapisnik. Sistemi bi trebalo da budu dizajnirani da minimizuju potencijalnu cenzuru. Cenzura u javnom zapisniku je nešto slično kao kada biste sprečili nekoga da glasa na izborima. U oba slučaja je pojedinac sprečen da utiče na globalni konsenzus.
+Osnovna briga je određivanje kompetentne izjave koja bi trebalo da uđe u taj javni zapisnik. Sistemi bi trebalo da budu dizajnirani da minimizuju potencijalnu cenzuru. Cenzura u javnom zapisniku je nešto slično kao kada biste sprečili nekoga da glasa na izborima. U oba slučaja je pojedinac sprečen da utiče na globalni konsenzus.
 
 ## Konsenzus na Steem-u
 
