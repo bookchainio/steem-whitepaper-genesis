@@ -279,7 +279,7 @@ Ako uzmemo popularnost kao grubu meru vrednosti, tada je vrednost svakog pojedin
 
 Cilj ove distribucije glasanja i nagrađivanja je da ponudi velike nagrade za dobar sadržaj i da u isto vreme nagradi slabije autore shodno njihovom doprinosu.
 
-Ekonomske posledice ovoga su slične lutriji gde ljudi precenjuju svoje šanse da dobiju glasove i samim tim rade više nego što očekivana količina nagrade to zahteva i samim tim maksimizuju ukupnu količinu rada u službi cele zajednice. Činjenica da svi ''zarade po nešto'' je zasnovana na istoj psihologiji koju kockarnice koriste da bi ljudi nastavili da se kockaju. Drugim rečima, male nagrade pomažu da se nahrani ideja da je moguće osvojiti i veće nagrade.
+Ekonomske posledice ovoga su slične lutriji gde ljudi precenjuju svoje šanse da dobiju glasove i samim tim rade više nego što očekivana količina nagrade to zahteva i samim tim maksimizuju ukupnu količinu rada u službi cele zajednice. Činjenica da svi ''zarade po nešto'' je zasnovana na istoj psihologiji koju kockarnice koriste da bi ljudi nastavili da se kockaju. Drugim rečima, male nagrade pomažu da se podstakne ideja da je moguće osvojiti i veće nagrade.
 
 #### Nagrađivanje osnovnog posta
 
@@ -295,7 +295,7 @@ Kada post dobije isplatu, ona se deli u formi kao 50% SMD i 50% SP. SP daje kori
 
 # Algoritam konsenzusa
 
-Konsenzus je proces kada zajednica dođe na nedvosmisleni, opšteprihvaćeni dogovor o nekom slučaju. Postoje mnogi algoritmi koje je drštvo razvilo kako bi se postigao konsenzus oko toga ko ima pravo na šta. Svaka vlada na planeti je primitivni algoritam konsenzusa prema kom se populacija slaže da se pridržava određenog skupa pravila koji je ugrađen u ustav. Vlada formira sudove, sudije i porote da subjektivno razmotre činjenice i donesu konačnu odluku. U većini slučajeva, narod će da se pridržava odluke čak iako je ona pogrešna.
+Konsenzus je proces kada zajednica dođe na nedvosmisleni, opšteprihvaćeni dogovor o nekom slučaju. Postoje mnogi algoritmi koje je društvo razvilo kako bi se postigao konsenzus oko toga ko ima pravo na šta. Svaka vlada na planeti je primitivni algoritam konsenzusa prema kom se populacija slaže da se pridržava određenog skupa pravila koji je ugrađen u ustav. Vlada formira sudove, sudije i porote da subjektivno razmotre činjenice i donesu konačnu odluku. U većini slučajeva, narod će da se pridržava odluke čak iako je ona pogrešna.
 
 Algoritmi koje koriste kriptovalute obezbeđuju bolji način da se dostigne konsenzus. Kriptografski potpisana izjava od strane pojedinca je memorisana u javnoj knjizi koja uspostavlja apsolutni, globalni sled događaja. Deterministički algoritam tada može da obradi tu knjigu kako bi došao do zaključka koji može da bude opšteprihvaćen. Sve dok se članovi zajednice slažu u pogledu algoritma, rezultat tog algoritma je autoritativan.
 
@@ -309,7 +309,7 @@ U svetu kriptovaluta, javni zapisnik je obično definisan kao *blokčejn*. *Blok
 
 Sa Steem-om, proizvodnja blokova se odvija u rundama. U svakoj rundi, 21 'vitnes' je izabran da proizvodi i potpisuje blokove transakcija. Devetnaest od ovih izabranih vitnesa su izabrani glasanjem, jedan je izabran pomoću proof-of-work sistema, a jedno mesto je podeljeno među svim vitnesima koji nisu ušli u top 19, proporcionalno njihovim glasovima. Dvadeset jedan aktivan vitnes se menja svake runde da bi sprečili nekog od njih da konstantno ignoriše blokove koji su proizvedeni od strane istog vitnesa koji je tu bio ranije.
 
-Ovaj proces je zamišljen tako da obezbedi najbolju pouzdanost dok osigurava da svi imaju mogućnost da učestvuju u proizvodnji blokova bez obzira na to da li su dovoljno popularni da dobiju top mesto. People have three options to overcome censorship by the top 19 elected witnesses: patiently wait in line with everyone else not in the top 19, purchase enough computational power to solve a proof of work faster than others, or purchase more SP to improve voting power. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
+Ovaj proces je zamišljen tako da obezbedi najbolju pouzdanost dok osigurava da svi imaju mogućnost da učestvuju u proizvodnji blokova bez obzira na to da li su dovoljno popularni da dobiju top mesto. Ljudi imaju tri opcije da izbegnu cenzuru od strane 19 izabranih vitnesa: da pažljivo čekaju u redu sa svima koji nisu u top 19, da kupe dovoljno procesorske snage da imaju proof of work brži od ostalih ili da kupe više SP, kako bi poboljšali snagu glasa. Generally speaking, applying censorship is a good way for elected witnesses to lose their job and therefore, it is unlikely to be a real problem on the Steem network.
 
 Because the active witnesses are known in advance, Steem is able to schedule witnesses to produce blocks every 3 seconds. Witnesses synchronize their block production via the NTP protocol. A variation of this algorithm has been in use by the BitShares network for over a year where it has been proven to be reliable.
 
