@@ -271,11 +271,11 @@ Jedan od primarnih ciljeva Steem-ovog sistema nagrađivanja je da stvori najbolj
 
 Stvarna distribucija će zavisiti od oblika glasanja korisnika, ali pretpostavljamo da će se uglavnom nagrade distribuirati ka najpopularnijim sadržajima. Steem određuje isplate proporcionalno \\(n^{2}\\) količini SP koja glasa za sadržaj. Drugim rečima, sadržaj x će dobiti isplatu koja je proporcionalna:
 
-\\(votes[x]^{2} / sum(votes[0...n]^{2})\\)
+\\(glasovi[x]^{2} / zbir(glasovi[0...n]^{2})\\)
 
-Zipf's Law[^7] is one of those empirical rules that characterize a surprising range of real-world phenomena remarkably well. It says that if we order some large collection by size or popularity, the second element in the collection will be about half the measure of the first one, the third one will be about one-third the measure of the first one, and so on. In general, the \\(k^{th}\\)-ranked item will measure about 1/k of the first one.
+Zifov zakon (eng. Zipf's Law)[^7] je jedno od empirijskih pravila koje karakteriše okvir fenomena stvarnog sveta iznenađujuće dobro. On kaže da ako uzmemo neki veliki skup po veličini ili popularnosti, drugi element u skupu će biti otprilike upola manje vredan od prvog, treći će imati jednu trećinu vrednosti itd. Uopšteno,\\(k^{th}\\) rangirani član će imati vrednost 1/k prvog člana.
 
-Taking popularity as a rough measure of value, then the value of each individual item is given by Zipf's Law. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Ako uzmemo popularnost kao grubu meru vrednosti, tada je vrednost svakog pojedinačnog člana data Zifovim zakonom. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
 
 The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
 
