@@ -303,9 +303,9 @@ Osnovna briga je određivanje kompetentne izjave koja bi trebala da uđe u taj j
 
 ## Konsenzus na Steem-u
 
-Konceptualno, algoritam konsenzusa koji je usvojen na Steem-u je sličan algoritmu koji je uvojen od strane ostalih kompanija širom sveta. People with a vested interest in the future value of Steem vote to select individuals responsible for including testimony in the public record. Voting is weighted proportional to each individual's vested interest.
+Konceptualno, algoritam konsenzusa koji je usvojen na Steem-u je sličan algoritmu koji je usvojen od strane ostalih kompanija širom sveta. Ljudi kojima je u interesu da imaju udela u budućoj vrednosti Steem-a glasaju da izaberu pojedince koji će biti odgovorni da unesu izjave u javni zapisnik. Glasanje je proporcionalno udelu svakog pojedinca.
 
-In the world of cryptocurrencies, the public record is commonly referred to as a *blockchain*. A *block* is a group of signed transactions.
+U svetu kriptovaluta, javni zapisnik je obično definisan kao *blokčejn*. *Blok* je grupa potpisanih transakcija.
 
 With Steem, block production is done in rounds. Each round 21 witnesses are selected to create and sign blocks of transactions. Nineteen (19) of these witnesses are selected by approval voting, one is selected by a computational proof-of-work, and one is timeshared by every witness that didn't make it into the top 19 proportional to their total votes. The 21 active witnesses are shuffled every round to prevent any one witness from constantly ignoring blocks produced by the same witness placed before.
 
