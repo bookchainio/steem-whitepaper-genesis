@@ -261,13 +261,13 @@ Glasačka snaga se množi sa korisnikovim tokenima koji predstavljaju udeo, da b
 
 Da bi se dalje sprečila zloupotreba, sve isplate su odložene prosečno 24 sata nakon što je svaki glas dodeljen. Ovo osigurava da veliki vlasnici udela ne mogu da uzimaju isplate glasanjem u poslednjoj sekundi pre nego što ostali glasači (iliti krabe iz kofe) dobiju šansu da spreče potencijalnu zloupotrebu. Jednom kada se isplata izvrši na račun korisnika, svi glasovi se resetuju na 0. Ukoliko glasovi stignu nakon isplate, tada proces ponovo počinje.
 
-Ovaj grafik pokazuje kako se trajanje perioda glasanja menja u zavisnosti od novih pozitivnih i negativnih glasova koji su dodeljeni. Novi glasovi produžavaju period isplate proporcionalno tome koliko su veliki u odnosu na sve glasove koji su stigli ranije. Around time 40 a large number of new votes were added which extended the voting period by 12 hours, subsequent smaller votes had far less impact on the voting period.
+Ovaj grafik pokazuje kako se trajanje perioda glasanja menja u zavisnosti od novih pozitivnih i negativnih glasova koji su dodeljeni. Novi glasovi produžavaju period isplate proporcionalno tome koliko su veliki u odnosu na sve glasove koji su stigli ranije. Postoji slučaj kada je veliki broj glasova dodat - produžen je period glasanja za 12 sati, dok manji glasovi koji su pristigli nisu imali toliki uticaj na period glasanja.
 
-### Payout Distribution
+### Distribucija isplate
 
 ![](\img_the_new_marketplace.png)
 
-One of the primary goals of Steem's reward system is to produce the best discussions on the internet. Each and every year 10% of the market capitalization of Steem is distributed to users submitting, voting on, and discussing content. At the size of Bitcoin this could be as much as $1.75 million dollars per day being given to top contributors.
+Jedan od primarnih ciljeva Steem-ovog sistema nagrađivanja je da stvori najbolje diskusije na internetu. Svake godine, 10% tržišnog kapitala Steem-a je distribuirano korisnicima koji kreiraju, glasaju i diskutuju o sadržaju. At the size of Bitcoin this could be as much as $1.75 million dollars per day being given to top contributors.
 
 The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
 
