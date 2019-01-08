@@ -275,9 +275,9 @@ Stvarna distribucija će zavisiti od oblika glasanja korisnika, ali pretpostavlj
 
 Zifov zakon (eng. Zipf's Law)[^7] je jedno od empirijskih pravila koje karakteriše okvir fenomena stvarnog sveta iznenađujuće dobro. On kaže da ako uzmemo neki veliki skup po veličini ili popularnosti, drugi element u skupu će biti otprilike upola manje vredan od prvog, treći će imati jednu trećinu vrednosti itd. Uopšteno,\\(k^{th}\\) rangirani član će imati vrednost 1/k prvog člana.
 
-Ako uzmemo popularnost kao grubu meru vrednosti, tada je vrednost svakog pojedinačnog člana data Zifovim zakonom. That is, if we have a million items, then the most popular 100 will contribute a third of the total value, the next 10,000 another third, and the remaining 989,900 the final third. The value of the collection of n items is proportional to log(n).
+Ako uzmemo popularnost kao grubu meru vrednosti, tada je vrednost svakog pojedinačnog člana data Zifovim zakonom. Odnosno, ako imamo milion članova, onda će najpopularnijih 100 doneti trećinu ukupne vrednosti, sledećih 10,000 sledeću trećinu i preostalih 989,900 članova poslednju trećinu. Vrednost skupa od n članova je proporcionalna sa log(n).
 
-The impact of this voting and payout distribution is to offer large bounties for good content while still rewarding smaller players for their long-tail contribution.
+Cilj ove distribucije glasanja i nagrađivanja je da ponudi velike nagrade za dobar sadržaj i da u isto vreme nagradi slabije autore shodno njihovom doprinosu.
 
 The economic effect of this is similar to a lottery where people over-estimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone "wins something" plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
 
