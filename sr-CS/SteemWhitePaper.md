@@ -287,9 +287,9 @@ Dobra diskusija zahteva postovanje više strana koje učestvuju u njoj. Kada odg
 
 Nemogućnost da korektno postavite vaše komentare unutar diskusije je dobar način da vam neko dodeli negativan glas.
 
-This incentive structure motivates people to contribute in a way that motivates others to get involved. It encourages people to ask good questions so that others can provide valuable answers.
+Ovo podstiče ljude da doprinose na način koji motiviše druge da se uključe. To ohrabruje korisnike da postave dobra pitanja tako da ostali mogu da napišu vredne odgovore.
 
-### Payouts
+### Isplate
 
 When a post receives a payout it takes the form of 50% SMD and 50% SP. The Steem Power give the user increased voting and transaction power while the SMD gives the user an immediate benefit in a stable currency. As we've already discussed at length, both SP and SMD are designed to encourage long-term holding rather than short-term selling.
 
