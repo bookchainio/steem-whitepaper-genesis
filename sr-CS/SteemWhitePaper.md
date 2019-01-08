@@ -279,13 +279,13 @@ Ako uzmemo popularnost kao grubu meru vrednosti, tada je vrednost svakog pojedin
 
 Cilj ove distribucije glasanja i nagrađivanja je da ponudi velike nagrade za dobar sadržaj i da u isto vreme nagradi slabije autore shodno njihovom doprinosu.
 
-The economic effect of this is similar to a lottery where people over-estimate their probability of getting votes and thus do more work than the expected value of their reward and thereby maximize the total amount of work performed in service of the community. The fact that everyone "wins something" plays on the same psychology that casinos use to keep people gambling. In other words, small rewards help reinforce the idea that it is possible to earn bigger rewards.
+Ekonomske posledice ovoga su slične lutriji gde ljudi precenjuju svoje šanse da dobiju glasove i samim tim rade više nego što očekivana količina nagrade to zahteva i samim tim maksimizuju ukupnu količinu rada u službi cele zajednice. Činjenica da svi ''zarade po nešto'' je zasnovana na istoj psihologiji koju kockarnice koriste da bi ljudi nastavili da se kockaju. Drugim rečima, male nagrade pomažu da se nahrani ideja da je moguće osvojiti i veće nagrade.
 
-#### Rewarding Parent Posts
+#### Nagrađivanje osnovnog posta
 
-Good discussion requires back and forth posting. When you reply to someone else, they get 50% of any payout you receive in that thread. This rule applies up to 6 levels deep. Starting a big discussion greatly rewards the parent poster.
+Dobra diskusija zahteva postovanje više strana koje učestvuju u njoj. Kada odgovorite nekome, on dobije 50% isplate koju dobijete na tom thread-u. Ovo pravilo se primenjuje do 6 nivoa dubine. Započinjanje velike diskusije može dobro da nagradi autora osnovnog posta.
 
-Failure to properly nest your posts in the discussion is a good way to get down voted.
+Nemogućnost da korektno postavite vaše komentare unutar diskusije je dobar način da vam neko dodeli negativan glas.
 
 This incentive structure motivates people to contribute in a way that motivates others to get involved. It encourages people to ask good questions so that others can provide valuable answers.
 
