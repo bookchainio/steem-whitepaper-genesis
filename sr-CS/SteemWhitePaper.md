@@ -267,9 +267,9 @@ Ovaj grafik pokazuje kako se trajanje perioda glasanja menja u zavisnosti od nov
 
 ![](\img_the_new_marketplace.png)
 
-Jedan od primarnih ciljeva Steem-ovog sistema nagrađivanja je da stvori najbolje diskusije na internetu. Svake godine, 10% tržišnog kapitala Steem-a je distribuirano korisnicima koji kreiraju, glasaju i diskutuju o sadržaju. At the size of Bitcoin this could be as much as $1.75 million dollars per day being given to top contributors.
+Jedan od primarnih ciljeva Steem-ovog sistema nagrađivanja je da stvori najbolje diskusije na internetu. Svake godine, 10% tržišnog kapitala Steem-a je distribuirano korisnicima koji kreiraju, glasaju i diskutuju o sadržaju. To je kao kada bi Bitcoin davao dnevno $1.75 miliona dolara najboljim autorima.
 
-The actual distribution will depend upon the voting patterns of users, but we suspect that the vast majority of the rewards will be distributed to the most popular content. Steem weighs payouts proportional to \\(n^{2}\\) the amount of Steem Power voting for a post. In other words, post x would receive a payout proportional to:
+Stvarna distribucija će zavisiti od oblika glasanja korisnika, ali pretpostavljamo da će se uglavnom nagrade distribuirati ka najpopularnijim sadržajima. Steem određuje isplate proporcionalno \\(n^{2}\\) količini SP koja glasa za sadržaj. Drugim rečima, sadržaj x će dobiti isplatu koja je proporcionalna:
 
 \\(votes[x]^{2} / sum(votes[0...n]^{2})\\)
 
