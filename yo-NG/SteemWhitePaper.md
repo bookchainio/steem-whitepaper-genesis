@@ -500,7 +500,7 @@ Didinku iye nilo wipe ki netiworki ni kiakia sun isiro iseku to to lati se idadu
 
 Ejeki a lo isiro iseku akoko ti 200x. Nitori awon iseku oni ipa, eleyi tunmo siwipe enikeni toun gbamu 1% ti awon tokini ni eto lati beere awon idunadura apapo 2x ti blocku to tobi ju. Lati mu lilo ti netiworki ti oludojuko wale si 25% isiro iseku yio nilo lati wale si 25x. Eleyi a jeki iseku to kere julo ti a nilo lati se idunadura leekan lose lati dagba nipa 8x.
 
-Blockchain le fi iye idahun mule to wipe ilosoke yiowu ni ilo ti a gba nilo igbe wasile si ipa ta fojusi ninu akoko to kere julo (bi iseju aaya ogbon). Oludojuko kan toun gbero ati se awuruju netiworki koye kole dina ise fun awon olumulo fun oju iseju kan lo.
+Blockchain le fi iye idahun mule to wipe ilosoke yiowu ni lilo nilo igbe wasile si ipa ta fojusi ninu akoko to kere julo (bi iseju aaya ogbon). Oludojuko kan toun gbero ati se awuruju netiworki koye kole dina ise fun awon olumulo fun oju iseju kan lo.
 
 Nigba ti awon didinku ni isiro iseku gbudo je kiakia ati tio lo gboro lati dina ilokulo, awon ilosoke ni isiro iseku gbudo lora ati wa gboro. Ti netiworki ba sun ni awon ona mejeji ni iseju aaya ogbon nigbana ni oludojuko kan le jeki netiworki na losoke die. Agbaara ti awon idunadura nilo atunse ni iseju aaya ogbon ati nigbana gba wakati kan lati pada si awon ipo ti won wa ki idojuko to waye. Labe akotun yi oludojuko le se agbaara netiworki na fun iseju aaya ogbon ni wakati kan tabi o kere ju 1% ti akoko na.
 
