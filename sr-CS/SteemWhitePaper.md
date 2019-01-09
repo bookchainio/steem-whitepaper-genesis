@@ -346,7 +346,7 @@ Sledeći pseudokod prikazuje kako se računa vrednost proof of work hash-a:
 
 Mnogi proof of work novčići završe tako što ih majnuju mreže botova. Mreža botova je skup od više hiljada ili miliona mašina koje su preuzete od strane hakera. Hakeri kradu procesorsku i električnu energiju sa mašina kako bi majnovali kriptovalute.
 
-Steem ima mnoga svojstva koja sprečavaju ovakve prevarante da profitiraju. Botnet operators are profit seeking enterprises and typically sell their stolen resources to the highest bidder. This means that those who utilize a botnet pay for the computational power in the same way that someone who uses Amazon EC2 does. The vesting requirement of Steem means that the capital spent on buying the resources of the botnet will be tied up for a long period of time during which the operator is exposed to price volatility.
+Steem ima mnoga svojstva koja sprečavaju ovakve prevarante da profitiraju. Operateri mreža botova traže isključivo profit i obično prodaju ukradena sredstva onome ko najviše ponudi. To znači da oni koji koriste tu mrežu plate za procesorsku snagu na isti način kao neko ko koristi Amazon EC2. The vesting requirement of Steem means that the capital spent on buying the resources of the botnet will be tied up for a long period of time during which the operator is exposed to price volatility.
 
 Another way that botnet operators are prevented from profiting is the requirement to distribute the private key to all compromised machines. If even one compromised computer is discovered, the operator could lose their coins.
 
