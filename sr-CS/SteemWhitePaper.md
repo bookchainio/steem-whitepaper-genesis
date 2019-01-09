@@ -323,7 +323,7 @@ Težina proof of work-a se duplira svaki put kada se dužina reda poveća za 4. 
 
 ### Za nagrade za majnovanje je neophodan SP
 
-Posle prvog meseca, Steem majneri su plaćeni u Steem Power-u (SP). SP is liquidated through the two-year process of "powering down". This means that miners must wait for a long time, likely many months, before sufficient mining rewards have been powered down to allow them to recover the cost of electricity and computational resources. The powering down process discourages creation of mining pools because the pool operator would have to spread payouts over years.
+Posle prvog meseca, Steem majneri su plaćeni u Steem Power-u (SP). SP postaje likvidan nakon dvogodišnjeg procesa powering down-ovanja. To znači da majneri moraju da čekaju, najverovatnije dosta meseci, pre nego što se dovoljno nagrada za majnovanje power down-uje, kako bi mogli da pokriju troškove procesorske i električne energije. Proces power down-ovanja ne podstiče stvaranje ''bazena'' za majnovanje, zato što bi se na isplate čekalo godinama.
 
 The effect of paying mining rewards in SP is to prevent miners from using today's price to determine the pro tability of mining. Few people will agree on what the future price will be. This means mining difficulty will be driven by those who place the highest estimate on future value. Miners without a long-term interest in the platform will be discouraged from competing. Ultimately this means that the proceeds of mining are less likely to be dumped on the market because they will accrue to long-term believers in the platform.
 
