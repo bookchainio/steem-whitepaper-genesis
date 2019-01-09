@@ -346,13 +346,13 @@ Sledeći pseudokod prikazuje kako se računa vrednost proof of work hash-a:
 
 Mnogi proof of work novčići završe tako što ih majnuju mreže botova. Mreža botova je skup od više hiljada ili miliona mašina koje su preuzete od strane hakera. Hakeri kradu procesorsku i električnu energiju sa mašina kako bi majnovali kriptovalute.
 
-Steem ima mnoga svojstva koja sprečavaju ovakve prevarante da profitiraju. Operateri mreža botova traže isključivo profit i obično prodaju ukradena sredstva onome ko najviše ponudi. To znači da oni koji koriste tu mrežu plate za procesorsku snagu na isti način kao neko ko koristi Amazon EC2. The vesting requirement of Steem means that the capital spent on buying the resources of the botnet will be tied up for a long period of time during which the operator is exposed to price volatility.
+Steem ima mnoga svojstva koja sprečavaju ovakve prevarante da profitiraju. Operateri mreža botova traže isključivo profit i obično prodaju ukradena sredstva onome ko najviše ponudi. To znači da oni koji koriste tu mrežu plate za procesorsku snagu na isti način kao neko ko koristi Amazon EC2. Obaveza udela u Steem-u znači da će novac koji je potrošen na kupovinu resursa mreže botova biti zamrznut dug period, tokom kog će operater biti izložen nestabilnostima cene.
 
-Another way that botnet operators are prevented from profiting is the requirement to distribute the private key to all compromised machines. If even one compromised computer is discovered, the operator could lose their coins.
+Još jedan način na koji su operateri sprečeni da profitiraju je obaveza da privatna šifra mora da se prosledi svim mašinama. Ukoliko bi makar jedan kompjuter iz te mreže bio otkriven, operater bi mogao da izgubi svoj novac.
 
-The last mitigation is the dependency on latency. Most botnets are comprised of computers with poor internet connections, these slow Internet connections will dramatically reduce the effectiveness of the computational resource.
+Poslednje olakšanje je zavisnost od kašnjenja. Mreže botova se uglavnom sastoje od kompjutera sa slabom internet konekcijom koja drastično umanjuje efikasnost procesorskih sredstava.
 
-It should be more profitable and less risky for botnet operators to use their resources for other activities than mining STEEM.
+Za operatere bi bilo manje riskantno i više efikasno da koriste svoja sredstva za neke druge aktivnosti, a ne za majnovanje STEEM-a.
 
 ### Mining Pool Resistant
 
