@@ -315,7 +315,7 @@ Pošto se aktivni vitnesi unapred znaju, Steem može da rasporedi vitnese da pro
 
 ## Majnovanje na Steem-u
 
-Tradicionalni proof of work blokčejnovi kombinuju stvaranje blokova sa rešavanjem proof of work-a. Because the process of solving a proof of work takes an unpredictable amount of time, the result is unpredictable block production times. Steem aims to have consistent and reliable block production every 3 seconds with almost no potential for forks.
+Tradicionalni proof of work blokčejnovi kombinuju stvaranje blokova sa rešavanjem proof of work-a. Zbog toga što proces rešavanja prof of work sistema zahteva nepredvidivu količinu vremena, rezultat je nepredvidiva količina stvorenih blokova. Steem teži ka tome da ima konzistentnu i pouzdanu proizvodnju blokova svake tri sekunde, sa veoma malim šansama za promene.
 
 To achieve this Steem separates block production from solving of proof of work. When a miner solves a proof of work for Steem, they broadcast a transaction containing the work. The next scheduled witness includes the transaction into the blockchain. When the transaction is included the miner is added to the queue of miners scheduled to produce blocks. Each round one miner is popped from the queue and included in the active set of witnesses. The miner gets paid when they produce a block at the time they are scheduled.
 
