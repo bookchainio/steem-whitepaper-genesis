@@ -329,7 +329,7 @@ Posledica plaćanja majnera u SP je da majneri ne mogu da na osnovu trenutne cen
 
 ### Algoritam majnovanja
 
-The mining algorithm adopted by Steem requires the miner to have access to the private key of the account that will receive the rewards. This requirement has several important consequences. First it encourages optimization of elliptic curve signature verification algorithms needed by Steem. Second it makes it challenging to set up mining pools because the pool operator would have to share control over the reward with all of the "anonymous" miners. Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
+Majning algoritam koji je usvojen na Steemu zahteva da majner ima pristup privatnoj šifri naloga koji će dobiti nagrade. Ova potreba ima nekoliko važnih posledica. Na prvom mestu, podstiče optimizaciju eliptične krive algoritama za verifikaciju potpisa, koji su potrebni na Steem-u. Second it makes it challenging to set up mining pools because the pool operator would have to share control over the reward with all of the "anonymous" miners. Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
 
 The following pseudocode describes how the proof-of-work hash value is calculated:
 
