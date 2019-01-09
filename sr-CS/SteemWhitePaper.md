@@ -325,9 +325,9 @@ Težina proof of work-a se duplira svaki put kada se dužina reda poveća za 4. 
 
 Posle prvog meseca, Steem majneri su plaćeni u Steem Power-u (SP). SP postaje likvidan nakon dvogodišnjeg procesa powering down-ovanja. To znači da majneri moraju da čekaju, najverovatnije dosta meseci, pre nego što se dovoljno nagrada za majnovanje power down-uje, kako bi mogli da pokriju troškove procesorske i električne energije. Proces power down-ovanja ne podstiče stvaranje ''bazena'' za majnovanje, zato što bi se na isplate čekalo godinama.
 
-The effect of paying mining rewards in SP is to prevent miners from using today's price to determine the pro tability of mining. Few people will agree on what the future price will be. This means mining difficulty will be driven by those who place the highest estimate on future value. Miners without a long-term interest in the platform will be discouraged from competing. Ultimately this means that the proceeds of mining are less likely to be dumped on the market because they will accrue to long-term believers in the platform.
+Posledica plaćanja majnera u SP je da majneri ne mogu da na osnovu trenutne cene klakulišu korisnost majnovanja. Malo ljudi može da se složi oko toga koja će cena da bude u budućnosti. To znači da će težina majnovanja zavisiti od onih koji procene najvišu vrednost u budućnosti. Majneri koji nemaju dugoročni interes u vezi sa platformom će biti obeshrabreni da učestvuju. To na kraju znači da prihodi od majnovanja verovatno neće biti izneti na tržište, jer će ih dobiti oni koji dugoročno veruju u platformu.
 
-### Mining Algorithm
+### Algoritam majnovanja
 
 The mining algorithm adopted by Steem requires the miner to have access to the private key of the account that will receive the rewards. This requirement has several important consequences. First it encourages optimization of elliptic curve signature verification algorithms needed by Steem. Second it makes it challenging to set up mining pools because the pool operator would have to share control over the reward with all of the "anonymous" miners. Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
 
