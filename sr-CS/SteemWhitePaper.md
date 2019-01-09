@@ -329,9 +329,9 @@ Posledica plaćanja majnera u SP je da majneri ne mogu da na osnovu trenutne cen
 
 ### Algoritam majnovanja
 
-Majning algoritam koji je usvojen na Steemu zahteva da majner ima pristup privatnoj šifri naloga koji će dobiti nagrade. Ova potreba ima nekoliko važnih posledica. Na prvom mestu, podstiče optimizaciju eliptične krive algoritama za verifikaciju potpisa, koji su potrebni na Steem-u. Second it makes it challenging to set up mining pools because the pool operator would have to share control over the reward with all of the "anonymous" miners. Third, it makes it difficult to use botnets because the botnet operator would have to distribute their private key to all compromised machines.
+Majning algoritam koji je usvojen na Steemu zahteva da majner ima pristup privatnoj šifri naloga koji će dobiti nagrade. Ova potreba ima nekoliko važnih posledica. Na prvom mestu, podstiče optimizaciju eliptične krive algoritama za verifikaciju potpisa, koji su potrebni na Steem-u. Zatim, postavljanje bazena za majnovanje postaje teško, jer bi operator tog bazena trebalo da ima kontrolu nad nagradom zajedno sa svim ''anonimnim'' majnerima. Na kraju, to otežava korišćenje botova jer bi onaj koji upravlja njima morao da prosledi šifre svim javnim mašinama.
 
-The following pseudocode describes how the proof-of-work hash value is calculated:
+Sledeći pseudokod prikazuje kako se računa vrednost proof of work hash-a:
 
     Let H    = Head Block ID
     Let H2   = SHA256(H + NONCE)
@@ -342,7 +342,7 @@ The following pseudocode describes how the proof-of-work hash value is calculate
     Let POW  = SHA256(K)
     
 
-### Botnet Resistant
+### Otpor protiv mreže botova
 
 Many proof of work coins end up being mined by botnets. A botnet is a collection of thousands or millions of machines that have been compromised by hackers. These hackers steal the computational and electrical resources of compromised machines to mine cryptocurrency tokens.
 
