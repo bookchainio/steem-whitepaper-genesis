@@ -354,9 +354,9 @@ Poslednje olakšanje je zavisnost od kašnjenja. Mreže botova se uglavnom sasto
 
 Za operatere bi bilo manje riskantno i više efikasno da koriste svoja sredstva za neke druge aktivnosti, a ne za majnovanje STEEM-a.
 
-### Mining Pool Resistant
+### Otpor protiv majning bazena
 
-Miners have a total of 3 seconds to receive a block, solve the proof of work, and get the transaction to the next block producer. Much of this time will consist of network latency which means that it is critical for miners to be well connected to the network to make the most effective use of their computational resources.
+Majneri imaju ukupno 3 sekunde da dobiju blok, reše proof of work i da naprave transakciju do sledećeg proizvođača bloka. Veći deo ovog vremena će se utrošiti na kašnjenje mreže, što znači da je od velike važnosti da majneri imaju dobru konekciju sa mrežom, kako bi iskoristili svoju procesorku snagu na najbolji način.
 
 Because of the constantly changing head block and network latency, forwarding a template for mining a specific block to participants of a mining pool adds additional network latency and reduces efficiency of pooled mining significantly.
 
