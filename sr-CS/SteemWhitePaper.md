@@ -358,13 +358,13 @@ Za operatere bi bilo manje riskantno i više efikasno da koriste svoja sredstva 
 
 Majneri imaju ukupno 3 sekunde da dobiju blok, reše proof of work i da naprave transakciju do sledećeg proizvođača bloka. Veći deo ovog vremena će se utrošiti na kašnjenje mreže, što znači da je od velike važnosti da majneri imaju dobru konekciju sa mrežom, kako bi iskoristili svoju procesorku snagu na najbolji način.
 
-Because of the constantly changing head block and network latency, forwarding a template for mining a specific block to participants of a mining pool adds additional network latency and reduces efficiency of pooled mining significantly.
+Zbog stalnog menjanja glavnog bloka i kašnjenja mreže, prosleđivanje obrasca za majnovanje određenog bloka ka učesnicima bazena za majnovanje prouzrokuje dodatno kašnjenje i umanjuje efikasnost majnovanja u bazenu.
 
-# Eliminating Transaction Fees
+# Eliminacija troškova transakcije
 
-Steem goes to great lengths to reward people for contributing to the network. It would be counterproductive to turn around and charge people every time they attempt to interact with the community.
+Steem je daleko dogurao kako bi nagradio ljude za doprinos mreži, tako da bi bilo kontraproduktivno da preokrene svoju politiku i da počne da naplaćuje ljudima svaku interakciju sa zajednicom.
 
-Blockchain technology currently depends upon transaction fees to prevent spam. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+Blokčejn tehnologija trenutno zavisi od troškova transakcije kako bi se sprečilo spamovanje. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
 
 ## The Problem With Fees
 
