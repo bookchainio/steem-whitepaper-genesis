@@ -311,13 +311,13 @@ Sa Steem-om, proizvodnja blokova se odvija u rundama. U svakoj rundi, 21 'vitnes
 
 Ovaj proces je zamišljen tako da obezbedi najbolju pouzdanost dok osigurava da svi imaju mogućnost da učestvuju u proizvodnji blokova bez obzira na to da li su dovoljno popularni da dobiju top mesto. Ljudi imaju tri opcije da izbegnu cenzuru od strane 19 izabranih vitnesa: da pažljivo čekaju u redu sa svima koji nisu u top 19, da kupe dovoljno procesorske snage da imaju proof of work brži od ostalih ili da kupe više SP, kako bi poboljšali snagu glasa. Generalno, korišćenje cenzure je dobar način da izabrani vitnesi izgube svoj posao i samim tim, malo je verovatno da će biti problema sa cenzurom na Steem-u.
 
-Pošto se aktivni vitnesi unapred znaju, Steem može da rasporedi vitnese da proizvode blokove svake tri sekunde. Vitnesi sinhronizuju svoju proizvodnju blokova sa NTP protokolom. Varijacija ovog algoritma je u upotrebi na BitShares mreži više od godinu dana, gde se pokazao kao pouzdan.
+Pošto se aktivni vitnesi unapred znaju, Steem može da rasporedi vitnese da proizvode blokove svake tri sekunde. Vitnesi sinhronizuju svoju proizvodnju blokova sa NTP protokolom. Varijacija ovog algoritma je u upotrebi na BitShares mreži više od godinu dana, gde se pokazala kao pouzdana.
 
 ## Majnovanje na Steem-u
 
 Tradicionalni proof of work blokčejnovi kombinuju stvaranje blokova sa rešavanjem proof of work-a. Zbog toga što proces rešavanja prof of work sistema zahteva nepredvidivu količinu vremena, rezultat je nepredvidiva količina stvorenih blokova. Steem teži ka tome da ima konzistentnu i pouzdanu proizvodnju blokova svake tri sekunde, sa veoma malim šansama za promene.
 
-Kako bi se to postiglo, Steem razdvaja proizvodnju blokova i rešavanje proof of work-a. Kada majner reši proof of work za Steem, emituje se transakcija koja sadrži urađeno. Sledeći vitnes po rasporedu uključuje transakciju u blokčejn. Kada je transakcija uključena, majner je dodat u red majnera koji čekaju da proizvedu blok. Svaku rundu, jedan od majnera izlazi iz reda čekanja i biva uključen u aktivni skup vitnesa. Majner dobije isplatu kada proizvede blok u terminu koji je po rasporedu.
+Kako bi se to postiglo, Steem razdvaja proizvodnju blokova i rešavanje proof of work-a. Kada majner reši proof of work za Steem, emituje se transakcija koja sadrži urađeno. Sledeći vitnes po rasporedu uključuje transakciju u blokčejn. Kada je transakcija uključena, majner je dodat u red majnera koji čekaju da proizvedu blok. Svaku rundu, jedan od majnera izlazi iz reda čekanja i biva uključen u aktivni skup vitnesa. Majner dobija isplatu kada proizvede blok u terminu koji je po rasporedu.
 
 Težina proof of work-a se duplira svaki put kada se dužina reda poveća za 4. Pošto jedan majner izlazi iz reda čekanja svaku rundu, a svaka runda traje 21 \* 3 = 63 sekunde, težina postaje automatski duplo manja ako je proof of work rešen za manje od 21 \* 3 \* 4 = 252 sekunde.
 
@@ -325,11 +325,11 @@ Težina proof of work-a se duplira svaki put kada se dužina reda poveća za 4. 
 
 Posle prvog meseca, Steem majneri su plaćeni u Steem Power-u (SP). SP postaje likvidan nakon dvogodišnjeg procesa powering down-ovanja. To znači da majneri moraju da čekaju, najverovatnije dosta meseci, pre nego što se dovoljno nagrada za majnovanje power down-uje, kako bi mogli da pokriju troškove procesorske i električne energije. Proces power down-ovanja ne podstiče stvaranje ''bazena'' za majnovanje, zato što bi se na isplate čekalo godinama.
 
-Posledica plaćanja majnera u SP je da majneri ne mogu da na osnovu trenutne cene klakulišu korisnost majnovanja. Malo ljudi može da se složi oko toga koja će cena da bude u budućnosti. To znači da će težina majnovanja zavisiti od onih koji procene najvišu vrednost u budućnosti. Majneri koji nemaju dugoročni interes u vezi sa platformom će biti obeshrabreni da učestvuju. To na kraju znači da prihodi od majnovanja verovatno neće biti izneti na tržište, jer će ih dobiti oni koji dugoročno veruju u platformu.
+Posledica plaćanja majnera u SP je da majneri ne mogu da na osnovu trenutne cene kalkulišu korisnost majnovanja. Malo ljudi može da se složi oko toga koja će cena da bude u budućnosti. To znači da će težina majnovanja zavisiti od onih koji procene najvišu buduću vrednost. Majneri koji nemaju dugoročni interes u vezi sa platformom će biti obeshrabreni da učestvuju. To na kraju znači da prihodi od majnovanja verovatno neće biti izneti na tržište, jer će ih dobiti oni koji dugoročno veruju u platformu.
 
 ### Algoritam majnovanja
 
-Majning algoritam koji je usvojen na Steemu zahteva da majner ima pristup privatnoj šifri naloga koji će dobiti nagrade. Ova potreba ima nekoliko važnih posledica. Na prvom mestu, podstiče optimizaciju eliptične krive algoritama za verifikaciju potpisa, koji su potrebni na Steem-u. Zatim, postavljanje bazena za majnovanje postaje teško, jer bi operator tog bazena trebalo da ima kontrolu nad nagradom zajedno sa svim ''anonimnim'' majnerima. Na kraju, to otežava korišćenje botova jer bi onaj koji upravlja njima morao da prosledi šifre svim javnim mašinama.
+Majning algoritam koji je usvojen na Steemu zahteva da majner ima pristup privatnoj šifri naloga koji će dobiti nagrade. Ova potreba ima nekoliko važnih posledica. Na prvom mestu, podstiče optimizaciju eliptične krive algoritama za verifikaciju potpisa, koji su potrebni na Steem-u. Zatim, postavljanje bazena za majnovanje postaje teško, jer bi operater tog bazena trebalo da ima kontrolu nad nagradom zajedno sa svim ''anonimnim'' majnerima. Na kraju, to otežava korišćenje botova jer bi onaj koji upravlja njima morao da prosledi šifre svim javnim mašinama.
 
 Sledeći pseudokod prikazuje kako se računa vrednost proof of work hash-a:
 
