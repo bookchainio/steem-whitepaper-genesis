@@ -364,7 +364,7 @@ Zbog stalnog menjanja glavnog bloka i kašnjenja mreže, prosleđivanje obrasca 
 
 Steem je daleko dogurao kako bi nagradio ljude za doprinos mreži, tako da bi bilo kontraproduktivno da preokrene svoju politiku i da počne da naplaćuje ljudima svaku interakciju sa zajednicom.
 
-Blokčejn tehnologija trenutno zavisi od troškova transakcije kako bi se sprečilo spamovanje. These fees suffer all of the known problems with microtransactions and prevent blockchains from being used for low-value transactions. Truly decentralized applications must offer users the appearance of free transactions if they wish to compete with their centralized alternatives. This paper outlines the approach used by Steem to eliminate the need for fees and thereby enable a wide range of previously untenable decentralized applications.
+Blokčejn tehnologija trenutno zavisi od troškova transakcije kako bi se sprečilo spamovanje. Ovi troškovi prouzrokuju sve probleme vezane za mikro transakcije i sprečavaju korišćenje blokčejna za transakcije malih vrednosti. Aplikacije koje su u potpunosti decentralizovane bi morale da ponude korisnicima besplatne transakcije, kako bi mogle da budu konkurentne centralizovanim alternativnim rešenjima. Ovaj papir predstavlja pristup koji Steem koristi kako bi eliminisao troškove i samim tim omogućio postojanje širokog spektra decentralizovanih aplikacija, koje bi inače bile neodržive.
 
 ## The Problem With Fees
 
