@@ -383,9 +383,9 @@ Zamislite kada bi nam veb sajtovi koje koristimo svakodnevno naplaćivali svaki 
 > 
 > *- Klej Širki (eng. Clay Shirky)[^8]*
 
-In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
+U svetu finansija, mali troškovi su prihvatljivi jer je vrednost transakcija prilično visoka u odnosu na proviziju koja se naplaćuje, pa je kupcu lako da odluči da nešto kupi. Svet potencijalnih blokčejn aplikacija je daleko veći od isključivo finansijskih isplata i obuhvata mnoge neophodne transakcije čiji su troškovi neprihvatljivi korisnicima.
 
-Systems like BitShares, Nxt, Ripple, Counter Party and Stellar all allow users to place limit orders on the blockchain and all of them charge users a small fee to perform this action. Later if the user wishes to cancel their order, another fee is charged. Systems like Ethereum take micropayments to a whole new level: charging per calculation. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn't matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
+Sistemi, kao što su BitShares, Nxt, Counter Party i Stellar dozvoljavaju korisnicima da ograniče porudžbine na blokčejnu i za to im naplaćuju malu proviziju. Kasnije, ako korisnici žele da otkažu porudžbinu, još jedna provizija im se naplaćuje. Sistemi kao što je Ethereum su to podigli na sasvim novi nivo - naplaćujući po kalkulaciji. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn't matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
 
 ### Fees are a Barrier to Entry
 
