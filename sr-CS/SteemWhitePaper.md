@@ -378,10 +378,10 @@ Osnovni problem sa naplaćivanjem troškova transakcije je da mikro isplate ne f
 
 Zamislite kada bi nam veb sajtovi koje koristimo svakodnevno naplaćivali svaki put kada izmenimo naš nalog menjanjem šifre. Korisnici očekuju da određene stvari budu besplatne. Zahtevanjem od korisnika da odlučuju na osnovu toga da li njihova akcija ima neki trošak, stvara se strah koji na kraju prouzrokuje time da korisnici napuste mrežu.
 
-> Transakcije ne mogu da koštaju toliko mnogo da zahtevaju odlučivanje, već tako malo da ta odluka bude automatska. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
-> Micropayments, like all payments, require a comparison: "Is this much of X worth that much of Y?" There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
+> Transakcije ne mogu da koštaju toliko mnogo da zahtevaju odlučivanje, već tako malo da ta odluka bude automatska. Postoji određena količina straha koja proizilazi iz svake odluke o kupovini, bez obzira koliko je ona mala. Nju ne stvara ni interfejs koji se koristi ni vreme koje je potrebno, već sam čin odlučivanja.  
+> Mikro isplate, kao i sve isplate, zahtevaju poređenje: '' Da li ovoliko nekog X zaista vredi ovoliko Y?'' To je malni mentalni trošak koji ne može da se optimizuje, jer je jedina transakcija koju će korisnik da odobri bez razmišljanja ona koja ga ne košta ništa, što u suštini i nije transakcija.
 > 
-> *- Clay Shirky[^8]*
+> *- Klej Širki (eng. Clay Shirky)[^8]*
 
 In the world of financial payments, small fees are acceptable because the value of the transaction is extremely high relative to the fee charged, and the buyer has already made a decision to buy. The world of potential blockchain applications is far greater than just financial payments and includes many necessary transactions for which fees are simply unacceptable to users.
 
