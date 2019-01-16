@@ -368,9 +368,9 @@ Blokčejn tehnologija trenutno zavisi od troškova transakcije kako bi se spreč
 
 ## Problem sa troškovima
 
-Blokčejnovi su decentralizovane mreže gde su sve transakcije prosleđene svim učesnicima. Uglavnom, blok koji se proizvede sadrži neke ili sve transakcije koje su na čekanju. All blockchains must find a solution to prevent malicious users from consuming all of the available network capacity with worthless transactions. These worthless transactions can prevent other valuable transactions from being processed and ultimately destroy the network.
+Blokčejnovi su decentralizovane mreže gde su sve transakcije prosleđene svim učesnicima. Uglavnom, blok koji se proizvede sadrži neke ili sve transakcije koje su na čekanju. Svi blokčejnovi moraju da pronađu rešenje kako da spreče zlonamerne korisnike da iskoriste dostupan kapacitet mreže svojim bezvrednim transakcijama. Te bezvredne transakcije mogu da spreče da se izvrše ostale vredne transakcije i time da unište mrežu.
 
-The solution adopted by most blockchains thus far is to charge a minimum transaction fee. A fee worth just a few cents is enough to make attacking the network expensive and unprofitable. While this approach solves the spam problem, it introduces new problems. Imagine solving the email spam problem by introducing a small fee on every email; people wouldn't use email.
+Prema tome, rešenje koje je prihvaćeno na većini blokčejnova je da se naplati minimalni trošak transakcije. Provizija od samo nekoliko centi je dovoljna da napad na mrežu postane neprofitabilan i skup. Dok ovaj pristup rešava problem spamovanja, ujedno otvara i nove probleme. Zamislite da se problem spamovanja e-maila rešava naplaćivanjem male provizije - ljudi bi prestali da koriste e-mail.
 
 ### Micropayments Don't Work
 
