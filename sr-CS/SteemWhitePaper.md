@@ -376,10 +376,10 @@ Prema tome, rešenje koje je prihvaćeno na većini blokčejnova je da se naplat
 
 Osnovni problem sa naplaćivanjem troškova transakcije je da mikro isplate ne funkcionišu, naročito za radnje korisnika koje imaju nisku vrednost. Kada se provizija naplaćuje za svaku transakciju, to ograničava tipove transakcija koje decentralizovana mreža može da obradi. Bez obzira na to koliko je smislen razlog za naplaćivanje neophodnih troškova, korisnici i dalje ne vole da im se naplaćuje sve što rade.
 
-Zamislite kada bi nam veb sajtovi koje koristimo svakodnevno naplaćivali svaki put kada izmenimo naš nalog menjanjem šifre. Korisnici očekuju da određene stvari budu besplatne. Zahtevanjem od korisnika da odlučuju na osnovu toga da li njihova akcija ima neki trošak, stvara se strah koji na kraju prouzrokuje time da korisnici napuste mrežu.
+Zamislite kada bi nam veb sajtovi koje koristimo svakodnevno naplaćivali svaki put kada izmenimo naš nalog menjanjem šifre. Korisnici očekuju da određene stvari budu besplatne. Zahtevanjem od korisnika da odlučuju na osnovu toga da li njihova akcija ima neki trošak, stvara se strah koji na kraju rezultuje time da korisnici napuste mrežu.
 
 > Transakcije ne mogu da koštaju toliko mnogo da zahtevaju odlučivanje, već tako malo da ta odluka bude automatska. Postoji određena količina straha koja proizilazi iz svake odluke o kupovini, bez obzira koliko je ona mala. Nju ne stvara ni interfejs koji se koristi ni vreme koje je potrebno, već sam čin odlučivanja.  
-> Mikro isplate, kao i sve isplate, zahtevaju poređenje: '' Da li ovoliko nekog X zaista vredi ovoliko Y?'' To je malni mentalni trošak koji ne može da se optimizuje, jer je jedina transakcija koju će korisnik da odobri bez razmišljanja ona koja ga ne košta ništa, što u suštini i nije transakcija.
+> Mikro isplate, kao i sve isplate, zahtevaju poređenje: '' Da li ovoliko nekog X zaista vredi ovoliko Y?'' To je mali mentalni trošak koji ne može da se optimizuje, jer je jedina transakcija koju će korisnik da odobri bez razmišljanja ona koja ga ne košta ništa, što u suštini i nije transakcija.
 > 
 > *- Klej Širki (eng. Clay Shirky)[^8]*
 
