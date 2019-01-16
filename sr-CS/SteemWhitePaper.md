@@ -389,11 +389,11 @@ Sistemi, kao što su BitShares, Nxt, Counter Party i Stellar dozvoljavaju korisn
 
 ### Troškovi su prepreka na ulazu
 
-Bilo koji trošak stvara barijeru na samom ulazu za nove korisnike. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Bilo koji trošak stvara barijeru na samom ulazu za nove korisnike. Pre nego što neko počne da eksperimentiše sa Ethereum-om, mora prvo da nabavi neke ETH tokene. Svako ko želi da napravi decentralizovanu aplikaciju na Ethereum-u, mora da prosledi troškove svojim korisnicima. Kupovina kripto valuta nije lak zadatak i retko kada ima smisla za iznose manje od 10$. To znači da novi korisnici koji žele da isprobaju novu decentralizovanu aplikaciju moraju prvo biti ubeđeni da daju 10$.
 
-### Changing Fees
+### Menjanje troškova
 
-Over time a network must adjust fees. This can happen either due to an increase in the value of the token or due to a surge in capacity. Users like predictable fees and guaranteed service. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Vremenom, mreža mora da prilagodi svoje troškove. To se može dogoditi ili zbog povećanja vrednosti tokena ili zbog povećanja kapaciteta. Korisnici vole predvidive troškove i sigurnu uslugu. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
 
 ### Sybil Attacks
 
