@@ -401,13 +401,13 @@ Centralizovani veb sajtovi sprečavaju spam pomoću ograničenja i neke vrste li
 
 U decentralizovanom sistemu ne postoji direktan način banovanja korisnika niti centralizovani provajder može da implementira reCAPTCHA i ograniči stopu kreiranja naloga. U suštini, nemogućnost da se cenzurišu korisnici je jedan od glavnih prodajnih aduta blokčejn tehnologije.
 
-### Pune rezerve u odnosu na delimične rezerve
+### Puna rezerva u odnosu na delimičnu rezervu
 
-Možemo da posmatramo blokčejn kao saradnika internet provajdera (eng. Internet Service Provider, ISP) koji poseduje sve kablove u gradu i ima maksimalni protok koji može da obezbedi u svakom trenutku. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+Možemo da posmatramo blokčejn kao saradnika internet provajdera (eng. Internet Service Provider, ISP) koji poseduje sve kablove u gradu i ima maksimalni propusni opseg koji može da obezbedi u svakom trenutku. Ljudi koji žive u tom gradu mogu da kupe deonice ISP-a i time dobijaju pravo da koriste jedan deo propusnog opsega.
 
-The ISP has two choices, run a "full reserve" or "fractional reserve" system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town's network would be significantly underutilized.
+ISP ima dva izbora, da pokrene sistem ''pune rezerve'' ili ''delimične rezerve''. U okviru sistema pune rezerve, svaki korisnik ima dozvoljen deo maksimalnog propusnog opsega koji je proporcionalan u odnosu na njegove deonice. Pošto ne koriste svi internet u isto vreme, gradska mreža ne bi iskoristila svoje pune kapacitete.
 
-Under a fractional reserve system the individual users could utilize more bandwidth than they are entitled to at any given point in time so long as not everyone uses the Internet at the same time. The problem with operating a fractional reserve is that congestion occurs anytime too many people wish to use the network at the same time. The ISP needs a way to prioritize bandwidth during congested periods. In the most extreme case, a fully congested network must revert to a full reserve system. The challenge is setting the proper fractional reserve ratio.
+U okviru sistema delimične rezerve, korisnici mogu da iskoriste veći propusni opseg nego koliko im je propisano, dokle god svi ne koriste internet u isto vreme. Problem sa radom delimične rezerve je taj da dolazi do zagušenja kada god previše ljudi odluči da koristi mrežu u isto vreme. ISP mora da odredi prioritete propusnog opsega tokom perioda zagušenja. U najgorem slučaju, potpuno zagušena mreža bi morala da se prebaci na sistem pune rezerve. Tu dolazimo do izazova, a to je odeđivanje odgovarajućeg odnosa delimične rezerve.
 
 ## Bandwidth Instead of Micropayment Channels
 
