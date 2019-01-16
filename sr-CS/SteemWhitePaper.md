@@ -397,13 +397,13 @@ Vremenom, mreža mora da prilagodi svoje troškove. To se može dogoditi ili zbo
 
 ### Sybil napadi
 
-Centralizovani veb sajtovi sprečavaju spam pomoću ograničenja brzine i neke vrste lične verifikacije. Čak i nešto jednostavno kao što je reCAPTCHA [^9] je dovoljno da se ograniči stvaranje lažnih naloga. Ukoliko neko zloupotrebljava svoj nalog, onda centralizovani veb sajt može da ga blokira.
+Centralizovani veb sajtovi sprečavaju spam pomoću ograničenja i neke vrste lične verifikacije. Čak i nešto jednostavno kao što je reCAPTCHA [^9] je dovoljno da se ograniči stvaranje lažnih naloga. Ukoliko neko zloupotrebljava svoj nalog, onda centralizovani veb sajt može da ga blokira.
 
-In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
+U decentralizovanom sistemu ne postoji direktan način banovanja korisnika niti centralizovani provajder može da implementira reCAPTCHA i ograniči stopu kreiranja naloga. U suštini, nemogućnost da se cenzurišu korisnici je jedan od glavnih prodajnih aduta blokčejn tehnologije.
 
-### Full Reserve vs Fractional Reserve
+### Pune rezerve u odnosu na delimične rezerve
 
-Let's view a blockchain like an Internet Service Provider (ISP) co-op which owns all of the cables in the town and has a maximum amount of bandwidth that it can provide at any time. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
+Možemo da posmatramo blokčejn kao saradnika internet provajdera (eng. Internet Service Provider, ISP) koji poseduje sve kablove u gradu i ima maksimalni protok koji može da obezbedi u svakom trenutku. People living in the town can buy shares in the ISP and in exchange they are entitled to utilize a portion of the available bandwidth.
 
 The ISP has two choices, run a "full reserve" or "fractional reserve" system. Under a full reserve system each user is only allowed a fraction of the maximum bandwidth proportional to her shares. Because not everyone uses the Internet at the same time, the town's network would be significantly underutilized.
 
