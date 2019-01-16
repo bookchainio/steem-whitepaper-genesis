@@ -393,11 +393,11 @@ Bilo koji trošak stvara barijeru na samom ulazu za nove korisnike. Pre nego št
 
 ### Menjanje troškova
 
-Vremenom, mreža mora da prilagodi svoje troškove. To se može dogoditi ili zbog povećanja vrednosti tokena ili zbog povećanja kapaciteta. Korisnici vole predvidive troškove i sigurnu uslugu. While it is possible to dynamically adjust fees during times of heavy use, the result is a poor user experience.
+Vremenom, mreža mora da prilagodi svoje troškove. To se može dogoditi ili zbog povećanja vrednosti tokena ili zbog povećanja kapaciteta. Korisnici vole predvidive troškove i sigurnu uslugu. Iako je moguće da se dinamički prilagode troškovi tokom perioda korišćenja, rezultat je loše korisničko iskustvo.
 
-### Sybil Attacks
+### Sybil napadi
 
-Centralized websites prevent spam through rate limiting and some form of ID verification. Even something as simple as reCAPTCHA [^9] is sufficient to limit the creation of fake accounts. If someone abuses their account then centralized websites are free to block the account.
+Centralizovani veb sajtovi sprečavaju spam pomoću ograničenja brzine i neke vrste lične verifikacije. Čak i nešto jednostavno kao što je reCAPTCHA [^9] je dovoljno da se ograniči stvaranje lažnih naloga. Ukoliko neko zloupotrebljava svoj nalog, onda centralizovani veb sajt može da ga blokira.
 
 In a decentralized system there is no direct way to ban users nor centralized provider able to host a reCAPTCHA and enforce rate limiting of accounts. In fact, the inability to censor users is one of the main selling points of blockchain technology.
 
