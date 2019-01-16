@@ -385,11 +385,11 @@ Zamislite kada bi nam veb sajtovi koje koristimo svakodnevno naplaćivali svaki 
 
 U svetu finansija, mali troškovi su prihvatljivi jer je vrednost transakcija prilično visoka u odnosu na proviziju koja se naplaćuje, pa je kupcu lako da odluči da nešto kupi. Svet potencijalnih blokčejn aplikacija je daleko veći od isključivo finansijskih isplata i obuhvata mnoge neophodne transakcije čiji su troškovi neprihvatljivi korisnicima.
 
-Sistemi, kao što su BitShares, Nxt, Counter Party i Stellar dozvoljavaju korisnicima da ograniče porudžbine na blokčejnu i za to im naplaćuju malu proviziju. Kasnije, ako korisnici žele da otkažu porudžbinu, još jedna provizija im se naplaćuje. Sistemi kao što je Ethereum su to podigli na sasvim novi nivo - naplaćujući po kalkulaciji. All of these systems struggle to attract new mainstream users for the same reasons that a decentralized search engine would struggle to attract users from Google if it charged a small fee for every search. It doesn't matter how good the service is, people expect certain things to be free. This is true even if a user ends up paying more overall under a different fee structure.
+Sistemi, kao što su BitShares, Nxt, Counter Party i Stellar dozvoljavaju korisnicima da ograniče porudžbine na blokčejnu i za to im naplaćuju malu proviziju. Kasnije, ako korisnici žele da otkažu porudžbinu, još jedna provizija im se naplaćuje. Sistemi kao što je Ethereum su to podigli na sasvim novi nivo - naplaćujući po kalkulaciji. Svi ovi sistemi se muče da privuku nove mejnstrim korisnike iz istog razloga zbog kog bi decentralizovani pretraživač imao poteškoće da privuče Google-ove korisnike, ako bi naplaćivao malu proviziju za svaku pretragu. Bez obzira na to koliko je dobra usluga, ljudi očekuju da određene stvari budu besplatne. To je tačno čak i kada korisnik na kraju plati ukupno više, ali u okviru druge strukture naplaćivanja.
 
-### Fees are a Barrier to Entry
+### Troškovi su prepreka na ulazu
 
-Any fee creates a barrier to entry for new users. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
+Bilo koji trošak stvara barijeru na samom ulazu za nove korisnike. Before someone can experiment with Ethereum they must acquire some ETH tokens. Anyone wanting to build a decentralized application on Ethereum must pass on the cost to their customers. Buying a crypto currency is not an easy task and rarely makes sense for amounts less than $10. This means that new users wanting to try out a new decentralized application must first be convinced to part with $10.
 
 ### Changing Fees
 
