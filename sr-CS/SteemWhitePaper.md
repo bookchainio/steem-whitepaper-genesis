@@ -378,7 +378,7 @@ Osnovni problem sa naplaćivanjem troškova transakcije je da mikro isplate ne f
 
 Zamislite kada bi nam veb sajtovi koje koristimo svakodnevno naplaćivali svaki put kada izmenimo naš nalog menjanjem šifre. Korisnici očekuju da određene stvari budu besplatne. Zahtevanjem od korisnika da odlučuju na osnovu toga da li njihova akcija ima neki trošak, stvara se strah koji na kraju prouzrokuje time da korisnici napuste mrežu.
 
-> A transaction can't be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
+> Transakcije ne mogu da koštaju toliko mnogo da zahtevaju odlučivanje, već tako malo da ta odluka bude automatska. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
 > Micropayments, like all payments, require a comparison: "Is this much of X worth that much of Y?" There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
 > 
 > *- Clay Shirky[^8]*
