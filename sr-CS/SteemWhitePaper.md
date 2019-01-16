@@ -393,7 +393,7 @@ Bilo koji trošak stvara barijeru na samom ulazu za nove korisnike. Pre nego št
 
 ### Menjanje troškova
 
-Vremenom, mreža mora da prilagodi svoje troškove. To se može dogoditi ili zbog povećanja vrednosti tokena ili zbog povećanja kapaciteta. Korisnici vole predvidive troškove i sigurnu uslugu. Iako je moguće da se dinamički prilagode troškovi tokom perioda korišćenja, rezultat je loše korisničko iskustvo.
+Vremenom, mreža mora da prilagodi svoje troškove. To se može dogoditi ili zbog povećanja vrednosti tokena ili zbog povećanja kapaciteta. Korisnici vole predvidive troškove i sigurnu uslugu. Iako je moguće da se troškovi dinamički prilagode tokom perioda korišćenja, rezultat je loše korisničko iskustvo.
 
 ### Sybil napadi
 
@@ -409,9 +409,9 @@ ISP ima dva izbora, da pokrene sistem ''pune rezerve'' ili ''delimične rezerve'
 
 U okviru sistema delimične rezerve, korisnici mogu da iskoriste veći propusni opseg nego koliko im je propisano, dokle god svi ne koriste internet u isto vreme. Problem sa radom delimične rezerve je taj da dolazi do zagušenja kada god previše ljudi odluči da koristi mrežu u isto vreme. ISP mora da odredi prioritete propusnog opsega tokom perioda zagušenja. U najgorem slučaju, potpuno zagušena mreža bi morala da se prebaci na sistem pune rezerve. Tu dolazimo do izazova, a to je odeđivanje odgovarajućeg odnosa delimične rezerve.
 
-## Bandwidth Instead of Micropayment Channels
+## Propusni opseg umesto kanala za mikro isplate
 
-The solution to the problems with micropayments is in implementing *dynamic fractional reserves*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
+Rešenje za probleme sa mikro isplatama je u implementiranju *dinamičkih delimičnih rezervi*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
 
 Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
 
