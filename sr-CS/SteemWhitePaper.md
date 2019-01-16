@@ -372,11 +372,11 @@ Blokčejnovi su decentralizovane mreže gde su sve transakcije prosleđene svim 
 
 Prema tome, rešenje koje je prihvaćeno na većini blokčejnova je da se naplati minimalni trošak transakcije. Provizija od samo nekoliko centi je dovoljna da napad na mrežu postane neprofitabilan i skup. Dok ovaj pristup rešava problem spamovanja, ujedno otvara i nove probleme. Zamislite da se problem spamovanja e-maila rešava naplaćivanjem male provizije - ljudi bi prestali da koriste e-mail.
 
-### Micropayments Don't Work
+### Mikro isplate ne funkcionišu
 
-The fundamental problem with charging transaction fees is that micropayments don't work, especially for low-value user actions. When a fee is charged on every transaction, it limits the types of transactions that a decentralized network can process. Regardless of how rational the argument for the necessity of fees, users still hate the experience of being nickeled and dimed for everything that they do.
+Osnovni problem sa naplaćivanjem troškova transakcije je da mikro isplate ne funkcionišu, naročito za radnje korisnika koje imaju nisku vrednost. Kada se provizija naplaćuje za svaku transakciju, to ograničava tipove transakcija koje decentralizovana mreža može da obradi. Bez obzira na to koliko je smislen razlog za naplaćivanje neophodnih troškova, korisnici i dalje ne vole da im se naplaćuje sve što rade.
 
-Imagine if the websites we use every day charged us a fee every time we modify our accounts by changing the password. Users expect certain things to be free. Requiring users to make a decision on whether or not an action is worth a small fee creates anxiety that causes users to leave.
+Zamislite kada bi nam veb sajtovi koje koristimo svakodnevno naplaćivali svaki put kada izmenimo naš nalog menjanjem šifre. Korisnici očekuju da određene stvari budu besplatne. Zahtevanjem od korisnika da odlučuju na osnovu toga da li njihova akcija ima neki trošak, stvara se strah koji na kraju prouzrokuje time da korisnici napuste mrežu.
 
 > A transaction can't be worth so much as to require a decision but worth so little that that decision is automatic. There is a certain amount of anxiety involved in any decision to buy, no matter how small, and it derives not from the interface used or the time required, but from the very act of deciding.  
 > Micropayments, like all payments, require a comparison: "Is this much of X worth that much of Y?" There is a minimum mental transaction cost created by this fact that cannot be optimized away, because the only transaction a user will be willing to approve with no thought will be one that costs them nothing, which is no transaction at all.
