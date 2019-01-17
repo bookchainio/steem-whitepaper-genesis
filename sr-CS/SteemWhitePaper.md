@@ -438,9 +438,9 @@ Svaki korisnik ima pravo na prosečan nedeljni propusni opseg koji se računa ka
 
 Korisnik će imati osiguran prosečni propusni opseg veličine M \* U / S. Svaki put kada bi transakcija prouzrokovala da korisnikov prosek ide iznad ovog praga, transakcije bi mu bile onemogućene dok ne prođe dovoljno vremena da se prosek spusti ispod granice.
 
-The network can increase the reserve ratio, anytime blocks are less than half the target capacity and decrease it anytime they are more than half. The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
+Mreža može da poveća odnos rezerve, svaki put kada su blokovi manji od ciljanog kapaciteta i da ga smanji svaki put kada su veći od njegove polovine. Algoritam koji se koristi da prilagodi odnos rezerve je osmišljen da deluje brzo kako bi ga smanjio kada postoji porast u potražnji, dok ga u periodima male potražnje polako povećava.
 
-The minimum reserve ratio is 1, and the maximum reserve ratio should be calculated to prevent small stakeholders from consuming all of the available bandwidth. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
+Minimalni odnos rezerve je 1, dok se maksimalni računa tako da spreči male vlasnike udela da koriste sav dostupan propusni opseg. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
 
 ### Case Study: Bitcoin
 
