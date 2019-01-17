@@ -440,11 +440,11 @@ Korisnik će imati osiguran prosečni propusni opseg veličine M \* U / S. Svaki
 
 Mreža može da poveća odnos rezerve, svaki put kada su blokovi manji od ciljanog kapaciteta i da ga smanji svaki put kada su veći od njegove polovine. Algoritam koji se koristi da prilagodi odnos rezerve je osmišljen da deluje brzo kako bi ga smanjio kada postoji porast u potražnji, dok ga u periodima male potražnje polako povećava.
 
-Minimalni odnos rezerve je 1, dok se maksimalni računa tako da spreči male vlasnike udela da koriste sav dostupan propusni opseg. If no one is using the available bandwidth then the reserve ratio can grow until a user with just 1 satoshi of the currency is able to transact every single block.
+Minimalni odnos rezerve je 1, dok se maksimalni računa tako da spreči male vlasnike udela da koriste sav dostupan propusni opseg. Ako niko ne koristi dostupan propusni opseg, onda odnos može da raste sve dok korisnik sa vrednošću od samo jednog Satošija u traženoj valuti ne bude mogao da odradi transakciju svakog bloka.
 
-### Case Study: Bitcoin
+### Studija slučaja: Bitkoin
 
-To understand how this algorithm would work on Bitcoin it is necessary to estimate a reasonable value for the reserve ratio, R, based on actual usage. Based upon the total supply of 15M BTC and a daily transaction volume of 400K BTC[^10], we can derive a minimum reserve ratio of 38 for Bitcoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
+Da bi razumeli kako ovaj algoritam radi sa Bitkoinom, neophodno je proceniti razumnu vrednost odnosa rezerve R, zasnovanog na stvarnoj upotrebi. Na osnovu ukupne zalihe od 15 miliona BTC i dnevne količine transakcija od 400K BTC[^10], možemo da izračunamo da je minimalni odnos rezerve 38 za Bitkoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
 
     Let C = 1MB = 1024 * 1024
     Let L = 1008 (blocks per week)
