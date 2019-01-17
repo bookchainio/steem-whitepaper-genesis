@@ -446,12 +446,12 @@ Minimalni odnos rezerve je 1, dok se maksimalni računa tako da spreči male vla
 
 Da bi razumeli kako ovaj algoritam radi sa Bitkoinom, neophodno je proceniti razumnu vrednost odnosa rezerve R, zasnovanog na stvarnoj upotrebi. Na osnovu ukupne zalihe od 15 miliona BTC i dnevne količine transakcija od 400K BTC[^10], možemo da izračunamo da je minimalni odnos rezerve 38 za Bitkoin. Koristeći sledeće jednakosti, možemo da izračunamo nedeljni propusni opseg (u bajtovima) koji je dozvoljen po jednom BTC:
 
-    Let C = 1MB = 1024 * 1024
-    Let L = 1008 (blocks per week)
-    Let R = 38
-    Let S = 14000000 BTC (supply minus Satoshi's unmoving coins)
-    Let U = 1 BTC
-    CLR/S = 2869 bytes per week, or about 5 transactions/week per BTC
+    C = 1MB = 1024 * 1024
+    L = 1008 (blokovi po nedelji)
+    R = 38
+    S = 14000000 BTC (Zalihe ne računajući nepokretne Satoši novčiće)
+    U = 1 BTC
+    CLR/S = 2869 bajtova nedeljno, ili oko 5 transakcija nedeljno po BTC
     
 
 Since R = 38 is a lower bound on the reserve ratio, CLR/S is a lower bound on the permitted bandwidth. This simple case study suggests a user will require at most 0.20 BTC (over $80 as of this writing) to transact once per week. However, this is a loose upper bound derived from the assumption that all BTC are equally mobile. This is not the case - users with dozens or hundreds of bitcoins do not necessarily transact dozens or hundreds of times a week! The "leftover" transactions that those users "should" have made will increase the reserve ratio, allowing their unused bandwidth to be "recycled" for smaller users.
