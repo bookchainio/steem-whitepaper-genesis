@@ -444,7 +444,7 @@ Minimalni odnos rezerve je 1, dok se maksimalni računa tako da spreči male vla
 
 ### Studija slučaja: Bitkoin
 
-Da bi razumeli kako ovaj algoritam radi sa Bitkoinom, neophodno je proceniti razumnu vrednost odnosa rezerve R, zasnovanog na stvarnoj upotrebi. Na osnovu ukupne zalihe od 15 miliona BTC i dnevne količine transakcija od 400K BTC[^10], možemo da izračunamo da je minimalni odnos rezerve 38 za Bitkoin. Using the equations we can calculate the weekly bandwidth (in bytes) allowed per BTC to be:
+Da bi razumeli kako ovaj algoritam radi sa Bitkoinom, neophodno je proceniti razumnu vrednost odnosa rezerve R, zasnovanog na stvarnoj upotrebi. Na osnovu ukupne zalihe od 15 miliona BTC i dnevne količine transakcija od 400K BTC[^10], možemo da izračunamo da je minimalni odnos rezerve 38 za Bitkoin. Koristeći sledeće jednakosti, možemo da izračunamo nedeljni propusni opseg (u bajtovima) koji je dozvoljen po jednom BTC:
 
     Let C = 1MB = 1024 * 1024
     Let L = 1008 (blocks per week)
