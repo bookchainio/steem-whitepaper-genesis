@@ -425,18 +425,18 @@ Neka je B prosečan korisnički propusni opseg tokom vremena T. Neka je i W broj
     Tnew = T + S
     
 
-Svaki korisnik ima pravo na prosečan nedeljni propusni opseg:
+Svaki korisnik ima pravo na prosečan nedeljni propusni opseg koji se računa kao:
 
-    Let U = the user's SP
-    Let S = the total number of SP
-    Let R = the current reserve ratio between 1 and Rmax
-    Let C = the maximum block size capacity set by witnesses
-    Let L = the total blocks per week
-    Let M = C * L * R
-    Allocation = M * U / S
+    U = korisnikov SP
+    S = ukupna količina SP
+    R = trenutni odnos rezerve između 1 i Rmax
+    C = maksimalni kapacitet veličine bloka koji je odredio vitnes
+    L = ukupan broj blokova po nedelji
+    M = C * L * R
+    Izdvaja se = M * U / S
     
 
-A user would be entitled to an average bandwidth of M \* U / S. Any time a transaction would cause the user's average to go above this threshold they would be unable to transact until enough time passes to lower the average.
+Korisnik će imati osiguran prosečni propusni opseg veličine M \* U / S. Svaki put kada bi transakcija prouzrokovala da korisnikov prosek ide iznad ovog praga, transakcije bi mu bile onemogućene dok ne prođe dovoljno vremena da se prosek spusti ispod granice.
 
 The network can increase the reserve ratio, anytime blocks are less than half the target capacity and decrease it anytime they are more than half. The algorithm used to adjust R is designed to react quickly to decrease the reserve ratio when there is a surge in demand, while acting slowly to increase the reserve ratio in period of low demand.
 
