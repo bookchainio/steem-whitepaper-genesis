@@ -415,9 +415,9 @@ Rešenje za probleme sa mikro isplatama je u implementiranju *dinamičkih delimi
 
 Propusni opseg koji upotrebljava svaki korisnik bi trebalo da bude izmeren tokom dovoljno dugog perioda da dozvoli korisniku vremensku promenu njegove upotrebe. Korisnici imaju običaj da se uloguju, rade dosta stvari u isto vreme, a zatim da se izloguju. To znači da njihov propusni opseg tokom kratkog vremenskog perioda može da izgleda kao dosta viši u odnosu na ono što se posmatra na duži vremenski period. Ako je vremenski okvir produžen previše, tada se odnos rezerve neće dovoljno brzo prilagoditi kratkoročnom talasu potražnje. Ako je okvir prekratak, tada će grupno korišćenje imati preveliki uticaj na normalne korisnike.
 
-Po našoj proceni bi trebalo da bude dovoljno da se izmeri prosečan nedeljni propusni opseg korisnika. Svaki put kada korisnik popuni transakciju, ta transakcija je uključena u njegov sopstveni pokretni prosek. Any time a user's moving average exceeds the current network limit their transaction is delayed until their average falls below the limit.
+Po našoj proceni bi trebalo da bude dovoljno da se izmeri prosečan nedeljni propusni opseg korisnika. Svaki put kada korisnik popuni transakciju, ta transakcija je uključena u njegov sopstveni pokretni prosek. Svaki put kada korisnički pokretni prosek premašuje trenutni limit mreže, transakcija je odložena sve dok se prosek ne spusti ispod granice.
 
-### Example Implementation
+### Primer implementacije
 
 Let B equal a user's average bandwidth at time T. Let W equal the number of seconds per week, and let N equal the size of the new transaction that occurred S seconds after T. Given this information the blockchain can calculate the new average bandwidth for a user as:
 
