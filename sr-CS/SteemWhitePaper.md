@@ -411,7 +411,7 @@ U okviru sistema delimične rezerve, korisnici mogu da iskoriste veći propusni 
 
 ## Propusni opseg umesto kanala za mikro isplate
 
-Rešenje za probleme sa mikro isplatama je u implementiranju *dinamičkih delimičnih rezervi*. Under this model the blockchain will automatically adjust the reserve ratio for the network during times of congestion. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
+Rešenje za probleme sa mikro isplatama je u implementiranju *dinamičkih delimičnih rezervi*. U okviru ovog modela, blokčejn će automatski prilagoditi odnos rezerve za mrežu u toku perioda zagušenja. The blockchain will set a target utilization that leaves enough headroom for short term surges in demand. Any time the surges are sustained the blockchain reduces the maximum bandwidth-per-share. When a surge is over and there is surplus capacity the blockchain can slowly increase the bandwidth-per-share.
 
 Bandwidth used by an individual user should be measured over a suitably long period of time to allow that user to time-shift their usage. Users tend to login, do many things at once, then logout. This means that their bandwidth over a short period of time may appear much higher than if viewed over a longer period of time. If the time window is stretched too far then the reserve ratio will not adjust fast enough to respond to short-term surges, if the window is too short then clustering usage will have too big of an impact on normal users.
 
