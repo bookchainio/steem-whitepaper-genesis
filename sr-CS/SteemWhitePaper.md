@@ -454,7 +454,7 @@ Da bi razumeli kako ovaj algoritam radi sa Bitkoinom, neophodno je proceniti raz
     CLR/S = 2869 bajtova nedeljno, ili oko 5 transakcija nedeljno po BTC
     
 
-Since R = 38 is a lower bound on the reserve ratio, CLR/S is a lower bound on the permitted bandwidth. This simple case study suggests a user will require at most 0.20 BTC (over $80 as of this writing) to transact once per week. However, this is a loose upper bound derived from the assumption that all BTC are equally mobile. This is not the case - users with dozens or hundreds of bitcoins do not necessarily transact dozens or hundreds of times a week! The "leftover" transactions that those users "should" have made will increase the reserve ratio, allowing their unused bandwidth to be "recycled" for smaller users.
+S obzirom na to da je R=38 donja granica odnosa rezerve, CLR/S je donja granica dozvoljenog propusnog opsega. Ova jednostavna studija slučaja ukazuje da bi za jednog korisnika bilo potrebno uglavnom 0.2 BTC (trenutno je to oko 80$) za transakciju jednom nedeljno. However, this is a loose upper bound derived from the assumption that all BTC are equally mobile. This is not the case - users with dozens or hundreds of bitcoins do not necessarily transact dozens or hundreds of times a week! The "leftover" transactions that those users "should" have made will increase the reserve ratio, allowing their unused bandwidth to be "recycled" for smaller users.
 
 All of the above estimates are conservative upper bounds assuming coins and usage are distributed in a relatively flat manner. The reality is that heavy users, such as exchanges, have a much higher coin-to-usage ratio than lighter users, which in turn means that actual minimum balance requirements are far lower.
 
