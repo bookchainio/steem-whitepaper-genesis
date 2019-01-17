@@ -58,7 +58,7 @@ Steem ist so gestaltet, dass es effektive Micropayments für alle Arten von Beit
 
 Die Votingbeteiligung der Community-Mitglieder ist entscheidend für Steem, um den Mitwirkenden ihre Bezahlung korrekt zuordnen zu können. Das Voting kann also als ein wesentlicher Beitrag gesehen werden, der eine eigene Belohnung verdient hat. Einige Plattformen wie beispielsweise Slashdot nutzen die "Meta-Moderation" [^3] als einen Weg, ehrliche Moderatoren mit einem Rang zu versehen und zu belohnen. Steem hat sich aber dafür entschieden, jene zu belohnen, die sich am meisten beteiligen im Verhältnis zur gesamten Förderung eines inhaltlichen Beitrages und belohnt auch die Voter proportional zur endgültigen Belohnung, die der Content-Creator erhält.
 
-Es gibt weitere Arten des Beitrages die Steem anerkennt und belohnt die Benutzung objektiver Kennzahlen. Among these are: transaction validation, proof of work mining, liquidity rewards, and reporting of misbehaving block producers.
+Es gibt weitere Arten des Beitrages die Steem anerkennt und belohnt die Benutzung objektiver Kennzahlen. Darunter sind folgende: Transaktionsüberprüfung, "Proof of Work"-mining, Liquiditätsbelohnung und das Aufzeigen von fehlverhaltenden Blockerstellern.
 
 # Ways to Contribute
 
