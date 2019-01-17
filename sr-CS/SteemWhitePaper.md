@@ -419,13 +419,13 @@ Po našoj proceni bi trebalo da bude dovoljno da se izmeri prosečan nedeljni pr
 
 ### Primer implementacije
 
-Let B equal a user's average bandwidth at time T. Let W equal the number of seconds per week, and let N equal the size of the new transaction that occurred S seconds after T. Given this information the blockchain can calculate the new average bandwidth for a user as:
+Neka je B prosečan korisnički propusni opseg tokom vremena T. Neka je i W broj sekundi po nedelji, a N veličina nove transakcije koja se desila S sekundi nakon T. Na osnovu ovih informacija, blokčejn može da izračuna novi prosečni propusni opseg za korisnika kao:
 
     Bnew = MIN(0,B * (W - S) / W) + N * S / W
     Tnew = T + S
     
 
-Each user is entitled to an average weekly bandwidth of:
+Svaki korisnik ima pravo na prosečan nedeljni propusni opseg:
 
     Let U = the user's SP
     Let S = the total number of SP
