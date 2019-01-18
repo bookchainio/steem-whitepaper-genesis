@@ -456,11 +456,11 @@ Da bi razumeli kako ovaj algoritam radi sa Bitkoinom, neophodno je proceniti raz
 
 S obzirom na to da je R=38 donja granica odnosa rezerve, CLR/S je donja granica dozvoljenog propusnog opsega. Ova jednostavna studija slučaja ukazuje da bi za jednog korisnika bilo potrebno uglavnom 0.2 BTC (trenutno je to oko 80$) za transakciju jednom nedeljno. Međutim, ovo je slaba gornja granica jer je izvedena iz pretpostavke da su svi BTC jednako mobilni. To u realnosti nije slučaj, jer korisnici koji imaju na stotine bitkoina ne vrše nužno stotine transakcija nedeljno! ''Ostaci'' tih transakcija koje su ovi korisnici ''trebali'' da izvrše će da povećaju odnos rezerve, dozvoljavajući njihovom neiskorišćenom propusnom opsegu da se ''reciklira'' zarad slabijih korisnika.
 
-All of the above estimates are conservative upper bounds assuming coins and usage are distributed in a relatively flat manner. The reality is that heavy users, such as exchanges, have a much higher coin-to-usage ratio than lighter users, which in turn means that actual minimum balance requirements are far lower.
+Sve prethodno navedene procene su konzervativne gornje granice, pod pretpostavkom da su novčići i upotreba uniformno distribuirani. U stvarnosti, zahtevni korisnici, kao što su to menjačnice, imaju mnogo veći odnos između novčića i upotrebe nego obični korisnici, što zapravo znači da je aktuelni minimum na računu koji je neophodan dosta manji.
 
-#### Impact of Capacity
+#### Uticaj kapaciteta
 
-Blockchain capacity isn't necessarily capped. It is well within the technological capability of internet infrastructure to increase the Bitcoin block size to 10MB which in turn will reduce the minimum required balance by a factor of 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second. This changes our conservative upper bound to 0.0006 BTC or about $0.25, meaning that an account holding $0.25 would be able to transact at least once per week on average (and likely many more times because we're dealing with a fairly loose upper bound).
+Kapacitet blokčejna nije nužno ograničen. U okviru tehnoloških mogućnosti infrastrukture interneta, dobro je povećati veličinu Bitkoin bloka do 10 MB, što će za uzvrat smanjiti minimalnu neophodnu količinu na računu sa faktorom 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second. This changes our conservative upper bound to 0.0006 BTC or about $0.25, meaning that an account holding $0.25 would be able to transact at least once per week on average (and likely many more times because we're dealing with a fairly loose upper bound).
 
 #### Maximum Number of Unique Users
 
