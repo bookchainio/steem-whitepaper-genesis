@@ -464,9 +464,9 @@ Kapacitet blokčejna nije nužno ograničen. U okviru tehnoloških mogućnosti i
 
 #### Maksimalan broj jedinstvenih korisnika
 
-Možemo da iskoristimo sličan račun kako bismo izračunali maksimalan broj jedinstvenih korisnika kojima mreža dozvoljava da izvrše transakciju jednom nedeljno: B\*W/T. T predstavlja prosečnu veličinu transakcije. This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
+Možemo da iskoristimo sličan račun kako bismo izračunali maksimalan broj jedinstvenih korisnika kojima mreža dozvoljava da izvrše transakciju jednom nedeljno: B\*W/T. T predstavlja prosečnu veličinu transakcije. To znači da bi Bitkoin mogao da podrži 2 miliona korisnika koji vrše transakcije jednom nedeljno, pod pretpostavkom da imaju jednak iznos na računu.
 
-#### Comparison to Fees
+#### Poređenje sa troškovima
 
 If we assume a user with $25 dollars worth of BTC transacts once per week and pays a $0.04 cent fee each time then they would pay over $2.00 in fees per year. A user would have to earn a 8% rate of return on their $25 dollars just to break even with paying fees. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
 
