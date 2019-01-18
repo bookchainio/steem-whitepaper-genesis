@@ -413,9 +413,9 @@ U okviru sistema delimične rezerve, korisnici mogu da iskoriste veći propusni 
 
 Rešenje za probleme sa mikro isplatama je u implementiranju *dinamičkih delimičnih rezervi*. U okviru ovog modela, blokčejn će automatski prilagoditi odnos rezerve za mrežu u toku perioda zagušenja. Blokčejn će podesiti željenu upotrebu koja ostavlja dovoljno mesta za kratkoročne promene u potražnji. Svaki put kada je potražnja neprekidna, blokčejn smanjuje maksimalni propusni opseg po deonici. Kada je talas potražnje završen i postoji višak kapaciteta, blokčejn može da polako poveća odnos propusnog opsega po deonici.
 
-Propusni opseg koji upotrebljava svaki korisnik bi trebalo da bude izmeren tokom dovoljno dugog perioda da dozvoli korisniku vremensku promenu njegove upotrebe. Korisnici imaju običaj da se uloguju, rade dosta stvari u isto vreme, a zatim da se izloguju. To znači da njihov propusni opseg tokom kratkog vremenskog perioda može da izgleda kao dosta viši u odnosu na ono što se posmatra na duži vremenski period. Ako je vremenski okvir produžen previše, tada se odnos rezerve neće dovoljno brzo prilagoditi kratkoročnom talasu potražnje. Ako je okvir prekratak, tada će grupno korišćenje imati preveliki uticaj na normalne korisnike.
+Propusni opseg koji upotrebljava svaki korisnik bi trebalo da bude izmeren tokom dovoljno dugog perioda da dozvoli korisniku vremensku promenu njegove upotrebe. Korisnici imaju običaj da se uloguju, rade dosta stvari u isto vreme, a zatim da se izloguju. To znači da njihov propusni opseg tokom kratkog vremenskog perioda može da izgleda kao dosta viši u odnosu na ono što se posmatra na duži vremenski period. Ako je vremenski okvir produžen previše, tada se odnos rezerve neće dovoljno brzo prilagoditi kratkoročnom talasu potražnje. Ako je okvir prekratak, tada će grupno korišćenje imati preveliki uticaj na obične korisnike.
 
-Po našoj proceni bi trebalo da bude dovoljno da se izmeri prosečan nedeljni propusni opseg korisnika. Svaki put kada korisnik popuni transakciju, ta transakcija je uključena u njegov sopstveni pokretni prosek. Svaki put kada korisnički pokretni prosek premašuje trenutni limit mreže, transakcija je odložena sve dok se prosek ne spusti ispod granice.
+Po našoj proceni, to bi trebalo da bude dovoljno da se izmeri prosečan nedeljni propusni opseg korisnika. Svaki put kada korisnik popuni transakciju, ta transakcija je uključena u njegov sopstveni pokretni prosek. Svaki put kada korisnički pokretni prosek premašuje trenutni limit mreže, transakcija je odložena sve dok se prosek ne spusti ispod granice.
 
 ### Primer implementacije
 
@@ -454,7 +454,7 @@ Da bi razumeli kako ovaj algoritam radi sa Bitkoinom, neophodno je proceniti raz
     CLR/S = 2869 bajtova nedeljno, ili oko 5 transakcija nedeljno po BTC
     
 
-S obzirom na to da je R=38 donja granica odnosa rezerve, CLR/S je donja granica dozvoljenog propusnog opsega. Ova jednostavna studija slučaja ukazuje da bi za jednog korisnika bilo potrebno uglavnom 0.2 BTC (trenutno je to oko 80$) za transakciju jednom nedeljno. Međutim, ovo je slaba gornja granica jer je izvedena iz pretpostavke da su svi BTC jednako mobilni. To u realnosti nije slučaj, jer korisnici koji imaju na stotine bitkoina ne vrše nužno stotine transakcija nedeljno! ''Ostaci'' tih transakcija koje su ovi korisnici ''trebali'' da izvrše će da povećaju odnos rezerve, dozvoljavajući njihovom neiskorišćenom propusnom opsegu da se ''reciklira'' zarad slabijih korisnika.
+S obzirom na to da je R=38 donja granica odnosa rezerve, CLR/S je donja granica dozvoljenog propusnog opsega. Ova jednostavna studija slučaja ukazuje da bi za jednog korisnika bilo potrebno uglavnom 0.2 BTC (trenutno je to oko 80$) za transakciju jednom nedeljno. Međutim, ovo je slaba gornja granica jer je izvedena iz pretpostavke da su svi BTC jednako mobilni. To u stvarnosti nije slučaj, jer korisnici koji imaju na stotine bitkoina ne vrše nužno stotine transakcija nedeljno! ''Ostaci'' tih transakcija koje su ovi korisnici ''trebali'' da izvrše će da povećaju odnos rezerve, dozvoljavajući njihovom neiskorišćenom propusnom opsegu da se ''reciklira'' zarad slabijih korisnika.
 
 Sve prethodno navedene procene su konzervativne gornje granice, pod pretpostavkom da su novčići i upotreba uniformno distribuirani. U stvarnosti, zahtevni korisnici, kao što su to menjačnice, imaju mnogo veći odnos između novčića i upotrebe nego obični korisnici, što zapravo znači da je aktuelni minimum na računu koji je neophodan dosta manji.
 
@@ -468,7 +468,7 @@ Možemo da iskoristimo sličan račun kako bismo izračunali maksimalan broj jed
 
 #### Poređenje sa troškovima
 
-Ako pretpostavimo da korisnik sa količinom BTC vrednom 25 dolara vrši transakcije jednom nedeljno i plaća proviziju od $0.04 svaki put, to znači da bi na godišnjem nivou njegovi troškovi bili preko $2.00. Korisnik bi morao da zaradi 8% kamate na svojih 25% kako bi pokrio svoje troškove. Chances are that users were going to hold their money on the blockchain anyway, so this user with $25 worth of BTC just saved $2 over the course of a year by adopting a rate-limiting approach rather than a fee-based approach. With just $175 they could transact every single day and save $14 per year.
+Ako pretpostavimo da korisnik sa količinom BTC vrednom 25 dolara vrši transakcije jednom nedeljno i plaća proviziju od $0.04 svaki put, to znači da bi na godišnjem nivou njegovi troškovi bili preko $2.00. Korisnik bi morao da zaradi 8% kamate na svojih 25% kako bi pokrio svoje troškove. Veće su šanse da će korisnici da čuvaju svoj novac na blokčejnu, tako da bi taj korisnik sa količinom BTC u vrednosti od $25 uštedeo $2 tokom godine, usvajanjem pristupa koji ograničava stopu, pre nego pristupom koji se zasniva na troškovima. With just $175 they could transact every single day and save $14 per year.
 
 ### Account Creation
 
