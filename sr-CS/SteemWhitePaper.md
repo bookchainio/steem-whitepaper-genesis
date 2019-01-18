@@ -460,11 +460,11 @@ Sve prethodno navedene procene su konzervativne gornje granice, pod pretpostavko
 
 #### Uticaj kapaciteta
 
-Kapacitet blokčejna nije nužno ograničen. U okviru tehnoloških mogućnosti infrastrukture interneta, dobro je povećati veličinu Bitkoin bloka do 10 MB, što će za uzvrat smanjiti minimalnu neophodnu količinu na računu sa faktorom 10. While Bitcoin currently supports about 3 transactions per second, alternative implementations are capable of over 1000 transactions per second. This changes our conservative upper bound to 0.0006 BTC or about $0.25, meaning that an account holding $0.25 would be able to transact at least once per week on average (and likely many more times because we're dealing with a fairly loose upper bound).
+Kapacitet blokčejna nije nužno ograničen. U okviru tehnoloških mogućnosti infrastrukture interneta, dobro je povećati veličinu Bitkoin bloka do 10 MB, što će za uzvrat smanjiti minimalnu neophodnu količinu na računu sa faktorom 10. Bitkoin trenutno podržava 3 transakcije po sekundi, dok su alternativne implementacije u mogućnosti da podrže 1000 transakcija po sekundi. To pomera konzervativnu gornju granicu na 0.0006 BTC iliti oko $0.25, što znači da nalog koji poseduje $0.25 ima mogućnost da izvrši u proseku bar jednu transakciju nedeljno (verovatno i mnogo više, jer je gornja granica prilično fleksibilna).
 
-#### Maximum Number of Unique Users
+#### Maksimalan broj jedinstvenih korisnika
 
-We can use similar math to calculate the maximum number of unique users that the network can allow to transact once per week as: B\*W/T. T represents the average transaction size. This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
+Možemo da iskoristimo sličan račun kako bismo izračunali maksimalan broj jedinstvenih korisnika kojima mreža dozvoljava da izvrše transakciju jednom nedeljno: B\*W/T. T predstavlja prosečnu veličinu transakcije. This means Bitcoin could support about 2 million users transacting once per week assuming each user had an equal balance.
 
 #### Comparison to Fees
 
