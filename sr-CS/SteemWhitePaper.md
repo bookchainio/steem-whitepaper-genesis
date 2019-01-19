@@ -500,9 +500,9 @@ Ograničavanje stope zahteva da mreža prilagodi odnos rezerve dovoljno brzo da 
 
 Hajde da posmatramo početni odnos rezerve od 200x. Zbog delimičnih rezervi, to znači da neko ko drži 1% tokena ima pravo da zahteva transakcije koje su ukupno dva puta veće od maksimalne veličine bloka. Kako bi se korišćenje mreže napadača svelo na 25%, odnos rezerve bi morao da padne do 25 puta. To bi prouzrokovalo da minimalni iznos koji je neophodan za transakciju jednom nedeljno poraste 8 puta.
 
-The blockchain can establish a response rate that says any sustained increase in usage should be brought down to the target capacity in within a short period of time (say 30 seconds). An attacker attempting to spam the network shouldn't be able to disrupt service for normal users for more than a minute.
+Blokčejn može da uspostavi stopu odziva koja kaže da bi svaki konstantan porast korišćenja trebalo da bude sveden na ciljni kapacitet u okviru kratkog vremenskog perioda (recimo oko 30 sekundi). Napadač koji pokušava da spamuje mrežu ne bi mogao da poremeti uslugu za normalne korisnike duže od jednog minuta.
 
-While reductions in the reserve ratio must be quick and non-linear to counter abuse, increases in the reserve ratio should be slow and linear. If the network adjusted in both directions in just 30 seconds then an attacker could pulse the network. A flood of transactions should be corrected in 30 seconds and then take a hour to return to their pre-attack levels. Under this model the attacker could flood the network for 30 seconds per hour or less than 1% of the time.
+Dok smanjenje odnosa rezerve mora da bude brzo i nelinearno broju pokušaja zloupotrebe, povećanje odnosa rezerve bi trebalo da bude sporo i linearno. Ako je mreža podešena u oba smera za samo 30 sekundi, onda napadač može da šalje impulse mreži. A flood of transactions should be corrected in 30 seconds and then take a hour to return to their pre-attack levels. Under this model the attacker could flood the network for 30 seconds per hour or less than 1% of the time.
 
 There must be a slow constant upward pressure on the reserve ratio any time network usage is below 50% until the network hits the maximum reserve ratio. The maximum reserve ratio determines the minimum required stake to flood the network in short bursts.
 
