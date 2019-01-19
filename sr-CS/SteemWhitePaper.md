@@ -486,9 +486,9 @@ Koncept usmeravanja korisnika da održe minimalni iznos na računu potiče priro
 
 Ripple koristi minimalni iznos[^12] koji se skalira zajedno sa upotrebom resursa naloga i zahteva da svi novi nalozi budu snabdeveni sa bar ovim minimalnim iznosom. Trenutno, taj minimalni iznos je $0.15 što je više od $0.10, koliko smo procenili da bi bilo potrebno da neko slobodno vrši transakcije jednom nedeljno.
 
-Blokčejn može da nametne minimalnu vrednost po korisniku putem jednostavnog zahtevanja minimalnig iznosa na računu. Svaki biznis koji ima za cilj da dovede novog korisnika na blokčejn može da snabde nalog tog korisnika minimalnim iznosom koji će mu dozvoliti da vrši transakcije. Zahtevanje relativno velike provizije ($1.00) za registraciju novih korisnika će naterati svakoga ko nudi besplatne naloge da proveri kvalitet i jedinstvenost svakog naloga pre njihovog registrovanja na blokčejnu.
+Blokčejn može da nametne minimalnu vrednost po korisniku putem jednostavnog zahtevanja minimalnog iznosa na računu. Svaki biznis koji ima za cilj da dovede novog korisnika na blokčejn može da snabde nalog tog korisnika minimalnim iznosom koji će mu dozvoliti da vrši transakcije. Zahtevanje relativno velike provizije ($1.00) za registraciju novih korisnika će naterati svakoga ko nudi besplatne naloge da proveri kvalitet i jedinstvenost svakog naloga pre njihovog registrovanja na blokčejnu.
 
-Održavanje minimalnog iznosa ima efekta isto kao kada biste zahtevali od korisnika da plate proviziju transakcije kamatom koju mogu da zarade na osnovu iznosa na svom racunu. Minimalni iznos je jednostavno iznos na računu koji je neophodan kako bi se zaradila dovoljna kamata da se plati provizija u relativno kratkom vremenu.
+Održavanje minimalnog iznosa ima efekta isto kao kada biste zahtevali od korisnika da plate proviziju transakcije kamatom koju mogu da zarade na osnovu iznosa na svom računu. Minimalni iznos je jednostavno iznos na računu koji je neophodan kako bi se zaradila dovoljna kamata da se plati provizija u relativno kratkom vremenu.
 
 Na svu sreću, minimalni iznos koji je neophodan može biti nizak koliko i dolar i to je ono što korisnici razumeju i cene. Troškovi izgubljene kamate ne prouzrokuju kognitivni trošak mikro provizije i daleko su prihvatljiviji korisnicima.
 
@@ -496,21 +496,21 @@ STEEM tokeni koji su iskorišćeni za snabdevanje novog naloga se pretvaraju u S
 
 ### Prilagođavanje odnosa rezerve
 
-Ograničavanje stope zahteva da mreža prilagodi odnos rezerve dovoljno brzo da ublaži uticaj napdača koji žele da preuzmu mrežu. Pretpostavimo da napadač ima veliki iznos na računu, recimo oko 1% svih dostupnih tokena. Ako takođe pretpostavimo da mreža cilja na 50% iskorišćenosti, onda bi napad rezultovao time da taj korisnik guši 25% kapaciteta mreže pod pretpostavkom da svi ostali koriste takođe 25% kapaciteta. Drugim rečima, najbogatiji pojedinac ne bi nikada trebalo da može da koristi više od 50% ciljanog kapaciteta osim ukoliko ne poseduje više od 50% SP.
+Ograničavanje stope zahteva da mreža prilagodi odnos rezerve dovoljno brzo da ublaži uticaj napadača koji žele da preuzmu mrežu. Pretpostavimo da napadač ima veliki iznos na računu, recimo oko 1% svih dostupnih tokena. Ako takođe pretpostavimo da mreža cilja na 50% iskorišćenosti, onda bi napad rezultovao time da taj korisnik guši 25% kapaciteta mreže pod pretpostavkom da svi ostali koriste takođe 25% kapaciteta. Drugim rečima, najbogatiji pojedinac ne bi nikada trebalo da može da koristi više od 50% ciljanog kapaciteta osim ukoliko ne poseduje više od 50% SP.
 
 Hajde da posmatramo početni odnos rezerve od 200x. Zbog delimičnih rezervi, to znači da neko ko drži 1% tokena ima pravo da zahteva transakcije koje su ukupno dva puta veće od maksimalne veličine bloka. Kako bi se korišćenje mreže napadača svelo na 25%, odnos rezerve bi morao da padne do 25 puta. To bi prouzrokovalo da minimalni iznos koji je neophodan za transakciju jednom nedeljno poraste 8 puta.
 
 Blokčejn može da uspostavi stopu odziva koja kaže da bi svaki konstantan porast korišćenja trebalo da bude sveden na ciljni kapacitet u okviru kratkog vremenskog perioda (recimo oko 30 sekundi). Napadač koji pokušava da spamuje mrežu ne bi mogao da poremeti uslugu za normalne korisnike duže od jednog minuta.
 
-Dok smanjenje odnosa rezerve mora da bude brzo i nelinearno broju pokušaja zloupotrebe, povećanje odnosa rezerve bi trebalo da bude sporo i linearno. Ako je mreža podešena u oba smera za samo 30 sekundi, onda napadač može da šalje impulse mreži. Talas transakcija bi trebalo da bude korigovan za 30 sekundi i onda bi se za sat vremena sve vratilo u prvobitno stanje u kom je bilo i pre napada. U okviru ovog modela, napadač može da preoptereti mrežu samo 30 sekundi u toku sat vremena iliti 1% vremena.
+Dok smanjenje odnosa rezerve mora da bude brzo i nelinearno da bi se sprečila zloupotreba, povećanje odnosa rezerve bi trebalo da bude sporo i linearno. Ako je mreža podešena u oba smera za samo 30 sekundi, onda napadač može da šalje impulse mreži. Talas transakcija bi trebalo da bude korigovan za 30 sekundi i onda bi se za sat vremena sve vratilo u prvobitno stanje u kom je bilo i pre napada. U okviru ovog modela, napadač može da preoptereti mrežu samo 30 sekundi u toku sat vremena iliti 1% vremena.
 
 Mora da postoji konstantan, spororastući pritisak na odnos rezerve svaki put kada je upotreba mreže ispod 50% sve dok mreža ne dostigne maksimalni odnos rezerve. Maksimalni odnos rezerve određuje minimalni neophodan zalog da se preplavi mreža u kratkim naletima.
 
-Svaki korisnik koji ima manje od TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) neće moće da proizvede dovoljno transakcija da popuni makar jedan blok. Sa odnosom rezerve od 200, to znači da svaki korisnik sa manje od 0.25% valute ne može da izvrši dovoljno transakcija da odloži nečiju uslugu.
+Svaki korisnik koji ima manje od TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) neće moći da proizvede dovoljno transakcija da popuni makar jedan blok. Sa odnosom rezerve od 200, to znači da svaki korisnik sa manje od 0.25% valute ne može da izvrši dovoljno transakcija da odloži nečiju uslugu.
 
 ### Efektivnost u odnosu na troškove
 
-Da bismo uporedili efektivnost ograničenja stope u odnosu na troškove, moramo da razmotrimo kako se ova dva sistema ponašaju tokom tokom talasa napada. U slučaju Bitkoina, napadač sa $10,000 bi mogao da poremeti uslugu na ceo dan, popunjavanjem svakog bloka. Isti napadač, u sistemu sa dinamičkim odnosom delimične rezerve, ne bi mogao da poremeti uslugu ni za jedan jedini blok.
+Da bismo uporedili efektivnost ograničenja stope u odnosu na troškove, moramo da razmotrimo kako se ova dva sistema ponašaju tokom talasa napada. U slučaju Bitkoina, napadač sa $10,000 bi mogao da poremeti uslugu na ceo dan, popunjavanjem svakog bloka. Isti napadač, u sistemu sa dinamičkim odnosom delimične rezerve, ne bi mogao da poremeti uslugu ni za jedan jedini blok.
 
 If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
 
