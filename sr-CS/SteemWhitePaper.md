@@ -508,9 +508,9 @@ Mora da postoji konstantan, spororastući pritisak na odnos rezerve svaki put ka
 
 Svaki korisnik koji ima manje od TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) neće moće da proizvede dovoljno transakcija da popuni makar jedan blok. Sa odnosom rezerve od 200, to znači da svaki korisnik sa manje od 0.25% valute ne može da izvrši dovoljno transakcija da odloži nečiju uslugu.
 
-### Effectiveness Relative to Fees
+### Efektivnost u odnosu na troškove
 
-To compare the effectiveness of rate limiting to fees we must consider how the two systems react to intentional network flooding by an attacker. Under Bitcoin an attacker with $10,000 dollars could disrupt service for an entire day by filling every single block. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+Da bismo uporedili efektivnost ograničenja stope u odnosu na troškove, moramo da razmotrimo kako se ova dva sistema ponašaju tokom tokom talasa napada. U slučaju Bitkoina, napadač sa $10,000 bi mogao da poremeti uslugu na ceo dan, popunjavanjem svakog bloka. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
 
 If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
 
