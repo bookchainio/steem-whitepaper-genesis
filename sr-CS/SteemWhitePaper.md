@@ -486,7 +486,7 @@ Koncept usmeravanja korisnika da održe minimalni iznos na računu potiče priro
 
 Ripple koristi minimalni iznos[^12] koji se skalira zajedno sa upotrebom resursa naloga i zahteva da svi novi nalozi budu snabdeveni sa bar ovim minimalnim iznosom. Trenutno, taj minimalni iznos je $0.15 što je više od $0.10, koliko smo procenili da bi bilo potrebno da neko slobodno vrši transakcije jednom nedeljno.
 
-A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Any business that wishes to bring a new customer to the blockchain can pre-fund that user's account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
+Blokčejn može da nametne minimalnu vrednost po korisniku putem jednostavnog zahtevanja minimalnig iznosa na računu. Any business that wishes to bring a new customer to the blockchain can pre-fund that user's account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
 
 Maintaining a minimum balance is effectively the same as making users pay transaction fees with the interest they could have earned on their balance. The minimum balance is simply the balance required to earn enough interest to pay a fee in a relatively short period of time.
 
