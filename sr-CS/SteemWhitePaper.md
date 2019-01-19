@@ -506,7 +506,7 @@ Dok smanjenje odnosa rezerve mora da bude brzo i nelinearno broju pokušaja zlou
 
 Mora da postoji konstantan, spororastući pritisak na odnos rezerve svaki put kada je upotreba mreže ispod 50% sve dok mreža ne dostigne maksimalni odnos rezerve. Makimalni odnos razmere određuje minimalni neophodan zalog da se preplavi mreža u kratkim naletima.
 
-Svaki korisnik koji ima manje od TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) neće moće da proizvede dovoljno transakcija da popuni makar jedan blok. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
+Svaki korisnik koji ima manje od TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) neće moće da proizvede dovoljno transakcija da popuni makar jedan blok. Sa odnosom rezerve od 200, to znači da svaki korisnik sa manje od 0.25% valute ne može da izvrši dovoljno transakcija da odloži nečiju uslugu.
 
 ### Effectiveness Relative to Fees
 
