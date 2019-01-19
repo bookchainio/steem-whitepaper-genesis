@@ -502,11 +502,11 @@ Hajde da posmatramo početni odnos rezerve od 200x. Zbog delimičnih rezervi, to
 
 Blokčejn može da uspostavi stopu odziva koja kaže da bi svaki konstantan porast korišćenja trebalo da bude sveden na ciljni kapacitet u okviru kratkog vremenskog perioda (recimo oko 30 sekundi). Napadač koji pokušava da spamuje mrežu ne bi mogao da poremeti uslugu za normalne korisnike duže od jednog minuta.
 
-Dok smanjenje odnosa rezerve mora da bude brzo i nelinearno broju pokušaja zloupotrebe, povećanje odnosa rezerve bi trebalo da bude sporo i linearno. Ako je mreža podešena u oba smera za samo 30 sekundi, onda napadač može da šalje impulse mreži. A flood of transactions should be corrected in 30 seconds and then take a hour to return to their pre-attack levels. Under this model the attacker could flood the network for 30 seconds per hour or less than 1% of the time.
+Dok smanjenje odnosa rezerve mora da bude brzo i nelinearno broju pokušaja zloupotrebe, povećanje odnosa rezerve bi trebalo da bude sporo i linearno. Ako je mreža podešena u oba smera za samo 30 sekundi, onda napadač može da šalje impulse mreži. Talas transakcija bi trebalo da bude korigovan za 30 sekundi i onda bi se za sat vremena sve vratilo u prvobitno stanje, pre napada. U okviru ovog modela, napadač može da preoptereti mrežu samo 30 sekundi u toku sat vremena iliti 1% vremena.
 
-There must be a slow constant upward pressure on the reserve ratio any time network usage is below 50% until the network hits the maximum reserve ratio. The maximum reserve ratio determines the minimum required stake to flood the network in short bursts.
+Mora da postoji konstantan, spororastući pritisak na odnos rezerve svaki put kada je upotreba mreže ispod 50% sve dok mreža ne dostigne maksimalni odnos rezerve. Makimalni odnos razmere određuje minimalni neophodan zalog da se preplavi mreža u kratkim naletima.
 
-Any user with fewer than TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) will be unable to produce enough transactions to fill even a single block. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
+Svaki korisnik koji ima manje od TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) neće moće da proizvede dovoljno transakcija da popuni makar jedan blok. With a reserve ratio of 200, this means any user with less than 0.25% of the currency cannot create enough transactions to delay anyone's service.
 
 ### Effectiveness Relative to Fees
 
