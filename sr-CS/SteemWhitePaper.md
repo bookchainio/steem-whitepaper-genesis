@@ -502,15 +502,15 @@ Hajde da posmatramo početni odnos rezerve od 200x. Zbog delimičnih rezervi, to
 
 Blokčejn može da uspostavi stopu odziva koja kaže da bi svaki konstantan porast korišćenja trebalo da bude sveden na ciljni kapacitet u okviru kratkog vremenskog perioda (recimo oko 30 sekundi). Napadač koji pokušava da spamuje mrežu ne bi mogao da poremeti uslugu za normalne korisnike duže od jednog minuta.
 
-Dok smanjenje odnosa rezerve mora da bude brzo i nelinearno broju pokušaja zloupotrebe, povećanje odnosa rezerve bi trebalo da bude sporo i linearno. Ako je mreža podešena u oba smera za samo 30 sekundi, onda napadač može da šalje impulse mreži. Talas transakcija bi trebalo da bude korigovan za 30 sekundi i onda bi se za sat vremena sve vratilo u prvobitno stanje, pre napada. U okviru ovog modela, napadač može da preoptereti mrežu samo 30 sekundi u toku sat vremena iliti 1% vremena.
+Dok smanjenje odnosa rezerve mora da bude brzo i nelinearno broju pokušaja zloupotrebe, povećanje odnosa rezerve bi trebalo da bude sporo i linearno. Ako je mreža podešena u oba smera za samo 30 sekundi, onda napadač može da šalje impulse mreži. Talas transakcija bi trebalo da bude korigovan za 30 sekundi i onda bi se za sat vremena sve vratilo u prvobitno stanje u kom je bilo i pre napada. U okviru ovog modela, napadač može da preoptereti mrežu samo 30 sekundi u toku sat vremena iliti 1% vremena.
 
-Mora da postoji konstantan, spororastući pritisak na odnos rezerve svaki put kada je upotreba mreže ispod 50% sve dok mreža ne dostigne maksimalni odnos rezerve. Makimalni odnos razmere određuje minimalni neophodan zalog da se preplavi mreža u kratkim naletima.
+Mora da postoji konstantan, spororastući pritisak na odnos rezerve svaki put kada je upotreba mreže ispod 50% sve dok mreža ne dostigne maksimalni odnos rezerve. Maksimalni odnos rezerve određuje minimalni neophodan zalog da se preplavi mreža u kratkim naletima.
 
 Svaki korisnik koji ima manje od TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) neće moće da proizvede dovoljno transakcija da popuni makar jedan blok. Sa odnosom rezerve od 200, to znači da svaki korisnik sa manje od 0.25% valute ne može da izvrši dovoljno transakcija da odloži nečiju uslugu.
 
 ### Efektivnost u odnosu na troškove
 
-Da bismo uporedili efektivnost ograničenja stope u odnosu na troškove, moramo da razmotrimo kako se ova dva sistema ponašaju tokom tokom talasa napada. U slučaju Bitkoina, napadač sa $10,000 bi mogao da poremeti uslugu na ceo dan, popunjavanjem svakog bloka. The same attacker would be unable to disrupt service for even a single block under the dynamic fractional reserve rate limiting approach.
+Da bismo uporedili efektivnost ograničenja stope u odnosu na troškove, moramo da razmotrimo kako se ova dva sistema ponašaju tokom tokom talasa napada. U slučaju Bitkoina, napadač sa $10,000 bi mogao da poremeti uslugu na ceo dan, popunjavanjem svakog bloka. Isti napadač, u sistemu sa dinamičkim odnosom delimične rezerve, ne bi mogao da poremeti uslugu ni za jedan jedini blok.
 
 If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
 
