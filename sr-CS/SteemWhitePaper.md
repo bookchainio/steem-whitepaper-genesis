@@ -468,9 +468,9 @@ Možemo da iskoristimo sličan račun kako bismo izračunali maksimalan broj jed
 
 #### Poređenje sa troškovima
 
-Ako pretpostavimo da korisnik sa količinom BTC vrednom 25 dolara vrši transakcije jednom nedeljno i plaća proviziju od $0.04 svaki put, to znači da bi na godišnjem nivou njegovi troškovi bili preko $2.00. Korisnik bi morao da zaradi 8% kamate na svojih 25% kako bi pokrio svoje troškove. Veće su šanse da će korisnici da čuvaju svoj novac na blokčejnu, tako da bi taj korisnik sa količinom BTC u vrednosti od $25 uštedeo $2 tokom godine, usvajanjem pristupa koji ograničava stopu, pre nego pristupom koji se zasniva na troškovima. With just $175 they could transact every single day and save $14 per year.
+Ako pretpostavimo da korisnik sa količinom BTC vrednom 25 dolara vrši transakcije jednom nedeljno i plaća proviziju od $0.04 svaki put, to znači da bi na godišnjem nivou njegovi troškovi bili preko $2.00. Korisnik bi morao da zaradi 8% kamate na svojih 25% kako bi pokrio svoje troškove. Veće su šanse da će korisnici da čuvaju svoj novac na blokčejnu, tako da bi taj korisnik sa količinom BTC u vrednosti od $25 uštedeo $2 tokom godine, usvajanjem pristupa koji ograničava stopu, pre nego pristupom koji se zasniva na troškovima. Sa samo 175$ bi mogli da vrše transakcije svakog dana i da uštede $14 godišnje.
 
-### Account Creation
+### Kreiranje naloga
 
 Steem's account-based system with publicly known balances simplifies the implementation of the bandwidth-based rate limiting algorithm. Any account with a balance below the minimum required to transact once per week would be unable to transact. This implies that all new accounts should be funded with at least this minimum balance. It also implies that users wishing to transact in smaller amounts can, so long as they hold a larger balance and reuse the account.
 
