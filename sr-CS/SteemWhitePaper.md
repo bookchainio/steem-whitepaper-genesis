@@ -472,9 +472,9 @@ Ako pretpostavimo da korisnik sa količinom BTC vrednom 25 dolara vrši transakc
 
 ### Kreiranje naloga
 
-Steem sistem, zasnovan na nalozima sa javnim računom, pojednostavljuje implementaciju algoritma za ograničenje stope, koji je zasnovan na propusnom opsegu. Svaki nalog koji ima iznos na računu manji od minimalnog iznosa, koji je neophodan za transakciju jednom nedeljno, neće moći da vrši transakcije. To znači da bi svi novi nalozi morali da budu snabdeveni sa bar minimalnim iznosom. To takođe znači da korisnici mogu da vrše transakcije malih količina, sve dok imaju veću količinu na računu i koriste svoj nalog.
+Steem sistem, zasnovan na nalozima sa javnim računom, pojednostavljuje implementaciju algoritma za ograničenje stope, koji je zasnovan na propusnom opsegu. Svaki nalog koji ima iznos na računu manji od minimalnog iznosa, koji je neophodan za transakciju jednom nedeljno, neće moći da vrši transakcije. To znači da bi svi novi nalozi morali da budu snabdeveni sa bar minimalnim iznosom. To takođe znači da korisnici mogu da vrše transakcije malih iznosa, sve dok imaju veći iznos na računu i koriste svoj nalog.
 
-Moguće je da nalozi sa malom količinom na računu, koji su kreirani tokom perioda slabijeg korišćenja mreže, postanu nedostupni, ako se korišćenje mreže poveća. The funds could be recovered at any time by transferring a larger balance into the account.
+Moguće je da nalozi sa malim iznosom na računu, koji su kreirani tokom perioda slabijeg korišćenja mreže, postanu nedostupni, ako se korišćenje mreže poveća. Sredstva se mogu nadoknaditi u bilo kom trenutku, prebacivanjem većeg iznosa na vaš račun.
 
 In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
 
