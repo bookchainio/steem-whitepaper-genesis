@@ -476,7 +476,7 @@ Steem sistem, zasnovan na nalozima sa javnim računom, pojednostavljuje implemen
 
 Moguće je da nalozi sa malim iznosom na računu, koji su kreirani tokom perioda slabijeg korišćenja mreže, postanu nedostupni, ako se korišćenje mreže poveća. Sredstva se mogu nadoknaditi u bilo kom trenutku, prebacivanjem većeg iznosa na vaš račun.
 
-In order to maintain a reasonable user experience with a minimum number of hung accounts, all new accounts should start out with a balance 10 times the minimum required to transact weekly. This way even if demand increases by a factor of 10 the account will remain viable.
+Sa namerom da se održi kvalitet korisničkog iskustva, sa minimalnim brojem mrtvih naloga, svi novi nalozi bi trebalo da počnu sa iznosom koji je deset puta veći od neophodnog iznosa za nedeljnu transakciju. This way even if demand increases by a factor of 10 the account will remain viable.
 
 Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
 
