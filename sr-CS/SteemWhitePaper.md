@@ -496,9 +496,9 @@ STEEM tokeni koji su iskorišćeni za snabdevanje novog naloga se pretvaraju u S
 
 ### Prilagođavanje odnosa rezerve
 
-Rate limiting requires that the network adjust the reserve ratio quickly enough to mitigate the impact of an attacker attempting to ood the network. Let's assume the attacker has a large balance, say 1% of the available tokens. If we also assume that the network targets 50% utilization, then a sustained attack should find this user throttled to 25% of network capacity assuming everyone else is also using 25% of the capacity. Stated another way, the largest single user should never be able to consume more than 50% of the target capacity unless they own more than 50% of the SP.
+Ograničavanje stope zahteva da mreža prilagodi odnos rezerve dovoljno brzo da ublaži uticaj napdača koji žele da preuzmu mrežu. Pretpostavimo da napadač ima veliki iznos na računu, recimo oko 1% svih dostupnih tokena. Ako takođe pretpostavimo da mreža cilja na 50% iskorišćenosti, onda bi napad rezultovao time da taj korisnik guši 25% kapaciteta mreže pod pretpostavkom da svi ostali koriste takođe 25% kapaciteta. Drugim rečima, najbogatiji pojedinac ne bi nikada trebalo da može da koristi više od 50% ciljanog kapaciteta osim ukoliko ne poseduje više od 50% SP.
 
-Let's use an initial reserve ratio of 200x. Due to fractional reserves, this means someone holding 1% of the tokens has the right to demand transactions totalling 2x the maximum block size. In order to bring the network usage of the attacker down to 25% the reserve ratio would have to fall to 25x. This would cause the minimum balance required to transact once per week to grow by 8x.
+Hajde da posmatramo početni odnos rezerve od 200x. Zbog delimičnih rezervi, to znači da neko ko drži 1% tokena ima pravo da zahteva transakcije koje su ukupno dva puta veće od maksimalne veličine bloka. In order to bring the network usage of the attacker down to 25% the reserve ratio would have to fall to 25x. This would cause the minimum balance required to transact once per week to grow by 8x.
 
 The blockchain can establish a response rate that says any sustained increase in usage should be brought down to the target capacity in within a short period of time (say 30 seconds). An attacker attempting to spam the network shouldn't be able to disrupt service for normal users for more than a minute.
 
