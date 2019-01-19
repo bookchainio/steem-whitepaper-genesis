@@ -476,11 +476,11 @@ Steem sistem, zasnovan na nalozima sa javnim računom, pojednostavljuje implemen
 
 Moguće je da nalozi sa malim iznosom na računu, koji su kreirani tokom perioda slabijeg korišćenja mreže, postanu nedostupni, ako se korišćenje mreže poveća. Sredstva se mogu nadoknaditi u bilo kom trenutku, prebacivanjem većeg iznosa na vaš račun.
 
-Sa namerom da se održi kvalitet korisničkog iskustva, sa minimalnim brojem mrtvih naloga, svi novi nalozi bi trebalo da počnu sa iznosom koji je deset puta veći od neophodnog iznosa za nedeljnu transakciju. This way even if demand increases by a factor of 10 the account will remain viable.
+Sa namerom da se održi kvalitet korisničkog iskustva, sa minimalnim brojem mrtvih naloga, svi novi nalozi bi trebalo da počnu sa iznosom koji je deset puta veći od neophodnog iznosa za nedeljnu transakciju. Na ovaj način, čak i ako se potražnja poveća sa faktorom 10, nalog će ostati održiv.
 
-Any initial account balance would have to come from the user creating the account and not from token creation due to the potential for sybil attacks.
+Svaki početni iznos na računu bi trebalo da potiče od korisnika koji kreira nalog, zbog potencijalnih sybil napada.
 
-### Justifying Minimum Balances
+### Razlozi za minimalni iznos na računu
 
 The concept of forcing users to maintain a minimum balance flows naturally from the value of a user[^11] . Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
 
