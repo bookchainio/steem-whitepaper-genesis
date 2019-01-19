@@ -482,9 +482,9 @@ Svaki početni iznos na računu bi trebalo da potiče od korisnika koji kreira n
 
 ### Razlozi za minimalni iznos na računu
 
-Koncept usmeravanja korisnika da održe minimalni iznos na računu potiče prirodno od same vrednosti korisnika[^11] . Anyone running a business knows that every single user has significant value. Businesses spend anywhere from $30 to $200 to acquire a user. Sometimes they pay users directly, other times they pay for advertizing, and still other times entire companies are bought just for their user base. After a company acquires a user they often given them many *free services* just to keep them around long enough to monetize them through some other means.
+Koncept usmeravanja korisnika da održe minimalni iznos na računu potiče prirodno od same vrednosti korisnika[^11] . Svako ko ima svoj biznis zna da svaki korisnik ima značajnu vrednost. Različiti biznisi troše između $30 i $200 da bi stekli novog korisnika. Nekada plaćaju korisnike direktno, nekada za reklamiranje, a nekada se i cele kompanije kupuju samo zbog njihove baze korisnika. Nakon što kompanija stekne korisnika, često mu daje mnoge *besplatne usluge* samo kako bi ga zadržala dovoljno dugo da ga monetizuje na neki drugi način.
 
-Ripple uses a minimum balance[^12] that scales with account resource use and requires that new accounts get funded with at least this minimum balance. Currently this minimum balance is about $0.15 which is greater than the $0.10 we estimated would allow someone to transact freely at least once per week.
+Ripple koristi minimalni iznos[^12] koji se skalira zajedno sa upotrebom resursa naloga i zahteva da svi novi nalozi budu snabdeveni sa bar ovim minimalnim iznosom. Trenutno, taj minimalni iznos je $0.15 što je više od $0.10, koliko smo procenili da bi bilo potrebno da neko slobodno vrši transakcije jednom nedeljno.
 
 A blockchain can enforce a minimum value per user through the simple process of requiring a minimum balance. Any business that wishes to bring a new customer to the blockchain can pre-fund that user's account with the minimum balance that would allow them to transact. Requiring a relatively large fee ($1.00) to sign up new users will naturally force anyone offering free accounts to vet the quality and uniqueness of each account before registering them with the blockchain.
 
