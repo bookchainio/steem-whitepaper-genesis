@@ -490,11 +490,11 @@ Blokčejn može da nametne minimalnu vrednost po korisniku putem jednostavnog za
 
 Održavanje minimalnog iznosa ima efekta isto kao kada biste zahtevali od korisnika da plate proviziju transakcije kamatom koju mogu da zarade na osnovu iznosa na svom racunu. Minimalni iznos je jednostavno iznos na računu koji je neophodan kako bi se zaradila dovoljna kamata da se plati provizija u relativno kratkom vremenu.
 
-Fortunately, the minimum balance required can be as low as a dollar and this is something users can understand and appreciate. The opportunity cost of lost interest doesn't incur the cognitive cost of a micro-fee and is far more acceptable to users.
+Na svu sreću, minimalni iznos koji je neophodan može biti nizak koliko i dolar i to je ono što korisnici razumeju i cene. Troškovi izgubljene kamate ne prouzrokuju kognitivni trošak mikro provizije i daleko su prihvatljiviji korisnicima.
 
-The STEEM used to pre-fund an account is Powered Up in the new account (i.e., converted to Steem Power).
+STEEM tokeni koji su iskorišćeni za snabdevanje novog naloga se pretvaraju u SP tog novog naloga.
 
-### Adjusting the Reserve Ratio
+### Prilagođavanje odnosa rezerve
 
 Rate limiting requires that the network adjust the reserve ratio quickly enough to mitigate the impact of an attacker attempting to ood the network. Let's assume the attacker has a large balance, say 1% of the available tokens. If we also assume that the network targets 50% utilization, then a sustained attack should find this user throttled to 25% of network capacity assuming everyone else is also using 25% of the capacity. Stated another way, the largest single user should never be able to consume more than 50% of the target capacity unless they own more than 50% of the SP.
 
