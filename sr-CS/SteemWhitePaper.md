@@ -518,9 +518,9 @@ U okviru pristupa sa ograničenjem stope, neko ko poseduje 1% novčića sa namer
 
 ### Iznajmljivanje ili kupovina? Ili deljenje vremena?
 
-Kada neko poseduje kuću, on očekuje da ima pravo da je koristi besplatno. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Kada neko poseduje kuću, on očekuje da ima pravo da je koristi besplatno. Ako grupa ljudi kupi zajedno kuću, tada svako od njih može očekivati pravo na korišćenje proporcionalno svom procentu udela tokom kupovine. Blokčejn zasnovan na troškovima je isto kao kada biste iznajmili kuću od njihovih vlasnika, gde je ograničenje stope vrsta deljenja vremena među vlasnicima.
 
-If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+Ako kuću poseduje više pojedinaca, tada oni moraju da se dogovore kako da je dele tokom vremena. Neko ko poseduje 50% kuće, ali je koristi samo jedan vikend tokom godine bi mogao da očekuje da bude plaćen od onih koji koriste taj višak vremena. Na ovom principu radi sistem zasnovan na troškovima.
 
 On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
 
