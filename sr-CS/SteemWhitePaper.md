@@ -512,13 +512,13 @@ Svaki korisnik koji ima manje od TOTAL\_TOKENS / (2 \* RESERVE\_RATIO) neće mo�
 
 Da bismo uporedili efektivnost ograničenja stope u odnosu na troškove, moramo da razmotrimo kako se ova dva sistema ponašaju tokom talasa napada. U slučaju Bitkoina, napadač sa $10,000 bi mogao da poremeti uslugu na ceo dan, popunjavanjem svakog bloka. Isti napadač, u sistemu sa dinamičkim odnosom delimične rezerve, ne bi mogao da poremeti uslugu ni za jedan jedini blok.
 
-If we go to a more extreme case and assume the attacker holds 1% of all coins then we presume an attacker with $60 million dollars. Such an attacker could deny the Bitcoin blockchain service for 16 years unless the miners increased fees or capacity. Even if fees were raised to $15 per transaction, the attacker could still keep the network flooded for 16 days.
+Ako razmotrimo daleko ozbiljniji slučaj i pretpostavimo da napadač ima 1% svih novčića, to bi značilo da napadač ima 60 miliona dolara. Takav napadač bi mogao da sabotira uslugu na Bitkoin blokčejnu na 16 godina, osim ukoliko majneri ne bi povećali provizije ili kapacitet. Čak i ako bi provizija bila $15 po transakciji, takav napadač bi mogao da drži mrežu sabotiranu 16 dana.
 
-Under the rate limiting approach, someone who holds 1% of all coins with an intent to flood the network would achieve their goal for less than 30 seconds.
+U okviru pristupa sa ograničenjem stope, neko ko poseduje 1% novčića sa namerom da spamuje mrežu bi to uspeo za manje od 30 sekundi.
 
-### Renting vs. Buying vs. Time Sharing
+### Iznajmljivanje ili kupovina? Ili deljenje vremena?
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Kada neko poseduje kuću, on očekuje da ima pravo da je koristi besplatno. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
 
 If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
 
