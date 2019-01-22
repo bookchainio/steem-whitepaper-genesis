@@ -528,15 +528,15 @@ Vrednost udela je izvedena iz procene koliko vremena može potencijalno nagrađi
 
 Koristeći ovaj rezon, možemo da pretpostavimo da će takav sistem biti ili dosta skup za svoje korisnike ili slabo profitabilan za svoje vlasnike. Jedan od vlasnika može da profitira iznajmljivanjem svog termina, ali jedino na račun ostalih suvlasnika. Za posledicu imamo to da je cena opadajuće vrednosti deonice podeljena među vlasnicima, dok je profit centralizovan kod onog ko je odlučio da iznajmi svoj deo.
 
-Iz toga možemo da zaključimo da je najbolji blokčejn onaj bez korisničkih troškova. If a usage fee were to be charged as an alternative to rate limiting, then it should be the equivalent of buying enough timeshares and committing to hold them long enough to gain the right use it once.
+Iz toga možemo da zaključimo da je najbolji blokčejn onaj bez korisničkih troškova. Ako bi se korisnički troškovi naplaćivali kao alternativa ograničenju stope, onda bi to trebalo da bude ekvivalentno kupovini dovoljno deonica i obavezivanju da ih čuvate dovoljno dugo da dobijete pravo da ih jednom iskoristite.
 
-Stated another way, a transaction fee should be equal to the minimum account balance necessary to transact once per week and it should be refunded at the end of the week. Assume the minimum account balance is $1 and allows someone to transact once per week. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
+Drugim rečima, provizija transakcije bi trebalo da bude jednaka minimalnom iznosu na računu koji je neophodan da se izvrši transakcija jednom nedeljno i da se refundira na kraju nedelje. Pretpostavimo da je minimalni iznos na računu $1 i da omogućava nekome transakciju jednom nedeljno. Ako bi neko sa takvim računom od $1 poželeo da izvrši 5 transakcija odjednom, morao bi da uveća svoj iznos na računu na $5 za nedelju pre ili posle transakcija.
 
-In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+U teoriji, moglo bi se kreirati tržište odakle će korisnici moći da pozajme potreban zalog. U praksi je mnogo efikasnije za korisnike da jednostavno kupe i prodaju deonice, kako bi dostigli određenu stopu korisnosti. Drugim rečima, cena pregovaranja o mikro zajmovima je veća nego cena održavanja računa koji odgovara maksimalnom nedeljnom korišćenju.
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+Decentralizovano ograničavanje stope transakcija može da omogući nove tipove decentralizovanih aplikacija koje nisu bile održive kada je svako korišćenje aplikacije zahtevalo mikro uplatu. Ovaj novi model omogućava developerima aplikacija da odluče da li će i kada da naplate svojim korisnicima za transakcije.
 
-# Performance and Scalability
+# Performanse i skalabilnost
 
 The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
 
