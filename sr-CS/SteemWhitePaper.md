@@ -569,14 +569,14 @@ Steem mreža započinje sa nultim zalihama valute i izdvaja STEEM putem proof of
 - Nagrade za uključivanje POW-a pre 864,00 bloka: 0.0467 STEEM-a po bloku (nagrađeno kao 1 STEEM po rundi) ili 0.75% godišnje, u zavisnosti od toga šta je veće.
 - Nagrade za likvidnost: 1 STEEM po bloku ( nagrađeno kao 1200 STEEM-a po satu) ili 0.75% godišnje, u zavisnosti od toga šta je veće
 
-**Power Rewards:**
+**Nagrade za snagu glasa:**
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- Steem nagrade za snagu glasa: Za svaki STEEM kreiran od strane prethodno navedenih nagrada, 9 STEEM-a se deli između svih vlasnika SP.
 
-**SMD operations:**
+**SMD operacije:**
 
-- SMD rewards: A percentage of SMD value is created at an APR set by the witnesses and paid to SMD holders as SMD
-- Feed Rate following: The amount of STEEM for which the total SMD in existence can be redeemed will change based on changes in the price feed. This change is effectively destruction ("burning") of STEEM when the value of STEEM (as measured by the feed) is increasing, or creation of STEEM when the value of STEEM (as measured by the feed) is declining.
+- SMD nagrade: procenat SMD vrednosti se određuje prema godišnjoj procentnoj stopi koju su postavili vitnesi i plaća se onima koji poseduju SMD u vidu SMD
+- Stopa snabdevanja koja sledi: Količina STEEM-a za koju ukupna količina postojećih SMD može biti otkupljena će se menjati u zavisnosti od cene snabdevanja. This change is effectively destruction ("burning") of STEEM when the value of STEEM (as measured by the feed) is increasing, or creation of STEEM when the value of STEEM (as measured by the feed) is declining.
 
 The percentage constraints effectively ensure the incentives for rewards do not become meaninglessly small over time, which is intended to prevent the system from experiencing the "speed bump" in the growth pattern of many other blockchains, where an initial growth spurt fueled by high incentives for early participants is followed by prolonged stagnation as the continually falling incentives drop below the level necessary to induce newcomers to join.
 
