@@ -554,7 +554,7 @@ Kako bi se dostigle te preformanse, Steem je naučio lekcije posmatrajući LMAX 
 
 Prateći ova jednostavna pravila, Steem može da obradi 10,000 transakcija u sekundi bez većeg napora za optimizacijom.
 
-Čuvanje svega u memoriji je sada sve održivije uz pomoć skoro predstavljene Optane tehnologije iz Intel-a [^15]. Trebalo bi da je moguće za robni hardver da može da podrži svu poslovnu logiku vezanu za Steem u jednom thread-u, sa svim postovima iz memorije radi brzog indeksiranja. Čak i Google čuva svoj indeks celog interneta u RAM memoriji. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Čuvanje svega u memoriji je sada sve održivije uz pomoć skoro predstavljene Optane tehnologije iz Intel-a [^15]. Trebalo bi da je moguće za robni hardver da može da podrži svu poslovnu logiku vezanu za Steem u jednom thread-u, sa svim postovima iz memorije radi brzog indeksiranja. Čak i Google čuva svoj indeks celog interneta u RAM memoriji. Upotreba blokčejn tehnologije čini da kopiranje baze podataka bude samo trivijalna stvar, kako bi se sprečio gubitak podataka. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
 # Allocation & Supply
 
