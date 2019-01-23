@@ -544,7 +544,7 @@ Steem mreža je zasnovana na Graphene-u, istoj tehnologiji koju ima BitShares. G
 
 Steem može da se nosi sa većom bazom korisnika nego Reddit. U 2015. Reddit-ovih 8.7 miliona korisnika je ostavljalo u proseku 23 komentara po sekundi[^13], sa prosekom od 83 komentara godišnje po korisniku. Kreirano je 73 miliona vrhunskih postova, u proseku od 2 nova posta po sekundi. Kreirano je oko 7 milijardi glasova, prema prosečnoj stopi glasanja od 220 glasova po sekundi. Sve u svemu, ako bi Reddit funkcionisao na blokčejnu, bilo bi mu neophodno prosečno 250 transakcija po sekundi.
 
-Kako bi se dostigle te preformanse, Steem je naučio lekcije posmatrajući LMAX Exchange[^14], koja može da obradi 6 miliona transakcija po sekundi. Između svega naučenog se nalaze sledeće ključne tačke:
+Kako bi se dostigle te performanse, Steem je naučio lekcije posmatrajući LMAX Exchange[^14], koja može da obradi 6 miliona transakcija po sekundi. Između svega naučenog se nalaze sledeće ključne tačke:
 
 1. Čuvaj sve u memoriji.
 2. Drži srž poslovne logike u samo jednom thread-u.
