@@ -554,11 +554,11 @@ Kako bi se dostigle te preformanse, Steem je naučio lekcije posmatrajući LMAX 
 
 Prateći ova jednostavna pravila, Steem može da obradi 10,000 transakcija u sekundi bez većeg napora za optimizacijom.
 
-Čuvanje svega u memoriji je sada sve održivije uz pomoć skoro predstavljene Optane tehnologije iz Intel-a [^15]. Trebalo bi da je moguće za robni hardver da može da podrži svu poslovnu logiku vezanu za Steem u jednom thread-u, sa svim postovima iz memorije radi brzog indeksiranja. Čak i Google čuva svoj indeks celog interneta u RAM memoriji. Upotreba blokčejn tehnologije čini da kopiranje baze podataka bude samo trivijalna stvar, kako bi se sprečio gubitak podataka. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Čuvanje svega u memoriji je sada sve održivije uz pomoć skoro predstavljene Optane tehnologije iz Intel-a [^15]. Trebalo bi da je moguće za robni hardver da može da podrži svu poslovnu logiku vezanu za Steem u jednom thread-u, sa svim postovima iz memorije radi brzog indeksiranja. Čak i Google čuva svoj indeks celog interneta u RAM memoriji. Upotreba blokčejn tehnologije čini da kopiranje baze podataka bude samo trivijalna stvar, kako bi se sprečio gubitak podataka. Kada Optane tehnologija zaživi, RAM memorija će postati još brža, što će doprineti istrajnosti. Drugim rečima, Steem je dizajniran za arhitekture budućnosti i da omogući skaliranje.
 
-# Allocation & Supply
+# Dodela i snabdevanje
 
-The Steem network starts with a currency supply of 0 and allocates STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network starts rewarding users who convert to SP. At this point, STEEM grows at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Steem mreža započinje sa nultim zalihama valute i izdvaja STEEM putem proof of work-a prema stopi od približno 40 STEEM-a po minutu za majnere, sa dodatnih 40 STEEM-a koji se kreiraju zarad bazena nagrada za kuratore i autore (što je ukupno 80 STEEM-a po minutu). Then the network starts rewarding users who convert to SP. At this point, STEEM grows at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
 
 **Contribution Rewards:**
 
