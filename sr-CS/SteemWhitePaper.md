@@ -558,16 +558,16 @@ Prateći ova jednostavna pravila, Steem može da obradi 10,000 transakcija u sek
 
 # Dodela i snabdevanje
 
-Steem mreža započinje sa nultim zalihama valute i izdvaja STEEM putem proof of work-a prema stopi od približno 40 STEEM-a po minutu za majnere, sa dodatnih 40 STEEM-a koji se kreiraju zarad bazena nagrada za kuratore i autore (što je ukupno 80 STEEM-a po minutu). Then the network starts rewarding users who convert to SP. At this point, STEEM grows at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Steem mreža započinje sa nultim zalihama valute i izdvaja STEEM putem proof of work-a prema stopi od približno 40 STEEM-a po minutu za majnere, sa dodatnih 40 STEEM-a koji se kreiraju zarad bazena nagrada za kuratore i autore (što je ukupno 80 STEEM-a po minutu). Zatim mreža počinje da nagrađuje korisnike koji konvertuju svoje tokene u SP. U ovom trenutku, STEEM raste prema približnoj stopi od oko 800 STEEM-a po minutu zbog ukupnog efekta od strane različitih nagrada za doprinose.
 
-**Contribution Rewards:**
+**Nagrade za doprinose:**
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- Nagrade za kuratore: 1 STEEM po bloku ili 3.875% godišnje, zavisno od toga šta je veće
+- Nagrade za autore sadržaja: 1 STEEM po bloku ili 3.875% godišnje, zavisno od toga šta je veće
+- Nagrade za proizvodnju blokova: 1 STEEM po bloku ili 0.75% godišnje, zavisno od toga šta je veće
+- Nagrade za uključivanje POW-a pre 864,00 bloka: 1 STEEM po bloku (nagrađeno kao 21 STEEM po rundi)
+- Nagrade za uključivanje POW-a pre 864,00 bloka: 0.0467 STEEM-a po bloku (nagrađeno kao 1 STEEM po rundi) ili 0.75% godišnje, u zavisnosti od toga šta je veće.
+- Nagrade za likvidnost: 1 STEEM po bloku ( nagrađeno kao 1200 STEEM-a po satu) ili 0.75% godišnje, u zavisnosti od toga šta je veće
 
 **Power Rewards:**
 
