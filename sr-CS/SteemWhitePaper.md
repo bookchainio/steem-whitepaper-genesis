@@ -594,7 +594,7 @@ Proizvodnja novih STEEM-a kako bi se nagradili pojedini korisnici ili grupe ima 
 
 Od avgusta 2008. pa tokom januara 2009, količina novca u SAD0>17</a></sup> je porasla od $871B na $1,737B, stopom od 100% godišnje a zatim je nastavila da raste oko 20% godišnje sledećih 6 godina. Sve u svemu, količina novca u SAD je porasla 4.95 puta tokom manje od 7 godina. Tokom istog perioda, vrednost dolara u odnosu na dobra i usluge je pala manje od 10%, ako je verovati vladinom indeksu cena [^18]. Ovaj primer iz stvarnog života pokazuje da je količina samo jedna komponenta koja utiče na cenu.
 
-The price of a digital commodity, like STEEM, is driven by both supply and demand. If new STEEM is allocated to those who are holding long-term then the increase in supply is offset by the corresponding demand to hold. The impact of this change in supply is postponed until a future date when the long-term holder decides to sell. The sell pressure is then distributed over 2 years.
+Cena za digitalnu robu, kao što je STEEM, je određena i količinom zaliha i potražnjom. If new STEEM is allocated to those who are holding long-term then the increase in supply is offset by the corresponding demand to hold. The impact of this change in supply is postponed until a future date when the long-term holder decides to sell. The sell pressure is then distributed over 2 years.
 
 When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. We can therefore conclude that the price will mostly be impacted by a change in demand for holding STEEM long-term.
 
