@@ -608,7 +608,7 @@ Svrha likvidnih STEEM-a je da se olakšaju promene u vlasništvu između dugoro�
 
 Od prvog maja 2016., preko 98.49% svih STEEM tokena je konvertovano u SP. To pokazuje da dominira potražnja za dugoročnim čuvanjem tokena. U ovom okruženju, i likvidni STEEM-i i SP se redukuju kako bi se finansirale nagrade.
 
-For the first 2 years of Bitcoin's life the network sustained an annual inflation rate[^20] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. According to the tool for estimating future inflation included with the Steem source code, Steem by contrast will achieve an instantaneous annual rate of approximately 12% after just 1 year (not including the effects of SMD operations).
+U prve dve godine Bitkoinovog postojanja, mreža je pretrpela godišnju stopu inflacije[^20] od preko 100%. U prvih 5 godina je bila preko 30%, a u prvih 8 godina je bila preko 10%. According to the tool for estimating future inflation included with the Steem source code, Steem by contrast will achieve an instantaneous annual rate of approximately 12% after just 1 year (not including the effects of SMD operations).
 
 ### Accounting In Steem
 
