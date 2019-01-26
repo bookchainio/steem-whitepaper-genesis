@@ -620,7 +620,7 @@ U nameri kompenzacije zarad sve veće preciznosti, mreža izvršava 10:1 ''obrnu
 
 Sve greške zaokruživanja će biti u korist mreže. Svaki račun može da izgubi do 0.009 STEEM-a zbog zaokruživanja, ali ova količina bi trebala da bude ekonomski beznačajna. Kolektivno, svi koji drže SP bi izgubili najviše 0.009 STEEM-a.
 
-# The Power of Steem
+# Moć Steem-a
 
 Steem recognizes that the value of all user contributions (posts and votes) is greater than the sum of the parts. A single comment is worth next to nothing, but millions of curated posts is worth many millions (or possibly even billions) of dollars. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
 
