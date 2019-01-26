@@ -602,11 +602,11 @@ Od 100% godišnjeg povećanja u virtualnim zalihama STEEM-a, 5% toga je u formi 
 
 Sve u svemu, ukupan ''trošak'' koji Steem ima nagrađivanjem sadržaja, kuratorstva, majnovanja i likvidnosti je samo 10% godišnje procentne stope ili 1.2% mesečno. Sličan prenos novca bi mogao da bude implementiran bez ikakvih izmena u zalihama STEEM-a, postavljanjem negativne kamatne stope na likvidne STEEM-e od oko 10% mesečno. Drugim rečima, moglo bi da se naplaćuje 3% provizije (slično kreditnim karticama) za svaki transfer pri svakodnevnom transferu od 1% STEEM-a. Bitkoin mreža vrši transfer[^19] 400,000 BTC od 15.5M (iliti 2.5% dnevno).
 
-Svrha likvidnih STEEM-a je da se olakšaju promene u vlasništvu između dugoročnih vlasnika. To je upravo promena u vlasništvu koju mreža ''oporezuje'' kako bi se finansirao rast. Taj porez na prenos može da se izbegne skoro u potpunosti automatskim prodavanjem STEEM-a za SMD svake nedelje, pošto mreža konvertuje SP ponovo u STEEM-e. The total time spent holding STEEM will be so small that any impact of changing STEEM supply will be insigni cant next to volatility and other market fees.
+Svrha likvidnih STEEM-a je da se olakšaju promene u vlasništvu između dugoročnih vlasnika. To je upravo promena u vlasništvu koju mreža ''oporezuje'' kako bi se finansirao rast. Taj porez na prenos može da se izbegne skoro u potpunosti automatskim prodavanjem STEEM-a za SMD svake nedelje, pošto mreža konvertuje SP ponovo u STEEM-e. Ukupno vreme čuvanja STEEM-a će biti tako malo da sam efekat menjanja zaliha STEEM-a neće imati značajan uticaj na nepredvidivost i na tržišne troškove.
 
-### Impact of Token Creation Rate Greater than Ninety-Percent
+### Uticaj stope proizvodnje tokena koja je veća od 90%
 
-As of May 1, 2016, over 98.49% of all STEEM has been converted to SP. This demonstrates that demand to hold long term dominates. In this environment both liquid STEEM and SP are diluted to fund rewards.
+Od prvog maja 2016., preko 98.49% svih STEEM tokena je konvertovano u SP. To pokazuje da dominira potražnja za dugoročnim čuvanjem tokena. U ovom okruženju, i likvidni STEEM-i i SP se redukuju kako bi se finansirale nagrade.
 
 For the first 2 years of Bitcoin's life the network sustained an annual inflation rate[^20] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. According to the tool for estimating future inflation included with the Steem source code, Steem by contrast will achieve an instantaneous annual rate of approximately 12% after just 1 year (not including the effects of SMD operations).
 
