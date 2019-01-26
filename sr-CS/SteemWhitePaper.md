@@ -608,9 +608,9 @@ Svrha likvidnih STEEM-a je da se olakšaju promene u vlasništvu između dugoro�
 
 Od prvog maja 2016., preko 98.49% svih STEEM tokena je konvertovano u SP. To pokazuje da dominira potražnja za dugoročnim čuvanjem tokena. U ovom okruženju, i likvidni STEEM-i i SP se redukuju kako bi se finansirale nagrade.
 
-U prve dve godine Bitkoinovog postojanja, mreža je pretrpela godišnju stopu inflacije[^20] od preko 100%. U prvih 5 godina je bila preko 30%, a u prvih 8 godina je bila preko 10%. According to the tool for estimating future inflation included with the Steem source code, Steem by contrast will achieve an instantaneous annual rate of approximately 12% after just 1 year (not including the effects of SMD operations).
+U prve dve godine Bitkoinovog postojanja, mreža je pretrpela godišnju stopu inflacije[^20] od preko 100%. U prvih 5 godina je bila preko 30%, a u prvih 8 godina je bila preko 10%. Ako je verovati sistemu za procenjivanje buduće inflacije koji je implementiran u Steem-ov izvorni kod, Steem će postići trenutan godišnji rast od oko 12% nakon samo 1 godine (ne uključujući efekte SMD operacija).
 
-### Accounting In Steem
+### Računovodstvo na Steem-u
 
 The increase in the supply of STEEM is mostly an accounting artifact created by the desire to avoid charging negative interest rates on liquid STEEM. Negative interest rates would complicate the lives of exchanges which would have to adjust user balances to account for the negative rate of return of STEEM held on deposit. Mirroring the blockchain logic exactly would be error prone and complicate integration and adoption. Therefore, STEEM has chosen to never charge someone's account, but instead to increase supply. This achieves a similar economic result without forcing everyone accepting STEEM deposits to implement negative interest rates on their internal ledger.
 
