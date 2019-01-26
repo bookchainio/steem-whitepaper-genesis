@@ -616,9 +616,9 @@ Povećanje u zalihama STEEM-a je posao računovodstva, koji je stvoren željom d
 
 Sporedni efekat povećanja zaliha je taj da će mreža zahtevati povećanje nivoa preciznosti u svom računovodstvu. U proseku, broj bita koji je potreban da predstavi tipičan račun će narasti za 1.3 godišnje. Trebaće samo 10 godina pre nego što brojevi koji su u igri prestanu da odgovaraju 53-bitnoj preciznosti koju podržava JavaScript ili 64-bitnoj preciznosti koju podržavaju procesori. Tokom vremena opseg brojeva postaje veći od ljudskih mogućnosti skaliranja i razumevanja. Pored toga, bitovi najmanje važnosti imaju tako malu ekonomsku vrednost da je njihovo prikazivanje beznačajno.
 
-U nameri kompenzacije zarad sve veće preciznosti, mreža izvršava 10:1 ''obrnutu podelu'' (eng. reverse split) na svakih 32,000,000 blokova (oko 3 godine). U ovom trenutku, svi računi su podeljeni sa 10 i sve cene su pomnožene sa 10. Cryptocurrency exchanges will have to suspend trading around this time and update the account balances and price history to reflect the "reverse split" before resuming trading.
+U nameri kompenzacije zarad sve veće preciznosti, mreža izvršava 10:1 ''obrnutu podelu'' (eng. reverse split) na svakih 32,000,000 blokova (oko 3 godine). U ovom trenutku, svi računi su podeljeni sa 10 i sve cene su pomnožene sa 10. Menjačnice kriptovaluta će morati da zaustave trgovinu i da apdejtuju račune i istorijat cena kako bi odbile ''obrnutu podelu'' pre nego što se nastavi trgovina.
 
-All rounding errors will be in favor of the network. Every balance may lose up to 0.009 STEEM due to rounding, but this amount of STEEM should be economically insignificant. Collectively all holders of SP will lose at most 0.009 STEEM.
+Sve greške zaokruživanja će biti u korist mreže. Svaki račun može da izgubi do 0.009 STEEM-a zbog zaokruživanja, ali ova količina bi trebala da bude ekonomski beznačajna. Kolektivno, svi koji drže SP bi izgubili najviše 0.009 STEEM-a.
 
 # The Power of Steem
 
