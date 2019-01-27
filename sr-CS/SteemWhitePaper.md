@@ -628,11 +628,11 @@ Pošto svi profitiraju, svi bi trebalo da plate. Drugim rečima, nijedan korisni
 
 Kolektivno, Reddit-ovi korisnici glasaju 220 puta u sekundi i stvaraju 23 posta u sekundi. Reddit je procenjen između $500 miliona[^21] i $4 milijarde[^22], što znači da je svaki glas i post vredan između $0.06 i $0.5 pod pretpostavkom da je za vrednost Reddit-a uglavnom zaslužna aktivnost u toku prošle godine. Mogli bismo da se složimo da su diskusije u skoro realnom vremenu, u rasponu od nedelju dana, najveća vrednost Reddit-a koja drastično povećava vrednost novih aktivnosti. Ljudi idu tamo gde su ljudi danas, ne gde su bili prošle godine.
 
-## No Micropayments, Tips Optional
+## Bez mikro isplata, opcione napojnice
 
-Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Many services have attempted to introduce tipping. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content's ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
+Postojeći pokušaji da se kripto valute integrišu u društvenu mrežu, su se fokusirali na to da omoguće korisnicima da plate jedni druge. Mnoge usluge su pokušale da uvedu napojnice. Ideja je da ukoliko obezbedimo sistem napojnica da bude dovoljno jednostavan, više ljudi će da ih koristi. Ostali servisi su pokušali da obezbede ljudima da mogu da plate kako bi se promovisao njihov sadržaj ili podstaklo njegovo bolje rangiranje. Dok su neki pokušali da naprave tržište predikcija na osnovu toga koliko napojnica će neki članak da dobije.
 
-All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone's actions so everyone should pay or no one should pay, depending on how you look at it.
+Svi ovi pokušaji se svode na mikro isplate. Razlikuju se jedino po tome ko vrši mikro isplate. Svi oni pate od nedovoljne angažovanosti ljudi koji vrše mikro isplate. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone's actions so everyone should pay or no one should pay, depending on how you look at it.
 
 Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
 
