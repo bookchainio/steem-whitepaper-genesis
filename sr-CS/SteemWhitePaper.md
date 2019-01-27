@@ -626,7 +626,7 @@ Steem prepoznaje da je vrednost svih korisničkih doprinosa (postova i glasova) 
 
 Pošto svi profitiraju, svi bi trebalo da plate. Drugim rečima, nijedan korisnik ne bi trebalo da plati za nešto, već bi umesto toga trebalo da bude plaćen za sve što radi, a da doprinosi vrednosti Steem-a. Sve što treba da uradimo je da utvrdimo koji korisnički doprinosi donose vrednost društvenoj mreži i koji ne donose.
 
-Kolektivno, Reddit-ovi korisnici glasaju 220 puta u sekundi i stvaraju 23 posta u sekundi. Reddit je procenjen između $500 miliona[^21] i $4 milijarde[^22], što znači da je svaki glas i post vredan između $0.06 i $0.5 pod pretpostavkom da je za vrednost Reddit-a uglavnom zaslužna aktivnost u toku prošle godine. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
+Kolektivno, Reddit-ovi korisnici glasaju 220 puta u sekundi i stvaraju 23 posta u sekundi. Reddit je procenjen između $500 miliona[^21] i $4 milijarde[^22], što znači da je svaki glas i post vredan između $0.06 i $0.5 pod pretpostavkom da je za vrednost Reddit-a uglavnom zaslužna aktivnost u toku prošle godine. Mogli bismo da se složimo da su diskusije u skoro realnom vremenu, u rasponu od nedelju dana, najveća vrednost Reddit-a koja drastično povećava vrednost novih aktivnosti. Ljudi idu tamo gde su ljudi danas, ne gde su bili prošle godine.
 
 ## No Micropayments, Tips Optional
 
