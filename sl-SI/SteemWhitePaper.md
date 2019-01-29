@@ -517,9 +517,9 @@ Pri sistemu z omejevanjem števila glasov bi nekdo, ki bi imel v lasti 1% vseh �
 
 ### Najem proti nakupu proti časovnem zakupu
 
-When someone owns a house they expect the right to use the house for free. If a group of people buy a house together then each can expect the right to use the house proportional to their percentage ownership in the house. A fee based blockchain is like renting the house from its owners, whereas rate limiting is like a timeshare among owners.
+Ko kdo poseduje hišo, pričakuje, da bo imel pravico brezplačno živeti v njej. Če skupina ljudi skupaj kupi hišo, potem lahko vsak posameznik iz te skupine pričakuje, da bo imel pravico uporabljati hišo sorazmerno z deležem lastništva. Blockchain, ki temelji na pristojbinah, je podoben temu, da lastnik oddaja hišo v najem, medtem ko je sistem omejitve števila glasov podoben časovnemu zakupu.
 
-If a house is owned by multiple people then those individuals must decide how they wish to timeshare the house. Someone who owns 50% of the house but only uses it one weekend per year might expect to be paid by the individuals who take their unused time. This is the mindset of a fee based system.
+Če ima hišo v lasti več ljudi, potem se morajo ti odločiti, kako si jo bodo časovno delili. Tisti, ki ima v lasti 50% hiše, vendar jo uporablja samo en vikend na leto, utegne pričakovati, da bo prejel plačilo od posameznikov, ki izkoriščajo ta sicer neuporabljen čas. To je miselnost sistema, ki temelji na pristojbinah.
 
 On the other hand, someone who owns 50% of the house is speculating that demand for the house will increase in the future and they will be able to sell their stake for more. Any owner who owns more of a house than they use becomes a real estate speculator. With this mindset rather than collecting rent, they collect appreciation.
 
