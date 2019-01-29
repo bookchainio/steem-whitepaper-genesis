@@ -652,9 +652,9 @@ Internet bi izgubio veliki deo svoje vrednosti ako bi sve veze između sadržaja
 
 Veze su se tokom vremena prilagodile i mogu da imaju mnoge oblike. Svaki put kada korisnik glasa za neki sadržaj na društvenoj mreži, on uspostavlja vezu između sebe i sadržaja. To kao rezultat ima povezivanje korisnika sa autorom putem samog sadržaja. Što više veza ima neka mreža, toliko vrednije postaju informacije. Upravo je relativna i namerna povezanost informacija ono što ima vrednost.
 
-Društvena mreža može da poveća vrednost koja proizilazi iz skupa sadržaja povećavanjem kvantiteta i kvaliteta veza. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and link to new content.
+Društvena mreža može da poveća vrednost koja proizilazi iz skupa sadržaja povećavanjem kvantiteta i kvaliteta veza. Kuratorstvo sadržaja je skupo i zahteva vreme, dok je skoro nemoguće da kompjuteri to obavljaju bez prisustva povezanosti. Steem nagrađuje korisnike koji su među prvima koji su pronašli neki sadržaj i povezali se s njim.
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+Podsticanjem kuratorstva, Steem mreža može da koristi automatske algoritme da izdvoji najvrednije informacije iz ogromne količine sadržaja.
 
 ## Solving the Cryptocurrency Onboarding Problem
 
