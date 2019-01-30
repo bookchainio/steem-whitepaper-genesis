@@ -682,7 +682,7 @@ Sloboda govora je osnova svih ostalih sloboda i bilo koja povreda prava na slobo
 
 ## Rešavanje organskog otkrivanja pomoću optimizacije pretraživača
 
-Većina kriptovaluta stvara malu vrednost za one koji ne koriste aktivno mrežu. Steem, nasuprot tome, stvara sadržaj i ohrabruje korrisnike da ga dele. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+Većina kriptovaluta stvara malu vrednost za one koji ne koriste aktivno mrežu. Steem, nasuprot tome, stvara sadržaj i ohrabruje korisnike da ga dele. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
 
 ## Shifting Toward Blockchain-based Attribution
 
