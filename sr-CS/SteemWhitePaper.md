@@ -662,9 +662,9 @@ Nije lako ući u svet kriptovaluta [^24]. Neko ko otkrije Bitkoin i poželi da g
 
 Steem rešava ovaj problem, omogućavajući svima da budu plaćeni za odrađivanje jednostavnih ali vrednih zadataka. To pomaže široj distribuciji STEEM tokena. Ovo je od pomoći jer kriptovalute imaju efekat umrežavanja (npr. više korisnika čini valutu korisnijom; kao ekstraman primer, zamislite da je Satoshi zadržao 100% Bitkoina za sebe - Bitkon bi bio bezvredan).
 
-## Solving the Cryptocurrency Liquidation Problem
+## Rešavanje problema likvidnosti kriptovaluta
 
-A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Valuta koju je teško koristiti ili nemoguće prodati ima malu vrednost. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
 
 Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
 
