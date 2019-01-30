@@ -666,9 +666,9 @@ Steem rešava ovaj problem, omogućavajući svima da budu plaćeni za odrađivan
 
 Valuta koju je teško koristiti ili nemoguće prodati ima malu vrednost. Neko ko dođe u posed Bitkoina vreednosti $1.00 će ubrzo shvatiti da košta daleko više od $1.00 da se proda taj Bitkoin. Morao bi da napravi nalog na menjačnici, odradi KYC validaciju i plati troškove. Male količine kriptovaluta su kao mali novčići na ulici za koje ljudi ne žele da se sagnu i pokupe ih.
 
-Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+Trgovci pružaju korisnicima način da brzo konvertuju svoje kriptovalute u materijalna dobra i usluge. Trgovcima je potrebna valuta koja je povezana sa valutom na njihovom računu, obično dolarima. Prihvatanje nestabilne valute vodi do značajnih računovodstvenih troškova.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SMD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Trgovci će da prihvate svaku valutu ako ona povećava njihovu prodaju. Having a large user base with a stable currency such as SMD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
 
 Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through tipping others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
 
