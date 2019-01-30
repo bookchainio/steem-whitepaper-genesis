@@ -676,9 +676,9 @@ Još jedan način na koji ljudi mogu da povećaju likvidnost malih količina kri
 
 Steem je decentralizovana mreža koju vode majneri širom sveta. Sve korisničke akcije su javno zabeležene na blokčejnu i mogu biti javno potvrđene. To znači da ne postoji jedinstven entitet koji može da cenzuriše sadržaj koji ima vrednost za one koji imaju STEEM token.
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+Individualni sajtovi kao što je steemit.com mogu da cenzurišu sadržaj na isključivo svom sajtu, ali sadržaj koji je objavljen na blokčejnu je suštinski i dalje tu i internet saobraćaj širom sveta može i dalje da ga čini dostupnim.
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+Sloboda govora je osnova svih ostalih sloboda i bilo koja povreda prava na slobodu govora urušava jedini miran put dostizanja konsenzusa - diskusiju. Bez slobodne diskusije, glasači ne mogu da budu u potpunosti informisani, a neinformisani glasači su veća pretnja po društvo nego gubitak prava glasa. Cenzura je sredstvo za krađu glasova putem ograničavanja javne rasprave. Steem is committed to enabling free speech and building a free society.
 
 ## Solving Organic Discovery via Search Engine Optimization
 
