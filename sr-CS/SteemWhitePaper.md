@@ -678,11 +678,11 @@ Steem je decentralizovana mreža koju vode majneri širom sveta. Sve korisničke
 
 Individualni sajtovi kao što je steemit.com mogu da cenzurišu sadržaj na isključivo svom sajtu, ali sadržaj koji je objavljen na blokčejnu je suštinski i dalje tu i internet saobraćaj širom sveta može i dalje da ga čini dostupnim.
 
-Sloboda govora je osnova svih ostalih sloboda i bilo koja povreda prava na slobodu govora urušava jedini miran put dostizanja konsenzusa - diskusiju. Bez slobodne diskusije, glasači ne mogu da budu u potpunosti informisani, a neinformisani glasači su veća pretnja po društvo nego gubitak prava glasa. Cenzura je sredstvo za krađu glasova putem ograničavanja javne rasprave. Steem is committed to enabling free speech and building a free society.
+Sloboda govora je osnova svih ostalih sloboda i bilo koja povreda prava na slobodu govora urušava jedini miran put dostizanja konsenzusa - diskusiju. Bez slobodne diskusije, glasači ne mogu da budu u potpunosti informisani, a neinformisani glasači su veća pretnja po društvo nego gubitak prava glasa. Cenzura je sredstvo za krađu glasova putem ograničavanja javne rasprave. Steem je obavezan da omogući slobodan govor i izgradi slobodno društvo.
 
-## Solving Organic Discovery via Search Engine Optimization
+## Rešavanje organskog otkrivanja pomoću optimizacije pretraživača
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+Većina kriptovaluta stvara malu vrednost za one koji ne koriste aktivno mrežu. Steem, nasuprot tome, stvara sadržaj i ohrabruje korrisnike da ga dele. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
 
 ## Shifting Toward Blockchain-based Attribution
 
