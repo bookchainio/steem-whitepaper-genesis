@@ -672,9 +672,9 @@ Trgovci će da prihvate svaku valutu ako ona povećava njihovu prodaju. Posedova
 
 Još jedan način na koji ljudi mogu da povećaju likvidnost malih količina kriptovaluta, koje dobijaju na Steem platformi, je davanjem napojnica drugima. To je slično ostavljanju sitnog kusura konobaru u vidu bakšiša. Kada dovoljno ljudi ostavi male napojnice, to prerasta u značajnu količinu. I Vi i konobar imate koristi od te napojnice.
 
-## Censorship
+## Cenzura
 
-Steem is a decentralized network that is operated by miners in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem je decentralizovana mreža koju vode majneri širom sveta. Sve korisničke akcije su javno zabeležene na blokčejnu i mogu biti javno potvrđene. To znači da ne postoji jedinstven entitet koji može da cenzuriše sadržaj koji ima vrednost za one koji imaju STEEM token.
 
 Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
 
