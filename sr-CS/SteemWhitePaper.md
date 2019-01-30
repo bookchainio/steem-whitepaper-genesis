@@ -642,7 +642,7 @@ Mentalna energija povezana sa ekonomskim odlučivanjem postaje prepreka za uče�
 > 
 > *- Mikro isplate: Održivi poslovni model [^23]*
 
-U okviru Steem-a, mikro isplate se vrše autorima sadržaja, dok oni koji glsaju za sadržaj ništa ne plaćaju. Umesto toga, troškovi nagrade su plaćeni novim tokenima. Neko može da se pridruži sistemu i glasa kako bi platio nekoga, a zatim da napusti sistem sa više novca nego što je imao kada je ušao (pod pretpostavkom da je cena Steem sistema na tržištu ostala ista). Drugim rečima, rešenje sa mikro isplatama koje je stvorio Steem obezbeđuje korisnički doživljaj sličan mnogim veb sajtovima koji imaju široku upotrebu i čiji je sadržaj kontrolisan od strane korisnika.
+U okviru Steem-a, mikro isplate se vrše autorima sadržaja, dok oni koji glasaju za sadržaj ništa ne plaćaju. Umesto toga, troškovi nagrade su plaćeni novim tokenima. Neko može da se pridruži sistemu i glasa kako bi platio nekoga, a zatim da napusti sistem sa više novca nego što je imao kada je ušao (pod pretpostavkom da je cena Steem sistema na tržištu ostala ista). Drugim rečima, rešenje sa mikro isplatama koje je stvorio Steem obezbeđuje korisnički doživljaj sličan mnogim veb sajtovima koji imaju široku upotrebu i čiji je sadržaj kontrolisan od strane korisnika.
 
 Pored toga, Steem plaća ljudima da odluče o tome ko bi trebalo da bude nagrađen! Ovakav način razmišljanja je revolucionaran.
 
@@ -658,19 +658,19 @@ Podsticanjem kuratorstva, Steem mreža može da koristi automatske algoritme da 
 
 ## Rešavanje problema ulaska u svet kriptovaluta
 
-Nije lako ući u svet kriptovaluta [^24]. Neko ko otkrije Bitkoin i poželi da ga isproba, brzo shvata da mora da napravi nalog na menjačnici i da poveže sa svojom kreditnom karticom i doznakama. Kolika bi bila stopa prihvatanja Facebook-a ako bi postojala dva stepena identifikacije
+Nije lako ući u svet kriptovaluta [^24]. Neko ko otkrije Bitkoin i poželi da ga isproba, brzo shvata da mora da napravi nalog na menjačnici i da poveže sa svojom kreditnom karticom i doznakama. Kolika bi bila stopa prihvatanja Facebook-a ako bi postojala dva stepena identifikacije?
 
 Steem rešava ovaj problem, omogućavajući svima da budu plaćeni za odrađivanje jednostavnih ali vrednih zadataka. To pomaže široj distribuciji STEEM tokena. Ovo je od pomoći jer kriptovalute imaju efekat umrežavanja (npr. više korisnika čini valutu korisnijom; kao ekstraman primer, zamislite da je Satoshi zadržao 100% Bitkoina za sebe - Bitkon bi bio bezvredan).
 
 ## Rešavanje problema likvidnosti kriptovaluta
 
-Valuta koju je teško koristiti ili nemoguće prodati ima malu vrednost. Neko ko dođe u posed Bitkoina vreednosti $1.00 će ubrzo shvatiti da košta daleko više od $1.00 da se proda taj Bitkoin. Morao bi da napravi nalog na menjačnici, odradi KYC validaciju i plati troškove. Male količine kriptovaluta su kao mali novčići na ulici za koje ljudi ne žele da se sagnu i pokupe ih.
+Valuta koju je teško koristiti ili nemoguće prodati ima malu vrednost. Neko ko dođe u posed Bitkoina vrednosti od $1.00 će ubrzo shvatiti da je potrebno daleko više od $1.00 da se proda taj Bitkoin. Morao bi da napravi nalog na menjačnici, odradi KYC validaciju i plati troškove. Male količine kriptovaluta su kao mali novčići na ulici za koje ljudi ne žele da se sagnu i pokupe ih.
 
 Trgovci pružaju korisnicima način da brzo konvertuju svoje kriptovalute u materijalna dobra i usluge. Trgovcima je potrebna valuta koja je povezana sa valutom na njihovom računu, obično dolarima. Prihvatanje nestabilne valute vodi do značajnih računovodstvenih troškova.
 
 Trgovci će da prihvate svaku valutu ako ona povećava njihovu prodaju. Posedovanje velike korisničke baze sa stabilnom valutom kao što je SMD, umanjuje prepreku za trgovce na ulazu u ovaj svet kripto valuta. Prisustvo trgovaca poboljšava sistem, kreiranjem mogućnosti da korisnici napuste sistem bez problema sa korišćenjem menjačnice.
 
-Još jedan način na koji ljudi mogu da povećaju likvidnost malih količina kriptovaluta, koje dobijaju na Steem platformi, je davanjem napojnica drugima. To je slično ostavljanju sitnog kusura konobaru u vidu bakšiša. Kada dovoljno ljudi ostavi male napojnice, to prerasta u značajnu količinu. I Vi i konobar imate koristi od te napojnice.
+Još jedan način na koji ljudi mogu da povećaju likvidnost malih količina kriptovaluta, koje dobijaju na Steem platformi, je davanje napojnica drugima. To je slično ostavljanju sitnog kusura konobaru u vidu bakšiša. Kada dovoljno ljudi ostavi male napojnice, to prerasta u značajnu količinu. I Vi i konobar imate koristi od te napojnice.
 
 ## Cenzura
 
@@ -684,9 +684,9 @@ Sloboda govora je osnova svih ostalih sloboda i bilo koja povreda prava na slobo
 
 Većina kriptovaluta stvara malu vrednost za one koji ne koriste aktivno mrežu. Steem, nasuprot tome, stvara sadržaj i ohrabruje korisnike da ga dele. Taj sadržaj se indeksira od strane pretraživača i na kraju će doneti vrednost do velikog broja pasivnih glasača. Ta pretraga saobraćaja stvara organski advertajzing za Steem i širi efekat mreže.
 
-## Shifting Toward Blockchain-based Attribution
+## Pomeranje ka dodeli zasnovanoj na blokčejnu
 
-The internet represents the easiest medium for distributing information in the world. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
+Internet predstavlja najlakši medijum za distribuiranje informacija u svetu. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
 
 Under blockchain-based social media, a creator or author would always be able to point to a public record and timestamp showing proof of their content origination. In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
 
