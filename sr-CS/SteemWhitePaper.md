@@ -668,9 +668,9 @@ Valuta koju je teško koristiti ili nemoguće prodati ima malu vrednost. Neko ko
 
 Trgovci pružaju korisnicima način da brzo konvertuju svoje kriptovalute u materijalna dobra i usluge. Trgovcima je potrebna valuta koja je povezana sa valutom na njihovom računu, obično dolarima. Prihvatanje nestabilne valute vodi do značajnih računovodstvenih troškova.
 
-Trgovci će da prihvate svaku valutu ako ona povećava njihovu prodaju. Having a large user base with a stable currency such as SMD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Trgovci će da prihvate svaku valutu ako ona povećava njihovu prodaju. Posedovanje velike korisničke baze sa stabilnom valutom kao što je SMD, umanjuje prepreku za trgovce na ulazu u ovaj svet kripto valuta. Prisustvo trgovaca poboljšava sistem, kreiranjem mogućnosti da korisnici napuste sistem bez problema sa korišćenjem menjačnice.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through tipping others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+Još jedan način na koji ljudi mogu da povećaju likvidnost malih količina kriptovaluta, koje dobijaju na Steem platformi, je davanjem napojnica drugima. To je slično ostavljanju sitnog kusura konobaru u vidu bakšiša. Kada dovoljno ljudi ostavi male napojnice, to prerasta u značajnu količinu. I Vi i konobar imate koristi od te napojnice.
 
 ## Censorship
 
