@@ -664,7 +664,7 @@ Steem rešava ovaj problem, omogućavajući svima da budu plaćeni za odrađivan
 
 ## Rešavanje problema likvidnosti kriptovaluta
 
-Valuta koju je teško koristiti ili nemoguće prodati ima malu vrednost. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
+Valuta koju je teško koristiti ili nemoguće prodati ima malu vrednost. Neko ko dođe u posed Bitkoina vreednosti $1.00 će ubrzo shvatiti da košta daleko više od $1.00 da se proda taj Bitkoin. Morao bi da napravi nalog na menjačnici, odradi KYC validaciju i plati troškove. Male količine kriptovaluta su kao mali novčići na ulici za koje ljudi ne žele da se sagnu i pokupe ih.
 
 Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
 
