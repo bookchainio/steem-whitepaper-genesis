@@ -660,7 +660,7 @@ Podsticanjem kuratorstva, Steem mreža može da koristi automatske algoritme da 
 
 Nije lako ući u svet kriptovaluta [^24]. Neko ko otkrije Bitkoin i poželi da ga isproba, brzo shvata da mora da napravi nalog na menjačnici i da poveže sa svojom kreditnom karticom i doznakama. Kolika bi bila stopa prihvatanja Facebook-a ako bi postojala dva stepena identifikacije?
 
-Steem rešava ovaj problem, omogućavajući svima da budu plaćeni za odrađivanje jednostavnih ali vrednih zadataka. To pomaže široj distribuciji STEEM tokena. Ovo je od pomoći jer kriptovalute imaju efekat umrežavanja (npr. više korisnika čini valutu korisnijom; kao ekstraman primer, zamislite da je Satoshi zadržao 100% Bitkoina za sebe - Bitkon bi bio bezvredan).
+Steem rešava ovaj problem, omogućavajući svima da budu plaćeni za odrađivanje jednostavnih ali vrednih zadataka. To pomaže široj distribuciji STEEM tokena. Ovo je od pomoći jer kriptovalute imaju efekat umrežavanja (npr. više korisnika čini valutu korisnijom; kao ekstreman primer, zamislite da je Satoshi zadržao 100% Bitkoina za sebe - Bitkon bi bio bezvredan).
 
 ## Rešavanje problema likvidnosti kriptovaluta
 
