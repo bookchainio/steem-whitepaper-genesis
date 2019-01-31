@@ -692,17 +692,17 @@ U okviru društvenih mreža koje su zasnovane na blokčejnu, autor je uvek u mog
 
 Dok usluga pamćenja vremena može da se izvede na svakom blokčejnu i dok nekoliko pokušaja već postoji da se tako nešto napravi na Bitkoin mreži, Steem ima korisnu prednost u ovoj oblasti, jer su autori sadržaja ''građani prvog reda'' - Steem blokčejn je pravljen od početka sa akcentom na publikaciju sadržaja, što omogućava autorima da koriste blokčejn zarad validacije svog rada u određenom vremenskom trenutku, jednostavno objavljujući svoj post korišćenjem istih autorskih alata kao i ostali Steem korisnici.
 
-## Zamena reklamiranja nagradama za sadržaj zasnovan na blokčejnu
+## Zamena reklamiranja nagradama za sadržaj na blokčejnu
 
 U okviru mnogih modela monetizacije sadržaja, autori koriste reklamiranje u nekoj određenoj formi. Mnogi autori shvataju da reklamiranje može umanjiti vrednost njihovog rada kod publike, ali ipak često traže neku vrstu nadoknade za svoje uloženo vreme. Reklamiranje predstavlja mač sa dve oštrice: reklamama autori mogu lako da zarade novac. Bez reklama je monetizacija teška, ali je sadržaj bogatiji.
 
-Autori koji postavljaju na društvenim mrežama koje se povezane sa Steem-om mogu da monetizuju svoj rad jednostavno, ako su prepoznati od strane Steem zajednice. Isplate zasnovane na blokčejnu su u potpunosti digitalne i nemaju posrednike. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
+Autori koji postavljaju na društvenim mrežama koje su povezane sa Steem-om, mogu da monetizuju svoj rad jednostavno, ako su prepoznati od strane Steem zajednice. Isplate zasnovane na blokčejnu su u potpunosti digitalne i nemaju posrednike. Samim tim, monetizacija nagrada za sadržaj na blokčejnu bi trebalo da bude brža i pristupačnija nego monetizacija pomoću reklamiranja.
 
-# Conclusion
+# Zaključak
 
-Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards will have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem will have more exclusive earning powers than those who do not.
+Steem je eksperiment osmišljen tako da ukaže na izazove u svetu kriptovaluta i industrije društvenih mreža, kombinovanjem onog najboljeg iz oba sveta. Steem predstavlja mogućnost zarađivanja za autore i publiku, na načine koji do sada nisu postojali u industriji društvenih mreža. U okviru Steem-a, pojedinci mogu da dobiju prave nagrade koje su direktno povezane sa njihovim doprinosima. Te nagrade će imati dolarsku vrednost zbog tržišne cene i likvidnosti STEEM-a, a ljudi koji poseduju STEEM tokene će imati više posebnih mogućnosti da zarade.
 
-# References
+# Reference
 
 [^1]: Reddit's Cryptocurrency, Forbes, Erika Morphy, October 2014, <http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/#4e07b05332b9>
 
