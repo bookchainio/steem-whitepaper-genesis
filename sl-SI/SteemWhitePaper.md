@@ -531,9 +531,9 @@ Iz tega lahko sklenemo, da se blockchain najbolje izkoristi, če se sploh ne upo
 
 Povedano drugače, transakcijska pristojbina bi morala biti enaka minimalnemu stanju računa, ki je potreben za to, da se opravi ena transakcija na teden, in bi na koncu tedna morala biti povrnjena. Predpostavimo, da je minimalni znesek računa 1 USD in da to zadostuje za eno transakcijo na teden. Če nekdo, ki ima na računu 1 USD, želi opraviti 5 transakcij naenkrat, bo moral povečati svoje stanje na 5 USD za teden, bodisi pred svojimi transakcijami ali po njih.
 
-V teoriji bi lahko nastal trg, na katerem bi si lahko uporabniki sposodili želeni delež. V praksi pa je za uporabnike bolj učinkovito, da preprosto kupijo in prodajo deleže časovnega zakupa, ki ustrezajo njihovi količini uporabe. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+V teoriji bi lahko nastal trg, na katerem bi si lahko uporabniki sposodili želeni delež. V praksi pa je za uporabnike bolj učinkovito, da preprosto kupijo in prodajo deleže časovnega zakupa, ki ustrezajo njihovi količini uporabe. Z drugimi besedami, strošek pogajanja za mikroposojila je višji od stroška ohranjanja stanja, primernega vaši maksimalni tedenski uporabi.
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+Decentralizirano omejevanje količine transakcij lahko omogoči nove vrste decentraliziranih aplikacij, ki niso bile mogoče, ko je vsaka uporaba aplikacije zahtevala mikroplačilo. Ta novi model razvijalcem aplikacij omogoča, da se odločijo, če in kdaj zaračunati svojim uporabnikom za opravljanje transakcij.
 
 # Performance and Scalability
 
