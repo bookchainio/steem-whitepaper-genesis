@@ -4,11 +4,11 @@
 
 مارس 2016
 
-# Translator's notes
+# نظرات مترجم
 
-Placeholder for translator's notes.
+محل ثبت نظرات مترجم.
 
-# چکیده
+# خلاصه
 
 Steem یک پایگاه داده ای زنجیرهٔ بلوکی است که با ارائه ی رمز ارزی از ایجاد اجتماع و تعامل اجتماعی پشتیبانی می کند. Steem مفاهیم رسانه های اجتماعی را با درسهایی که از ساختن رمزارزی و جوامع آنها بدست میاید ترکیب میکند.  یک راه مهم برای افزایش مشارکت درهر اجتماع، ارز یا اقتصاد بازارآزاد، یک سیستم حسابداری منصفانه است که به طور مداوم سهم هر فرد را نشان می دهد. Steem is the first cryptocurrency that attempts to accurately and transparently reward an unbounded number of individuals who make *subjective contributions* to its community.
 
