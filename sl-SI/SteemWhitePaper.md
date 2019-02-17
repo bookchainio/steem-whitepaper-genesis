@@ -541,11 +541,11 @@ Steem omrežje je zgrajeno na tehnologiji Graphene, isti tehnologiji, na kateri 
 
 ## Obseg Reddita 
 
-Steem je sposoben podpirati večje število uporabnikov kakor Reddit. Leta 2015 je 8,7 milijona uporabnikov na Redditu objavljalo povprečno 23 komentarjev na sekundo[^13], kar je pomenilo povprečno 83 komentarjev letno na uporabnika. Objavljenih je bilo 73 milijonov glavnih objav, kar znaša povprečno 2 novi objavi na sekundo. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steem je sposoben podpirati večje število uporabnikov kakor Reddit. Leta 2015 je 8,7 milijona uporabnikov na Redditu objavljalo povprečno 23 komentarjev na sekundo[^13], kar je pomenilo povprečno 83 komentarjev letno na uporabnika. Objavljenih je bilo 73 milijonov glavnih objav, kar znaša povprečno 2 novi objavi na sekundo. Opravljenih je bilo približno 7 milijard glasovanj, kar je v povprečju znašalo 220 glasov na sekundo. Če bi Reddit deloval na blockchainu, bi bilo po ocenah potrebnih približno 250 transakcij na sekundo.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^14], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+Steem se je, da bi bil prav tako izjemno učinkovit, ogromno naučil iz izkušenj, pridobljenih s trgovalno platformo LMAX[^14], ki je zmožna opraviti 6 milijonov transakcij na sekundo. Med pridobljenim znanjem so naslednje ključne točke:
 
-1. Keep everything in memory.
+1. Vse je potrebno ohranjati v spominu.
 2. Keep the core business logic in a single thread.
 3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
 4. Divide validation into state-dependent and state-independent checks.
