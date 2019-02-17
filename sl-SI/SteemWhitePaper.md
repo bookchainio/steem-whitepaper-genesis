@@ -545,13 +545,13 @@ Steem je sposoben podpirati večje število uporabnikov kakor Reddit. Leta 2015 
 
 Steem se je, da bi bil prav tako izjemno učinkovit, ogromno naučil iz izkušenj, pridobljenih s trgovalno platformo LMAX[^14], ki je zmožna opraviti 6 milijonov transakcij na sekundo. Med pridobljenim znanjem so naslednje ključne točke:
 
-1. Vse je potrebno ohranjati v spominu.
-2. Keep the core business logic in a single thread.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
-4. Divide validation into state-dependent and state-independent checks.
-5. Use an object oriented data model.
+1. Vse ohranjaj v spominu.
+2. Jedro poslovne logike ohranjaj v eni sami niti.
+3. Šifrirne operacije (razpršitve in podpise) ohranjaj zunaj jedra poslovne logike.
+4. Razdeli preverjanja veljavnosti v preverjanja, ki so odvisna od stanja, in v preverjanja, ki niso odvisna od stanja.
+5. Uporabi objektni podatkovni model.
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+Steem je z upoštevanjem teh preprostih pravil zmožen opraviti 10.000 transakcij na sekundo brez kakršnega koli večjega truda, ki bi bil potreben za optimizacijo.
 
 Keeping everything in memory is increasingly viable given the recent introduction of Optanetechnology from Intel [^15]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
