@@ -553,7 +553,7 @@ Steem se je, da bi bil prav tako izjemno učinkovit, ogromno naučil iz izkušen
 
 Steem je z upoštevanjem teh preprostih pravil zmožen opraviti 10.000 transakcij na sekundo brez kakršnega koli večjega truda, ki bi bil potreben za optimizacijo.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optanetechnology from Intel [^15]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Intel je nedavno predstavil tehnologijo Optane[^15], zaradi česar je čedalje bolj enostavno ohranjati vse v spominu. Cenovno dostopna strojna oprema bi morala biti zmožna opravljati vso poslovno logiko, povezano s Steemom, v eni sami niti, medtem ko so vse objave shranjene v spominu za hitro indeksiranje. Celo Google ohranja svoj indeks celotnega interneta v RAM-u. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
 # Allocation & Supply
 
