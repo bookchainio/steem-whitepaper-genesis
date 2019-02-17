@@ -557,13 +557,13 @@ Intel je nedavno predstavil tehnologijo Optane[^15], zaradi česar je čedalje b
 
 # Razdelitev in zaloga
 
-The Steem network starts with a currency supply of 0 and allocates STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network starts rewarding users who convert to SP. At this point, STEEM grows at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Začetna zaloga valute v Steem omrežju je enaka 0, STEEM pa se razdeli rudarjem z dokazilom o delu po stopnji približno 40 STEEM-ov na minuto, pri čemer se ustvari dodatnih 40 STEEM-ov na minuto za potrebe nagradnega bazena za objave in kuriranje (torej se skupaj ustvari 80 STEEM-ov na minuto). Zatem omrežje začne nagrajevati uporabnike, ki spremenijo STEEM v SP. Trenutno STEEM raste po stopnji približno 800 STEEM-ov na minuto zaradi skupnih učinkov različnih nagrad za prispevke, kot je povzeto spodaj:
 
-**Contribution Rewards:**
+**Nagrade za prispevke:**
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
+- Nagrade za kuriranje: 1 STEEM na blok ali 3,875% na leto, kar znaša več
+- Nagrade za ustvarjanje vsebine: 1 STEEM na blok ali 3,875% na leto, kar znaša več
+- Nagrade za izdelavo blokov: 1 STEEM na blok ali 0,750% na leto, kar znaša več
 - POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
 - POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
 - Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
