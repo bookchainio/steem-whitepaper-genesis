@@ -535,9 +535,9 @@ V teoriji bi lahko nastal trg, na katerem bi si lahko uporabniki sposodili žele
 
 Decentralizirano omejevanje količine transakcij lahko omogoči nove vrste decentraliziranih aplikacij, ki niso bile mogoče, ko je vsaka uporaba aplikacije zahtevala mikroplačilo. Ta novi model razvijalcem aplikacij omogoča, da se odločijo, če in kdaj zaračunati svojim uporabnikom za opravljanje transakcij.
 
-# Performance and Scalability
+# Učinkovitost in razširljivost
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+Steem omrežje je zgrajeno na tehnologiji Graphene, isti tehnologiji, na kateri temelji BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
 
 ## Reddit Scale
 
