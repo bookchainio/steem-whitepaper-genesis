@@ -575,7 +575,7 @@ Začetna zaloga valute v Steem omrežju je enaka 0, STEEM pa se razdeli rudarjem
 **SMD operacije:**
 
 - SMD nagrade: Odstotek SMD vrednosti se ustvari glede na APR, ki ga nastavijo priče, in se lastnikom SMD izplača v SMD-jih
-- Feed Rate following: The amount of STEEM for which the total SMD in existence can be redeemed will change based on changes in the price feed. This change is effectively destruction ("burning") of STEEM when the value of STEEM (as measured by the feed) is increasing, or creation of STEEM when the value of STEEM (as measured by the feed) is declining.
+- Stopnja virov: Količina STEEM-a, za katerega se lahko zamenjajo vsi SMD-ji, kar jih obstaja, se bo spreminjala glede na spremembe v viru cene. Ta sprememba pravzaprav pomeni uničenje STEEM-a, kadar vrednost STEEM-a (merjena glede na vir) raste, oziroma ustvarjanje STEEM-a, kadar vrednost STEEM-a (merjena glede na vir) pada.
 
 The percentage constraints effectively ensure the incentives for rewards do not become meaninglessly small over time, which is intended to prevent the system from experiencing the "speed bump" in the growth pattern of many other blockchains, where an initial growth spurt fueled by high incentives for early participants is followed by prolonged stagnation as the continually falling incentives drop below the level necessary to induce newcomers to join.
 
