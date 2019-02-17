@@ -553,9 +553,9 @@ Steem se je, da bi bil prav tako izjemno učinkovit, ogromno naučil iz izkušen
 
 Steem je z upoštevanjem teh preprostih pravil zmožen opraviti 10.000 transakcij na sekundo brez kakršnega koli večjega truda, ki bi bil potreben za optimizacijo.
 
-Intel je nedavno predstavil tehnologijo Optane[^15], zaradi česar je čedalje bolj enostavno ohranjati vse v spominu. Cenovno dostopna strojna oprema bi morala biti zmožna opravljati vso poslovno logiko, povezano s Steemom, v eni sami niti, medtem ko so vse objave shranjene v spominu za hitro indeksiranje. Celo Google ohranja svoj indeks celotnega interneta v RAM-u. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Intel je nedavno predstavil tehnologijo Optane[^15], zaradi česar je čedalje bolj enostavno ohranjati vse v spominu. Cenovno dostopna strojna oprema bi morala biti zmožna opravljati vso poslovno logiko, povezano s Steemom, v eni sami niti, medtem ko so vse objave shranjene v spominu za hitro indeksiranje. Celo Google ohranja svoj indeks celotnega interneta v RAM-u. Z uporabo blockchain tehnologije je zelo enostavno replicirati podatkovno bazo na mnoge računalnike, da ne bi prišlo do izgube podatkov. Z napredkom tehnologije Optane bo RAM postajal še hitrejši in še bolj obstojen. Z drugimi besedami, Steem je zasnovan, da izkoristi vse prihodnje izboljšave, in z razširljivostjo v mislih.
 
-# Allocation & Supply
+# Razdelitev in zaloga
 
 The Steem network starts with a currency supply of 0 and allocates STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network starts rewarding users who convert to SP. At this point, STEEM grows at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
 
