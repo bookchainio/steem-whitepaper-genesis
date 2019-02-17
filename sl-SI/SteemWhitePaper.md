@@ -564,17 +564,17 @@ Začetna zaloga valute v Steem omrežju je enaka 0, STEEM pa se razdeli rudarjem
 - Nagrade za kuriranje: 1 STEEM na blok ali 3,875% na leto, kar znaša več
 - Nagrade za ustvarjanje vsebine: 1 STEEM na blok ali 3,875% na leto, kar znaša več
 - Nagrade za izdelavo blokov: 1 STEEM na blok ali 0,750% na leto, kar znaša več
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- POW vključitvene nagrade pred blokom 864.000: 1 STEEM na blok (nagrada znaša 21 STEEM-ov na krog)
+- POW vključitvene nagrade po bloku 864.000: 0,0476 STEEM-ov na blok (nagrada znaša 1 STEEM na krog) ali 0,750% na leto, kar znaša več
+- Likvidnostne nagrade: 1 STEEM na blok (nagrada znaša 1200 STEEM-ov na uro) ali 0,750% na leto, kar znaša več
 
-**Power Rewards:**
+**Nagrade za moč:**
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- Nagrade za Steem Power: Za vsak STEEM, ustvarjen z zgornjimi nagradami, se 9 STEEM-ov razdeli med vse lastnike Steem Power-ja.
 
-**SMD operations:**
+**SMD operacije:**
 
-- SMD rewards: A percentage of SMD value is created at an APR set by the witnesses and paid to SMD holders as SMD
+- SMD nagrade: Odstotek SMD vrednosti se ustvari glede na APR, ki ga nastavijo priče, in se lastnikom SMD izplača v SMD-jih
 - Feed Rate following: The amount of STEEM for which the total SMD in existence can be redeemed will change based on changes in the price feed. This change is effectively destruction ("burning") of STEEM when the value of STEEM (as measured by the feed) is increasing, or creation of STEEM when the value of STEEM (as measured by the feed) is declining.
 
 The percentage constraints effectively ensure the incentives for rewards do not become meaninglessly small over time, which is intended to prevent the system from experiencing the "speed bump" in the growth pattern of many other blockchains, where an initial growth spurt fueled by high incentives for early participants is followed by prolonged stagnation as the continually falling incentives drop below the level necessary to induce newcomers to join.
