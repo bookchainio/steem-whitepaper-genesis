@@ -536,9 +536,9 @@ Ni akosile oja kan le dasile ni ibi ti awon olumulo le ya ida ti won nilo. Ni is
 
 Didinku ti iye awon idunadura tiko da lori nkankan le fi ayegba awon ero tiko da lori nkankan titun ti kosi tele nigbati gbogbo imulo ero na nilo isanwo kekere. Eto titun yi fun awon toun se eto ero ni ipa lati ati pinnu ti ati igba lati yipada awon idunadura awon olumulo won.
 
-# Ise Sise ati Ipa ati yipada awin eto
+# Ise Sise ati Ipa ati yipada awon eto
 
-A seda netiworki Steemu lori Graphini, ero ayelujara kanna ti oun fi agbara fun Butshares. Ati dan Graphini wo ni gbangba toun se awon idunadura egberun ni aya iseju kan lori netiworki ioin agbeyewo. Graphini le gbera si egerun mewa tabi julo awon idunadura ni iseju aya kan pelu irorun pelu awon isodotun to to lati gbe ipa ati awon ilana ibanisoro.
+A seda netiworki Steemu lori Graphini, ero ayelujara kanna ti oun fi agbara fun Butshares. Ati dan Graphini wo ni gbangba toun se awon idunadura egberun ni aya iseju kan lori netiworki ioin agbeyewo. Graphini le gbera si egberun mewa tabi julo awon idunadura ni iseju aya kan pelu irorun pelu awon isodotun to to lati gbe ipa ati awon ilana ibanisoro.
 
 ## Igbera Reddit
 
