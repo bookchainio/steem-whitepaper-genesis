@@ -534,7 +534,7 @@ Ti aba se agbekale re ni ona miran, owo idunadura kan gbudo je nkanna pelu iye o
 
 Ni akosile oja kan le dasile ni ibi ti awon olumulo le ya ida ti won nilo. Ni ise oje ipa to to fun awon olumulo lati ra ati ta awon ipin akoko won to to iye ti won nilo lati dogba pelu iye imulo ti won fe. Ni awon oro miran, iye ti idunadura ti awon yiya-kekeke po ju iye fun siseitoju iseku to daea fun imulo to poju ni ose ose.
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. Eto titun yi fun awon toun se eto ero ni ipa lati ati pinnu ti ati igba lati yipada awon idunadura awon olumulo won.
+Didinku ti iye awon idunadura tiko da lori nkankan le fi ayegba awon ero tiko da lori nkankan titun ti kosi tele nigbati gbogbo imulo ero na nilo isanwo kekere. Eto titun yi fun awon toun se eto ero ni ipa lati ati pinnu ti ati igba lati yipada awon idunadura awon olumulo won.
 
 # Ise Sise ati Ipa ati yipada awin eto
 
@@ -554,7 +554,7 @@ Lati le gba ise ise ti ile ise tohun siwaju yi, Steeju ti ya awon eko to ko lati
 
 Nipa titele awon ofin tio le yi, Steemu ni ipa ati se agbeyewo awon idunadura egberun mewa ni iseju aya kan laisi ipa to gba kokan ti a fisi imulo ekunrere.
 
-Fifi gbogbo nkan si iranti nje eleyi to sese tohun posi nitori igbejade ti Optanetechnology lati odo Intel [^15]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Fifi gbogbo nkan si iranti nje eleyi to sese tohun posi nitori igbejade ti Optanetechnology lati odo Intel [^15]. Oye ko sese fun awon nkan oja ti ale fowomu lati le kapa gbogbo awon ise opolo isowo ti o kopa mo Steemu ni ila eyokan soso pelu gbogbo awon igbejade ni iranti fun. Google paapa man se afipamo awon tito ti gbogbo ero ayelujara sinu RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
 # Allocation & Supply
 
