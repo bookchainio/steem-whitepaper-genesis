@@ -542,12 +542,12 @@ A seda netiworki Steemu lori Graphini, ero ayelujara kanna ti oun fi agbara fun 
 
 ## Igbera Reddit
 
-Steemu ni ipa ati fayegba awon olumulo to po ju ti Reddit lo. Ni odun 2015 awon millionu 8.7 ti Reddit pilese idaji ti awon esi meta le logun ni iseju aya kan<0<metala</a></sup>, pelu idaji ti awon esi ogorun-meta ni odun kokan fun olumulo kokan. Awon igbejade to je ti okere ti adorin meta lowa, fun idaji ti igbejade tirun meji ni iseju ayay kokan. Awon idibo fun soke to bi billionu meju to seda iye ibo idaji ti 220 ni iseju aya kokan. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steemu ni ipa ati fayegba awon olumulo to po ju ti Reddit lo. Ni odun 2015 awon millionu 8.7 ti Reddit pilese idaji ti awon esi meta le logun ni iseju aya kan<0<metala</a></sup>, pelu idaji ti awon esi ogorun-meta ni odun kokan fun olumulo kokan. Awon igbejade to je ti okere ti adorin meta lowa, fun idaji ti igbejade tirun meji ni iseju ayay kokan. Awon idibo fun soke to bi billionu meju to seda iye ibo idaji ti 220 ni iseju aya kokan. Nigbgbo siso oro, ti Reddit ban gbe ise se ni ori blockchain yio nilo idaji ti awon idunadura 250 ni iseju aya kokan.
 
-To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^14], which is able to process 6 million transactions per second. Among these lessons are the following key points:
+Lati le gba ise ise ti ile ise tohun siwaju yi, Steeju ti ya awon eko to ko lati odo iyipada LMAX[^14], to le gbeyewo awon idunadura millionu mefa ni iseju aya kokan. Laarin awon eko yi ni awon koko to leleyi:
 
-1. Keep everything in memory.
-2. Keep the core business logic in a single thread.
+1. Figbogbo nka pamo si iranti.
+2. Fipamo ise opolo ti ijinle isowo sinu ila kan.
 3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
 4. Divide validation into state-dependent and state-independent checks.
 5. Use an object oriented data model.
