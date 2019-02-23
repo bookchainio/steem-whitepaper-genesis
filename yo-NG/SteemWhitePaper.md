@@ -554,11 +554,11 @@ Lati le gba ise ise ti ile ise tohun siwaju yi, Steemu ti ya awon eko to ko lati
 
 Nipa titele awon ofin tio le yi, Steemu ni ipa ati se agbeyewo awon idunadura egberun mewa ni iseju aya kan laisi ipa to gba kokan ti a fisi imulo ekunrere.
 
-Fifi gbogbo nkan si iranti nje eleyi to sese tohun posi nitori igbejade ti Optanetechnology lati odo Intel [^15]. Oye ko sese fun awon nkan oja ti ale fowomu lati le kapa gbogbo awon ise opolo isowo ti o kopa mo Steemu ni ila eyokan soso pelu gbogbo awon igbejade ni iranti fun. Google paapa man se afipamo awon tito ti gbogbo ero ayelujara sinu RAM. Lilo eto imo ti blockchain jeki oje nkan tio ni anfani pupo lati tunda aparapo data si opo awon ero lati diwo ipadanu data. Bi Optanetechnology tin gbode, RAM yi tun wa sara si nigba toun gba itewomo si. Loro miran, a seda Steemu pelu awon ikole ti ojo ieaju ati a seda re lati le yipada.
+Fifi gbogbo nkan si iranti nje eleyi to sese tohun posi nitori igbejade ti Optanetechnology lati odo Intel [^15]. Oye ko sese fun awon nkan oja ti ale fowomu lati le kapa gbogbo awon ise opolo isowo ti o kopa mo Steemu ni ila eyokan soso pelu gbogbo awon igbejade ni iranti fun. Google paapa man se afipamo awon tito ti gbogbo ero ayelujara sinu RAM. Lilo eto imo ti blockchain jeki oje nkan tio ni anfani pupo lati tunda aparapo data si opo awon ero lati diwo ipadanu data. Bi Optanetechnology tin gbode, RAM yi tun wa sara si nigba toun gba itewomo si. Loro miran, a seda Steemu pelu awon ikole ti ojo iwaju ati a seda re lati le yipada.
 
 # Pinpin & Ipese
 
-Netiworki Steemu bere pelu ipese owo ti 0 o wa pin STEEM nipa ijeri ti ise ni iye ti o fe to ogoji STEEM ni iseju kokan fun awon oluwa isura, pelu afikun ogoji STEEM ni wakati kokan ti a seda lati se itore anu ti awon akoonu ati ere awon apapo igbese ayewo (fun apapo ti ogorin STEEM ni iseju kokan). Nigbana ni netiworki bere fifi ere fun awon olumulo to yipada si SPL. Ni abala yi, STEEM ndagba ni iye to fe je bi 800 STEEM ni iseju kokan nipa apapo awon ipa ifowosi ti orisirisi Awon Ere Ifowosi ti a fenuba ranpe labe:
+Netiworki Steemu bere pelu ipese owo ti 0 o wa pin STEEM nipa ijeri ti ise ni iye ti o fe to ogoji STEEM ni iseju kokan fun awon oluwa isura, pelu afikun ogoji STEEM ni iseju kokan ti a seda lati se itore anu ti awon akoonu ati ere awon apapo igbese ayewo (fun apapo ti ogorin STEEM ni iseju kokan). Nigbana ni netiworki bere fifi ere fun awon olumulo to yipada si SP. Ni abala yi, STEEM ndagba ni iye to fe je bi 800 STEEM ni iseju kokan nipa apapo awon ipa ifowosi ti orisirisi Awon Ere Ifowosi ti a fenuba ranpe labe:
 
 **Awon Ere Ifowosi:**
 
