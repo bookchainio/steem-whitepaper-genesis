@@ -571,11 +571,11 @@ Netiworki Steemu bere pelu ipese owo ti 0 o wa pin STEEM nipa ijeri ti ise ni iy
 
 **Awon Ere Agbara:**
 
-- Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
+- Awon ere Agbara Steemu: Fun STEEM kokan ti a seda nipase awon ere ta so siwaju, STEEM mesan je pinpin laarin gbogbo awon toun gbamu Agbara Steemu.
 
-**SMD operations:**
+**Awon ona agbesise SMD:**
 
-- SMD rewards: A percentage of SMD value is created at an APR set by the witnesses and paid to SMD holders as SMD
+- Awon ere SMD: Aseda Ida kan ti iye SMD ni APR ti a seto nipase awon eleri asi wa sun fun awon toun gbamu SMD bi SMD
 - Feed Rate following: The amount of STEEM for which the total SMD in existence can be redeemed will change based on changes in the price feed. This change is effectively destruction ("burning") of STEEM when the value of STEEM (as measured by the feed) is increasing, or creation of STEEM when the value of STEEM (as measured by the feed) is declining.
 
 The percentage constraints effectively ensure the incentives for rewards do not become meaninglessly small over time, which is intended to prevent the system from experiencing the "speed bump" in the growth pattern of many other blockchains, where an initial growth spurt fueled by high incentives for early participants is followed by prolonged stagnation as the continually falling incentives drop below the level necessary to induce newcomers to join.
