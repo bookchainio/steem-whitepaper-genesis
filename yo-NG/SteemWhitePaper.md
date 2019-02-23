@@ -554,18 +554,18 @@ Lati le gba ise ise ti ile ise tohun siwaju yi, Steeju ti ya awon eko to ko lati
 
 Nipa titele awon ofin tio le yi, Steemu ni ipa ati se agbeyewo awon idunadura egberun mewa ni iseju aya kan laisi ipa to gba kokan ti a fisi imulo ekunrere.
 
-Fifi gbogbo nkan si iranti nje eleyi to sese tohun posi nitori igbejade ti Optanetechnology lati odo Intel [^15]. Oye ko sese fun awon nkan oja ti ale fowomu lati le kapa gbogbo awon ise opolo isowo ti o kopa mo Steemu ni ila eyokan soso pelu gbogbo awon igbejade ni iranti fun. Google paapa man se afipamo awon tito ti gbogbo ero ayelujara sinu RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Fifi gbogbo nkan si iranti nje eleyi to sese tohun posi nitori igbejade ti Optanetechnology lati odo Intel [^15]. Oye ko sese fun awon nkan oja ti ale fowomu lati le kapa gbogbo awon ise opolo isowo ti o kopa mo Steemu ni ila eyokan soso pelu gbogbo awon igbejade ni iranti fun. Google paapa man se afipamo awon tito ti gbogbo ero ayelujara sinu RAM. Lilo eto imo ti blockchain jeki oje nkan tio ni anfani pupo lati tunda aparapo data si opo awon ero lati diwo ipadanu data. Bi Optanetechnology tin gbode, RAM yi tun wa sara si nigba toun gba itewomo si. Loro miran, a seda Steemu pelu awon ikole ti ojo ieaju ati a seda re lati le yipada.
 
-# Allocation & Supply
+# Pinpin & Ipese
 
-The Steem network starts with a currency supply of 0 and allocates STEEM via proof of work at a rate of approximately 40 STEEM per minute to miners, with an additional 40 STEEM per minute being created to seed the content and curation reward pools (for a total of 80 STEEM per minute). Then the network starts rewarding users who convert to SP. At this point, STEEM grows at a rate of approximately 800 STEEM per minute due to the combined effects of the various Contribution Rewards summarized below:
+Netiworki Steemu bere pelu ipese owo ti 0 o wa pin STEEM nipa ijeri ti ise ni iye ti o fe to ogoji STEEM ni iseju kokan fun awon oluwa isura, pelu afikun ogoji STEEM ni wakati kokan ti a seda lati se itore anu ti awon akoonu ati ere awon apapo igbese ayewo (fun apapo ti ogorin STEEM ni iseju kokan). Nigbana ni netiworki bere fifi ere fun awon olumulo to yipada si SPL. Ni abala yi, STEEM ndagba ni iye to fe je bi 800 STEEM ni iseju kokan nipa apapo awon ipa ifowosi ti orisirisi Awon Ere Ifowosi ti a fenuba ranpe labe:
 
-**Contribution Rewards:**
+**Awon Ere Ifowosi:**
 
-- Curation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Content Creation rewards: 1 STEEM per block or 3.875% per year, whichever is greater
-- Block production rewards: 1 STEEM per block or 0.750% per year, whichever is greater
-- POW inclusion rewards before block 864,000: 1 STEEM per block (awarded as 21 STEEM per round)
+- Awon Ere Agbeyewo: STEEM kan ni blocku kokan tabi 3.875% ni odun kokan, eleyi to ba ga ju
+- Awon ere Agbeyewo Akoonu: STEEM kan ni blocku kokan tabi 3.875% ni odun kokan, eleyi to ba ga ju
+- Ere pipese awon Bkocku: STEEM kan ni blocku kokan tabi 0.750% ni odun kokan, eleyi to ba ga ju
+- Afikun awon ere POW saaju blocku 864,000: STEEM kan fun blocku kokan (afuni bi STEEM 21 ni ese kokan)
 - POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
 - Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
 
