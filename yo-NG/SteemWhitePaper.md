@@ -548,9 +548,9 @@ Lati le gba ise ise ti ile ise tohun siwaju yi, Steeju ti ya awon eko to ko lati
 
 1. Figbogbo nka pamo si iranti.
 2. Fipamo ise opolo ti ijinle isowo sinu ila kan.
-3. Keep cryptographic operations (hashes and signatures) out of the core business logic.
-4. Divide validation into state-dependent and state-independent checks.
-5. Use an object oriented data model.
+3. Fipamo awon eto to je cryptograohic (awon nkan tafin woye oro ati awon ibuwolu) kuro ninu ise opolo ijinle isowo.
+4. Pin eto ifesemule si awon agbeyewo eleyi to daduro loru ipinle ati eleyi ti ko daduro lori ipinle.
+5. Lo apeere ti data to da lori nkan.
 
 By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
 
