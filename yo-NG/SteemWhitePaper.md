@@ -542,13 +542,13 @@ A seda netiworki Steemu lori Graphini, ero ayelujara kanna ti oun fi agbara fun 
 
 ## Igbera Reddit
 
-Steemu ni ipa ati fayegba awon olumulo to po ju ti Reddit lo. Ni odun 2015 awon millionu 8.7 ti Reddit pilese idaji ti awon esi meta le logun ni iseju aya kan<0<metala</a></sup>, pelu idaji ti awon esi ogorun-meta ni odun kokan fun olumulo kokan. Awon igbejade to je ti okere ti adorin meta lowa, fun idaji ti igbejade tirun meji ni iseju ayay kokan. Awon idibo fun soke to bi billionu meju to seda iye ibo idaji ti 220 ni iseju aya kokan. Nigbgbo siso oro, ti Reddit ban gbe ise se ni ori blockchain yio nilo idaji ti awon idunadura 250 ni iseju aya kokan.
+Steemu ni ipa ati fayegba awon olumulo to po ju ti Reddit lo. Ni odun 2015 awon millionu 8.7 ti Reddit pilese idaji ti awon esi meta le logun ni iseju aya kan<0<metala</a></sup>, pelu idaji ti awon esi ogorun-meta ni odun kokan fun olumulo kokan. Awon igbejade to je ti okere ti adorin meta lowa, fun idaji ti igbejade tirun meji ni iseju ayay kokan. Awon idibo fun soke to bi billionu mejr to seda iye ibo idaji ti 220 ni iseju aya kokan. Nigbgbo siso oro, ti Reddit ban gbe ise se ni ori blockchain yio nilo idaji ti awon idunadura 250 ni iseju aya kokan.
 
-Lati le gba ise ise ti ile ise tohun siwaju yi, Steeju ti ya awon eko to ko lati odo iyipada LMAX[^14], to le gbeyewo awon idunadura millionu mefa ni iseju aya kokan. Laarin awon eko yi ni awon koko to leleyi:
+Lati le gba ise ise ti ile ise tohun siwaju yi, Steemu ti ya awon eko to ko lati odo iyipada LMAX[^14], to le gbeyewo awon idunadura millionu mefa ni iseju aya kokan. Laarin awon eko yi ni awon koko to leleyi:
 
 1. Figbogbo nka pamo si iranti.
 2. Fipamo ise opolo ti ijinle isowo sinu ila kan.
-3. Fipamo awon eto to je cryptograohic (awon nkan tafin woye oro ati awon ibuwolu) kuro ninu ise opolo ijinle isowo.
+3. Fipamo awon eto to je cryptographic (awon nkan tafin woye oro ati awon ibuwolu) kuro ninu ise opolo ijinle isowo.
 4. Pin eto ifesemule si awon agbeyewo eleyi to daduro loru ipinle ati eleyi ti ko daduro lori ipinle.
 5. Lo apeere ti data to da lori nkan.
 
