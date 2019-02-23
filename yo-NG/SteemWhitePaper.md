@@ -566,10 +566,10 @@ Netiworki Steemu bere pelu ipese owo ti 0 o wa pin STEEM nipa ijeri ti ise ni iy
 - Awon ere Agbeyewo Akoonu: STEEM kan ni blocku kokan tabi 3.875% ni odun kokan, eleyi to ba ga ju
 - Ere pipese awon Bkocku: STEEM kan ni blocku kokan tabi 0.750% ni odun kokan, eleyi to ba ga ju
 - Afikun awon ere POW saaju blocku 864,000: STEEM kan fun blocku kokan (afuni bi STEEM 21 ni ese kokan)
-- POW inclusion rewards after block 864,000: 0.0476 STEEM per block (awarded as 1 STEEM per round) or 0.750% per year, whichever is greater.
-- Liquidity rewards: 1 STEEM per block (awarded as 1200 STEEM per hour) or 0.750% per year, whichever is greater
+- Afikun awon ere POW leyin blocku 864,000: 0.0476 STEEM fun blocku kokan (afuni bi 1STEEM ni ese kokan) tabi 0.750% lodun kokan, eleyi toba ga ju.
+- Awon ere Isodomi: STEEM kan fun blocku kan (afuni bi 1200 STEEM ni wakati kokan) tabi 0.750% ni odun kokan, eleyi toba ga ju
 
-**Power Rewards:**
+**Awon Ere Agbara:**
 
 - Steem Power rewards: For each STEEM created by the above rewards, 9 STEEM are divided among all Steem Power holders.
 
