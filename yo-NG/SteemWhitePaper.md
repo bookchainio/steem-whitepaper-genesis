@@ -532,11 +532,11 @@ Ale pinnu lati eleyi wipe a le pese blockchain kan nipa ailo isanwo rara. Ti a b
 
 Ti aba se agbekale re ni ona miran, owo idunadura kan gbudo je nkanna pelu iye owo iseku to kere julo ti a nilo lati se idunadura ni ekan lose ati wipe agbudo da owo na pada ni ipari ose. Ti a ba ro wipe iye iseku to kere julo ni dola kan ti osi je ki enikan se idunadura ni ekan lose. Ti enikan to ni iseku dola kan ti o fe se idunadura marun ni ekanna won a nilo lati gbe iseku won soke si dola marun fun ose kan yala saju awon idunadura na tabi leyin awon idunadura na.
 
-Ni akosile oja kan le dasile ni ibi ti awon olumulo le ya ida ti won nilo. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+Ni akosile oja kan le dasile ni ibi ti awon olumulo le ya ida ti won nilo. Ni ise oje ipa to to fun awon olumulo lati ra ati ta awon ipin akoko won to to iye ti won nilo lati dogba pelu iye imulo ti won fe. Ni awon oro miran, iye ti idunadura ti awon yiya-kekeke po ju iye fun siseitoju iseku to daea fun imulo to poju ni ose ose.
 
-Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
+Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. Eto titun yi fun awon toun se eto ero ni ipa lati ati pinnu ti ati igba lati yipada awon idunadura awon olumulo won.
 
-# Performance and Scalability
+# Ise Sise ati Ipa ati yipada awin eto
 
 The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
 
