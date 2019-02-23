@@ -538,7 +538,7 @@ Decentralized rate limiting of transactions can enable new types of decentralize
 
 # Ise Sise ati Ipa ati yipada awin eto
 
-A seda netiworki Steemu lori Graphini, ero ayelujara kanna ti oun fi agbara fun Butshares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+A seda netiworki Steemu lori Graphini, ero ayelujara kanna ti oun fi agbara fun Butshares. Ati dan Graphini wo ni gbangba toun se awon idunadura egberun ni aya iseju kan lori netiworki ioin agbeyewo. Graphini le gbera si egerun mewa tabi julo awon idunadura ni iseju aya kan pelu irorun pelu awon isodotun to to lati gbe ipa ati awon ilana ibanisoro.
 
 ## Reddit Scale
 
