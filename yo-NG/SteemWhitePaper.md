@@ -528,9 +528,9 @@ Iye owo ipin kan nwa lati iye akoko to le pese fun eni to ni. Nini ida kan ti il
 
 Lilo awon idi alaye yi ale pinnu pe eto kan to da duro lori awon isanwo yio won fun awon olumulo re tabi koni mu ere daada fun apapo awon toun gba mu. Olukuluku to gbamu die le ni ere nipa fifi ya gige akoko kekere, sugbon ni aikasi awon to ni akoko yoku. Ni ipa, iye ti ipin iye owo akoko toun jabo jenpinpin laarin gbogbo awonntoun gbamu nigbati awon ere da lori enikan to ngbamu to oinnu lati gbe ipin re sile fun yiyalo.
 
-Ale pinnu lati eleyi wipe a le pese blockchain kan nipa ailo isanwo rara. If a usage fee were to be charged as an alternative to rate limiting, then it should be the equivalent of buying enough timeshares and committing to hold them long enough to gain the right use it once.
+Ale pinnu lati eleyi wipe a le pese blockchain kan nipa ailo isanwo rara. Ti a ba nbere fun owo imulo kan gege bi ona miran lati dinku iye, nigbana oye ko je idogba ti rira awon ipin akoko to to ati sise ipinnu lati gbamu fun igba to gun to to lati gba eto ati lo lekan.
 
-Stated another way, a transaction fee should be equal to the minimum account balance necessary to transact once per week and it should be refunded at the end of the week. Assume the minimum account balance is $1 and allows someone to transact once per week. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
+Ti aba se agbekale re ni ona miran, owo idunadura kan gbudo je nkanna pelu iye owo iseku to kere julo ti a nilo lati se idunadura ni ekan lose ati wipe agbudo da owo na pada ni ipari ose. Ti a ba ro wipe iye iseku to kere julo ni dola kan ti osi je ki enikan se idunadura ni ekan lose. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
 
 In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
 
