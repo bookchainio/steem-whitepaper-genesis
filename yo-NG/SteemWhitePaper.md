@@ -530,9 +530,9 @@ Lilo awon idi alaye yi ale pinnu pe eto kan to da duro lori awon isanwo yio won 
 
 Ale pinnu lati eleyi wipe a le pese blockchain kan nipa ailo isanwo rara. Ti a ba nbere fun owo imulo kan gege bi ona miran lati dinku iye, nigbana oye ko je idogba ti rira awon ipin akoko to to ati sise ipinnu lati gbamu fun igba to gun to to lati gba eto ati lo lekan.
 
-Ti aba se agbekale re ni ona miran, owo idunadura kan gbudo je nkanna pelu iye owo iseku to kere julo ti a nilo lati se idunadura ni ekan lose ati wipe agbudo da owo na pada ni ipari ose. Ti a ba ro wipe iye iseku to kere julo ni dola kan ti osi je ki enikan se idunadura ni ekan lose. If someone with a $1 balance that wishes to perform 5 transactions at once they will have to increase their balance to $5 for a week either before or after their transactions.
+Ti aba se agbekale re ni ona miran, owo idunadura kan gbudo je nkanna pelu iye owo iseku to kere julo ti a nilo lati se idunadura ni ekan lose ati wipe agbudo da owo na pada ni ipari ose. Ti a ba ro wipe iye iseku to kere julo ni dola kan ti osi je ki enikan se idunadura ni ekan lose. Ti enikan to ni iseku dola kan ti o fe se idunadura marun ni ekanna won a nilo lati gbe iseku won soke si dola marun fun ose kan yala saju awon idunadura na tabi leyin awon idunadura na.
 
-In theory a market could form where users can borrow the stake required. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
+Ni akosile oja kan le dasile ni ibi ti awon olumulo le ya ida ti won nilo. In practice it is more efficient for users to simply buy and sell the timeshares necessary to meet their desired usage rate. In other words, the cost of negotiating micro-loans is greater than the cost of maintaining a balance suitable for your maximum weekly usage.
 
 Decentralized rate limiting of transactions can enable new types of decentralized applications that were not viable when every use of the application required a micropayment. This new model gives application developers the ability to decide if and when to charge their users for transactions.
 
