@@ -538,7 +538,7 @@ Decentralized rate limiting of transactions can enable new types of decentralize
 
 # Ise Sise ati Ipa ati yipada awin eto
 
-The Steem network is built upon Graphene, the same technology that powers BitShares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
+A seda netiworki Steemu lori Graphini, ero ayelujara kanna ti oun fi agbara fun Butshares. Graphene has been publicly demonstrated sustaining over 1000 transactions per second on a distributed test network. Graphene can easily scale to 10,000 or more transactions per second with relatively straightforward improvements to server capacity and communication protocols.
 
 ## Reddit Scale
 
