@@ -540,9 +540,9 @@ Decentralized rate limiting of transactions can enable new types of decentralize
 
 A seda netiworki Steemu lori Graphini, ero ayelujara kanna ti oun fi agbara fun Butshares. Ati dan Graphini wo ni gbangba toun se awon idunadura egberun ni aya iseju kan lori netiworki ioin agbeyewo. Graphini le gbera si egerun mewa tabi julo awon idunadura ni iseju aya kan pelu irorun pelu awon isodotun to to lati gbe ipa ati awon ilana ibanisoro.
 
-## Reddit Scale
+## Igbera Reddit
 
-Steem is capable of handling a larger userbase than Reddit. In 2015 Reddit's 8.7 million users generated an average of 23 comments per second[^13] , with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
+Steemu ni ipa ati fayegba awon olumulo to po ju ti Reddit lo. In 2015 Reddit's 8.7 million users generated an average of 23 comments per second[^13] , with an average of 83 comments per year per user. There were 73 million top-level posts, for an average of 2 new posts per second. There were about 7 billion up votes creating an average voting rate of 220 votes per second. All told, if Reddit were operating on a blockchain it would require an average of 250 transactions per second.
 
 To achieve this industry-leading performance, Steem has borrowed lessons learned from the LMAX Exchange[^14], which is able to process 6 million transactions per second. Among these lessons are the following key points:
 
