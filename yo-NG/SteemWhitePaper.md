@@ -552,9 +552,9 @@ Lati le gba ise ise ti ile ise tohun siwaju yi, Steeju ti ya awon eko to ko lati
 4. Pin eto ifesemule si awon agbeyewo eleyi to daduro loru ipinle ati eleyi ti ko daduro lori ipinle.
 5. Lo apeere ti data to da lori nkan.
 
-By following these simple rules, Steem is able to process 10,000 transactions per second without any significant effort devoted to optimization.
+Nipa titele awon ofin tio le yi, Steemu ni ipa ati se agbeyewo awon idunadura egberun mewa ni iseju aya kan laisi ipa to gba kokan ti a fisi imulo ekunrere.
 
-Keeping everything in memory is increasingly viable given the recent introduction of Optanetechnology from Intel [^15]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
+Fifi gbogbo nkan si iranti nje eleyi to sese tohun posi nitori igbejade ti Optanetechnology lati odo Intel [^15]. It should be possible for commodity hardware to handle all of the business logic associated with Steem in a single thread with all posts kept in memory for rapid indexing. Even Google keeps their index of the entire internet in RAM. The use of blockchain technology makes it trivial to replicate the database to many machines to prevent loss of data. As Optanetechnology takes over, RAM will become even faster while gaining persistence. In other words, Steem is designed for the architectures of the future and is designed to scale.
 
 # Allocation & Supply
 
