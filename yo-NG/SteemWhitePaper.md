@@ -610,7 +610,7 @@ As of May 1, 2016, over 98.49% of all STEEM has been converted to SP. This demon
 
 For the first 2 years of Bitcoin's life the network sustained an annual inflation rate[^20] of over 100%. For the first 5 years it was over 30%, and for the first 8 years it was over 10%. According to the tool for estimating future inflation included with the Steem source code, Steem by contrast will achieve an instantaneous annual rate of approximately 12% after just 1 year (not including the effects of SMD operations).
 
-### Accounting In Steem
+### Isiro owo Ni Steem
 
 The increase in the supply of STEEM is mostly an accounting artifact created by the desire to avoid charging negative interest rates on liquid STEEM. Negative interest rates would complicate the lives of exchanges which would have to adjust user balances to account for the negative rate of return of STEEM held on deposit. Mirroring the blockchain logic exactly would be error prone and complicate integration and adoption. Therefore, STEEM has chosen to never charge someone's account, but instead to increase supply. This achieves a similar economic result without forcing everyone accepting STEEM deposits to implement negative interest rates on their internal ledger.
 
