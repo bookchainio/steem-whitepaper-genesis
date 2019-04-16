@@ -596,7 +596,7 @@ Lati Osu kejo 2008 si Osu kini 2009 ipese owo U.S[^17] goke lati $871B si $1,737
 
 Iye owo ti ohun digital, gege bi STEEM, ni idari nipase ipese re ati ibeere fun. Ti a ba pin STEEM tuntun fun awon to n dimu fun igba pipe a je pe alekun ipese naa ma gba dídí nipase ibeere to dogba lati dimu. Ipa iyipada yii ninu ipese ma sun siwaju titi di ojo iwaju kan nigba ti eni to n dimu naa ba pinnu lati ta a. Ipa tita naa ma je pinpin nigbana fun odun 2.
 
-When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. We can therefore conclude that the price will mostly be impacted by a change in demand for holding STEEM long-term.
+Nigba ti eni to n dimu fun igba pipe kan na pinnu lati kuro, ipese STEEM lori oja naa ma lekun ti yio si ti iye owo naa wale. A ma bori ipa iwale yii nigba ti eni ti yio dimu fun igba pipe tuntun kan ba pinnu lati ra gbogbo STEEM naa to sì sayipada re si SP. We can therefore conclude that the price will mostly be impacted by a change in demand for holding STEEM long-term.
 
 Ninu alekun 100% lodoodun ni ipese STEEM airi naa, 5% ninu re wa ni ipo Steem Dollars (SMD). SMD represents a commitment to create a dollar's worth of STEEM in the future and does not impact the amount of STEEM on the market today. The change in debt-to-ownership ratio may impact the perceived value of STEEM, but it does not map directly into a fall in the value of STEEM. If the value of Steem rises over time, then the amount of STEEM that may be created in the future will be less and the corresponding "inflation" never actually happened.
 
