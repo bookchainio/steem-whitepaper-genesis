@@ -594,7 +594,7 @@ Creating new STEEM to pay an incentive to a particular user or group has a negat
 
 Lati Osu kejo 2008 si Osu kini 2009 ipese owo U.S[^17] goke lati $871B si $1,737B, iye kan to ju 100% lodun ati pe o tesiwaju lati ma goke ni bi 20% lodun fun awon odun 6 to tele. Ni kukuru ipese owo naa ni U.S. ti goke ni ilopo 4.59 laarin igba to kere si odun 7. Laarin akoko kanna yen, iye dollar si awon oja ati awon ise ti wale ju 10% gege bi atoka iye owo ti ijoba naa [^18]. Apeere aye ooto yii fihan pe ipese je eroja kan soso ti iye owo.
 
-Iye owo ti ohun digital, gege bi STEEM, ni idari nipase ipese re ati ibeere fun. If new STEEM is allocated to those who are holding long-term then the increase in supply is offset by the corresponding demand to hold. The impact of this change in supply is postponed until a future date when the long-term holder decides to sell. The sell pressure is then distributed over 2 years.
+Iye owo ti ohun digital, gege bi STEEM, ni idari nipase ipese re ati ibeere fun. Ti a ba pin STEEM tuntun fun awon to n dimu fun igba pipe a je pe alekun ipese naa ma gba dídí nipase ibeere to dogba lati dimu. Ipa iyipada yii ninu ipese ma sun siwaju titi di ojo iwaju kan nigba ti eni to n dimu naa ba pinnu lati ta a. The sell pressure is then distributed over 2 years.
 
 When a long-term holder decides to exit, the supply of STEEM on the market will increase and push the price down. This downward pressure is countered when a new long-term holder decides to buy up the STEEM and convert it back into SP. We can therefore conclude that the price will mostly be impacted by a change in demand for holding STEEM long-term.
 
