@@ -604,7 +604,7 @@ All told the total "spending" Steem does to fund content, curation, mining, and 
 
 Afojusun STEEM to seé tà ni lati mu ki awon iyipada ni níní rorun laarin awon to n dimu fun igba pipe. Iyipada ni níní yii ni ikanni naa "ti n gbowo" lati sanwo idagbasoke. This transfer tax can be avoided almost completely by automatically selling STEEM for SMD every week as the network converts SP back to STEEM. The total time spent holding STEEM will be so small that any impact of changing STEEM supply will be insigni cant next to volatility and other market fees.
 
-### Impact of Token Creation Rate Greater than Ninety-Percent
+### Ipa ti Iwon Siseda Token To Ju Ipin Àádọ́rùn-ún nínú ọgọ́rùn-ún
 
 Ni Ojo kini Osu karun, Odun 2016, eyi to ju 98.49% ti gbogbo STEEM ti gba iyipada si SP. Eyi fihan pe ibeere lati dimu fun igba pipe lo gba iwaju. Ni agbegbe yii STEEM to seé tà ati SP lo je lilo lati san awon esan.
 
