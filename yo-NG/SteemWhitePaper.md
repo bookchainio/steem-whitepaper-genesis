@@ -584,7 +584,7 @@ Ipa apapo ti awon ida tio yipada yi lori awon ipin ati ipese je (o fe je) 800 ST
 
 Ayaworan apapo ipese ni iha die lati owo ipa awon isise SMD, to le jasi idasile ona to tobi tabi iparun STEEMU nipa iye titele ifunni ati awon ere SMD, bi ati soro nipa ni abala SMD. Omiran, awon ipa alada kekere na wa, ti awon anfani ti ako wa gba je ara e (bi awon ere blocku fun awon blocku ta yo bo, ariwo nipase ori ire ti eni toun wa isura ni igbejade idaju-ti-ise, ati awon ipa ti awon iyipada ninu gigun ila ti eni toun wa isura to ise si latowo iyipada ni agbara apapo hash ti netiworki.
 
-## Impact of Token Creation Rate
+## Ipa ti Iwon Siseda Token
 
 At first glance, 100% annual increase in the STEEM supply may appear to be hyper-inflationary and unsustainable. Those who follow the Quantity Theory of Money[^16] may even conclude that the value of STEEM must fall by approximately 5.6% per month. We know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
 
