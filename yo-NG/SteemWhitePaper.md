@@ -660,7 +660,7 @@ By incentivising curation the Steem network is able to use automated algorithms 
 
 Ko rorun lati wo inu cryptocurrency[^24]. Enikan to ba ṣẹ̀ṣẹ̀ rí Bitcoin to si fe gbiyanju re wo ma tete kekoo pe won ni lati forukosile pelu oja pasipaaro kan ati sanwo si account won pelu káàdì arọ́pò owó tabi fifi owo ranse lori ayelujara. Bawo ni iye itewogba ti Facebook ì ba se ri ti o ba ni lati sanwo ati ID orisi meji kan?
 
-Steem yanju isoro yii nipase fifun gbogbo eeyan ni ona kan lati gbowo fun sise awon ise to rorun, sugbon to pataki. Eyi yio se iranlowo lati pin awon token STEEM kaakiri. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless).
+Steem yanju isoro yii nipase fifun gbogbo eeyan ni ona kan lati gbowo fun sise awon ise to rorun, sugbon to pataki. Eyi yio se iranlowo lati pin awon token STEEM kaakiri. Eyi wulo nitori pe awon cryptocurrency ni ipa ikanni kan (iyen ni pe awon asamulo to po yio mu ko wulo pupo; fun apeere nla kan, woye wipe ti Satoshi ba toju 100% Bitcoin fun ara re, Bitcoin ko le ni iwulo).
 
 ## Solving the Cryptocurrency Liquidation Problem
 
