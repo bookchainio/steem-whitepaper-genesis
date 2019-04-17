@@ -602,7 +602,7 @@ Ninu alekun 100% lodoodun ni ipese STEEM airi naa, 5% ninu re wa ni ipo Steem Do
 
 All told the total "spending" Steem does to fund content, curation, mining, and liquidity rewards amounts to just 10% APR or 1.2% per month. The same wealth transfer could be implemented without any change in the STEEM supply by implementing a negative interest rate on liquid STEEM of around 10% per month. Stated another way, it could be implemented by charging a 3% fee (similar to credit cards) on every transfer and having 1% of all STEEM transferred every single day. The Bitcoin network transfers[^19] 400,000 BTC out of 15.5M (or 2.5% daily).
 
-The purpose of liquid STEEM is to facilitate changes in ownership between long-term holders. It is this change in ownership that the network "taxes" to fund growth. This transfer tax can be avoided almost completely by automatically selling STEEM for SMD every week as the network converts SP back to STEEM. The total time spent holding STEEM will be so small that any impact of changing STEEM supply will be insigni cant next to volatility and other market fees.
+Afojusun STEEM to seé tà ni lati mu ki awon iyipada ni níní rorun laarin awon to n dimu fun igba pipe. Iyipada ni níní yii ni ikanni naa "ti n gbowo" lati sanwo idagbasoke. This transfer tax can be avoided almost completely by automatically selling STEEM for SMD every week as the network converts SP back to STEEM. The total time spent holding STEEM will be so small that any impact of changing STEEM supply will be insigni cant next to volatility and other market fees.
 
 ### Impact of Token Creation Rate Greater than Ninety-Percent
 
