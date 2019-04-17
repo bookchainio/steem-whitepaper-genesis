@@ -606,7 +606,7 @@ The purpose of liquid STEEM is to facilitate changes in ownership between long-t
 
 ### Impact of Token Creation Rate Greater than Ninety-Percent
 
-As of May 1, 2016, over 98.49% of all STEEM has been converted to SP. This demonstrates that demand to hold long term dominates. In this environment both liquid STEEM and SP are diluted to fund rewards.
+Ni Ojo kini Osu karun, Odun 2016, eyi to ju 98.49% ti gbogbo STEEM ti gba iyipada si SP. Eyi fihan pe ibeere lati dimu fun igba pipe lo gba iwaju. Ni agbegbe yii STEEM to seé tà ati SP lo je lilo lati san awon esan.
 
 Fun odun 2 akoko ti aye Bitcoin ikanni naa ni iye ọ̀wọ́n kan[^20] tó ju 100% lodoodun. Fun odun 5 akoko naa o ju 30% lo, ati fun odun 8 akoko naa o ju 10% lo. According to the tool for estimating future inflation included with the Steem source code, Steem by contrast will achieve an instantaneous annual rate of approximately 12% after just 1 year (not including the effects of SMD operations).
 
