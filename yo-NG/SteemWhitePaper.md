@@ -586,7 +586,7 @@ Ayaworan apapo ipese ni iha die lati owo ipa awon isise SMD, to le jasi idasile 
 
 ## Ipa ti Iwon Siseda Token
 
-Tí a ba koko wo, alekun 100% lodoodun ni ipese STEEM naa le foju han bi ohun to ni ọ̀wọ́n to po tí kò si lanfaani. Those who follow the Quantity Theory of Money[^16] may even conclude that the value of STEEM must fall by approximately 5.6% per month. We know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
+Tí a ba koko wo, alekun 100% lodoodun ni ipese STEEM naa le foju han bi ohun to ni ọ̀wọ́n to po tí kò si lanfaani. Awon to ba tele Arojinle Iye Owo naa[^16] tie le pinnu pe iye STEEM gbodo wale ni nnkan bii 5.6% losoosu. We know from countless real-world examples that the quantity of money does not have a direct and immediate impact on its value, though it certainly plays a role.
 
 Nitori pe 90% ninu gbogbo STEEM ti a seda ni a pin pada sodo awon to mu SP dani, esi naa je bakanaa pelu nini "ipinya" 2:1 kan lodoodun dipo ọ̀wọ́n otito. The total rate of expenditures used to reward contributors is about 10% of the market capitalization per year, a rate well below what Bitcoin sustained for the first 7 years after it launched.
 
