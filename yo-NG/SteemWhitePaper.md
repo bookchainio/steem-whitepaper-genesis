@@ -648,9 +648,9 @@ Furthemore, Steem pays people to figure out who should be paid! This kind of thi
 
 ## Iyi wa ninu awon Isopo naa
 
-The Internet would lose the vast majority of its value if all links among content were removed. Ibasepo to wa laarin awon oju ewe ayelujara lo fi aaye gba Google lati sawari apejuwe apple pie to dara ju lara awon esi milionu 16 naa. Without the links the only information Google would have is word frequency.
+The Internet would lose the vast majority of its value if all links among content were removed. Ibasepo to wa laarin awon oju ewe ayelujara lo fi aaye gba Google lati sawari apejuwe apple pie to dara ju lara awon esi milionu 16 naa. Laisi awon isopo naa iroyin kan soso ti Google yio ní ni iwopo oro.
 
-Links can take many forms and have adapted over time. Every time a user votes on content in a social network they add a link between themselves and the content. This in turn links the consumer to the producer through the content. The more links a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+Links can take many forms and have adapted over time. Gbogbo igba ti asamulo kan ba dibo lori aroko ni ikanni ajolo kan won safikun isopo kan laarin ara won ati aroko naa. This in turn links the consumer to the producer through the content. The more links a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
 
 A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of links. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and link to new content.
 
