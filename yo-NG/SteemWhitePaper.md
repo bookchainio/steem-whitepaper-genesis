@@ -622,7 +622,7 @@ All rounding errors will be in favor of the network. Every balance may lose up t
 
 # Agbara ti Steem
 
-Steem gba pe iye ti awon idaasi gbogbo asamulo (awon aroko ati idibo) tobi ju apapo awon ipin naa. Idaasi kan soso sunmo pe ko niye kankan lori, sugbon milionu awon aroko tia moju to ni iye to po to milionu (tabi koda bilionu paapa) dola. A single vote provides little curation value, but billions of votes is very effective curation. Content without curation is of limited value. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. It is the links between information that give it significant value.
+Steem gba pe iye ti awon idaasi gbogbo asamulo (awon aroko ati idibo) tobi ju apapo awon ipin naa. Idaasi kan soso sunmo pe ko niye kankan lori, sugbon milionu awon aroko tia moju to ni iye to po to milionu (tabi koda bilionu paapa) dola. Ibo kan soso yio pese iye abojuto kekere, sugbon bilionu awon ibo je abojuto to se anfaani pupo. Aroko laisi abojuto ni iye kekere. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. Awon isopo to wa laarin iroyin lo ma n fun ni iye to se pataki.
 
 Because everyone benefits, everyone should pay. In other words, no individual user should be expected to pay for anything, but instead should be paid for everything they do that brings value to Steem. All we need to do is ascertain which user contributions bring a social network value and which ones don't.
 
