@@ -650,7 +650,7 @@ Furthemore, Steem pays people to figure out who should be paid! This kind of thi
 
 The Internet would lose the vast majority of its value if all links among content were removed. Ibasepo to wa laarin awon oju ewe ayelujara lo fi aaye gba Google lati sawari apejuwe apple pie to dara ju lara awon esi milionu 16 naa. Laisi awon isopo naa iroyin kan soso ti Google yio ní ni iwopo oro.
 
-Links can take many forms and have adapted over time. Gbogbo igba ti asamulo kan ba dibo lori aroko ni ikanni ajolo kan won safikun isopo kan laarin ara won ati aroko naa. This in turn links the consumer to the producer through the content. The more links a network has the more valuable the information becomes. It is the relative and intentional connectedness of information that gives it value.
+Links can take many forms and have adapted over time. Gbogbo igba ti asamulo kan ba dibo lori aroko ni ikanni ajolo kan won safikun isopo kan laarin ara won ati aroko naa. This in turn links the consumer to the producer through the content. Bi awon isopo ti ikanni kan ni ba se po to ni bi iroyin naa yio se niyi to. It is the relative and intentional connectedness of information that gives it value.
 
 A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of links. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and link to new content.
 
@@ -658,7 +658,7 @@ By incentivising curation the Steem network is able to use automated algorithms 
 
 ## Solving the Cryptocurrency Onboarding Problem
 
-It isn't easy to get into cryptocurrency[^24] . Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook's adoption rate have been like if you had to fork over money and a two forms of ID?
+Ko rorun lati wo inu cryptocurrency[^24]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook's adoption rate have been like if you had to fork over money and a two forms of ID?
 
 Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless).
 
@@ -670,7 +670,7 @@ Merchants give users a way to quickly convert their cryptocurrency into tangible
 
 Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SMD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through tipping others. This is like leaving the small change as a tip for your waiter. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
+Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through tipping others. Eyi dabi fifi owo kekere naa kale gege bi ebun fun agbawó onje re. When enough people leave small tips it adds up to a meaningful amount. You and the waiter each gain a benefit from the tip.
 
 ## Censorship
 
@@ -698,11 +698,11 @@ Under most content monetization models, content creators leverage advertising in
 
 Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or "liked") by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
 
-# Conclusion
+# Ipari
 
 Steem is an experiment designed to address challenges in the cryptocurrency and social media industries by combining the best aspects from both. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards will have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem will have more exclusive earning powers than those who do not.
 
-# References
+# Awon itokasi
 
 [^1]: Reddit's Cryptocurrency, Forbes, Erika Morphy, October 2014, <http://www.forbes.com/sites/erikamorphy/2014/10/01/reddits-cryptocurrency-could-have-many-uses/#4e07b05332b9>
 
