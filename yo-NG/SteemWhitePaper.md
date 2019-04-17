@@ -658,9 +658,9 @@ By incentivising curation the Steem network is able to use automated algorithms 
 
 ## Solving the Cryptocurrency Onboarding Problem
 
-Ko rorun lati wo inu cryptocurrency[^24]. Someone who discovers Bitcoin and wants to try it out quickly learns that they will need to sign up with an exchange and fund their account with a credit card or wire transfer. What would Facebook's adoption rate have been like if you had to fork over money and a two forms of ID?
+Ko rorun lati wo inu cryptocurrency[^24]. Enikan to ba ṣẹ̀ṣẹ̀ rí Bitcoin to si fe gbiyanju re wo ma tete kekoo pe won ni lati forukosile pelu oja pasipaaro kan ati sanwo si account won pelu káàdì arọ́pò owó tabi fifi owo ranse lori ayelujara. Bawo ni iye itewogba ti Facebook ì ba se ri ti o ba ni lati sanwo ati ID orisi meji kan?
 
-Steem solves this problem by giving everyone a way to get paid for doing simple, but valuable, tasks. This will help to widely distribute STEEM tokens. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless).
+Steem yanju isoro yii nipase fifun gbogbo eeyan ni ona kan lati gbowo fun sise awon ise to rorun, sugbon to pataki. Eyi yio se iranlowo lati pin awon token STEEM kaakiri. This is helpful because cryptocurrencies have a network effect (i.e. more users make it more useful; for an extreme example, consider that if Satoshi had kept 100% of Bitcoin for himself, Bitcoin would be worthless).
 
 ## Solving the Cryptocurrency Liquidation Problem
 
