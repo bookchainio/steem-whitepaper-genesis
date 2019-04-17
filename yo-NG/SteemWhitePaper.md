@@ -626,7 +626,7 @@ Steem gba pe iye ti awon idaasi gbogbo asamulo (awon aroko ati idibo) tobi ju ap
 
 Nitori pe gbogbo eeyan lo n janfaani, o ye ki gbogbo eeyan sanwo. Eyi tumo si pe, ko ye lati reti ki asamulo kookan sanwo fun ohunkohun, sugbon o ye ki won gbowo fun gbogbo nnkan ti won ba se to n mu iyi ba Steem. Gbogbo ohun ti a nilo lati se ni ki a saridaju awon idaasi asamulo eyi to mu iyi ikanni ajolo kan wa ati awon eyi ti ko mu wa.
 
-Collectively Reddit users vote 220 times per second and make 23 posts per second. Reddit is valued between $500 million[^21] and $4 billion[^22] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year's worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
+Ni apapo awon asamulo Reddit ma n dibo nigba 220 ni iṣẹju aaya ati ṣẹda awon àròkọ 23 ni iṣẹju aaya. Reddit is valued between $500 million[^21] and $4 billion[^22] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year's worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
 
 ## No Micropayments, Tips Optional
 
@@ -648,9 +648,9 @@ Furthemore, Steem pays people to figure out who should be paid! This kind of thi
 
 ## Iyi wa ninu awon Isopo naa
 
-The Internet would lose the vast majority of its value if all links among content were removed. Ibasepo to wa laarin awon oju ewe ayelujara lo fi aaye gba Google lati sawari apejuwe apple pie to dara ju lara awon esi milionu 16 naa. Laisi awon isopo naa iroyin kan soso ti Google yio ní ni iwopo oro.
+Íntánẹ́ẹ̀tì yio padanu eyi to po ju lara iyi re ti gbogbo awon isopo laarin awọn aroko ba gba yíyọ kuro. Ibasepo to wa laarin awon oju ewe ayelujara lo fi aaye gba Google lati sawari apejuwe apple pie to dara ju lara awon esi milionu 16 naa. Laisi awon isopo naa iroyin kan soso ti Google yio ní ni iwopo oro.
 
-Links can take many forms and have adapted over time. Gbogbo igba ti asamulo kan ba dibo lori aroko ni ikanni ajolo kan won safikun isopo kan laarin ara won ati aroko naa. This in turn links the consumer to the producer through the content. Bi awon isopo ti ikanni kan ni ba se po to ni bi iroyin naa yio se niyi to. It is the relative and intentional connectedness of information that gives it value.
+Awọn isopo le wá ní orisirisi ona tí wọn si n bá ipo mu bi akoko ti n lo. Gbogbo igba ti asamulo kan ba dibo lori aroko ni ikanni ajolo kan won safikun isopo kan laarin ara won ati aroko naa. This in turn links the consumer to the producer through the content. Bi awon isopo ti ikanni kan ni ba se po to ni bi iroyin naa yio se niyi to. It is the relative and intentional connectedness of information that gives it value.
 
 A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of links. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and link to new content.
 
