@@ -642,7 +642,7 @@ The mental energy associated with making an economic decision becomes a barrier 
 > 
 > *- Micropayments: A Viable Business Model [^23]*
 
-Under Steem, micropayments are paid to content producer, but those who vote for the content do not pay. Dipo, owo esan naa ma je sisan nipase awon token tuntun. Enikan le darapo mo eto naa, dibo lati sanwo fun enikan, ati jade kuro ninu eto naa pelu owo to po ju eyi ti won fi bere lo (pelu ero pe idiyele oja ti eto Steem ko yipada). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+Labe Steem, awon isanwo kekere ni a san fun olootu aroko, sugbon awon to dibo fun aroko naa ko ni sanwo. Dipo, owo esan naa ma je sisan nipase awon token tuntun. Enikan le darapo mo eto naa, dibo lati sanwo fun enikan, ati jade kuro ninu eto naa pelu owo to po ju eyi ti won fi bere lo (pelu ero pe idiyele oja ti eto Steem ko yipada). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
 
 Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
 
