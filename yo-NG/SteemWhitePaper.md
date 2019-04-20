@@ -644,7 +644,7 @@ The mental energy associated with making an economic decision becomes a barrier 
 
 Labe Steem, awon isanwo kekere ni a san fun olootu aroko, sugbon awon to dibo fun aroko naa ko ni sanwo. Dipo, owo esan naa ma je sisan nipase awon token tuntun. Enikan le darapo mo eto naa, dibo lati sanwo fun enikan, ati jade kuro ninu eto naa pelu owo to po ju eyi ti won fi bere lo (pelu ero pe idiyele oja ti eto Steem ko yipada). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
 
-Furthemore, Steem pays people to figure out who should be paid! This kind of thinking is revolutionary.
+Siwaju si i, Steem n sanwo fun awon eeyan lati ronu nipa eni to ye ko gbowo! Iru ironu yii je iyipada pataki.
 
 ## Iyi wa ninu awon Isopo naa
 
