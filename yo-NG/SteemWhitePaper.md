@@ -632,7 +632,7 @@ Ni apapo awon asamulo Reddit ma n dibo nigba 220 ni iṣẹju aaya ati ṣẹda 
 
 Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Opolopo awon ise ti gbiyanju lati sagbekale fi funni lebun. Arojinle naa ni pe ti a ba mu fi funni lebun rorun daadaa nigba naa awon eeyan pupo máa ṣe. Awon ise miiran gbiyanju lati mu ki awon eeyan sanwo lati sagbega tabi satileyin ipo ti aroko won. Sibesibe awon miiran gbiyanju lati seto awon oja asotele kekeke lori iye awon ebun ti aroko kan ma gba.
 
-All of these approaches boil down to micropayments. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone's actions so everyone should pay or no one should pay, depending on how you look at it.
+Eyi to wa se pataki ju ninu gbogbo awon igbiyanju wonyi ni awon isanwo kekeke. They differ only in who is making the payment. They all suffer from insufficient engagement of people making the micropayments. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone's actions so everyone should pay or no one should pay, depending on how you look at it.
 
 Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
 
