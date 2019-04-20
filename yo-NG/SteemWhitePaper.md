@@ -608,7 +608,7 @@ Afojusun STEEM to seé tà ni lati mu ki awon iyipada ni níní rorun laarin awo
 
 Ni Ojo kini Osu karun, Odun 2016, eyi to ju 98.49% ti gbogbo STEEM ti gba iyipada si SP. Eyi fihan pe ibeere lati dimu fun igba pipe lo gba iwaju. Ni agbegbe yii STEEM to seé tà ati SP lo je lilo lati san awon esan.
 
-Fun odun 2 akoko ti aye Bitcoin ikanni naa ni iye ọ̀wọ́n kan[^20] tó ju 100% lodoodun. Fun odun 5 akoko naa o ju 30% lo, ati fun odun 8 akoko naa o ju 10% lo. According to the tool for estimating future inflation included with the Steem source code, Steem by contrast will achieve an instantaneous annual rate of approximately 12% after just 1 year (not including the effects of SMD operations).
+Fun odun 2 akoko ti aye Bitcoin ikanni naa ni iye ọ̀wọ́n kan[^20] tó ju 100% lodoodun. Fun odun 5 akoko naa o ju 30% lo, ati fun odun 8 akoko naa o ju 10% lo. Ní ibamu pẹlu irinṣẹ fun fífi ojú díwọ̀n ọ̀wọ́n ọjọ iwaju ti o wà lára koodu orisun Steem naa, Steem ni odikeji yio dé iye kan to sunmọ 12% lodoodun lesekese leyin odun 1 ṣoṣo (láìka awọn ipa ti awọn iṣẹ SMD mọ).
 
 ### Isiro owo Ni Steem
 
