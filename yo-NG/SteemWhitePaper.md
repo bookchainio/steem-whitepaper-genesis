@@ -618,7 +618,7 @@ A side effect of increasing the supply is that the network will require ever inc
 
 In order to compensate for the ever increasing precision, the STEEM network performs a 10:1 "reverse split" every 32,000,000 blocks (about 3 years). At this point in time all balances of STEEM are divided by 10 and all prices are multiplied by 10. Awọn oja pasipaarọ cryptocurrency yíò nilo lati dawọ idunaadura duro ní akoko yii kí wọn sì ṣe imudojuiwọn àwọn iyoku owo account ati itan iye owo lati ṣafihan "ipinya àtoríkòdì" naa saaju ki idunaadura to bẹrẹ pada.
 
-All rounding errors will be in favor of the network. Every balance may lose up to 0.009 STEEM due to rounding, but this amount of STEEM should be economically insignificant. Collectively all holders of SP will lose at most 0.009 STEEM.
+Gbogbo awọn aṣiṣe àtòjọ yio wa ni oju rere ti ikanni naa. Every balance may lose up to 0.009 STEEM due to rounding, but this amount of STEEM should be economically insignificant. Collectively all holders of SP will lose at most 0.009 STEEM.
 
 # Agbara ti Steem
 
