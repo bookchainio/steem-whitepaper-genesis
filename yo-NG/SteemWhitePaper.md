@@ -674,7 +674,7 @@ Ona miiran ti awon eeyan le gba na awon iye cryptocurrency kekere ti won gba nib
 
 ## Ìfòfinde
 
-Steem je ikanni kan ti ijoba rè ko si lojukan to n sise nipase awon oluwajade ni abẹ́ awon àṣẹ kaakiri agbaye. Gbogbo awon ise asamulo ni akosile gbangba lori blockchain naa, to si see ṣèwádìí ni gbangba. This means that there is no single entity that can censor content that is valued by STEEM holders.
+Steem je ikanni kan ti ijoba rè ko si lojukan to n sise nipase awon oluwajade ni abẹ́ awon àṣẹ kaakiri agbaye. Gbogbo awon ise asamulo ni akosile gbangba lori blockchain naa, to si see ṣèwádìí ni gbangba. Eyi tumo si pe kò si àjọ kan soso to le fofin de aroko to ni anfaani nipase awon to n di STEEM mu.
 
 Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
 
