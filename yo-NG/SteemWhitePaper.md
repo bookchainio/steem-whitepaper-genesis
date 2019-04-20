@@ -700,7 +700,7 @@ Creators posting to social media outlets that are connected to Steem may monetiz
 
 # Ipari
 
-Steem je ayewo kan ti a se lati yanju awon isoro to wa ninu awujo cryptocurrency ati ikanni ajolo nipase sisopo awon apa to dara ju lara mejeeji. Steem presents earning opportunities to content creators and internet readers in ways that have not existed within the social media industry. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards will have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem will have more exclusive earning powers than those who do not.
+Steem je ayewo kan ti a se lati yanju awon isoro to wa ninu awujo cryptocurrency ati ikanni ajolo nipase sisopo awon apa to dara ju lara mejeeji. Steem n ṣàgbékalẹ̀ awọn anfaani lati pa owó fun awọn tó n kọ aroko ati awọn to n ka lori intaneeti ní awọn ọna ti ko sí iru rẹ tẹlẹ laarin awujọ ikanni ajolo. Within Steem, individuals earn real rewards online that are directly correlated to their contributions. Those rewards will have dollar value due to the market price discovery and liquidity of Steem, and the people who hold Steem will have more exclusive earning powers than those who do not.
 
 # Awon itokasi
 
