@@ -626,9 +626,9 @@ Steem gba pe iye ti awon idaasi gbogbo asamulo (awon aroko ati idibo) tobi ju ap
 
 Nitori pe gbogbo eeyan lo n janfaani, o ye ki gbogbo eeyan sanwo. Eyi tumo si pe, ko ye lati reti ki asamulo kookan sanwo fun ohunkohun, sugbon o ye ki won gbowo fun gbogbo nnkan ti won ba se to n mu iyi ba Steem. Gbogbo ohun ti a nilo lati se ni ki a saridaju awon idaasi asamulo eyi to mu iyi ikanni ajolo kan wa ati awon eyi ti ko mu wa.
 
-Ni apapo awon asamulo Reddit ma n dibo nigba 220 ni iṣẹju aaya ati ṣẹda awon àròkọ 23 ni iṣẹju aaya. Reddit is valued between $500 million[^21] and $4 billion[^22] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year's worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. People go where people are today, not where people were last year.
+Ni apapo awon asamulo Reddit ma n dibo nigba 220 ni iṣẹju aaya ati ṣẹda awon àròkọ 23 ni iṣẹju aaya. Reddit is valued between $500 million[^21] and $4 billion[^22] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year's worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. Awon eeyan ma lo si ibi ti awon eeyan wa lonii, kii se ibi ti awon eeyan wa ni odun to koja.
 
-## No Micropayments, Tips Optional
+## Ko si awon Isanwo kekere, awon Ebun ko pon dandan
 
 Existing attempts at integrating a cryptocurrency into a social media platform have focused on enabling users to pay one another. Many services have attempted to introduce tipping. The theory is that if we make tipping simple enough then more people will do it. Other services attempt to get people to pay to promote or boost their content's ranking. Still others attempt to build small prediction markets on how many tips an article will receive.
 
