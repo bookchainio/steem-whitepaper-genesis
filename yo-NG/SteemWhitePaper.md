@@ -666,7 +666,7 @@ Steem yanju isoro yii nipase fifun gbogbo eeyan ni ona kan lati gbowo fun sise a
 
 A currency that is difficult to use or impossible to sell has little value. Someone who comes across $1.00 worth of Bitcoin will discover that it costs more than $1.00 to sell that Bitcoin. They have to create an account with an exchange, perform KYC validation, and pay fees. Small amounts of cryptocurrency are like small change that people are unwilling to bend over to pick up.
 
-Awon onisowo yio fun awon asamulo ni ona kan lati tete sayipada cryptocurrency won si awon ojulowo oja ati ise. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
+Awon onisowo yio fun awon asamulo ni ona kan lati tete sayipada cryptocurrency won si awon ojulowo oja ati ise. Awon onisowo nilo owo kan ti a seto si iwon owo won, to saba ma n je dola. Accepting a volatile currency introduces significant accounting overhead.
 
 Awon oníṣòwò yio gba eyikeyii owo ti o ba ma salekun oja tita won. Having a large user base with a stable currency such as SMD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
 
