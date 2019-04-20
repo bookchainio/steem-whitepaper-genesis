@@ -668,9 +668,9 @@ A currency that is difficult to use or impossible to sell has little value. Some
 
 Merchants give users a way to quickly convert their cryptocurrency into tangible goods and services. Merchants need a currency pegged to their unit of account, normally dollars. Accepting a volatile currency introduces significant accounting overhead.
 
-Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SMD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Awon oníṣòwò yio gba eyikeyii owo ti o ba ma salekun oja tita won. Having a large user base with a stable currency such as SMD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through tipping others. Eyi dabi fifi owo kekere naa kale gege bi ebun fun agbawó onje re. Nigba ti awọn eeyan to pọ bá fi awọn ẹbun kékèké kalẹ o ma parapọ di iye to ni itumọ kan. Iwọ ati agbawó onje naa jèrè anfaani kan lára ẹbùn naa.
+Ona miiran ti awon eeyan le gba na awon iye cryptocurrency kekere ti won gba nibi ikopa lori eto Steem naa je nipase fifun awon elomiran ni ebun. Eyi dabi fifi owo kekere naa kale gege bi ebun fun agbawó onje re. Nigba ti awọn eeyan to pọ bá fi awọn ẹbun kékèké kalẹ o ma parapọ di iye to ni itumọ kan. Iwọ ati agbawó onje naa jèrè anfaani kan lára ẹbùn naa.
 
 ## Censorship
 
