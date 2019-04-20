@@ -602,7 +602,7 @@ Ninu alekun 100% lodoodun ni ipese STEEM airi naa, 5% ninu re wa ni ipo Steem Do
 
 Ni kukuru gbogbo "níná" Steem naa lati sanwo esan aroko, amojuto, iwajade, ati nina já mọ́ 10% APR pere tabi 1.2% losoosu. Ifiranse ọrọ̀ kannaa le seese laisi iyipada kankan ninu ipese STEEM nipase lilo odi èlé ori owo lori STEEM to seé tà ní bii 10% losoosu. Ti a ba so lona miiran, o le seese nipase gbigba owo 3% kan (iru ti awon kaadi aropo owo) lori gbogbo ifiranse ati nini 1% ti gbogbo STEEM ti a firanse ni gbogbo ojo kookan. Ikanni Bitcoin ma n fi 400,000 BTC [^19] ranse ninu 15.5M (tabi 2.5% lojoojumo).
 
-Afojusun STEEM to seé tà ni lati mu ki awon iyipada ni níní rorun laarin awon to n dimu fun igba pipe. Iyipada ni níní yii ni ikanni naa "ti n gbowo" lati sanwo idagbasoke. A le fẹ́rẹ̀ẹ́ yera fun owo ori ifiranse yii nipase tita STEEM fun SMD lọ́sọ̀ọ̀sẹ̀ bii ikanni naa se n sayipada SP pada si STEEM. The total time spent holding STEEM will be so small that any impact of changing STEEM supply will be insigni cant next to volatility and other market fees.
+Afojusun STEEM to seé tà ni lati mu ki awon iyipada ni níní rorun laarin awon to n dimu fun igba pipe. Iyipada ni níní yii ni ikanni naa "ti n gbowo" lati sanwo idagbasoke. A le fẹ́rẹ̀ẹ́ yera fun owo ori ifiranse yii nipase tita STEEM fun SMD lọ́sọ̀ọ̀sẹ̀ bii ikanni naa se n sayipada SP pada si STEEM. Gbogbo akoko tí a na láti di STEEM mu yio kere gan-an to je pe ipa kankan ti yiyi ipese STEEM pada kò ní já mọ́ nǹkan kan lẹ́gbẹ̀ẹ́ àìní iye pato ati awọn owó ọjà miiran.
 
 ### Ipa ti Iwon Siseda Token To Ju Ipin Àádọ́rùn-ún nínú ọgọ́rùn-ún
 
