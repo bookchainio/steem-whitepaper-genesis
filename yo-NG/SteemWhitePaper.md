@@ -670,7 +670,7 @@ Merchants give users a way to quickly convert their cryptocurrency into tangible
 
 Merchants will accept any currency if it increases their sales. Having a large user base with a stable currency such as SMD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
 
-Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through tipping others. Eyi dabi fifi owo kekere naa kale gege bi ebun fun agbawó onje re. Nigba ti awọn eeyan to pọ bá fi awọn ẹbun kékèké kalẹ o ma parapọ di iye to ni itumọ kan. You and the waiter each gain a benefit from the tip.
+Another way that people can liquidate the small amounts of cryptocurrency they receive from participating on the Steem platform is through tipping others. Eyi dabi fifi owo kekere naa kale gege bi ebun fun agbawó onje re. Nigba ti awọn eeyan to pọ bá fi awọn ẹbun kékèké kalẹ o ma parapọ di iye to ni itumọ kan. Iwọ ati agbawó onje naa jèrè anfaani kan lára ẹbùn naa.
 
 ## Censorship
 
