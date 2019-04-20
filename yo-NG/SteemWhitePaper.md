@@ -602,7 +602,7 @@ Ninu alekun 100% lodoodun ni ipese STEEM airi naa, 5% ninu re wa ni ipo Steem Do
 
 Ni kukuru gbogbo "níná" Steem naa lati sanwo esan aroko, amojuto, iwajade, ati nina já mọ́ 10% APR pere tabi 1.2% losoosu. Ifiranse ọrọ̀ kannaa le seese laisi iyipada kankan ninu ipese STEEM nipase lilo odi èlé ori owo lori STEEM to seé tà ní bii 10% losoosu. Ti a ba so lona miiran, o le seese nipase gbigba owo 3% kan (iru ti awon kaadi aropo owo) lori gbogbo ifiranse ati nini 1% ti gbogbo STEEM ti a firanse ni gbogbo ojo kookan. Ikanni Bitcoin ma n fi 400,000 BTC [^19] ranse ninu 15.5M (tabi 2.5% lojoojumo).
 
-Afojusun STEEM to seé tà ni lati mu ki awon iyipada ni níní rorun laarin awon to n dimu fun igba pipe. Iyipada ni níní yii ni ikanni naa "ti n gbowo" lati sanwo idagbasoke. This transfer tax can be avoided almost completely by automatically selling STEEM for SMD every week as the network converts SP back to STEEM. The total time spent holding STEEM will be so small that any impact of changing STEEM supply will be insigni cant next to volatility and other market fees.
+Afojusun STEEM to seé tà ni lati mu ki awon iyipada ni níní rorun laarin awon to n dimu fun igba pipe. Iyipada ni níní yii ni ikanni naa "ti n gbowo" lati sanwo idagbasoke. A le fẹ́rẹ̀ẹ́ yera fun owo ori ifiranse yii nipase tita STEEM fun SMD lọ́sọ̀ọ̀sẹ̀ bii ikanni naa se n sayipada SP pada si STEEM. The total time spent holding STEEM will be so small that any impact of changing STEEM supply will be insigni cant next to volatility and other market fees.
 
 ### Ipa ti Iwon Siseda Token To Ju Ipin Àádọ́rùn-ún nínú ọgọ́rùn-ún
 
@@ -616,7 +616,7 @@ Alekun ninu ipese STEEM saba ma n je ohun isiro owo kan ti a seda nipase ife lat
 
 A side effect of increasing the supply is that the network will require ever increasing levels of precision in its accounting. On average the number of bits required to represent a typical account will grow by 1.3 per year. It will only take 10 years before numbers involved no longer fit within the 53 bit precision supported by JavaScript or the 64 bit precision supported by CPUs. Over time the magnitude of the numbers involved grows beyond human scale and comprehension; furthermore, the least significant bits have so little economic value as to render them meaningless.
 
-In order to compensate for the ever increasing precision, the STEEM network performs a 10:1 "reverse split" every 32,000,000 blocks (about 3 years). At this point in time all balances of STEEM are divided by 10 and all prices are multiplied by 10. Cryptocurrency exchanges will have to suspend trading around this time and update the account balances and price history to reflect the "reverse split" before resuming trading.
+In order to compensate for the ever increasing precision, the STEEM network performs a 10:1 "reverse split" every 32,000,000 blocks (about 3 years). At this point in time all balances of STEEM are divided by 10 and all prices are multiplied by 10. Awọn oja pasipaarọ cryptocurrency yíò nilo lati dawọ idunaadura duro ní akoko yii kí wọn sì ṣe imudojuiwọn àwọn iyoku owo account ati itan iye owo lati ṣafihan "ipinya àtoríkòdì" naa saaju ki idunaadura to bẹrẹ pada.
 
 All rounding errors will be in favor of the network. Every balance may lose up to 0.009 STEEM due to rounding, but this amount of STEEM should be economically insignificant. Collectively all holders of SP will lose at most 0.009 STEEM.
 
