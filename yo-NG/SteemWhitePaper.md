@@ -642,7 +642,7 @@ The mental energy associated with making an economic decision becomes a barrier 
 > 
 > *- Micropayments: A Viable Business Model [^23]*
 
-Labe Steem, awon isanwo kekere ni a san fun olootu aroko, sugbon awon to dibo fun aroko naa ko ni sanwo. Dipo, owo esan naa ma je sisan nipase awon token tuntun. Enikan le darapo mo eto naa, dibo lati sanwo fun enikan, ati jade kuro ninu eto naa pelu owo to po ju eyi ti won fi bere lo (pelu ero pe idiyele oja ti eto Steem ko yipada). In other words, the micropayment solution provided by Steem provides a user-experience similar to many widely used websites that have user-moderated content.
+Labe Steem, awon isanwo kekere ni a san fun olootu aroko, sugbon awon to dibo fun aroko naa ko ni sanwo. Dipo, owo esan naa ma je sisan nipase awon token tuntun. Enikan le darapo mo eto naa, dibo lati sanwo fun enikan, ati jade kuro ninu eto naa pelu owo to po ju eyi ti won fi bere lo (pelu ero pe idiyele oja ti eto Steem ko yipada). Eyi tumo si pe, ojútùú isanwo kekeke naa ti a pese nipase Steem yio pese ìrírí-asamulo to jo opolopo awon aaye ayelujara to gbajumo to si ni aroko ti asamulo n mojuto.
 
 Siwaju si i, Steem n sanwo fun awon eeyan lati ronu nipa eni to ye ko gbowo! Iru ironu yii je iyipada pataki.
 
@@ -672,7 +672,7 @@ Awon oníṣòwò yio gba eyikeyii owo ti o ba ma salekun oja tita won. Having a
 
 Ona miiran ti awon eeyan le gba na awon iye cryptocurrency kekere ti won gba nibi ikopa lori eto Steem naa je nipase fifun awon elomiran ni ebun. Eyi dabi fifi owo kekere naa kale gege bi ebun fun agbawó onje re. Nigba ti awọn eeyan to pọ bá fi awọn ẹbun kékèké kalẹ o ma parapọ di iye to ni itumọ kan. Iwọ ati agbawó onje naa jèrè anfaani kan lára ẹbùn naa.
 
-## Censorship
+## Ìfòfinde
 
 Steem is a decentralized network that is operated by miners in jurisdictions around the world. All user actions are publicly recorded on the blockchain, and can be publicly verified. This means that there is no single entity that can censor content that is valued by STEEM holders.
 
