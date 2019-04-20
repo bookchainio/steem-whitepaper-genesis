@@ -622,7 +622,7 @@ Gbogbo awọn aṣiṣe àtòjọ yio wa ni oju rere ti ikanni naa. Gbogbo iyoku
 
 # Agbara ti Steem
 
-Steem gba pe iye ti awon idaasi gbogbo asamulo (awon aroko ati idibo) tobi ju apapo awon ipin naa. Idaasi kan soso sunmo pe ko niye kankan lori, sugbon milionu awon aroko tia moju to ni iye to po to milionu (tabi koda bilionu paapa) dola. Ibo kan soso yio pese iye abojuto kekere, sugbon bilionu awon ibo je abojuto to se anfaani pupo. Aroko laisi abojuto ni iye kekere. Given all the content of the Internet minus the links between it, Google would struggle to produce useful search results. Awon isopo to wa laarin iroyin lo ma n fun ni iye to se pataki.
+Steem gba pe iye ti awon idaasi gbogbo asamulo (awon aroko ati idibo) tobi ju apapo awon ipin naa. Idaasi kan soso sunmo pe ko niye kankan lori, sugbon milionu awon aroko tia moju to ni iye to po to milionu (tabi koda bilionu paapa) dola. Ibo kan soso yio pese iye abojuto kekere, sugbon bilionu awon ibo je abojuto to se anfaani pupo. Aroko laisi abojuto ni iye kekere. Pelu ipese gbogbo akoonu ori intaneeti laisi awon isopo to wa laarin re, Google ma gbiyanju pupo lati gbe awon esi awari to wulo jade. Awon isopo to wa laarin iroyin lo ma n fun ni iye to se pataki.
 
 Nitori pe gbogbo eeyan lo n janfaani, o ye ki gbogbo eeyan sanwo. Eyi tumo si pe, ko ye lati reti ki asamulo kookan sanwo fun ohunkohun, sugbon o ye ki won gbowo fun gbogbo nnkan ti won ba se to n mu iyi ba Steem. Gbogbo ohun ti a nilo lati se ni ki a saridaju awon idaasi asamulo eyi to mu iyi ikanni ajolo kan wa ati awon eyi ti ko mu wa.
 
