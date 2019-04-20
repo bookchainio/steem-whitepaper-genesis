@@ -626,7 +626,7 @@ Steem gba pe iye ti awon idaasi gbogbo asamulo (awon aroko ati idibo) tobi ju ap
 
 Nitori pe gbogbo eeyan lo n janfaani, o ye ki gbogbo eeyan sanwo. Eyi tumo si pe, ko ye lati reti ki asamulo kookan sanwo fun ohunkohun, sugbon o ye ki won gbowo fun gbogbo nnkan ti won ba se to n mu iyi ba Steem. Gbogbo ohun ti a nilo lati se ni ki a saridaju awon idaasi asamulo eyi to mu iyi ikanni ajolo kan wa ati awon eyi ti ko mu wa.
 
-Ni apapo awon asamulo Reddit ma n dibo nigba 220 ni iṣẹju aaya ati ṣẹda awon àròkọ 23 ni iṣẹju aaya. Reddit is valued between $500 million[^21] and $4 billion[^22] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year's worth of activity. One could argue that most of the value of Reddit is the near-real-time discussions that have occurred within the past week which would dramatically increase the value of new activity. Awon eeyan ma lo si ibi ti awon eeyan wa lonii, kii se ibi ti awon eeyan wa ni odun to koja.
+Ni apapo awon asamulo Reddit ma n dibo nigba 220 ni iṣẹju aaya ati ṣẹda awon àròkọ 23 ni iṣẹju aaya. Reddit is valued between $500 million[^21] and $4 billion[^22] which means that each and every upvote and post is worth between $0.06 and $0.50 assuming the value of Reddit is mostly within the past year's worth of activity. Enikan le jiyan pe opo ninu awon iyi ti Reddit je awon ijiroro to sunmo-akoko-gidi to ti sele laarin ose to koja eyi ti yio salekun iyi awon ise tuntun naa. Awon eeyan ma lo si ibi ti awon eeyan wa lonii, kii se ibi ti awon eeyan wa ni odun to koja.
 
 ## Ko si awon Isanwo kekere, awon Ebun ko pon dandan
 
