@@ -676,7 +676,7 @@ Ona miiran ti awon eeyan le gba na awon iye cryptocurrency kekere ti won gba nib
 
 Steem je ikanni kan ti ijoba rè ko si lojukan to n sise nipase awon oluwajade ni abẹ́ awon àṣẹ kaakiri agbaye. Gbogbo awon ise asamulo ni akosile gbangba lori blockchain naa, to si see ṣèwádìí ni gbangba. Eyi tumo si pe kò si àjọ kan soso to le fofin de aroko to ni anfaani nipase awon to n di STEEM mu.
 
-Individual websites such as steemit.com may censor content on their particular site, but content published on the blockchain is inherently broadcast traffic and mirrors all around the world may continue to make it available.
+Awon aaye ayelujara kookan gege bi steemit.com le fofin de aroko lori aaye pato tiwon, sugbon aroko ti a ba satejade sori blockchain je pinpin sori awon eka kaakiri ati pe awon afijo kaakiri agbaye le tesiwaju lati mu ki o wa lárọ̀ọ́wọ́tó.
 
 Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
 
