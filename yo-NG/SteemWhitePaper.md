@@ -696,7 +696,7 @@ While a timestamping service can be built on almost any blockchain, and several 
 
 Labe opolopo awon àwòṣe siso aroko dowo, awon to n ko aroko ma n lo ipolowo fun anfaani won ni ona kan tabi omiran. Opolopo awon to n ko aroko mo bi ipolowo se le din iyi ise won ku si awon to ma mulo naa, sibesibe awon to n ko naa lọ́pọ̀ ìgbà gbodo wá awon idapada lori akoko won nipase siso dowo. Ipolowo duro fun idà olójú méjì kan: Pelu awon ipolowo, eni to n ko aroko le ri owo lona to rorun ju. Laisi awon ipolowo, siso dowo ma nira sugbon aroko naa ma nitumo.
 
-Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or "liked") by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
+Awon to n ko aroko sori awon ikanni ajolo ti a sopo mọ́ Steem le sò ó dowo nipase mimu ki awujo Steem da ise won mo (tabi "fẹ́ràn" re). Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
 
 # Ipari
 
