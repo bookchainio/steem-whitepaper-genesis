@@ -694,7 +694,7 @@ While a timestamping service can be built on almost any blockchain, and several 
 
 ## Ṣiṣe iropo Ipolowo pẹlu awọn Ẹsan Arokọ to dá lori Blockchain
 
-Under most content monetization models, content creators leverage advertising in one form or another. Many creators recognize how advertising may diminish their work's value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
+Labe opolopo awon àwòṣe siso aroko dowo, awon to n ko aroko ma n lo ipolowo fun anfaani won ni ona kan tabi omiran. Many creators recognize how advertising may diminish their work's value to the consumer, yet creators very often must seek returns on their time by monetizing. Advertising represents a double-edged sword: With ads, a creator can make money most easily. Without ads, monetization is difficult but the content is richer.
 
 Creators posting to social media outlets that are connected to Steem may monetize merely by having their work recognized (or "liked") by the Steem community. Blockchain-based payouts are completely digital and have no middle-man. Therefore monetization by blockchain-based content rewards should be faster and much lower barrier to use than monetization by advertisements.
 
