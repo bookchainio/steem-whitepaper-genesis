@@ -666,7 +666,7 @@ Steem yanju isoro yii nipase fifun gbogbo eeyan ni ona kan lati gbowo fun sise a
 
 Owo kan to nira lati lo tabi ti ko seese lati ta ni iwulo kekere. Eni to ba ri iye Bitcoin to je $1.00 yio ri pe o ma ná ju $1.00 lati ta Bitcoin yen. Won ni lati seda account kan pelu oja pasipaaro kan, se ìjẹ́rìísí KYC, ati san awon owo. Awon iye cryptocurrency kekeke dabi awon owo kekeke ti awon eeyan ko fe bẹ̀rẹ̀ mọ́lẹ̀ lati mu.
 
-Awon onisowo yio fun awon asamulo ni ona kan lati tete sayipada cryptocurrency won si awon ojulowo oja ati ise. Awon onisowo nilo owo kan ti a seto si iwon owo won, to saba ma n je dola. Gbigba owo to ko ni iye pato kan yio mu inawo isiro-owo to po wa.
+Awon onisowo yio fun awon asamulo ni ona kan lati tete sayipada cryptocurrency won si awon ojulowo oja ati ise. Awon onisowo nilo owo kan ti a seto si iwon owo won, to saba ma n je dola. Gbigba owo ti ko ni iye pato kan yio mu inawo isiro-owo to po wa.
 
 Awon oníṣòwò yio gba eyikeyii owo ti o ba ma salekun oja tita won. Having a large user base with a stable currency such as SMD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
 
