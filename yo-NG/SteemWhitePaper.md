@@ -614,7 +614,7 @@ Fun odun 2 akoko ti aye Bitcoin ikanni naa ni iye ọ̀wọ́n kan[^20] tó ju 1
 
 Alekun ninu ipese STEEM saba ma n je ohun isiro owo kan ti a seda nipase ife lati yera fun gbigba odi èlé ori owo lori STEEM to seé tà. Odi èlé ori owo yio ko inira ba aye awon oja pasipaaro eyi ti won ma nilo lati satunse awon iyoku owo asamulo lati ni akoole fun odi iye idapada ti STEEM ti won gba toju. Sise afijo ogbon blockchain naa gẹ́lẹ́ yio tete mu asise wa ti yio si dá kún wàhálà isopo ati lilo. Nitori naa, STEEM ti pinnu lati má gbowo ninu account enikeni, sugbon dipo lati se alekun ipese. Eyi yio mu esi ọrọ̀ ajé to jọra kan lai fi ipá mu kí gbogbo eeyan gba isanwo STEEM lati lo odi èlé ori owo lori iwe isiro owo won.
 
-Ipalara kan ti sise alekun ipese ni pe ikanni naa yio nilo awon ìwọ̀n ìṣepàtó tí ń pọ̀ sí i ninu sise isiro owo rẹ̀. Nomba bits ti a saba nilo lati duro fun account kan tí a lè wò bí àpẹẹrẹ yio ma lekun lona 1.3 lodoodun. It will only take 10 years before numbers involved no longer fit within the 53 bit precision supported by JavaScript or the 64 bit precision supported by CPUs. Over time the magnitude of the numbers involved grows beyond human scale and comprehension; furthermore, the least significant bits have so little economic value as to render them meaningless.
+Ipalara kan ti sise alekun ipese ni pe ikanni naa yio nilo awon ìwọ̀n ìṣepàtó tí ń pọ̀ sí i ninu sise isiro owo rẹ̀. Nomba bits ti a saba nilo lati duro fun account kan tí a lè wò bí àpẹẹrẹ yio ma lekun lona 1.3 lodoodun. Odun 10 nikan ni yio gba saaju ki awon nomba to n sise kò fi ni le wà laarin isepato 53 bit ti JavaScript se atileyin fun tabi isepato 64 bit ti awon CPU se atileyin fun. Over time the magnitude of the numbers involved grows beyond human scale and comprehension; furthermore, the least significant bits have so little economic value as to render them meaningless.
 
 Lati le se iropo fun pipeye to tubo ń pọ̀ sí naa, ikanni STEEM ma se "ipinya àtoríkòdì" 10:1 kan ni gbogbo bulooku 32,000,000 (bii odun 3). Ní bayii gbogbo awọn iyokù STEEM ma jẹ pínpín lọna 10 ti gbogbo iye owo si ma jẹ ilopo 10. Awọn oja pasipaarọ cryptocurrency yíò nilo lati dawọ idunaadura duro ní akoko yii kí wọn sì ṣe imudojuiwọn àwọn iyoku owo account ati itan iye owo lati ṣafihan "ipinya àtoríkòdì" naa saaju ki idunaadura to bẹrẹ pada.
 
@@ -634,7 +634,7 @@ Awon igbiyanju to wa tele lati se asopo cryptocurrency kan sinu eto ikanni ajolo
 
 Eyi to wa se pataki ju ninu gbogbo awon igbiyanju wonyi ni awon isanwo kekeke. Ona ti won fi yato nikan ni eni to n sanwo naa. Gbogbo won n jiya lara aini ilowosi tó pọ̀ tó ti awon eeyan to n san awon owo kekeke naa. In the search for incentivised content production entrepreneurs have been so focused on who should pay that they missed the obvious reality: everyone benefits from everyone's actions so everyone should pay or no one should pay, depending on how you look at it.
 
-Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. The same amount of money will be spent whether the user upvotes a post or not and the funds will not come from the voter.
+Steem bypasses micropayments completely because when a user upvotes a post it is the community that pays the bill. Iye owo kanna ni yio je nina boya asamulo naa dibo fun aroko kan tabi kò dibo ati pe awon owo naa kò ni wá lati odo oludibo naa.
 
 The mental energy associated with making an economic decision becomes a barrier to participation for most people.
 
