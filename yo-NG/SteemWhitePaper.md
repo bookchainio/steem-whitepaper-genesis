@@ -612,7 +612,7 @@ Fun odun 2 akoko ti aye Bitcoin ikanni naa ni iye ọ̀wọ́n kan[^20] tó ju 1
 
 ### Isiro owo Ni Steem
 
-Alekun ninu ipese STEEM saba ma n je ohun isiro owo kan ti a seda nipase ife lati yera fun gbigba odi èlé ori owo lori STEEM to seé tà. Odi èlé ori owo yio ko inira ba aye awon oja pasipaaro eyi ti won ma nilo lati satunse awon iyoku owo asamulo lati ni akoole fun odi iye idapada ti STEEM ti won gba toju. Mirroring the blockchain logic exactly would be error prone and complicate integration and adoption. Nitori naa, STEEM ti pinnu lati má gbowo ninu account enikeni, sugbon dipo lati se alekun ipese. This achieves a similar economic result without forcing everyone accepting STEEM deposits to implement negative interest rates on their internal ledger.
+Alekun ninu ipese STEEM saba ma n je ohun isiro owo kan ti a seda nipase ife lati yera fun gbigba odi èlé ori owo lori STEEM to seé tà. Odi èlé ori owo yio ko inira ba aye awon oja pasipaaro eyi ti won ma nilo lati satunse awon iyoku owo asamulo lati ni akoole fun odi iye idapada ti STEEM ti won gba toju. Sise afijo ogbon blockchain naa gẹ́lẹ́ yio tete mu asise wa ti yio si dá kún wàhálà isopo ati lilo. Nitori naa, STEEM ti pinnu lati má gbowo ninu account enikeni, sugbon dipo lati se alekun ipese. Eyi yio mu esi ọrọ̀ ajé to jọra kan lai fi ipá mu kí gbogbo eeyan gba isanwo STEEM lati lo odi èlé ori owo lori iwe isiro owo won.
 
 A side effect of increasing the supply is that the network will require ever increasing levels of precision in its accounting. On average the number of bits required to represent a typical account will grow by 1.3 per year. It will only take 10 years before numbers involved no longer fit within the 53 bit precision supported by JavaScript or the 64 bit precision supported by CPUs. Over time the magnitude of the numbers involved grows beyond human scale and comprehension; furthermore, the least significant bits have so little economic value as to render them meaningless.
 
@@ -678,11 +678,11 @@ Steem je ikanni kan ti ijoba rè ko si lojukan to n sise nipase awon oluwajade n
 
 Awon aaye ayelujara kookan gege bi steemit.com le fofin de aroko lori aaye pato tiwon, sugbon aroko ti a ba satejade sori blockchain je pinpin sori awon eka kaakiri ati pe awon afijo kaakiri agbaye le tesiwaju lati mu ki o wa lárọ̀ọ́wọ́tó.
 
-Freedom of speech is the foundation of all other liberties and any infringement upon freedom of speech undermines the only peaceful means of reaching consensus: discussion. Without free discussion voters cannot be fully informed, and uninformed voters are a greater threat to society than losing the right to vote. Censorship is a means of stealing votes through limiting public discourse. Steem is committed to enabling free speech and building a free society.
+Òmìnira ọ̀rọ̀ sísọ je ipile gbogbo awon ominira yooku ati pe iyanje kankan lori ominira oro siso yoo sakoba fun ona alaafia kan soso to wa lati ri isokan: ijiroro. Laisi ominira ijiroro awon oludibo ko le ní òye kíkún, ati pe awon oludibo ti ko ni oye kikun je ewu nla si awujo ju pipadanu ẹ̀tọ́ lati dibo naa. Ìfòfinde je ona kan lati ji awon ibo nipase fifi aala si ijiroro gbangba. Steem is committed to enabling free speech and building a free society.
 
 ## Solving Organic Discovery via Search Engine Optimization
 
-Most cryptocurrencies generate little value for those who are not actively using the network. Steem, by contrast, generates content and encourages users to share it. This content gets indexed by search engines and ultimately will bring value to a large number of passive users. This search traffic creates organic advertising for the Steem network and grows the network effect.
+Opolopo awon cryptocurrecy ma n pese iwulo kekere fun awon ti kìí fi taratara lo ikanni naa. Steem, ni idakeji, n pese aroko ti o si n gba awon asamulo niyanju láti sọ nípa rẹ̀. Aroko yii yio gba itokasi nipase awon ẹ̀rọ isawari ati pe yio mu iwulo wa fun opolopo awon asamulo aláìṣiṣẹ́ níkẹyìn. This search traffic creates organic advertising for the Steem network and grows the network effect.
 
 ## Shifting Toward Blockchain-based Attribution
 
