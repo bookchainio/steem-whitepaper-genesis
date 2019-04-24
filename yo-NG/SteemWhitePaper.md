@@ -686,7 +686,7 @@ Opolopo awon cryptocurrecy ma n pese iwulo kekere fun awon ti kìí fi taratara 
 
 ## Yiyi pada si Ohun idanimo to da lori Blockchain
 
-Íntánẹ́ẹ̀tì duro fun ona to rorun ju fun pinpin iroyin kaakiri agbaye. Pelu eyi ti a so yii, o le je aaye kan to n ba ni leru fun awon to n ko aroko ti won yio si feran lati ní aroko won ati je ko gba pinpin pelu ohun idanimo tó yẹ. Lori awon eto ikanni ajolo lowolowo, ohun idanimo je nnkan kan to le ṣàdédé sonu - fidio tabi aworan kan ti a gbe jade le gba ìfijọ repete ati atunpin laisi iyanda tabi ibowo fun eni to seda re naa.
+Íntánẹ́ẹ̀tì duro fun ona to rorun ju fun pinpin iroyin kaakiri agbaye. Pelu eyi ti a so yii, o le je aaye kan to n ba ni leru fun awon oludasile aroko ti yio feran lati ní aroko won ati je ko gba pinpin pelu ohun idanimo tó yẹ. Lori awon eto ikanni ajolo lowolowo, ohun idanimo je nnkan kan to le ṣàdédé sonu - fidio tabi aworan kan ti a gbe jade le gba ìfijọ repete ati atunpin laisi iyanda tabi ibowo fun oludasile naa.
 
 Labẹ ikanni ajolo tó dá lori blockchain, ẹni tó kọ arokọ kan yóò lè ma tọka sí akọsilẹ gbangba kan ati ontẹ akoko ti yio safihan ẹri orisun arokọ wọn. In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
 
@@ -694,9 +694,9 @@ While a timestamping service can be built on almost any blockchain, and several 
 
 ## Ṣiṣe iropo Ipolowo pẹlu awọn Ẹsan Arokọ to dá lori Blockchain
 
-Labe opolopo awon àwòṣe siso aroko dowo, awon to n ko aroko ma n lo ipolowo fun anfaani won ni ona kan tabi omiran. Opolopo awon to n ko aroko mo bi ipolowo se le din iyi ise won ku si awon to ma mulo naa, sibesibe awon to n ko naa lọ́pọ̀ ìgbà gbodo wá awon idapada lori akoko won nipase siso dowo. Ipolowo duro fun idà olójú méjì kan: Pelu awon ipolowo, eni to n ko aroko le ri owo lona to rorun ju. Laisi awon ipolowo, siso dowo ma nira sugbon aroko naa ma nitumo.
+Labe opolopo awon àwòṣe siso aroko dowo, awon oludasile aroko ma n lo ipolowo fun anfaani won ni ona kan tabi omiran. Opolopo awon oludasile mo bi ipolowo se le din iyi ise won ku si awon to ma mulo naa, sibesibe awon oludasile lọ́pọ̀ ìgbà gbodo wá awon idapada lori akoko won nipase siso dowo. Ipolowo duro fun idà olójú méjì kan: Pelu awon ipolowo, oludasile kan le ri owo lona to rorun ju. Laisi awon ipolowo, siso dowo ma nira sugbon aroko naa ma nitumo.
 
-Awon to n ko aroko sori awon ikanni ajolo ti a sopo mọ́ Steem le sò ó dowo nipase mimu ki awujo Steem da ise won mo (tabi "fẹ́ràn" re). Awon isanwo to da lori blockchain je digital patapata ti ko si ni alárinà. Nitori naa o ye kí siso dowo nipase awon esan to da lori blockchain yára ati pe yio ni ìdènà to kere pupo lati lo ju siso dowo nipase awon ipolowo.
+Awon oludasile to n gbe ise jade sori awon ikanni ajolo ti a sopo mọ́ Steem le sò ó dowo nipase mimu ki awujo Steem da ise won mo (tabi "fẹ́ràn" re). Awon isanwo to da lori blockchain je digital patapata ti ko si ni alárinà. Nitori naa o ye kí siso dowo nipase awon esan to da lori blockchain yára ati pe yio ni ìdènà to kere pupo lati lo ju siso dowo nipase awon ipolowo.
 
 # Ipari
 
