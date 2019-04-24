@@ -684,9 +684,9 @@ Awon aaye ayelujara kookan gege bi steemit.com le fofin de aroko lori aaye pato 
 
 Opolopo awon cryptocurrecy ma n pese iwulo kekere fun awon ti kìí fi taratara lo ikanni naa. Steem, ni idakeji, n pese aroko ti o si n gba awon asamulo niyanju láti sọ nípa rẹ̀. Aroko yii yio gba itokasi nipase awon ẹ̀rọ isawari ati pe yio mu iwulo wa fun opolopo awon asamulo aláìṣiṣẹ́ níkẹyìn. This search traffic creates organic advertising for the Steem network and grows the network effect.
 
-## Shifting Toward Blockchain-based Attribution
+## Yiyi pada si Ohun idanimo to da lori Blockchain
 
-The internet represents the easiest medium for distributing information in the world. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
+Íntánẹ́ẹ̀tì duro fun ona to rorun ju fun pinpin iroyin kaakiri agbaye. With that said, it can be a frightening place for content creators who would like to own their content and have it shared with proper attribution. On current social media platforms, attribution is something that can be lost overnight - a posted video or image can be replicated and re-shared without consent or regard for the creator.
 
 Labẹ ikanni ajolo tó dá lori blockchain, ẹni tó kọ arokọ kan yóò lè ma tọka sí akọsilẹ gbangba kan ati ontẹ akoko ti yio safihan ẹri orisun arokọ wọn. In a circumstance where a creator would like to address those who have re-shared without permission or attribution, blockchain-based records provide public proof that the content was posted by a particular user at a particular time. In the future, blockchain-based attribution could come to be recognized by governments for its authenticity and could hold weight in court, which would give content creators greater powers to control their work.
 
