@@ -654,7 +654,7 @@ Awọn isopo le wá ní orisirisi ona tí wọn si n bá ipo mu bi akoko ti n lo
 
 Ikanni ajolo kan le salekun iyi ti a le ri lara apapo awon aroko kan nipase sise alekun iye ati ìjójúlówó awon isopo. Sise amojuto aroko máa ń náni lówó ati pe o máa ń gba àkókò nigbati o si sunmo aláìṣeéṣe fun awon komputa lati se laisi awon isopo. Steem ma n san esan fun awon asamulo to wa lara awon to koko sawari ati sopo mo aroko tuntun.
 
-By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
+Nipase sise iwuri fun amojuto ikanni Steem ni aaye lati lo awon ilana to n sise funra won lati gbe iroyin to wulo ju jade lara opolopo awon aroko.
 
 ## Wiwa ojutuu si Isoro Wiwo inu Cryptocurrency
 
