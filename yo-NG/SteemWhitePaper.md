@@ -668,7 +668,7 @@ Owo kan to nira lati lo tabi ti ko seese lati ta ni iwulo kekere. Eni to ba ri i
 
 Awon onisowo yio fun awon asamulo ni ona kan lati tete sayipada cryptocurrency won si awon ojulowo oja ati ise. Awon onisowo nilo owo kan ti a seto si iwon owo won, to saba ma n je dola. Gbigba owo ti ko ni iye pato kan yio mu inawo isiro-owo to po wa.
 
-Awon oníṣòwò yio gba eyikeyii owo ti o ba ma salekun oja tita won. Having a large user base with a stable currency such as SMD lowers the barrier to entry for merchants. The presence of merchants improves the system by creating an off-ramp for users to exit the system without going to the trouble of using an exchange.
+Awon oníṣòwò yio gba eyikeyii owo ti o ba ma salekun oja tita won. Having a large user base with a stable currency such as SMD lowers the barrier to entry for merchants. Wíwà awon onisowo naa yio mu ilosiwaju ba eto naa nipase siseda abajade kan fun awon asamulo lati jade ninu eto naa lai koju isoro ti lilo oja pasipaaro kan.
 
 Ona miiran ti awon eeyan le gba na awon iye cryptocurrency kekere ti won gba nibi ikopa lori eto Steem naa je nipase fifun awon elomiran ni ebun. Eyi dabi fifi owo kekere naa kale gege bi ebun fun agbawó onje re. Nigba ti awọn eeyan to pọ bá fi awọn ẹbun kékèké kalẹ o ma parapọ di iye to ni itumọ kan. Iwọ ati agbawó onje naa jèrè anfaani kan lára ẹbùn naa.
 
@@ -680,9 +680,9 @@ Awon aaye ayelujara kookan gege bi steemit.com le fofin de aroko lori aaye pato 
 
 Òmìnira ọ̀rọ̀ sísọ je ipile gbogbo awon ominira yooku ati pe iyanje kankan lori ominira oro siso yoo sakoba fun ona alaafia kan soso to wa lati ri isokan: ijiroro. Laisi ominira ijiroro awon oludibo ko le ní òye kíkún, ati pe awon oludibo ti ko ni oye kikun je ewu nla si awujo ju pipadanu ẹ̀tọ́ lati dibo naa. Ìfòfinde je ona kan lati ji awon ibo nipase fifi aala si ijiroro gbangba. Steem ni adehun lati fi aaye gba ominira oro siso ati kíkọ́ awujo to ni ominira kan.
 
-## Solving Organic Discovery via Search Engine Optimization
+## Wiwa ojutuu si Awari Alaisanwo fun nipase Ìwádìíjálẹ̀ Ẹ̀rọ
 
-Opolopo awon cryptocurrecy ma n pese iwulo kekere fun awon ti kìí fi taratara lo ikanni naa. Steem, ni idakeji, n pese aroko ti o si n gba awon asamulo niyanju láti sọ nípa rẹ̀. Aroko yii yio gba itokasi nipase awon ẹ̀rọ isawari ati pe yio mu iwulo wa fun opolopo awon asamulo aláìṣiṣẹ́ níkẹyìn. This search traffic creates organic advertising for the Steem network and grows the network effect.
+Opolopo awon cryptocurrecy ma n pese iwulo kekere fun awon ti kìí fi taratara lo ikanni naa. Steem, ni idakeji, n pese aroko ti o si n gba awon asamulo niyanju láti sọ nípa rẹ̀. Aroko yii yio gba itokasi nipase awon ẹ̀rọ isawari ati pe yio mu iwulo wa fun opolopo awon asamulo aláìṣiṣẹ́ níkẹyìn. Ibewo isawari yii yio sagbekale ipolowo alaisanwo fun fún ikanni Steem naa ti yio si mu idagbasoke bá ipa ikanni naa.
 
 ## Yiyi pada si Ohun idanimo to da lori Blockchain
 
