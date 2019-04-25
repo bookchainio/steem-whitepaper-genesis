@@ -668,7 +668,7 @@ Owo kan to nira lati lo tabi ti ko seese lati ta ni iwulo kekere. Eni to ba ri i
 
 Awon onisowo yio fun awon asamulo ni ona kan lati tete sayipada cryptocurrency won si awon ojulowo oja ati ise. Awon onisowo nilo owo kan ti a seto si iwon owo won, to saba ma n je dola. Gbigba owo ti ko ni iye pato kan yio mu inawo isiro-owo to po wa.
 
-Awon oníṣòwò yio gba eyikeyii owo ti o ba ma salekun oja tita won. Having a large user base with a stable currency such as SMD lowers the barrier to entry for merchants. Wíwà awon onisowo naa yio mu ilosiwaju ba eto naa nipase siseda abajade kan fun awon asamulo lati jade ninu eto naa lai koju isoro ti lilo oja pasipaaro kan.
+Awon oníṣòwò yio gba eyikeyii owo ti o ba ma salekun oja tita won. Nini awon asamulo to po pelu owo to fẹsẹ̀ múlẹ̀ bíi SMD yio dín ìdènà ìwọlé naa kù fun awon onisowo. Wíwà awon onisowo naa yio mu ilosiwaju ba eto naa nipase siseda abajade kan fun awon asamulo lati jade ninu eto naa lai koju isoro ti lilo oja pasipaaro kan.
 
 Ona miiran ti awon eeyan le gba na awon iye cryptocurrency kekere ti won gba nibi ikopa lori eto Steem naa je nipase fifun awon elomiran ni ebun. Eyi dabi fifi owo kekere naa kale gege bi ebun fun agbawó onje re. Nigba ti awọn eeyan to pọ bá fi awọn ẹbun kékèké kalẹ o ma parapọ di iye to ni itumọ kan. Iwọ ati agbawó onje naa jèrè anfaani kan lára ẹbùn naa.
 
