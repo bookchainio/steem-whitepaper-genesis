@@ -662,7 +662,7 @@ Ko rorun lati wo inu cryptocurrency[^24]. Enikan to ba ṣẹ̀ṣẹ̀ rí Bitc
 
 Steem yanju isoro yii nipase fifun gbogbo eeyan ni ona kan lati gbowo fun sise awon ise to rorun, sugbon to pataki. Eyi yio se iranlowo lati pin awon token STEEM kaakiri. Eyi wulo nitori pe awon cryptocurrency ni ipa ikanni kan (iyen ni pe awon asamulo to po yio mu ko wulo pupo; fun apeere nla kan, woye wipe ti Satoshi ba toju 100% Bitcoin fun ara re, Bitcoin ko le ni iwulo).
 
-## Solving the Cryptocurrency Liquidation Problem
+## Wiwa ojutuu si Isoro Ìpalẹ̀mọ́ Cryptocurrency
 
 Owo kan to nira lati lo tabi ti ko seese lati ta ni iwulo kekere. Eni to ba ri iye Bitcoin to je $1.00 yio ri pe o ma ná ju $1.00 lati ta Bitcoin yen. Won ni lati seda account kan pelu oja pasipaaro kan, se ìjẹ́rìísí KYC, ati san awon owo. Awon iye cryptocurrency kekeke dabi awon owo kekeke ti awon eeyan ko fe bẹ̀rẹ̀ mọ́lẹ̀ lati mu.
 
