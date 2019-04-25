@@ -652,7 +652,7 @@ Siwaju si i, Steem n sanwo fun awon eeyan lati ronu nipa eni to ye ko gbowo! Iru
 
 Awọn isopo le wá ní orisirisi ona tí wọn si n bá ipo mu bi akoko ti n lo. Gbogbo igba ti asamulo kan ba dibo lori aroko ni ikanni ajolo kan won safikun isopo kan laarin ara won ati aroko naa. Eyi ma wa se isopo asamulo naa si oludasile naa nipase aroko naa. Bi awon isopo ti ikanni kan ni ba se po to ni bi iroyin naa yio se niyi to. Ìṣàsopọ̀ ti a mọ̀ọ́mọ̀ se laarin awon iroyin lo n fun un ni iyi.
 
-A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of links. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and link to new content.
+Ikanni ajolo kan le salekun iyi ti a le ri lara apapo awon aroko kan nipase sise alekun iye ati ìjójúlówó awon isopo. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and link to new content.
 
 By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
 
