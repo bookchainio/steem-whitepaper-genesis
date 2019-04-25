@@ -656,7 +656,7 @@ A social network can maximize the value extracted from a set of content by maxim
 
 By incentivising curation the Steem network is able to use automated algorithms to extract the most valuable information from a massive amount of content.
 
-## Solving the Cryptocurrency Onboarding Problem
+## Wiwa ojutuu si Isoro Wiwo inu Cryptocurrency
 
 Ko rorun lati wo inu cryptocurrency[^24]. Enikan to ba ṣẹ̀ṣẹ̀ rí Bitcoin to si fe gbiyanju re wo ma tete kekoo pe won ni lati forukosile pelu oja pasipaaro kan ati sanwo si account won pelu káàdì arọ́pò owó tabi fifi owo ranse lori ayelujara. Bawo ni iye itewogba ti Facebook ì ba se ri ti o ba ni lati sanwo ati ID orisi meji kan?
 
