@@ -632,7 +632,7 @@ Ni apapo awon asamulo Reddit ma n dibo nigba 220 ni iṣẹju aaya ati ṣẹda 
 
 Awon igbiyanju to wa tele lati se asopo cryptocurrency kan sinu eto ikanni ajolo kan ti doju ko fifi aaye gba awon asamulo lati sanwo fun ara won. Opolopo awon ise ti gbiyanju lati sagbekale fi funni lebun. Arojinle naa ni pe ti a ba mu fi funni lebun rorun daadaa nigba naa awon eeyan pupo máa ṣe. Awon ise miiran gbiyanju lati mu ki awon eeyan sanwo lati sagbega tabi satileyin ipo ti aroko won. Sibesibe awon miiran gbiyanju lati seto awon oja asotele kekeke lori iye awon ebun ti aroko kan ma gba.
 
-Eyi to wa se pataki ju ninu gbogbo awon igbiyanju wonyi ni awon isanwo kekeke. Ona ti won fi yato nikan ni eni to n sanwo naa. Gbogbo won n jiya lara aini ilowosi tó pọ̀ tó ti awon eeyan to n san awon owo kekeke naa. Ni isawari fun ìgbéjáde aroko pelu iwuri awon onisowo ti ronu pupo lori eni to ye ko sanwo titi won fi padanu ooto to fojuhan: gbogbo eeyan lo n je anfaani lara ise 
+Eyi to wa se pataki ju ninu gbogbo awon igbiyanju wonyi ni awon isanwo kekeke. Ona ti won fi yato nikan ni eni to n sanwo naa. Gbogbo won n jiya lara aini ilowosi tó pọ̀ tó ti awon eeyan to n san awon owo kekeke naa. Ninu isawari fun ìgbéjáde aroko pelu iwuri awon onisowo ti ronu pupo lori eni to ye ko sanwo titi won fi padanu ooto to fojuhan: gbogbo eeyan lo n je anfaani lara awọn ise ti gbogbo eeyan nítorí naa o yẹ ki gbogbo eeyan sanwó tabi kí ẹnikẹni má sanwo, ó dá lori bi o bá ṣe wo o.
 
 Steem paá awon isanwo kekeke tì patapata nitori pe ti asamulo kan ba dibo fun aroko kan awujo lo ma sanwo naa. Iye owo kanna ni yio je nina boya asamulo naa dibo fun aroko kan tabi kò dibo ati pe awon owo naa kò ni wá lati odo oludibo naa.
 
