@@ -650,7 +650,7 @@ Siwaju si i, Steem n sanwo fun awon eeyan lati ronu nipa eni to ye ko gbowo! Iru
 
 Íntánẹ́ẹ̀tì yio padanu eyi to po ju lara iyi re ti gbogbo awon isopo laarin awọn aroko ba gba yíyọ kuro. Ibasepo to wa laarin awon oju ewe ayelujara lo fi aaye gba Google lati sawari apejuwe apple pie to dara ju lara awon esi milionu 16 naa. Laisi awon isopo naa iroyin kan soso ti Google yio ní ni iwopo oro.
 
-Awọn isopo le wá ní orisirisi ona tí wọn si n bá ipo mu bi akoko ti n lo. Gbogbo igba ti asamulo kan ba dibo lori aroko ni ikanni ajolo kan won safikun isopo kan laarin ara won ati aroko naa. Eyi ma wa se isopo asamulo naa si oludasile naa nipase aroko naa. Bi awon isopo ti ikanni kan ni ba se po to ni bi iroyin naa yio se niyi to. It is the relative and intentional connectedness of information that gives it value.
+Awọn isopo le wá ní orisirisi ona tí wọn si n bá ipo mu bi akoko ti n lo. Gbogbo igba ti asamulo kan ba dibo lori aroko ni ikanni ajolo kan won safikun isopo kan laarin ara won ati aroko naa. Eyi ma wa se isopo asamulo naa si oludasile naa nipase aroko naa. Bi awon isopo ti ikanni kan ni ba se po to ni bi iroyin naa yio se niyi to. Ìṣàsopọ̀ ti a mọ̀ọ́mọ̀ se laarin awon iroyin lo n fun un ni iyi.
 
 A social network can maximize the value extracted from a set of content by maximizing the quantity and quality of links. Curating content is expensive and time consuming while being near impossible for computers to perform in the absence of links. Steem rewards users who are among the first to find and link to new content.
 
