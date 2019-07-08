@@ -60,13 +60,13 @@ Die Votingbeteiligung der Community-Mitglieder ist entscheidend für Steem, um d
 
 Es gibt weitere Arten des Beitrages die Steem anerkennt und belohnt die Benutzung objektiver Kennzahlen. Darunter sind folgende: Transaktionsüberprüfung, "Proof of Work"-mining, Liquiditätsbelohnung und das Aufzeigen von fehlverhaltenden Blockerstellern.
 
-# Ways to Contribute
+# Möglichkeiten der Teilnahme
 
-This section outlines the ideas behind Steem and its rewards for people who provide meaningful and measurable contributions to the Steem community.
+Dieser Abschnitt umfasst die Ideen hinter Steem und seinen Belohnungen für Menschen, die bedeutungsvolle und messbare Beiträge zur Steem-Community leisten.
 
-## Capital Contributions
+## Kapital-Beitrag
 
-There are two items a community can offer to attract capital: debt and ownership. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
+Es gibt zwei Dinge, die eine Community anbieten kann, um Kapital anzuziehen: Schulden und Eigentum. Those who buy ownership profit when the community grows but lose if the community shrinks. Those who buy debt are guaranteed a certain amount of interest but do not get to participate in any profits realized by the growth of the community. Both types of capital contributions are valuable to the growth of the community and value of its currency. Additionally there are two ways ownership can be held: liquid and vesting. Vesting ownership makes a long-term commitment and cannot be sold for a minimum period of time.
 
 The Steem network calls these different asset classes Steem (STEEM), Steem Power (SP), and Steem Dollars (SMD).
 
