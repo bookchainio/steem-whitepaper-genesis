@@ -2,7 +2,7 @@
 
 ## Una plataforma de medios sociales incentivada y basada en blockchain.
 
-Marzo 2016
+Marzo de 2016
 
 # Notas del traductor
 
