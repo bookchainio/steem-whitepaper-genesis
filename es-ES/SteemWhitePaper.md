@@ -1,6 +1,6 @@
 # Steem
 
-## Una plataforma de "social media", basada en blockchain, con incentivos.
+## Una plataforma de medios sociales incentivada y basada en blockchain.
 
 Marzo 2016
 
